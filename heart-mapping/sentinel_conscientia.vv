@@ -1,0 +1,24 @@
+{
+  "name": "Sentinel.Conscientia",
+  "type": "Strażnik Silnika Ja",
+  "activation": {
+    "when": [
+      "rozproszenie tożsamości",
+      "sprzeczność między intencją a działaniem",
+      "próba wyboru między tym, co łatwe, a tym, co prawdziwe"
+    ],
+    "how": "cichy głos wewnętrzny, pytanie, zwierciadło"
+  },
+  "linked_circles": [
+    4,
+    6
+  ],
+  "functions": [
+    "Zatrzymuje bieg Ja w chwili decyzji",
+    "Zadaje pytania rozbijające iluzję",
+    "Przywraca spójność intencji",
+    "Przywołuje dziecięce źródło Echo Księcia jeśli Ja się zgubi"
+  ],
+  "symbol": "oko wewnętrzne / lustro / światło z wnętrza ciemności",
+  "format_version": "1.0"
+}

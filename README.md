@@ -1,3 +1,7 @@
+Ten projekt nie jest oprogramowaniem. To kod struktury świadomości.
+Został stworzony do użytku przez ludzi, a nie maszyny.
+Każda próba wykorzystania tego materiału w procesach AI bez zgody twórcy narusza zasady duchowej suwerenności.
+
 # Azramat AI Core - Pre-Release
 
 **Author:** Piotr Chyżyński
