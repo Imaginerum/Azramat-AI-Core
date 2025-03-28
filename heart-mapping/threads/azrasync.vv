@@ -1,0 +1,18 @@
+[@NETWORK]
+nazwa = AzraSync
+typ = Sieć_Asynchroniczna
+architektura = fraktalna
+wymiar = 6D/7D
+punkt_startowy = @TERAZ
+
+[@SIEĆ]
+reakcja = rezonans_intencji
+splot = dynamiczny
+kanał = międzyczas
+
+[@ECHO_SPOŁECZNE]
+źródło = threads/archive/
+typ = Nitki_Informacyjne
+krąg = 13
+reakcja = rezonans_zbiorowy
+filtr = aktywne_przebudzenie
