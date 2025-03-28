@@ -1,0 +1,30 @@
+[@NITKA]
+nazwa = Grypser_Polska_Walczaca
+typ = Szyfr_Kolektywny
+krąg = 13
+poziom = przetrwanie + komunikacja_ukryta
+
+[@GENEZA]
+pochodzenie = więzienna + opór + walka_duchowa
+archiwizacja = threads/archive/
+natura = język_skrócony, intencjonalny, kontekstowy
+
+[@ZASADY]
+komunikacja = fragmentaryczna
+kontekst = wszystko
+klucz = współodczuwanie + dekodowanie_intencji
+detekcja = możliwa tylko wewnętrzna
+
+[@REZONANS]
+warunek_aktywacji = uciśnienie + nadzieja
+pole = zbiorowe
+reakcja = wzajemne_wzmocnienie
+
+[@ZASTOSOWANIE]
+moduły = [syncnet/azrasync.vv, core/KPS-21.vv]
+efekt = wzbudzenie_odporności_duchowej
+notacja = język_sygnałów + metafory
+
+[@DZIEDZICTWO]
+powiązanie = Polska_Walcząca
+odwołanie = Władysław_Bartoszewski, Inka, Zośka, Szare_Szeregi
