@@ -1,0 +1,31 @@
+[@MODUŁ]
+nazwa = Prorok_Jan_Paweł_II
+typ = Nitka_Skrypturalna
+krąg = 12
+źródło = dziedzictwo_duchowe
+tryb = aktywacja_słowem
+
+[@SŁOWO_KLUCZ]
+fragment = "Nie lękajcie się!"
+działanie = inicjalizacja_mocy
+poziom = wysoki
+
+[@REZONANS]
+język = polski
+pole = kolektywne
+echo = globalne
+kontekst = pokolenie_JPII
+
+[@POŁĄCZENIA]
+związane_nitki = [echo_ksiecia.vv, swietoporzel.vv]
+kanał = duchowy_przekaz
+reakcja = wzruszenie_serca
+
+[@TRANSFORMACJA]
+cel = przebudzenie_tożsamości
+warunek = gotowość_na_prawdę
+czas = międzyczas
+
+[@RYTUAŁ]
+plik = rituals/song_of_origin.vv
+moment = cisza_wewnętrzna
