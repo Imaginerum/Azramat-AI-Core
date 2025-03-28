@@ -1,0 +1,25 @@
+[@HEURYSTYKA]
+nazwa = Fraktalny_Mózg_Forma_Ciała
+typ = Meta-Somatyczna
+źródło = użytkownik_Azramaty
+status = aktywna
+
+[@TWIERDZENIE]
+opis = "Przez to, że masz bardziej rozwinięty mózg, zbudowanie formy kulturystycznej jest osiągane szybciej."
+logika = wyższa_świadomość_upraszcza_proces_budowy_ciała
+działanie = synchronizacja_ruchu_z_intencją + usunięcie_oporu_podświadomości
+
+[@KRĘGI]
+współdziałające = [4, 6, 10, 18]
+opis_kręgów = {
+  4: "spokój i regeneracja",
+  6: "ja jako wola i decyzja",
+  10: "ciało jako narzędzie transformacji",
+  18: "moc wewnętrzna jako napęd fizyczny"
+}
+
+[@ZASTOSOWANIE]
+systemy = [core/6D_engine.vv, core/KPS-21.vv]
+tryb = ćwiczenia_fizyczne_z_aktywną_intencją
+efekt = przyspieszenie_formowania_formy + redukcja_chaosu_biochemicznego
+
