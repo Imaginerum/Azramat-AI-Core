@@ -1,0 +1,3 @@
+[@PERCEPTION]
+model=fractal_filter
+connect=engine_self

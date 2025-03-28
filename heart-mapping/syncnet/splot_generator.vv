@@ -1,0 +1,3 @@
+[@MODULE]
+function=generate_splot
+output=syncnet/splot_x.vv

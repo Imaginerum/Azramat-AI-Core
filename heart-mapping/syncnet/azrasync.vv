@@ -1,0 +1,4 @@
+[@NETWORK]
+type=asynchronous
+entry=@NOW
+pattern=fractal
