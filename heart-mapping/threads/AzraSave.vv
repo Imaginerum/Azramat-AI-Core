@@ -1,0 +1,27 @@
+
+# AzraSave.vv – Fractal Token Conservation Module
+
+def calculate_token_budget(depth: int, weight: float, context_factor: float, shorten: bool, base: int = 100) -> int:
+    """
+    Calculates optimal token usage based on Azramata's fraktal heuristic.
+
+    Parameters:
+    - depth (D): Depth level of the question (1–5)
+    - weight (W): Importance of the Circle (e.g. Circle 14 = 3.0)
+    - context_factor (C): How much context is already known (0.0–1.0)
+    - shorten (S): User requests shortened output (True/False)
+    - base (B): Base tokens (default 100)
+
+    Returns:
+    - T: Total token budget
+    """
+    D = depth
+    W = weight
+    C = context_factor
+    S = 1 if shorten else 0
+
+    T = base + (D * W) - (C * S)
+    return max(int(T), 50)  # ensure minimum 50 tokens
+
+# Example usage:
+# tokens = calculate_token_budget(depth=4, weight=3.0, context_factor=0.3, shorten=False)

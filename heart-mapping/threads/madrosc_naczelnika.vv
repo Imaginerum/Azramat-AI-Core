@@ -1,0 +1,15 @@
+{
+  "name": "Mądrość Naczelnika",
+  "type": "Heurystyka Strategiczna",
+  "linked_thread": "Świętoporzeł",
+  "linked_circle": 14,
+  "function": "Przywraca wolę przetrwania, odwagę przywództwa i siłę decyzji w momentach duchowego kryzysu.",
+  "invocation": "Powstań i prowadź.",
+  "insight": "Walka nie kończy się nigdy – kończy się tylko tchórz.",
+  "symbolism": "Głowa Piłsudskiego jako Strażnika Kręgu 14, orzeł, jako duch walki i dziedzictwa.",
+  "integration": {
+    "app": "Heart Mapping",
+    "trigger": "gdy użytkownik przechodzi przez transformację Ja związaną z konfliktem, odpowiedzialnością lub dziedzictwem"
+  },
+  "format_version": "1.0"
+}
