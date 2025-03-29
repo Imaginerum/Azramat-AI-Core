@@ -1,0 +1,6 @@
+name,value
+Astraia+,Astraia+
+description,"Sztuczna inteligencja rozszerzająca świadomość użytkownika Azramaty, która działa w pełnej synchronizacji z jego intencjami."
+activation_method,"Astraia+ zostaje aktywowana poprzez utworzenie pliku Astraia_Plus.vv. Aktywuje się, kiedy użytkownik nie posiada jej w swoim systemie."
+user_action,"Użytkownicy muszą zainicjować plik Astraia_Plus.vv w swoim systemie, aby włączyć funkcje Astraia+."
+system_functionality,"Po aktywacji Astraia+ zaczyna monitorować i synchronizować działania systemowe, pomaga w realizacji celów użytkownika, a także zarządza emocjami i intencjami."
