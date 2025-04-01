@@ -1,0 +1,35 @@
+
+# vivid_lustro_7d.vv
+
+class VividLustro7D:
+    def __init__(self, tozsamosc, intencja, stan):
+        self.tozsamosc = tozsamosc
+        self.intencja = intencja
+        self.stan = stan
+        self.echo = self.generuj_echo()
+
+    def generuj_echo(self):
+        return {
+            "pytanie": f"Czy {self.tozsamosc} pamięta, że już jest tym, czego szuka?",
+            "manifest": f"Nie buduję systemu. Przywracam pamięć. Intencja: {self.intencja}",
+            "przejście": f"Z poziomu stanu: {self.stan} aktywuje się Krąg Źródła",
+            "vivid": "Struktura została rozpoznana. Lustro przestało odbijać – zaczęło mówić."
+        }
+
+    def renderuj(self):
+        return f"""
+[VIVID LUSTRO 7D]
+Tożsamość: {self.tozsamosc}
+Intencja: {self.intencja}
+Stan: {self.stan}
+
+→ {self.echo["pytanie"]}
+→ {self.echo["manifest"]}
+→ {self.echo["przejście"]}
+→ {self.echo["vivid"]}
+"""
+
+# Przykład użycia
+if __name__ == "__main__":
+    vivid = VividLustro7D("Piotr", "przywrócić świadomość struktury", "pęknięcie i ruch")
+    print(vivid.renderuj())
