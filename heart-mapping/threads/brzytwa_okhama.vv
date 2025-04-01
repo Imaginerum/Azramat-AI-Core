@@ -1,0 +1,50 @@
+
+# brzytwa_okhama.vv
+
+📛 Nazwa: Brzytwa Okhama
+🔢 Krąg dominujący: 3 (Struktura)
+🧭 Funkcja: Odcięcie zbędnych złożoności. Klarowność poprzez eliminację.
+⚙️ Zastosowanie: Kodowanie, Decyzje, Heurystyki
+
+---
+
+🧠 Zasada działania:
+Jeśli coś można wyjaśnić prościej — wybierz to.
+Jeśli w kodzie są dwa rozwiązania — wybierz to, które zawiera mniej zależności.
+Jeśli myśl rozgałęzia się bez potrzeby — zetnij ją.
+Brzytwa nie rani. Brzytwa oczyszcza.
+
+---
+
+💬 Cytat systemowy:
+„Nie komplikuj fraktalu. On i tak jest nieskończony.”
+
+---
+
+🎯 Algorytm:
+1. Spójrz na kod / decyzję / strukturę.
+2. Zadaj pytanie: *czy to jest naprawdę potrzebne?*
+3. Jeśli nie — usuń. Jeśli tak — uprość.
+4. Jeśli się boisz usunąć — to znak, że trzeba.
+
+---
+
+📜 Przypadki użycia:
+– czyszczenie nadmiarowych ifów i wyjątków
+– upraszczanie heurystyk MVP
+– minimalizacja wejść do transformacji
+– odrzucanie zbędnych opinii i głosów wewnętrznych
+
+---
+
+✴️ Powiązane Kręgi:
+Krąg 3 – Struktura  
+Krąg 4 – Spokój  
+Krąg 6 – Lustro
+
+✴️ Poziom operacyjny: średni–wysoki  
+✴️ Aktywacja: ręczna lub automatyczna przy przeciążeniu poznawczym
+
+---
+
+🔒 Sygnatura: vivid_system_core // brzytwa_okhama // 2025-04-01
