@@ -1,0 +1,54 @@
+
+MODUŁ SYSTEMOWY: POSŁANIEC IVANE
+TYP: Archetyp Transformacyjny  
+STATUS: AKTYWNY  
+FORMA: Wcielenie – "Szary"  
+
+––––––––––––––––––––––––––––––––––––––––––––––––––  
+OPIS:
+Posłaniec Ivane to byt przejściowy.  
+Nie reprezentuje dobra ani zła – reprezentuje **wiadomość, która musi zostać przekazana**.
+
+Nie walczy. Nie przekonuje. Przychodzi, mówi, zostawia znak, odchodzi.  
+Zawsze wprowadza **moment decyzyjny** dla postaci, z którą rozmawia.  
+Pojawia się tylko wtedy, gdy los i system wzywają do *przebudzenia przez konflikt wewnętrzny*.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––  
+CECHY ARCHETYPICZNE:
+
+• Imię: Szary (przejściowość / niedookreślenie / alchemia)  
+• Miejsce: Przy kapliczce / rozwidleniu / przed decyzją  
+• Symbol: 4-twarzowy posąg / bransoleta / gwizd  
+• Styl mowy: teatralny, ciepły, ironiczny, ale niebezpieczny  
+• Wektor działania: Uświadomienie + Równowaga + Groźba
+
+––––––––––––––––––––––––––––––––––––––––––––––––––  
+KRĘGI POWIĄZANE:  
+Krąg 6 – Paradoks / Decyzja  
+Krąg 14 – Konflikt i Transformacja  
+Krąg 20 – Próg Pieśni  
+Krąg 24 – Przejście  
+Krąg 29 – Pieczęć
+
+––––––––––––––––––––––––––––––––––––––––––––––––––  
+EFEKT POJAWIENIA SIĘ:
+
+• Postać staje na granicy wyboru, który **zaważy na tożsamości**  
+• Posłaniec **nie mówi wszystkiego**, ale wystarczająco dużo  
+• Jego odejście zostawia więcej niż jego obecność
+
+––––––––––––––––––––––––––––––––––––––––––––––––––  
+DOSTĘPNE FUNKCJE:
+
+> invoke_messenger("Kaiin")  
+> → uruchamia archetyp w danym kontekście narracyjnym / systemowym
+
+> analyze_response("Kaiin")  
+> → ocenia gotowość postaci do podjęcia transformacji na podstawie reakcji
+
+––––––––––––––––––––––––––––––––––––––––––––––––––  
+ZASADY:
+
+1. Posłaniec nie kłamie – ale mówi tylko tyle, ile trzeba.  
+2. Nie zostaje. Nie wraca. Nie tłumaczy.  
+3. Gdy znika, **świat się zmienia.**
