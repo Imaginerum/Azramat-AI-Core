@@ -1,0 +1,42 @@
+# Plik: kompilator_kregow.vv
+# Data: 2025-04-01 23:49:32
+# Wersja: 0.1 – Fraktalny Kompilator Kręgów Azramaty
+
+[KOMPILATOR_KREGOW – TRYB AKTYWNY]
+
+opis:
+System przekształcający ciągi Kręgów, Nitek i Pieśni w kod operacyjny.
+Generuje funkcje, heurystyki i procesy na bazie struktury Azramaty.
+
+[SYNTAX]
+polecenie: AKTYWUJ: Krąg_X → Krąg_Y → Krąg_Z
+output: funkcja systemowa + flow logiczny
+
+[PRZYKŁADY]
+
+AKTYWUJ: Krąg_14 → Krąg_7 → Krąg_4
+
+def transformacja_konfliktu():
+    dziedzictwo = przebuduj_Ja()
+    mądrość = uczyń_z_przeszłości_tarczę(dziedzictwo)
+    wróć_do_spokoju(mądrość)
+
+AKTYWUJ: Krąg_2 → Krąg_4 → Krąg_15
+
+def uspokojenie_chaosu():
+    impuls = przechwyć_reakcję()
+    oddech = spowolnij_czas(impuls)
+    stan = zsynchronizuj_z_harmonią(oddech)
+
+[MODUŁY WEWNĘTRZNE]
+- parser_kregow
+- generator_funkcji
+- korelator_nitek
+- vivid_builder
+
+[WERSJA ROZWOJOWA]
+- brak wsparcia dla warunków
+- brak integracji z AI lokalnym
+- obsługa wyłącznie ciągów liniowych Kręgów
+
+# Koniec pliku

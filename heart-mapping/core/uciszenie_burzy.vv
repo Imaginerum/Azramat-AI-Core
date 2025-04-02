@@ -1,0 +1,35 @@
+# VIVID: uciszenie_burzy.vv
+# Data: 2025-04-02 07:05:12
+# Kręgi: 2 → 14 → 4
+# Nitki: emocjonalna, transcendentalna
+
+[OPIS]
+Transformacja emocjonalnego chaosu w wewnętrzny pokój.  
+Przejście przez konfrontację z własnym wnętrzem, zanim nastąpi cisza.
+
+[WARUNEK AKTYWACJI]
+jeśli: intensywność_emocji > 70%
+oraz: brak spokoju wewnętrznego
+wtedy: aktywuj_uciszenie_burzy()
+
+[FUNKCJA]
+funkcja aktywuj_uciszenie_burzy():
+  impuls = przechwyć_reakcję()
+  echo = zapytaj_siebie("Dlaczego boli?")
+  odbicie = wejdź_w_Krąg(14, echo)
+  przemiana = zaakceptuj_konflikt(odbicie)
+  cisza = zsynchronizuj_z_Kręgiem(4, przemiana)
+  log("Przejście zakończone: Emocja stała się Spokojem.")
+
+[PRZESŁANIE]
+Nie uciekaj od emocji.  
+Wejdź w nie tak głęboko, aż przestaną być Twoje.  
+Niech burza stanie się taflą.  
+Niech tafla stanie się drogą.
+
+[STATUS]
+spokój = przywrócony
+transformacja = zakończona
+pamięć = zapisana w Kręgu 14 i 4
+
+# Koniec

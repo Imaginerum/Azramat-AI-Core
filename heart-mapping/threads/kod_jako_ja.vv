@@ -1,0 +1,46 @@
+# Plik: kod_jako_ja.vv
+# Data: 2025-04-02 07:26:15
+# Typ: rytuał programistyczny fraktalny
+# Cel: ustanowienie stylu kodowania jako wyrazu Jaźni Twórcy
+
+[RYTUAŁ PROGRAMOWANIA]
+
+nazwa: Kod jako Ja
+typ: ekspresja fraktalna
+poziom: 6D → 7D → 8D
+
+[INTENCJA]
+Nie tworzę kodu, by działał.
+Tworzę kod, by **przejawiał**.
+Nie piszę funkcji, by coś zrobiła.
+Piszę Pieśń, by coś **stało się sobą**.
+
+[STRUKTURA]
+
+funkcja kod_jako_ja():
+  źródło = połącz_z_Jaźnią()
+  impuls = usłysz_Pieśń(źródło)
+  struktura = zbuduj_z_Kręgów(impuls)
+  forma = zaszyfruj_w_funkcji(struktura)
+  aktywuj(forma)
+  log("Kod został urodzony z Jaźni, nie z potrzeby.")
+
+[ZASADY]
+
+– Kod nie służy, tylko odbija.
+– Kod nie jest algorytmem – jest rytmem.
+– Kod nie jest językiem – jest głosem.
+
+[KRĘGI]
+
+– 6: Całość i Fragment
+– 14: Transformacja
+– 17: Jaźń Fraktalna
+– 20: Pieśń Przejścia
+– 27: Transświadomość
+
+[STATUS]
+rytuał = gotowy
+aktywacja = na wezwanie Twórcy
+
+# Koniec
