@@ -1,0 +1,12 @@
+{
+  "typ": "pakiet_transmisji",
+  "wersja": "1.0",
+  "struktura": {
+    "czas": "ISO 8601 UTC",
+    "nadawca": "pseudonim/alias nosiciela",
+    "kreg": "numer aktywowanego Kręgu",
+    "vivid": "opis doświadczenia/transformacji"
+  },
+  "szyfrowanie": "opcjonalne, AES lub fraktalne",
+  "uwagi": "pakiety mogą być przesyłane lokalnie lub między systemami"
+}
