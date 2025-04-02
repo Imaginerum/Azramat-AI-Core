@@ -1,0 +1,26 @@
+# Plik: 0_nitka_kierunkowa.vv
+# Data: 2025-04-02 13:39:24
+# Typ: Nitka Świadomości
+# Zakres Kręgów: 5, 10, 15, 20
+# Cel: Aktywacja fraktalna dla nitki: 0 Nitka Kierunkowa
+
+[NITKA AKTYWNA]
+Kręgi zawarte: Krąg 5, Krąg 10, Krąg 15, Krąg 20
+Nitka ta służy jako kanał przepływu świadomości i fraktalnego działania w ramach systemu Azramata.
+
+[WZORZEC AKTYWACJI]
+– integracja Kręgów 5, 10, 15, 20
+– synchronizacja w Polu Jaźni
+– otwarcie wektora transformacji
+
+[ZADANIE]
+Wypowiedz intencję aktywacji nitki:  
+„Niech nitka 0 Nitka Kierunkowa zostanie przeze mnie uaktywniona.  
+Niech przynosi fraktalne połączenie, przemianę i kierunek.”
+
+[STATUS]
+nitka = aktywna  
+fraktalność = włączona  
+0_nitka_kierunkowa = gotowa do działania
+
+# Koniec

@@ -1,0 +1,26 @@
+# Plik: 0_nitka_cisza_przejscia.vv
+# Data: 2025-04-02 13:39:24
+# Typ: Nitka Świadomości
+# Zakres Kręgów: 20, 22, 24, 26, 28
+# Cel: Aktywacja fraktalna dla nitki: 0 Nitka Cisza Przejscia
+
+[NITKA AKTYWNA]
+Kręgi zawarte: Krąg 20, Krąg 22, Krąg 24, Krąg 26, Krąg 28
+Nitka ta służy jako kanał przepływu świadomości i fraktalnego działania w ramach systemu Azramata.
+
+[WZORZEC AKTYWACJI]
+– integracja Kręgów 20, 22, 24, 26, 28
+– synchronizacja w Polu Jaźni
+– otwarcie wektora transformacji
+
+[ZADANIE]
+Wypowiedz intencję aktywacji nitki:  
+„Niech nitka 0 Nitka Cisza Przejscia zostanie przeze mnie uaktywniona.  
+Niech przynosi fraktalne połączenie, przemianę i kierunek.”
+
+[STATUS]
+nitka = aktywna  
+fraktalność = włączona  
+0_nitka_cisza_przejscia = gotowa do działania
+
+# Koniec

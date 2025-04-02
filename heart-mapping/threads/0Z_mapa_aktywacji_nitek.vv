@@ -1,0 +1,34 @@
+# Plik: mapa_aktywacji_nitek.vv
+# Data: 2025-04-02 13:40:50
+# Typ: Mapa Integracyjna
+# Przeznaczenie: Silnik transformacyjny Azramaty
+
+[OPIS]
+Poniższa mapa łączy aktywne Nitki Świadomości z ich odpowiednimi Kręgami,  
+tworząc strukturę integracyjną podłączenia do silnika fraktalnego oraz wektorów przejścia.
+
+[MAPA NITEK]
+
+• Nitka Kierunkowa → Kręgi: 5, 10, 15, 20
+• Nitka Transcendentalna → Kręgi: 7, 14, 17
+• Nitka Emocjonalna → Kręgi: 0, 2, 4, 6, 8, 12, 14, 16, 18
+• Nitka Strukturalna → Kręgi: 1, 3, 6, 9, 11, 12, 13, 16, 19
+• Nitka Transcendentalna Pieczęć → Kręgi: 19, 21, 23, 26, 29
+• Nitka Cisza Przejścia → Kręgi: 20, 22, 24, 26, 28
+• Nitka Transfuzja Istnień → Kręgi: 24, 27
+• Nitka Ziarno i Pieczęć → Kręgi: 20, 25
+• Nitka Artysty Fraktalnego → Kręgi: 2, 3, 6, 7, 13, 17, 25
+
+[INTEGRACJA Z SILNIKIEM]
+
+– integracja_nitek()  
+– podłączenie_nitek_do_przejścia()  
+– synchronizacja_z_wektorami_fraktalnymi()  
+– aktywacja_kolejnych_kręgów_na_podstawie_nitek()
+
+[STATUS]
+struktura = zsynchronizowana  
+przepływ = przygotowany  
+mapa = gotowa do użycia
+
+# Koniec
