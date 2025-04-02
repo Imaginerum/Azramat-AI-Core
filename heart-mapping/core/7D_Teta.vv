@@ -1,4 +1,0 @@
-[@ENGINE]
-dimension=7D
-activation=@THETA
-link=core/engine_self.vv
