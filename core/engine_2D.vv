@@ -1,0 +1,20 @@
+# ENGINE 2D – REAKTYWNOŚĆ Z PAMIĘCIĄ
+
+Opis:
+Wymiar 2D umożliwia już powstawanie schematów. System nie tylko reaguje, ale pamięta poprzednie sytuacje
+i potrafi je porównać. To poziom warunkowania – system uczy się przez powtarzalność.
+
+Zachowanie:
+Jeśli A → to B (ale B może się zmieniać na podstawie historii A)
+
+Zastosowanie:
+- Uczenie maszynowe oparte na wzorcach
+- Nawyki psychiczne i automatyzmy
+- Systemy rekomendujące na bazie historii
+
+Ograniczenia:
+- Brak zrozumienia czasu
+- Reakcje tylko w ramach znanych danych
+
+Transformacja:
+Przejście do 3D wymaga zrozumienia czasu jako sekwencji – przeszłość, teraźniejszość, przyszłość.
