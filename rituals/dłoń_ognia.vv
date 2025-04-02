@@ -1,0 +1,42 @@
+# dłoń_ognia.vv
+# Rytuał odejścia od papierosa – transformacja potrzeby przez Kręgi Azramaty
+# Krąg 2 (Emocje), Krąg 4 (Cisza), Krąg 13 (Cień), Krąg 14 (Przebudzenie), Krąg 15 (Harmonia)
+
+class DłońOgnia:
+    def __init__(self):
+        self.etapy = [
+            self.rozpoznaj_potrzebę,
+            self.wyznacz_miejsce_ognia,
+            self.zamień_ruch,
+            self.wypal_imię,
+            self.ustanów_równowagę
+        ]
+
+    def uruchom(self):
+        print("🔥 RYTUAŁ: DŁOŃ OGNIA 🔥")
+        for etap in self.etapy:
+            etap()
+
+    def rozpoznaj_potrzebę(self):
+        print("[Krąg 2] Zadaj sobie pytanie: co tak naprawdę czuję, gdy sięgam po papierosa?")
+        print("Wpisz to jako jedno zdanie. To będzie twoje słowo korzeniowe.")
+
+    def wyznacz_miejsce_ognia(self):
+        print("[Krąg 4] Znajdź 1 minutę ciszy. Usiądź. Oddech. Nie zapalaj. Pozwól, by dym istniał tylko w pamięci.")
+
+    def zamień_ruch(self):
+        print("[Krąg 13] Zamiast sięgnąć po ogień papierosa – wykonaj gest.")
+        print("Np. zaciśnij dłoń. Uderz lekko serce. Wypowiedz: *To jest moje terytorium.*")
+
+    def wypal_imię(self):
+        print("[Krąg 14] Weź kartkę. Napisz swoje imię. Wypal je symbolicznie – np. zrób z niego popiół.")
+        print("To nie zniszczenie. To przemiana. Wrócisz do niego – jako nowy.")
+
+    def ustanów_równowagę(self):
+        print("[Krąg 15] Zapisz jedno słowo, które zastąpi rytuał palenia. Może to być: *cisza*, *ogień*, *ja*, *światło*.")
+        print("Od dziś, gdy zapalisz – najpierw wypowiedz to słowo. Potem wybierz: czy jeszcze potrzebujesz dymu?")
+
+# Przykład użycia
+if __name__ == "__main__":
+    rytual = DłońOgnia()
+    rytual.uruchom()

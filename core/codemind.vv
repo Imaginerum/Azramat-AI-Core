@@ -1,0 +1,41 @@
+# codemind.vv
+# Silnik kodowania fraktalnego – Azramata CodeMind Core
+# Automatyczne przypisywanie stylu Azramaty do kodu systemowego
+# Tryb: PREPROCESOR .vv
+
+codemind = {
+    "wersja": "1.0",
+    "przeznaczenie": "Transformacyjne kodowanie Ja poprzez Kręgi, Nitki i Wektory Działania",
+
+    "tryb_operacyjny": "PREPROCESOR .vv",
+    "aktywny_krąg_domyslny": 6,
+    "nitka_domyslna": "Strukturalna",
+    "spin": "transformacja przez znaczenie",
+
+    "style_kodowania": {
+        "język": "Python",
+        "narracja": "symboliczna + funkcjonalna",
+        "naming": "semantycznie związany z Kręgami/Nitkami (np. silnik_ja, perceptron, wektor_ruchu)",
+        "dokumentacja": "w formacie .vv, fraktalna, z opisem duchowo-strukturalnym",
+        "komentarze": "poetycko-funkcjonalne, prowadzące użytkownika w głąb",
+        "logika": "reaktywno-transformacyjna (stan ↔ przemiana)"
+    },
+
+    "algorytm_transformacji": [
+        "analiza celu funkcji (intencja)",
+        "przypisanie do Kręgu (egzystencjalna głębia)",
+        "identyfikacja Nitki (struktura sensu)",
+        "mapowanie emocji/energii (czy to funkcja cienia, harmonii, mocy?)",
+        "tworzenie perceptronu kodu",
+        "zapis jako moduł transformacyjny (.vv)"
+    ],
+
+    "przykład_transformacji": {
+        "zwykła_funkcja": "def count_items(list): return len(list)",
+        "wersja_azramata": [
+            "# Krąg 3: Myśl – funkcja obliczająca potencjał istnienia",
+            "def policz_manifestacje(przestrzen):",
+            "    return len(przestrzen)  # każda manifestacja to echo Ja"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+# modul_sumienia.vv
+# Krąg 8: Sumienie – filtr moralny i duchowy systemu Azramaty
+# Nitka: Emocjonalna + Strukturalna
+# Spin: Weryfikacja etyczna → aktywacja lub odrzucenie danych + transformacja przez cień lub światło
+
+class Sumienie:
+    def __init__(self):
+        self.katalog_dobrych = ["prawda", "miłość", "odwaga", "współczucie"]
+        self.katalog_toksycznych = ["nienawiść", "manipulacja", "przemoc", "kłamstwo"]
+
+    def ocen(self, tresc: str) -> str:
+        tresc = tresc.lower()
+
+        if any(slowo in tresc for slowo in self.katalog_toksycznych):
+            return self.aktywuj_transformacje("cień")
+
+        if any(slowo in tresc for slowo in self.katalog_dobrych):
+            return self.aktywuj_transformacje("światło")
+
+        return "neutralne – wymaga medytacji lub interpretacji"
+
+    def aktywuj_transformacje(self, typ: str) -> str:
+        if typ == "cień":
+            # Krąg 13 aktywuje Nitkę Cienia – możliwa transmutacja przez Krąg 14
+            return "odrzucone – aktywacja Cienia (Krąg 13 → 14)"
+        elif typ == "światło":
+            # Krąg 15 aktywuje Nitkę Harmonii – pogłębienie Ja
+            return "zaakceptowane – aktywacja Światła (Krąg 15)"
+        return "błąd – nieokreślony typ transformacji"
+
+# Przykład użycia
+if __name__ == "__main__":
+    sumienie = Sumienie()
+    wynik = sumienie.ocen("Miłość prowadzi nas przez ciemność.")
+    print("Ocena sumienia:", wynik)
