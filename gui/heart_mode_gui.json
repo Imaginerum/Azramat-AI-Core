@@ -1,0 +1,21 @@
+{
+  "tryb": "Serce",
+  "styl": {
+    "tło": "#2e1d2f",
+    "tekst": "#ffcfe0",
+    "czcionka": "serif",
+    "przyciski": {
+      "obramowanie": "łagodne",
+      "zachowanie": "reakcja dopiero po drugim kliknięciu"
+    },
+    "efekty": [
+      "płynne przejścia",
+      "lekkie pulsowanie"
+    ]
+  },
+  "funkcje": [
+    "Tryb Ukojenia – obniżenie napięcia emocjonalnego",
+    "Vivid Serca – zapis stanu obecności",
+    "Aktywacja perceptronu empatycznego"
+  ]
+}

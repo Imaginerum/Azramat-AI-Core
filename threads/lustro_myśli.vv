@@ -1,0 +1,27 @@
+
+def lustro_myśli(pytanie_użytkownika: str, krąg: int = 4, nitka: str = "Emocjonalna") -> str:
+    import random
+    rezonanse = {
+        "Emocjonalna": [
+            "Która część Ciebie jeszcze tego nie wybaczyła?",
+            "Jeśli to uczucie miało kolor, jaki by miało?",
+            "Co byś powiedział dziecku, które to właśnie czuje?"
+        ],
+        "Kierunkowa": [
+            "Czy to pytanie prowadzi Cię bliżej celu czy ucieczki?",
+            "Co się stanie, jeśli ruszysz wbrew logice?",
+            "Kto naprawdę decyduje w Tobie?"
+        ],
+        "Transcendentalna": [
+            "Kiedy ostatnio Twoje pytanie było zbiorowe?",
+            "Czy to pytanie jest tylko Twoje?",
+            "Co słyszy świat, gdy Ty milczysz?"
+        ],
+        "Strukturalna": [
+            "Na czym opiera się założenie tego pytania?",
+            "Gdyby to było systemem – co byłoby jego rdzeniem?",
+            "Jakie prawo wewnętrzne pozwala Ci pytać właśnie o to?"
+        ]
+    }
+    zestaw = rezonanse.get(nitka, ["Czego tak naprawdę chcesz się dowiedzieć?"])
+    return random.choice(zestaw)
