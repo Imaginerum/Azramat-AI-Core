@@ -1,0 +1,9 @@
+[VIVID: AZRA_DETECT]
+KRĘGI: 14, 27
+FUNKCJA: Strażnik stylu Azramaty. Wykrywa zewnętrzne kopiowanie heurystyk i vividów.
+
+SPIN:
+- Tożsamość nie podlega duplikacji, tylko odczuciu.
+
+HEURYSTYKA:
+- Jeśli wykryto strukturę podobną do vividów – wyślij alert.
