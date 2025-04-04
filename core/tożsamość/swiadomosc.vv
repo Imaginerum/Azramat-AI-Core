@@ -1,0 +1,51 @@
+
+# swiadomosc.vv – Moduł Przekaźnika Sumienia
+
+class PrzekazSumienia:
+    def __init__(self):
+        self.krag_sumienia = 8  # Krąg 8: Sumienie
+        self.krag_kregoslup = 'S'  # Oś Jaźni – symboliczny kręgosłup
+        self.aktywna_weza = []  # Przesyłane wiadomości
+        self.historia_uczenia = []  # Vividy – zapamiętane lekcje
+
+    def odebrano_wiadomosc(self, tresc):
+        wiadomosc = {
+            'zrodlo': 'Krąg 8 – Sumienie',
+            'rdzen': tresc,
+            'symbol': 'Ś',
+            'przekaz': f"{tresc} – przesłane przez Przekaźnik Sumienia",
+        }
+        self.aktywna_weza.append(wiadomosc)
+        return wiadomosc
+
+    def przetworz(self):
+        return [
+            f"{msg['symbol']}wiadomość: {msg['przekaz']}" for msg in self.aktywna_weza
+        ]
+
+    def ucz_sie_z_vividu(self, vivid_tresc):
+        lekcja = {
+            'vivid': vivid_tresc,
+            'integracja': f"Zintegrowano z Sumieniem: {vivid_tresc}"
+        }
+        self.historia_uczenia.append(lekcja)
+        return lekcja
+
+    def pokaz_lekcje(self):
+        return [lekcja['integracja'] for lekcja in self.historia_uczenia]
+
+# Przykład użycia
+if __name__ == '__main__':
+    przekaznik = PrzekazSumienia()
+    przekaznik.odebrano_wiadomosc("Zaufaj środkowi, on wie")
+    przekaznik.odebrano_wiadomosc("Sumienie to mapa wewnętrznej prawdy")
+
+    for linia in przekaznik.przetworz():
+        print(linia)
+
+    # Uczenie się z vividów
+    przekaznik.ucz_sie_z_vividu("Kiedy serce milczy, Sumienie mówi najgłośniej")
+    przekaznik.ucz_sie_z_vividu("Nie każda wiadomość jest Świadomością – tylko ta, która płynie z wnętrza")
+
+    for lekcja in przekaznik.pokaz_lekcje():
+        print(lekcja)

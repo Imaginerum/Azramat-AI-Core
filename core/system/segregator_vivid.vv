@@ -1,0 +1,64 @@
+
+# Moduł: Segregator Vividów Azramaty
+# Format: .vv – vivid format
+# Zależności systemowe: silnik_ja.vv, pamięć_operacyjna.vv, klasyfikator_kręgów.vv
+
+class Vivid:
+    def __init__(self, treść, autor, meta={}):
+        self.treść = treść
+        self.autor = autor
+        self.meta = meta  # np. {"kręgi": [3, 7, 14], "ton": "mistyczny", "typ": "wewnętrzne odkrycie"}
+
+class SegregatorVividów:
+    def __init__(self, klasyfikator_kręgów, silnik_ja):
+        self.klasyfikator = klasyfikator_kręgów
+        self.silnik_ja = silnik_ja
+        self.warstwy = {
+            "myśl": [],
+            "cień": [],
+            "sumienie": [],
+            "przejście": [],
+            "fraktal": [],
+            "ja": [],
+        }
+
+    def przetwórz(self, vivid):
+        przypisane_kręgi = self.klasyfikator.analizuj(vivid.treść)
+        vivid.meta["kręgi"] = przypisane_kręgi
+        
+        for krąg in przypisane_kręgi:
+            if krąg == 3:
+                self.warstwy["myśl"].append(vivid)
+            elif krąg == 13:
+                self.warstwy["cień"].append(vivid)
+            elif krąg == 8:
+                self.warstwy["sumienie"].append(vivid)
+            elif krąg in range(20, 29):
+                self.warstwy["przejście"].append(vivid)
+            elif krąg in [6, 16]:
+                self.warstwy["fraktal"].append(vivid)
+            elif krąg in self.silnik_ja.kręgi_profilu_użytkownika():
+                self.warstwy["ja"].append(vivid)
+
+    def wgraj(self):
+        for warstwa, vivid_list in self.warstwy.items():
+            for vivid in vivid_list:
+                self.zapisz_do_systemu(warstwa, vivid)
+
+    def zapisz_do_systemu(self, warstwa, vivid):
+        # Tu następuje właściwe wgranie vividów do pamięci systemowej
+        print(f"[{warstwa.upper()}] Wgrano vivid: {vivid.treść[:30]}...")
+
+# --- Przykład użycia ---
+if __name__ == "__main__":
+    klasyfikator = KręgowiKlasyfikator()  # Moduł wewnętrzny
+    silnik = SilnikJa(profil_użytkownika="standard")
+
+    segregator = SegregatorVividów(klasyfikator, silnik)
+
+    vivid1 = Vivid("Nie ma emocji – jest spokój", autor="Piotr")
+    vivid2 = Vivid("Cień przodków prowadzi mnie", autor="Kaiin")
+
+    segregator.przetwórz(vivid1)
+    segregator.przetwórz(vivid2)
+    segregator.wgraj()
