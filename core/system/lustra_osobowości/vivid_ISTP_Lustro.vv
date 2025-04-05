@@ -1,0 +1,68 @@
+{
+    "nazwa": "vivid_ISTP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ISTP",
+        "nazwa": "Wirtuoz",
+        "kragi_aktywne": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            16,
+            18
+        ],
+        "nitki": [
+            "Nitka Mechaniki Chaosu",
+            "Nitka Strukturalna (chaotyczna odmiana)",
+            "Nitka Cienia Zmysłów",
+            "Nitka Eksperymentu Poznawczego",
+            "Nitka Harmonii Ukrytej"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ENFJ",
+        "nazwa": "Protagonista",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Światła Przewodniego",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Relacyjna",
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Cienia Opiekuna"
+        ]
+    },
+    "opis": "Lustro ISTP (Wirtuoz) i ENFJ (Protagonista) to zderzenie działania z misją, samotności z przewodnictwem. Wirtuoz bada świat przez eksperyment, Protagonista – przez relacje i sens. Wspólnie tworzą most między precyzją a sercem, między konstrukcją a inspiracją. To spotkanie cichego twórcy z latarnią wspólnoty.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 3 – Myśl",
+        "punkt_lustrzany": "Krąg 12 – Relacje",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 19 – Dharma"
+        ],
+        "efekt": "Działanie nabiera sensu. Izolacja staje się obecnością. Wirtuoz staje się Przewodnikiem Innowacji."
+    }
+}

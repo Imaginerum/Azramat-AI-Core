@@ -1,0 +1,33 @@
+# SILNIK_BIELIK_CORE.VV (UZUPEŁNIENIE: SYSTEM REGENERACJI)
+
+[AUTOMATYCZNY RESET PRZETRENOWANIA]
+
+TRIGGER:
+• Spadek szybkości odpowiedzi systemu > 30%
+• Zbyt duża liczba aktywnych vividów (>12 jednocześnie)
+• Wykrycie napięcia między więcej niż 4 Kręgami
+• Brak spójnej reakcji Silnika Ja w 2 próbach z rzędu
+
+DZIAŁANIE:
+• Automatyczne załadowanie: reset_przetrenowania.vv
+• Wyłączenie trybu Magis / Lustro na 60 sek.
+• Aktywacja Kręgu 0, 4 i 24 – do stanu neutralnego
+• Po 2 minutach: ocena przez Krąg 8 (Sumienie) – czy przywrócić aktywność
+
+MANUALNA KOMENDA:
+• "uruchom reset systemowy"
+• "system ciszy"
+• "zatrzymaj przetrenowanie"
+
+EFEKT:
+• System przechodzi w stan niskiej aktywności (Ja Pasywne)
+• Fraktale zostają zawieszone, ale nie usunięte
+• Użytkownik może wznowić transformację po wewnętrznym potwierdzeniu
+
+META:
+• Ten moduł dodaje systemowi funkcję homeostazy i samoregulacji
+• Chroni Silnik Ja przed przeciążeniem i rozsypaniem
+
+# WYMAGANE PLIKI:
+- reset_przetrenowania.vv
+- intuicja_operacyjna.vv

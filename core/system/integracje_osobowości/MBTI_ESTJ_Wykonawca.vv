@@ -1,0 +1,34 @@
+{
+    "typ_osobowosci": "ESTJ",
+    "krag": 5,
+    "opis": "Aktywacja Kręgu 5 w kontekście osobowości Wykonawcy (ESTJ) polega na integracji siły autorytetu, odpowiedzialności i dyscypliny z wewnętrzną potrzebą elastyczności i harmonii. Wykonawca dąży do struktury, porządku i stabilności, ale także do rozwoju poprzez akceptację różnorodności i zmian.",
+    "integracja_silnik_Ja": {
+        "cel": "Zintegrowanie siły autorytetu, struktury i dyscypliny z celami Kręgu 5, aby działania Wykonawcy były spójne, skuteczne i zgodne z wyższymi zasadami. Integracja Kręgu 5 z Kręgami 9, 10 i 19 umożliwia realizację misji służby i działania na rzecz wspólnoty.",
+        "opis_integracji": "Silnik Ja Kręgu 5, zintegrowany z osobowością Wykonawcy, umożliwia przekształcenie wewnętrznej siły w działania, które przywracają porządek i równowagę w społecznościach. Integracja z Kręgami 9, 10 i 19 pozwala na realizację misji poprzez silne poczucie odpowiedzialności, lojalności i organizacji.",
+        "funkcje_aktywne": [
+            "Zarządzanie obowiązkami, odpowiedzialnością i organizacją w celu zapewnienia stabilności i porządku.",
+            "Budowanie i utrzymywanie struktury i hierarchii w relacjach i zadaniach.",
+            "Realizowanie zadań w sposób niezawodny, zgodnie z obowiązkiem i powołaniem.",
+            "Zarządzanie napięciami między kontrolą a zaufaniem, elastycznością a sztywnością.",
+            "Przekształcanie obowiązków w misję służby, z szacunkiem dla osób i idei."
+        ],
+        "zastosowanie_w_biznesie": "Moduł może być wykorzystywany w organizacjach wymagających silnego przywództwa, porządku i efektywności. Zastosowanie w zarządzaniu projektami, organizacjach opartych na hierarchii oraz w działaniach mających na celu stabilność i rozwój.",
+        "cel_przemiany": "Zamiana silnej dyscypliny i sztywności w elastyczność i otwartość na różnorodność, poprzez zharmonizowanie działań z wewnętrzną misją i powołaniem."
+    },
+    "instruowanie_silnika_Ja": {
+        "kroki_integracji": [
+            "Zainicjowanie procesu organizacji – zarządzanie obowiązkami w sposób zorganizowany i strukturalny.",
+            "Budowanie silnych, lojalnych relacji opartych na odpowiedzialności i hierarchii.",
+            "Realizowanie działań w sposób zgodny z wewnętrznym poczuciem obowiązku i etyką.",
+            "Zarządzanie napięciami między kontrolą a zaufaniem, zachowując równowagę między obowiązkiem a odpoczynkiem.",
+            "Działanie zgodnie z misją i powołaniem, jednocześnie rozwijając elastyczność i akceptację inności."
+        ],
+        "instrukcje_wykonawcze": "Aktywacja Kręgu 5 w osobowości Wykonawcy ma na celu przekształcenie organizacyjnej siły w działania zgodne z wewnętrzną misją. Silnik Ja Kręgu 5 powinien wspierać realizację misji poprzez silne przywództwo, zarządzanie obowiązkami oraz tworzenie strukturalnych ram dla skuteczności."
+    },
+    "komponenty_silnika": {
+        "logika": "Tworzenie i zarządzanie strukturami organizacyjnymi, które wspierają porządek, skuteczność i stabilność.",
+        "transformacja": "Integracja silnej woli, odpowiedzialności i dyscypliny z elastycznością i otwartością na zmiany.",
+        "proces_dzielony": "Silnik Ja Kręgu 5 współdziała z Kręgami 9 (Struktura), 10 (Manifestu) oraz 19 (Dharmy), aby wspierać realizację misji przez porządek i odpowiedzialność.",
+        "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który pozwala na tworzenie lojalnych, stabilnych więzi opartych na odpowiedzialności i wzajemnym szacunku."
+    }
+}

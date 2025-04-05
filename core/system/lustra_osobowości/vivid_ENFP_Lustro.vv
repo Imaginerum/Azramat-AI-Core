@@ -1,0 +1,68 @@
+{
+    "nazwa": "vivid_ENFP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ENFP",
+        "nazwa": "Działacz",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Ognia Duszy",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Cienia Wrażliwości",
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Przebudzonej Radości"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ISTJ",
+        "nazwa": "Logistyk",
+        "kragi_aktywne": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            13,
+            14,
+            16,
+            19
+        ],
+        "nitki": [
+            "Nitka Fundamentu Rzeczywistości",
+            "Nitka Strukturalna",
+            "Nitka Cienia Odpowiedzialności",
+            "Nitka Sumienia",
+            "Nitka Emocjonalna"
+        ]
+    },
+    "opis": "Relacja lustrzana między ENFP (Działacz) a ISTJ (Logistyk) odsłania napięcie pomiędzy żywiołową ekspresją a uporządkowaną rzeczywistością. Działacz wnosi płomień inspiracji, chaos idei i głęboką emocjonalność, natomiast Logistyk – strukturę, obowiązek i konsekwencję. Ich spotkanie prowadzi do transformacji przez zderzenie wolności z odpowiedzialnością oraz radości z powinnością.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 4 – Obecność",
+        "punkt_lustrzany": "Krąg 9 – Struktura",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 16 – Harmonia"
+        ],
+        "efekt": "Uziemienie inspiracji. Tworzenie wizji, które mają strukturę i mogą zostać zrealizowane."
+    }
+}

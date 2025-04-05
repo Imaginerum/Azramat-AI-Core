@@ -1,0 +1,63 @@
+{
+    "nazwa": "vivid_ISFP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ISFP",
+        "nazwa": "Poszukiwacz Przygód",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18
+        ],
+        "nitki": [
+            "Nitka Tęczowej Duszy",
+            "Nitka Cienia Wrażliwości",
+            "Nitka Emocjonalna",
+            "Nitka Harmonii Przemijania",
+            "Nitka Twórczej Manifestacji"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ENTJ",
+        "nazwa": "Dowódca",
+        "kragi_aktywne": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            19
+        ],
+        "nitki": [
+            "Nitka Woli Strategicznej",
+            "Nitka Strukturalna",
+            "Nitka Kierunkowa",
+            "Nitka Emocjonalna (niedojrzała)",
+            "Nitka Cienia Przywództwa"
+        ]
+    },
+    "opis": "Relacja lustrzana ISFP (Poszukiwacz Przygód) i ENTJ (Dowódca) to spotkanie subtelności z siłą, wrażliwości z wolą. Poszukiwacz tworzy piękno, Dowódca – struktury. Jeden wyraża duszę, drugi ją organizuje. Wspólnie uczą się: że miękkość nie oznacza słabości, a twardość może być czuła. Z tego spotkania rodzi się świat pełen formy i znaczenia.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 4 – Obecność",
+        "punkt_lustrzany": "Krąg 15 – Harmonia",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 10 – Manifest",
+            "Krąg 19 – Dharma"
+        ],
+        "efekt": "Piękno zostaje ukonstytuowane jako moc. Moc – nabiera barw i czułości. Rodzi się lider-artysta."
+    }
+}

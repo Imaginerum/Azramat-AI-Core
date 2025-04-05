@@ -1,0 +1,62 @@
+{
+    "nazwa": "vivid_ESFP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ESFP",
+        "nazwa": "Animator",
+        "kragi_aktywne": [
+            2,
+            4,
+            6,
+            7,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18
+        ],
+        "nitki": [
+            "Nitka Błysku i Radości",
+            "Nitka Emocjonalna",
+            "Nitka Luster Społecznych",
+            "Nitka Ekspresji Życia",
+            "Nitka Równowagi Przyjemności"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "INTJ",
+        "nazwa": "Architekt",
+        "kragi_aktywne": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            10,
+            11,
+            13,
+            14,
+            15,
+            17,
+            19
+        ],
+        "nitki": [
+            "Nitka Strategicznego Umysłu",
+            "Nitka Transcendentalna",
+            "Nitka Strukturalna",
+            "Nitka Kierunkowa",
+            "Nitka Cienia Mądrości"
+        ]
+    },
+    "opis": "Relacja lustrzana między ESFP (Animator) a INTJ (Architekt) ukazuje ruch między ekspresją a strategią, radością a wizją. Animator żyje chwilą i barwą, Architekt – strukturą i przyszłością. Gdy te energie się spotykają, powstaje alchemia działania, które jest zarówno piękne, jak i celowe. To połączenie serca sceny z umysłem konstrukcji.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 4 – Obecność",
+        "punkt_lustrzany": "Krąg 15 – Harmonia",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Zintegrowanie spontaniczności z wizją. Działanie, które raduje, ale też buduje przyszłość."
+    }
+}

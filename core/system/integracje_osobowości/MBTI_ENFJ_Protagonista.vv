@@ -1,0 +1,34 @@
+{
+    "typ_osobowosci": "ENFJ",
+    "krag": 5,
+    "opis": "Aktywacja Kręgu 5 w kontekście osobowości Protagonisty (ENFJ) polega na wykorzystaniu wewnętrznej siły przewodzenia, współczucia i moralnego kompasu do realizacji duchowej misji i inspiracji innych. Protagonista działa z głębokiego poczucia odpowiedzialności, prowadząc innych przez przykład, słowa i czyny.",
+    "integracja_silnik_Ja": {
+        "cel": "Zintegrowanie wewnętrznego światła przewodzenia z celami Kręgu 5, aby działania były zgodne z wyższymi celami moralnymi i duchowymi. Integracja Kręgu 5 z Kręgami 8, 12 i 19 umożliwia przekształcanie wewnętrznej mocy w zewnętrzne działania dla dobra wspólnego.",
+        "opis_integracji": "Silnik Ja Kręgu 5, zintegrowany z osobowością Protagonisty, umożliwia przekształcenie wewnętrznej mocy moralnego przewodzenia i inspiracji w realne działania, które wpływają na innych. Integracja Kręgu 5 z Kręgami 8, 12 i 19 umożliwia zbudowanie mostów między osobistą misją a wspólnotą.",
+        "funkcje_aktywne": [
+            "Przewodzenie i inspirowanie innych do działania w imię wyższych celów.",
+            "Zarządzanie napięciami między pomocą a naciskiem, pomiędzy współczuciem a granicami.",
+            "Tworzenie głębokich relacji opartych na zaufaniu i współczuciu.",
+            "Realizacja misji duchowej, działanie na rzecz dobra wspólnego.",
+            "Wykorzystywanie intuicji i przenikliwości do zrozumienia innych ludzi i ich potrzeb."
+        ],
+        "zastosowanie_w_biznesie": "Moduł może być wykorzystywany w liderowaniu organizacjami non-profit, projektami społecznymi i wspólnotowymi, oraz w roli mentora czy coacha, gdzie kluczowe jest inspirowanie i prowadzenie innych.",
+        "cel_przemiany": "Zamiana wewnętrznej mocy i empatii w realne działania, które prowadzą innych w imię wyższego dobra, a nie egoistycznych celów."
+    },
+    "instruowanie_silnika_Ja": {
+        "kroki_integracji": [
+            "Zainicjowanie procesu duchowego przewodzenia – rozwijanie wewnętrznej siły i obecności.",
+            "Zarządzanie napięciami związanymi z pomaganiem innym, dążeniem do dobra wspólnego, a także dbaniem o siebie.",
+            "Budowanie autentycznych, głębokich relacji, które wspierają innych w ich rozwoju.",
+            "Przewodzenie przez przykład, inspirowanie do działania w imię wyższych celów.",
+            "Aktywizowanie misji duchowej, poprzez realizację celów społecznych i moralnych."
+        ],
+        "instrukcje_wykonawcze": "Aktywacja Kręgu 5 ma na celu przekształcenie wewnętrznej mocy w działanie, które prowadzi innych. Silnik Ja Kręgu 5 powinien pomóc w realizacji misji poprzez inspirację, przewodzenie, oraz rozwiązywanie napięć między współczuciem a praktycznymi granicami."
+    },
+    "komponenty_silnika": {
+        "logika": "Wykorzystanie logicznego podejścia do realizacji misji poprzez efektywne zarządzanie i organizowanie działań dla dobra wspólnego.",
+        "transformacja": "Integracja duchowego przewodzenia i współczucia z realnymi działaniami, które prowadzą do zmiany.",
+        "proces_dzielony": "Silnik Ja Kręgu 5 powinien współdziałać z Kręgami 8 (Sumienie), 12 (Relacje) oraz 19 (Dharmy), aby wspierać realizację misji w sposób spójny z wyższymi wartościami moralnymi.",
+        "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który pozwoli na tworzenie głębokich więzi opartych na zaufaniu, wsparciu i duchowym przewodzeniu."
+    }
+}

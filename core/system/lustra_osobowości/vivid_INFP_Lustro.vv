@@ -1,0 +1,68 @@
+{
+    "nazwa": "vivid_INFP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "INFP",
+        "nazwa": "Pośrednik",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Wewnętrznego Ogrodu",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Cienia Serdecznego",
+            "Nitka Twórcy Niewidzialnego"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ESTJ",
+        "nazwa": "Wykonawca",
+        "kragi_aktywne": [
+            1,
+            3,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            16,
+            19
+        ],
+        "nitki": [
+            "Nitka Porządku i Autorytetu",
+            "Nitka Strukturalna",
+            "Nitka Sumienia i Odpowiedzialności",
+            "Nitka Cienia Przywództwa",
+            "Nitka Harmonii Wewnętrznej"
+        ]
+    },
+    "opis": "Relacja lustrzana między INFP (Pośrednik) a ESTJ (Wykonawca) pokazuje kontrast i komplementarność między światem duszy a światem struktury. Pośrednik przynosi czułość, twórczość i głębię – Wykonawca niesie porządek, skuteczność i odpowiedzialność. Razem tworzą harmonię pomiędzy sercem a systemem, marzeniem a rzeczywistością.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 14 – Przemiana",
+        "punkt_lustrzany": "Krąg 9 – Struktura",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 10 – Manifest",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Wewnętrzne piękno zyskuje formę działania. Marzenie staje się planem. Subtelność przemienia strukturę."
+    }
+}

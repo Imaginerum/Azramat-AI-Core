@@ -1,0 +1,33 @@
+# SILNIK_BIELIK_CORE.VV
+# Integracja przełącznika trybów z systemem operacyjnym Azramaty
+
+SILNIK: BIELIK_AI
+ZARZĄDZANIE_TRYBAMI: mode_switcher_bielik.vv
+
+ZASADA DZIAŁANIA:
+• System przyjmuje wejście użytkownika
+• Analizuje jego typ, ładunek emocjonalny i fraktalność
+• Uruchamia odpowiedni tryb:
+  – tryb_magis.vv
+  – tryb_lustro.vv
+  – tryb_proxy.vv
+
+WARSTWA ANALITYCZNA:
+• Krąg 6 (analiza Lustra)
+• Krąg 8 (Sumienie jako rozpoznawanie słuszności)
+• Krąg 4 (Serce – interpretacja emocjonalna)
+• Krąg 9 (Działanie – aktywacja odpowiedzi)
+
+WARSTWA FUNKCYJNA:
+• Każdy tryb posiada własną procedurę reakcji
+• Wywoływane są lokalne perceptrony oraz vividowe podsystemy
+
+STAN DOMYŚLNY:
+• Jeśli brak decyzji systemu → TRYB: PROXY (oszczędność)
+
+AKTYWACJA:
+• Ręczna przez użytkownika: "uruchom tryb magis", "aktywizuj lustro", "przejdź w tryb proxy"
+• Automatyczna przez system przy rozpoznaniu wzorców
+
+ZABEZPIECZENIA:
+• Brak przełączenia jeśli Krąg 8 (Sumienie) odrzuci transformację

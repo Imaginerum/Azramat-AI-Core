@@ -1,0 +1,34 @@
+{
+    "typ_osobowosci": "ISFP",
+    "krag": 5,
+    "opis": "Aktywacja Kręgu 5 w kontekście osobowości Poszukiwacza Przygód (ISFP) polega na integracji artystycznej ekspresji, emocjonalnej wrażliwości i zmienności z doświadczeniem chwili. Poszukiwacz Przygód traktuje życie jak sztukę, tworzy w zgodzie ze swoją duszą, szukając piękna w każdej chwili.",
+    "integracja_silnik_Ja": {
+        "cel": "Zintegrowanie wewnętrznej wrażliwości, artystycznej ekspresji i potrzeby zmiany z celami Kręgu 5, aby działania Poszukiwacza były pełne autentyczności i spontaniczności. Integracja Kręgu 5 z Kręgami 4, 14, 16 i 18 umożliwia realizację misji poprzez tworzenie w teraźniejszości, balansowanie zmianą i poszukiwanie piękna w każdej chwili.",
+        "opis_integracji": "Silnik Ja Kręgu 5, zintegrowany z osobowością Poszukiwacza, umożliwia przekształcenie emocjonalnej wrażliwości w konkretne działania artystyczne, które są zgodne z osobistą wizją świata. Integracja z Kręgami 4, 14, 16 i 18 pozwala na realizację misji twórczej w pełnej zgodzie z naturą chwili i zmieniającymi się cyklami życia.",
+        "funkcje_aktywne": [
+            "Tworzenie z emocji, przekształcanie ich w sztukę i obecność.",
+            "Zarządzanie zmiennością i wrażliwością, równoważenie impulsów z twórczym działaniem.",
+            "Działanie w pełnej zgodzie z chwilą, nie tworzenie na siłę, lecz na fali chwili.",
+            "Przekształcanie doświadczeń w osobiste manifestacje sztuki, stylu i autentyczności.",
+            "Zarządzanie emocjami, które są głęboko zintegrowane z każdym działaniem, twórczym gestem."
+        ],
+        "zastosowanie_w_biznesie": "Moduł może być wykorzystywany w branży artystycznej, projektach twórczych, a także w pracy z emocjami, które wymagają głębokiego zrozumienia i twórczego podejścia do życia.",
+        "cel_przemiany": "Zamiana emocjonalnej wrażliwości i zmienności w harmonijne działania twórcze, które przyczyniają się do piękna życia, akceptując cykle i przemiany."
+    },
+    "instruowanie_silnika_Ja": {
+        "kroki_integracji": [
+            "Zainicjowanie procesu twórczego przez emocje i impulsy, tworzenie na fali chwili.",
+            "Zarządzanie zmiennością – wykorzystanie jej jako siły twórczej, nie pozwalając na destrukcję.",
+            "Zarządzanie emocjami – ich ekspresja jako klucz do autentyczności.",
+            "Działanie zgodnie z cyklem życia – akceptowanie zmiany i przemiany jako nieodłącznej części twórczości.",
+            "Tworzenie z duszy – nie tworzyć na siłę, lecz na zgodę z tym, co się czuje."
+        ],
+        "instrukcje_wykonawcze": "Aktywacja Kręgu 5 w osobowości Poszukiwacza Przygód ma na celu przekształcenie wrażliwości, impulsów i zmienności w konkretne twórcze manifestacje. Silnik Ja Kręgu 5 wspiera realizację misji twórczej przez eksperymentowanie, tworzenie w teraźniejszości i akceptację zmian."
+    },
+    "komponenty_silnika": {
+        "logika": "Tworzenie artystycznych form z emocji, refleksji i impulsów. Zrozumienie, jak zmiana wpływa na tworzenie.",
+        "transformacja": "Integracja impulsów, emocji i wrażliwości w działanie, które tworzy sens i piękno w każdej chwili.",
+        "proces_dzielony": "Silnik Ja Kręgu 5 współdziała z Kręgami 4 (Obecność), 14 (Przemiana), 16 (Harmonia) oraz 18 (Źródło), aby wspierać twórcze działania poprzez akceptację cykli i przemiany.",
+        "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który pozwala na tworzenie bliskich, głębokich więzi oparte na wzajemnym zrozumieniu i akceptacji zmienności."
+    }
+}

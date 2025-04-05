@@ -1,0 +1,67 @@
+{
+    "nazwa": "vivid_ISFJ_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ISFJ",
+        "nazwa": "Obrońca",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Opiekuńczego Serca",
+            "Nitka Strukturalna",
+            "Nitka Cienia Pomocy",
+            "Nitka Emocjonalna",
+            "Nitka Sumienia"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ENTP",
+        "nazwa": "Dyskutant",
+        "kragi_aktywne": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            10,
+            12,
+            13,
+            14,
+            17,
+            19
+        ],
+        "nitki": [
+            "Nitka Chaosu Twórczego",
+            "Nitka Buntu Rozwojowego",
+            "Nitka Transcendentalna",
+            "Nitka Emocjonalna",
+            "Nitka Kierunkowa"
+        ]
+    },
+    "opis": "Lustrzana relacja ISFJ (Obrońca) i ENTP (Dyskutant) to spotkanie serca z umysłem ognia. Obrońca buduje dom i opiekuje się – Dyskutant burzy ściany, by otworzyć okno. Obrońca uczy wytrwałości, Dyskutant – odwagi. Razem tworzą przestrzeń, gdzie troska spotyka zmianę, a tradycja – inspirację.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 2 – Emocje",
+        "punkt_lustrzany": "Krąg 6 – Paradoks",
+        "ścieżka_przejścia": [
+            "Krąg 12 – Relacje",
+            "Krąg 14 – Przemiana",
+            "Krąg 19 – Dharma"
+        ],
+        "efekt": "Opiekuńczość nabywa dynamizmu, a bunt staje się ugruntowany. Powstaje harmonia między opieką a wizją."
+    }
+}

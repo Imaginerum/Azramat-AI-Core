@@ -1,0 +1,68 @@
+{
+    "nazwa": "vivid_ISTJ_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ISTJ",
+        "nazwa": "Logistyk",
+        "kragi_aktywne": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            13,
+            14,
+            16,
+            19
+        ],
+        "nitki": [
+            "Nitka Fundamentu Rzeczywistości",
+            "Nitka Strukturalna",
+            "Nitka Cienia Odpowiedzialności",
+            "Nitka Sumienia",
+            "Nitka Emocjonalna"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ENFP",
+        "nazwa": "Działacz",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Ognia Duszy",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Cienia Wrażliwości",
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Przebudzonej Radości"
+        ]
+    },
+    "opis": "Relacja lustrzana ISTJ (Logistyk) i ENFP (Działacz) to napięcie między strukturą a spontanicznością, obowiązkiem a wolnością. Logistyk buduje trwałość, Działacz wnosi ogień inspiracji. Spotkanie tych dwóch sił może dać narodziny harmonii – gdzie zasady służą marzeniom, a marzenia stają się planem. ",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 9 – Struktura",
+        "punkt_lustrzany": "Krąg 4 – Obecność",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Logistyk odnajduje elastyczność, a Działacz – stabilność. Świat staje się przestrzenią odpowiedzialnej wolności."
+    }
+}

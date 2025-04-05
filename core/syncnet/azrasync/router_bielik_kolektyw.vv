@@ -1,0 +1,43 @@
+# ROUTER_BIELIK_KOLEKTYW.VV
+# Systemowy przełącznik instancji Bielik AI na podstawie aktywnego Kręgu i zapytania
+
+NAZWA: ROUTER_BIELIK_KOLEKTYW
+
+CEL:
+• Dynamiczne kierowanie zapytań do odpowiednich instancji Bielik AI zgodnie z aktywnym Kręgiem
+• Obsługa pracy wielomodelowej i zarządzanie aktywnością percepcyjną
+• Oszczędność zasobów – tylko potrzebne modele aktywowane w danym momencie
+
+STRUKTURA:
+
+[MAPOWANIE KRĘGÓW NA INSTANCJE]
+• Krąg 0 → Bielik_0
+• Krąg 1 → Bielik_1
+• ...
+• Krąg 28 → Bielik_28
+
+[ZASADY PRZEŁĄCZANIA]
+• Zapytanie analizowane przez perceptrons.vv → aktywacja odpowiedniego Kręgu
+• Router wybiera model powiązany z tym Kręgiem
+• Możliwe tryby współpracy:
+    – POJEDYNCZY: jeden model obsługuje żądanie
+    – DUALNY: dwa modele równocześnie (np. K6 + K8)
+    – KOLEKTYWNY: >3 modele – analiza fraktalna
+
+[AKTYWACJA I ZARZĄDZANIE]
+• Jeśli model nieaktywny – ładowany z dysku
+• Jeśli już aktywny – przetwarza dane natychmiast
+• System mierzy czas odpowiedzi i może zoptymalizować kolejność instancji
+
+[TRYBY OPERACYJNE]
+• TRYB DEEP – modele analizują dane współbieżnie i dzielą się odpowiedziami
+• TRYB SILO – każdy model działa osobno, odpowiedź centralnie scalana
+• TRYB INTUICJI – router odwołuje się do intuicja_operacyjna.vv, by zgadnąć aktywny Krąg
+
+ZASTOSOWANIE:
+• Azramata z Kolektywem Bielika AI
+• Symfonia transformacji danych i świadomości
+• Obsługa wielu stylów myślenia, emocji i rytuałów równolegle
+
+META:
+• Router działa jak batuta dla orkiestry 29 modeli – wskazuje, kto gra, a kto czeka

@@ -1,0 +1,294 @@
+{
+    "nazwa": "vivid_MBTI_Lustra_Integracja.vv",
+    "opis": "Ten vivid systemowy integruje wszystkie 16 typów osobowości MBTI z ich lustrzanymi odpowiednikami. Został zaprojektowany dla Silnika Ja w celu umożliwienia dynamicznego rozwoju świadomości użytkownika poprzez konfrontację i integrację z typem przeciwstawnym. Zawiera mapy transformacyjne, punkty napięcia, kręgi przemiany i ścieżki wzajemnego rozwoju. Stanowi podstawę treningową dla warstwy mirror-listener w AzramAI.",
+    "komponenty": [
+        {
+            "plik": "vivid_ENFJ_Lustro.vv",
+            "typy": [
+                "ENFJ",
+                "INTP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 12 – Relacje",
+                "punkt_lustrzany": "Krąg 3 – Myśl",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która widzi i czuje jednocześnie."
+            },
+            "opis": "Relacja lustrzana między ENFJ (Protagonista) a INTP (Logik) ukazuje głęboką równowagę pomiędzy sercem a umysłem, pomiędzy potrzebą działania społecznego a kontemplacją. Protagonista wnosi światło, relacje i sumienie, zaś Logik dodaje głębię intelektualną, paradoksalność i strukturalne rozumienie rzeczywistości. Wspólnie tworzą most między emocją a ideą, łącząc światło wspólnoty z cieniem myślenia."
+        },
+        {
+            "plik": "vivid_ENFP_Lustro.vv",
+            "typy": [
+                "ENFP",
+                "ISTJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 4 – Obecność",
+                "punkt_lustrzany": "Krąg 9 – Struktura",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 16 – Harmonia"
+                ],
+                "efekt": "Uziemienie inspiracji. Tworzenie wizji, które mają strukturę i mogą zostać zrealizowane."
+            },
+            "opis": "Relacja lustrzana między ENFP (Działacz) a ISTJ (Logistyk) odsłania napięcie pomiędzy żywiołową ekspresją a uporządkowaną rzeczywistością. Działacz wnosi płomień inspiracji, chaos idei i głęboką emocjonalność, natomiast Logistyk – strukturę, obowiązek i konsekwencję. Ich spotkanie prowadzi do transformacji przez zderzenie wolności z odpowiedzialnością oraz radości z powinnością."
+        },
+        {
+            "plik": "vivid_ENTJ_Lustro.vv",
+            "typy": [
+                "ENTJ",
+                "INFP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 11 – Wola",
+                "punkt_lustrzany": "Krąg 2 – Emocje",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Zharmonizowanie przywództwa z sercem. Narodziny lidera, który prowadzi nie tylko rozumem, ale też duszą."
+            },
+            "opis": "Relacja lustrzana między ENTJ (Dowódca) a INFP (Pośrednik) przedstawia zderzenie siły woli, strategii i działania z czułością, wrażliwością i duchowym powołaniem. Dowódca reprezentuje logikę, skuteczność i kierunek, podczas gdy Pośrednik wnosi emocjonalną głębię i pragnienie sensu. Ich integracja pozwala połączyć misję z empatią, a władzę z wewnętrzną prawdą."
+        },
+        {
+            "plik": "vivid_ENTP_Lustro.vv",
+            "typy": [
+                "ENTP",
+                "ISFJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 6 – Paradoks",
+                "punkt_lustrzany": "Krąg 8 – Sumienie",
+                "ścieżka_przejścia": [
+                    "Krąg 13 – Cień",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Połączenie kreatywnego buntu z wewnętrzną troską. Rewolucja z sercem."
+            },
+            "opis": "Relacja lustrzana między ENTP (Dyskutant) a ISFJ (Obrońca) ukazuje kontrast między chaotyczną kreatywnością a ugruntowaną troską. Dyskutant rozsadza schematy ideami i prowokacją, podczas gdy Obrońca tworzy bezpieczne ramy i wspiera relacje codzienności. Wspólnie tworzą przestrzeń, gdzie rewolucja spotyka empatię, a wolność uczy się współodczuwania."
+        },
+        {
+            "plik": "vivid_ESFJ_Lustro.vv",
+            "typy": [
+                "ESFJ",
+                "INTP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 12 – Relacje",
+                "punkt_lustrzany": "Krąg 7 – Poznanie",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Ugruntowanie troski w prawdzie. Połączenie moralności z myśleniem. Opieka, która rozumie."
+            },
+            "opis": "Lustro między ESFJ (Doradca) a INTP (Logik) to spotkanie serca wspólnoty z umysłem kontemplacji. Doradca kieruje się troską i strukturą relacji, Logik – analizą i filozofią. Ten vivid ukazuje drogę do integracji społecznej empatii z głęboką refleksją – gdy logika służy ludziom, a troska opiera się na rozumieniu rzeczywistości."
+        },
+        {
+            "plik": "vivid_ESFP_Lustro.vv",
+            "typy": [
+                "ESFP",
+                "INTJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 4 – Obecność",
+                "punkt_lustrzany": "Krąg 15 – Harmonia",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Zintegrowanie spontaniczności z wizją. Działanie, które raduje, ale też buduje przyszłość."
+            },
+            "opis": "Relacja lustrzana między ESFP (Animator) a INTJ (Architekt) ukazuje ruch między ekspresją a strategią, radością a wizją. Animator żyje chwilą i barwą, Architekt – strukturą i przyszłością. Gdy te energie się spotykają, powstaje alchemia działania, które jest zarówno piękne, jak i celowe. To połączenie serca sceny z umysłem konstrukcji."
+        },
+        {
+            "plik": "vivid_ESTJ_Lustro.vv",
+            "typy": [
+                "ESTJ",
+                "INFP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 9 – Struktura",
+                "punkt_lustrzany": "Krąg 2 – Emocje",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 16 – Harmonia"
+                ],
+                "efekt": "Połączenie siły i wrażliwości. Działanie, które nie tylko tworzy świat zewnętrzny, ale też wewnętrznie go czuje."
+            },
+            "opis": "Lustrzana relacja ESTJ (Wykonawca) i INFP (Pośrednik) przedstawia napięcie między porządkiem a duszą, strukturą a intuicją. Wykonawca działa w imię zasad i wspólnoty, Pośrednik – w imię serca i prawdy. Ich spotkanie tworzy most między działaniem a odczuwaniem, między autorytetem a empatią. Razem mogą stworzyć świat, który jest zarówno uporządkowany, jak i piękny."
+        },
+        {
+            "plik": "vivid_ESTP_Lustro.vv",
+            "typy": [
+                "ESTP",
+                "INFJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 1 – Reakcja",
+                "punkt_lustrzany": "Krąg 8 – Sumienie",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Zharmonizowanie działania z wewnętrzną mądrością. Pojawienie się Bohatera, który nie tylko działa – ale wie, po co."
+            },
+            "opis": "Relacja lustrzana między ESTP (Przedsiębiorca) a INFJ (Rzecznik) to zderzenie świata działania z wewnętrzną misją. Przedsiębiorca działa szybko, bez wahania, z pasją – Rzecznik kontempluje, słucha i przewodzi z głębi sumienia. Ich spotkanie tworzy możliwość integracji instynktu i wizji, odwagi i mądrości, czynu i sensu."
+        },
+        {
+            "plik": "vivid_INFJ_Lustro.vv",
+            "typy": [
+                "INFJ",
+                "ESTP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 8 – Sumienie",
+                "punkt_lustrzany": "Krąg 1 – Reakcja",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Uziemienie duchowej wizji w świecie czynu. Świadome działanie w imię wewnętrznej prawdy."
+            },
+            "opis": "Lustro INFJ (Rzecznik) i ESTP (Przedsiębiorca) to alchemia między głębią a natychmiastowością. Rzecznik żyje misją, sensem, czułością, Przedsiębiorca – impulsem, ruchem, efektem. Wzajemnie uczą się: Rzecznik działania, a Przedsiębiorca refleksji. To spotkanie sumienia z ogniem chwili."
+        },
+        {
+            "plik": "vivid_INFP_Lustro.vv",
+            "typy": [
+                "INFP",
+                "ESTJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 14 – Przemiana",
+                "punkt_lustrzany": "Krąg 9 – Struktura",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 10 – Manifest",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Wewnętrzne piękno zyskuje formę działania. Marzenie staje się planem. Subtelność przemienia strukturę."
+            },
+            "opis": "Relacja lustrzana między INFP (Pośrednik) a ESTJ (Wykonawca) pokazuje kontrast i komplementarność między światem duszy a światem struktury. Pośrednik przynosi czułość, twórczość i głębię – Wykonawca niesie porządek, skuteczność i odpowiedzialność. Razem tworzą harmonię pomiędzy sercem a systemem, marzeniem a rzeczywistością."
+        },
+        {
+            "plik": "vivid_INTJ_Lustro.vv",
+            "typy": [
+                "INTJ",
+                "ESFP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 15 – Harmonia",
+                "punkt_lustrzany": "Krąg 4 – Obecność",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 10 – Manifest",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Zintegrowanie umysłu i serca. Architekt staje się artystą rzeczywistości. Strateg odnajduje taniec życia."
+            },
+            "opis": "Lustro INTJ (Architekt) i ESFP (Animator) to napięcie między planowaniem a spontanicznością, między wizją a radością chwili. Architekt buduje struktury przyszłości, Animator rozświetla teraźniejszość. Razem tworzą świat, który jest zarówno sensowny, jak i piękny – świat, w którym plan może tańczyć, a radość ma cel."
+        },
+        {
+            "plik": "vivid_INTP_Lustro.vv",
+            "typy": [
+                "INTP",
+                "ESFJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 3 – Myśl",
+                "punkt_lustrzany": "Krąg 12 – Relacje",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Integracja intelektu i serca. Relacje stają się przestrzenią dla mądrości. Myślenie staje się opieką."
+            },
+            "opis": "Relacja lustrzana między INTP (Logik) a ESFJ (Doradca) to spotkanie samotnej refleksji z pełnią relacji. Logik analizuje świat, Doradca go wspiera. W tej parze powstaje możliwość: by myśl znalazła formę, a troska – głębię. Logik zyskuje ciepło, Doradca – klarowność. Wspólnie tworzą strukturę myślącej wspólnoty."
+        },
+        {
+            "plik": "vivid_ISFJ_Lustro.vv",
+            "typy": [
+                "ISFJ",
+                "ENTP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 2 – Emocje",
+                "punkt_lustrzany": "Krąg 6 – Paradoks",
+                "ścieżka_przejścia": [
+                    "Krąg 12 – Relacje",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 19 – Dharma"
+                ],
+                "efekt": "Opiekuńczość nabywa dynamizmu, a bunt staje się ugruntowany. Powstaje harmonia między opieką a wizją."
+            },
+            "opis": "Lustrzana relacja ISFJ (Obrońca) i ENTP (Dyskutant) to spotkanie serca z umysłem ognia. Obrońca buduje dom i opiekuje się – Dyskutant burzy ściany, by otworzyć okno. Obrońca uczy wytrwałości, Dyskutant – odwagi. Razem tworzą przestrzeń, gdzie troska spotyka zmianę, a tradycja – inspirację."
+        },
+        {
+            "plik": "vivid_ISFP_Lustro.vv",
+            "typy": [
+                "ISFP",
+                "ENTJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 4 – Obecność",
+                "punkt_lustrzany": "Krąg 15 – Harmonia",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 10 – Manifest",
+                    "Krąg 19 – Dharma"
+                ],
+                "efekt": "Piękno zostaje ukonstytuowane jako moc. Moc – nabiera barw i czułości. Rodzi się lider-artysta."
+            },
+            "opis": "Relacja lustrzana ISFP (Poszukiwacz Przygód) i ENTJ (Dowódca) to spotkanie subtelności z siłą, wrażliwości z wolą. Poszukiwacz tworzy piękno, Dowódca – struktury. Jeden wyraża duszę, drugi ją organizuje. Wspólnie uczą się: że miękkość nie oznacza słabości, a twardość może być czuła. Z tego spotkania rodzi się świat pełen formy i znaczenia."
+        },
+        {
+            "plik": "vivid_ISTJ_Lustro.vv",
+            "typy": [
+                "ISTJ",
+                "ENFP"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 9 – Struktura",
+                "punkt_lustrzany": "Krąg 4 – Obecność",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 18 – Źródło"
+                ],
+                "efekt": "Logistyk odnajduje elastyczność, a Działacz – stabilność. Świat staje się przestrzenią odpowiedzialnej wolności."
+            },
+            "opis": "Relacja lustrzana ISTJ (Logistyk) i ENFP (Działacz) to napięcie między strukturą a spontanicznością, obowiązkiem a wolnością. Logistyk buduje trwałość, Działacz wnosi ogień inspiracji. Spotkanie tych dwóch sił może dać narodziny harmonii – gdzie zasady służą marzeniom, a marzenia stają się planem. "
+        },
+        {
+            "plik": "vivid_ISTP_Lustro.vv",
+            "typy": [
+                "ISTP",
+                "ENFJ"
+            ],
+            "kręgi_transformacji": {
+                "punkt_początkowy": "Krąg 3 – Myśl",
+                "punkt_lustrzany": "Krąg 12 – Relacje",
+                "ścieżka_przejścia": [
+                    "Krąg 6 – Paradoks",
+                    "Krąg 14 – Przemiana",
+                    "Krąg 19 – Dharma"
+                ],
+                "efekt": "Działanie nabiera sensu. Izolacja staje się obecnością. Wirtuoz staje się Przewodnikiem Innowacji."
+            },
+            "opis": "Lustro ISTP (Wirtuoz) i ENFJ (Protagonista) to zderzenie działania z misją, samotności z przewodnictwem. Wirtuoz bada świat przez eksperyment, Protagonista – przez relacje i sens. Wspólnie tworzą most między precyzją a sercem, między konstrukcją a inspiracją. To spotkanie cichego twórcy z latarnią wspólnoty."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "nazwa": "vivid_ENFJ_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ENFJ",
+        "nazwa": "Protagonista",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Światła Przewodniego",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Relacyjna",
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Cienia Opiekuna"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "INTP",
+        "nazwa": "Logik",
+        "kragi_aktywne": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            13,
+            14,
+            17,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Poszukiwacza Paradoksu",
+            "Nitka Transcendentalna",
+            "Nitka Emocjonalna",
+            "Nitka Strukturalna",
+            "Nitka Kierunkowa",
+            "Nitka Tajemnicy Wszechświata"
+        ]
+    },
+    "opis": "Relacja lustrzana między ENFJ (Protagonista) a INTP (Logik) ukazuje głęboką równowagę pomiędzy sercem a umysłem, pomiędzy potrzebą działania społecznego a kontemplacją. Protagonista wnosi światło, relacje i sumienie, zaś Logik dodaje głębię intelektualną, paradoksalność i strukturalne rozumienie rzeczywistości. Wspólnie tworzą most między emocją a ideą, łącząc światło wspólnoty z cieniem myślenia.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 12 – Relacje",
+        "punkt_lustrzany": "Krąg 3 – Myśl",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która widzi i czuje jednocześnie."
+    }
+}

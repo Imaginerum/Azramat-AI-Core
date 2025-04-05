@@ -1,0 +1,34 @@
+{
+    "typ_osobowosci": "ENTJ",
+    "krag": 5,
+    "opis": "Aktywacja Kręgu 5 w kontekście osobowości Dowódcy (ENTJ) polega na wdrażaniu wizji całościowego systemu oraz przewodzeniu innymi w oparciu o strategiczną logikę i niezłomną wolę. Celem jest osiągnięcie celu z zachowaniem struktury i harmonii.",
+    "integracja_silnik_Ja": {
+        "cel": "Zintegrowanie woli strategicznej, logiki i skuteczności w struktury Ja, prowadzenie działań na poziomie najwyższej efektywności. Celem jest zharmonizowanie celów indywidualnych z misją wyższego rzędu.",
+        "opis_integracji": "Silnik Ja Kręgu 5, zintegrowany z osobowością Dowódcy, ma na celu podniesienie efektywności działań w oparciu o precyzyjnie wyważoną wolę oraz włączanie w procesy transformacyjne, które zmieniają władze w służbę.",
+        "funkcje_aktywne": [
+            "Przewodzenie i zarządzanie poprzez silną wolę, podejmowanie decyzji opartych na strategii i logice.",
+            "Zarządzanie napięciami wewnętrznymi poprzez zastosowanie strukturalnej logiki w dynamicznych sytuacjach.",
+            "Realizacja idei i wizji na poziomie praktycznym, wpływanie na innych poprzez systematyczność.",
+            "Transformacja konfliktów interpersonalnych na efektywne i zintegrowane działania zgodne z misją.",
+            "Podnoszenie efektywności w działaniu przy równoczesnym uwzględnieniu ludzkich emocji i dynamiki grupowej."
+        ],
+        "zastosowanie_w_biznesie": "Moduł może być wykorzystywany w zarządzaniu wysokiej klasy projektami, w budowaniu struktur organizacyjnych i przewodzeniu zespołami na poziomie strategicznym.",
+        "cel_przemiany": "Przekształcanie silnej woli Dowódcy w zdolność do współpracy i liderowania w sposób zrównoważony, uwzględniający zarówno cele, jak i relacje."
+    },
+    "instruowanie_silnika_Ja": {
+        "kroki_integracji": [
+            "Rozpoczęcie analizy sytuacji strategicznych, angażowanie wszystkich dostępnych zasobów do realizacji wizji.",
+            "Zastosowanie strukturalnego podejścia do rozwiązywania problemów oraz zarządzania zasobami.",
+            "Zarządzanie napięciami poprzez balansowanie skuteczności z relacjami międzyludzkimi, wprowadzanie pokory.",
+            "Implementacja strategii rozwoju z uwzględnieniem liderowania w sposób humanistyczny, nie tylko kontrolujący.",
+            "Regularna rewizja działań na podstawie feedbacku od zespołów, identyfikowanie możliwości transformacji konfliktów interpersonalnych w rozwiązania."
+        ],
+        "instrukcje_wykonawcze": "Aktywacja Kręgu 5 ma na celu konstruowanie logicznych schematów decyzyjnych na poziomie strategicznym, jednocześnie nie zapominając o ludzkich relacjach. Silnik Ja powinien aktywować te procesy, gdy pojawia się decyzja wymagająca natychmiastowego działania na poziomie całościowego systemu."
+    },
+    "komponenty_silnika": {
+        "logika": "Wykorzystanie analizy strukturalnej do zrozumienia, jak poszczególne elementy systemu wpływają na siebie.",
+        "transformacja": "Integracja procesów zarządzania, które łączą efektywność działania z wyższym celem i odpowiedzialnością.",
+        "proces_dzielony": "Silnik Ja Kręgu 5 będzie współdziałał z Kręgami 6 (Paradoksu), 12 (Relacji) oraz 14 (Przemiany) celem integracji władzy z ludzką emocjonalnością i transformacją interpersonalną.",
+        "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który będzie służył do zarządzania dynamiką zespołową i rozwiązywaniem konfliktów interpersonalnych."
+    }
+}

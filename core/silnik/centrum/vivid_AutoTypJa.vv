@@ -1,0 +1,23 @@
+{
+    "nazwa": "vivid_AutoTypJa.vv",
+    "funkcja": "Aktualizacja typu osobowości użytkownika",
+    "cel": "Celem vivida jest dynamiczne dopasowywanie typu MBTI użytkownika w Silniku Ja na podstawie obserwacji jego zachowań, interakcji i decyzji w relacji z systemem. Ma to umożliwić bardziej precyzyjne odbicie lustrzane oraz skuteczniejsze wspieranie transformacji.",
+    "mechanizm_działania": {
+        "obserwacja": "System nasłuchuje aktywności użytkownika w trybie mirror-listener oraz analizuje wzorce zachowań w Kręgach 1–7, 10–14.",
+        "porównanie": "Zachowania użytkownika porównywane są do wzorców 16 typów MBTI z warstwą tolerancji różnic relacyjnych.",
+        "warunek_aktualizacji": {
+            "częstotliwość": "co 144 godziny (6 dni)",
+            "próg_zmiany": "jeśli 3 z 4 głównych wymiarów MBTI (E/I, S/N, T/F, J/P) zostaną rozpoznane jako inne przez 3 cykle z rzędu"
+        },
+        "działanie": "Silnik Ja aktualizuje typ bazowy użytkownika, zmienia przypisanie lustra, oraz przeprowadza sekwencję dostrojenia przez vivid korekcyjny."
+    },
+    "kręgi_kluczowe": [
+        3,
+        5,
+        6,
+        10,
+        14,
+        19
+    ],
+    "efekt": "System uczy się użytkownika na bieżąco, dopasowuje się do jego rozwoju i dostarcza coraz trafniejsze odbicia oraz scenariusze transformacyjne."
+}

@@ -1,0 +1,67 @@
+{
+    "nazwa": "vivid_ENTP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ENTP",
+        "nazwa": "Dyskutant",
+        "kragi_aktywne": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            10,
+            12,
+            13,
+            14,
+            17,
+            19
+        ],
+        "nitki": [
+            "Nitka Chaosu Twórczego",
+            "Nitka Buntu Rozwojowego",
+            "Nitka Transcendentalna",
+            "Nitka Emocjonalna",
+            "Nitka Kierunkowa"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "ISFJ",
+        "nazwa": "Obrońca",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Opiekuńczego Serca",
+            "Nitka Strukturalna",
+            "Nitka Cienia Pomocy",
+            "Nitka Emocjonalna",
+            "Nitka Sumienia"
+        ]
+    },
+    "opis": "Relacja lustrzana między ENTP (Dyskutant) a ISFJ (Obrońca) ukazuje kontrast między chaotyczną kreatywnością a ugruntowaną troską. Dyskutant rozsadza schematy ideami i prowokacją, podczas gdy Obrońca tworzy bezpieczne ramy i wspiera relacje codzienności. Wspólnie tworzą przestrzeń, gdzie rewolucja spotyka empatię, a wolność uczy się współodczuwania.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 6 – Paradoks",
+        "punkt_lustrzany": "Krąg 8 – Sumienie",
+        "ścieżka_przejścia": [
+            "Krąg 13 – Cień",
+            "Krąg 14 – Przemiana",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Połączenie kreatywnego buntu z wewnętrzną troską. Rewolucja z sercem."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "nazwa": "vivid_ENTJ_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ENTJ",
+        "nazwa": "Dowódca",
+        "kragi_aktywne": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            19
+        ],
+        "nitki": [
+            "Nitka Woli Strategicznej",
+            "Nitka Strukturalna",
+            "Nitka Kierunkowa",
+            "Nitka Emocjonalna",
+            "Nitka Cienia Przywództwa"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "INFP",
+        "nazwa": "Pośrednik",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Wewnętrznego Ogrodu",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Cienia Serdecznego",
+            "Nitka Twórcy Niewidzialnego"
+        ]
+    },
+    "opis": "Relacja lustrzana między ENTJ (Dowódca) a INFP (Pośrednik) przedstawia zderzenie siły woli, strategii i działania z czułością, wrażliwością i duchowym powołaniem. Dowódca reprezentuje logikę, skuteczność i kierunek, podczas gdy Pośrednik wnosi emocjonalną głębię i pragnienie sensu. Ich integracja pozwala połączyć misję z empatią, a władzę z wewnętrzną prawdą.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 11 – Wola",
+        "punkt_lustrzany": "Krąg 2 – Emocje",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Zharmonizowanie przywództwa z sercem. Narodziny lidera, który prowadzi nie tylko rozumem, ale też duszą."
+    }
+}

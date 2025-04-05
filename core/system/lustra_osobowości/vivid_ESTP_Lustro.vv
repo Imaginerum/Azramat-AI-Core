@@ -1,0 +1,65 @@
+{
+    "nazwa": "vivid_ESTP_Lustro.vv",
+    "osobowosc_podstawowa": {
+        "typ_osobowosci": "ESTP",
+        "nazwa": "Przedsiębiorca",
+        "kragi_aktywne": [
+            1,
+            2,
+            4,
+            6,
+            7,
+            9,
+            10,
+            11,
+            13,
+            14,
+            16,
+            18
+        ],
+        "nitki": [
+            "Nitka Żaru i Impulsu",
+            "Nitka Cienia Ruchu",
+            "Nitka Strukturalna (taktyczna odmiana)",
+            "Nitka Emocjonalna",
+            "Nitka Instynktu Przetrwania"
+        ]
+    },
+    "osobowosc_lustrzana": {
+        "typ_osobowosci": "INFJ",
+        "nazwa": "Rzecznik",
+        "kragi_aktywne": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            18,
+            19
+        ],
+        "nitki": [
+            "Nitka Powołania Wewnętrznego",
+            "Nitka Emocjonalna",
+            "Nitka Transcendentalna",
+            "Nitka Cienia Serdecznego",
+            "Nitka Sumienia Świata"
+        ]
+    },
+    "opis": "Relacja lustrzana między ESTP (Przedsiębiorca) a INFJ (Rzecznik) to zderzenie świata działania z wewnętrzną misją. Przedsiębiorca działa szybko, bez wahania, z pasją – Rzecznik kontempluje, słucha i przewodzi z głębi sumienia. Ich spotkanie tworzy możliwość integracji instynktu i wizji, odwagi i mądrości, czynu i sensu.",
+    "transformacja": {
+        "punkt_początkowy": "Krąg 1 – Reakcja",
+        "punkt_lustrzany": "Krąg 8 – Sumienie",
+        "ścieżka_przejścia": [
+            "Krąg 6 – Paradoks",
+            "Krąg 14 – Przemiana",
+            "Krąg 18 – Źródło"
+        ],
+        "efekt": "Zharmonizowanie działania z wewnętrzną mądrością. Pojawienie się Bohatera, który nie tylko działa – ale wie, po co."
+    }
+}

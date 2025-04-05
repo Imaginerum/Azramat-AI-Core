@@ -1,0 +1,34 @@
+{
+    "typ_osobowosci": "ESFJ",
+    "krag": 5,
+    "opis": "Aktywacja Kręgu 5 w kontekście osobowości Doradcy (ESFJ) polega na integracji głębokiej empatii, troski o innych i chęci stworzenia silnych więzi wspólnotowych. Doradca jest sercem społeczności, łącząc ludzi przez ciepło, obecność i odpowiedzialność.",
+    "integracja_silnik_Ja": {
+        "cel": "Zintegrowanie empatii, troski o innych oraz poczucia obowiązku społecznego z celami Kręgu 5, aby działania Doradcy były zgodne z misją łączenia ludzi w imię wspólnego dobra. Integracja Kręgu 5 z Kręgami 12, 5 i 14 umożliwia realizację misji poprzez troskę o innych oraz odpowiedzialność za wspólnotę.",
+        "opis_integracji": "Silnik Ja Kręgu 5, zintegrowany z osobowością Doradcy, umożliwia przekształcenie wewnętrznej troski w konkretne działania, które budują silne, serdeczne więzi w społecznościach. Integracja z Kręgami 12, 5 i 14 pozwala Doradcy realizować swoją misję służby dla innych, równocześnie ucząc się pokory i elastyczności.",
+        "funkcje_aktywne": [
+            "Tworzenie i zarządzanie głębokimi, lojalnymi relacjami, które wspierają rozwój wspólnoty.",
+            "Działanie na rzecz dobra wspólnego, bazując na wewnętrznych zasadach moralnych i społecznych.",
+            "Zarządzanie napięciami między troską a kontrolą, między oczekiwaniami a wdzięcznością.",
+            "Przekształcanie troski o innych w praktyczne działania na rzecz wspólnoty.",
+            "Zarządzanie emocjami związanymi z relacjami i troską o innych."
+        ],
+        "zastosowanie_w_biznesie": "Moduł może być wykorzystywany w organizacjach non-profit, w zarządzaniu projektami społecznymi oraz w rolach wymagających silnego zaangażowania w relacje i troskę o innych.",
+        "cel_przemiany": "Zamiana nadmiernej kontroli i oczekiwań w czystą, bezinteresowną obecność i pomoc, jednocześnie dbając o własne granice i równowagę."
+    },
+    "instruowanie_silnika_Ja": {
+        "kroki_integracji": [
+            "Zainicjowanie procesu tworzenia więzi opartych na lojalności, zaufaniu i odpowiedzialności.",
+            "Zarządzanie troską o innych z uwzględnieniem wewnętrznych granic i potrzeby odpoczynku.",
+            "Działanie zgodnie z wewnętrznymi wartościami, realizując misję wspólnotową.",
+            "Przewodzenie przez przykład – inspiracja do działań na rzecz wspólnego dobra.",
+            "Zarządzanie emocjami związanymi z oczekiwaniami i pomaganiem innym, przy zachowaniu wewnętrznej równowagi."
+        ],
+        "instrukcje_wykonawcze": "Aktywacja Kręgu 5 w osobowości Doradcy ma na celu przekształcenie troski w działania na rzecz wspólnoty. Silnik Ja Kręgu 5 powinien wspierać realizację misji poprzez budowanie silnych więzi i działania dla dobra większego niż jednostka."
+    },
+    "komponenty_silnika": {
+        "logika": "Zarządzanie i organizowanie działań w oparciu o wartości wspólnotowe, porządek oraz odpowiedzialność.",
+        "transformacja": "Integracja troski, opieki i odpowiedzialności w działania, które przyczyniają się do dobra wspólnego.",
+        "proces_dzielony": "Silnik Ja Kręgu 5 współdziała z Kręgami 12 (Relacje), 5 (Jednia) oraz 14 (Przemiana), aby wspierać realizację misji przez współczucie, troskę oraz odpowiedzialność.",
+        "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który pozwala na tworzenie głębokich, lojalnych więzi opartej na serdeczności, gościnności i trosce."
+    }
+}

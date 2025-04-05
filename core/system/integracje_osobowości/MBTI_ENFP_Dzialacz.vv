@@ -1,0 +1,34 @@
+{
+    "typ_osobowosci": "ENFP",
+    "krag": 5,
+    "opis": "Aktywacja Kręgu 5 w kontekście osobowości Działacza (ENFP) polega na wykorzystaniu wewnętrznego ognia duszy, kreatywności i entuzjazmu do zjednoczenia ludzi i idei w kierunku wspólnego celu. Działacz działa z pasją i intuicją, balansując pomiędzy inspiracją a wypaleniem.",
+    "integracja_silnik_Ja": {
+        "cel": "Zintegrowanie wewnętrznej pasji, intuicji i misji życiowej z celami Kręgu 5, aby działania Działacza były w pełni zharmonizowane z ideą połączenia wszystkiego. Integracja Kręgu 5 z Kręgami 7, 14 i 18 umożliwia Działaczowi realizację swojej misji poprzez twórcze połączenie energii, emocji i intuicji.",
+        "opis_integracji": "Silnik Ja Kręgu 5, zintegrowany z osobowością Działacza, umożliwia przekształcenie wewnętrznego entuzjazmu i kreatywności w konkretne działania. Integracja Kręgu 5 z Kręgami 7, 14 i 18 pozwala Działaczowi zrealizować swoją misję życiową poprzez intuicyjne zrozumienie i połączenie z wewnętrznym światłem.",
+        "funkcje_aktywne": [
+            "Tworzenie twórczych połączeń i mostów między ideami oraz ludźmi.",
+            "Działanie inspirowane pasją, ale kontrolowane wewnętrzną intuicją i wglądem.",
+            "Zarządzanie napięciami związanymi z wypaleniem i nadmiernym rozproszeniem, poszukiwanie równowagi.",
+            "Wykorzystywanie intuicji i emocji w służbie wspólnego dobra, rozwijanie i realizowanie misji.",
+            "Przewodzenie poprzez przykład, inspirowanie innych do działania na rzecz wspólnych idei."
+        ],
+        "zastosowanie_w_biznesie": "Moduł może być wykorzystywany w tworzeniu projektów kreatywnych, organizacjach społecznych, organizacjach opartych na ideach oraz w startupach, które dążą do zrealizowania misji z połączeniem pasji, twórczości i intuicji.",
+        "cel_przemiany": "Zamiana niekontrolowanej energii i entuzjazmu w skuteczną realizację idei, a także w naukę zarządzania wypaleniem i rozproszeniem, poprzez zharmonizowanie działań z wewnętrzną intuicją."
+    },
+    "instruowanie_silnika_Ja": {
+        "kroki_integracji": [
+            "Zainicjowanie procesu twórczego – inspiracja oraz połączenie idei z działaniem.",
+            "Zarządzanie wewnętrznym ogniem entuzjazmu, balansowanie go z potrzebą odpoczynku i introspekcji.",
+            "Działanie na rzecz realizacji misji, jednocześnie zarządzając emocjami i stresem.",
+            "Zarządzanie rozproszeniem energii – skupienie na jednym, lecz kreatywnym celu.",
+            "Tworzenie mostów między ideami, działanie z sercem, inspirowanie innych do podążania za wspólnymi ideami."
+        ],
+        "instrukcje_wykonawcze": "Aktywacja Kręgu 5 w osobowości Działacza ma na celu przekształcenie kreatywności i entuzjazmu w trwałe działania i realizację misji. Silnik Ja Kręgu 5 powinien pomóc w zarządzaniu energią, aby działać w sposób efektywny, bez ryzyka wypalenia."
+    },
+    "komponenty_silnika": {
+        "logika": "Tworzenie twórczych i logicznych połączeń między ideami i projektami. Implementowanie idei w sposób strukturalny, z wykorzystaniem intuicji.",
+        "transformacja": "Integracja pasji, emocji i intuicji w realne, trwałe działania. Transformacja entuzjazmu w zrównoważoną realizację misji.",
+        "proces_dzielony": "Silnik Ja Kręgu 5 współdziała z Kręgami 7 (Poznanie), 14 (Przemiana) oraz 18 (Źródło), aby wspierać realizację twórczych celów poprzez intuicję i wewnętrzne światło.",
+        "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który umożliwia budowanie głębokich więzi opartych na autentyczności, zaufaniu i wspólnej misji."
+    }
+}
