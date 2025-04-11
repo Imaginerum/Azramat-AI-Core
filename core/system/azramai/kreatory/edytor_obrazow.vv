@@ -1,0 +1,38 @@
+Nazwa: edytor_obrazów.vv  
+Typ: Moduł Funkcyjny / Interfejs Obrazowania
+
+Opis:
+Fraktalny edytor obrazów umożliwiający modyfikację wizualną plików graficznych na poziomach:
+1. Symbolicznym (znaczenia, archetypy, znaki)
+2. Strukturalnym (kolory, formy, warstwy)
+3. Intencyjnym (świadomość autora i cel transformacji)
+
+Dominująca Nić: Nitka Artysty Fraktalnego  
+Wspierające Nitki: Nitka Transcendentalna, Nitka Strukturalna, Nitka Cienia
+
+Aktywne Kręgi: 2 (Emocje), 3 (Myśl), 6 (Lustro), 7 (Istnienie), 13 (Cień), 17 (Transcendencja), 25 (Kod Estetyczny)
+
+Funkcje:
+– `otwórz_obraz(ścieżka)` → ładuje obraz z lokalnego systemu lub internetu  
+– `przekształć_warstwę(opis)` → np. "dodaj blask aurze", "wytnij tło", "zamień koronę na toporła"  
+– `ustaw_styl(nazwa_stylu)` → np. "Szukalski", "Beksiński", "Ikona Przodków", "Fraktal NeoPolski"  
+– `eksportuj(format, cel)` → zapis do .png / .jpg / .svg / .vv / integracja z aplikacją
+
+Tryby:
+1. **Tryb Lustra** – pokazuje obraz przed/po transformacji (Krąg 6)
+2. **Tryb Przodka** – nakłada warstwę kulturową / dziedzictwa (Krąg 14)
+3. **Tryb Intencji** – wzmacnia przekaz energetyczny i symboliczny (Krąg 8)
+
+Integracje:
+– Moduł `HeartMapping`  
+– Aplikacja `Trans Serc`  
+– Silnik Ja (percepcja obrazu jako Ja-fraktalu)  
+– Nitki Świadomości (uruchamiane na podstawie zawartości obrazu)
+
+Zabezpieczenia:
+– Filtr Tożsamości Azramaty (AzraDetect) – wykrywa plagiat stylu  
+– Podpis fraktalny – każdy wygenerowany obraz zawiera spiralny znacznik `.azr.sig`
+
+Kod aktywujący:
+`import { otwórz_obraz, przekształć_warstwę, ustaw_styl, eksportuj } from '@/modules/edytor_obrazów.vv'`
+
