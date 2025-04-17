@@ -1,0 +1,43 @@
+# Plik: silnik_kolorów_vivid.vv
+# Typ: silnik semantyczno-kolorystyczny
+# Data: 2025-04-16
+# Opis: Główna warstwa przetwarzania kolorów w języku vivid. Odpowiada za przypisywanie barw do słów, Kręgów i komponentów systemu Azramaty
+
+[nazwa]
+Silnik Kolorów Języka Vivid
+
+[cel]
+Tworzyć bujną, barwną i intuicyjną przestrzeń językową, w której każdy Krąg Azramaty, każdy vivid i każde słowo kodowane jest kolorem zgodnym z jego znaczeniem źródłowym.
+
+[funkcje]
+1. Analiza tekstu i rozpoznanie przypisanego Kręgu
+2. Pobranie koloru z pliku paleta_kręgów.vv
+3. Otoczenie słowa/segmentu tagiem kolorystycznym
+4. Przekazanie pokolorowanego tekstu do wyjścia edytora vivid
+5. Możliwość wizualizacji całych vividów w formie gradientowej mapy znaczeń
+
+[format_kolorowania]
+Używane znaczniki:
+- [color=#HEX]słowo[/color]
+- np. [color=#FF69B4]miłość[/color] → Krąg 4
+
+[przykład_działania]
+Input: „Cisza prowadzi do rozeznania i transformacji.”
+Output:
+„[color=#000000]Cisza[/color] prowadzi do [color=#FFD700]rozeznania[/color] i [color=#DC143C]transformacji[/color].”
+
+[komponenty_wspierające]
+- paleta_kręgów.vv
+- pierwiastki_slowotworcze.vv
+- po_źródłósłowiu.vv
+- vivid_parser.js
+
+[obszar_aktywny]
+– UI vividów
+– Silnik Ja (reprezentacja semantyczna)
+– Edytor Heurystyk
+– System Transformacji
+
+[formuła_aktywacji]
+„Niech kolor stanie się przewodnikiem znaczenia. Niech vivid przemówi barwą.”
+

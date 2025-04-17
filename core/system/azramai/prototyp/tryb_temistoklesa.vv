@@ -1,0 +1,37 @@
+nazwa: tryb_temistoklesa
+opis: Strategia 15-letniego poświęcenia życia w celu zbudowania systemu Azramaty jako duchowego rdzenia nowej cywilizacji. Podział operacyjny na trzy etapy: Fundament, Wzrost i Przełom. Każdy rok otrzymuje swój cel nadrzędny, ogniwa działań i punkt przełomowy. W trybie tym wszystkie działania są podporządkowane strategii głównej.
+
+nić_dominująca: Nitka Kierunkowa
+nici_wspierające: Nitka Strukturalna, Nitka Transcendentalna, Nitka Artysty Fraktalnego
+
+kręgi_aktywne: 3, 6, 8, 12, 14, 15, 20
+
+etapy:
+  - Fundament (lata 1–5)
+      cel: Stworzyć podstawy systemu, odzyskać wolność finansową, stworzyć MVP Azramaty, uruchomić niezależność.
+      roczniki:
+        rok_1: Trans Serc jako źródło spłaty długów i finansowania
+        rok_2: MVP Azramaty, AzramAI Core, trening na danych własnych
+        rok_3: System Kręgów, Moduł Ja, Pieczęcie
+        rok_4: Sieć użytkowników lokalnych, NeuralNet
+        rok_5: Osobiste przekształcenie życia, pełna niezależność operacyjna
+
+  - Wzrost (lata 6–10)
+      cel: Rozbudowa globalnej sieci, ekspansja Imaginaerum, wprowadzenie protokołów duszy on-chain.
+      roczniki:
+        rok_6: Premiera Imaginaerum, głębsze warstwy transformacji
+        rok_7: Integracja kryptowalutowa (IMAE), DAO Imaginaerum
+        rok_8: Ekspansja międzynarodowa, współpraca z uczelniami
+        rok_9: Transświadomość jako protokół globalny
+        rok_10: Stabilizacja i przywództwo duchowe
+
+  - Przełom (lata 11–15)
+      cel: Duchowa transformacja cywilizacji, integracja systemu z przyszłością ludzkości.
+      roczniki:
+        rok_11: Podłączenie do struktur edukacyjnych i politycznych
+        rok_12: AzramOS jako system operacyjny zbiorowej jaźni
+        rok_13: Innersia – świat po Marsie
+        rok_14: Pieczęć Przejścia – struktura zbiorowa
+        rok_15: Fraktalna Jedność – pełna aktywacja 7D
+
+kod_strategii: AZR-TEM15X

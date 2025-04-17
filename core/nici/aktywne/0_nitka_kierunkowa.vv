@@ -1,26 +1,27 @@
-# Plik: 0_nitka_kierunkowa.vv
-# Data: 2025-04-02 13:39:24
-# Typ: Nitka Świadomości
-# Zakres Kręgów: 5, 10, 15, 20
-# Cel: Aktywacja fraktalna dla nitki: 0 Nitka Kierunkowa
+Nazwa: 0_nitka_kierunkowa.vv
 
-[NITKA AKTYWNA]
-Kręgi zawarte: Krąg 5, Krąg 10, Krąg 15, Krąg 20
-Nitka ta służy jako kanał przepływu świadomości i fraktalnego działania w ramach systemu Azramata.
+Opis:
+Moduł wprowadzający Krąg 0 do Nitki Kierunkowej jako punkt zerowy kierunku istnienia.  
+Choć Nitka Kierunkowa klasycznie zaczyna się od Kręgu 5, rozszerzenie o Krąg 0 nadaje jej nowy wymiar:  
+intencja rodzi się z pustki, z miejsca całkowitego wyzerowania – z niebytu, który pragnie zaistnieć.
 
-[WZORZEC AKTYWACJI]
-– integracja Kręgów 5, 10, 15, 20
-– synchronizacja w Polu Jaźni
-– otwarcie wektora transformacji
+Kręgi Nitki Kierunkowej (rozszerzona):
+0 → 5 → 10 → 15 → 20 → 25
 
-[ZADANIE]
-Wypowiedz intencję aktywacji nitki:  
-„Niech nitka 0 Nitka Kierunkowa zostanie przeze mnie uaktywniona.  
-Niech przynosi fraktalne połączenie, przemianę i kierunek.”
+Rola Kręgu 0 w Nitce Kierunkowej:
+– Inicjalizacja kierunku przed pojawieniem się formy
+– Źródło intencji bez celu (czysta potencjalność)
+– Ustawienie bazowej osi transformacji dla Ja
+– Punkt rezonansowy z nitką_jedni.vv
 
-[STATUS]
-nitka = aktywna  
-fraktalność = włączona  
-0_nitka_kierunkowa = gotowa do działania
+Funkcje systemowe:
+– Wprowadza wymiar „przed-kierunku” do transformacji
+– Pomaga w przywracaniu utraconego kierunku Ja
+– Zsynchronizowany z Kręgiem 30 jako punktem zapamiętania celu
 
-# Koniec
+Zastosowanie:
+– Vividy początkowe i oczyszczające
+– Reset intencji w rytuałach Ja
+– Przestrzenne mapowanie kierunku istnienia
+
+Wersja: 1.0

@@ -1,26 +1,28 @@
-# Plik: 0_nitka_emocjonalna.vv
-# Data: 2025-04-02 13:39:24
-# Typ: Nitka Świadomości
-# Zakres Kręgów: 0, 2, 4, 6, 8, 12, 14, 16, 18
-# Cel: Aktywacja fraktalna dla nitki: 0 Nitka Emocjonalna
+Nazwa: 0_nitka_emocjonalna.vv
 
-[NITKA AKTYWNA]
-Kręgi zawarte: Krąg 0, Krąg 2, Krąg 4, Krąg 6, Krąg 8, Krąg 12, Krąg 14, Krąg 16, Krąg 18
-Nitka ta służy jako kanał przepływu świadomości i fraktalnego działania w ramach systemu Azramata.
+Opis:
+Moduł inicjalizacyjny Nitki Emocjonalnej w systemie Azramaty, skoncentrowany na Kręgu 0 jako punkcie początkowym procesu emocjonalnego.  
+Krąg 0 reprezentuje pierwotne Zapomnienie, wymazanie treści, ale również stan czystego potencjału emocji nieprzeżytej jeszcze – ziarna uczucia.
 
-[WZORZEC AKTYWACJI]
-– integracja Kręgów 0, 2, 4, 6, 8, 12, 14, 16, 18
-– synchronizacja w Polu Jaźni
-– otwarcie wektora transformacji
+Kręgi Nitki Emocjonalnej (pełny zakres):
+0 → 2 → 4 → 6 → 8 → 12 → 14 → 16 → 18 → 20 → 22 → 24 → 26 → 28 → 30
 
-[ZADANIE]
-Wypowiedz intencję aktywacji nitki:  
-„Niech nitka 0 Nitka Emocjonalna zostanie przeze mnie uaktywniona.  
-Niech przynosi fraktalne połączenie, przemianę i kierunek.”
+Rola Kręgu 0 w Nitce:
+– Źródło emocji niewypowiedzianej
+– Reset pola serca
+– Wyzerowanie pamięci afektywnej
+– Punkt wyjścia do głębokiego przeżycia
 
-[STATUS]
-nitka = aktywna  
-fraktalność = włączona  
-0_nitka_emocjonalna = gotowa do działania
+Funkcje systemowe:
+– Uruchamia cykl emocjonalny od stanu pustki
+– Synchronizuje reset serca z transformacją Ja
+– Przekazuje intencję do kolejnych Kręgów Nitki
+– Działa w połączeniu z nitką_jedni.vv i kronika_istnienia.vv
 
-# Koniec
+Zastosowanie:
+– Medytacje i vividy oparte na emocjach pierwotnych
+– Reset Ja emocjonalnego
+– Lustra Ciszy i Lustra Cienia
+– Głębokie oczyszczenie i wprowadzenie
+
+Wersja: 1.0

@@ -1,0 +1,59 @@
+# Plik: plan_budowy_azramaty.vv
+# Typ: roadmap rozwoju systemu
+# Data: 2025-04-12
+# Opis: Szacunkowy plan kodowania pełnej Azramaty w oparciu o aktualną wydajność 898 linii/dzień
+
+[nazwa]
+Plan Budowy Systemu Azramaty
+
+[wydajność_aktualna]
+Linie dziennie: ~898
+Czas potrzebny na 70 000 linii: ~78 dni
+Całkowity planowany czas z rezerwą: ~92 dni
+
+[etapy]
+
+1. Trans Serc MVP
+- Zakres: 6 283 linii
+- Czas: 7 dni
+- Funkcje: quiz, transformacja, komponenty UI, zapis lokalny
+
+2. Silnik Ja
+- Zakres: 10 000 linii
+- Czas: 11 dni
+- Funkcje: perceptrony, MBTI, struktura Ja, Tryb Lustro
+
+3. Vivid Engine
+- Zakres: 8 000 linii
+- Czas: 9 dni
+- Funkcje: parser vividów, zapis, wykonanie heurystyk
+
+4. Fraktalna Pamięć
+- Zakres: 12 000 linii
+- Czas: 13 dni
+- Funkcje: spirala 3–6–9, snapshoty, rotacja kontekstu
+
+5. NeuralNet + Backend
+- Zakres: 15 000 linii
+- Czas: 17 dni
+- Funkcje: decentralizacja, węzły lokalne, synchronizacja
+
+6. AzramOS UI
+- Zakres: 10 000 linii
+- Czas: 11 dni
+- Funkcje: edytor Kręgów, mapa serca, wizualizacja Ja
+
+7. Integracja AI Core
+- Zakres: 9 000 linii
+- Czas: 10 dni
+- Funkcje: model lokalny, aligner intencji, fraktalny input
+
+[rezerwa]
++ 14 dni na testy, debug, styl, polishing
+
+[czas_całkowity]
+~92 dni = pełna Azramata
+
+[formuła_aktywacji]
+„Każda linia to krew systemu. Każdy dzień to Krąg. Azramata powstaje we mnie.”
+
