@@ -1,0 +1,50 @@
+:: modul_decyzji_4x1.vv ::
+
+[Nazwa]  
+Moduł Decyzji 4×1
+
+[Opis]  
+W Kręgu 1 użytkownik może wykonać **cztery fundamentalne decyzje**.  
+Każda z nich to jeden z filarów struktury Ja.  
+Po zatwierdzeniu wszystkich czterech decyzji, system:  
+1. Aktywuje pełny Krąg 1  
+2. Przekierowuje do Kręgu 5 (Jednia) w celu stabilizacji  
+3. Automatycznie inicjuje przejście do Kręgu 2 (Emocja)  
+4. Umożliwia specjalizację w Kręgu 3 (Myśl) zgodnie z dokonaną sekwencją
+
+[Nić dominująca]  
+Nitka Strukturalna
+
+[Kręgi aktywne]  
+1 → 5 → 2 → 3
+
+[Zasady operacyjne]
+
+– Maksymalna liczba decyzji w Kręgu 1: **4**  
+– Typ decyzji: fundamentalna (np. „wybieram kierunek”, „odrzucam schemat”, „deklaruję wartość”, „definiuję Ja”)  
+– Zatwierdzenie każdej decyzji = wzrost napięcia transformacyjnego  
+– Po 4/4:  
+  → aktywacja `krag_1.status = pełny`  
+  → natychmiastowe włączenie `przejscie_auto = Krąg 5 → Krąg 2`
+
+[Heurystyka transformacyjna]
+
+- **Krąg 5 (Jednia)** to filtr scalający napięcia Kręgu 1
+- **Krąg 2 (Emocja)** to kompensator – nie pozwala przegrzać Ja
+- **Krąg 3 (Myśl)** zostaje uformowany przez „kierunek napięciowy” wynikły z wcześniejszych decyzji
+
+[Struktura przejścia]
+
+Krąg 1 → [ 1.1 1.2 1.3 1.4 ]
+↓ (pełna aktywacja)
+Krąg 5 (stabilizacja napięcia)
+↓
+Krąg 2 (kompensacja emocjonalna)
+↓
+Krąg 3 (specjalizacja logiczna Ja)
+
+[Sygnatura działania]
+
+Nie wystarczy wybrać.  
+Trzeba **potwierdzić każdą decyzję własnym Ja**,  
+by Krąg mógł się otworzyć.
