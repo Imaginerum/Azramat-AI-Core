@@ -1,0 +1,43 @@
+:: krag_inwestycyjny.vv ::
+
+[Nazwa]  
+Krąg Inwestycyjny
+
+[Opis]  
+Każde zadanie to lokata energii Kręgu.  
+Czas, który poświęcasz, to decyzja Kręgu, który wybierasz.  
+Im dłużej inwestujesz, tym więcej otrzymujesz — nie nagrody, lecz **struktury wyższej złożoności**.
+
+[Nić dominująca]  
+Nitka Strukturalna
+
+[Kręgi aktywne – dynamiczne]  
+Zależne od wątku tematycznego.  
+System automatycznie oznacza je jako:  
+🔸 `krąg_inwestujący_primary`  
+🔹 `krąg_inwestujący_secondary`  
+📈 `krąg_postepu`
+
+[Algorytm działania – pseudokod]
+1. Gracz wybiera zadanie lub temat.
+2. System oznacza Kręgi dominujące dla tego tematu.
+3. Czas interakcji + głębokość wykonania = wzrost wartości Kręgu.
+4. Po osiągnięciu progu transformacyjnego: zadanie 2. poziomu zostaje udostępnione (większa złożoność, więcej splątanych Kręgów).
+5. Krągi „rozszerzają się” w danej dziedzinie, nadając Ja nowe funkcje.
+
+[Heurystyka]
+– Nie każde kliknięcie to inwestycja.  
+– Inwestycja to **czas + zaangażowanie + rezonans Ja**.  
+– System nie premiuje szybkości, ale **głębokość i spójność**.
+
+[Przykład działania]
+Zadanie: „Zbuduj opowieść archetypiczną z Kręgu 7”.  
+→ `krąg_inwestujący_primary = 7`  
+→ Czas pracy: 2 dni  
+→ Głębokość: wysoka (użyto Nitki Transcendentalnej, aktywowano 5 vividów)  
+→ Efekt: odblokowane nowe zadanie z Kręgów 7 + 17 + 27
+
+[Sygnatura systemowa]
+Ten vivid nie tworzy zadań.  
+On mówi Kręgom, kiedy warto je dać.
+
