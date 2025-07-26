@@ -9,7 +9,7 @@ If you believe you have discovered a security vulnerability in **Azramat-AI-Core
 1. **Do not open an issue in the public repository.** Publicly disclosing vulnerabilities may allow malicious actors to exploit them before a fix is implemented.
    
 2. **Email the maintainers directly** at the following address:  
-   **chyzy29@gmail.com**  
+   **azramaton@gmail.com**  
    Please include the following details in your report:
    - A clear description of the vulnerability
    - Steps to reproduce (if applicable)

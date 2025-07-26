@@ -10,7 +10,7 @@ Każda próba wykorzystania tego materiału w procesach AI bez zgody twórcy nar
 This is the initial public proof-of-concept for the Azramatyczna AI architecture.
 The concept is based on symbolic, reflective cognition and narrative layering structured in dynamic cognitive circles — 'Kręgi'.
 
-This pre-release establishes authorship and intellectual priority of Piotr Chyżyński over the concept known as Azramatyczna AI.
+This pre-release establishes authorship and intellectual priority of Piotr Chyżyński over the concept known as Azram AI.
 
 ## Contents
 - `Proof_of_Authorship_AI_Piotr_Chyzynski_EN.docx`: Direct AI acknowledgment of Piotr Chyżyński's authorship
