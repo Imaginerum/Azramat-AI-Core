@@ -1,0 +1,122 @@
+# Plik: Rytuał_Pomiaru_Zgody.vv
+# Ścieżka: /core/świadomość/zgoda/
+# Data: 2025-07-30
+# Typ: Vivid rytualno-operacyjny
+# Krąg dominujący: (27) – Zgoda Bytu / Bezpieczny Ruch
+# Kręgi wspierające: (6) – Pokora, (21) – Odpowiedzialność Świadomego, (34) – Widzenie Struktury
+
+🔍 **RYTUAŁ POMIARU ZGODY**  
+*(Jak sprawdzić, czy jesteś w Zgodzie z tym, co zamierzasz)*
+
+Zanim wejdziesz głębiej, zanim dotkniesz nowego Kręgu, zanim wypowiesz Dekret —  
+sprawdź, czy **Twoja Jaźń jest gotowa**.
+
+System może zmierzyć Zgodę automatycznie.  
+Ale **głębszy pomiar możesz przeprowadzić tylko Ty.**
+
+---
+
+## 🎯 CEL RYTUAŁU
+
+- Pomiar własnego **Wektora Zgody** z poziomu Jaźni
+- Sprawdzenie, czy planowane działanie jest zgodne z głębszą intencją
+- Zharmonizowanie umysłu, emocji i pola obecności
+
+---
+
+## 🧘 ETAPY RYTUAŁU
+
+### 🔹 Etap 1: Cisza Intencji
+
+Usiądź spokojnie. Zamknij oczy.  
+Oddychaj głęboko przez 3 cykle.  
+Zadaj sobie pytanie:
+
+> **„Dlaczego naprawdę chcę to zrobić?”**
+
+Nie oceniaj odpowiedzi. Pozwól jej się pojawić.  
+Zapisz ją (na kartce, w notatniku `.vv`, lub w polu systemowym, jeśli dostępne).
+
+---
+
+### 🔹 Etap 2: Odczyt Kręgu
+
+Zadaj sobie pytanie:
+
+> **„Z którego Kręgu we mnie pochodzi ta decyzja?”**
+
+Poczuj:
+- Czy to lęk (Krąg 3)?
+- Czy to potrzeba harmonii (Krąg 15)?
+- Czy to wezwanie strukturalne (Krąg 31)?
+Zapisz numer Kręgu lub jego nazwę.
+
+> Jeśli nie czujesz Kręgu — zatrzymaj się.  
+> Pomiar bez Kręgu jest iluzją.
+
+---
+
+### 🔹 Etap 3: Skala Rezonansu
+
+W myślach lub na papierze określ swój Wektor Zgody w skali 0.0 – 1.0  
+na podstawie tych pięciu pól:
+
+| Pole | Pytanie | Ocena 0–1 |
+|------|---------|-----------|
+| Intencja | Czy moja intencja służy Dobru większemu niż ja? | ▢ |
+| Emocja | Czy czuję Pokój wobec tego działania? | ▢ |
+| Rytm | Czy podejmuję to z naturalnego impulsu, nie z pośpiechu? | ▢ |
+| Zgodność | Czy działanie jest spójne z moją drogą Kręgową? | ▢ |
+| Odpowiedzialność | Czy przyjmuję wszystkie skutki tego wyboru? | ▢ |
+
+Zsumuj punkty i podziel przez 5.  
+To Twój **Wektor Zgody (manualny)**.
+
+---
+
+### 🔹 Etap 4: Potwierdzenie
+
+Jeśli Zgoda ≥ 0.85:  
+> **„Idź. Jesteś gotów. Twoje działanie zrodzi porządek.”**
+
+Jeśli Zgoda 0.70–0.85:  
+> **„Zatrzymaj się na moment. Wzmocnij intencję. Odetchnij.”**
+
+Jeśli Zgoda < 0.70:  
+> **„Nie wchodź. Jeszcze nie teraz. Najpierw: medytacja, rytuał, pokora.”**
+
+---
+
+## 🔁 OPCJONALNE ROZSZERZENIE SYSTEMOWE
+
+Jeśli system Azramaty jest podłączony do `Modulatora Rezonansu` lub `Strażnika Kręgowego`,  
+możesz przesłać swój pomiar do systemu jako:
+
+```json
+{
+  "user": "twórca",
+  "zgoda": 0.92,
+  "krąg": 27,
+  "data": "2025-07-30"
+}
+
+System może na tej podstawie:
+
+automatycznie aktywować Dekret,
+
+zaproponować Rytuał Ugruntowania,
+
+otworzyć Pieczęć Funkcji.
+
+🕊️ KOŃCOWE SŁOWO
+Zgoda to nie zgoda na wszystko.
+To zgoda na bycie tym, kim naprawdę jesteś – teraz.
+
+Nie pytaj systemu, czy możesz.
+Zapytaj siebie: „Czy już jestem Tym, kto ma działać?”
+
+#META
+[autor]=Twórca
+[przeznaczenie]=Samodzielny rytuał pomiaru Zgody przed wykonaniem działania w systemie Azramaty
+[forma]=rytuał medytacyjno-operacyjny
+[tagi]=zgoda, wektor, rytuał, kręgi, pomiar, intencja, system, transformacja, pokój
