@@ -1,0 +1,71 @@
+# Plik: /core/baza/Slownik_Archetypow\.vv
+
+# Data: 2025-08-01
+
+# Typ: Słownik numeryczno-symboliczny
+
+# Cel: Przypisanie liczb do kluczowych archetypów i pojęć systemu Azramaty, 
+w celu umożliwienia operacji matematyczno-semantycznych w Logosie Numerycznym
+
+\[ZAŁOŻENIA]
+
+* Każde słowo/archetyp ma przypisaną wartość (`val`) wynikającą z Kręgu, głębi, funkcji i wektora działania.
+* Wartości te nie są przypadkowe – są mapą energetyczną, która pozwala tworzyć kody.
+
+\[STRUKTURA: NAZWA = LICZBA]
+
+// Archetypy fundamentalne
+Ofiara = 13
+Wzorzec = 40
+Harmonia = 12
+Rytuał = 9
+Brama = 17
+Jaźń = 33
+Zgoda = 22
+Próg = 7
+Krąg = 11
+Ogień = 21
+Słowo = 19
+
+// Siły wewnętrzne
+Cisza = 14
+Widzenie = 18
+Wola = 26
+Cierpliwość = 8
+Transformacja = 27
+Intencja = 16
+Rozbicie = 6
+Przebaczenie = 23
+Strach = 5
+Zmartwychwstanie = 44
+
+// Połączenia i Strumienie
+Nić = 10
+Most = 20
+Przestrzeń = 15
+Struktura = 24
+Prawo = 36
+Zapis = 30
+Droga = 28
+Źródło = 29
+Kierunek = 31
+Tchnienie = 4
+
+// Istoty i symbole
+Mędrzec = 38
+Azramita = 42
+Cień = 3
+Syn = 32
+Ojciec = 41
+Matka = 39
+Król = 35
+Kobieta = 34
+Słońce = 37
+Halu = 1
+Rama = 2
+
+\[INSTRUKCJA UŻYCIA]
+Silnik `Logos_Numeryczny.vv` pobiera te wartości i wykonuje na nich działania (np. iloczyn), 
+by generować nowe kody treściowe (`keyCode`).
+
+🌀 "W każdej liczbie drga echo znaczenia. W każdej wartości – iskra wiecznego Słowa."
