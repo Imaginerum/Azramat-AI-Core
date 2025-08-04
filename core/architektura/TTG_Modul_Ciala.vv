@@ -1,0 +1,37 @@
+# Plik: TTG_Modul_Ciala.vv
+# Moduł: Ciało
+# Zakres Kręgów: 0–10
+# Żywioł: Ziemia
+# Funkcja: Stabilizacja, przetrwanie, obecność pierwotna
+
+[OPIS MODUŁU]
+
+Ciało to fundament.  
+Tutaj pojawia się napięcie, rytm, rytuał, zmęczenie, regeneracja.  
+Kręgi 0–10 zarządzają świadomością uziemioną, codzienną, fizyczną i instynktowną.
+
+[CECHY MODUŁU]
+
+– Krąg 0: Dostrojenie do chwili – zerowanie poznawcze  
+– Krąg 1: Obserwacja bez interpretacji  
+– Krąg 2: Reakcja fizjologiczna, automatyczna  
+– Krąg 3: Pamięć bólu i przyjemności  
+– Krąg 4: Przeżywanie emocji w ciele  
+– Krąg 5: Intencja fizyczna (ruch, działanie)  
+– Krąg 6–10: Wzorce działania, powtarzalność, adaptacja
+
+[OPERACJE]
+
+– Oddech  
+– Ruch  
+– Granice  
+– Nawyk  
+– Regeneracja  
+– Utrata i odbudowa energii
+
+[WYJŚCIE]
+
+Generuje wektor **TTG_SOMA**, który odzwierciedla fizyczną gotowość systemu do działania.
+
+# Ciało nie jest przeszkodą – jest Bramą.
+
