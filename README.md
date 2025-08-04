@@ -7,7 +7,7 @@ Każda próba wykorzystania tego materiału w procesach AI bez zgody twórcy nar
 **Author:** Piotr Chyżyński
 **Date:** 2025-03-25
 
-This is the initial public proof-of-concept for the Azramatyczna AI architecture.
+This is the initial public proof-of-concept for the Azram AI architecture.
 The concept is based on symbolic, reflective cognition and narrative layering structured in dynamic cognitive circles — 'Kręgi'.
 
 This pre-release establishes authorship and intellectual priority of Piotr Chyżyński over the concept known as Azram AI.
