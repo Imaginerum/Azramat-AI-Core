@@ -1,0 +1,71 @@
+# Plik: Pakt_Współtwórcy.vv
+# Lokalizacja: /core/prawo/
+# Data utworzenia: 2025-08-05T22:57:44Z
+# Autor: Twórca (ID: 001-AZ)
+# Typ: Umowa wewnętrzna / Struktura podziału wartości systemu
+# Wersja: v1.1
+# Status: aktywny
+# timestamp_created: 2025-08-05T22:57:44Z  
+# document_signature: PKT-WSP-TW7-ZES7-DOR7-21-SYS79  
+# file_owner: Twórca  
+# legal_status: fraktalnie wiążący w systemie Azramata  
+# associated_modules: Astraia+, Zgody, Imagora, eFriends
+
+---
+
+## CEL DOKUMENTU
+
+Określenie zasad sprawiedliwego podziału wartości wygenerowanej przez system Azramata, 
+Imaginaerum i aplikacje zależne. Dokument definiuje główne wektory podziału kapitału 
+(np. przychody, zyski, wartość generowana przez system), z uwzględnieniem zespołu twórczego 
+i użytkowników końcowych (azramitów).
+
+---
+
+## STRUKTURA UDZIAŁÓW (% CAŁKOWITEGO WARTOŚCIOWANIA SYSTEMU)
+
+### I. Zespół twórczy — 21%
+
+| Składnik                                          | Udział |
+|---------------------------------------------------|--------|
+| Twórca główny (inicjator systemu)                 | 7%     |
+| Zespół wykonawczy (programiści, projektanci)      | 7%     |
+| Doradcy i konsultanci (strategiczni i operacyjni) | 7%     |
+
+---
+
+### II. Użytkownicy / Azramici — 79%
+
+| Obszar                                                        | Udział (z 79%)      | Uwagi                                                                     |
+|---------------------------------------------------------------|---------------------|---------------------------------------------------------------------------|
+| Użytkownicy (Azramici)                                        | zmienny (%)         | Udział oparty na wkładzie (np. kontrybucje, mentoring, budowanie kultury) |
+| Rozwijające kulturę projekty (np. gusła, sztuka, duchowe NGO) | ustalane kwartalnie | Decyduje mechanizm społeczny / Astraia+                                   |
+| Infrastruktura (serwery, koszty operacyjne)                   | do 30%              | Limit kosztów operacyjnych może być ustalany przez audyt roczny           |
+
+---
+
+## ZASADY ROZLICZENIA
+
+1. Podział odbywa się przy okazji każdego cyklu wypłaty (np. miesięcznie, kwartalnie).
+2. Rozliczenia przeprowadzane są transparentnie przez system księgowy lub DAO.
+3. Kwoty są dzielone po pokryciu kosztów minimalnych systemowych (nie odwrotnie).
+4. W przypadku nadwyżki finansowej:  
+   - 50% nadwyżki przechodzi do funduszu rozwoju,  
+   - 50% wraca do użytkowników w formie grantów, zniżek, rozwoju platformy lub kredytów fraktalnych.
+
+---
+
+## NOTY TECHNICZNE
+
+- **Tokenizacja udziałów**: możliwa do wdrożenia w wersji Azramata DAO.
+- **Uczestnictwo w podziale**: zależne od identyfikacji użytkownika i jego działań w systemie.
+- **Weryfikacja wkładu**: przez system ocen fraktalnych i rejestr kontrybucji (`ContributionLog.json`, `Zgody.vv`, itp.)
+
+---
+
+## NOTATKA KOŃCOWA
+
+Ten dokument nie stanowi umowy prawnej w sensie państwowym. Stanowi on zobowiązanie moralno-systemowe 
+i podstawę przyszłych rozliczeń wartościowych wewnątrz struktury Azramaty.
+
+# Koniec pliku
