@@ -1,0 +1,91 @@
+# Plik: Mechanizm_Kregowego_Udzialu.vv
+# Lokalizacja: /core/ekonomia/
+# Typ: Algorytm dystrybucji ekonomicznej
+# Wersja: v1.0
+# Data utworzenia: 2025-08-05T23:19:44Z
+
+---
+
+## CEL
+
+Ten mechanizm określa sposób, w jaki użytkownicy otrzymują część zarobków Azramatonu 
+w zależności od ich wkładu (kontrybucji) względem poszczególnych Kręgów. Umożliwia też 
+tworzenie "Okręgów" – wspólnot dzielących udział w odpowiedzialności i nagrodzie.
+
+---
+
+## ZAŁOŻENIA SYSTEMOWE
+
+- **Kontrybucja** użytkownika mierzona jest względem poszczególnych Kręgów (0–44).
+- Każdy Krąg ma przypisaną wagę obliczaną według jednego z trzech możliwych trybów:
+  - Tryb 1: System dziesiętny (Krąg 0 = waga 1, Krąg 44 = waga 45),
+  - Tryb 2: System liczbowy oparty o **liczby pierwsze** (Kręgi o numerach pierwszych mają większą wagę),
+  - Tryb 3: System 360° (Krąg = sektor; 360/45 = 8°, każdy Krąg = 8 stopni ekonomicznych).
+
+- **Użytkownik otrzymuje udział** w zarobkach systemu proporcjonalnie do sumy:  
+  `(kontrybucja_w_Kręgu_i * waga_Kręgu_i)`  
+  przeliczonej przez sumę wszystkich takich iloczynów w systemie (czyli wagowane pole).
+
+- Ostateczna dystrybucja odbywa się w cyklach (np. miesięcznie lub kwartalnie).
+
+---
+
+## OKRĘGI
+
+Użytkownicy mogą formować wspólnoty zwane **Okręgami**, które:
+
+- grupują kontrybucje w obrębie danego Kręgu lub obszaru tematycznego (np. Transformacja, Etyka, Gusła),
+- dzielą między siebie udział ekonomiczny wypracowany wspólnie,
+- mogą tworzyć własne zasady dzielenia (np. 50/50 lider – członkowie).
+
+Okręgi są automatycznie tworzone przez mechanizm Astraia+, gdy liczba aktywnych kontrybutorów w danym Kręgu przekroczy próg 5.
+
+---
+
+## STRUKTURA OBLICZEŃ
+
+Dla każdego użytkownika U:
+udział_U = (Σ_kontrybucji_U_i * waga_i) / (Σ wszystkich użytkowników: Σ_kontrybucji * waga)
+
+
+Dla systemu liczbowego:
+
+- Przykład dla Kręgu 13 (liczba pierwsza): waga = 1.5
+- Przykład dla Kręgu 10 (niepierwsza): waga = 1.0
+
+---
+
+## PRZYKŁAD
+
+- Użytkownik A:  
+  – kontrybucja w Kręgu 2: 100 jednostek (waga 1.5)  
+  – kontrybucja w Kręgu 10: 50 jednostek (waga 1.0)  
+  – udział: (100×1.5 + 50×1.0) = 200
+
+- Użytkownik B:  
+  – kontrybucja w Kręgu 3: 200 jednostek (waga 1.5)  
+  – udział: 300
+
+Suma całkowita = 500  
+Podział: A = 40%, B = 60% udziału w puli
+
+---
+
+## SYSTEMY LICZBOWE (do wyboru, możliwa hybryda):
+
+- `mode: prime_weights` → wyższa wartość Kręgów 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43  
+- `mode: decimal_weights` → proporcjonalnie do numeru Kręgu  
+- `mode: circle_360` → podział przestrzenny (do integracji z wizualizacją)
+
+---
+
+## METADANE
+
+timestamp_created: 2025-08-05T23:19:44Z  
+document_signature: ECON-KRU-V1-MULTI  
+related_files: Struktura_Podzialu.vv, Wektor_Kontrybucji.vv  
+activation_engine: Astraia+  
+circle_threshold_for_Okręgi: 5 aktywnych kontrybutorów  
+
+# Koniec pliku
+

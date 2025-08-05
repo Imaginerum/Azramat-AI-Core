@@ -1,0 +1,107 @@
+# Plik: Algorytm_Podzialu.vv
+# Lokalizacja: /core/ekonomia/
+# Typ: Silnik wyliczeniowy (algorytm dystrybucji)
+# Status: aktywny
+# Wersja: v1.3
+# Data utworzenia: 2025-08-06T00:48:41Z
+
+---
+
+## CEL
+
+Silnik odpowiada za przeliczenie wkładów kontrybucyjnych użytkowników i Okręgów na konkretny 
+udział procentowy i ekonomiczny, zgodnie z systemem `Struktura_Podzialu.vv` oraz `Wektor_Kontrybucji.vv`.
+
+---
+
+## WEJŚCIA (INPUT)
+
+1. **suma_wartości (X)**  
+   - Całkowita wartość przeznaczona do dystrybucji w danym cyklu (np. 100 000 PLN, 12 000 tokenów).
+
+2. **wartości_udziałowe (%)**  
+   - Wartości przydzielone wcześniej:  
+     Twórca: 7%, Zespół: 7%, Doradcy: 7%, System: 79%.
+
+3. **dane_kontrybucyjne**  
+   - Wektor Kontrybucji każdego użytkownika (`WK.json`)
+   - Przynależność do Okręgów (`Okręgi.json`)
+   - Dane o aktywności (`ActivityLog.json`)
+   - Konfiguracja Kręgów priorytetowych (`Kręgi_Priorytetowe.vv`)
+
+---
+
+## ETAPY PRZETWARZANIA
+
+### 1. Rozdzielenie podstawowe
+
+pula_twórca = X × 0.07
+pula_zespół = X × 0.07
+pula_doradcy = X × 0.07
+pula_systemowa = X × 0.79
+
+### 2. Obliczenie udziałów indywidualnych
+Każdemu użytkownikowi przypisuje się udział na podstawie wzoru:
+
+udział_użytkownika =
+(WK × waga_kręgu × waga+ × aktywność_okręgu)
+÷ suma(WK × wagi × okręgi dla wszystkich)
+
+Każda wartość jest skalowana do puli systemowej.
+
+### 3. Tokenizacja (jeśli aktywna)
+- Dla każdego użytkownika generowana jest jednostka udziału (`token`) w systemie fraktalnym.
+- Token może reprezentować:
+  - udział w przyszłym zysku,
+  - prawo głosu w systemie,
+  - dostęp do zasobów (premium materiały, narzędzia).
+
+Tokeny rejestrowane są w: `/data/tokens/UserTokens.json`
+
+---
+
+## WYJŚCIA (OUTPUT)
+
+| Wyjście                       | Format / Dane                               |
+|-------------------------------|---------------------------------------------|
+| przelewy                      | JSON, CSV, lub bezpośrednie transfery (API) |
+| tokenizacja                   | struktura JSON tokenów + UUID               |
+| raport struktury finansowej   | `Raport_Podzialu_{YYYYMM}.json`             |
+| log operacji                  | `PodzialLog.txt` z hashami wejść/wyjść      |
+| historia udziałów             | `UdzialHistoria.json` dla użytkownika       |
+
+---
+
+## WALIDACJA
+
+Silnik wykonuje automatyczne kontrole:
+
+- Suma udziałów = 100% ± 0.01%
+- Nieprawidłowe dane kontrybucyjne → oznaczone i pominięte
+- Brak danych o Okręgu = udział 0 w puli systemowej
+- Użytkownicy nieaktywni przez >90 dni = udział zamrożony
+
+---
+
+## INTEGRACJE
+
+| Moduł                 | Funkcja                                  |
+|-----------------------|------------------------------------------|
+| Astraia+              | analiza etyczna i nadzór nad uczciwością |
+| Zarząd_Imaginaerum.vv | może zatwierdzać / zmieniać reguły       |
+| Okręgi.vv             | decyduje o uprawnieniach wspólnot        |
+| Fundusz_Rozwoju.vv    | odbiera nadwyżki z przeliczeń            |
+| Tokeny_Uczestnictwa.vv| generuje klucze identyfikacyjne tokenów  |
+
+---
+
+## METADANE
+
+timestamp_created: 2025-08-06T00:48:41Z  
+file_signature: ECON-ALG-V1.3  
+data_source: WK, Kręgi, Okręgi, Logs  
+tokenization: optional (status: aktywny)  
+audit_cycle: każdorazowo (transakcje podpisywane przez Astraia+)  
+authoritative_engine: Algorytm_Podzialu
+
+# Koniec pliku

@@ -1,0 +1,105 @@
+# Plik: Tokeny_Uczestnictwa.vv
+# Lokalizacja: /core/ekonomia/
+# Typ: Rejestr logiczno-wartościowy (uczestnictwo, reputacja, dostęp)
+# Status: aktywny
+# Wersja: v1.2
+# Data utworzenia: 2025-08-06T01:16:35Z
+
+---
+
+## CEL
+
+Tokeny Uczestnictwa to logiczne jednostki wartościowe przyznawane użytkownikom systemu Azramata 
+na podstawie ich wkładu, zaufania oraz uczestnictwa w Okręgach i działaniach systemowych.
+
+Tokeny te:
+- odzwierciedlają realny wkład w system,
+- uprawniają do udziału w głosowaniach (ZgłosDAO, Zarząd),
+- nadają dostęp do określonych funkcji lub poziomów zasobów,
+- są podstawą do analizy reputacji użytkownika,
+- mogą być używane jako wewnętrzna waluta, jeżeli funkcja ta zostanie aktywowana.
+
+---
+
+## FORMAT REKORDU (JSON)
+
+Każdy użytkownik ma unikalny rekord zapisany w `tokens/UserTokens.json`:
+
+```json
+{
+  "user_id": "UAZ-001293",
+  "activation_date": "2025-08-01T12:43:00Z",
+  "total_tokens": 1325,
+  "last_token_grant": "2025-08-04T18:22:17Z",
+  "contribution_level": 3,
+  "trusted_score": 740,
+  "okręgi": ["Medytacja_14", "Mentorzy"],
+  "kręgi_aktywnosci": [2, 5, 14],
+  "token_flags": ["głosowanie", "dostęp_premium"],
+  "waga_plus": true
+}
+
+## ZASADY PRZYZNAWANIA TOKENÓW
+
+Obliczanie wartości tokenów:
+
+1 token = wartość logiczna przyznana za:
+
+1 punkt Wektora Kontrybucji (WK)
+
+aktywną obecność w Okręgu
+
+weryfikowaną pomoc innym użytkownikom
+
+głęboką transformację (na podstawie SQ)
+
+Tokeny są aktualizowane co 30 dni.
+
+
+## KATEGORIE TOKENÓW
+
+Kategoria	    Zakres	Funkcja
+
+operacyjne	    0–500   dostęp do podstawowych funkcji i informacji
+wpływu	     500–1500	prawo do głosowania, liderowania, mentorstwa
+strategiczne	1500+	udział w Zarządzie, możliwość przyznania wagi+, tworzenie Okręgów
+
+## UTRATA / ZAMROŻENIE TOKENÓW
+
+Nieaktywność przez 90 dni → tokeny zamrażane, nieusuwane.
+
+Nadużycie systemowe (wykryte przez Astraia+) → zamrożenie lub degradacja.
+
+Użytkownik może dobrowolnie zrzec się tokenów (np. symbolicznie, rytualnie, duchowo – opcjonalne).
+
+
+## DOSTĘP I UŻYCIE
+
+Tokeny mogą być:
+
+wykorzystywane do głosowania (ZgłosDAO, Zarząd Imaginaerum),
+
+konwertowane na przywileje (np. priorytet dostępu, mentoring, udział w funduszu),
+
+używane do wejścia w specjalne Kręgi (np. 41–44 – Kręgi Strategii, Pamięci, Sensu).
+
+
+## ZGODNOŚĆ I BEZPIECZEŃSTWO
+
+Tokeny są zapisywane jako wpisy JSON z podpisem Astraia+.
+
+Nie podlegają sprzedaży, wymianie zewnętrznej, ani przenoszeniu między kontami (na obecnym etapie).
+
+Potencjalna przyszła integracja z ImagoraCoin (waluta systemowa) – plik: Tokeny_Ekonomiczne.vv
+
+
+## METADANE
+
+timestamp_created: 2025-08-06T01:16:35Z
+file_signature: TOKENY-U-V1.2
+related_files: Wektor_Kontrybucji.vv, Zarząd_Imaginaerum.vv, Okręgi.vv
+token_storage: /data/tokens/UserTokens.json
+access_scopes: głosowanie, dostęp, uprawnienia
+authorized_engine: Astraia+, System Tokenów
+
+## Koniec pliku

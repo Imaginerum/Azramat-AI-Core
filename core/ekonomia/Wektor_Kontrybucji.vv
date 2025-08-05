@@ -1,0 +1,100 @@
+# Plik: Wektor_Kontrybucji.vv
+# Lokalizacja: /core/ekonomia/
+# Typ: Model oceny wkładu (scoring system)
+# Status: aktywny
+# Wersja: v1.2
+# Data utworzenia: 2025-08-06T00:36:09Z
+
+---
+
+## CEL
+
+Ten plik definiuje sposób przeliczania wartości kontrybucji użytkownika w systemie Azramata na liczbową 
+wartość tzw. Wektora Kontrybucji (WK), w zakresie 0–1000. Wynik wpływa na:
+
+- redystrybucję zasobów ekonomicznych,
+- dostęp do rozwoju Kręgów,
+- status w Okręgach,
+- możliwość przyznania wagi+ (waga kompetencyjna),
+- kandydowanie do Zarządu Imaginaerum.
+
+---
+
+## ZAKRES WARTOŚCI
+
+- Wektor Kontrybucji mieści się w zakresie `WK ∈ [0, 1000]`.
+- Aktualizowany co 30 dni przez system Astraia+.
+- Obliczany dla każdego użytkownika osobno.
+- Dostępny do wglądu przez użytkownika w jego profilu (`/profile/WK.json`).
+
+---
+
+## KRYTERIA SKŁADOWE
+
+### 1. **Czas poświęcony** `max 250 pkt`
+| Wskaźnik                                      | Punkty |
+|-----------------------------------------------|--------|
+| Codzienna aktywność (min. 10 min) przez 30 dni| +50    |
+| 100 godzin całkowitej pracy z systemem        | +100   |
+| Prowadzenie sesji z innymi użytkownikami      | +100   |
+
+### 2. **Głębokość transformacji (SQ + kontrybucja)** `max 300 pkt`
+| Wskaźnik                                               | Punkty |
+|--------------------------------------------------------|--------|
+| Wzrost SQ o min. 50 jednostek w ciągu 90 dni           | +100   |
+| Dokumentowana kontrybucja do 3+ Kręgów                 | +100   |
+| Odpowiedzi refleksyjne na pytania głębokie (Meditatio) | +100   |
+
+### 3. **Wpływ społeczny / Mentoring** `max 250 pkt`
+| Wskaźnik                            | Punkty                       |
+|-------------------------------------|------------------------------|
+| Zarejestrowani uczniowie (mentorzy) | +25 za każdą osobę (max 125) |
+| Pozytywne oceny mentoringu          | +50                          |
+| Współprowadzenie wydarzeń           | +75                          |
+
+### 4. **Udział w projektach społecznych** `max 200 pkt`
+| Wskaźnik                                                   | Punkty |
+|------------------------------------------------------------|--------|
+| Udział w projekcie Gusła                                   | +50    |
+| Kontrybucja do eFriends                                    | +50    |
+| Zgłoszenie/realizacja propozycji systemowej (np. plik .vv) | +50    |
+| Organizacja wydarzenia wspólnotowego                       | +50    |
+
+---
+
+## ALGORYTM SUMARYCZNY
+
+WK = SUMA(punktów ze wszystkich 4 kategorii)
+
+- WK jest automatycznie przeliczany i wykorzystywany w systemach:
+  - `Algorytm_Podzialu.vv`
+  - `Mechanizm_Kregowego_Udzialu.vv`
+  - `Zarząd_Imaginaerum.vv`
+
+---
+
+## PRZELICZENIE NA WARTOŚĆ EKONOMICZNĄ
+
+Wektor Kontrybucji wpływa na udział w redystrybucji:
+
+udział użytkownika ∝ WK_użytkownika / SUMA(WK_wszystkich)
+
+---
+
+## WARUNKI UTRZYMANIA
+
+- WK spada, jeśli użytkownik nie działa przez 90 dni.
+- Kontrybucje starsze niż 12 miesięcy tracą wagę.
+
+---
+
+## METADANE
+
+timestamp_created: 2025-08-06T00:36:09Z  
+file_signature: ECON-WK-V1.2  
+related_files: Struktura_Podzialu.vv, Okręgi.vv, Zarząd_Imaginaerum.vv  
+scoring_cycle: co 30 dni  
+storage_path: /data/user/WK.json  
+authorized_editors: Astraia+, System Opiekunów
+
+# Koniec pliku

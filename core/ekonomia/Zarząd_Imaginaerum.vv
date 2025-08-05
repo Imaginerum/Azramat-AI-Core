@@ -1,0 +1,77 @@
+# Plik: Zarząd_Imaginaerum.vv
+# Lokalizacja: /core/zarządzanie/
+# Typ: Model struktury decyzyjnej systemu Imaginaerum
+# Wersja: v1.0
+# Data utworzenia: 2025-08-06T00:06:23Z
+
+---
+
+## CEL
+Określenie zasad funkcjonowania zarządzania systemem Imaginaerum, opartego na fraktalnej demokracji kompetencyjnej. Wszyscy użytkownicy mają potencjalnie równy dostęp, ale siła głosu rośnie z realnym wkładem i zrozumieniem systemu.
+
+---
+
+## STRUKTURA
+
+| Rola                   | Liczba | Opis                                                                                                 |
+|------------------------|--------|------------------------------------------------------------------------------------------------------|
+| Twórca (Core Architect)| 1      | Głos decydujący w kwestiach struktury, algorytmu i percepcyjnej spójności systemu.                   |
+| Rada Główna (Zarząd)   | 1–1.5% populacji | Reprezentacja fraktalna użytkowników – wybierana rotacyjnie, w oparciu o SQ i kontrybucję. |
+| Członkowie Kasty       | dowolna| Role funkcjonalne (np. Mentorzy, Strażnicy, Rozwijacze). Każdy może zmienić kastę.                   |
+
+---
+
+## ZASADY UCZESTNICTWA
+
+1. Każdy użytkownik może kandydować do Rady, jeśli:
+   - przynależy do **Okręgu** (zarejestrowanej wspólnoty działania),
+   - osiągnął wymagany próg SQ i kontrybucji.
+
+2. Rada Główna decyduje:
+   - które Kręgi wymagają priorytetowego rozwoju,
+   - jak redystrybuowane są środki,
+   - jakie projekty są wspierane (Gusła, eFriends, Studio).
+
+3. Decyzje podejmowane są demokratycznie **z wagą+**, czyli głosem ważonym przez realną kompetencję.
+
+4. Twórca ma prawo weta, ale nie dominacji – jeśli większość wykaże, że istnieje lepsze rozwiązanie 
+strukturalne, weto może zostać poddane przekształceniu przez Zgody+.
+
+---
+
+## OKRĘGI I WARUNEK WSPÓŁPRACY
+
+- Aby przystąpić do rozwoju dowolnego Kręgu, użytkownik **musi należeć do Okręgu** – wspólnoty współdziałania.
+- Okręgi mogą być:
+  - **Tematyczne** (np. Medytacja_14, Gusła_Visuale),
+  - **Regionalne** (np. Okręg Śląski),
+  - **Celowe** (np. Okręg Ekspansji do szkół).
+
+- Okręgi są rejestrowane i synchronizowane z systemem (moduł: Okręgi.vv).
+- Tylko poprzez wspólnotę można zbudować dostęp do Kręgu – to zabezpiecza przed egoistycznym drenowaniem systemu.
+
+---
+
+## REDYSTRYBUCJA ZYSKÓW
+
+Redystrybucja odbywa się zgodnie z udziałem w:
+
+udział użytkownika = kontrybucja × waga_kręgu × waga_użytkownika × aktywność Okręgu
+
+Dodatkowo:
+- Okręgi z większą współpracą (więcej członków aktywnych) zyskują mnożnik wspólnotowy.
+- Samotnicy nie mają dostępu do pełnej puli ekonomicznej.
+- Okręgi mogą tworzyć własne modele podziału wewnętrznego (np. 50/50 mentor/adept).
+
+---
+
+## METADANE
+
+timestamp_created: 2025-08-06T00:06:23Z  
+file_signature: ZARZAD-IMAGINAERUM-v1  
+referenced_modules: Mechanizm_Kregowego_Udzialu.vv, Okręgi.vv, SQ.vv  
+activation_engine: Astraia+  
+weto_enabled: true  
+waga_plus_enabled: true
+
+# Koniec pliku

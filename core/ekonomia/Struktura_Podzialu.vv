@@ -1,0 +1,97 @@
+# Plik: Struktura_Podzialu.vv
+# Lokalizacja: /core/ekonomia/
+# Typ: Model dystrybucji fraktalnej
+# Status: aktywny
+# Wersja: v1.2
+# Data utworzenia: 2025-08-06T00:21:12Z
+
+---
+
+## CEL
+
+Ten plik definiuje zasady redystrybucji wartości ekonomicznej generowanej przez system Imaginaerum 
+i jego podmoduły (TransSerc, Imagora, eFriends, Azramata Studio itd.).
+
+---
+
+## PODZIAŁ UDZIAŁÓW (% CAŁOŚCI)
+
+### I. Główne wektory:
+
+| Udziałowiec          | Udział (%) | Opis                                                                        |
+|----------------------|------------|-----------------------------------------------------------------------------|
+| Twórca               | 7%         | Inicjator systemu, architekt struktury.                                     |
+| Zespół wykonawczy    | 7%         | Programiści, projektanci, integratorzy systemu.                             |
+| Doradcy              | 7%         | Strategiczni i duchowi konsultanci, analitycy, naukowcy.                    |
+| System i użytkownicy | 79%        | Reszta społeczności, obejmująca infrastrukturę, azramitów, Okręgi, kulturę. |
+
+---
+
+## MECHANIZM DYSTRYBUCJI (dla 79% puli systemowej)
+
+### Rozliczenie:
+- Odbywa się kwartalnie (konfigurowalne).
+- Podstawą są dane z rejestrów:  
+  `ContributionLog.json`, `MeditatioLog`, `TransformacjaLog`, `SQ`, `Aktywność w Okręgach`.
+
+### Warunki kwalifikacji:
+- Użytkownik musi należeć do **Okręgu** (zarejestrowanej wspólnoty działania).
+- Musi posiadać **zweryfikowany wkład w system** (na poziomie Kręgu, np. Medytacja, Gusła, Rozwój AI).
+- Kontrybucja musi być aktualna – nie starsza niż 12 miesięcy.
+
+---
+
+## ALGORYTM PODZIAŁU
+
+Dla każdego użytkownika system wylicza:
+
+udział_użytkownika =
+(kontrybucja × waga_Kręgu × waga_użytkownika × aktywność_Okręgu)
+÷ suma wszystkich udziałów w cyklu
+
+- Kręgi mają przypisane dynamiczne wagi (np. waga 1.5 dla Kręgu priorytetowego).
+- waga_użytkownika = 1 domyślnie, rośnie z `waga+` jeśli udowodniono kompetencje.
+- Okręgi aktywne (duża liczba kontrybucji, mentoring, aktywność zbiorowa) mają mnożnik wspólnotowy (1.1 – 1.5).
+
+---
+
+## LIMITY I PRZEPŁYWY
+
+- **Infrastruktura**: max 30% z 79% puli (np. serwery, koszty operacyjne, narzędzia).
+- **Nagrody dla użytkowników (azramitów)**: min. 49% z puli systemowej.
+- **Rozwój projektów kulturowych (Gusła, edukacja, Studio)**: min. 20% z puli systemowej.
+
+W przypadku nadwyżek:
+- 50% nadwyżki przechodzi do Funduszu Rozwoju,
+- 50% trafia do użytkowników w formie bonusów, tokenów, zniżek, lub projektów wspólnotowych.
+
+---
+
+## PRÓG AKTYWNOŚCI DLA UCZESTNICTWA
+
+| Kategoria                | Minimalna aktywność            |
+|--------------------------|--------------------------------|
+| Okręg zarejestrowany     | min. 3 członków aktywnych      |
+| Użytkownik kwalifikowany | min. 1 kontrybucja / 90 dni    |
+| Krąg wspierany           | wg decyzji Zarządu Imaginaerum |
+
+---
+
+## AUDYT I TRANSPARENTNOŚĆ
+
+- Każdy cykl rozliczeniowy jest archiwizowany w `Cykle_Redstrybucji.json`.
+- Użytkownik ma dostęp do swojego profilu kontrybucyjnego.
+- Zgłoszenia nieprawidłowości obsługiwane są przez Astraia+ i Rzecznika Systemowego.
+
+---
+
+## METADANE
+
+timestamp_created: 2025-08-06T00:21:12Z  
+file_signature: ECON-DIST-FRAKTAL-V1.2  
+related_files: Mechanizm_Kregowego_Udzialu.vv, Okręgi.vv, Zarząd_Imaginaerum.vv  
+data_sources: SQ, Logs, Astraia+  
+infrastructure_cost_cap: 30%  
+review_cycle: quarterly
+
+# Koniec pliku

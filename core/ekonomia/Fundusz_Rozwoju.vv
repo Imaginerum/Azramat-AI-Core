@@ -1,0 +1,90 @@
+# Plik: Fundusz_Rozwoju.vv
+# Lokalizacja: /core/ekonomia/
+# Typ: Fundusz wewnętrzny (rozwój, inwestycje)
+# Status: aktywny
+# Wersja: v1.3
+# Data utworzenia: 2025-08-06T01:04:02Z
+
+---
+
+## CEL
+
+Fundusz Rozwoju odpowiada za finansowanie projektów rozwojowych w obrębie systemu Azramata oraz jego 
+powiązanych podmodułów. Działa jako reinwestycyjny zasobnik strategiczny, zasilany nadwyżkami operacyjnymi.
+
+---
+
+## ZASADY ZASILANIA
+
+| Źródło                         | Wartość domyślna                      |
+|--------------------------------|---------------------------------------|
+| Nadwyżka z cyklu redystrybucji | min. 50%                              |
+| Dobrowolne datki użytkowników  | opcjonalnie                           |
+| Sponsorzy etyczni              | pod warunkiem akceptacji przez Zarząd |
+
+- Każda nadwyżka z puli redystrybucyjnej powyżej kosztów systemowych i udziałów osobowych zostaje 
+przekazana w minimum 50% do Funduszu.
+- Pozostała część może trafić do użytkowników w formie bonusów lub zostać przeniesiona na kolejne cykle.
+
+---
+
+## OBSZARY FINANSOWANE
+
+| Obszar             | Opis                                                  |
+|--------------------|-------------------------------------------------------|
+| **Azramata Studio**| Rozwój technologii, dokumentacji i narzędzi AI        |
+| **Gusła**          | Sztuka, rytuały, projekty wspólnotowe                 |  
+| **Edukacja**       | Tworzenie materiałów dydaktycznych, warsztatów, szkół |
+| **SI / Mędrzec**   | Rozwój silnika AI oraz jego rozumienia Kręgów         |
+| **eFriends**       | Sieć połączeń wspólnotowych i struktury społecznej    |
+
+Każdy z powyższych sektorów może zgłaszać projekty do sfinansowania przez ZgłosDAO.
+
+---
+
+## MECHANIZM GŁOSOWANIA (ZGŁOSDAO)
+
+Decyzje inwestycyjne podejmowane są poprzez **ZgłosDAO**, mechanizm zbierania i oceny zgłoszeń projektów.
+
+### Etapy:
+1. **Zgłoszenie projektu** – każdy Okręg może zgłosić projekt do finansowania.
+2. **Ocena wstępna** – system Astraia+ weryfikuje zgodność ze strukturą i celami.
+3. **Głosowanie** – użytkownicy (z min. WK 300) głosują w aplikacji DAO.
+4. **Zatwierdzenie** – wymaga minimum 2/3 głosów za.
+5. **Weto Twórcy** – Twórca może zablokować projekt tylko w przypadku niezgodności ze strukturą Kręgów.
+
+---
+
+## POZIOMY WSPARCIA
+
+| Poziom | Wartość            | Warunki                                         |
+|--------|--------------------|-------------------------------------------------|
+| A      | do 2 000 zł        | przyspieszone – automatyczne dla małych działań |
+| B      | do 20 000 zł       | wymaga zgłoszenia i 1/2 głosów poparcia         |
+| C      | do 100 000 zł      | wymaga zatwierdzenia przez Zarząd Imaginaerum   |
+| S      | powyżej 100 000 zł | specjalne – tylko na projekty kluczowe systemowo|
+
+---
+
+## AUDYT I TRANSPARENTNOŚĆ
+
+- Każdy wydatek z Funduszu zapisuje się w:  
+  `FunduszLog_{YYYY}.json`
+
+- Publiczny podgląd dostępny w `/fundusz/dashboard/`.
+
+- Co 12 miesięcy Astraia+ generuje audyt dostępny dla wszystkich użytkowników (`Audit_Fundusz.vv`).
+
+---
+
+## METADANE
+
+timestamp_created: 2025-08-06T01:04:02Z  
+file_signature: FUNDROZ-V1.3  
+source_modules: Algorytm_Podzialu.vv, ZgłosDAO.vv  
+auditable: true  
+decision_engine: ZgłosDAO + Astraia+  
+twórca_veto: enabled  
+linked_projects: Azramata Studio, Gusła, eFriends, AI
+
+# Koniec pliku
