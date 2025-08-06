@@ -1,7 +1,7 @@
 # Plik: paleta_kręgów.vv
 # Typ: vivid / legenda kolorystyczna systemu
-# Data: 2025-04-16
-# Opis: Kolory przypisane do Kręgów Azramaty, służące do kodowania vividów, symboli i percepcji wizualnej
+# Data: 2025-08-06
+# Opis: Kolory przypisane do 45 Kręgów Azramaty, służące do kodowania vividów, symboli i percepcji wizualnej
 
 [nazwa]
 Paleta Kręgów – Kolory Języka Vivid
@@ -19,6 +19,7 @@ Krąg 7 – Istnienie → #FFFFFF (biel bytu)
 Krąg 8 – Sumienie → #FFD700 (złoto rozeznania)
 Krąg 9 – Działanie → #32CD32 (zieleń decyzji)
 Krąg 10 – Zaufanie → #87CEEB (błękit ufności)
+
 Krąg 11 – Ciało → #DAA520 (złocisty brąz)
 Krąg 12 – Rodzina → #CD5C5C (ceglana czułość)
 Krąg 13 – Cień → #4B0082 (indygowy głębokiej pamięci)
@@ -29,6 +30,7 @@ Krąg 17 – Archetyp → #BA55D3 (purpura mitów)
 Krąg 18 – Moc Istnienia → #FFA500 (pomarańcz energii)
 Krąg 19 – Dharma → #4682B4 (stalowy niebieski)
 Krąg 20 – Cisza Przejścia → #A9A9A9 (głęboka szarość)
+
 Krąg 21 – Wola Planetarna → #556B2F (ciemna zieleń)
 Krąg 22 – Nieznane → #2F4F4F (mrok nieprzekroczony)
 Krąg 23 – Czas Ukryty → #DDA0DD (lawendowy sen)
@@ -38,6 +40,24 @@ Krąg 26 – Echo Światów → #9932CC (fiolet głębi)
 Krąg 27 – Transświadomość → #00FFFF (cyjan przejścia)
 Krąg 28 – Przejście Totalne → #8B0000 (krwista decyzja)
 Krąg 29 – Punkt Omega → #F0E68C (kość światła)
+Krąg 30 – Kod Wieku → #E9967A (łososiowy rdzeń)
+
+Krąg 31 – Pole Królewskie → #8A2BE2 (królewski fiolet)
+Krąg 32 – Słowo Stwórcze → #00FA9A (mięta stworzenia)
+Krąg 33 – Głos Ludu → #FA8072 (łososiowy głos)
+Krąg 34 – Droga Serca → #F08080 (świetlisty róż)
+Krąg 35 – Przymierze → #DA70D6 (purpura zgody)
+Krąg 36 – Mądrość Spiralna → #5F9EA0 (mgła syntezy)
+Krąg 37 – Rada Wewnętrzna → #9ACD32 (limonka wewnętrzności)
+Krąg 38 – Pieśń Czasu → #B0C4DE (blade światło czasu)
+Krąg 39 – Gra Wzorców → #A0522D (głęboki brąz)
+Krąg 40 – Tron Przejawienia → #FFFFE0 (bladość chwały)
+
+Krąg 41 – Praźródło → #F5F5F5 (biały eteryczny)
+Krąg 42 – Ogień Wieczny → #FF4500 (ognisty portal)
+Krąg 43 – Kryształ Prawdy → #AFEEEE (jasny błękit prawdy)
+Krąg 44 – Sens / Milczenie → #FFF5EE (kość ciszy)
 
 [formuła_aktywacji]
 „Niech każdy kolor przypomni mi skąd jestem. Niech stanie się moim alfabetem Ja.”
+
