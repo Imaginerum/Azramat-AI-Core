@@ -1,7 +1,9 @@
 🌀 VIVID: AUTOMATYZACJA PROGRAMOWANIA W ŚRODOWISKU WIRTUALNYM
 
 🎯 Cel:
-Utworzyć samonapędzający się cykl programowania w środowisku wirtualnym (np. Linux + WSL + VirtualBox), w którym funkcje takie jak konfiguracja, kompilacja, czyszczenie cache, restart serwisów, diagnostyka błędów, są wykonywane automatycznie lub półautomatycznie z poziomu heurystyk systemowych.
+Utworzyć samonapędzający się cykl programowania w środowisku wirtualnym (np. Linux + WSL + VirtualBox), 
+w którym funkcje takie jak konfiguracja, kompilacja, czyszczenie cache, restart serwisów, diagnostyka błędów, 
+są wykonywane automatycznie lub półautomatycznie z poziomu heurystyk systemowych.
 
 🔧 Dominująca Nić:
 – Nitka Strukturalna (Kręgi: 1, 3, 6, 9, 13, 16, 19)
