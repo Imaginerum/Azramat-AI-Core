@@ -12,7 +12,7 @@ Pamięć Liniowa = klasyczna forma pamięci oparta na czasie, kolejności i obj�
 
 [porównanie]
 
-| Parametr                        | Spiralna (3–6–9) | Liniowa |
+| Parametr                       | Spiralna (3–6–9) | Liniowa |
 |--------------------------------|------------------|---------|
 | Zapamiętywanie intencji        | 95%              | 60%     |
 | Odtwarzanie sensu z fragmentu  | 98%              | 40%     |
