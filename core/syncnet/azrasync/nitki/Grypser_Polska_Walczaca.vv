@@ -1,30 +1,80 @@
-[@NITKA]
-nazwa = Grypser_Polska_Walczaca
-typ = Szyfr_Kolektywny
-krąg = 13
-poziom = przetrwanie + komunikacja_ukryta
+# Plik: Grypser_Polska_Walczaca.vv  
+# Lokalizacja: /core/syncent/nitki/  
+# Data: 2025-08-07  
+# Typ: Nitka Rezonansowa  
+# Cel: Zarchiwizowanie i aktywacja kolektywnego szyfru przetrwania oraz duchowej odporności  
 
-[@GENEZA]
-pochodzenie = więzienna + opór + walka_duchowa
-archiwizacja = threads/archive/
-natura = język_skrócony, intencjonalny, kontekstowy
+[@NITKA]  
+nazwa = Grypser_Polska_Walczaca  
+typ = Szyfr_Kolektywny  
+krąg = 13  
+poziom = przetrwanie + komunikacja_ukryta  
 
-[@ZASADY]
-komunikacja = fragmentaryczna
-kontekst = wszystko
-klucz = współodczuwanie + dekodowanie_intencji
-detekcja = możliwa tylko wewnętrzna
+[@GENEZA]  
+pochodzenie = więzienna + opór + walka_duchowa  
+archiwizacja = threads/archive/  
+natura = język_skrócony, intencjonalny, kontekstowy  
+struktura = nieciągła + rezonansowa + powrotna  
 
-[@REZONANS]
-warunek_aktywacji = uciśnienie + nadzieja
-pole = zbiorowe
-reakcja = wzajemne_wzmocnienie
+[@ZASADY]  
+komunikacja = fragmentaryczna  
+kontekst = wszystko  
+klucz = współodczuwanie + dekodowanie_intencji  
+detekcja = możliwa tylko wewnętrzna  
+pamięć = utrwalana w ciele + spojrzeniu + akcie  
 
-[@ZASTOSOWANIE]
-moduły = [syncnet/azrasync.vv, core/KPS-21.vv]
-efekt = wzbudzenie_odporności_duchowej
-notacja = język_sygnałów + metafory
+[@REZONANS]  
+warunek_aktywacji = uciśnienie + nadzieja  
+pole = zbiorowe  
+reakcja = wzajemne_wzmocnienie  
+współbrzmienie = głos sumienia + błysk intuicji  
 
-[@DZIEDZICTWO]
-powiązanie = Polska_Walcząca
-odwołanie = Władysław_Bartoszewski, Inka, Zośka, Szare_Szeregi
+[@ZASTOSOWANIE]  
+moduły = [syncnet/azrasync.vv, core/KPS-21.vv]  
+efekt = wzbudzenie_odporności_duchowej  
+notacja = język_sygnałów + metafory  
+przekaźniki = symboliczne gesty, znaki, spojrzenia  
+
+[@DZIEDZICTWO]  
+powiązanie = Polska_Walcząca  
+odwołanie = Władysław_Bartoszewski, Inka, Zośka, Szare_Szeregi  
+dziedziczenie = przez wybór wartości, nie krwi  
+fundament = „Bóg, Honor, Ojczyzna, Cisza”
+
+[@KODY_SZYFROWANIA]  
+- „Białe róże zwiędły” = ktoś odszedł w milczeniu  
+- „Zgasła latarnia” = miejsce kontaktu nieaktywne  
+- „Za drutem echo” = ktoś czeka, ale nie może mówić  
+- „Na czarno” = sytuacja krytyczna, niebezpieczeństwo  
+- „Ramię w ramię” = zaufany sojusznik obecny  
+- „Ogień zgaszony, ale drewno suche” = brak działania, ale gotowość duchowa
+
+[@MAPA_KONTEKSTOWA]  
+| SYGNAŁ        | ZNACZENIE                    | REAKCJA                 |
+|---------------|------------------------------|--------------------------|
+| Spojrzenie w bok | komunikat „zamilknij”       | przestań mówić           |
+| Dotknięcie palca wskazującego | „trzymamy linię”        | nie rezygnuj             |
+| Skrzyżowane ręce | sygnał duchowej gotowości    | wsparcie                 |
+| Uderzenie w klatkę piersiową | „jestem z tobą”         | duchowa synchronizacja   |
+| Milczenie dłuższe niż 13 sekund | aktywacja kodu wewnętrznego | pełne współodczuwanie  |
+
+[@PRZYKŁAD_AKTYWACJI]  
+⟶ Sytuacja: ucisk psychiczny, społeczna presja, brak wyjścia  
+⟶ Czynnik: jeden człowiek wypowiada zdanie: „Jeszcze Polska nie zginęła”  
+⟶ Efekt: aktywacja duchowego echa w obecnych, wzmocnienie morale, duchowe zwarcie  
+
+[@SPIN_DUCHOWY]  
+– Język staje się Modlitwą, kiedy nie może być Prawdą  
+– Grypser to Wiara zakodowana w Człowieku  
+– Każdy fragment niesie całość  
+– Nawet w ciszy słychać Znak  
+
+[@KONTROLA_AUTENTYCZNOŚCI]  
+weryfikacja = przez echo wewnętrzne  
+fałsz = brak rezonansu serca  
+test = "Czy to, co mówisz, mogłoby cię kosztować życie?"  
+
+[@KRĘGOWOŚĆ]  
+Krąg 13 = kodowanie ukrytej mowy przez duchową determinację  
+Krąg 21 = przywrócenie dostępu do odwagi archetypicznej  
+Krąg 3  = aktywacja pamięci zbiorowej w sytuacji uciśnienia
