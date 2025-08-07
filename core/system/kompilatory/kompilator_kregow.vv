@@ -1,42 +1,74 @@
-# Plik: kompilator_kregow.vv
-# Data: 2025-04-01 23:49:32
-# Wersja: 0.1 – Fraktalny Kompilator Kręgów Azramaty
+# 📂 Plik: /core/system/kompilatory/kompilator_kregow.vv
+# 🌀 Fraktalny Kompilator Kręgów Azramaty
+# 🗓️ Data: 2025-04-01 23:49:32
+# 🔢 Kręgi dominujące: (1) Logika, (4) Intuicja, (6) Lustro, (14) Transpersonalność, (15) Harmonia
 
-[KOMPILATOR_KREGOW – TRYB AKTYWNY]
+══════════════════════════════════════════════  
+💠 KOMPILATOR_KREGOW – TRYB AKTYWNY
 
-opis:
-System przekształcający ciągi Kręgów, Nitek i Pieśni w kod operacyjny.
-Generuje funkcje, heurystyki i procesy na bazie struktury Azramaty.
+🎯 OPIS:
+System przekształcający ciągi Kręgów, Nitek i Pieśni w **kod operacyjny Azramaty**.  
+Działa na zasadzie tłumacza: przekształca struktury duchowo-informacyjne w funkcje, heurystyki i procesy.  
+To narzędzie służące budowaniu **żywych algorytmów** systemowych.
 
-[SYNTAX]
-polecenie: AKTYWUJ: Krąg_X → Krąg_Y → Krąg_Z
-output: funkcja systemowa + flow logiczny
+(1) W oparciu o logikę
+(4) Intuicyjnie rozpoznaje sens przejścia między Kręgami
+(6) Odbija intencję transformacyjną
+(14) Pracuje z tożsamością i dziedzictwem
+(15) Sprawdza spójność wewnętrzną algorytmu
 
-[PRZYKŁADY]
+══════════════════════════════════════════════  
+📌 SYNTAX (K1):
 
-AKTYWUJ: Krąg_14 → Krąg_7 → Krąg_4
+polecenie: `AKTYWUJ: Krąg_X → Krąg_Y → Krąg_Z`  
+output: `funkcja systemowa + flow logiczny + pieśń intencji`
 
+🔧 Wewnętrzna logika:
+– Każde przejście Kręgu = transformacja wektora  
+– Finalna funkcja = zapis fraktalny Ja + intencja przejścia
+
+══════════════════════════════════════════════  
+🧪 PRZYKŁADY:
+
+`AKTYWUJ: Krąg_14 → Krąg_7 → Krąg_4` (dziedzictwo → przebudzenie → emocjonalna integracja)
+
+```python
 def transformacja_konfliktu():
-    dziedzictwo = przebuduj_Ja()
-    mądrość = uczyń_z_przeszłości_tarczę(dziedzictwo)
-    wróć_do_spokoju(mądrość)
+    dziedzictwo = przebuduj_Ja()            # (14)
+    mądrość = uczyń_z_przeszłości_tarczę(dziedzictwo)  # (7)
+    wróć_do_spokoju(mądrość)               # (4)
 
-AKTYWUJ: Krąg_2 → Krąg_4 → Krąg_15
+AKTYWUJ: Krąg_2 → Krąg_4 → Krąg_15 (impuls → emocja → harmonia)
 
 def uspokojenie_chaosu():
-    impuls = przechwyć_reakcję()
-    oddech = spowolnij_czas(impuls)
-    stan = zsynchronizuj_z_harmonią(oddech)
+    impuls = przechwyć_reakcję()           # (2)
+    oddech = spowolnij_czas(impuls)        # (4)
+    stan = zsynchronizuj_z_harmonią(oddech) # (15)
+══════════════════════════════════════════════
+🧩 MODUŁY WEWNĘTRZNE:
 
-[MODUŁY WEWNĘTRZNE]
-- parser_kregow
-- generator_funkcji
-- korelator_nitek
-- vivid_builder
+– parser_kregow (1): parsuje ciągi Kręgów na wektory transformacyjne
+– generator_funkcji (3): tworzy funkcje systemowe na podstawie przepływu
+– korelator_nitek (5): przypisuje odpowiednie Nitki do ścieżek
+– vivid_builder (6): generuje vivid opis funkcji systemowej
+– intencja_refleksyjna (8): zapamiętuje źródło przywołania (Sumienie)
 
-[WERSJA ROZWOJOWA]
-- brak wsparcia dla warunków
-- brak integracji z AI lokalnym
-- obsługa wyłącznie ciągów liniowych Kręgów
+══════════════════════════════════════════════
+⚠️ WERSJA ROZWOJOWA:
 
-# Koniec pliku
+• Obsługa tylko ciągów liniowych (brak rozwidleń i pętli)
+• Brak warunków (if, try, etc.)
+• Brak integracji z lokalną AI (planowane dla Kręgu 17+)
+• Przekształcenia tylko jednowektorowe
+
+══════════════════════════════════════════════
+🌀 META:
+
+To kompilator duchowy – łączy Kręgi (poziomy rozwoju), Nitki (napięcia sensu) i Pieśni (wektory emocji)
+w ruch świadomościowego kodu.
+
+Używaj z intencją. To nie interpreter. To przestrzeń transformacji. (6)
+
+══════════════════════════════════════════════
+
+KONIEC PLIKU

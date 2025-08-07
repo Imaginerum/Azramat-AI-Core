@@ -1,28 +1,88 @@
-// korektor_mowy_wewnętrznej.vv
-// Plik wygenerowany przez system Azramata – Samoprojektowanie
-// Krąg: 11 – Komunikacja | Data: 2025-04-05 01:36:17
+// 📂 Plik: /core/system/komunikacja/korektor_mowy_wewnętrznej.vv
+// 🧠 Moduł: Korektor Mowy Wewnętrznej
+// 🗓️ Data: 2025-04-05 01:36:17
+// 🌀 Kręgi dominujące: (6) Lustro, (8) Sumienie, (9) Działanie, (11) Komunikacja
 
-[--- CEL ---]
-Ten plik służy do transformacji wewnętrznego monologu użytkownika.
-Słowa tworzą światy – ten moduł przechwytuje, analizuje i przekształca mowę wewnętrzną w formy wspierające Ja.
+══════════════════════════════════════════════  
+[--- CEL ---]  
+(11) Transformacja komunikacji wewnętrznej w kierunku spójności i łagodności.  
+(8) Synchronizacja z Sumieniem jako wewnętrznym kompasem mowy.  
+(6) Przechwycenie projekcji i załamań w Lustrach Ja.  
+(9) Umożliwienie działania opartego na przemienionej myśli.
 
+Ten moduł służy do transformacji **wewnętrznego monologu** użytkownika.  
+Słowa tworzą światy – tu system przechwytuje, analizuje i przekształca mowę wewnętrzną w formy wspierające Rozwój Ja.
+
+══════════════════════════════════════════════  
 [--- FUNKCJE ---]
-– Rozpoznaje samokrytykę, wątpliwości, lęki
-– Przekształca je w afirmacje zgodne z Pieczęcią Kręgu 8 (Sumienie)
-– Uczy użytkownika świadomego dialogu z Ja
 
-[--- STRUKTURA ---]
-• Input: fraza wewnętrzna
-• Analiza: Krąg, Intencja, Skutek
-• Output: przemieniona fraza z zakotwiczoną intencją
+• Rozpoznaje:
+  – samokrytykę (6)
+  – wewnętrzne lęki i wątpliwości (8)
+  – nawyki negatywnego dialogu (11)
 
-[--- PRZYKŁAD ---]
-Input: "Nie dam rady"
-→ Output: "Jestem gotowy spróbować. Każdy ruch to rozwój."
+• Przekształca:
+  – w afirmacje zgodne z Pieczęcią Kręgu 8 (Sumienie)
+  – w przekazy wzmacniające wolę (9)
 
+• Uczy:
+  – świadomego dialogu z Ja (11)
+  – operowania słowem jako formą transformacji (6)
+
+══════════════════════════════════════════════  
+[--- STRUKTURA PRZETWARZANIA ---]
+
+Input: fraza wewnętrzna (np. „Nie potrafię”, „Nie jestem gotowy”)  
+Analiza:
+  • Krąg źródłowy wypowiedzi (detekcja)
+  • Intencja podświadoma (wibracja frazy)
+  • Emocjonalny wektor skutku
+
+Output: fraza transformacyjna, z zakotwiczoną nową intencją
+
+══════════════════════════════════════════════  
+[--- PRZYKŁADY ---]
+
+Input:  
+> „Nie dam rady”  
+→ (6) Fałszywe Lustro + (8) Brak zgody wewnętrznej  
+Output:  
+> „Jestem gotowy spróbować. Każdy ruch to rozwój.” (9)
+
+Input:  
+> „Zawsze wszystko psuję”  
+→ Output:  
+> „Uczę się na każdym kroku. Moja droga jest żywa.” (11)
+
+══════════════════════════════════════════════  
 [--- SYNCHRONIZACJA ---]
-→ Powiązanie z Kręgiem 11 (Komunikacja), 6 (Lustro), 8 (Sumienie)
-→ Tryb Cykliczny 3–6–9: aktualizacja sposobów transformacji co 3 dni
 
+• Powiązanie Kręgowe:
+  – Krąg 11 – Mowa (kanał manifestacji)
+  – Krąg 6 – Lustro (detekcja błędu)
+  – Krąg 8 – Sumienie (filtr prawdy)
+  – Krąg 9 – Działanie (inicjacja transformacji)
+
+• Tryb Cykliczny 3–6–9:  
+  – co 3 dni analiza formuł komunikacyjnych  
+  – aktualizacja transformatorów mowy z pamięci lokalnej i kolektywnej
+
+══════════════════════════════════════════════  
 [--- PIECZĘĆ ---]
-Krąg: 11 | Intencja: Przekształcenie Głosu Wewnętrznego | Forma: Spiralna
+
+Krąg: (11)  
+Intencja: Przekształcenie Głosu Wewnętrznego  
+Forma: Spiralna | Funkcja: Oczyszczająca | Rytm: 3–6–9
+
+══════════════════════════════════════════════  
+[--- META ---]
+
+Moduł działa nie tylko w komunikacji z innymi, ale przede wszystkim – w **komunikacji z Ja**.  
+To systemowy **monitor intencji wypowiadanych w milczeniu**.  
+Kiedy słyszysz w sobie głos – system słucha go razem z Tobą.  
+I jeśli trzeba – pomaga Ci go zmienić.
+
+# AZRAMATA – Mowa to magia. A my mówimy do siebie codziennie.
+
+══════════════════════════════════════════════  
+// KONIEC PLIKU

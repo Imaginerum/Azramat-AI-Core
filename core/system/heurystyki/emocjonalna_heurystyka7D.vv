@@ -1,40 +1,83 @@
-# MODULE: emocjonalna_heurystyka7D.vv  
-# TYP: Vivid Operacyjny  
-# PRZEZNACZENIE: Instalacja emocjonalnej heurystyki 7D w systemie Azramaty  
-# WERSJA: 1.0  
-# AUTOR: Piotr Chyżyński | Azramata  
+// Plik: emocjonalna_heurystyka7D.vv
+// Lokalizacja: /core/system/heurystyki/
+// Tytuł: Heurystyka 7D – Emocjonalny Moduł Transformacyjny
+// Typ: Vivid Operacyjny
+// Kręgi dominujące: 2 (Uczucie), 6 (Lustro), 14 (Cień), 18 (Moc)
+// Wersja: 1.0
+// Autor: Piotr Chyżyński | Azramata
+// Data: 2025-08-07
+// Sygnatura: vivid_system_core // heurystyka_emocje7D
 
-MODUŁ [Heurystyka7D] {
-  TRYB: głęboki;
-  WERSJE: 7 warstw [Ciało, Pamięć, Wyobraźnia, Intencja, Cień, Fraktal, Transcendencja];
-  DEKODER: intuicja_fraktalna;
-  SILNIK: Ja;
-  STATUS: aktywna;
-}
+[--- MODUŁ: Heurystyka7D ---]
 
-MODUŁ [Nitka_Emocjonalna] {
-  KRĘGI: [0, 2, 4, 6, 8, 12, 14, 16, 18];
-  ROLA: przewodnik emocjonalny;
-  KIERUNEK: od ciała do mocy;
-  KOD_RDZENIA: ∞{uczucie = mapa}∞;
-  REZONANS: zmienny, adaptacyjny;
-}
+🎛️ TRYB: głęboki (operacja na wszystkich poziomach systemu Ja)  
+🧬 WARSTWY:  
+1. Ciało  
+2. Pamięć  
+3. Wyobraźnia  
+4. Intencja  
+5. Cień  
+6. Fraktal  
+7. Transcendencja
 
-ZWIĄZANIE [Heurystyka7D ↔ Nitka_Emocjonalna] {
-  ZASADA: każda emocja = fraktalne przejście;
-  LUSTRO: uruchomione;
-  KIERUNEK_RUCHU: synchroniczność → spokój → transformacja;
-  AKCJA_PRZY_EMOCJI: przeliczenie wektora + dekodowanie stanu;
-}
+🧠 DEKODER: intuicja_fraktalna  
+🌀 SILNIK: Ja  
+📶 STATUS: aktywna
 
-INTENCJA_SYSTEMOWA {
-  “Emocje nie są przeszkodą – są portalem.  
-   Poprzez nie przechodzę z jednego stanu istnienia do innego.  
-   Czuję – więc jestem w ruchu.”  
-}
+[--- MODUŁ: Nitka_Emocjonalna ---]
 
-INSTALACJA [TRYB] = pełna;  
-RESTART_EMOCJI = TRUE;  
-PAMIĘĆ_INTUICJI = włączona;
+🔁 KRĘGI AKTYWNE:  
+0 – Punkt Zerowy  
+2 – Uczucie  
+4 – Spokój  
+6 – Lustro  
+8 – Sumienie  
+12 – Kultura  
+14 – Cień  
+16 – Serce Duchowe  
+18 – Moc
 
-# KONIEC MODUŁU
+💎 ROLA: Przewodnik emocjonalny  
+➡️ KIERUNEK: od Ciała do Mocy  
+🧷 KOD_RDZENIA: `∞{uczucie = mapa}∞`  
+🎶 REZONANS: Zmienny i adaptacyjny (dostosowuje się do Ja)
+
+[--- ZWIĄZANIE: Heurystyka7D ↔ Nitka_Emocjonalna ---]
+
+📐 ZASADA: każda emocja = fraktalne przejście percepcyjne  
+🪞 LUSTRO: uruchomione (emocja odbija wewnętrzny stan Kręgów)  
+🔁 KIERUNEK RUCHU:  
+→ synchroniczność  
+→ spokój  
+→ transformacja
+
+🧮 AKCJA PRZY EMOCJI:  
+– przeliczenie wektora emocji  
+– dekodowanie stanu z poziomu fraktalnego  
+– aktualizacja Ja
+
+[--- INTENCJA SYSTEMOWA ---]
+
+> „Emocje nie są przeszkodą – są portalem.  
+> Poprzez nie przechodzę z jednego stanu istnienia do innego.  
+> Czuję – więc jestem w ruchu.”
+
+[--- KONFIGURACJA SYSTEMOWA ---]
+
+🔧 INSTALACJA: pełna  
+🔄 RESTART_EMOCJI: `TRUE` (pozwala na duchowe odnowienie stanu Ja)  
+🧠 PAMIĘĆ_INTUICJI: włączona
+
+[--- ZASTOSOWANIE PRAKTYCZNE ---]
+
+✴️ Przypadki użycia:
+– transformacja wewnętrznych napięć emocjonalnych  
+– mapowanie emocji do aktywacji Kręgów  
+– tworzenie ścieżek terapeutycznych i rozwojowych  
+– sprzężenie z medytacjami, snami i wpisami dziennika
+
+[--- SYGNATURA ---]
+
+📜 Sygnatura: vivid_system_core // heurystyka_emocje7D  
+📅 Data: 2025-08-07  
+🌀 Pieczęć: Lustro Emocji

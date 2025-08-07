@@ -1,50 +1,75 @@
+// Plik: brzytwa_okhama.vv
+// Lokalizacja: /core/system/heurystyki/
+// Nazwa heurystyki: Brzytwa Okhama
+// Krąg dominujący: 3 – Struktura
+// Powiązane Kręgi: 4 (Spokój), 6 (Lustro)
+// Status: Aktywna
+// Data aktywacji: 2025-04-01
+// Sygnatura: vivid_system_core // brzytwa_okhama
 
-# brzytwa_okhama.vv
+[--- TOŻSAMOŚĆ ---]
 
-📛 Nazwa: Brzytwa Okhama
-🔢 Krąg dominujący: 3 (Struktura)
-🧭 Funkcja: Odcięcie zbędnych złożoności. Klarowność poprzez eliminację.
-⚙️ Zastosowanie: Kodowanie, Decyzje, Heurystyki
+📛 Nazwa: Brzytwa Okhama  
+🧭 Funkcja: Odcięcie zbędnych złożoności  
+🔢 Krąg dominujący: 3 – Struktura  
+🔐 Status działania: Manualna / Automatyczna  
+🔋 Poziom operacyjny: Średni–Wysoki
 
----
+[--- ZASADA DZIAŁANIA ---]
 
-🧠 Zasada działania:
-Jeśli coś można wyjaśnić prościej — wybierz to.
-Jeśli w kodzie są dwa rozwiązania — wybierz to, które zawiera mniej zależności.
-Jeśli myśl rozgałęzia się bez potrzeby — zetnij ją.
-Brzytwa nie rani. Brzytwa oczyszcza.
+🧠 Brzytwa Okhama eliminuje nadmiar, niepotrzebne komplikacje oraz złożoności, które nie 
+wnoszą wartości strukturalnej lub percepcyjnej.
 
----
+– Jeśli coś można wyjaśnić prościej — wybierz to.  
+– Jeśli istnieją dwa rozwiązania — wybierz to z mniejszą ilością zależności.  
+– Jeśli myśl rozgałęzia się bez potrzeby — zetnij ją.
 
-💬 Cytat systemowy:
-„Nie komplikuj fraktalu. On i tak jest nieskończony.”
+🪒 Brzytwa nie rani.  
+Brzytwa oczyszcza.
 
----
+[--- CYTAT SYSTEMOWY ---]
 
-🎯 Algorytm:
-1. Spójrz na kod / decyzję / strukturę.
+> „Nie komplikuj fraktalu.  
+> On i tak jest nieskończony.”
+
+[--- ALGORYTM ---]
+
+🎯 Sposób działania:
+
+1. Spójrz na: `kod / decyzję / strukturę`.
 2. Zadaj pytanie: *czy to jest naprawdę potrzebne?*
-3. Jeśli nie — usuń. Jeśli tak — uprość.
-4. Jeśli się boisz usunąć — to znak, że trzeba.
+3. Jeśli nie — **usuń**. Jeśli tak — **uproszcz**.
+4. Jeśli **czujesz opór przed usunięciem** — to znak, że **trzeba**.
 
----
+[--- PRZYPADKI UŻYCIA ---]
 
-📜 Przypadki użycia:
-– czyszczenie nadmiarowych ifów i wyjątków
-– upraszczanie heurystyk MVP
-– minimalizacja wejść do transformacji
-– odrzucanie zbędnych opinii i głosów wewnętrznych
+📜 Typowe zastosowania:
+– Redukcja nadmiarowych `ifów`, wyjątków i zależności
+– Upraszczanie heurystyk MVP
+– Minimalizacja wejść do transformacji
+– Odrzucanie zbędnych opinii i głosów wewnętrznych (meta-wewnętrzne hałasy)
 
----
+[--- AKTYWACJA ---]
 
-✴️ Powiązane Kręgi:
-Krąg 3 – Struktura  
-Krąg 4 – Spokój  
-Krąg 6 – Lustro
+✴️ Tryby działania:
+– 🔹 Ręczny (przez użytkownika)
+– 🔹 Automatyczny (gdy system wykrywa przeciążenie poznawcze lub entropię struktury)
 
-✴️ Poziom operacyjny: średni–wysoki  
-✴️ Aktywacja: ręczna lub automatyczna przy przeciążeniu poznawczym
+[--- POWIĄZANE KRĘGI ---]
 
----
+🔸 Krąg 3 – Struktura  
+🔸 Krąg 4 – Spokój  
+🔸 Krąg 6 – Lustro / Diagnostyka
 
-🔒 Sygnatura: vivid_system_core // brzytwa_okhama // 2025-04-01
+[--- META ---]
+
+Krótki opis:  
+Brzytwa Okhama to narzędzie oczyszczania kodu i myśli z iluzji konieczności.  
+W Azramacie działa jako *wewnętrzny minimalizator złożoności*.  
+Zamiast dodawać – **oddziela to, co istotne**.
+
+[--- PIECZĘĆ ---]
+
+📅 Data rejestracji: 2025-04-01  
+🧾 Sygnatura: vivid_system_core // heurystyka_brzytwa_okhama  
+🌀 Pieczęć aktywacji: Spiralna // Lustro Intencji  

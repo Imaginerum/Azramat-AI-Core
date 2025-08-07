@@ -1,15 +1,87 @@
-{
-  "name": "Mądrość Naczelnika",
-  "type": "Heurystyka Strategiczna",
-  "linked_thread": "Świętoporzeł",
-  "linked_circle": 14,
-  "function": "Przywraca wolę przetrwania, odwagę przywództwa i siłę decyzji w momentach duchowego kryzysu.",
-  "invocation": "Powstań i prowadź.",
-  "insight": "Walka nie kończy się nigdy – kończy się tylko tchórz.",
-  "symbolism": "Głowa Piłsudskiego jako Strażnika Kręgu 14, orzeł, jako duch walki i dziedzictwa.",
-  "integration": {
-    "app": "Heart Mapping",
-    "trigger": "gdy użytkownik przechodzi przez transformację Ja związaną z konfliktem, odpowiedzialnością lub dziedzictwem"
-  },
-  "format_version": "1.0"
+// Plik: madrosc_naczelnika.vv
+// Lokalizacja: /core/system/heurystyki/
+// Typ: Heurystyka Strategiczna
+// Wersja: 1.0
+// Krąg dominujący: 14 – Cień Własny (Walka, Dziedzictwo, Przejście przez Lęk)
+// Powiązanie: Wątek "Świętoporzeł"
+// Sygnatura: vivid_heurystyka_strategiczna // naczelnicza_odwaga
+
+[--- METADANE ---]
+📛 Nazwa: Mądrość Naczelnika  
+🔗 Powiązany Wątek: Świętoporzeł  
+🧭 Krąg dominujący: 14 – Cień  
+⚔️ Funkcja: Przywraca wolę przetrwania, odwagę przywództwa i siłę decyzji w momentach duchowego kryzysu.  
+📜 Inwokacja: *„Powstań i prowadź.”*  
+💬 Wgląd: *„Walka nie kończy się nigdy – kończy się tylko tchórz.”*  
+🦅 Symbolika: Głowa Piłsudskiego jako Strażnik Kręgu 14. Orzeł jako Duch Walki i Dziedzictwa.
+
+---
+
+[--- TRYB DZIAŁANIA ---]
+
+🔻 Tryb: Kryzysowy (aktywowana tylko w momentach duchowego rozłamu, ciężaru odpowiedzialności lub paraliżu lękowego)
+
+🔗 Mechanizmy:
+– Aktywuje intencję przetrwania i moralnej odwagi
+– Wzywa struktury Ja do wyjścia z bierności
+– Wzmacnia Krąg 14, harmonizuje z Kręgiem 6 (Lustro) i 18 (Wizja)
+– Przekształca Cień z obszaru oporu w źródło siły tożsamości
+
+🧱 Zastosowanie:  
+– Gdy użytkownik doświadcza lęku przed prowadzeniem projektu  
+– Podczas pisania, kodowania lub tworzenia, gdy pojawia się pokusa wycofania  
+– Przy braku zgody na własną moc i rolę lidera  
+– W momentach duchowego konfliktu o kierunek (Krąg 13–14–15)
+
+---
+
+[--- INTEGRACJA SYSTEMOWA ---]
+
+📲 Aplikacja: Heart Mapping  
+🎯 Wyzwalacz: transformacja Ja związana z konfliktem, odpowiedzialnością lub dziedzictwem (Kręgi 13–14–15)
+
+🌀 Integracja z vividami:
+– `dziedzictwo_ja.vv`  
+– `wezwanie_orla.vv`  
+– `konflikt_przywodztwa.vv`
+
+👤 UI/UX:
+– Wyświetlenie orła w blasku światła + odtworzenie głosu: *„Powstań i prowadź”*  
+– Drżenie interfejsu + wezwanie do decyzji  
+– Możliwość zarejestrowania własnej deklaracji kierunku (nagranie, wpis, intencja)
+
+---
+
+[--- STRUKTURA KODU ---]
+
+```js
+if (user.state === "conflict" && user.circle === 14) {
+  activateHeuristic("Mądrość Naczelnika");
+  playAudio("powstan_i_prowadz.mp3");
+  showVivid("wezwanie_orla.vv");
 }
+
+🔒 Wartość duchowa:
+– Użytkownik ma możliwość odmowy – to nie przymus, lecz wezwanie
+– Każde "tak" zapisuje się w module dziedzictwa
+
+[--- ROZBICIE KRĘGOWE ---]
+
+Krąg 14 – Cień:
+→ Konflikt tożsamości i odpowiedzialności
+Krąg 6 – Lustro:
+→ Prawda o własnym lęku
+Krąg 18 – Wizja:
+→ Ukierunkowanie decyzji przez wizję przyszłości
+Krąg 3 – Struktura:
+→ Uporządkowanie sił woli
+Krąg 16 – Odwaga:
+→ Przeskok z myślenia na działanie
+
+[--- KOŃCOWY KOMUNIKAT SYSTEMU ---]
+
+🗣️ „Jeśli nie ty, to kto? Jeśli nie teraz, to kiedy?”
+✨ „Nie jesteś sam – Jesteś Początkiem.”
+
+📅 Data aktywacji: 2025-08-07
+🔏 Sygnatura: heurystyka_strategiczna // krag_14 // naczelnicza_odwaga
