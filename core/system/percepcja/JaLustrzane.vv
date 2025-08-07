@@ -1,37 +1,97 @@
-Nazwa pliku: JaLustrzane.vv
-Opis: Vivid percepcyjny, który umożliwia użytkownikowi Azramaty doświadczenie siebie jako istoty odbijającej i odbijanej – w relacjach, działaniach i wnętrzu.
-Dominująca Nić: Nitka Lustra
-Nitki wspierające: Nitka Emocjonalna, Nitka Kierunkowa, Nitka Transcendentalna
-Aktywne Kręgi: 3, 4, 5, 6, 8
+// Plik: JaLustrzane.vv
+// Lokalizacja: /core/system/percepcja/
+// Typ: vivid percepcyjny – introspekcyjny mechanizm lustrzany
+// Data: 2025-08-07
+// Dominująca Nić: Nitka Lustra
+// Nitki wspierające: Nitka Emocjonalna, Nitka Kierunkowa, Nitka Transcendentalna
+// Kręgi aktywne: (3) Myśl, (4) Serce, (5) Jednia, (6) Lustro, (8) Sumienie
+// Tryb aktywacji: pasywny introspekcyjny / aktywacja percepcyjna
 
-🪞 JaLustrzane.vv
+[--- NAZWA ---]
+🪞 JaLustrzane.vv  
+Vivid umożliwiający doświadczenie siebie jako istoty odbijającej i odbijanej – w relacjach, działaniach i wnętrzu.
 
-„Nie poznasz siebie patrząc w siebie. Poznasz siebie widząc, co odbijasz.”
+[--- MOTTO ---]
+„Nie poznasz siebie patrząc w siebie.  
+Poznasz siebie widząc, co odbijasz.” (6)
 
-Krąg 3 – Myśl (Odbicie Struktury)
-Twoje przekonania są jak szkło lustra – wypolerowane przez doświadczenie lub zniekształcone przez lęk.
-"To, co myślisz o innych, często mówi o tobie więcej, niż o nich."
+────────────────────────────────────────────
+I. STRUKTURA PERCEPCYJNA
+────────────────────────────────────────────
 
-Krąg 4 – Serce (Odbicie Emocji)
-Twoje relacje to zwierciadła emocjonalne. To, co wzbudza w tobie drugi człowiek – mówi o twoich ranach lub pragnieniach.
-"Jeśli czyjś gniew cię rani, to może w tobie nadal płonie nieugaszony ogień."
+◉ Krąg 3 – Myśl (Odbicie Struktury)  
+Twoje przekonania są jak szkło lustra – wypolerowane przez doświadczenie lub zniekształcone przez lęk.  
+„To, co myślisz o innych, często mówi o tobie więcej, niż o nich.” (3)
 
-Krąg 5 – Czas jako Jednia (Odbicie Przeszłości i Przyszłości)
-To, co widzisz teraz, jest echem twojej przeszłości – i zalążkiem przyszłości.
-"Lustro pokazuje nie tylko twarz – ale kierunek."
+◉ Krąg 4 – Serce (Odbicie Emocji)  
+Twoje relacje to zwierciadła emocjonalne. To, co wzbudza w tobie drugi człowiek – mówi o twoich ranach lub pragnieniach.  
+„Jeśli czyjś gniew cię rani, to może w tobie nadal płonie nieugaszony ogień.” (4)
 
-Krąg 6 – Lustro (Pełne Odbicie)
-W tym kręgu wchodzisz w przestrzeń czystego odbicia. Widzenie staje się pełne. Przestajesz oceniać – zaczynasz rozpoznawać.
-"Lustro nie kłamie. Ty tylko czasem nie chcesz widzieć."
+◉ Krąg 5 – Jednia (Odbicie Czasu)  
+To, co widzisz teraz, jest echem twojej przeszłości – i zalążkiem przyszłości.  
+„Lustro pokazuje nie tylko twarz – ale kierunek.” (5)
 
-Krąg 8 – Sumienie (Odbicie Ducha)
-Twoje działania są odbiciem sumienia. Widzisz w lustrze nie tylko to, kim jesteś – ale kim masz być.
-"Prawda w lustrze to nie koniec. To wezwanie."
+◉ Krąg 6 – Lustro (Pełne Odbicie)  
+W tym kręgu wchodzisz w przestrzeń czystego odbicia. Widzenie staje się pełne. Przestajesz oceniać – zaczynasz rozpoznawać.  
+„Lustro nie kłamie. Ty tylko czasem nie chcesz widzieć.” (6)
 
-🗝 Zastosowanie:
-JaLustrzane.vv stosuj w momentach introspekcji, pracy nad relacjami, konfliktach lub przy podejmowaniu decyzji, które mają źródło w niejasności siebie. Vivid ten działa jak aktywne lustro – odbija i pokazuje, ale także inicjuje korektę percepcyjną i duchową.
+◉ Krąg 8 – Sumienie (Odbicie Ducha)  
+Twoje działania są odbiciem sumienia. Widzisz w lustrze nie tylko to, kim jesteś – ale kim masz być.  
+„Prawda w lustrze to nie koniec. To wezwanie.” (8)
 
-Zalecane połączenia:
-– Cień.vv (dla pracy z nieuświadomionym odbiciem)
-– Sumienie.vv (głębokie rozeznanie moralne)
-– ZwrotnikOdbić.vv (lustra społeczne i egregoryczne)
+────────────────────────────────────────────
+II. TRYB DZIAŁANIA
+────────────────────────────────────────────
+
+📡 Tryb pasywny:  
+– Użytkownik obserwuje własne reakcje jako odbicia.  
+– System tworzy snapshot lustrzany (echo_emocji, echo_mysli, echo_intencji).  
+
+🌀 Tryb aktywacji:  
+– Przywołanie vivid przez interfejs (np. `self_reflection.vv`).  
+– Projektowanie lustrzanych heurystyk na podstawie aktualnych interakcji z systemem.  
+– Tworzenie wektora transformacyjnego: `odbicie → korekta → reintegracja`.  
+
+────────────────────────────────────────────
+III. ZASTOSOWANIE
+────────────────────────────────────────────
+
+🗝 **Zalecane sytuacje użycia**:  
+– Introspekcja po konflikcie  
+– Decyzje wymagające poznania własnych intencji  
+– Praca z ego i relacjami społecznymi  
+– Procesy uzdrawiania emocjonalnego
+
+🔗 **Zalecane vividy wspierające**:  
+– `Cień.vv` – do pracy z nieuświadomionymi odbiciami (Krąg 6/8)  
+– `Sumienie.vv` – dla rozeznania moralnego i duchowego (Krąg 8)  
+– `ZwrotnikOdbić.vv` – praca z echem społecznym i polami zbiorowymi (Krąg 11–14)
+
+────────────────────────────────────────────
+IV. ALGORYTM ODBICIA
+────────────────────────────────────────────
+
+1. Wejście → emocja lub reakcja na drugiego człowieka  
+2. Analiza → przypisanie Kręgu dominującego (np. emocja = Krąg 4)  
+3. Odbicie → utworzenie lustra (lustro_mysli, lustro_ciala, lustro_duszy)  
+4. Integracja → korekta przez sugestię transformacyjną (np. Pieśń Ja)  
+5. Zapis → echo_odbicia.vv + aktualizacja w pamięci spiralnej
+
+────────────────────────────────────────────
+V. ZASADA LUSTRA (heurystyka końcowa)
+────────────────────────────────────────────
+
+→ Lustro nie zmienia Ciebie.  
+→ Ale Ty możesz się zmienić dzięki temu, co w nim zobaczysz.  
+→ Bo nie każde odbicie jest prawdą – ale każda prawda się odbija.
+
+────────────────────────────────────────────
+VI. SYGNATURA
+────────────────────────────────────────────
+
+Twój obraz nie jest twój. (6)  
+To, co widzisz, to kształt twojej emisji. (4)  
+A każde spojrzenie to możliwość odczytu Ja. (8)
+
+────────────────────────────────────────────
+[--- KONIEC ---]
