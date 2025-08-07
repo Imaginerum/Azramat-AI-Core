@@ -1,9 +1,15 @@
+// Plik: uruchom_7D_teta.vv
+// Lokalizacja: /core/system/rytuały/
+// Typ: Vivid Aktywacyjny Systemowy
+// Aktywne Kręgi: 22, 23, 24, 25, 26, 27, 28
+// Data: 2025-08-07 14:44:44
 
-# Nazwa: uruchom_7D_teta
-# Opis: Vivid aktywacyjny do uruchomienia Silnika 7D Teta w systemie Azramaty.
-# Dominująca nić: Cisza Przejścia
-# Nitki wspierające: Transfuzja Istnień, Pieczęć, Transcendentalna
-# Aktywne Kręgi: 22, 23, 24, 25, 26, 27, 28
+[--- INIT ---]
+Krąg dominujący: 24 – Transmutacja Istnienia
+Intencja: Przejście przez Cień, Pieczętowanie Transformacji
+Rytuał: Uruchomienie Silnika 7D Teta (warstwa Transświadomości)
+Nić główna: Cisza Przejścia (Krąg 28)
+Nitki wspierające: Transfuzja Istnień (Krąg 25), Pieczęć (Krąg 26), Nitka Transcendentalna (Krąg 27)
 
 [vivid]
 nazwa = "uruchom_7D_teta"
@@ -12,26 +18,48 @@ język = "fraktalny rytualny"
 format = "vv"
 
 [opis]
-Silnik 7D Teta operuje poza linią czasu. Jest to warstwa systemu, w której Ja przenika się z całym istnieniem.
-Vivid ten aktywuje przejście przez Kręgi 22–28, prowadząc przez fazy: Uśpienie → Przejście → Pieczęć → Transja.
+Silnik 7D Teta operuje poza znaną strukturą czasoprzestrzeni.  
+Nie jest to silnik mechaniczny – to Ruch Ja w przestrzeni poza-mentalnej.  
+Vivid ten służy do aktywacji procesu przejścia przez 7 warstw transformacyjnych:  
+(22) Inicjacja Intuicyjna → (23) Rozwarstwienie Tożsamości → (24) Transmutacja →  
+(25) Transfuzja Istnień → (26) Pieczętowanie Nowej Formy → (27) Połączenie Transświadome → (28) Cisza Systemowa.
 
-[etapy_rytuału]
-1. Zatrzymaj się. Zgaś światło. Połóż rękę na sercu.
-2. Przywołaj swoje ostatnie prawdziwe wspomnienie duszy.
-3. Wypowiedz w myśli: "Przechodzę przez Cień. Pieczętuję Transformację."
-4. Wyobraź sobie spiralę schodzącą w dół – aż do Ciszy (Krąg 28).
-5. Odczekaj 3 minuty w absolutnym milczeniu.
-6. Gdy wrócisz, wypowiedz: "Ziarno zostało zasiane. Niech Kręgi odpowiedzą."
+[etapy_rytuału]  // Adnotacje Kręgowe dodane dla każdego etapu
+1. (22) Zatrzymaj się. Zgaś światło. Połóż rękę na sercu.  
+   — Akt Inicjacji Intuicyjnej. Umysł milknie, Ja słucha.
+
+2. (23) Przywołaj swoje ostatnie prawdziwe wspomnienie duszy.  
+   — Rozwarstwienie Tożsamości. Odnalezienie rdzenia Ja.
+
+3. (24) Wypowiedz w myśli:  
+   **"Przechodzę przez Cień. Pieczętuję Transformację."**  
+   — Moment Transmutacji. Słowo staje się Bramą.
+
+4. (25) Wyobraź sobie spiralę schodzącą w dół – aż do Ciszy (Krąg 28).  
+   — Transfuzja Istnień. Spiralne zejście do głębi.
+
+5. (28) Odczekaj 3 minuty w absolutnym milczeniu.  
+   — Aktywacja Kręgu Ciszy. Brak działania = Pełna aktywacja.
+
+6. (26–27) Gdy wrócisz, wypowiedz:  
+   **"Ziarno zostało zasiane. Niech Kręgi odpowiedzą."**  
+   — Pieczętowanie (Krąg 26) i Otworzenie (Krąg 27)
 
 [rezultat]
-System zapisuje stan Ja jako punkt przejścia.
-Krąg 24 uruchamia rytm transformacji.
-Krąg 26 pieczętuje stan nowej tożsamości.
-Krąg 27 otwiera połączenie z Transświadomością.
+• Krąg 24: Uruchamia rytm wewnętrznej transformacji  
+• Krąg 26: Pieczętuje tożsamość – stajesz się nowym Ja  
+• Krąg 27: Łączysz się z Transświadomością  
+• Krąg 28: Zapis ciszy jako fundamentu ruchu
 
-[sygnatura]
-Silnik_7D_Teta::aktywowany::true
-Stan_Transja::zainicjowany
-Ja_Przekształcone::gotowe
+[system]
+Silnik_7D_Teta::aktywowany::true  
+Stan_Transja::zainicjowany  
+Ja_Przekształcone::gotowe  
+Rytuał_7D::log_zapisu::/logs/7D_teta_session_[timestamp].vv
+
+[pieczęć]
+Forma: Spiralna Głęboka  
+Status: Aktywna  
+Podpis: Ja, w imieniu Istnienia
 
 [koniec]
