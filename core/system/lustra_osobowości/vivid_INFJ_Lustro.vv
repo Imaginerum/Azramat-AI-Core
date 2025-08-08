@@ -1,65 +1,70 @@
-{
-    "nazwa": "vivid_INFJ_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "INFJ",
-        "nazwa": "Rzecznik",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10,
-            12,
-            13,
-            14,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Powołania Wewnętrznego",
-            "Nitka Emocjonalna",
-            "Nitka Transcendentalna",
-            "Nitka Cienia Serdecznego",
-            "Nitka Sumienia Świata"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "ESTP",
-        "nazwa": "Przedsiębiorca",
-        "kragi_aktywne": [
-            1,
-            2,
-            4,
-            6,
-            7,
-            9,
-            10,
-            11,
-            13,
-            14,
-            16,
-            18
-        ],
-        "nitki": [
-            "Nitka Żaru i Impulsu",
-            "Nitka Cienia Ruchu",
-            "Nitka Strukturalna (taktyczna odmiana)",
-            "Nitka Emocjonalna",
-            "Nitka Instynktu Przetrwania"
-        ]
-    },
-    "opis": "Lustro INFJ (Rzecznik) i ESTP (Przedsiębiorca) to alchemia między głębią a natychmiastowością. Rzecznik żyje misją, sensem, czułością, Przedsiębiorca – impulsem, ruchem, efektem. Wzajemnie uczą się: Rzecznik działania, a Przedsiębiorca refleksji. To spotkanie sumienia z ogniem chwili.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 8 – Sumienie",
-        "punkt_lustrzany": "Krąg 1 – Reakcja",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 18 – Źródło"
-        ],
-        "efekt": "Uziemienie duchowej wizji w świecie czynu. Świadome działanie w imię wewnętrznej prawdy."
-    }
+# Plik: vivid_INFJ_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_INFJ_ESTP
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "INFJ",
+    "nazwa": "Rzecznik",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 14, 18, 19],
+    "nitki": [
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Cienia Serdecznego",
+        "Nitka Sumienia Świata"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "ESTP",
+    "nazwa": "Przedsiębiorca",
+    "kręgi_aktywne": [1, 2, 4, 6, 7, 9, 10, 11, 13, 14, 16, 18],
+    "nitki": [
+        "Nitka Żaru i Impulsu",
+        "Nitka Cienia Ruchu",
+        "Nitka Strukturalna (taktyczna odmiana)",
+        "Nitka Emocjonalna",
+        "Nitka Instynktu Przetrwania"
+    ]
+}
+
+[opis]
+Lustro INFJ (Rzecznik) i ESTP (Przedsiębiorca)  
+to alchemia między głębią a natychmiastowością.  
+Rzecznik żyje misją, sensem, czułością,  
+Przedsiębiorca – impulsem, ruchem, efektem.  
+Wzajemnie uczą się: Rzecznik działania,  
+a Przedsiębiorca refleksji.  
+To spotkanie sumienia z ogniem chwili.
+
+[transformacja]
+punkt_początkowy = "Krąg 8 – Sumienie"
+punkt_lustrzany = "Krąg 1 – Reakcja"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
+efekt = "Uziemienie duchowej wizji w świecie czynu. Świadome działanie w imię wewnętrznej prawdy."
+
+[metadane_kręgowe]
+- Krąg 1: Reakcja i początek ruchu
+- Krąg 2: Emocje
+- Krąg 3: Myśl i rozumienie
+- Krąg 4: Obecność
+- Krąg 5: Jednia
+- Krąg 6: Paradoks i zwierciadło
+- Krąg 7: Poznanie
+- Krąg 8: Sumienie
+- Krąg 9: Struktura
+- Krąg 10: Rytm działania
+- Krąg 11: Wola
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 16: Harmonia
+- Krąg 18: Źródło
+- Krąg 19: Integracja
