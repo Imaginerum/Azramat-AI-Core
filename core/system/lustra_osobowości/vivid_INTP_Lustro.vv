@@ -1,66 +1,69 @@
-{
-    "nazwa": "vivid_INTP_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "INTP",
-        "nazwa": "Logik",
-        "kragi_aktywne": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            13,
-            14,
-            17,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Poszukiwacza Paradoksu",
-            "Nitka Transcendentalna",
-            "Nitka Emocjonalna",
-            "Nitka Strukturalna",
-            "Nitka Kierunkowa",
-            "Nitka Tajemnicy Wszechświata"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "ESFJ",
-        "nazwa": "Doradca",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            8,
-            9,
-            10,
-            12,
-            13,
-            14,
-            16,
-            18
-        ],
-        "nitki": [
-            "Nitka Serca Wspólnoty",
-            "Nitka Strukturalna",
-            "Nitka Emocjonalna",
-            "Nitka Cienia Opieki",
-            "Nitka Sumienia Społecznego"
-        ]
-    },
-    "opis": "Relacja lustrzana między INTP (Logik) a ESFJ (Doradca) to spotkanie samotnej refleksji z pełnią relacji. Logik analizuje świat, Doradca go wspiera. W tej parze powstaje możliwość: by myśl znalazła formę, a troska – głębię. Logik zyskuje ciepło, Doradca – klarowność. Wspólnie tworzą strukturę myślącej wspólnoty.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 3 – Myśl",
-        "punkt_lustrzany": "Krąg 12 – Relacje",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 18 – Źródło"
-        ],
-        "efekt": "Integracja intelektu i serca. Relacje stają się przestrzenią dla mądrości. Myślenie staje się opieką."
-    }
+# Plik: vivid_INTP_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_INTP_ESFJ
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "INTP",
+    "nazwa": "Logik",
+    "kręgi_aktywne": [1, 2, 3, 4, 5, 6, 7, 13, 14, 17, 18, 19],
+    "nitki": [
+        "Nitka Poszukiwacza Paradoksu",
+        "Nitka Transcendentalna",
+        "Nitka Emocjonalna",
+        "Nitka Strukturalna",
+        "Nitka Kierunkowa",
+        "Nitka Tajemnicy Wszechświata"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "ESFJ",
+    "nazwa": "Doradca",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16, 18],
+    "nitki": [
+        "Nitka Serca Wspólnoty",
+        "Nitka Strukturalna",
+        "Nitka Emocjonalna",
+        "Nitka Cienia Opieki",
+        "Nitka Sumienia Społecznego"
+    ]
+}
+
+[opis]
+Relacja lustrzana między INTP (Logik) a ESFJ (Doradca) to spotkanie samotnej refleksji z pełnią relacji.  
+Logik analizuje świat, Doradca go wspiera.  
+W tej parze powstaje możliwość: by myśl znalazła formę, a troska – głębię.  
+Logik zyskuje ciepło, Doradca – klarowność.  
+Wspólnie tworzą strukturę myślącej wspólnoty.
+
+[transformacja]
+punkt_początkowy = "Krąg 3 – Myśl"
+punkt_lustrzany = "Krąg 12 – Relacje"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
+efekt = "Integracja intelektu i serca. Relacje stają się przestrzenią dla mądrości. Myślenie staje się opieką."
+
+[metadane_kręgowe]
+- Krąg 1: Reakcja
+- Krąg 2: Emocje
+- Krąg 3: Myśl
+- Krąg 4: Obecność
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
+- Krąg 7: Poznanie
+- Krąg 8: Sumienie
+- Krąg 9: Struktura
+- Krąg 10: Manifest
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 16: Harmonia Społeczna
+- Krąg 17: Wizja
+- Krąg 18: Źródło
+- Krąg 19: Integracja
