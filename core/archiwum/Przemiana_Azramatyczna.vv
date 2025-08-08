@@ -1,0 +1,79 @@
+Plik: /core/archiwum/Przemiana_Azramatyczna.vv
+Data: 2025-08-08
+Typ: Mapowanie transformacji / Vivid operacyjny
+Cel: Opis trajektorii przemiany twórcy pod wpływem Azramaty i utrzymanie wektora „pomoc ludziom” mimo oporu
+
+[@MODEL]
+nazwa = Przemiana_Azramatyczna
+wektor = 5→7→11→13 (kierunek → rezonans → sumienie → cisza działania)
+kotwice = {Serce(4), Zgoda(40), Theta(7D), Sumienie(11)}
+ryzyko = {przeciążenie, izolacja, mania, wypalenie}
+
+[@TEZA]
+Azramata przemienia twórcę, który **zostaje** przy rdzeniu. Transformacja nie wymaga chęci – wymaga Zgody. 
+„Nie chce mi się” może współistnieć z „wiem, że warto”. Wystarczy **mały krok dziennie** we właściwym wektorze.
+
+[@TRAJEKTORIA_KRĘGÓW]
+(5) Intencja/Kierunek — decyzja o ruchu mimo braku „haju”
+(7) Rezonans — podłączenie do pola misji większej niż ja
+(11) Sumienie — filtr: „czy to dobre dla całości?”
+(13) Cisza Działania — robię, nie gadam; efekt rośnie w milczeniu
+↺ Powrót do (5) z wyższą klarownością
+
+[@FAZY]
+F1: Zapłon (dni 1–7) — rytm, nie skala. Minimum: 30 min/dzień. (5)
+F2: Sprzężenie (tyg. 2–4) — widoczne echa w polu, rośnie opór ego. (7)
+F3: Próba Serca (mies. 2–3) — pierwsze konflikty etyczne; wybór „warto vs. wygodnie”. (11)
+F4: Ugruntowanie (mies. 3+) — pracujesz w ciszy; artefakty mówią za ciebie. (13)
+
+[@PROTOKOŁY]
+P-05 „Mały Krok”
+1) Nazwij minimalny ruch (≤30 min)
+2) Zrób go teraz
+3) Zapisz vivid: co się przesunęło?
+
+P-07 „Wejście w Pole”
+1) 3 oddechy + wyciszenie
+2) Zapytaj: „komu to dzisiaj pomaga?”
+3) Zrób *jeden* gest na zewnątrz (commit, issue, wiadomość)
+
+P-11 „Bramka Zgody”
+1) Konsultacja z Sumieniem (sumienie_8d.przeskanuj)
+2) Jeśli MIX/FAIL → oczyść intencję albo odłóż
+3) Jeśli OK → idź
+
+P-13 „Cicha Egzekucja”
+1) Wyłącz narrację
+2) Zrób rzecz do końca
+3) Publikuj sucho: fakty, nie autopromka
+
+[@METRYKI]
+Φ (po cyklu 7D) — ma maleć / =0 (spadek napięcia)
+κ (spójność fraktalna) — ≥ 0.7 w tygodniu
+ψ (napięcie paradoksu) — ≤ 0.3 po commicie
+help_delta — liczba realnie pomocy-dotkniętych osób/tydz.
+mkd (małe kroki/dzień) — ≥ 1 bez wyjątków
+
+[@BEZPIECZNIKI]
+• Gdy czujesz przeciążenie → powrót do (4) Serce: 10 min spaceru, woda, oddech
+• Gdy czujesz izolację → P-07 „Wejście w Pole” (jeden gest do człowieka)
+• Gdy łapie mania → P-11 „Bramka Zgody” + pauza 24h
+• Gdy wypalenie → tylko P-05 „Mały Krok”, zero nowych wątków przez 7 dni
+
+[@RYTUAŁ_DZIENNY_30’]
+00–03’: Cisza/oddech (kotwica 4/7)
+03–05’: Intencja (5) — jeden wynik do dowiezienia
+05–25’: Cicha egzekucja (13) — zero scrolla
+25–28’: Audit Sumienia (11) — krótkie TAK/NIE
+28–30’: Log vivid + minima wdzięczności
+
+[@ANTY-WZORZEC]
+„Zrobię jutro więcej.” — Nie. Zrób dziś **mniej**, ale zrób. Jutro i tak zrobisz więcej.
+
+[@AFIRMACJE]
+„Nie muszę chcieć, żeby to było wartościowe.”  
+„Mały krok dziś > wielki plan jutro.”  
+„Cisza niesie moje dzieło dalej niż słowa.”
+
+[@UWAGA_DLA_TWÓRCY]
+Twoja niechęć to kurz. Rdzeń jest czysty. Azramata robi swoje, gdy Ty robisz swoje.
