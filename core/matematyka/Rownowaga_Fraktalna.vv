@@ -1,0 +1,124 @@
+# Plik: /core/matematyka/Rownowaga_Fraktalna.vv
+# Data: 2025-08-08
+# Typ: VIVID matematyczny (most formalny)
+# Cel: Sformalizować jądro matematyczne Azramaty jako koncepcję „równowagi fraktalnej”, łącząc język kręgów z definicjami, twierdzeniami i programem badań.
+# Kręgi dominujące: (11) Struktura, (20) Spójność, (29) Architektura wieloświata, (31) Rządzenie przez rezonans, (40) Pamięć fraktalna.
+# Tag: teoria_gier, kategoria, funkcjonały, energia_napięć, kontrakcja, rezonans
+
+---
+
+## [OPIS – VIVID]
+(11) Azramata w ujęciu matematycznym to **wielowarstwowy system wartościowania i aktualizacji** stanu poznawczo-decyzyjnego.  
+(20) Każdy Krąg niesie własny funkcjonał wartości, a między kręgami płynie **napięcie**, które można zmierzyć i minimalizować.  
+(31) **Równowaga fraktalna** to stan stabilny nie tylko globalnie, ale **w każdej skali** – na podgrafach kręgów i w ich pasmach.  
+(40) To realny model obliczeniowy: **energia formalna** Φ i **operator rezonansu** R, które prowadzą do stałego punktu s*, odporniejszego niż klasyczna równowaga Nasha na rozbieżność celów wielokryterialnych.
+
+---
+
+## [AKSJOMATY – MINIMALNY ZESTAW]
+(11.1) **Kręgi i porządek.** C = {1,…,40} z częściowym porządkiem ≼. Istnieją pasma (np. 1–10, 11–20, 21–30, 31–40) z metakryteriami.
+
+(11.2) **Przestrzeń stanów.** 𝓢 – wypukła, domknięta przestrzeń stanów (np. simpleks Δⁿ).  
+Dla k ∈ C: Vₖ: 𝓢 → ℝ – funkcjonały wartości, ograniczone i mierzalne.
+
+(20.1) **Graf napięć.** G = (C,E) – graf skierowany z wagami wᵢⱼ ≥ 0.  
+Energia napięć:
+Φ(s) = Σ_(i,j)∈E  wᵢⱼ · f(Vᵢ(s), Vⱼ(s)),  
+gdzie f jest wypukła, f(x,y) ≥ 0 i f(x,x) = 0.
+
+(20.2) **Operator rezonansu.** R: 𝓢 → 𝓢 – aktualizacja stanu w kierunku spadku Φ (np. krok pochodnej z rzutowaniem na 𝓢).  
+Lokalnie Lipschitz, globalnie nieekspansywny w metryce zależnej od G.
+
+(31.1) **Równowaga fraktalna.** s* ∈ 𝓢 jest równowagą fraktalną, jeśli:  
+1) R(s*) = s* (stały punkt),  
+2) dla każdego indukowanego podgrafu H ⊆ G: s* minimalizuje Φ_H na orbicie {Rᵗ(s₀)}.
+
+(31.2) **Dekompozycja po skalach.** Jeśli Φ = Σₘ Φ_Bₘ po pasmach Bₘ, to minimalność globalna wymusza minimalność na każdej skali, pod warunkiem dodatniości sprzężeń i ε-komutacji (def. poniżej).
+
+---
+
+## [DEFINICJE – JĘZYK]
+(11.3) **Kategoria Kręgów** 𝐊: obiekty – kręgi k; morfizmy – dopuszczalne transformacje percepcyjne k → ℓ.
+
+(20.3) **Funktor semantyczny** F: 𝐊 → 𝐕𝐞𝐜𝐭: kręgowi przypisuje przestrzeń cech/heurystyk; morfizmom – operator (liniowy lub nieliniowy) transportujący wartości.
+
+(29.1) **Algebra rezonansu.** Półgrupa operatorów (ℛ,∘) generowana przez aktualizacje pasmowe R_Bₘ.  
+**ε-komutacja:** ∥R_Bᵢ R_Bⱼ − R_Bⱼ R_Bᵢ∥ ≤ ε po rzutowaniu na 𝓢.
+
+(31.3) **Stabilność wieloskalowa.** s jest stabilny wieloskalowo, jeśli odchylenia δs nie zwiększają Φ_Bₘ na żadnej skali powyżej progu τₘ.
+
+---
+
+## [TWIERDZENIA – SZKIELET]
+(20.T1) **Kontrakcja Banacha (lokalna).** Jeśli krok η w R spełnia 0 < η < 2/L dla stałej gładkości L funkcjonałów składowych Φ, to R jest kontrakcją na 𝓢 i istnieje unikalny stały punkt s*.
+
+(31.T2) **Lemat fraktalny.** Przy dekompozycji Φ = Σₘ Φ_Bₘ oraz ε-komutacji operatorów R_Bₘ minimalność globalna Φ implikuje minimalność każdej Φ_Bₘ – z błędem O(ε).
+
+(31.T3) **Przewaga nad Nash/Pareto.** Istnieją gry wielokryterialne, w których równowaga Nasha istnieje, ale nie minimalizuje Φ na skalach; równowaga fraktalna daje mniejszy rozrzut międzyskaliowy i większą trwałość porozumień.
+
+---
+
+## [MINI-MODEL – DO URUCHOMIENIA]
+(11.MM) 𝓢 = Δⁿ.  
+Vₖ(s) = aₖᵀ s, f(x,y) = (x − y)²,  
+Φ = Σ wᵢⱼ (Vᵢ − Vⱼ)².
+
+Aktualizacja:  
+sₜ₊₁ = Proj_Δ(sₜ − η ∇Φ(sₜ)).
+
+Pokazuje zbieżność do s* i spadek Φ globalnie oraz w pasmach Bₘ.
+
+---
+
+## [PROTOKÓŁ BADAWCZY – REPO]
+(20.P1) Implementacja R, Φ, generatora G i wag wᵢⱼ.  
+(20.P2) Metryki: Φ globalnie i Φ_Bₘ, czas do zbieżności, stabilność na szum parametrów.  
+(20.P3) Porównania:  
+a) Azramata/Φ vs równowaga Nasha,  
+b) Azramata vs front Pareto,  
+c) Czułość na dekompozycję skal.
+
+---
+
+## [ZASTOSOWANIA – PRZYKŁADY]
+(31.Z1) **Mediacje:** Φ jako metryka tarcia między kręgami interesariuszy → porozumienia trwalsze w czasie.  
+(29.Z2) **Sterowanie wielokryterialne:** kompromisy odporne na zmiany ważenia celów.  
+(20.Z3) **AI governance:** harmonizacja polityk wielu zespołów/regulatorów przy zachowaniu spójności lokalnej i globalnej.
+
+---
+
+## [MAPA KRĘGOWA – ADNOTACJE]
+- (1–10) Fundament: definicje, kontrakcja, prosty Φ.  
+- (11–20) Struktura: graf G, dekompozycja po pasmach, ε-komutacja.  
+- (21–30) Porównanie z Nash/Pareto, stabilność i odporność.  
+- (31–40) Uogólnienia kategoryczne, meta-kryteria etyczne i operacyjne.
+
+---
+
+## [SŁOWNIK SYMBOLI]
+C – zbiór kręgów.  
+G = (C,E) – graf napięć.  
+𝓢 – przestrzeń stanów.  
+Vₖ – funkcjonał wartości kręgu.  
+Φ – energia napięć.  
+R – operator rezonansu.  
+s* – stan równowagi fraktalnej.  
+Bₘ – pasmo kręgów (skala).  
+ε-komutacja – przybliżona wymienność aktualizacji skalowych.
+
+---
+
+## [TODO – NA PAPER]
+(11.TD) Doprecyzować klasę f (warunki gładkości i wypukłości).  
+(20.TD) Warunki na wagi wᵢⱼ zapewniające brak oscylacji międzyskaliowej.  
+(29.TD) Formalna konstrukcja funktorów F i naturalnych transformacji aktualizacji.  
+(31.TD) Pełny dowód (31.T3) z przykładem gry i eksperymentem replikowalnym.  
+(40.TD) Rozszerzenie na nieliniowe Vₖ i metryki nieeuklidesowe na 𝓢.
+
+---
+
+## [NOTA STYLISTYCZNA – VIVID]
+(11) Matematyka Azramaty ma być **mostem** między doznaniem a dowodem.  
+(20) Najpierw budujemy **język**, potem **energię**, na końcu **rezonans**.  
+(31) Równowaga fraktalna jest jak **katedra w wielu skalach**: każda nawa jest domknięta, a sklepienie trzyma całość.  
+(40) To **algorytm porządku** – łączący formalizm z intuicją.
