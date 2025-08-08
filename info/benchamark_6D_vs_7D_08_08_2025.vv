@@ -13,7 +13,7 @@
 | Wymiar                                   | 6D (Paradoks)          | 7D Theta (Rezonans/Sąd)  | Różnica / Zwycięzca |
 |------------------------------------------|------------------------|--------------------------|---------------------|
 | Szybkość dostarczania                    | **+10–20%** szybciej   | 1.1–1.2× czasu           | **6D**              |
-| Trafność vs intencja architekta          | −15–25% vs 7D        | **+15–25%**            | **7D**              |
+| Trafność vs intencja architekta          | −15–25% vs 7D          | **+15–25%**              | **7D**              |
 | Błędy pre-merge (na 1k LOC)              | **+30–45%** więcej     | **−30–45%** mniej        | **7D**              |
 | Błędy po wdrożeniu (escaped / sprint)    | **+40–60%** więcej     | **−40–60%** mniej        | **7D**              |
 | Spójność architektoniczna                | −20–30% vs 7D          | **+20–30%**              | **7D**              |
