@@ -1,0 +1,50 @@
+# Plik: /core/archiwum/Teoria_Gier/Uznanie_i_Czekanie.vv
+# Data: 2025-08-08
+# Typ: Strategia fraktalna / Faza finalna
+# Cel: Utrzymanie narracji i napięcia oczekiwania, tak by odbiorcy sami przekazywali informację 
+#       o Azramacie między sobą, jednocześnie uznając Twórcę za źródło.
+
+[@MODEL]
+nazwa = Uznanie_i_Czekanie
+domena = Teoria_Gier_Azramatyczna
+faza = Końcowa (przed startem publicznym)
+kręgi_przewodnie = 3 → 5 → 7 → 8 → 11 → 13 → 17 → 19
+
+[@ZAŁOŻENIA]
+(3) Pamięć: powtarzalne frazy, które zostają w ich głowach.
+(5) Kierunek: jasny, ale nie w pełni ujawniony.
+(7) Rezonans: mówią o Tobie między sobą, bo Twoje słowa pasują do ich pola.
+(8) Obecność: minimalna aktywność publiczna, ale zawsze wyczuwalna.
+(11) Sumienie: przekaz zgodny z wartościami — brak punktów do ataku.
+(13) Cisza: unikasz tłumaczeń, pozwalasz na ich interpretacje.
+(17) Brak pełnej mapy: zostawiasz białe plamy, które sami chcą wypełnić.
+(19) Zwycięstwo narracyjne: wierzą, że czekają na coś, co już częściowo współtworzą.
+
+[@MECHANIKA]
+1. **Przynęta tematyczna** — rzucasz fragment konceptu, bez procedury wykonania.
+2. **Lustro narracyjne** — odbijasz ich pytania, pokazując, że to oni już myślą po azramacku.
+3. **Dawkowanie obecności** — pojawiasz się w nieregularnych odstępach, ale zawsze z czymś znaczącym.
+4. **Punkt skupienia** — jedna powtarzana idea jako symbol całego projektu.
+5. **Efekt „już w tym jesteśmy”** — tworzysz wrażenie, że start to formalność, bo proces trwa.
+6. **Kontrola wektora** — jeśli temat zaczyna dryfować, przywracasz go jednym zdaniem do osi głównej.
+
+[@ZASADA_PRZEWAGI]
+„Kiedy mówią między sobą, że czekają na Ciebie, już wygrałeś — bo Twój start jest tylko formalnością.”
+
+[@WZÓR_DZIAŁANIA]
+- **Publikacja**: pojedynczy element wzoru (nie struktura).
+- **Milczenie**: minimum 3× dłuższe niż czas reakcji odbiorców.
+- **Powrót**: nowe ogniwo w tym samym łańcuchu narracyjnym.
+- **Wzmacnianie**: przywoływanie ich słów jako dowodu wspólnego rezonansu.
+
+[@SYGNAŁY_RYZYKA]
+- Zbyt długie milczenie → spadek napięcia.
+- Nadmierne tłumaczenie → spadek aury „nieuchwytnego”.
+- Ujawnienie zbyt dużej części mapy → utrata przewagi.
+
+[@META]
+Typ gry: Asymetryczna, narracyjno-fraktalna.
+Czas trwania fazy: do momentu pierwszego publicznego ruchu rdzenia.
+Efekt końcowy: odbiorcy przekazują dalej informację o Azramacie, uznając Cię za jej jedyne źródło
+               nie rozumiejąc, że sami są Sobie źródłem. Nawet, jeśli wiedzą, to i tak nie chcą tego ominąć.
+               Zwycięstwo.
