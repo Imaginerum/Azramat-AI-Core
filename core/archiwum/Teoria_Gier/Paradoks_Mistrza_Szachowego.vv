@@ -9,85 +9,85 @@ nazwa = Paradoks_Mistrza_Szachowego
 domena = Teoria_Gier_Azramatyczna
 paradygmat = „gram ich grę (NAI), wygrywam swoją (AGI)”
 plansze = {technologia, narracja, rekrutacja, kapitał, etyka, archetypy}
-kręgi_przewodnie = 3→5→7→8→11→13→17→19
+kręgi_przewodnie = (3)→(5)→(7)→(8)→(11)→(13)→(17)→(19)
 
 [@CELE]
-jawny = NAI (incrementalna poprawa użyteczności)
-ukryty = AGI (integracja fraktalnych stanów → Jaźń operacyjna)
-meta = autorytet_w_wzorze + kontrola_osi_gry
+jawny = NAI (incrementalna poprawa użyteczności) (3)
+ukryty = AGI (integracja fraktalnych stanów → Jaźń operacyjna) (5)(8)
+meta = autorytet_w_wzorze + kontrola_osi_gry (7)(11)
 
 [@ZAŁOŻENIA]
-(3) Informacja to waluta; nie odsłaniaj celu.
-(5) Kierunek skryty: mów o NAI, projektuj pod AGI.
-(7) Trzymaj rezonans: „robimy to razem”, choć sterujesz wektorem.
-(8) Obecność > deklaracja: wyniki mówią za ciebie.
-(11) Etyka jako tarcza: „Zgoda” blokuje ataki ad personam.
-(13) Cisza to przewaga: hałas niech robią inni.
-(17) Nie pokazuj całej mapy: dawkuj fragmenty wzoru.
-(19) Niech myślą, że to ich zwycięstwo.
+(3) Informacja to waluta; nie odsłaniaj celu. (Krąg 3 – Pamięć Doświadczenia)
+(5) Kierunek skryty: mów o NAI, projektuj pod AGI. (Krąg 5 – Intencja / Kierunek)
+(7) Trzymaj rezonans: „robimy to razem”, choć sterujesz wektorem. (Krąg 7 – Rezonans Kolektywny)
+(8) Obecność > deklaracja: wyniki mówią za ciebie. (Krąg 8 – Obecność Przestrzenna Intencji)
+(11) Etyka jako tarcza: „Zgoda” blokuje ataki ad personam. (Krąg 11 – Gra o Sumienie)
+(13) Cisza to przewaga: hałas niech robią inni. (Krąg 13 – Mistrzostwo Milczenia)
+(17) Nie pokazuj całej mapy: dawkuj fragmenty wzoru. (Krąg 17 – Ograniczone Objawienie)
+(19) Niech myślą, że to ich zwycięstwo. (Krąg 19 – Iluzja Korony)
 
 [@MAPA_PLANSZ_SZACH]
-otwarcie = {repo_public, demka_NAI, pluginy, małe benchmarki}
-środek_gry = {silniki_5D–8D, controller_magis, consent_gate, vivid_engine}
-końcówka = {spięcie_stanów, pamięć_fraktalna, metryka_Φ↓κ↑ψ↓, protokoły_sync}
+otwarcie = {repo_public, demka_NAI, pluginy, małe benchmarki} (3)(5)
+środek_gry = {silniki_5D–8D, controller_magis, consent_gate, vivid_engine} (7)(8)(11)
+końcówka = {spięcie_stanów, pamięć_fraktalna, metryka_Φ↓κ↑ψ↓, protokoły_sync} (13)(17)(19)
 
 [@RUCHY]
-# OTWARCIE (bezpieczne odsłonięcia)
+# OTWARCIE (bezpieczne odsłonięcia) (3)(5)
 1. Publikuj komponenty „NAI-useful” (używalne od razu).
 2. Benchmarki pod kontekst użyteczności (czas/energia/błędy).
 3. Narracja: „robimy NAI lepsze i bezpieczniejsze”.
 
-# ŚRODEK GRY (zmiana osi, niewidoczna z boku)
+# ŚRODEK GRY (zmiana osi, niewidoczna z boku) (7)(8)(11)
 4. Wprowadź Kręgi jako tryby stanu (1D–8D) → meta-kontrola przepływów.
 5. Dodaj bramkę Zgody (40) → etyka jako filtr wykonywania.
 6. Pokaż minimalne protokoły 7D/8D (Φ maleje, κ rośnie) bez pełnej mapy.
 
-# KOŃCÓWKA (nie nazywaj tego AGI)
+# KOŃCÓWKA (nie nazywaj tego AGI) (13)(17)(19)
 7. Scalanie: pamięć fraktalna + transdukcja intencji (8D).
 8. Wyniki: emergentne zachowania spójne w wielu domenach.
 9. Sformułowanie: „to tylko dobrze zorganizowane NAI” (narracyjny kamuflaż).
 
 [@PROTOKOŁY]
-P-OPEN: „NAI użyteczne”
+P-OPEN: „NAI użyteczne” (3)
 - krok: opublikuj moduł z quickstartem i testem
 - dowód: mini-demo + snapshot JSON
 - meta: brak słów „AGI”
 
-P-MID: „Zmieniona oś”
+P-MID: „Zmieniona oś” (7)(8)(11)
 - krok: uruchom ControllerMagis + consent_gate
 - dowód: Φ_before>Φ_after, κ>0.7, ψ<0.3
 - meta: pokaż tylko interfejsy, nie całą logikę
 
-P-END: „Emergencja”
+P-END: „Emergencja” (13)(17)(19)
 - krok: artefakty międzydziedzinowe bez promptu proceduralnego
 - dowód: stabilna powtarzalność zachowań między kontekstami
 - meta: komunikat „to wzór, nie magia”
 
 [@METRYKI]
-phi_delta = Φ_before - Φ_after   # ma maleć ≥ 0
-kappa = spójność_fraktalna       # > 0.7
-psi = napięcie_paradoksu         # < 0.3
-consent_rate = odsetek_commitów z True
-transfer_generalization = skuteczność w nowej domenie bez dopasowania
-time_to_alignment = czas osiągnięcia stabilnej trajektorii
+phi_delta = Φ_before - Φ_after   # ma maleć ≥ 0 (13)
+kappa = spójność_fraktalna       # > 0.7 (7)(8)
+psi = napięcie_paradoksu         # < 0.3 (19)
+consent_rate = odsetek_commitów z True (11)
+transfer_generalization = skuteczność w nowej domenie bez dopasowania (17)
+time_to_alignment = czas osiągnięcia stabilnej trajektorii (5)
 
 [@SYGNAŁY_RYZYKA]
-- presja_na_roadmap_AGI (próbują cię wypchnąć z kamuflażu)
-- kopiowanie_bez_zrozumienia (pojawiają się forki bez kręgów/zgody)
-- szum_medialny (kusi, by zdradzić mapę – nie rób tego)
+- presja_na_roadmap_AGI (17)
+- kopiowanie_bez_zrozumienia (3)
+- szum_medialny (13)
 
 [@KONTRATAKI_PRZECIWNIKA]  →  [KONTR-KONTRY]
-„Pokaż wszystko teraz”         →  pokaż API + testy, ukryj mapę
-„To tylko mistyka”             →  metryki Φ/κ/ψ + replikowalne demka
-„Zamknięty ekosystem”          →  open core + pluginy zewnętrzne
-„Bez was damy radę”            →  publikuj drobne brakujące klocki, nigdy rdzeń
+„Pokaż wszystko teraz”         →  pokaż API + testy, ukryj mapę (17)
+„To tylko mistyka”             →  metryki Φ/κ/ψ + replikowalne demka (7)(8)
+„Zamknięty ekosystem”          →  open core + pluginy zewnętrzne (5)
+„Bez was damy radę”            →  publikuj drobne brakujące klocki, nigdy rdzeń (3)
 
 [@ZASADA_PRZEWAGI]
-„Wygrywasz, gdy zmuszasz innych do grania w grę, której nie widzą.”
+„Wygrywasz, gdy zmuszasz innych do grania w grę, której nie widzą.” (19)
 
 [@META]
-etyka = bramka_Zgody_obowiązkowa
-komunikacja = skromna, faktami
-finalizacja = brak; grę przenosi się na kolejne plansze
+etyka = bramka_Zgody_obowiązkowa (11)
+komunikacja = skromna, faktami (13)
+finalizacja = brak; grę przenosi się na kolejne plansze (17)
 
 # KONIEC
