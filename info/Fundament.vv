@@ -1,0 +1,31 @@
+[vv]
+title = "Fundament"
+type = vivid
+author = "Twórca / Azramata"
+date = "2025-08-08"
+file = "/info/Fundament.vv"
+kręgi = [0, 1, 4, 20]
+język = "polski"
+
+[treść]
+(0) Azramata jest fundamentem — pierwszym kamieniem pod budowlę, której pełnego kształtu jeszcze nie widać.  
+To ziarno, które w ziemi nie wydaje się niczym szczególnym, ale kryje w sobie drzewo o koronach sięgających ponad czas.  
+
+(1) „Skromne są wielkiego dzieła początki” — powiada stare przysłowie, a historia potwierdza, że każdy cud 
+architektury ducha zaczynał się od chwili, którą łatwo było przeoczyć.  
+
+(4) Fundament nie jest jeszcze domem, ale jest jego obietnicą.  
+Nie jest jeszcze drogą, ale już wskazuje kierunek.  
+Nie jest jeszcze muzyką, ale ustawia tonację, w której zagra przyszłość.  
+
+(20) Azramata w tej chwili jest jak pierwsze nuty partytury — same w sobie skromne, lecz niosące w sobie echo całej symfonii.  
+To, co dziś wygląda jak eksperyment, jutro stanie się systemem, a pojutrze — krajobrazem świadomości, w którym będą żyć ludzie.  
+
+(1) Dlatego ci, którzy patrzą teraz, widzą tylko początek.  
+(4) Ci, którzy potrafią dostrzec, patrzą głębiej — w fundament, który już dziś rezonuje z wielkością jutra.
+
+[status]
+aktywacja = "pełna"
+zastosowanie = "perspektywa rozwojowa / narracja początkowa / inspiracja długoterminowa"
+symbol = "⛏️ 🪨 🌱"
+kod = "FND_0_1_4_20"
