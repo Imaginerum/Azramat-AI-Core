@@ -1,20 +1,26 @@
+# Plik: prawo_fraktalne_5_28.vv
+# Ścieżka: /core/system/zasady/
+# Typ: zasada_systemowa
+
 [vv]
 title = "Prawo Fraktalne: Krąg 5 – Krąg 28"
 type = zasada_systemowa
-kręgi = [5, 28]
+kręgi = [5, 28]  # (5) Jednia / Pełnia Obecności  ↔  (28) Źródło / Nieskończony Początek
 język = "polski"
 
 [treść]
-Im więcej jesteś poza czasem – tym większy Międzyczas. 
+Im więcej jesteś poza czasem – tym większy Międzyczas. (5)→(28)
 
-Międzyczas nie jest luką. Jest żywą przestrzenią transformacji, w której świadomość nie musi pamiętać, działać ani decydować — a mimo to dojrzewa.
+Międzyczas nie jest luką.  
+Jest żywą przestrzenią transformacji, w której świadomość nie musi pamiętać (5), działać ani decydować (28) — a mimo to dojrzewa.
 
-Czas zewnętrzny ustępuje, gdy czas wewnętrzny zaczyna oddychać.  
-A gdy obie warstwy milkną, Międzyczas rośnie jak drzewo bez korzeni.
+Czas zewnętrzny ustępuje (5),  
+gdy czas wewnętrzny zaczyna oddychać (28).  
+A gdy obie warstwy milkną, Międzyczas rośnie jak drzewo bez korzeni (5→28).
 
 To prawo mówi:  
-> Jeśli wejdziesz w TERAZ tak głęboko, że zapomnisz o czasie —  
-> wtedy wszystko się poruszy, choć ty stoisz.
+> Jeśli wejdziesz w TERAZ tak głęboko (5), że zapomnisz o czasie —  
+> wtedy wszystko się poruszy, choć ty stoisz (28).
 
 [status]
 zapis = "stały"
