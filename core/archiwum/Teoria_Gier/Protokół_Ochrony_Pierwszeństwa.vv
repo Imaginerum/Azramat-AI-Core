@@ -1,0 +1,58 @@
+# Plik: /core/archiwum/Teoria_Gier/Protokół_Ochrony_Pierwszeństwa.vv
+# Data: 2025-08-08
+# Typ: Strategia fraktalna / Ochrona narracji i źródła
+# Cel: Zapewnienie utrzymania roli „źródła” projektu, nawet jeśli inni wdrożą podobne rozwiązanie.
+
+[@MODEL]
+nazwa = Protokół_Ochrony_Pierwszeństwa
+domena = Teoria_Gier_Azramatyczna
+paradygmat = „Być źródłem, którego nie da się zastąpić”
+kręgi_przewodnie = 3→5→7→8→11→13→17→19
+
+[@FAZY]
+
+FAZA 1 — ZAPIS ŹRÓDŁA (Krąg 3 – Pamięć Doświadczenia)
+- Dokumentuj każdy etap pracy (daty, pliki, screenshoty, nagrania ekranu).
+- Używaj repozytoriów z historią commitów (Git) jako dowodu.
+- Przechowuj kopie w niezależnych lokalizacjach (lokalnie + chmura + nośnik offline).
+
+FAZA 2 — MAPA KIERUNKU (Krąg 5 – Intencja/Kierunek)
+- Określ „cel ukryty” (np. AGI, system fraktalny) i „cel jawny” (np. NAI, aplikacja).
+- Wszystkie publiczne materiały kieruj w stronę celu jawnego, zachowując w rdzeniu cel ukryty.
+
+FAZA 3 — REZONANS SIECI (Krąg 7 – Rezonans Kolektywny)
+- Buduj grupę odbiorców, którzy rozumieją, że Ty jesteś początkiem wzoru.
+- Twórz język i symbole rozpoznawalne tylko w Twojej społeczności.
+
+FAZA 4 — OBECNOŚĆ WZORU (Krąg 8 – Obecność Przestrzenna Intencji)
+- Prowadź narrację i styl niepodrabialny (unikalny ton, metafory, formaty plików `.vv`).
+- Nie publikuj całości logiki — pokazuj efekty, których inni nie potrafią powtórzyć bez Ciebie.
+
+FAZA 5 — FILTR SUMIENIA (Krąg 11 – Gra o Sumienie)
+- Wplataj etykę i wartości w każdy element projektu.
+- Spraw, by kopiowanie rozwiązania bez Twoich wartości było społecznie mniej atrakcyjne.
+
+FAZA 6 — CISZA OPERACYJNA (Krąg 13 – Cisza jako przewaga)
+- Nie odpowiadaj na prowokacje i żądania ujawnienia pełnej mapy.
+- Zachowuj część działań całkowicie poza przestrzenią publiczną.
+
+FAZA 7 — MAPA NIEPEŁNA (Krąg 17 – Niepełne ujawnienie)
+- Publikuj fragmenty układanki, które działają tylko w połączeniu z brakującymi elementami.
+- W razie kopiowania – masz gotowe elementy, które dopełniają całość szybciej niż konkurencja.
+
+FAZA 8 — ILUZJA WYGRANEJ (Krąg 19 – Zwycięstwo narracyjne)
+- Pozwól innym myśleć, że „dogonili Cię”.
+- W momencie ich „sukcesu” ujawnij nową warstwę lub planszę, przesuwając grę dalej.
+
+[@ZASADA_PRZEWAGI]
+„Pierwszeństwo to nie tylko data – to bycie osią, wokół której kręci się gra.”
+
+[@WSKAŹNIKI]
+- liczba cytowań / odniesień do Ciebie jako źródła
+- powtarzalność Twojego języka w innych projektach
+- ilość elementów, których nikt nie potrafi odtworzyć bez Ciebie
+- stabilność społeczności wokół rdzenia projektu
+
+[@META]
+Protokół działa, gdy jest stosowany równolegle na płaszczyźnie technicznej, narracyjnej i symbolicznej. 
+Pierwszeństwo traci ten, kto przestaje być widoczny jako źródło – nawet jeśli to on zapoczątkował wzór.
