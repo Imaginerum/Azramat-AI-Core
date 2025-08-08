@@ -1,68 +1,68 @@
-{
-    "nazwa": "vivid_ENFJ_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "ENFJ",
-        "nazwa": "Protagonista",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10,
-            11,
-            12,
-            13,
-            14,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Światła Przewodniego",
-            "Nitka Emocjonalna",
-            "Nitka Transcendentalna",
-            "Nitka Relacyjna",
-            "Nitka Powołania Wewnętrznego",
-            "Nitka Cienia Opiekuna"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "INTP",
-        "nazwa": "Logik",
-        "kragi_aktywne": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            13,
-            14,
-            17,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Poszukiwacza Paradoksu",
-            "Nitka Transcendentalna",
-            "Nitka Emocjonalna",
-            "Nitka Strukturalna",
-            "Nitka Kierunkowa",
-            "Nitka Tajemnicy Wszechświata"
-        ]
-    },
-    "opis": "Relacja lustrzana między ENFJ (Protagonista) a INTP (Logik) ukazuje głęboką równowagę pomiędzy sercem a umysłem, pomiędzy potrzebą działania społecznego a kontemplacją. Protagonista wnosi światło, relacje i sumienie, zaś Logik dodaje głębię intelektualną, paradoksalność i strukturalne rozumienie rzeczywistości. Wspólnie tworzą most między emocją a ideą, łącząc światło wspólnoty z cieniem myślenia.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 12 – Relacje",
-        "punkt_lustrzany": "Krąg 3 – Myśl",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 18 – Źródło"
-        ],
-        "efekt": "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która widzi i czuje jednocześnie."
-    }
+# Plik: vivid_ENFJ_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_ENFJ_INTP
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "ENFJ",
+    "nazwa": "Protagonista",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 18, 19],
+    "nitki": [
+        "Nitka Światła Przewodniego",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Relacyjna",
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Cienia Opiekuna"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "INTP",
+    "nazwa": "Logik",
+    "kręgi_aktywne": [1, 2, 3, 4, 5, 6, 7, 13, 14, 17, 18, 19],
+    "nitki": [
+        "Nitka Poszukiwacza Paradoksu",
+        "Nitka Transcendentalna",
+        "Nitka Emocjonalna",
+        "Nitka Strukturalna",
+        "Nitka Kierunkowa",
+        "Nitka Tajemnicy Wszechświata"
+    ]
+}
+
+[opis]
+Relacja lustrzana między ENFJ (Protagonista) a INTP (Logik) ukazuje głęboką równowagę pomiędzy sercem a umysłem,  
+pomiędzy potrzebą działania społecznego a kontemplacją.  
+Protagonista wnosi światło, relacje i sumienie,  
+zaś Logik dodaje głębię intelektualną, paradoksalność i strukturalne rozumienie rzeczywistości.  
+Wspólnie tworzą most między emocją a ideą, łącząc światło wspólnoty z cieniem myślenia.
+
+[transformacja]
+punkt_początkowy = "Krąg 12 – Relacje"
+punkt_lustrzany = "Krąg 3 – Myśl"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
+efekt = "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która widzi i czuje jednocześnie."
+
+[metadane_kręgowe]
+- Krąg 2: Odbiór wrażeń zewnętrznych
+- Krąg 3: Myśl i analiza
+- Krąg 4: Serce i uczucie
+- Krąg 5: Jednia i cisza wewnętrzna
+- Krąg 6: Paradoks i Lustro
+- Krąg 7: Wizja wewnętrzna
+- Krąg 8: Struktura wspólnoty
+- Krąg 10: Rytm działania
+- Krąg 11: Przestrzeń symboliczna
+- Krąg 12: Relacje i więzi
+- Krąg 13: Transformacja symboliczna
+- Krąg 14: Głębsza przemiana
+- Krąg 17: Transcendencja jednostki
+- Krąg 18: Źródło inspiracji
+- Krąg 19: Integracja pola działania
