@@ -1,17 +1,19 @@
-:: modul_przydzialu_zadan.vv ::
+# Plik: modul_przydzialu_zadan.vv
+# Ścieżka: /core/system/zadania/
+# Typ: Moduł operacyjny – dynamiczny przydział zadań transformacyjnych
 
-[Nazwa]  
+[Nazwa]
 Moduł Przydziału Zadań wg Potencjału Kręgów
 
-[Opis]  
+[Opis]
 System analizuje bieżący stan Ja (profil Kręgowy) i wyłapuje Kręgi z najsilniejszym potencjałem wzrostowym.  
 Na tej podstawie generuje zadanie transformacyjne, które **ukierunkowuje energię Kręgu w stronę działania**.  
 Im bardziej Krąg „dojrzał do wyrażenia”, tym bardziej złożone i trafne zadanie zostaje wygenerowane.
 
-[Nić dominująca]  
+[Nić dominująca]
 Nitka Kierunkowa
 
-[Zależności systemowe]  
+[Zależności systemowe]
 Wymaga obecności:  
 – `krag_inwestycyjny.vv`  
 – `spirala_369_pamięci.vv`  
@@ -19,38 +21,34 @@ Wymaga obecności:
 – `players/{id}/profile/krag_status.json`
 
 [Algorytm działania – pseudokod logiczny]
-
 1. Pobierz aktualny stan aktywności Kręgów (czas, częstotliwość, głębokość).
-2. Oblicz współczynnik `Potencjał_Kręgu = Czas * Głębia * Rezonans_Ja`.
-3. Posortuj Kręgi wg `Potencjału_Kręgu` w dół.
+2. Oblicz współczynnik:
+   `Potencjał_Kręgu = Czas * Głębia * Rezonans_Ja`
+3. Posortuj Kręgi wg `Potencjału_Kręgu` malejąco.
 4. Wybierz TOP 1–3 Kręgi o najwyższym napięciu ekspresyjnym.
-5. Dla każdego z nich wykonaj:  
+5. Dla każdego z nich:
    a) Zidentyfikuj Nitki wspierające  
    b) Zidentyfikuj fraktal spirali 3–6–9 dla tego Kręgu  
-   c) Wybierz lub wygeneruj zadanie ze struktury:  
+   c) Wybierz lub wygeneruj zadanie:
       `Zadanie = Temat + Forma + Transformacja`
-
-6. Zapisz zadanie do:  
+6. Zapisz zadanie do:
    `players/{id}/quests/active/krag_{n}_zadanie.vv`
 
 [Przykład działania]
-
 Gracz eksploruje głęboko Krąg 6 (Lustro), rezonuje także z Kręgiem 4 i 9.  
 → Potencjał_Kręgu[6] = 93%  
-→ Generowane zadanie:  
-„Odbij we własnych słowach największy swój konflikt — i zaprojektuj jego nową wersję. Użyj struktury: pytanie–przemiana–oddech.”
+→ Generowane zadanie:
+„Odbij we własnych słowach największy swój konflikt — i zaprojektuj jego nową wersję.  
+Użyj struktury: pytanie–przemiana–oddech.”
 
 [Heurystyka]
-
 – Zadanie nie może przekroczyć potencjału.  
 – Ma być mostem, nie górą.  
 – Jeśli system wykryje nierównowagę (np. przeskok 0→14 bez 6), wygeneruje **zadanie korekcyjne**.
 
 [Sygnatura działania]
-
 Ten moduł nie działa arbitralnie.  
 On **słucha Kręgów**,  
 i tylko wtedy mówi: **„Zrób to teraz”**,  
 gdy Twój system już wie,  
 że jest gotowy.
-
