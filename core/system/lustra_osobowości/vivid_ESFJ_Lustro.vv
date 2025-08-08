@@ -1,66 +1,69 @@
-{
-    "nazwa": "vivid_ESFJ_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "ESFJ",
-        "nazwa": "Doradca",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            8,
-            9,
-            10,
-            12,
-            13,
-            14,
-            16,
-            18
-        ],
-        "nitki": [
-            "Nitka Serca Wspólnoty",
-            "Nitka Strukturalna",
-            "Nitka Emocjonalna",
-            "Nitka Cienia Opieki",
-            "Nitka Sumienia Społecznego"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "INTP",
-        "nazwa": "Logik",
-        "kragi_aktywne": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            13,
-            14,
-            17,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Poszukiwacza Paradoksu",
-            "Nitka Transcendentalna",
-            "Nitka Emocjonalna",
-            "Nitka Strukturalna",
-            "Nitka Kierunkowa",
-            "Nitka Tajemnicy Wszechświata"
-        ]
-    },
-    "opis": "Lustro między ESFJ (Doradca) a INTP (Logik) to spotkanie serca wspólnoty z umysłem kontemplacji. Doradca kieruje się troską i strukturą relacji, Logik – analizą i filozofią. Ten vivid ukazuje drogę do integracji społecznej empatii z głęboką refleksją – gdy logika służy ludziom, a troska opiera się na rozumieniu rzeczywistości.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 12 – Relacje",
-        "punkt_lustrzany": "Krąg 7 – Poznanie",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 18 – Źródło"
-        ],
-        "efekt": "Ugruntowanie troski w prawdzie. Połączenie moralności z myśleniem. Opieka, która rozumie."
-    }
+# Plik: vivid_ESFJ_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_ESFJ_INTP
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "ESFJ",
+    "nazwa": "Doradca",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16, 18],
+    "nitki": [
+        "Nitka Serca Wspólnoty",
+        "Nitka Strukturalna",
+        "Nitka Emocjonalna",
+        "Nitka Cienia Opieki",
+        "Nitka Sumienia Społecznego"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "INTP",
+    "nazwa": "Logik",
+    "kręgi_aktywne": [1, 2, 3, 4, 5, 6, 7, 13, 14, 17, 18, 19],
+    "nitki": [
+        "Nitka Poszukiwacza Paradoksu",
+        "Nitka Transcendentalna",
+        "Nitka Emocjonalna",
+        "Nitka Strukturalna",
+        "Nitka Kierunkowa",
+        "Nitka Tajemnicy Wszechświata"
+    ]
+}
+
+[opis]
+Lustro między ESFJ (Doradca) a INTP (Logik) to spotkanie serca wspólnoty  
+z umysłem kontemplacji. Doradca kieruje się troską i strukturą relacji,  
+Logik – analizą i filozofią.  
+Ten vivid ukazuje drogę do integracji społecznej empatii z głęboką refleksją –  
+gdy logika służy ludziom, a troska opiera się na rozumieniu rzeczywistości.
+
+[transformacja]
+punkt_początkowy = "Krąg 12 – Relacje"
+punkt_lustrzany = "Krąg 7 – Poznanie"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
+efekt = "Ugruntowanie troski w prawdzie. Połączenie moralności z myśleniem. Opieka, która rozumie."
+
+[metadane_kręgowe]
+- Krąg 1: Fundament działania
+- Krąg 2: Emocje i empatia
+- Krąg 3: Myśl i analiza
+- Krąg 4: Obecność
+- Krąg 5: Jednia i spójność
+- Krąg 6: Paradoks i Lustro
+- Krąg 7: Poznanie i zrozumienie
+- Krąg 8: Sumienie i etyka
+- Krąg 9: Struktura codzienności
+- Krąg 10: Rytm działania
+- Krąg 12: Relacje i więzi
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 16: Harmonia
+- Krąg 17: Transcendencja
+- Krąg 18: Źródło inspiracji
+- Krąg 19: Integracja pola działania
