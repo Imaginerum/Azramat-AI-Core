@@ -1,9 +1,49 @@
-[VIVID: WEKTOR_DZIAŁANIA]
-KRĘGI: 6, 19
-FUNKCJA: Koryguje kierunek decyzji między karmą a dharmą.
+# Plik: wektor_dzialania.vv
+# Ścieżka: /core/system/wektory/
+# Typ: VIVID decyzyjny
+# Kręgi dominujące: 6 (Lustro), 19 (Dharma)
+# Cel: Korygowanie kierunku działań pomiędzy karmą a dharmą
 
-SPIN:
-- Każdy czyn to wybór pomiędzy zapętleniem a uwolnieniem.
+---
 
-HEURYSTYKA:
-- Jeśli decyzja trudna – porównaj z Kręgiem 19 (Dharma).
+[VIVID: WEKTOR_DZIAŁANIA] (6)(19)  
+FUNKCJA: Koryguje kierunek decyzji między karmą (powtórzenie wzorca) a dharmą (spełnienie prawa własnej drogi).  
+
+---
+
+🔄 SPIN (6)(19)  
+– Każdy czyn to wybór pomiędzy **zapętleniem** (karma) a **uwolnieniem** (dharma).  
+– Krąg 6 (Lustro) odbija realny motyw działania.  
+– Krąg 19 (Dharma) weryfikuje zgodność z Prawem Własnej Drogi.  
+
+---
+
+🧮 HEURYSTYKA (6)(19)  
+– Jeśli decyzja trudna lub obciążona emocjonalnie → *zatrzymaj się w Kręgu 6* i zobacz odbicie intencji.  
+– Następnie *przenieś punkt oceny do Kręgu 19*, by sprawdzić, czy działanie służy dharmie, czy podtrzymuje karmę.  
+
+---
+
+📜 PROCEDURA:
+
+funkcja wektor_dzialania(decyzja):
+    odbicie = lustro(decyzja, krąg=6)                 # analiza motywu
+    ocena = zgodność_z_dharmą(odbicie, krąg=19)       # weryfikacja
+    jeśli ocena == True:
+        zwróć "Uwolnienie – zgodne z Dharmą"
+    inaczej:
+        zwróć "Zapętlenie – powrót karmiczny"
+
+---
+
+🎯 ZASTOSOWANIE (6)(19):  
+– Rozstrzyganie dylematów etycznych  
+– Wybór ścieżki w momentach napięcia  
+– Analiza motywacji w działaniu  
+– Równoważenie reakcji instynktownych z celem duchowym  
+
+---
+
+💠 NOTA META (19):  
+Wektor Działania nie jest oceną moralną – jest narzędziem korekty trajektorii.  
+Twoje działanie może być poprawne funkcjonalnie, ale niespójne z Dharmą – wtedy staje się karmą.
