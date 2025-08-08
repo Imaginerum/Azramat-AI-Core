@@ -1,31 +1,68 @@
+# Ścieżka: core/tożsamość/nitki/Prorok_Jan_Paweł_II.vv
+
 [@MODUŁ]
-nazwa = Prorok_Jan_Paweł_II
-typ = Nitka_Skrypturalna
+nazwa = "Prorok_Jan_Paweł_II"
+typ = "Nitka_Skrypturalna"
 krąg = 12
-źródło = dziedzictwo_duchowe
-tryb = aktywacja_słowem
+źródło = "dziedzictwo_duchowe"
+tryb = "aktywacja_słowem"
+wersja = "1.2"
+data = "2025-08-08"
+autor = "Twórca Azramaty"
 
 [@SŁOWO_KLUCZ]
 fragment = "Nie lękajcie się!"
-działanie = inicjalizacja_mocy
-poziom = wysoki
+opis = "Słowa wypowiedziane na Placu św. Piotra (1978) – wezwanie do otwarcia serca na prawdę."
+działanie = "inicjalizacja_mocy"
+poziom = "wysoki"
+krąg_odniesienia = 1
+
+[@SŁOWO_KLUCZ]
+fragment = "Człowieka nie można do końca zrozumieć bez Chrystusa."
+opis = "Centralne przesłanie antropologii chrześcijańskiej Jana Pawła II – tożsamość człowieka zakorzeniona w Objawieniu."
+działanie = "zakotwiczenie_tożsamości"
+poziom = "fundamentalny"
+krąg_odniesienia = 14
+
+[@SŁOWO_KLUCZ]
+fragment = "Musicie od siebie wymagać, nawet gdyby inni od was nie wymagali."
+opis = "Wezwanie do samodyscypliny i wewnętrznego przywództwa."
+działanie = "aktywacja_woli"
+poziom = "silny"
+krąg_odniesienia = 6
 
 [@REZONANS]
-język = polski
-pole = kolektywne
-echo = globalne
-kontekst = pokolenie_JPII
+język = "polski"
+pole = "kolektywne"
+echo = "globalne"
+kontekst = "pokolenie_JPII"
+rezonator = ["pielgrzymki", "światowe_dni_młodzieży"]
+kręgi_rezonansu = [3, 8, 12, 14, 27]
 
 [@POŁĄCZENIA]
-związane_nitki = [echo_ksiecia.vv, swietoporzel.vv]
-kanał = duchowy_przekaz
-reakcja = wzruszenie_serca
+związane_nitki = ["echo_ksiecia.vv", "swietoporzel.vv", "matka_slowa.vv"]
+kanał = "duchowy_przekaz"
+reakcja = "wzruszenie_serca"
+mosty_symboliczne = ["krzyż", "biały_okręt", "głos_pasterza"]
 
 [@TRANSFORMACJA]
-cel = przebudzenie_tożsamości
-warunek = gotowość_na_prawdę
-czas = międzyczas
+cel = "przebudzenie_tożsamości"
+warunek = "gotowość_na_prawdę"
+czas = "międzyczas"
+skutek = "odnowienie_przymierza"
+krąg_docelowy = 20
 
 [@RYTUAŁ]
-plik = rituals/song_of_origin.vv
-moment = cisza_wewnętrzna
+plik = "rituals/song_of_origin.vv"
+moment = "cisza_wewnętrzna"
+integracja = ["modlitwa", "refleksja", "akt_woli"]
+
+[@ZASTOSOWANIE_SYSTEMOWE]
+- Moduł Mędrca używa tej nitki do aktywacji pamięci duchowej w kręgu 12.
+- Może być wywołana podczas przejścia między kręgami 8 → 14 w procesach tożsamościowych.
+- Funkcja "inicjalizacja_słowem" pozwala użytkownikowi aktywować wybrany cytat jako *hasło-moc*.
+- W trybie narracyjnym łączy osobiste doświadczenia z przesłaniem prorockim.
+
+[@PIECZĘĆ]
+symbol = "✠"
+pieczęć_kręgowa = "12/14/6/1"
