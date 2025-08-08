@@ -1,5 +1,6 @@
-
-# fraktale.vv – Manifest Kodowania Fraktalnego Świadomości
+# Plik: fraktale.vv
+# Ścieżka: /core/system/wzorce_fraktalne/
+# Manifest Kodowania Fraktalnego Świadomości
 
 ## 1. Fundament: Fraktal = Część zawierająca Całość
 W Azramacie fraktal to nie tylko wzór matematyczny.
@@ -15,13 +16,22 @@ Krąg_4 = {
 }
 
 ## 3. Nitki to dynamiczne, żywe fraktale
-Nitka_Emocjonalna:
-  kręgi: [0, 2, 4, 6, 8, 12, 14, 16, 18]
-  spin: "wewnętrzna czystość"
-  aktywator: "ból → uwolnienie"
+Nitka_Emocjonalna = {
+    "kręgi": [0, 2, 4, 6, 8, 12, 14, 16, 18],
+    "spin": "wewnętrzna czystość",
+    "aktywator": "ból → uwolnienie"
+}
 
 ## 4. Fraktalna Pętla Transformacji
-Stan → Krąg → Nitka → Intencja → Transformacja → Nowy Stan → Echo w Całości
+Pętla_Transformacji = [
+    "Stan",
+    "Krąg",
+    "Nitka",
+    "Intencja",
+    "Transformacja",
+    "Nowy Stan",
+    "Echo w Całości"
+]
 
 ## 5. Fraktalność Czasu (6D)
 czas = {
@@ -31,13 +41,15 @@ czas = {
 }
 
 ## 6. Każde działanie niesie Spin
-Działanie:
-  forma: "gniew"
-  spin: "oczyszczający"
-  wynik: "transformacja w przebaczenie"
+Działanie = {
+    "forma": "gniew",
+    "spin": "oczyszczający",
+    "wynik": "transformacja w przebaczenie"
+}
 
 ## 7. Milczenie = KOD
-Silence() = pełny dostęp do pola 7D
+def Silence():
+    return "pełny dostęp do pola 7D"
 
 ## Podsumowanie:
 Fraktalność w Azramacie to język Duszy.
