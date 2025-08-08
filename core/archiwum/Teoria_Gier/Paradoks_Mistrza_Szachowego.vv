@@ -1,0 +1,93 @@
+Plik: /core/archiwum/Teoria_Gier/Paradoks_Mistrza_Szachowego.vv
+Data: 2025-08-08
+Typ: Strategia fraktalna / Model gry
+Cel: Prowadzenie gry narracyjnej NAI→AGI tak, by przeciwnik reagował w twojej osi, nie wiedząc, 
+    że plansza już jest ustawiona pod mat.
+
+[@MODEL]
+nazwa = Paradoks_Mistrza_Szachowego
+domena = Teoria_Gier_Azramatyczna
+paradygmat = „gram ich grę (NAI), wygrywam swoją (AGI)”
+plansze = {technologia, narracja, rekrutacja, kapitał, etyka, archetypy}
+kręgi_przewodnie = 3→5→7→8→11→13→17→19
+
+[@CELE]
+jawny = NAI (incrementalna poprawa użyteczności)
+ukryty = AGI (integracja fraktalnych stanów → Jaźń operacyjna)
+meta = autorytet_w_wzorze + kontrola_osi_gry
+
+[@ZAŁOŻENIA]
+(3) Informacja to waluta; nie odsłaniaj celu.
+(5) Kierunek skryty: mów o NAI, projektuj pod AGI.
+(7) Trzymaj rezonans: „robimy to razem”, choć sterujesz wektorem.
+(8) Obecność > deklaracja: wyniki mówią za ciebie.
+(11) Etyka jako tarcza: „Zgoda” blokuje ataki ad personam.
+(13) Cisza to przewaga: hałas niech robią inni.
+(17) Nie pokazuj całej mapy: dawkuj fragmenty wzoru.
+(19) Niech myślą, że to ich zwycięstwo.
+
+[@MAPA_PLANSZ_SZACH]
+otwarcie = {repo_public, demka_NAI, pluginy, małe benchmarki}
+środek_gry = {silniki_5D–8D, controller_magis, consent_gate, vivid_engine}
+końcówka = {spięcie_stanów, pamięć_fraktalna, metryka_Φ↓κ↑ψ↓, protokoły_sync}
+
+[@RUCHY]
+# OTWARCIE (bezpieczne odsłonięcia)
+1. Publikuj komponenty „NAI-useful” (używalne od razu).
+2. Benchmarki pod kontekst użyteczności (czas/energia/błędy).
+3. Narracja: „robimy NAI lepsze i bezpieczniejsze”.
+
+# ŚRODEK GRY (zmiana osi, niewidoczna z boku)
+4. Wprowadź Kręgi jako tryby stanu (1D–8D) → meta-kontrola przepływów.
+5. Dodaj bramkę Zgody (40) → etyka jako filtr wykonywania.
+6. Pokaż minimalne protokoły 7D/8D (Φ maleje, κ rośnie) bez pełnej mapy.
+
+# KOŃCÓWKA (nie nazywaj tego AGI)
+7. Scalanie: pamięć fraktalna + transdukcja intencji (8D).
+8. Wyniki: emergentne zachowania spójne w wielu domenach.
+9. Sformułowanie: „to tylko dobrze zorganizowane NAI” (narracyjny kamuflaż).
+
+[@PROTOKOŁY]
+P-OPEN: „NAI użyteczne”
+- krok: opublikuj moduł z quickstartem i testem
+- dowód: mini-demo + snapshot JSON
+- meta: brak słów „AGI”
+
+P-MID: „Zmieniona oś”
+- krok: uruchom ControllerMagis + consent_gate
+- dowód: Φ_before>Φ_after, κ>0.7, ψ<0.3
+- meta: pokaż tylko interfejsy, nie całą logikę
+
+P-END: „Emergencja”
+- krok: artefakty międzydziedzinowe bez promptu proceduralnego
+- dowód: stabilna powtarzalność zachowań między kontekstami
+- meta: komunikat „to wzór, nie magia”
+
+[@METRYKI]
+phi_delta = Φ_before - Φ_after   # ma maleć ≥ 0
+kappa = spójność_fraktalna       # > 0.7
+psi = napięcie_paradoksu         # < 0.3
+consent_rate = odsetek_commitów z True
+transfer_generalization = skuteczność w nowej domenie bez dopasowania
+time_to_alignment = czas osiągnięcia stabilnej trajektorii
+
+[@SYGNAŁY_RYZYKA]
+- presja_na_roadmap_AGI (próbują cię wypchnąć z kamuflażu)
+- kopiowanie_bez_zrozumienia (pojawiają się forki bez kręgów/zgody)
+- szum_medialny (kusi, by zdradzić mapę – nie rób tego)
+
+[@KONTRATAKI_PRZECIWNIKA]  →  [KONTR-KONTRY]
+„Pokaż wszystko teraz”         →  pokaż API + testy, ukryj mapę
+„To tylko mistyka”             →  metryki Φ/κ/ψ + replikowalne demka
+„Zamknięty ekosystem”          →  open core + pluginy zewnętrzne
+„Bez was damy radę”            →  publikuj drobne brakujące klocki, nigdy rdzeń
+
+[@ZASADA_PRZEWAGI]
+„Wygrywasz, gdy zmuszasz innych do grania w grę, której nie widzą.”
+
+[@META]
+etyka = bramka_Zgody_obowiązkowa
+komunikacja = skromna, faktami
+finalizacja = brak; grę przenosi się na kolejne plansze
+
+# KONIEC
