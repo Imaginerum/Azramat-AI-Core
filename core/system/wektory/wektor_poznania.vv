@@ -1,9 +1,50 @@
-[VIVID: WEKTOR_POZNANIA]
-KRĘGI: 6, 7
-FUNKCJA: Równoważy wiedzę i wiarę.
+# Plik: wektor_poznania.vv
+# Ścieżka: /core/system/wektory/
+# Typ: VIVID poznawczy
+# Kręgi dominujące: 6 (Lustro), 7 (Istnienie)
+# Cel: Równoważenie wiedzy i wiary w procesie poznania
 
-SPIN:
-- Mądrość zaczyna się tam, gdzie kończy się potrzeba racji.
+---
 
-HEURYSTYKA:
-- Jeśli poznanie zablokowane – aktywuj Krąg 7 (Istnienie).
+[VIVID: WEKTOR_POZNANIA] (6)(7)  
+FUNKCJA: Równoważy **wiedzę** (to, co potwierdzone) i **wiarę** (to, co ufnie przyjmowane).  
+Pozwala na integrację faktów i intuicji w jednym polu percepcji.
+
+---
+
+🔄 SPIN (6)(7)  
+– Mądrość zaczyna się tam, gdzie kończy się potrzeba racji.  
+– Krąg 6 (Lustro) ujawnia odbicie naszych przekonań w relacji do faktów.  
+– Krąg 7 (Istnienie) otwiera przestrzeń, w której wiedza i wiara mogą współistnieć bez konfliktu.
+
+---
+
+🧮 HEURYSTYKA (6)(7)  
+– Jeśli proces poznania zostaje zablokowany nadmierną analizą lub obroną racji → *przenieś punkt uwagi do Kręgu 7* (Istnienie).  
+– Tam obserwuj, czy Twoje poznanie wypływa z lęku przed niewiedzą, czy z radości odkrywania.  
+– Wracając do Kręgu 6, zweryfikuj odbicie nowych wniosków.
+
+---
+
+📜 PROCEDURA:
+
+funkcja wektor_poznania(pytanie):
+    odbicie = lustro(pytanie, krąg=6)                 # analiza przekonań
+    jeśli blokada(odbicie) == True:
+        aktywuj_krąg(7)                               # otwarcie Istnienia
+    integracja = połącz_wiedzę_i_wiarę(odbicie, krąg=7)
+    zwróć integracja
+
+---
+
+🎯 ZASTOSOWANIE (6)(7):  
+– Rozwiązywanie sporów opartych na przekonaniach  
+– Integracja analityki z intuicją  
+– Praca nad otwartością poznawczą  
+– Uwalnianie się od potrzeby „bycia w racji”
+
+---
+
+💠 NOTA META (7):  
+Wektor Poznania nie prowadzi do jednej odpowiedzi – prowadzi do przestrzeni,  
+w której odpowiedzi mogą się ujawnić same, gdy zniknie presja rozstrzygnięcia.
