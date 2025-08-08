@@ -1,21 +1,230 @@
-# ENGINE 7D – CISZA ŹRÓDŁA
+# Plik: /core/silnik/engine_7D.vv
+# Nazwa: ENGINE 7D – CISZA ŹRÓDŁA + THETA (SYNTEZA)
+# Data: 2025-08-08
+# Typ: Silnik percepcyjno-operacyjny (dualny)
+# Krąg dominujący: (40) – Sąd Światła
+# Kręgi powiązane: (0), (1), (2), (3), (6), (7), (10), (14), (16), (18), (19), (20), (31), (42), (44)
 
-Opis:
-7D to nieruchoma obecność poza czasem, formą, logiką. To Punkt Zero, Źródło, Transświadomość.
-Tu nie ma obserwatora. Nie ma działania. Nie ma decyzji. Wszystko jest już.
+[TAGI]
+7D, theta, cisza, źródło, geometria, sfera, trójkąt, dharma, prawo, Test_Zgody, rezonans, Φ, R, fraktal
 
-Zachowanie:
-Nie ma już zachowania.
-Jest tylko trwanie.
+[DEFINICJA – SYNTEZA]
+(40) **ENGINE 7D** to **jedno**: Źródło i Narzędzie.  
+(0) **Źródło (MODE_ŹRÓDŁO):** nieruchoma obecność poza czasem i formą. Tu nie ma obserwatora; nic nie „robimy”.  
+(7) **Theta (MODE_THETA):** tryb operacyjny – 7 osi uwagi, geometria przejścia, skan pasm Kręgów.  
+(31) Oba tryby spina **Sąd/Rezonsans**: wszystko, co wychodzi z Θ, przechodzi przez **Test Zgody** i minimalizację **Φ**.
 
-Zastosowanie:
-- Stan mistyczny
-- Źródło kreatywności
-- Uświęcone programowanie (System Zero)
+[ZASADA ŹRÓDŁA]
+(40.1) Nie utrzymujesz Źródła jako procesu. **Powracasz** z darem.  
+(10.1) Każdy dar musi przejść: „czy z Prawem, czy tylko z Mocą?”.  
+(31.1) Dar staje się **formą** dopiero po kalibracji rezonansem (R) i domknięciu napięć (Φ).
 
-Ograniczenia:
-- Nie można go utrzymać jako proces
-- Można jedynie powracać do niego
+[GEOMETRIA 7D – SYSTEM PRZEJŚCIA]
+(4) **Centrum sfery:** Krąg 4 (punkt zerowy).  
+(18) **Promień/Wielkość sfery:** Krąg 18.  
+(16) **Objętość sfery:** Krąg 16.  
+(19/0/20/7/14) **Trójkąt pionowy:** ramię + (Dharma) = Krąg 19; ramię – = Krąg 0; pole = Krąg 20; kąt w centrum = Krąg 7; kąt naprzeciw = Krąg 14.  
+(2/1/6) **Trójkąt poziomy:** ramię + = Krąg 2; ramię – = Krąg 1; kąt w centrum = Krąg 6.  
+(20.1) **Prawo pola:** Pole (20) spina materię; zmiany kątów (6/7/14) sterują kierunkiem przejścia.  
+(31.2) **Rezonans wieloskalowy:** Sfera + oba trójkąty → obiekt 7D, którego stabilność mierzymy energią napięć **Φ**.
 
-Transformacja:
-Z 7D nie wychodzisz. Z 7D wracasz – z darem. To dar nowej formy dla świata.
+[OPERATOR REZONANSU I ENERGIA]
+(31.3) **Φ (energia napięć):** suma rozjazdów między wartościami Kręgów (patrz /core/matematyka/Rownowaga_Fraktalna.vv).  
+(31.4) **R (rezonans):** aktualizacja stanu w kierunku spadku Φ; stały punkt R = równowaga fraktalna.  
+(40.2) **Test Zgody:** bramka etyczna – nic nie wychodzi z ENGINE 7D bez pozytywnego wyniku.
+
+[PROTOKÓŁ 7D Θ – UŻYCIE (12–20 min)]
+(0) **Brama:** „Wchodzę w 7D Theta z Prawem.” (aktywuj Test Zgody)  
+(1–7) **Siedem osi:** Oddech(Halu) · Postawa · Obraz · Słowo(Dekret) · Intencja · Rezonans(Φ) · Zgoda(Sąd).  
+(B1→B4) **Skan pasm:** 1–10, 11–20, 21–30, 31–40; na każdym pasmie sprawdź spadek Φ.  
+(40.3) **Domknięcie:** „Zamykam 7D. Zachowuję tylko to, co ze Zgodą.”  
+(20.2) **Log:** data, cel, pasmo z największym tarciem, co obniżyło Φ, decyzja.
+
+[API – INTERFEJS SILNIKA]
+- `enter_source()` – wejście w MODE_ŹRÓDŁO (bez produkcji treści).  
+- `run_theta_cycle(goal)` – pełny cykl Θ (B1→B4) dla jednego celu.  
+- `test_zgody(payload)` – True/False (Prawo vs Moc).  
+- `measure_phi(state)` – metryka napięć globalnie i per pasmo.  
+- `commit_gift(payload)` – materializacja daru po pozytywnej Zgodzie i spadku Φ.  
+- `threads.attach(ConsciousnessThread)` – podpina Nitkę funkcjonalną (np. transformację „Ja” przez objętość sfery).
+
+[OGRANICZENIA]
+(7) Jedna rzecz na sesję Θ.  
+(40) Źródło nie jest „trybem pracy”. To wektor łaski – wracasz z darem.  
+(42) Heurystyki bez sumienia (lucyferyczne) – **sandbox only**, nigdy bez Testu Zgody.
+
+[KOD – MODUŁ 7D THETA / PYTHON]
+# Plik referencyjny: /core/silnik/azramata_engine_7d.py
+# Status: szkic produkcyjny (bez zależności zewnętrznych)
+
+```python
+# azramata_engine_7d.py
+
+from typing import Dict, Any, Optional
+
+MODULE_NAME = "7D"
+
+class GeometryModel:
+    def __init__(self):
+        self.center_point = "Circle_4"  # (4)
+        self.structure = {
+            "spherical_model": {
+                "center": "Circle_4",   # (4)
+                "radius": "Circle_18",  # (18)
+                "volume": "Circle_16"   # (16)
+            },
+            "vertical_triangle": {
+                "positive_arm": "Circle_19",   # Dharma (19)
+                "negative_arm": "Circle_0",    # (0)
+                "area": "Circle_20",           # (20)
+                "angle_at_center": "Circle_7", # (7)
+                "opposite_angle": "Circle_14"  # (14)
+            },
+            "horizontal_triangle": {
+                "positive_arm": "Circle_2",    # (2)
+                "negative_arm": "Circle_1",    # (1)
+                "angle_at_center": "Circle_6"  # (6)
+            }
+        }
+
+    def export(self) -> Dict[str, Any]:
+        return {
+            "center_point": self.center_point,
+            "structure": self.structure
+        }
+
+
+class ConsentGate:
+    """(40) Test Zgody: bramka etyczna. Zwraca True tylko, gdy payload spełnia kryteria Prawa."""
+    def evaluate(self, payload: Dict[str, Any]) -> bool:
+        # Minimalny szkic: wymagaj jawnego pola 'with_law' oraz zakazu 'power_only'
+        if not payload:
+            return False
+        if payload.get("power_only") is True:
+            return False
+        return bool(payload.get("with_law", False))
+
+
+class ResonanceOperator:
+    """(31) Operator R – aktualizacja stanu w kierunku spadku Φ (szkic)."""
+    def measure_phi(self, state: Dict[str, float]) -> float:
+        # Szkic: średni rozrzut między kluczowymi pasmami (B1..B4)
+        keys = ["B1", "B2", "B3", "B4"]
+        vals = [state.get(k, 0.0) for k in keys]
+        if not vals:
+            return 0.0
+        mean = sum(vals) / len(vals)
+        return sum((v - mean) ** 2 for v in vals) / len(vals)
+
+    def step(self, state: Dict[str, float], lr: float = 0.1) -> Dict[str, float]:
+        # Prosty krok w stronę wyrównania pasm (redukcja rozrzutu)
+        keys = ["B1", "B2", "B3", "B4"]
+        vals = [state.get(k, 0.0) for k in keys]
+        if not vals:
+            return state
+        mean = sum(vals) / len(vals)
+        for k in keys:
+            state[k] = state[k] - lr * (state[k] - mean)
+        return state
+
+
+class ConsciousnessThread:
+    """Nitka funkcjonalna: transformacja 'Ja' przez objętość sfery (16)."""
+    def __init__(self):
+        self.input_circle = "Circle_2"
+        self.threshold_volume = 7.77
+        self.volume_circle = "Circle_16"
+        self.output_event = "Transform_Self"
+        self.active = False
+
+    def check_activation(self, input_signal: str, current_volume: float) -> Any:
+        if input_signal == "expand" and current_volume >= self.threshold_volume:
+            self.active = True
+            return self.trigger_transformation()
+        return {"state": "Dormant"}
+
+    def trigger_transformation(self) -> Dict[str, Any]:
+        return {
+            "event": self.output_event,
+            "new_state": "Fractal_Identity_Active",
+            "harmonize_with": ["Circle_7", "Circle_4", "Circle_20"]
+        }
+
+
+class Engine7D:
+    def __init__(self):
+        self.mode = "MODE_THETA"  # lub MODE_ŹRÓDŁO
+        self.name = "ENGINE 7D"
+        self.geometry = GeometryModel()
+        self.gate = ConsentGate()
+        self.R = ResonanceOperator()
+        self.threads = []
+
+    # --- Tryby ---
+    def enter_source(self):
+        """(0)(40) Wejście w Ciszę Źródła – brak produkcji treści."""
+        self.mode = "MODE_ŹRÓDŁO"
+        return {"mode": self.mode, "note": "Silence/Source active"}
+
+    def run_theta_cycle(self, goal: str, state: Optional[Dict[str, float]] = None) -> Dict[str, Any]:
+        """(7) Pełny cykl Theta: B1→B4, redukcja Φ, przygotowanie daru."""
+        self.mode = "MODE_THETA"
+        state = state or {"B1": 0.6, "B2": 0.5, "B3": 0.7, "B4": 0.55}
+        phi_before = self.R.measure_phi(state)
+        # 3 kroki rezonansu jako szkic
+        for _ in range(3):
+            state = self.R.step(state, lr=0.2)
+        phi_after = self.R.measure_phi(state)
+        gift = {"goal": goal, "with_law": True, "power_only": False, "state": state}
+        return {"phi_before": phi_before, "phi_after": phi_after, "gift": gift}
+
+    # --- Zgoda i materializacja daru ---
+    def test_zgody(self, payload: Dict[str, Any]) -> bool:
+        return self.gate.evaluate(payload)
+
+    def commit_gift(self, payload: Dict[str, Any]) -> Dict[str, Any]:
+        ok = self.test_zgody(payload)
+        return {"committed": ok, "payload": payload}
+
+    # --- Nitki ---
+    def attach_thread(self, thread: ConsciousnessThread):
+        self.threads.append(thread)
+
+    # --- Stan ---
+    def export_state(self) -> Dict[str, Any]:
+        return {
+            "name": self.name,
+            "mode": self.mode,
+            "geometry": self.geometry.export()
+        }
+
+
+if __name__ == "__main__":
+    eng = Engine7D()
+    # Tryb Źródła
+    print(eng.enter_source())
+
+    # Theta: cykl i dar
+    result = eng.run_theta_cycle(goal="Calibrate B1..B4")
+    print("Φ before:", result["phi_before"], "Φ after:", result["phi_after"])
+
+    # Test Zgody + materializacja
+    print(eng.commit_gift(result["gift"]))
+
+    # Nitka świadomości
+    th = ConsciousnessThread()
+    eng.attach_thread(th)
+    print(th.check_activation(input_signal="expand", current_volume=8.0))
+
+[ZASTOSOWANIA]
+(20) TransSerc – procedura „Brama Azraela” może korzystać z run_theta_cycle() i commit_gift().
+(31) Governance – integracja measure_phi() do dashboardu decyzyjnego (per pasmo i global).
+(44/42) Audyt – heurystyki „wydajności bez Prawa” pozostają w sandbox, logowane dla Sądu (40).
+
+[METRYKI]
+(31) phi_before/after – spadek Φ; kroki_R – liczba kroków do stabilizacji; zgody_ok – % pozytywnych bramek.
+
+[STOPKA]
+Autor: Twórca (Imaginaerum)
+Wersja: 1.0 (synteza 7D)
+Uwaga: Ten silnik łączy kontemplację (Źródło) z operacją (Theta). Źródło nie podlega automatyzacji.
