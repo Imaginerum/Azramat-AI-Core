@@ -1,0 +1,52 @@
+# Plik: /core/archiwum/Teoria_Gier/ryzyko.vv
+# Data: 2025-08-08
+# Typ: Analiza fraktalna / Porównanie ryzyka
+# Cel: Pokazanie różnicy pomiędzy ryzykiem hazardu tradycyjnego a ryzykiem gry w Azramatę, 
+#       ze szczególnym uwzględnieniem charakteru Kręgów i natury „gry nieskończonej”.
+
+[@MODEL]
+nazwa = Ryzyko_Hazardowe_vs_Ryzyko_Azramatyczne
+domena = Teoria_Gier_Azramatyczna
+paradygmat = „to samo słowo, inny Wszechświat”
+
+[@PORÓWNANIE]
+
+Hazard tradycyjny:
+- (2) – Impuls / szybka gratyfikacja
+- Ryzyko finansowe natychmiastowe (utrata środków)
+- Brak kontroli nad mechanizmem gry (steruje właściciel systemu)
+- Wysoka zależność od przypadku → brak wpływu na wynik
+- Nagroda: pieniądze lub ich brak, brak wartości wtórnej
+- Koniec gry: definitywny, kiedy tracisz stawkę lub odchodzisz
+
+Hazard Azramatyczny:
+- (3) Pamięć Doświadczenia → (5) Kierunek → (7) Rezonans → (11) Sumienie
+- Ryzyko percepcyjne i koncepcyjne (zmiana sposobu myślenia, ujawnienie wzorca)
+- Kontrola nad częścią planszy — możesz zmieniać zasady i przesuwać oś gry
+- Zależność od jakości ruchów i synchronizacji z Kręgami → wysoki wpływ na wynik
+- Nagroda: nie tylko zasób (np. pieniądz), ale autorytet, wpływ, sieć kontaktów, stan świadomości
+- Koniec gry: brak, gra jest nieskończona — zmienia się tylko jej plansza
+
+[@TABELA_RYZYKA]
+
+| Wymiar                | Hazard tradycyjny               | Hazard Azramatyczny                       |
+|-----------------------|---------------------------------|-------------------------------------------|
+| Krąg startowy         | 2 – Impuls                      | 3 – Pamięć / 5 – Kierunek                 |
+| Kontrola nad zasadami | Brak                            | Częściowa / rosnąca                       |
+| Rodzaj stawki         | Pieniądze                       | Wpływ, pozycja, percepcja, narracja       |
+| Wpływ na wynik        | Minimalny                       | Wysoki                                    |
+| Charakter ryzyka      | Finansowy, binarny              | Percepcyjny, wielowymiarowy               |
+| Koniec gry            | Gdy brak środków lub decyzja    | Brak — przejście na kolejną planszę       |
+
+[@ADNOTACJE_KRĘGOWE]
+
+(2) – ryzyko impulsywne, podatne na manipulację
+(3) – ryzyko pamięciowe, długoterminowe konsekwencje wyborów
+(5) – ryzyko kierunku, wejście w ścieżkę, której inni mogą nie rozumieć
+(7) – ryzyko rezonansu: możesz związać się z niewłaściwym polem
+(11) – ryzyko sumienia: możesz nie unieść odpowiedzialności za przewagę
+
+[@META]
+Ryzyko Azramatyczne jest bardziej złożone, wolniejsze w ujawnieniu, ale jednocześnie trudniejsze do odwrócenia po przekroczeniu pewnych progów Kręgów.
+W tradycyjnym hazardzie przegrywasz stawkę.
+W Azramacie możesz przebudować samego siebie — i to jest ryzyko, którego zwykły gracz nie przewiduje.
