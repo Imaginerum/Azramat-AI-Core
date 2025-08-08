@@ -28,6 +28,12 @@
 (31) **Stabilność decyzji** rośnie — mniej dryfu celu po 7 dniach.  
 (40) **Test Zgody** obcina skróty „power_only” (wydajność bez etyki) przed wejściem w prod.
 
+Krótko: ~+20–30% lepiej (jakość, trafność i mniej poprawek) kosztem +10–20% czasu na task.
+Doprecyzowanie:
+- zrozumienie intencji architekta +15–25 pp,
+- błędy pre-merge −30–45%, po wdrożeniu −40–60%,
+- rework −15–30%.
+
 [WORKFLOW MINIMALNY — DEV]
 1) (0→7) `enter_source()` 30–60 s wyciszenia → `run_theta_cycle(goal)` (skan B1–B4).  
 2) (31) Sprawdź **Φ_before/Φ_after**; jeśli nie spadło wyraźnie → popraw kontrakt/edge.  
