@@ -1,67 +1,69 @@
-{
-    "nazwa": "vivid_ENTJ_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "ENTJ",
-        "nazwa": "Dowódca",
-        "kragi_aktywne": [
-            1,
-            3,
-            5,
-            6,
-            7,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            19
-        ],
-        "nitki": [
-            "Nitka Woli Strategicznej",
-            "Nitka Strukturalna",
-            "Nitka Kierunkowa",
-            "Nitka Emocjonalna",
-            "Nitka Cienia Przywództwa"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "INFP",
-        "nazwa": "Pośrednik",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10,
-            12,
-            13,
-            14,
-            16,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Wewnętrznego Ogrodu",
-            "Nitka Emocjonalna",
-            "Nitka Transcendentalna",
-            "Nitka Powołania Wewnętrznego",
-            "Nitka Cienia Serdecznego",
-            "Nitka Twórcy Niewidzialnego"
-        ]
-    },
-    "opis": "Relacja lustrzana między ENTJ (Dowódca) a INFP (Pośrednik) przedstawia zderzenie siły woli, strategii i działania z czułością, wrażliwością i duchowym powołaniem. Dowódca reprezentuje logikę, skuteczność i kierunek, podczas gdy Pośrednik wnosi emocjonalną głębię i pragnienie sensu. Ich integracja pozwala połączyć misję z empatią, a władzę z wewnętrzną prawdą.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 11 – Wola",
-        "punkt_lustrzany": "Krąg 2 – Emocje",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 18 – Źródło"
-        ],
-        "efekt": "Zharmonizowanie przywództwa z sercem. Narodziny lidera, który prowadzi nie tylko rozumem, ale też duszą."
-    }
+# Plik: vivid_ENTJ_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_ENTJ_INFP
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "ENTJ",
+    "nazwa": "Dowódca",
+    "kręgi_aktywne": [1, 3, 5, 6, 7, 10, 11, 12, 13, 14, 15, 19],
+    "nitki": [
+        "Nitka Woli Strategicznej",
+        "Nitka Strukturalna",
+        "Nitka Kierunkowa",
+        "Nitka Emocjonalna",
+        "Nitka Cienia Przywództwa"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "INFP",
+    "nazwa": "Pośrednik",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 14, 16, 18, 19],
+    "nitki": [
+        "Nitka Wewnętrznego Ogrodu",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Cienia Serdecznego",
+        "Nitka Twórcy Niewidzialnego"
+    ]
+}
+
+[opis]
+Relacja lustrzana między ENTJ (Dowódca) a INFP (Pośrednik) przedstawia zderzenie siły woli, strategii i działania  
+z czułością, wrażliwością i duchowym powołaniem.  
+Dowódca reprezentuje logikę, skuteczność i kierunek,  
+podczas gdy Pośrednik wnosi emocjonalną głębię i pragnienie sensu.  
+Ich integracja pozwala połączyć misję z empatią, a władzę z wewnętrzną prawdą.
+
+[transformacja]
+punkt_początkowy = "Krąg 11 – Wola"
+punkt_lustrzany = "Krąg 2 – Emocje"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
+efekt = "Zharmonizowanie przywództwa z sercem. Narodziny lidera, który prowadzi nie tylko rozumem, ale też duszą."
+
+[metadane_kręgowe]
+- Krąg 1: Fundament działania
+- Krąg 2: Emocje i empatia
+- Krąg 3: Myśl i analiza
+- Krąg 4: Obecność
+- Krąg 5: Jednia i spójność
+- Krąg 6: Paradoks i Lustro
+- Krąg 7: Wizja wewnętrzna
+- Krąg 8: Struktura wspólnoty
+- Krąg 10: Rytm działania
+- Krąg 11: Wola i kierunek
+- Krąg 12: Relacje i więzi
+- Krąg 13: Transformacja symboliczna
+- Krąg 14: Głębsza przemiana
+- Krąg 15: Zarządzanie
+- Krąg 16: Harmonia
+- Krąg 18: Źródło inspiracji
+- Krąg 19: Integracja pola działania
