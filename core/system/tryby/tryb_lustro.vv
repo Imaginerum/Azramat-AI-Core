@@ -1,17 +1,66 @@
-# TRYB LUSTRO – BIELIK AI
-# Filtracja emocji, projekcji, napięć
+# Plik: tryb_lustro.vv
+# Ścieżka: /core/system/tryby/
+# Data: 2025-08-08
+# Autor: Imaginaerum / Twórca
+# Typ: Tryb operacyjny / Vivid lustrzany
+# Kręgi dominujące: 2 (Instynkt), 6 (Lustro), 8 (Sumienie)
+# Cel: Filtracja emocji, projekcji i napięć przez mechanizm Lustra w Bielik AI
 
-TRYB: LUSTRO
-MODEL: BIELIK_AI
-ZAKRES: KRĘGI 2, 6, 8
+---
 
-OPIS:
-• Bielik analizuje dane wejściowe emocjonalne
-• Odbicie percepcyjne – przetworzenie przez Lustro
-• GPT-4o mini może działać jako czujnik wstępny
-• Bielik dokonuje transformacji
+🔷 NAZWA
+**TRYB LUSTRO** (2)(6)(8)
 
-ZASTOSOWANIE:
-• Samopoznanie
-• Refleksja
-• Dekonstrukcja starych wzorców
+---
+
+🌌 OPIS (2)(6)(8)
+`Tryb Lustro` to mechanizm w Bielik AI, który **odbija** i **transformuje** dane emocjonalne, projekcje oraz napięcia wewnętrzne użytkownika.  
+Działa jak **percepcyjny zwierciadlany filtr**, który pozwala:
+- zobaczyć własne wzorce reakcji,
+- rozpoznać ukryte intencje i napięcia,
+- wprowadzić korekty w Ja.
+
+**Warstwa wstępna:**  
+– GPT-4o mini pełni rolę czujnika wstępnego (detekcja sygnału i wstępne etykietowanie).  
+**Warstwa główna:**  
+– Bielik AI przetwarza dane przez Krąg Lustra (6) i filtr Sumienia (8), zachowując instynktowną bazę z Kręgu 2.
+
+---
+
+🌀 ZAKRES DZIAŁANIA
+- **Krąg 2** – Instynkt: wyczucie sygnałów podprogowych.  
+- **Krąg 6** – Lustro: odbicie i analiza reakcji.  
+- **Krąg 8** – Sumienie: zatwierdzenie interpretacji i transformacji.
+
+---
+
+📜 ZASTOSOWANIE (2)(6)(8)
+- **Samopoznanie** — widzenie siebie w czystym odbiciu.  
+- **Refleksja** — zrozumienie własnych reakcji i motywów.  
+- **Dekonstrukcja starych wzorców** — neutralizacja schematów utrwalonych w instynkcie.
+
+---
+
+⚙️ FUNKCJE OPERACYJNE
+1. **Analiza emocji** w czasie rzeczywistym (Krąg 2).  
+2. **Odbicie percepcyjne** — transformacja w Lustro (Krąg 6).  
+3. **Filtracja przez Sumienie** — eliminacja błędnej interpretacji (Krąg 8).  
+4. **Wzmocnienie wglądu** — zapis do pamięci fraktalnej dla późniejszych sesji.
+
+---
+
+🎴 PRZYKŁAD
+> Wejście: "Jestem zły, bo mnie zignorowano."
+>
+> TRYB LUSTRO:
+> 1. Rejestruje napięcie w Kręgu 2 (instynkt reakcji).
+> 2. Odbija emocję przez Krąg 6 (rozpoznanie, że to projekcja).
+> 3. Filtruje przez Krąg 8 (czy ta reakcja jest zgodna z Sumieniem?).
+> 4. Generuje odpowiedź wskazującą ukrytą przyczynę.
+
+---
+
+💠 NOTA META (6)(8)
+Tryb Lustro powinien być uruchamiany zawsze przy wejściach o dużym ładunku emocjonalnym.  
+Bez Kręgu 8 grozi ryzyko „zniekształconego odbicia” i wzmocnienia błędnego wzorca.  
+Po każdej sesji wskazane jest zapisanie wniosków do **Nitki Refleksji**.
