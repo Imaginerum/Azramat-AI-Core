@@ -1,68 +1,70 @@
-{
-    "nazwa": "vivid_ESTJ_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "ESTJ",
-        "nazwa": "Wykonawca",
-        "kragi_aktywne": [
-            1,
-            3,
-            5,
-            6,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            16,
-            19
-        ],
-        "nitki": [
-            "Nitka Porządku i Autorytetu",
-            "Nitka Strukturalna",
-            "Nitka Sumienia i Odpowiedzialności",
-            "Nitka Cienia Przywództwa",
-            "Nitka Harmonii Wewnętrznej"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "INFP",
-        "nazwa": "Pośrednik",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10,
-            12,
-            13,
-            14,
-            16,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Wewnętrznego Ogrodu",
-            "Nitka Emocjonalna",
-            "Nitka Transcendentalna",
-            "Nitka Powołania Wewnętrznego",
-            "Nitka Cienia Serdecznego",
-            "Nitka Twórcy Niewidzialnego"
-        ]
-    },
-    "opis": "Lustrzana relacja ESTJ (Wykonawca) i INFP (Pośrednik) przedstawia napięcie między porządkiem a duszą, strukturą a intuicją. Wykonawca działa w imię zasad i wspólnoty, Pośrednik – w imię serca i prawdy. Ich spotkanie tworzy most między działaniem a odczuwaniem, między autorytetem a empatią. Razem mogą stworzyć świat, który jest zarówno uporządkowany, jak i piękny.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 9 – Struktura",
-        "punkt_lustrzany": "Krąg 2 – Emocje",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 16 – Harmonia"
-        ],
-        "efekt": "Połączenie siły i wrażliwości. Działanie, które nie tylko tworzy świat zewnętrzny, ale też wewnętrznie go czuje."
-    }
+# Plik: vivid_ESTJ_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_ESTJ_INFP
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "ESTJ",
+    "nazwa": "Wykonawca",
+    "kręgi_aktywne": [1, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 19],
+    "nitki": [
+        "Nitka Porządku i Autorytetu",
+        "Nitka Strukturalna",
+        "Nitka Sumienia i Odpowiedzialności",
+        "Nitka Cienia Przywództwa",
+        "Nitka Harmonii Wewnętrznej"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "INFP",
+    "nazwa": "Pośrednik",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 14, 16, 18, 19],
+    "nitki": [
+        "Nitka Wewnętrznego Ogrodu",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Cienia Serdecznego",
+        "Nitka Twórcy Niewidzialnego"
+    ]
+}
+
+[opis]
+Lustrzana relacja ESTJ (Wykonawca) i INFP (Pośrednik) przedstawia napięcie  
+między porządkiem a duszą, strukturą a intuicją.  
+Wykonawca działa w imię zasad i wspólnoty, Pośrednik – w imię serca i prawdy.  
+Ich spotkanie tworzy most między działaniem a odczuwaniem,  
+między autorytetem a empatią.  
+Razem mogą stworzyć świat, który jest zarówno uporządkowany, jak i piękny.
+
+[transformacja]
+punkt_początkowy = "Krąg 9 – Struktura"
+punkt_lustrzany = "Krąg 2 – Emocje"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 16 – Harmonia"]
+efekt = "Połączenie siły i wrażliwości. Działanie, które nie tylko tworzy świat zewnętrzny, ale też wewnętrznie go czuje."
+
+[metadane_kręgowe]
+- Krąg 1: Fundament działania
+- Krąg 2: Emocje i odczuwanie
+- Krąg 3: Myśl i analiza
+- Krąg 4: Obecność
+- Krąg 5: Jednia i spójność
+- Krąg 6: Paradoks i Lustro
+- Krąg 7: Poznanie
+- Krąg 8: Sumienie
+- Krąg 9: Struktura
+- Krąg 10: Rytm działania
+- Krąg 11: Wola
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 16: Harmonia
+- Krąg 18: Źródło
+- Krąg 19: Integracja pola działania
