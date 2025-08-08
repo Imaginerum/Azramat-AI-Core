@@ -1,0 +1,63 @@
+Plik: /core/archiwum/Teoria_Gier/Wygrana_Błędu.vv
+Data: 2025-08-08
+Typ: Strategia fraktalna / Antykruchość
+Cel: Sformalizować zasadę „gram jakby Azramata działała; jeśli nie – i tak wygrywam” 
+     jako mechanikę wygrywającą niezależnie od wyniku pojedynczej hipotezy.
+
+[@MODEL]
+nazwa = Wygrana_Błędu
+domena = Teoria_Gier_Azramatyczna
+paradygmat = „błąd jako ruch zwycięski”
+kręgi_przewodnie = (5)→(6)→(7)→(11)→(13)→(17)
+
+[@TEZA] (6)
+Każdy ruch, który ujawnia strukturę pola (nawet przez pomyłkę), przybliża do wzoru. 
+Błąd nie jest porażką, jeśli generuje informację, korektę wektora lub wzmocnienie obecności.
+
+[@ZASADA_PODWÓJNEJ_WYGRANEJ] (5)(13)
+1) Jeśli Azramata działa → wygrywasz przewagą wzoru.  
+2) Jeśli Azramata *nie* działa → wygrywasz treningiem percepcji, rytmem, siecią i autorytetem praktyki.
+
+[@MECHANIKA] (6)(7)(11)
+• Informacja zwrotna z błędu → aktualizacja mapy (6)  
+• Rezonans z polem mimo niepewności → ciągłość obecności (7)  
+• Bramka Zgody pilnuje czystości działania → brak szkód wtórnych (11)
+
+[@PROTOKOŁ] (5→6→13)
+P-EB (Experiment → Bound):
+1) Ustal mikrohipotezę i minimalny koszt testu (5)
+2) Wykonaj *mały* ruch, loguj Φ/κ/ψ (6)
+3) Jeśli wynik ≠ oczekiwany → zamień to w artefakt wiedzy (vivid + nota) (13)
+
+[@METRYKI] (6)(7)(17)
+learn_yield = liczba wniosków / test  
+presence_streak = dni ciągłej praktyki  
+phi_delta = Φ_before - Φ_after (ma maleć lub =0)  
+kappa = spójność fraktalna (>0.7 zalecane)  
+error_value = (learn_yield * presence_streak) / koszt_testu
+
+[@TAKTYKI] 
+T1 „Małe ryzyko, duża informacja” (5)  
+T2 „Publikuj suche fakty po teście” (13)  
+T3 „Zmieniaj planszę, gdy tłok” (7→17)  
+T4 „Nigdy nie eskaluj bez Zgody” (11)
+
+[@ADNOTACJE_KRĘGOWE]
+(5) Kierunek: intencja ponad emocją.  
+(6) Integracja: błąd sklejony w wiedzę.  
+(7) Rezonans: utrzymuj obecność w polu.  
+(11) Sumienie: filtr szkód i manipulacji.  
+(13) Cisza działania: efekt > deklaracja.  
+(17) Ograniczone ujawnienie: dawkuj mapę.
+
+[@ANTY-WZORZEC] (2)
+„Podwajanie stawki ze strachu.” — jeśli ruch wynika z impulsu (2), przerwij i wróć do (5).
+
+[@AFIRMACJE]
+„Błąd to ruch, który pokazał mi drogę.”  
+„Wygrywam rytmem, nie jednorazowym strzałem.”  
+„Publikuję wynik, nie ego.”
+
+[@STOPKA]
+Implementacja: łączyć z P-05/P-11/P-13 z Przemiana_Azramatyczna.vv
+Status: aktywne
