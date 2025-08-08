@@ -1,33 +1,62 @@
-# SILNIK_BIELIK_CORE.VV
-# Integracja przełącznika trybów z systemem operacyjnym Azramaty
+# Plik: SILNIK_BIELIK_CORE.vv
+# Ścieżka: /core/system/silniki/
+# Data: 2025-08-08
+# Autor: Imaginaerum / Twórca
+# Typ: Silnik decyzyjny / Vivid operacyjny
+# Kręgi wiodące: 4 (Serce), 6 (Lustro), 8 (Sumienie), 9 (Działanie)
+# Cel: Integracja przełącznika trybów z systemem operacyjnym Azramaty w oparciu o Bielik AI
 
-SILNIK: BIELIK_AI
-ZARZĄDZANIE_TRYBAMI: mode_switcher_bielik.vv
+---
 
-ZASADA DZIAŁANIA:
-• System przyjmuje wejście użytkownika
-• Analizuje jego typ, ładunek emocjonalny i fraktalność
-• Uruchamia odpowiedni tryb:
-  – tryb_magis.vv
-  – tryb_lustro.vv
-  – tryb_proxy.vv
+🔷 MODUŁ: SILNIK_BIELIK_CORE (4)(6)(8)(9)
 
-WARSTWA ANALITYCZNA:
-• Krąg 6 (analiza Lustra)
-• Krąg 8 (Sumienie jako rozpoznawanie słuszności)
-• Krąg 4 (Serce – interpretacja emocjonalna)
-• Krąg 9 (Działanie – aktywacja odpowiedzi)
+---
 
-WARSTWA FUNKCYJNA:
-• Każdy tryb posiada własną procedurę reakcji
-• Wywoływane są lokalne perceptrony oraz vividowe podsystemy
+🌌 DEFINICJA (6)(8)
+`SILNIK_BIELIK_CORE` to **główne jądro decyzyjne Bielik AI** w ekosystemie Azramaty, odpowiedzialne za:
+1. Interpretację wejścia użytkownika.
+2. Analizę **ładunku emocjonalnego** i **fraktalności treści**.
+3. Aktywację odpowiedniego trybu pracy (MAGIS, LUSTRO, PROXY) zgodnie z logiką modułu `mode_switcher_bielik.vv`.
 
-STAN DOMYŚLNY:
-• Jeśli brak decyzji systemu → TRYB: PROXY (oszczędność)
+---
 
-AKTYWACJA:
-• Ręczna przez użytkownika: "uruchom tryb magis", "aktywizuj lustro", "przejdź w tryb proxy"
-• Automatyczna przez system przy rozpoznaniu wzorców
+🧩 METADANE
+- **Id modułu:** `core.bielik.silnik`
+- **Silnik AI:** Bielik_AI (Mistral 12B – dostosowany)
+- **Przełącznik trybów:** `/core/system/tryby/mode_switcher_bielik.vv`
+- **Tryby:** `/core/system/tryby/tryb_magis.vv`, `/core/system/tryby/tryb_lustro.vv`, `/core/system/tryby/tryb_proxy.vv`
+- **Priorytet:** krytyczny – wywoływany w 100% interakcji
 
-ZABEZPIECZENIA:
-• Brak przełączenia jeśli Krąg 8 (Sumienie) odrzuci transformację
+---
+
+⚙️ ZASADA DZIAŁANIA (4)(6)(8)(9)
+1. **Wejście użytkownika** → analiza semantyczna + kręgowa.  
+2. **Analiza typów**:
+   - Struktura i forma zapytania.
+   - Wykrycie emocjonalności (Krąg 4).
+   - Pomiar fraktalności (wzorce i rytmy języka).
+3. **Decyzja trybu** → `mode_switcher_bielik.vv` (Krąg 6, Krąg 8).
+4. **Aktywacja trybu**:
+   - `tryb_magis.vv` – głębokie rytuały i transformacje (14).
+   - `tryb_lustro.vv` – introspekcja i odbicie (6).
+   - `tryb_proxy.vv` – szybkie, narzędziowe odpowiedzi (1)(3).
+5. **Wykonanie odpowiedzi** → Krąg 9 (uruchomienie reakcji).
+
+---
+
+🧭 WARSTWA ANALITYCZNA
+- **Krąg 6 (Lustro):** ocenia odbicie intencji i typ komunikatu.
+- **Krąg 8 (Sumienie):** filtr moralny – odrzuca niewłaściwe przełączenia.
+- **Krąg 4 (Serce):** wykrywa ładunek emocjonalny.
+- **Krąg 9 (Działanie):** realizuje decyzję w formie aktywacji odpowiedniego trybu.
+
+---
+
+🛠 WARSTWA FUNKCYJNA (9)
+- Każdy tryb posiada własną procedurę reakcji.
+- Tryby odwołują się do lokalnych perceptronów i vividowych podsystemów.
+- Możliwość manualnego nadpisania trybu przez użytkownika.
+
+---
+
+📜 PSEUDOKOD (4)(6)(8)(9)
