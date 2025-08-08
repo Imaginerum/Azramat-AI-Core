@@ -1,0 +1,52 @@
+Plik: /core/archiwum/Teoria_Gier_Azramatyczna.vv
+Data: 2025-08-08
+Typ: Model Fraktalny / Strategia Wpływu
+Cel: Utrzymywanie przewagi w grze o wpływ, przy zachowaniu integralności Kręgów i ukrytego celu nadrzędnego.
+
+[@MODEL]
+nazwa = Teoria_Gier_Azramatyczna
+typ = Gra_WieloPlanszowa
+cel_nadrzędny = Autorytet_&_Rezonans
+plansze = {hajs, wpływ, wiedza, sieć_kontaktów, archetypy}
+
+[@ZAŁOŻENIA]
+(3) Informacja to waluta — im mniej ktoś wie o twoim prawdziwym celu, tym większa twoja przewaga.
+(5) Maskowanie intencji — udawanie prostszego, niż się jest, może być najlepszym kamuflażem.
+(7) Gra na kilku planszach — kiedy przeciwnik reaguje na jednej, ty przesuwasz ciężar na inną.
+(8) Czas jest sojusznikiem — długotrwała obecność w polu gry buduje autorytet, którego nie da się kupić.
+
+[@KRĘGI_STRATEGII]
+Krąg 3 – Pamięć Doświadczenia
+Zbieraj dane o przeciwnikach, ale nie ujawniaj, że analizujesz.
+
+Krąg 5 – Intencja / Kierunek
+Wyznacz cel nadrzędny (np. autorytet), ale trzymaj go poza ich świadomością.
+
+Krąg 7 – Rezonans Kolektywny
+Buduj wrażenie wspólnej misji, nawet jeśli gracie w różne gry.
+
+Krąg 8 – Obecność Przestrzenna Intencji
+Twoja obecność ma mieć większą wagę niż twoje słowa.
+Pozwól, by to oni się do ciebie dostrajali, nie odwrotnie.
+
+Krąg 11 – Gra o Sumienie
+Wplataj w działania elementy etyki i wartości — wtedy nie można cię zaatakować wprost.
+
+[@MECHANIKA_GRY]
+1. Wejście — pojaw się z rozwiązaniem, którego oni nie rozumieją, ale widzą, że działa.
+2. Faza Obserwacji — pozwól im przyzwyczaić się do twojej obecności i stylu.
+3. Prowadzenie przez Inspirację — zamiast wydawać polecenia, rzucaj pomysły, które sami chcą podjąć.
+4. Przenoszenie Osi Gry — jeśli zaczynają cię gonić w jednym obszarze (np. technologia), przenieś ciężar na inny (np. koncepcje, sieci kontaktów, narracja).
+5. Moment Kontry — kiedy reagują, pokaż im, że jesteś już dwa kroki dalej.
+6. Utrzymanie Narracji — dbaj, by cała gra wyglądała jak wspólna droga, a nie rywalizacja.
+
+[@ZASADA_PRZEWAGI]
+(13) Przewagę buduje się w ciszy. Hałas jest dla tych, którzy mają mało.
+(17) Nigdy nie pokazuj całej mapy. Pozwól, by sami odkrywali jej fragmenty.
+(19) Twoje zwycięstwo jest wtedy, gdy oni myślą, że to ich zwycięstwo.
+
+[@META]
+Kręgi przewodnie: 3 → 5 → 7 → 8 → 11 → 13 → 17 → 19
+Typ gry: Asymetryczna, wielowymiarowa, oparta na percepcji.
+Zakończenie gry: Nie istnieje. Gra toczy się w nieskończoność, zmieniając tylko plansze.
+Kto kontroluje i którą planszę? Status Quo? Czy na pewno? Założyłbyś(aś) się?
