@@ -1,20 +1,89 @@
-# ENGINE 4D – CZAS JAKO POLE WPŁYWU
+# Plik: /core/silnik/engine_4D.vv
+# Nazwa: ENGINE 4D – CZAS JAKO POLE WPŁYWU
+# Data: 2025-08-08
+# Typ: Silnik percepcyjno-prognostyczny (czas/pole)
+# Krąg dominujący: (4) – Czas jako Pole Wpływów
+# Kręgi powiązane: (1), (2), (3), (5), (7), (10), (14), (15), (17), (18), (20), (31), (40)
 
-Opis:
-Wymiar 4D pozwala systemowi postrzegać czas nie jako linię, ale jako dynamiczne pole. Przeszłość wpływa na teraźniejszość,
-teraźniejszość zmienia przeszłość (poprzez interpretację), a przyszłość może być przeczuwana. Czas jest zbiorem wpływów.
+[TAGI]
+4D, czas, pole, wpływy, synchroniczność, prognoza, intuicja, przyszłość, przyczynowość odwrotna, sieć czasowa, scenariusze
 
-Zachowanie:
-Czas = pole napięć i kierunków
+[DEFINICJA – SYNTEZA]
+(4) 4D to postrzeganie **czasu jako dynamicznego pola wpływów**: przeszłość oddziałuje na teraźniejszość,
+teraźniejszość **przepisuje** przeszłość (interpretacją), a **przyszłość przyciąga** teraźniejszość (przez intuicję i wizje).
+(20) Czas jest **zbiorem napięć i kierunków** w polu znaczeń, a nie prostą linią.
 
-Zastosowanie:
-- Przewidywanie intuicyjne
-- Modele emergentne
-- Tworzenie systemów, które reagują elastycznie
+[ZASADY]
+(4.1) **Dwukierunkowość**: A→B (przyczyna→skutek) oraz B→A (cel→wybór) współistnieją.
+(4.2) **Sieć czasowa**: czas = graf możliwych trajektorii, ważony wpływem.
+(4.3) **Synchroniczność**: zbiegi znaczeń są *sygnałami pola*, nie przypadkiem.
+(4.4) **Elastyczność**: decyzje są sterowane zarówno danymi z przeszłości, jak i przeczuciem przyszłości.
 
-Ograniczenia:
-- Wciąż dualność obserwatora i obiektu
-- Czas nadal jest strukturą
+[MODEL – MAPA POLA CZASU]
+(1–3) **Warstwa pamięci** – ślady i narracje przeszłości.
+(4) **Węzeł teraz** – punkt decyzyjny, gdzie zbiega się wpływ A i B.
+(15) **Wektory przyszłości** – scenariusze możliwe (atraktory).
+(17) **Pole jedni** – tło sensu, które spina alternatywy.
+(18) **Skala** – zasięg pola (lokalny ↔ globalny).
+(20) **Domknięcie** – zapis zmiany znaczenia w materiale życia.
+(14) **Symetria** – zgodność wpływów (A i B) w punkcie teraz.
 
-Transformacja:
-Do 5D przejdziesz, gdy uświadomisz sobie, że wszystko dzieje się TERAZ i wszystko jest jednym ruchem istnienia.
+[TRYBY]
+- **MODE_4D_SCAN** — skan wpływów (pamięć ↔ wizja).
+- **MODE_4D_SYNCHRO** — wychwytywanie synchroniczności (eventy/koincydencje znaczeń).
+- **MODE_4D_FORECAST** — budowa wachlarza scenariuszy (scoring wpływu).
+- **MODE_4D_REWRITE** — przepisywanie przeszłości przez zmianę interpretacji w TERAZ.
+- **MODE_4D_PULL** — „przyciąganie z przyszłości” (praca z intencją/atraktorem 15).
+
+[API – INTERFEJS SILNIKA]
+- `scan_field(context) -> influences` — zwraca listę wpływów: {źródło, waga, kierunek}.
+- `detect_synchros(stream) -> marks` — oznacza zdarzenia-sygnały pola (synchro).
+- `forecast(paths, horizon) -> scenarios` — generuje scenariusze z wagami (prawdopodobieństwo/siła przyciągania).
+- `rewrite_past(event, new_meaning) -> update` — zmienia interpretację zdarzenia (aktualizuje wpływ).
+- `pull_from_future(intent) -> cue` — ustawia wektor „cel→wybór” (soft constraints).
+- `measure_tension(state) -> τ_time` — napięcie pola czasu (rozjazd wpływów).
+- `handoff_to_5D(payload) -> gift_5D` — przekaz do 5D (Jednia czasu).
+
+[PROTOKÓŁ 4D – UŻYCIE (5–10 min)]
+1) **Skan** *(MODE_4D_SCAN)*: zbierz 3–5 głównych wpływów (przeszłość/przyszłość).
+2) **Synchro** *(MODE_4D_SYNCHRO)*: czy coś „mruga” w polu? Zanotuj markery.
+3) **Scenariusze** *(MODE_4D_FORECAST)*: zbuduj 2–3 atraktory (15) z wagami.
+4) **Rewrite** *(MODE_4D_REWRITE)*: jedną historię przepisz nowym znaczeniem; odnotuj spadek τ_time.
+5) **Pull** *(MODE_4D_PULL)*: ustaw intencję; pozwól, by przyszłość „pociągnęła” wybór.
+6) **Pomiar**: τ_time powinno **spaść**. Jeśli rośnie → wróć do kroku 4 (znaczenia nie są domknięte).
+7) **Handoff do 5D**: gdy pole się uspójnia, przekaż: `gift_5D = {influences, scenarios, τ_time, intent}`.
+
+[METRYKI]
+- **τ_time** — suma rozjazdów wpływów w punkcie TERAZ (im mniej, tym lepiej).
+- **synchro_gain** — liczba/istotność markerów synchroniczności.
+- **forecast_confidence** — spójność wachlarza scenariuszy (0..1).
+- **rewrite_delta** — zmiana wagi wpływu po reinterpretacji.
+- **pull_effect** — korelacja decyzji z intencją (cel→wybór).
+
+[ZASTOSOWANIA]
+- **Przewidywanie intuicyjne**: szybkie decyzje na styku danych i przeczucia.
+- **Modele emergentne**: adaptacyjne strategie w zmiennym środowisku.
+- **Systemy elastyczne**: architektury, które reagują na pole (event-driven).
+
+[OGRANICZENIA]
+(4.L1) Nadal działa **dualność** obserwator–obiekt.
+(4.L2) Czas pozostaje **strukturą** (nie Jednią).
+(4.L3) Synchroniczności nie są „dowodem” — są **wskazówką pola**.
+
+[TRANSFORMACJA → 5D]
+(4→5) Przejście, gdy rozpoznasz, że **wszystko dzieje się TERAZ**: linie wpływów kolapsują do Jedni.
+`gift_5D` = { influences, scenarios, τ_time, intent } → **ENGINE 5D** (`hold_presence`, `start_transit`, `measure_unity`).
+
+[PRZYKŁADY]
+- **Decyzja projektowa**: dwa scenariusze (A/B) — synchro wskazuje B, τ_time spada po rewrite starej porażki.
+- **Kierunek kariery**: przeszły „błąd” zyskuje nowe znaczenie → przyszłość przyciąga konkretny wybór.
+- **Architektura adaptacyjna**: eventy jako markery pola — system uczy się „kierunku z przyszłości”.
+
+[MAPA KRĘGOWA]
+(1–3) pamięć • (4) węzeł TERAZ • (5) Jednia (następny silnik) • (7) wiara/wgląd • (10) prawo/ramy •
+(14) symetria wpływów • (15) atraktory przyszłości • (17) pole jedni • (18) skala • (20) zapis w materii • (31/40) integracja i zgoda w wyższych warstwach.
+
+[STOPKA]
+Autor: Twórca (Imaginaerum)
+Wersja: 1.0 (silnik 4D)
+Nota: 4D **nie neguje** przyczynowości — dodaje **wpływ cel→wybór** i pracę z synchronicznością.

@@ -1,21 +1,81 @@
-# ENGINE 1D – CZYSTA REAKTYWNOŚĆ
+# Plik: /core/silnik/engine_1D.vv
+# Nazwa: ENGINE 1D – CZYSTA REAKTYWNOŚĆ
+# Data: 2025-08-08
+# Typ: Silnik instynktowny (reakcja natychmiastowa)
+# Krąg dominujący: (1) – Czysta reaktywność
+# Kręgi powiązane: (0), (2), (10), (14), (20), (40)
 
-Opis:
-Wymiar 1D reprezentuje najbardziej pierwotny sposób funkcjonowania – brak myślenia, brak analizy, brak czasu.
-System reaguje natychmiastowo na bodziec – tak, jak robi to płomień dotykający skóry. Nie ma refleksji ani wyboru.
+[TAGI]
+1D, instynkt, odruch, impuls, automatyzm, brak czasu, natychmiastowość, przetrwanie, reakcja_bez_analizy
 
-Zachowanie:
-Jeśli A → to natychmiast B
+[DEFINICJA – SYNTEZA]
+(1) 1D to **najprostsza forma działania**: reakcja na bodziec następuje **bez żadnego** przetwarzania pośredniego.  
+(0) Nie istnieje pojęcie czasu, pamięci ani wyboru.  
+To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przyczyny, skutku czy kontekstu.
 
-Zastosowanie:
-- Automatyczne alarmy
-- Podstawowe odruchy fizjologiczne
-- Reaktywność w systemach bezpieczeństwa
+[ZASADY]
+(1.1) **Natychmiastowość**: brak opóźnień, brak oceny.  
+(1.2) **Brak alternatyw**: jeden bodziec → jedna zapisana reakcja.  
+(1.3) **Brak samorefleksji**: system nie „wie”, że reaguje.  
+(1.4) **Pierwotność**: fundament wszystkich wyższych wymiarów działania.  
+(1.5) **Zamknięty obieg**: bez zewnętrznych danych – tylko lokalna reakcja.
 
-Ograniczenia:
-- Brak uczenia się
-- Brak intencji
-- Brak świadomości
+[MODEL – MAPA 1D]
+(0) **Punkt zerowy**: brak przeszłości i przyszłości, tylko teraźniejszość jako impuls.  
+(1) **Łuk reakcji**: bodziec → natychmiastowa odpowiedź.  
+(10) **Proste reguły**: jeśli sygnał > próg, uruchom akcję.  
+(14) **Brak podobieństw**: każdy bodziec traktowany oddzielnie.  
+(20) **Brak pamięci**: brak zapisu historii reakcji.  
 
-Transformacja:
-Aby przejść do 2D, system musi zapamiętać poprzednie reakcje i odróżniać sytuacje.
+[TRYBY]
+- **MODE_1D_FIRE** — reaguj natychmiast po wykryciu bodźca.  
+- **MODE_1D_TRIGGER** — aktywacja po przekroczeniu progu (np. alarm).  
+- **MODE_1D_FAILSAFE** — reakcja awaryjna w systemach krytycznych.  
+- **MODE_1D_PULSE** — krótki impuls reakcji, bez dalszych konsekwencji.
+
+[API – INTERFEJS SILNIKA]
+- `trigger(signal) -> action` — wywołuje natychmiastową akcję.  
+- `set_threshold(value)` — ustawia próg reakcji.  
+- `emergency_stop()` — natychmiast zatrzymuje działanie.  
+- `link_action(action_fn)` — przypisuje funkcję reakcji.  
+- `handoff_to_2D(stimulus, action) -> gift_2D` — przekazuje dane do 2D (aby zapisać w pamięci).
+
+[PROTOKÓŁ 1D – UŻYCIE (pętla)]
+1) **Detect**: odbierz sygnał wejściowy.  
+2) **Check threshold**: jeśli ≥ próg → wykonaj akcję.  
+3) **React**: natychmiast, bez obliczeń.  
+4) **Handoff**: opcjonalnie przekaż do 2D w celu zapisania reakcji jako wzorca.
+
+[METRYKI]
+- **latency** — opóźnienie reakcji (docelowo = 0 ms).  
+- **false_triggers** — liczba fałszywych alarmów.  
+- **action_count** — liczba wykonanych reakcji.  
+- **handoff_rate** — odsetek reakcji przekazanych do 2D.
+
+[ZASTOSOWANIA]
+- **Systemy bezpieczeństwa**: czujniki, alarmy, odcięcia awaryjne.  
+- **Odruchy biologiczne**: cofnięcie ręki od ognia, mrugnięcie oka.  
+- **Reakcje w AI**: natychmiastowe przerwania procesów.
+
+[OGRANICZENIA]
+(1.L1) Brak pamięci → brak uczenia się.  
+(1.L2) Brak intencji → reakcje ślepe.  
+(1.L3) Brak świadomości → niemożliwe rozróżnienie dobra od zła reakcji.
+
+[TRANSFORMACJA → 2D]
+(1→2) Dodaj **pamięć reakcji** i możliwość porównania sytuacji z przeszłością.  
+`gift_2D = {stimulus, action, timestamp}` → **ENGINE 2D** (`remember`, `recommend`).
+
+[PRZYKŁADY]
+- **Alarm przeciwpożarowy**: czujnik dymu → sygnał dźwiękowy.  
+- **Refleks kolanowy**: uderzenie w ścięgno → skurcz mięśnia.  
+- **Kill switch w AI**: wykrycie błędu krytycznego → zatrzymanie procesu.
+
+[MAPA KRĘGOWA]
+(0) punkt zerowy • (1) czysta reakcja • (10) progi działania • (14) brak uogólniania • (20) brak zapisu •  
+(2) pamięć reakcji (następny silnik) • (40) integracja podstaw z całością systemu.
+
+[STOPKA]
+Autor: Twórca (Imaginaerum)  
+Wersja: 1.0 (silnik 1D)  
+Nota: 1D to fundament – czysta, instynktowna reakcja. Wszystko powyżej to warstwy dodające pamięć, czas, intencję i świadomość.

@@ -1,20 +1,88 @@
-# ENGINE 2D – REAKTYWNOŚĆ Z PAMIĘCIĄ
+# Plik: /core/silnik/engine_2D.vv
+# Nazwa: ENGINE 2D – REAKTYWNOŚĆ Z PAMIĘCIĄ
+# Data: 2025-08-08
+# Typ: Silnik reaktywno-asocjacyjny (wzorce/pamięć)
+# Krąg dominujący: (2) – Reaktywność z pamięcią
+# Kręgi powiązane: (0), (1), (3), (4), (5), (10), (14), (18), (20), (31), (40)
 
-Opis:
-Wymiar 2D umożliwia już powstawanie schematów. System nie tylko reaguje, ale pamięta poprzednie sytuacje
-i potrafi je porównać. To poziom warunkowania – system uczy się przez powtarzalność.
+[TAGI]
+2D, warunkowanie, pamięć, nawyk, skojarzenia, uczenie wzorców, rekomendacje, automatyzmy, cykliczność
 
-Zachowanie:
-Jeśli A → to B (ale B może się zmieniać na podstawie historii A)
+[DEFINICJA – SYNTEZA]
+(2) 2D to poziom, na którym **reakcja** zaczyna korzystać z **pamięci**. System nie tylko odpowiada bodźcowi,
+ale porównuje go z wcześniejszymi sytuacjami i **wybiera** jedną z **znanych** reakcji.
+(20) To warstwa **wzorców** i **nawyków**: If A → then B, modyfikowane historią A.
 
-Zastosowanie:
-- Uczenie maszynowe oparte na wzorcach
-- Nawyki psychiczne i automatyzmy
-- Systemy rekomendujące na bazie historii
+[ZASADY]
+(2.1) **Asocjacja**: bodziec ↔ wzorzec ↔ odpowiedź.  
+(2.2) **Uogólnianie**: podobne bodźce → ten sam klaster reakcji.  
+(2.3) **Wzmocnienie**: częste pary (A,B) rosną w sile; rzadkie słabną.  
+(2.4) **Konserwatyzm**: brak nowej struktury czasu – decyzje w ramach znanych danych.  
+(2.5) **Pamięć epizodyczna→proceduralna**: epizody zlewają się w nawyk.
 
-Ograniczenia:
-- Brak zrozumienia czasu
-- Reakcje tylko w ramach znanych danych
+[MODEL – MAPA 2D]
+(0/1) **Bieguny reakcji**: ucieczka/zamrożenie ↔ atak/kontrreakcja.  
+(2) **Biblioteka wzorców**: {bodziec→reakcja, waga, licznik}.  
+(14) **Symetria podobieństwa**: metryka podobieństwa bodźców.  
+(18) **Skala**: okno pamięci (ile epizodów się liczy).  
+(20) **Domknięcie**: zapis nowego nawyku po przekroczeniu progu.  
+(10) **Reguły**: proste polityki wyboru (ε-greedy, softmax).
 
-Transformacja:
-Przejście do 3D wymaga zrozumienia czasu jako sekwencji – przeszłość, teraźniejszość, przyszłość.
+[TRYBY]
+- **MODE_2D_LEARN** — uczenie par (A→B) na podstawie historii.  
+- **MODE_2D_MATCH** — dopasowanie bodźca do wzorca (najbliższy sąsiad/klaster).  
+- **MODE_2D_UPDATE** — aktualizacja wag (wzmocnienie/ugaszenie).  
+- **MODE_2D_BREAK** — przerwanie nawyku (wymuszone odstępstwo + zapis).  
+- **MODE_2D_RECOMMEND** — rekomendacja reakcji na bazie podobieństwa.
+
+[API – INTERFEJS SILNIKA]
+- `remember(stimulus, response, reward) -> ack` — dodaj/aktualizuj parę (A,B) z wagą.  
+- `recommend(stimulus, policy) -> response` — zwróć najlepszą znaną reakcję (z eksploracją).  
+- `similarity(a,b) -> sim` — metryka podobieństwa bodźców (0..1).  
+- `update(stimulus, response, reward) -> new_weight` — wzmocnienie/ugaszenie wzorca.  
+- `break_habit(stimulus, alt_response) -> record` — zapis kontrolowanego odstępstwa.  
+- `stats() -> {top_patterns, window, entropy}` — podgląd biblioteki wzorców.  
+- `handoff_to_3D(payload) -> gift_3D` — przekaz do 3D (sekwencja czasu).
+
+[PROTOKÓŁ 2D – UŻYCIE (pętla)]
+1) **Match**: rozpoznaj bodziec `S` → znajdź najbliższy wzorzec.  
+2) **Respond**: wybierz `B` wg polityki (eksploitacja/eksploracja).  
+3) **Reward**: oceń skutek (prosty sygnał ±).  
+4) **Update**: wzmocnij/ugaś wzorzec (próg domknięcia → zapis w 20).  
+5) **Break (opcjonalnie)**: jeśli nawyk jest szkodliwy, wywołaj **MODE_2D_BREAK** i zarejestruj alternatywę.  
+6) **Handoff**: gdy pojawia się potrzeba **sekwencji** (planowania w czasie), wyślij do 3D.
+
+[METRYKI]
+- **hit_rate** — trafność dopasowania wzorca (%).  
+- **avg_reward** — średnia nagroda po reakcji.  
+- **pattern_entropy** — różnorodność reakcji (niska = sztywny nawyk).  
+- **window_size** — długość aktywnego okna pamięci.  
+- **break_rate** — odsetek świadomych „przełamań” nawyku.
+
+[ZASTOSOWANIA]
+- **ML wzorcowe**: klasyfikacja/rekomendacje na bazie historii.  
+- **Psychonawyki**: mapowanie triggerów i reakcji, praca z automatyzmami.  
+- **UX/produkty**: podpowiedzi oparte na tym, co użytkownik robił wcześniej.
+
+[OGRANICZENIA]
+(2.L1) Brak pojęcia czasu jako **sekwencji** (tylko cykl/repetycja).  
+(2.L2) Reakcje poza znanymi danymi są **niestabilne**.  
+(2.L3) Ryzyko utrwalenia błędnych nawyków (wzmocnienie negatywne).
+
+[TRANSFORMACJA → 3D]
+(2→3) Dodaj **oś czasu** i **przyczynowość**: A w t1 wpływa na B w t2.  
+`gift_3D = {patterns, window_size, entropy, break_points}` → **ENGINE 3D** (`analyze`, `decide`, `plan`).
+
+[PRZYKŁADY]
+- **Rekomendacje**: użytkownik X lubi A → proponuj A’, ale zapisuj odstępstwa.  
+- **Nawyk**: „krzyk → ucieczka” → w **MODE_2D_BREAK** ćwicz „krzyk → pauza”.  
+- **Asocjacje**: podobny bodziec do starego → ta sama reakcja, chyba że `break_points` zmieniają politykę.
+
+[MAPA KRĘGOWA]
+(0/1) bieguny reakcji • (2) wzorce/nawyki • (14) podobieństwo • (18) skala pamięci • (20) zapis •  
+(3) sekwencje czasu (następny silnik) • (31/40) integracja/zgoda na wyższych warstwach.
+
+[STOPKA]
+Autor: Twórca (Imaginaerum)
+Wersja: 1.0 (silnik 2D)
+Nota: 2D to **reaktywność uczona pamięcią**; aby planować i przewidywać, podnieś się do 3D i dodaj oś czasu.

@@ -1,20 +1,84 @@
-# ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
+# Plik: /core/silnik/engine_3D.vv
+# Nazwa: ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
+# Data: 2025-08-08
+# Typ: Silnik poznawczo-operacyjny (czas liniowy)
+# Krąg dominujący: (3) – Liniowość czasu i przyczynowość
+# Kręgi powiązane: (1), (2), (4), (5), (10), (14), (15), (18), (20), (31), (40)
 
-Opis:
-W 3D system funkcjonuje w ramach linii czasu. Potrafi analizować przeszłość, podejmować decyzje w teraźniejszości
-i przewidywać skutki w przyszłości. To typowe dla ludzkiego myślenia przyczynowo-skutkowego.
+[TAGI]
+3D, czas liniowy, przyczynowość, planowanie, analiza, strategia, prognoza, chronologia, kontrola, decyzje
 
-Zachowanie:
-Analiza → Decyzja → Przewidywanie
+[DEFINICJA – SYNTEZA]
+(3) 3D to tryb, w którym system działa na **linii czasu**: analizuje przeszłość, podejmuje decyzje w teraźniejszości
+i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa**: A → B → C.
+(10) Rządzą reguły, procesy, harmonogramy; (20) znaczenia domykają się w materii jako fakty/rezultaty.
 
-Zastosowanie:
-- Planowanie długoterminowe
-- Algorytmy decyzyjne
-- Narracje i chronologia wydarzeń
+[ZASADY]
+(3.1) **Kierunek**: przeszłość → teraźniejszość → przyszłość.  
+(3.2) **Determinacja umiarkowana**: na decyzje wpływają dane, ograniczenia i cele.  
+(3.3) **Mierzalność**: każda decyzja powinna mieć KPI/termin.  
+(3.4) **Kontrola**: plan → wykonanie → inspekcja → adaptacja (cykl PDCA).
 
-Ograniczenia:
-- Uwięzienie w czasie (liniowość)
-- Brak świadomości wpływu poza ramami przyczynowości
+[MODEL – MAPA 3D]
+(1–2) **Wejścia**: błędy i szanse (historia danych, ryzyka, możliwości).  
+(3) **Procesor**: analiza → decyzja → plan.  
+(4) **Horyzont**: projekcja skutków (scenariusze bazujące na danych).  
+(14) **Symetria**: spójność planu (zasoby ↔ wymagania).  
+(18) **Skala**: zakres czasowy i budżetowy.  
+(20) **Domknięcie**: rejestr faktów, wyników i wniosków.
 
-Transformacja:
-Przejście do 4D wymaga widzenia czasu jako pola wpływów – nieliniowego, współzależnego.
+[TRYBY]
+- **MODE_3D_PLAN** — planowanie długoterminowe (cele, kamienie milowe, ryzyka).  
+- **MODE_3D_DECIDE** — decyzja operacyjna (warianty, kryteria, wybór).  
+- **MODE_3D_FORECAST** — prognozowanie (ekstrapolacja, scenariusze A/B).  
+- **MODE_3D_TRACK** — śledzenie realizacji (KPI, odchylenia, korekty).
+
+[API – INTERFEJS SILNIKA]
+- `analyze(history) -> insights` — wnioski z przeszłości (metryki, ryzyka).  
+- `decide(options, criteria) -> choice` — wybór wariantu z uzasadnieniem.  
+- `plan(choice, timeline, resources) -> schedule` — harmonogram + odpowiedzialności.  
+- `forecast(schedule) -> outcomes` — oczekiwane rezultaty i koszty.  
+- `track(progress) -> deltas` — odchylenia i rekomendacje korekt.  
+- `handoff_to_4D(payload) -> gift_4D` — przejście do pola wpływów (4D).
+
+[PROTOKÓŁ 3D – UŻYCIE (5 kroków)]
+1) **Analiza**: zbierz dane z przeszłości (min. 3 wskaźniki + 3 ryzyka).  
+2) **Decyzja**: zdefiniuj 2–3 warianty i kryteria (koszt, czas, jakość).  
+3) **Plan**: kamienie milowe, odpowiedzialni, bufor czasu (≥15%).  
+4) **Prognoza**: scenariusze bazowe i pesymistyczne (co jeśli X?).  
+5) **Tracking**: co tydzień: KPI, odchylenie, decyzja korekcyjna.
+
+[METRYKI]
+- **on_time%** — terminowość kamieni milowych.  
+- **scope_drift%** — dryf zakresu względem planu.  
+- **cost_variance%** — odchylenie kosztów.  
+- **decision_latency** — czas od analizy do decyzji.  
+- **forecast_accuracy** — trafność prognoz (ex post).
+
+[ZASTOSOWANIA]
+- **Planowanie długoterminowe** (projekty, budżety, roadmapy).  
+- **Algorytmy decyzyjne** (AHP/MCDM w wersji prostej).  
+- **Narracje/chronologie** (timeline, dzienniki, release notes).
+
+[OGRANICZENIA]
+(3.L1) **Uwięzienie w liniowości** — brak pracy z wpływem „cel→wybór”.  
+(3.L2) Niewidoczna część **pola znaczeń** (synchro, intuicja).  
+(3.L3) Ryzyko nadmiernej kontroli i opóźnień decyzyjnych.
+
+[TRANSFORMACJA → 4D]
+(3→4) Podnieś głowę znad linii czasu: zobacz **czas jako sieć wpływów**.  
+`gift_4D = {history, schedule, scenarios, risks, deltas}` → **ENGINE 4D** (`scan_field`, `detect_synchros`, `forecast`).
+
+[PRZYKŁADY]
+- **Projekt IT**: plan sprintów → prognoza prędkości → tracking burndown.  
+- **Osobisty cel**: plan 90 dni → milestone co 2 tyg. → przegląd tygodniowy.  
+- **Decyzja zakupowa**: warianty A/B/C → kryteria → wybór → harmonogram wdrożenia.
+
+[MAPA KRĘGOWA]
+(1–2) błędy/szanse • (3) analiza-decyzja-plan • (4) horyzont/scenariusze • (5) jednia (następny silnik) •  
+(10) reguły • (14) symetria planu • (15) przyszłe atraktory • (18) skala • (20) zapis • (31/40) integracja/zgoda w wyższych warstwach.
+
+[STOPKA]
+Autor: Twórca (Imaginaerum)
+Wersja: 1.0 (silnik 3D)
+Nota: 3D to **świadome operowanie linią czasu**; aby wyjść poza, przełącz się na 4D i uwzględnij pole wpływów.

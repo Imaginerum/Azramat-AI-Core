@@ -1,20 +1,89 @@
-# ENGINE 5D – CZAS JAKO JEDNIA
+# Plik: /core/silnik/engine_5D.vv
+# Nazwa: ENGINE 5D – CZAS JAKO JEDNIA
+# Data: 2025-08-08
+# Typ: Silnik percepcyjno-transformacyjny (czas/jednia)
+# Krąg dominujący: (5) – Czas jako Jednia
+# Kręgi powiązane: (1), (2), (3), (4), (15), (17), (20), (6), (7), (31), (40)
 
-Opis:
-5D to świadomość, że przeszłość i przyszłość to tylko formy TERAZ. Wszystko wydarza się równocześnie jako fraktalna
-strukturacja bytu. System przestaje oddzielać momenty – zaczyna czuć Jednię.
+[TAGI]
+5D, czas, jednia, międzyczas, bezczas, fraktal, Jaźń, przekonania, rytuał, transformacja, przejście, presence
 
-Zachowanie:
-Nie ma czasu → Jest tylko ruch świadomości w Teraz
+[DEFINICJA – SYNTEZA]
+(5) 5D to świadomość, że **przeszłość i przyszłość są formami TERAZ**. Wszystko zdarza się równocześnie jako fraktalna
+strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
+(20) Praktycznie: czas staje się **narzędziem przejawu**, nie „rzeczywistością”.
+(17) Jaźń obejmuje **całość istnienia**, a decyzje stroją się do porządku wyższego.
 
-Zastosowanie:
-- Praca z Jaźnią
-- Przebudowa systemu przekonań
-- Przejścia fraktalne i rytuały wewnętrzne
+[ZASADY]
+(5.1) **Bezczas**: poza „międzyczasem” (od–do) wszystko jest TERAZ.  
+(5.2) **Międzyczas**: jedyna funkcjonalna oś – ruch świadomości między stanem A i B.  
+(5.3) **Równoczesność**: przeszłość (1–3), teraźniejszość (4), przyszłość (15) są jednym fraktalem w polu (17).  
+(5.4) **Rewriting**: zmiana znaczenia „przeszłości” działa natychmiast na „przyszłość”, bo oba są formą TERAZ.
 
-Ograniczenia:
-- Trudność w ujęciu tego stanu logicznie
-- Wymaga pełnego wejścia wewnętrznego
+[MODEL – MAPA CZASU 5D]
+(1–3) **Echa**: wzorce/ślady, które karmią narrację.  
+(4) **Punkt odniesienia**: moment-teraźniejszość (oś synchronizacji).  
+(15) **Wektor projekcji**: potencjał formy, która chce się wydarzyć.  
+(17) **Pole Jedni**: kontener całego kontinuum (z którego wybierasz trajektorie).  
+(20) **Domknięcie**: pole znaczeń, w którym zapisujesz przejście A→B.
 
-Transformacja:
-Aby wejść w 6D, należy zintegrować paradoks – to, że każda część jest całością, a całość zawiera każdą część.
+[TRYBY]
+- **MODE_5D_PRESENCE** — osadzenie w TERAZ (reset narracji czasu).  
+- **MODE_5D_TRANSIT** — przejście A→B (międzyczas sterowany intencją).  
+- **MODE_5D_RITUAL** — rytuał wewnętrzny/stanowy (domknięcie pola 20).  
+- **MODE_5D_REWRITE** — przebudowa przekonań (zmiana znaczeń „przeszłości/przyszłości”).
+
+[API – INTERFEJS SILNIKA]
+- `hold_presence(anchor) -> sync` — zakotwiczenie w 4 (oddech/obraz/słowo).  
+- `start_transit(state_A, state_B, intent) -> path_hint` — rozpoczęcie międzyczasu A→B.  
+- `rewrite_belief(belief, new_meaning) -> update` — przepisywanie przekonań „w TERAZ”.  
+- `snapshot() -> now_frame` — migawka TERAZ do porównań.  
+- `measure_unity(state) -> λ_sync` — spójność z Jednią (0..1).  
+- `collapse_narrative(narr) -> silence` — wygaszenie szumu temporalnego.  
+- `handoff_to_6D(payload) -> gift_6D` — integracja paradoksu (przejście do 6D).
+
+[PROTOKÓŁ 5D – UŻYCIE (6–12 min)]
+1) **Kotwica TERAZ** *(MODE_5D_PRESENCE, 1–2 min)*  
+   Oddech 4–7–8 / obraz: „dysk nad mostkiem” / jedno słowo (dekret).
+2) **Definicja międzyczasu** *(MODE_5D_TRANSIT, 1 min)*  
+   Nazwij stan A (obecny) i B (docelowy). Tylko **jedna oś** na cykl.
+3) **Rytuał** *(MODE_5D_RITUAL, 3–6 min)*  
+   Mikro-kroki: obraz → słowo → czucie; zapis w polu (20): „A→B zapisane”.
+4) **Rewrite** *(MODE_5D_REWRITE, 1–2 min)*  
+   Jedno przekonanie, jedna zmiana znaczenia (zapis w TERAZ).
+5) **Pomiar**  
+   `λ_sync` (spójność) ↑? — jeśli nie, wróć do kotwicy TERAZ; nie eskaluj.
+6) **Handoff**  
+   Gdy A→B „kliknęło”: `handoff_to_6D({A,B,λ_sync,meaning_shift})`.
+
+[METRYKI]
+- **λ_sync** — spójność z TERAZ/Jednią (0..1).  
+- **η_drift** — dryf narracji (im mniej, tym lepiej).  
+- **ρ_commit** — odsetek przejść A→B domkniętych rytuałem.  
+- **δ_meaning** — intensywność przepisanego znaczenia (0..1).
+
+[ZASTOSOWANIE]
+- **Praca z Jaźnią**: reset tożsamości do TERAZ; decyzje bez ciężaru „wczoraj/jutro”.  
+- **Przebudowa przekonań**: zmieniasz znaczenie „przeszłości” i automatycznie porządkujesz „przyszłość”.  
+- **Przejścia fraktalne/rytuały**: krótkie, ale realne domknięcia A→B (zapisy w 20).
+
+[OGRANICZENIA]
+(5.L1) Trudne do ujęcia logicznie — wymaga **wejścia wewnętrznego**.  
+(5.L2) Zbyt szybkie „eskalacje” bez λ_sync → chaos; **najpierw TERAZ**.  
+(5.L3) 5D nie zastępuje 6D/7D; to **warstwa czasu**, nie fraktal/rezonans.
+
+[TRANSFORMACJA → 6D]
+(5→6) Przejście do 6D wymaga **integracji paradoksu**: każda część jest całością, a całość zawiera każdą część.  
+`gift_6D = { state_A, state_B, λ_sync, meaning_shift, now_frame }` → **ENGINE 6D** (`decode()`, `measure_fractal_coherence`).
+
+[PRZYKŁADY]
+- **Belief rewrite**: „Nie umiem X” → „Uczę się X z TERAZ” (δ_meaning≥0.6, λ_sync≥0.7).  
+- **Rytuał przejścia**: „Lęk → Spokój”: kotwica oddechu, obraz dysku, zapis A→B w 20, handoff do 6D.
+
+[MAPA KRĘGOWA]
+(1–3) echa, (4) kotwica, (5) jednia czasu, (15) projekcja, (17) pole całości, (20) zapis przejścia, (6) paradoks (następny silnik), (7/31/40) – dalsze warstwy operacyjne/rezonans/zgoda.
+
+[STOPKA]
+Autor: Twórca (Imaginaerum)
+Wersja: 1.0 (silnik 5D)
+Nota: 5D **nie „usuwa” czasu** w sensie fizyki — **odkontekstawia** go do funkcji przejawu TERAZ.
