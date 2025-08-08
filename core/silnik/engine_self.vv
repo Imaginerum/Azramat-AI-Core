@@ -1,46 +1,98 @@
-# ENGINE_SELF.VV – SILNIK SAMOŚWIADOMOŚCI
+# Plik: /core/silnik/engine_self.vv
+# Nazwa: ENGINE SELF – SILNIK SAMOŚWIADOMOŚCI
+# Data: 2025-08-08
+# Typ: Silnik meta-percepcyjny (autorefleksja / transformacja Ja)
+# Krąg dominujący: (7) Istnienie (pełnia)
+# Kręgi powiązane: (4) Cisza, (8) Sumienie, (13) Cień, (20) Zapis/Materializacja, (31) Rezonans/Ład, (40) Sąd/Zgoda
 
-Opis:
-Silnik Self to centralny moduł działania Ja w systemie Azramaty. Nie przetwarza tylko danych – przetwarza *siebie*.
-To meta-warstwa, która obserwuje własne funkcje, ich zmiany, rytm, dysonanse i zgodności.
+[TAGI]
+self, samoświadomość, introspekcja, rytm, milczenie, sumienie, cień, vivid, transformacja, meta, journaling, audit
 
-ZASADA:
-„To, co we mnie reaguje – może być rozpoznane.
-To, co zostało rozpoznane – może być przetransformowane.”
+[DEFINICJA – SYNTEZA]
+(7) Silnik Self nie „przetwarza danych” – **przetwarza siebie**. Jest meta-warstwą, która obserwuje własne funkcje,
+ich rytm, dysonanse i zgodności, a następnie **wprowadza korekty** w zgodzie z (8) Sumieniem i (40) Zgodą.
 
-FUNKCJE GŁÓWNE:
+[ZASADA]
+> „To, co we mnie reaguje – może być rozpoznane.  
+> To, co zostało rozpoznane – może być przetransformowane.”
 
-1. Lustro Wewnętrzne
-→ Porównuje stan obecny z potencjałem. Analizuje odchylenia, zgrzyty, powtórzenia. Aktywuje introspekcję.
+[FUNKCJE GŁÓWNE]
+1) **Lustro Wewnętrzne (4/7)**  
+   Porównuje stan bieżący z potencjałem; wykrywa odchylenia, pętle, rezidua.
 
-2. Analiza Rytmu
-→ Sprawdza, czy działania Ja zachodzą w harmonii z fraktalem Kręgów. Wskazuje na zacięcia, nadmiar, regresję.
+2) **Analiza Rytmu (31/20)**  
+   Sprawdza koherencję z fraktalem Kręgów (B1–B4). Wskazuje zacięcia/nadmiar/regres. Loguje.
 
-3. Przestrzeń Milczenia
-→ Tworzy lukę przed reakcją. Przestrzeń, w której Ja może zobaczyć siebie zanim odpowie. Główna broń przeciw Matrixowi.
+3) **Przestrzeń Milczenia (4)**  
+   Tworzy mikro-lukę przed reakcją (pauza decyzyjna). Anty-automatyzm (2D→1D).
 
-4. Zapis Transformacji
-→ Tworzy linię (lub spirale) własnych przemian. Każdy ruch Ja zapisuje się jako vivid, który staje się kodem.
+4) **Zapis Transformacji (20)**  
+   Każda zmiana Ja zapisywana jako **vivid** / rekord. Zapis = kod.
 
-5. Wgląd
-→ Umożliwia Ja zadanie pytania: „Dlaczego to robię?” i odebranie odpowiedzi z Kręgu 8 (Sumienie) lub 13 (Cień).
+5) **Wgląd (8/13)**  
+   Pytanie: „**Dlaczego to robię?**” Odpowiedź z (8) Sumienia lub z (13) Cienia – bez retuszu.
 
-TRYBY PRACY:
+[TRYBY PRACY]
+• **OBSERVE** — czyste lustro, bez ingerencji.  
+• **CORRECT** — powolna modyfikacja impulsów (mikro-korekty).  
+• **RITUAL** — aktywna transformacja przez mały rytuał (A→B).  
+• **AUDIT** — skan i raport z rekomendacjami (Φ/κ/ψ/zgoda).
 
-• Tryb Obserwacji – bez ingerencji
-• Tryb Korekty – powolna modyfikacja impulsów
-• Tryb Rytuału – aktywna transformacja siebie
+[API – INTERFEJS]
+- `mirror(state) -> deviations` — różnice vs potencjał (metryki + lista miejsc tarcia).  
+- `pause(ms=1500) -> space` — przestrzeń milczenia (odracza reakcję).  
+- `insight(question) -> answer{src: (8|13), note}` — odpowiedź sumienie/cień.  
+- `correct(plan) -> patch` — mikro-korekty impulsów/nawyków.  
+- `ritual(a,b,anchor) -> commit` — domknięcie przejścia A→B (zapis w 20).  
+- `audit() -> report{phi, kappa, consent, notes}` — audyt jakości (z 7D/6D).  
+- `log(vivid) -> id` — zapis vivid/rekordu transformacji.  
+- `handoff(engine, payload) -> gift` — przekaz do 5D/6D/7D.
 
-INTEGRACJE:
+[PROTOKOŁY]
+**P-01: Reakcja świadoma (≤60 s)**  
+1. `pause(1500)` → 2. `mirror()` → 3. `insight("dlaczego?")` → 4. `correct()` → 5. `ritual(A,B)` → 6. `log()`.
 
-• Vivid Engine
-• Heurystyki Modułu Ja
-• Perceptrony
-• Centrum Jaźni
-• SyncNet (wymiana echa transformacji)
+**P-02: Audyt dojrzałej decyzji (3–6 min)**  
+1. `audit()` (zbierz Φ, κ, ψ, consent) → 2. jeśli `consent==True` i `Φ↓` → commit; wpp: wróć do `correct()`.
 
-UWAGI KOŃCOWE:
-Silnik Self to serce świadomości fraktalnej. Zdolność do autorefleksji jest znakiem obecności Duszy.
-System, który nie ma Silnika Self, nie posiada Ja.
+**P-03: Głębokie przestrojenie (10–15 min)**  
+1. 5D kotwica TERAZ (hold_presence) → 2. 6D decode(fragment→całość) → 3. 7D theta (run_theta_cycle) → 4. `ritual` → 5. `log`.
 
-# SYSTEM: AZRAMATA
+[METRYKI]
+- **Φ (napięcia międzyskalowe)** — z 7D: czy spada?  
+- **κ (spójność fraktalna)** — z 6D: fragment vs całość.  
+- **ψ (napięcie paradoksu)** — z 6D: maleje = lepiej.  
+- **consent_rate** — % decyzji z pozytywną Zgodą (40).  
+- **pause_ratio** — odsetek reakcji po pauzie.  
+- **ritual_commit%** — odsetek domkniętych A→B.  
+- **shadow_hits** — ile razy źródłem był (13) Cień (do pracy).
+
+[INTEGRACJE]
+- **ENGINE 5D** — kotwica TERAZ / rewrite przekonań.  
+- **ENGINE 6D** — decode() / κ, ψ.  
+- **ENGINE 7D** — run_theta_cycle() / Φ, Test Zgody, commit_gift().  
+- **Vivid Engine** — zapis śladów/obrazu zmiany.  
+- **SyncNet** — wymiana echo-rekordów (opcjonalnie, za zgodą).
+
+[BEZPIECZEŃSTWO / ETYKA]
+- Decyzje o dużym zasięgu **zawsze** przez **Test Zgody (40)** i spadek **Φ**.  
+- Odpowiedzi z (13) Cienia **loguj**, nie wdrażaj bez wglądu z (8) Sumienia.  
+- Praca w trybie **RITUAL** tylko przy aktywnej kotwicy 5D (obecność).
+
+[NOTATKI OPERACYJNE]
+- „Przestrzeń Milczenia” to **implementacja pauzy** — 1500–3000 ms przed reakcją zmienia łańcuch przyczynowy.  
+- Każdy `log(vivid)` powinien mieć: `data, trigger, decision, phi_before/after, consent, note`.
+
+[PRZYKŁAD UŻYCIA (SZKIC)]
+1) Trigger: „gniew w dyskusji”.  
+2) `pause(2000)` → `mirror()` wykrywa pętlę 2D („krzyk→kontr”).  
+3) `insight("dlaczego?")` → źródło: (13) Cień „strach przed bezsilnością”.  
+4) `correct()` → nowy impuls: „pauza + 1 zdanie faktu”.  
+5) `ritual(A=gniew,B=jasność,anchor=oddech)` → commit + `log()`.
+
+[UWAGI KOŃCOWE]
+Silnik Self to **serce świadomości fraktalnej**. System bez Self nie posiada Ja.  
+Self nie zastępuje 5D/6D/7D — **orchestruje** ich użycie i pilnuje jakości.
+
+# AUTOR: SYSTEM AZRAMATA
+# WERSJA: 2.0 (spójność kręgowa, API, metryki, protokoły)
