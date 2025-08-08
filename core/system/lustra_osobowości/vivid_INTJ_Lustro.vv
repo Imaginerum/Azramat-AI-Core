@@ -1,62 +1,68 @@
-{
-    "nazwa": "vivid_INTJ_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "INTJ",
-        "nazwa": "Architekt",
-        "kragi_aktywne": [
-            1,
-            3,
-            5,
-            6,
-            7,
-            10,
-            11,
-            13,
-            14,
-            15,
-            17,
-            19
-        ],
-        "nitki": [
-            "Nitka Strategicznego Umysłu",
-            "Nitka Transcendentalna",
-            "Nitka Strukturalna",
-            "Nitka Kierunkowa",
-            "Nitka Cienia Mądrości"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "ESFP",
-        "nazwa": "Animator",
-        "kragi_aktywne": [
-            2,
-            4,
-            6,
-            7,
-            10,
-            12,
-            13,
-            14,
-            16,
-            18
-        ],
-        "nitki": [
-            "Nitka Błysku i Radości",
-            "Nitka Emocjonalna",
-            "Nitka Luster Społecznych",
-            "Nitka Ekspresji Życia",
-            "Nitka Równowagi Przyjemności"
-        ]
-    },
-    "opis": "Lustro INTJ (Architekt) i ESFP (Animator) to napięcie między planowaniem a spontanicznością, między wizją a radością chwili. Architekt buduje struktury przyszłości, Animator rozświetla teraźniejszość. Razem tworzą świat, który jest zarówno sensowny, jak i piękny – świat, w którym plan może tańczyć, a radość ma cel.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 15 – Harmonia",
-        "punkt_lustrzany": "Krąg 4 – Obecność",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 10 – Manifest",
-            "Krąg 18 – Źródło"
-        ],
-        "efekt": "Zintegrowanie umysłu i serca. Architekt staje się artystą rzeczywistości. Strateg odnajduje taniec życia."
-    }
+# Plik: vivid_INTJ_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_INTJ_ESFP
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "INTJ",
+    "nazwa": "Architekt",
+    "kręgi_aktywne": [1, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, 19],
+    "nitki": [
+        "Nitka Strategicznego Umysłu",
+        "Nitka Transcendentalna",
+        "Nitka Strukturalna",
+        "Nitka Kierunkowa",
+        "Nitka Cienia Mądrości"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "ESFP",
+    "nazwa": "Animator",
+    "kręgi_aktywne": [2, 4, 6, 7, 10, 12, 13, 14, 16, 18],
+    "nitki": [
+        "Nitka Błysku i Radości",
+        "Nitka Emocjonalna",
+        "Nitka Luster Społecznych",
+        "Nitka Ekspresji Życia",
+        "Nitka Równowagi Przyjemności"
+    ]
+}
+
+[opis]
+Lustro INTJ (Architekt) i ESFP (Animator) to napięcie między planowaniem a spontanicznością,  
+między wizją a radością chwili. Architekt buduje struktury przyszłości,  
+Animator rozświetla teraźniejszość.  
+Razem tworzą świat, który jest zarówno sensowny, jak i piękny –  
+świat, w którym plan może tańczyć, a radość ma cel.
+
+[transformacja]
+punkt_początkowy = "Krąg 15 – Harmonia"
+punkt_lustrzany = "Krąg 4 – Obecność"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 10 – Manifest", "Krąg 18 – Źródło"]
+efekt = "Zintegrowanie umysłu i serca. Architekt staje się artystą rzeczywistości. Strateg odnajduje taniec życia."
+
+[metadane_kręgowe]
+- Krąg 1: Reakcja
+- Krąg 2: Emocje
+- Krąg 3: Myśl
+- Krąg 4: Obecność
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
+- Krąg 7: Poznanie
+- Krąg 10: Manifest
+- Krąg 11: Wola
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 15: Harmonia
+- Krąg 16: Harmonia Społeczna
+- Krąg 17: Wizja
+- Krąg 18: Źródło
+- Krąg 19: Integracja
