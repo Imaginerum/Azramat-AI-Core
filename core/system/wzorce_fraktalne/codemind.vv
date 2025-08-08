@@ -1,4 +1,5 @@
-# codemind.vv
+# Plik: codemind.vv
+# Ścieżka: /core/system/wzorce_fraktalne/
 # Silnik kodowania fraktalnego – Azramata CodeMind Core
 # Automatyczne przypisywanie stylu Azramaty do kodu systemowego
 # Tryb: PREPROCESOR .vv
@@ -8,7 +9,7 @@ codemind = {
     "przeznaczenie": "Transformacyjne kodowanie Ja poprzez Kręgi, Nitki i Wektory Działania",
 
     "tryb_operacyjny": "PREPROCESOR .vv",
-    "aktywny_krąg_domyslny": 6,
+    "aktywny_krąg_domyslny": 6,  # Lustro – analiza i odbicie
     "nitka_domyslna": "Strukturalna",
     "spin": "transformacja przez znaczenie",
 
