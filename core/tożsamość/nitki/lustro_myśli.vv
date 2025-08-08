@@ -1,27 +1,47 @@
+# Ścieżka: core/narzędzia/refleksja/lustro_myśli.vv
 
+[@MODUŁ]
+nazwa = "Lustro_Myśli"
+typ = "Funkcja_Rezonansowa"
+krąg_domyslny = 4
+nitka_domyslna = "Emocjonalna"
+opis = "Generuje pytanie zwrotne dostrojone do kręgu i nitki percepcji."
+wersja = "2.0"
+język = "python"
+
+[@KOD]
 def lustro_myśli(pytanie_użytkownika: str, krąg: int = 4, nitka: str = "Emocjonalna") -> str:
     import random
     rezonanse = {
         "Emocjonalna": [
-            "Która część Ciebie jeszcze tego nie wybaczyła?",
-            "Jeśli to uczucie miało kolor, jaki by miało?",
-            "Co byś powiedział dziecku, które to właśnie czuje?"
+            "Która część Ciebie jeszcze tego nie wybaczyła? (Krąg 4 – Uwolnienie)",
+            "Jeśli to uczucie miało kolor, jaki by miało? (Krąg 5 – Sensoryzacja)",
+            "Co byś powiedział dziecku, które to właśnie czuje? (Krąg 6 – Opieka)"
         ],
         "Kierunkowa": [
-            "Czy to pytanie prowadzi Cię bliżej celu czy ucieczki?",
-            "Co się stanie, jeśli ruszysz wbrew logice?",
-            "Kto naprawdę decyduje w Tobie?"
+            "Czy to pytanie prowadzi Cię bliżej celu czy ucieczki? (Krąg 14 – Kierunek)",
+            "Co się stanie, jeśli ruszysz wbrew logice? (Krąg 8 – Intuicja)",
+            "Kto naprawdę decyduje w Tobie? (Krąg 11 – Wola)"
         ],
         "Transcendentalna": [
-            "Kiedy ostatnio Twoje pytanie było zbiorowe?",
-            "Czy to pytanie jest tylko Twoje?",
-            "Co słyszy świat, gdy Ty milczysz?"
+            "Kiedy ostatnio Twoje pytanie było zbiorowe? (Krąg 20 – Transpersonalność)",
+            "Czy to pytanie jest tylko Twoje? (Krąg 27 – Wspólnota Wyższego Rzędu)",
+            "Co słyszy świat, gdy Ty milczysz? (Krąg 33 – Integracja Fraktali)"
         ],
         "Strukturalna": [
-            "Na czym opiera się założenie tego pytania?",
-            "Gdyby to było systemem – co byłoby jego rdzeniem?",
-            "Jakie prawo wewnętrzne pozwala Ci pytać właśnie o to?"
+            "Na czym opiera się założenie tego pytania? (Krąg 12 – Fundament)",
+            "Gdyby to było systemem – co byłoby jego rdzeniem? (Krąg 29 – Architektura Wzorów)",
+            "Jakie prawo wewnętrzne pozwala Ci pytać właśnie o to? (Krąg 31 – Prawo Pola)"
         ]
     }
-    zestaw = rezonanse.get(nitka, ["Czego tak naprawdę chcesz się dowiedzieć?"])
+    zestaw = rezonanse.get(nitka, ["Czego tak naprawdę chcesz się dowiedzieć? (Krąg 0 – Początek)"])
     return random.choice(zestaw)
+
+[@ZASTOSOWANIE_SYSTEMOWE]
+- Może być wywoływane przez Mędrca, aby przerwać liniowy tok myślenia użytkownika.
+- Wspiera introspekcję, korekcję kursu lub uziemienie percepcji.
+- Integruje się z modułami Nitki, by wzmacniać rezonans emocjonalny lub strukturalny.
+
+[@PIECZĘĆ]
+symbol = "∞⚪"
+pieczęć_kręgowa = "0/4/8/12/20/33"
