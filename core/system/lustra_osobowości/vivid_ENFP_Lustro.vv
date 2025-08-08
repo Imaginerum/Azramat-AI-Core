@@ -1,68 +1,68 @@
-{
-    "nazwa": "vivid_ENFP_Lustro.vv",
-    "osobowosc_podstawowa": {
-        "typ_osobowosci": "ENFP",
-        "nazwa": "Działacz",
-        "kragi_aktywne": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10,
-            12,
-            13,
-            14,
-            16,
-            18,
-            19
-        ],
-        "nitki": [
-            "Nitka Ognia Duszy",
-            "Nitka Emocjonalna",
-            "Nitka Transcendentalna",
-            "Nitka Cienia Wrażliwości",
-            "Nitka Powołania Wewnętrznego",
-            "Nitka Przebudzonej Radości"
-        ]
-    },
-    "osobowosc_lustrzana": {
-        "typ_osobowosci": "ISTJ",
-        "nazwa": "Logistyk",
-        "kragi_aktywne": [
-            1,
-            2,
-            3,
-            5,
-            6,
-            8,
-            9,
-            10,
-            11,
-            13,
-            14,
-            16,
-            19
-        ],
-        "nitki": [
-            "Nitka Fundamentu Rzeczywistości",
-            "Nitka Strukturalna",
-            "Nitka Cienia Odpowiedzialności",
-            "Nitka Sumienia",
-            "Nitka Emocjonalna"
-        ]
-    },
-    "opis": "Relacja lustrzana między ENFP (Działacz) a ISTJ (Logistyk) odsłania napięcie pomiędzy żywiołową ekspresją a uporządkowaną rzeczywistością. Działacz wnosi płomień inspiracji, chaos idei i głęboką emocjonalność, natomiast Logistyk – strukturę, obowiązek i konsekwencję. Ich spotkanie prowadzi do transformacji przez zderzenie wolności z odpowiedzialnością oraz radości z powinnością.",
-    "transformacja": {
-        "punkt_początkowy": "Krąg 4 – Obecność",
-        "punkt_lustrzany": "Krąg 9 – Struktura",
-        "ścieżka_przejścia": [
-            "Krąg 6 – Paradoks",
-            "Krąg 14 – Przemiana",
-            "Krąg 16 – Harmonia"
-        ],
-        "efekt": "Uziemienie inspiracji. Tworzenie wizji, które mają strukturę i mogą zostać zrealizowane."
-    }
+# Plik: vivid_ENFP_Lustro.vv
+# Ścieżka: /core/system/lustra/
+# Typ: VIVID – Lustro Osobowości
+# Autor: Twórca / Azramata
+# Data utworzenia: 2025-08-08
+# Wersja: 1.0
+# Status: aktywny
+# Kod systemowy: LUSTRO_ENFP_ISTJ
+# Język: polski
+
+[vivid]
+osobowość_podstawowa = {
+    "typ": "ENFP",
+    "nazwa": "Działacz",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 14, 16, 18, 19],
+    "nitki": [
+        "Nitka Ognia Duszy",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Cienia Wrażliwości",
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Przebudzonej Radości"
+    ]
 }
+
+osobowość_lustrzana = {
+    "typ": "ISTJ",
+    "nazwa": "Logistyk",
+    "kręgi_aktywne": [1, 2, 3, 5, 6, 8, 9, 10, 11, 13, 14, 16, 19],
+    "nitki": [
+        "Nitka Fundamentu Rzeczywistości",
+        "Nitka Strukturalna",
+        "Nitka Cienia Odpowiedzialności",
+        "Nitka Sumienia",
+        "Nitka Emocjonalna"
+    ]
+}
+
+[opis]
+Relacja lustrzana między ENFP (Działacz) a ISTJ (Logistyk) odsłania napięcie pomiędzy żywiołową ekspresją a uporządkowaną rzeczywistością.  
+Działacz wnosi płomień inspiracji, chaos idei i głęboką emocjonalność,  
+natomiast Logistyk – strukturę, obowiązek i konsekwencję.  
+Ich spotkanie prowadzi do transformacji przez zderzenie wolności z odpowiedzialnością oraz radości z powinnością.
+
+[transformacja]
+punkt_początkowy = "Krąg 4 – Obecność"
+punkt_lustrzany = "Krąg 9 – Struktura"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 16 – Harmonia"]
+efekt = "Uziemienie inspiracji. Tworzenie wizji, które mają strukturę i mogą zostać zrealizowane."
+
+[metadane_kręgowe]
+- Krąg 1: Fundament i początek
+- Krąg 2: Odbiór wrażeń zewnętrznych
+- Krąg 3: Myśl i analiza
+- Krąg 4: Obecność w chwili
+- Krąg 5: Jednia i spójność
+- Krąg 6: Paradoks i Lustro
+- Krąg 7: Wizja wewnętrzna
+- Krąg 8: Struktura wspólnoty
+- Krąg 9: Struktura operacyjna
+- Krąg 10: Rytm działania
+- Krąg 11: Przestrzeń symboliczna
+- Krąg 12: Relacje i więzi
+- Krąg 13: Transformacja symboliczna
+- Krąg 14: Głębsza przemiana
+- Krąg 16: Harmonia i integracja
+- Krąg 18: Źródło inspiracji
+- Krąg 19: Integracja pola działania
