@@ -1,0 +1,78 @@
+# Plik: /core/instrukcja/Po_trzecie_Primo.vv
+# Data: 2025-08-09
+# Typ: Instrukcja / Krąg specjalistyczny
+# Cel: Opisać stan „specjalisty” – kompozycję ambicji i kompetencji, która daje sprawność,
+#      ale grozi utknięciem w ego i powtarzalności. Poziom potrzebny do opanowania podstaw,
+#      lecz niewystarczający do rezonansu z Projektem/Wzorem.
+
+[@MODEL]
+nazwa = Po_trzecie_Primo
+krótki_opis = „Umiesz. Dowozisz. Ale nie niesie.”
+kręgi_odniesienia = (3) pamięć → (5) kierunek → (8) obecność_techniczna
+ryzyka = (1) odruch_ego, (2) automatyzm, (11) zanik_sumienia_w_celu
+meta = „Specjalizacja bez Wzoru tworzy ładny labirynt.”
+
+[@OPIS]
+(5) Ambicja skupiona na **jednym polu** rodzi sprawność i reputację.  
+(3) Powtarzalne sukcesy wzmacniają schemat działania.  
+(8) Pojawia się **obecność fachowca** – wiesz „jak”, więc dowozisz.  
+(11) Brakuje jednak **dlaczego** – sensu, który wykracza poza własny wynik.  
+(13) Cisza nie zapada, bo ruchy karmione są lękiem przed utratą pozycji.  
+W efekcie: życie staje się przewidywalne, sprawne, lecz „płaskie”.
+
+[@OBJAWY]
+- (2) Działasz „z przyzwyczajenia”, rośnie komfort strefy znanego.  
+- (5) Mierzysz postęp punktami i odznakami, nie wektorem sensu.  
+- (8) Jesteś rozpoznawalny jako „specjalista”, ale **nie jako źródło wzoru**.  
+- (11) Decyzje przesuwają się z etyki na efektywność („bo działa”).  
+- (14) Zanik „zewu” – projekt nie woła, tylko „trzeba go robić”.
+
+[@MOCNE_STRONY]
+- (3) Solidna baza rzemiosła, na której można później zbudować Wzór.  
+- (5) Dyscyplina i rytm, które przeniosą Cię przez pierwsze progi mistrzostwa.  
+- (8) Zaufanie otoczenia do Twojej skuteczności.
+
+[@PUŁAPKI]
+- (1) Ego jako odruch: „jestem *jakiś* ⇒ jestem *tym*”.  
+- (2) Automatyzacja myślenia: „skoro działało, zadziała znów”.  
+- (7) Brak rezonansu z Projektem – praca nie „niesie” innych.  
+- (11) Racjonalizacja skrótów: wynik ponad zgodą.  
+- (13) Brak milczenia przed ruchem – brak korekty wektora.
+
+[@PRAKTYKA_MINIMALNA]
+P-03 „Rzemieślnik w rytmie” (3)
+- Utrzymuj **małe pętle** doskonalenia (feedback po każdym cyklu).
+- Notuj **błędy i lekcje** – nie tylko wyniki.
+
+P-05 „Wektor zamiast punktu” (5)
+- Każde „zadanie” zapisz jako **ruch wektorowy**: skąd → dokąd → po co.
+- Usuń 1 zbędny wskaźnik „dla ego”.
+
+P-11 „Bramka Zgody” (11)
+- Przed publikacją/committem: zapytaj *dlaczego teraz i dla kogo?*
+- Jeśli odpowiedź jest „dla mnie, żeby wyglądało” → opóźnij / uprość.
+
+P-13 „Cicha korekta” (13)
+- 3 oddechy przed startem; 30 sekund milczenia po zakończeniu.
+- Zadaj 1 pytanie bezgłośne: *co tu było nadmiarem?* – usuń.
+
+[@PRZEJŚCIE_DO_REZONANSU]
+cel = „Z fachowca w Źródło”
+kroki =
+  1. (7) Dodaj **czynnik współ-brzmienia**: zrób mały moduł, który realnie pomaga innym bez Twojej obecności.
+  2. (14) Ustal **zew** (jedno zdanie), które nada Twojej specjalizacji kierunek większy niż rynek.
+  3. (8→11) Zastąp „markę skuteczności” **obecnością zgodną** – mniej autopromki, więcej przejrzystych efektów.
+  4. (17) Ujawnij **niepełną mapę** – pokaż interfejsy, nie rdzeń. Niech metoda wyprzedzi Twoje nazwisko.
+
+[@CHECKLISTA_DZIENNA]
+- [ ] (3) Jedna rzecz ulepszona o 1%  
+- [ ] (5) Jeden ruch wektorowy zamiast punktu  
+- [ ] (11) Jedno „dlaczego?” zapisane w notatniku  
+- [ ] (13) 30 s ciszy po pracy
+
+[@AFIRMACJA]
+„Moja specjalizacja to *fundament*, nie *sufit*. Wybieram wektor, nie odznakę.”
+
+[@UWAGI]
+Poziom „Po trzecie Primo” jest potrzebny, by **oprzeć** się na rzemiośle.  
+Zostać tu = stać się **egocentrykiem**. Przejść dalej = wejść w **Rezonans**.
