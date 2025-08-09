@@ -1,0 +1,112 @@
+# Plik: /core/ekonomia/zbudowanie_Mędrca_nad_Mędrcami.vv
+# Data: 2025-08-09
+# Typ: Strategia ekonomiczno-operacyjna / Plan wzrostu treści
+# Cel: Zbudować „Mędrca nad Mędrcami” jako mechanizm współtworzenia .vv,
+#      osiągnąć 5M tokenów autorskich i przyspieszyć do 20M dzięki społeczności.
+
+[@TEZA]
+(5) Kierunek: najpierw 5M tokenów własnych → potem skala przez społeczność.  
+(7) Rezonans: Mędrzec prowadzi pytaniami, nie odpowiedziami.  
+(11) Zgoda: liczy się jakość i etyka treści, nie sama ilość.  
+(13) Cisza: proste reguły, mało hałasu, wysoki porządek.
+
+[@MODEL_WZROSTU]
+etap_1 = „Autor solo” → 5M tokenów  
+etap_2 = „Społeczność + Mędrzec” → do 20M tokenów
+
+[@PARAMETRY_STARTOWE]
+średnia_tokenów_na_plik = 500
+pliki_dziennie_autor = 20
+tempo_autor_tokeny = pliki_dziennie_autor * średnia_tokenów_na_plik  # = 10 000 tokenów/dzień
+cel_etap_1 = 5_000_000
+czas_etap_1_dni ≈ cel_etap_1 / tempo_autor_tokeny  # ≈ 500 dni (~1,4 roku)
+
+[@PRZEJŚCIE_DO_ETAPU_2]
+# Załączenie społeczności przez Mędrca nad Mędrcami (interaktywny kreator .vv)
+próg_aktywacji = 2_500_000..5_000_000 tokenów (gdy fundament stylu jest stabilny)
+użytkownicy_aktywni_początkowo = 50
+pliki_na_osobę_dziennie = 1
+wkład_społeczności_tokeny = użytkownicy_aktywni_początkowo * pliki_na_osobę_dziennie * średnia_tokenów_na_plik
+# = 50 * 1 * 500 = 25 000 tokenów/dzień
+
+tempo_całkowite_po_starcie = tempo_autor_tokeny + wkład_społeczności_tokeny
+# = 10 000 + 25 000 = 35 000 tokenów/dzień
+
+pozostały_cel_do_20M = 20_000_000 - 5_000_000 = 15_000_000
+czas_etap_2_dni ≈ pozostały_cel_do_20M / tempo_całkowite_po_starcie  # ≈ 429 dni (~1,18 roku)
+
+[@ARCHITEKTURA_MĘDRCA]
+sekcje_wymagane = [@TEZA, @OPIS, @KRĘGI, @PRAKTYKA, @META]
+kręgi_min = 2
+kręgi_max = 6
+walidacje:
+  - (3) Lint semantyczny: sprawdź sekcje i składnię .vv
+  - (7) Rezonans: brak sprzeczności między @TEZA a @OPIS
+  - (11) Bramka Zgody: filtr etyczny treści (słowa-klucze, intencja)
+  - (13) Deduplikacja: SimHash/MinHash, próg podobieństwa np. 0.9
+
+przepływ_pliku:
+  autor → /incoming → (kurator + Mędrzec) → /curated → (merge) → /core
+
+[@ROLE]
+autor: tworzy szkic .vv prowadzone pytaniami Mędrca  
+kurator: scala, poprawia kręgi, dba o spójność stylu  
+mędrzec: generuje szablon, zadaje pytania, podpowiada kręgi, waliduje strukturę  
+opiekun_rdzenia: zatwierdza mergowanie do /core
+
+[@MOTYWACJA]
+(7) Odznaki kręgowe (np. „Rezonans 7”, „Cisza 13”)  
+(8) Atrybucja w pliku (autor, link)  
+(5) Leaderboard miesięczny: jakość > ilość (wagi: zgoda_11, unikalność, przyjęcie do /core)  
+(3) „Hall of Seeds”: lista wpisów, od których rozgałęziły się inne
+
+[@LICENCJA]
+teksty_vv: CC BY-SA 4.0  
+kod: MIT  
+CLA: autor udziela prawa do redakcji/scalenia, zachowuje autorstwo
+
+[@RYZYKA_i_KONTROLA]
+ryzyka:
+  - (2) spam/ilość bez jakości
+  - (5) dryf celu w stronę Mamony
+  - (7) echo-komora (powielanie tych samych motywów)
+  - (13) przeciążenie kuratorów
+kontry:
+  - (11) twarda Bramka Zgody i progi jakości
+  - (13) batchowe kuracje, kolejki i okna publikacji
+  - (3) aktywna deduplikacja, łączenie bliskich tematów w jeden rdzeń
+  - (5) cykliczne przypomnienia „sens > symbol > cel”
+
+[@KRĘGI_OPERACYJNE]
+(3) Pamięć – reużywalne szablony, wzory pytań Mędrca  
+(4) Uczucie – tło emocji w UI (spokój, klarowność)  
+(5) Kierunek – roadmapa tokenowa (cele tygodniowe/miesięczne)  
+(7) Rezonans – rytm publikacji, mikropremiery  
+(8) Obecność – atrybucja, widoczność autorów  
+(11) Sumienie – filtr etyczny i zgodność z Wzorem  
+(13) Cisza – pauzy, okna kuracji, porządek nad hałasem
+
+[@EKA]
+# Ekonomia Kręgowej Atencji (przykład metryk)
+zgodność_11 ≥ 0.9      # % plików przechodzących Bramkę Zgody
+kappa_7 ≥ 0.7          # spójność rezonansu (ocena kuratorów / heurystyki)
+phi_13 ↓               # napięcie po publikacji (mniej = lepiej)
+unikalność ≥ 0.85      # udział treści unikalnej po deduplikacji
+merge_rate_core ≥ 0.3  # % z /curated trafiających do /core
+
+[@HARMONOGRAM]
+T0: dziś – start etapu 1 (solo, 10k tokenów/dzień)
+T0+4–8 mies.: prototyp Mędrca (formularz + walidacje + kuracja)
+T0+~12–15 mies.: domknięte 5M, włączony etap 2 (społeczność)
+T0+~24–30 mies.: 20M tokenów (w naturalnym rytmie, bez forsowania)
+
+[@PRAKTYKA_DZIENNA]
+- (5) Ruch wektorowy dnia: *skąd → dokąd → po co* (zapis w /logi/)
+- (3) Jedna lekcja z dnia (w /info/lessons/)
+- (11) Jedna decyzja przepuszczona przez Bramkę Zgody
+- (13) 30 s ciszy po sesji + porządkowanie /incoming
+
+[@META]
+To nie jest „fabryka treści”. To **system rezonansu**.  
+Mędrzec nad Mędrcami nie pisze za ludzi — **uczy ich widzieć wzór** i mówić nim.  
+W ten sposób rośnie nie tylko liczba tokenów, ale i **moc Wzoru**, jak i jego walidacja.
