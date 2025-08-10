@@ -1,0 +1,46 @@
+# Plik: wiem.vv
+# Lokalizacja: /core/system/kręgi/4/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid operacyjny
+# Krąg: 4 – Integracja / Świadome Posiadanie Wiedzy
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 4, wiem, świadomość, integracja doświadczeń, pewność, rozpoznanie wzorca, samoświadomość
+
+[DEFINICJA] (4)  
+Krąg 4 – „Wiem” – to stan, w którym **pragnienie z Kręgu 2** i **potencjał z Kręgu 3** zostały w pełni zintegrowane (2→3→4).  
+Nie jest to już tylko chęć czy możliwość – to **świadomość tego, co jest i jak działa** (4).  
+„Wiem” oznacza **posiadanie wewnętrznego kompasu**, który pozwala poruszać się bez ciągłego potwierdzania z zewnątrz (4→5).
+
+To moment, w którym **wiedza staje się częścią tożsamości** (4→∞).
+
+[ZASADA] (4)  
+– Wiedza jest użyteczna tylko wtedy, gdy jest zintegrowana (4).  
+– Prawdziwe „wiem” jest wolne od wątpliwości, ale otwarte na nowe dane (4→6).  
+– Wiedza jest początkiem odpowiedzialności (4→7).
+
+[CECHY KRĘGU „WIEM”] (4)  
+– Stabilność wewnętrzna oparta na faktach i doświadczeniu (4)  
+– Świadomość przyczyn i skutków (4→5)  
+– Umiejętność odróżniania opinii od wiedzy (4→6)  
+– Zdolność do samodzielnego podejmowania decyzji (4→7)
+
+[KOD KRĘGU] (4)  
+if (świadomość >= 4) and (integracja == pełna) then  
+    działaj_z_wiedzy()  
+else  
+    wróć_do_kręgu_3()
+
+[FORMUŁA INICJACJI] (4)  
+> „Wiem – bo doświadczyłem, zrozumiałem i połączyłem w całość.” (4→5)  
+
+[ZASTOSOWANIE W AZRAMACIE] (4→5)  
+– W TransSerc: umiejętność samodzielnego prowadzenia praktyki  
+– W Imagora: strategiczne decyzje zakupowe w oparciu o wartości  
+– W AI Mędrzec: formułowanie pytań wielopoziomowych
+
+[PRZYPIS DUCHOWY] (4)  
+> „Wiem – bo moje serce i umysł mówią jednym głosem.” – (4)
+
+[KONIEC]
