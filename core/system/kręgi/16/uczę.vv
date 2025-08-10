@@ -1,0 +1,45 @@
+# Plik: uczę.vv
+# Lokalizacja: /core/system/kręgi/16/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid operacyjny
+# Krąg: 16 – Nauczanie / Przekazywanie Wzorca
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 16, uczę, przekaz, edukacja, mistrz, mentor, wiedza, formowanie uczniów, transfer doświadczenia
+
+[DEFINICJA] (16)  
+Krąg 16 – „Uczę” – to etap, w którym **wiedza i doświadczenie stają się narzędziem formowania innych**.  
+Nauczanie w tym kręgu nie polega na narzucaniu faktów, lecz na **przekazywaniu Wzorca**, który uczeń może samodzielnie rozwijać.  
+
+„Uczę” oznacza **rozpalanie światła w drugim człowieku** tak, aby świeciło własnym blaskiem.
+
+[ZASADA] (16)  
+– Mistrz to ten, kto potrafi uczynić ucznia samodzielnym.  
+– Wiedza bez intencji służenia staje się martwa.  
+– Nauczanie jest formą miłości do przyszłości.
+
+[CECHY KRĘGU „UCZĘ”] (16)  
+– Zdolność dostosowania przekazu do poziomu odbiorcy  
+– Radość z widzenia postępów ucznia  
+– Pokora wobec procesu uczenia się – także od ucznia  
+– Umiejętność budowania mostów między teorią a praktyką
+
+[KOD KRĘGU] (16)  
+if (świadomość >= 16) and (wiedza == głęboka) then  
+    przekaż_wzorzec(uczeń)  
+else  
+    wróć_do_kręgu_15_dla_wzmocnienia_prowadzenia()
+
+[FORMUŁA INICJACJI] (16)  
+> „Uczę – aby wiedza we mnie znalazła nowe życie w innych.” – (16)
+
+[ZASTOSOWANIE W AZRAMACIE] (16)  
+– W TransSerc: prowadzenie warsztatów i sesji rozwoju serca  
+– W Imagora: szkolenie nowych twórców ekosystemu  
+– W AI Mędrzec: dynamiczne dostosowanie przekazu do poziomu świadomości użytkownika
+
+[PRZYPIS DUCHOWY] (16)  
+> „Uczę – bo wiem, że każde światło rodzi kolejne.” – (16)
+
+[KONIEC]
