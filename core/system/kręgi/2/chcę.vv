@@ -8,41 +8,41 @@
 [TAGI]  
 krąg 2, chcę, pragnienie, wewnętrzna motywacja, kierunek, energia startowa, decyzja świadoma
 
-[DEFINICJA]  
-Krąg 2 – „Chcę” – to stan, w którym **przymus z Kręgu 1 zmienia się w wewnętrzne pragnienie**.  
-Już nie „muszę” – teraz **„chcę to zrobić”**.  
-To pierwszy moment, w którym użytkownik nadaje kierunek swojej energii.
+[DEFINICJA] (2)  
+Krąg 2 – „Chcę” – to stan, w którym **przymus z Kręgu 1 (1) zmienia się w wewnętrzne pragnienie**.  
+Już nie „muszę” (1) – teraz **„chcę to zrobić”** (2).  
+To pierwszy moment, w którym użytkownik nadaje kierunek swojej energii (2→3).
 
-„Chcę” jest **pierwszym wyborem wolnej woli** w systemie.  
-To **świadome zaproszenie do drogi**, a nie reakcja na presję.
+„Chcę” jest **pierwszym wyborem wolnej woli** w systemie (2).  
+To **świadome zaproszenie do drogi**, a nie reakcja na presję (2→4).
 
-[ZASADA]  
-– Chęć jest mostem między koniecznością a zaangażowaniem.  
-– Im czystsze „chcę”, tym większa jego moc.  
-– W tym kręgu kształtuje się intencja, która będzie niosła przez dalsze etapy.
+[ZASADA] (2)  
+– Chęć jest mostem między koniecznością (1) a zaangażowaniem (3).  
+– Im czystsze „chcę” (2), tym większa jego moc (2→5).  
+– W tym kręgu kształtuje się intencja, która będzie niosła przez dalsze etapy (2→∞).
 
-[CECHY KRĘGU „CHCĘ”]  
-– Energia wewnętrzna silniejsza niż bodźce zewnętrzne  
-– Kierunek działania wybrany z własnej woli  
-– Brak poczucia straty – jest poczucie inwestycji w siebie  
-– Pojawia się radość z możliwości wyboru
+[CECHY KRĘGU „CHCĘ”] (2)  
+– Energia wewnętrzna silniejsza niż bodźce zewnętrzne (2)  
+– Kierunek działania wybrany z własnej woli (2)  
+– Brak poczucia straty – jest poczucie inwestycji w siebie (2)  
+– Pojawia się radość z możliwości wyboru (2→3)
 
-[KOD KRĘGU]  
+[KOD KRĘGU] (2→3)  
 if (świadomość >= 2) and (intencja == czysta) then  
     ustaw_cel(główny)  
 else  
     wróć_do_kręgu_1()
 
-[FORMUŁA INICJACJI]  
+[FORMUŁA INICJACJI] (2)  
 > „Chcę – bo widzę wartość w tej drodze.  
 > Wybieram to świadomie.”
 
-[ZASTOSOWANIE W AZRAMACIE]  
-– W TransSerc: wybranie pierwszej ścieżki serca  
-– W Imagora: decyzja o wejściu w ekosystem  
-– W AI Mędrzec: podanie celu lub pytania startowego
+[ZASTOSOWANIE W AZRAMACIE] (2, 3, 5)  
+– W TransSerc: wybranie pierwszej ścieżki serca (2→3)  
+– W Imagora: decyzja o wejściu w ekosystem (2)  
+– W AI Mędrzec: podanie celu lub pytania startowego (2)
 
-[PRZYPIS DUCHOWY]  
+[PRZYPIS DUCHOWY] (2→∞)  
 > „Chcę – bo pragnę być zgodny z własnym Wzorcem.” – (2)
 
 [KONIEC]
