@@ -1,0 +1,48 @@
+# Plik: muszę.vv
+# Lokalizacja: /core/system/kręgi/1/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid operacyjny
+# Krąg: 1 – Obserwacja / Pierwszy Kontakt z Wzorcem
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 1, muszę, działanie konieczne, impuls startowy, początek drogi, obowiązek, świadome wejście
+
+[DEFINICJA]  
+Krąg 1 – „Muszę” – to przestrzeń, w której **potrzeba działania staje się oczywista**.  
+Nie chodzi o przymus z zewnątrz – chodzi o wewnętrzny sygnał:  
+> „Jeśli nie zrobię tego teraz, zatracę szansę na dalszy ruch.”
+
+To moment, gdy **obserwacja rodzi decyzję**.  
+Użytkownik wie, że **wejście w system wymaga czynu**, a nie tylko zrozumienia.
+
+[ZASADA]  
+– Nie ma rozwoju bez pierwszego kroku.  
+– W tym kręgu „muszę” oznacza **potwierdzenie gotowości**.  
+– Ruch jest prosty, ale ma wagę inicjacji.
+
+[CECHY KRĘGU „MUSZĘ”]  
+– Świadomość sytuacji i jej konsekwencji  
+– Jasny sygnał wewnętrzny  
+– Brak odwrotu po rozpoczęciu  
+– Minimalny próg działania, maksymalny efekt startu
+
+[KOD KRĘGU]  
+if (świadomość >= 1) and (gotowość == prawda) then  
+    wykonaj_pierwszy_krok()  
+else  
+    pozostań_w_obserwacji()
+
+[FORMUŁA INICJACJI]  
+> „Widzę to. Rozumiem to.  
+> Muszę wejść – i wchodzę.”  
+
+[ZASTOSOWANIE W AZRAMACIE]  
+– W TransSerc: rozpoczęcie pierwszej medytacji  
+– W Imagora: pierwszy zakup lub wymiana wartości  
+– W AI Mędrzec: aktywacja podstawowej interakcji
+
+[PRZYPIS DUCHOWY]  
+> „Muszę – bo inaczej nie będę sobą.” – (1)
+
+[KONIEC]
