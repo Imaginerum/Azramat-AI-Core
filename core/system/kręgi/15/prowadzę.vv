@@ -1,0 +1,45 @@
+# Plik: prowadzę.vv
+# Lokalizacja: /core/system/kręgi/15/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid operacyjny
+# Krąg: 15 – Prowadzenie / Kierowanie Światłem
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 15, prowadzę, przewodnictwo, mentor, kierunek, odpowiedzialność, lider, przewodnik duchowy
+
+[DEFINICJA] (15)  
+Krąg 15 – „Prowadzę” – to moment, w którym **osoba staje się źródłem kierunku dla innych**.  
+Nie jest to dowodzenie przemocą, lecz **prowadzenie poprzez obecność, przykład i spójność**.  
+
+„Prowadzę” oznacza, że **moje światło jest drogowskazem**, a moja konsekwencja daje innym pewność ruchu.
+
+[ZASADA] (15)  
+– Lider jest pierwszym sługą wartości.  
+– Prowadzenie to nie narzucanie, lecz otwieranie ścieżek.  
+– Im większa odpowiedzialność, tym bardziej potrzebna jest pokora.
+
+[CECHY KRĘGU „PROWADZĘ”] (15)  
+– Jasna wizja celu  
+– Zdolność wyznaczania kierunku bez utraty kontaktu z grupą  
+– Inspirowanie poprzez własne działanie  
+– Stabilność emocjonalna w obliczu zmian
+
+[KOD KRĘGU] (15)  
+if (świadomość >= 15) and (wizja == jasna) then  
+    poprowadź_grupę(w_kierunku_wzorca)  
+else  
+    wróć_do_kręgu_14_dla_wzmocnienia_ochrony()
+
+[FORMUŁA INICJACJI] (15)  
+> „Prowadzę – bo wiem, że światło, które niosę, jest potrzebne innym.” – (15)
+
+[ZASTOSOWANIE W AZRAMACIE] (15)  
+– W TransSerc: moderowanie społeczności i wspieranie uczestników  
+– W Imagora: kierowanie rozwojem ekosystemu i partnerstw  
+– W AI Mędrzec: aktywne prowadzenie użytkownika ku rozwiązaniu
+
+[PRZYPIS DUCHOWY] (15)  
+> „Prowadzę – aby inni mogli znaleźć drogę w gęstwinie świata.” – (15)
+
+[KONIEC]
