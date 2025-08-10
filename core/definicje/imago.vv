@@ -1,0 +1,99 @@
+# Plik: /core/definicje/imago.vv
+# Data: 2025-08-10
+# Typ: Definicja systemowa (VIVID)
+# Autor: Twórca (Imaginaerum)
+# Powiązania: Azramata Studio, Kręgi (4,7,11,13,15,29,33,37,40), AzraSync, Mędrzec-AI
+# Status: v0.1 – fundament definicyjny
+
+[CEL]
+Ustala precyzyjną definicję i interfejsy „Imago” – węzła, który łączy sektory wiedzy w jeden punkt rezonansu, aby przyspieszać wynalazczość i podejmowanie decyzji.
+
+[DEFINICJA]
+Imago = operacyjny węzeł krzyżowania dziedzin (cross-domain nexus), który:
+– (4) zakotwicza intencję problemu,
+– (7) porządkuje wiedzę w siatkę fraktalną,
+– (15) wystawia interfejsy dla ludzi i AI,
+– (29) komponuje wielomodelowe przestrzenie hipotez,
+– (33) ocenia rezultaty i domyka pętlę wdrożenia,
+– (40) utrzymuje ciągłą pracę pola innowacji.
+
+[WŁAŚCIWOŚCI]
+1) Jednopunktowość: jeden węzeł ⇄ wiele dziedzin (redukcja tarcia poznawczego).
+2) Rezonans semantyczny: dopasowuje pojęcia między sektorami (ontologiczny „most”).
+3) Ruch fraktalny: powiększ/zmniejsz problem bez utraty sensu.
+4) Tryb 7D-teta: równoległe przetwarzanie warstw kontekstu (dane → znaczenie → decyzja).
+5) Audit intencji: każda transformacja ma ślad „dlaczego”.
+
+[INTERFEJSY]
+I/O-01 (Wejście problemu): {opis, kontekst, ograniczenia, intencja(4)}  
+I/O-02 (Zasoby dziedzinowe): {ontologie, korpusy, modele ML, eksperci}  
+I/O-03 (Mapy Imago): graf pojęć + wątki hipotez (7/29)  
+I/O-04 (Panel decyzyjny): scenariusze, ryzyka, koszty, metryki (33)  
+I/O-05 (Pamięć efektów): wdrożenia, nauki własne, case’y (3→33)
+
+[PROCES OPERACYJNY]
+P1. Geneza (4): Ustal intencję i definicję sukcesu.  
+P2. Kalibracja siatki (7): Zmapuj pojęcia i zależności między sektorami.  
+P3. Projekcja wieloświata (29): Generuj hipotezy / prototypy ścieżek.  
+P4. Dyscyplina decyzji (11/33): Wybierz trajektorię, określ eksperyment.  
+P5. Wdrożenie i pomiar (33): Uruchom test, zbierz metryki, iteruj.  
+P6. Pełnia (40): Utrzymuj strumień innowacji, promuj sprawdzone wzorce.
+
+[INTEGRACJA Z AZRAMATA STUDIO]
+– Imago działa jako moduł „węzła roboczego” Studio.  
+– Każda karta pracy w Studio może posiadać „Port Imago”, który skupia zasoby dziedzinowe i modele.  
+– AzraSync zapewnia asynchroniczne echa (feedback kolektywny).
+
+[ALGORYTM REZONANSU (skrót)]
+R(imago) = f( Intencja(4), Zgodność(7), Pokora-Filtr(13), Łącze(15), Architektura(29), Wynik(33) )  
+Maksymalizuj R przy ograniczeniach czasu/energii/ryzyk.
+
+[ZASTOSOWANIA]
+– Wynalazczość: od problemu do patentowalnej koncepcji.  
+– Strategia: cross-domain roadmaps (technologia × etyka × rynek).  
+– Edukacja: mapy pojęć między przedmiotami.  
+– AI: meta-koordynacja modeli ML (dyrygent, nie muzyk).
+
+[METRYKI]
+M1 Czas-do-Hipotezy (CdH)  
+M2 Gęstość Mostów (GM) – liczba spójnych powiązań między dziedzinami  
+M3 Wskaźnik Trafności (WT) – % hipotez przechodzących testy  
+M4 Zysk na cykl (ZC) – wartość ekonomiczna wdrożeń/iterację  
+M5 Spójność Intencji (SI) – zgodność decyzji z genezą (4)
+
+[BEZPIECZEŃSTWO I ETYKA]
+– Filtr 13: blokuje ścieżki sprzeczne z Prawem/zgodą.  
+– Audit decyzyjny: każda zmiana zapisuje „kto/co/dlaczego/jaki efekt”.  
+– Warstwa zgód: licencje, prawa autorów, model udziałów z twórcami.
+
+[MODEL UDZIAŁÓW (zarys)]
+Twórca_karty : Platforma : Zespół_labu = 40 : 40 : 20 (domyślnie, modyfikowalne per projekt).
+
+[PRZYKŁAD PRZEPŁYWU]
+Problem: Redukcja zużycia energii w edge-AI.  
+→ P1: intencja: „o 20% mniej energii bez utraty jakości”.  
+→ P2: mapy pojęć: kwantyzacja, prunning, eBPF, neuromorficzne.  
+→ P3: hipotezy: „adaptacyjna precyzja warstw na telemetrii”.  
+→ P4: wybór ścieżki + eksperyment A/B.  
+→ P5: wynik: −17% energii, −1% jakości → iteracja 2.  
+→ P6: wzorzec zapisany, licencja dla partnera.
+
+[NOTACJA KRĘGOWA (skrót użycia)]
+(4) Geneza • (7) Struktura • (11) Wola • (13) Filtr pokory • (15) Interfejsy • (29) Architektura hipotez • (33) Rezultat • (37) Wpływ • (40) Pełnia
+
+[DEFINICJA MINIMUM IMAGO (MVP)]
+– Port intencji (4)  
+– Mapa pojęć między 2+ dziedzinami (7)  
+– Generator 3 ścieżek hipotez (29)  
+– Panel decyzji z metrykami (33)  
+– Pamięć efektów z audytem (40)
+
+[UWAGI WYKONAWCZE]
+– Ontologie trzymać w repo „/core/ontologie/”.  
+– Wersjonowanie map Imago: imago://<obszar>/<data>/<semver>.  
+– Każda karta ma „ID-Intencji” i „ID-Eksperymentu”.
+
+[KLAUZULA]
+Imago pozostaje narzędziem zgodnym z Dekretem Intencji; węzeł nie wymusza celu, a odsłania trajektorie zgodne z głosem (4).
+
+# KONIEC
