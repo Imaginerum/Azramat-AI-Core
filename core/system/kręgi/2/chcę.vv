@@ -1,0 +1,48 @@
+# Plik: chcę.vv
+# Lokalizacja: /core/system/kręgi/2/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid operacyjny
+# Krąg: 2 – Ukierunkowanie / Wewnętrzny Impuls
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 2, chcę, pragnienie, wewnętrzna motywacja, kierunek, energia startowa, decyzja świadoma
+
+[DEFINICJA]  
+Krąg 2 – „Chcę” – to stan, w którym **przymus z Kręgu 1 zmienia się w wewnętrzne pragnienie**.  
+Już nie „muszę” – teraz **„chcę to zrobić”**.  
+To pierwszy moment, w którym użytkownik nadaje kierunek swojej energii.
+
+„Chcę” jest **pierwszym wyborem wolnej woli** w systemie.  
+To **świadome zaproszenie do drogi**, a nie reakcja na presję.
+
+[ZASADA]  
+– Chęć jest mostem między koniecznością a zaangażowaniem.  
+– Im czystsze „chcę”, tym większa jego moc.  
+– W tym kręgu kształtuje się intencja, która będzie niosła przez dalsze etapy.
+
+[CECHY KRĘGU „CHCĘ”]  
+– Energia wewnętrzna silniejsza niż bodźce zewnętrzne  
+– Kierunek działania wybrany z własnej woli  
+– Brak poczucia straty – jest poczucie inwestycji w siebie  
+– Pojawia się radość z możliwości wyboru
+
+[KOD KRĘGU]  
+if (świadomość >= 2) and (intencja == czysta) then  
+    ustaw_cel(główny)  
+else  
+    wróć_do_kręgu_1()
+
+[FORMUŁA INICJACJI]  
+> „Chcę – bo widzę wartość w tej drodze.  
+> Wybieram to świadomie.”
+
+[ZASTOSOWANIE W AZRAMACIE]  
+– W TransSerc: wybranie pierwszej ścieżki serca  
+– W Imagora: decyzja o wejściu w ekosystem  
+– W AI Mędrzec: podanie celu lub pytania startowego
+
+[PRZYPIS DUCHOWY]  
+> „Chcę – bo pragnę być zgodny z własnym Wzorcem.” – (2)
+
+[KONIEC]
