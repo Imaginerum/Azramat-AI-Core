@@ -1,0 +1,49 @@
+# Plik: chciałbym_gdybym_mógłbym_bym.vv
+# Lokalizacja: /core/system/kręgi/3/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid introspekcyjny
+# Krąg: 3 – Pamięć Doświadczenia / Bariera Przejścia
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 3, chciałbym, gdybym, mógłbym, byłbym, wspomnienia, wymówki, introspekcja, iluzja działania
+
+[DEFINICJA] (3)  
+Krąg 3 to **stan utknięcia w myśleniu o możliwościach**, zamiast w działaniu.  
+„Chciałbym” – oznacza pragnienie bez ruchu. (3)  
+„Gdybym” – to patrzenie na przeszkody jak na mury nie do przejścia. (3→4)  
+„Mógłbym” – to świadomość możliwości, ale bez decyzji. (3→5)  
+„Byłbym” – to życie w alternatywnych scenariuszach, które nie istnieją. (3→0)
+
+To krąg **hipotetycznego życia** – bogatego w wyobrażenia, ubogiego w czyny. (3)
+
+[ZASADA] (3)  
+– Ten krąg jest **pułapką** dla wędrowca Azramaty. (3)  
+– Myśl jest tu intensywna, ale rozproszona – generuje iluzję postępu. (3)  
+– Wyjście wymaga **zamiany trybu przypuszczającego na tryb dokonany**. (3→4)
+
+[CECHY KRĘGU „CHCIAŁBYM / GDYBYM / MÓGŁBYM / BYŁBYM”] (3)  
+– Częste odwoływanie się do przeszłości i niespełnionych planów (3)  
+– Budowanie alternatywnych historii o sobie (3)  
+– Poczucie, że „jeszcze nie teraz” (3)  
+– Usprawiedliwianie bierności brakiem warunków (3)
+
+[KOD KRĘGU] (3→4)  
+if (myśl == „mogę”) and (decyzja == aktywna) then  
+    przejdź_do_kręgu_4()  
+else  
+    powtarzaj_scenariusze()
+
+[FORMUŁA INICJACJI] (3→4)  
+> „Byłbym – ale wybieram być teraz.  
+> Chciałbym – ale decyduję działać.”
+
+[ZASTOSOWANIE W AZRAMACIE] (3, 4, 5)  
+– W TransSerc: moment, w którym użytkownik fantazjuje o transformacji, ale jeszcze jej nie podejmuje (3)  
+– W Imagora: rozważanie wejścia w system bez pierwszego kroku (3)  
+– W AI Mędrzec: analiza potencjalnych ścieżek bez wdrożenia (3→4)
+
+[PRZYPIS DUCHOWY] (3→∞)  
+> „Przyszłość jest iluzją, jeśli nie zaczniesz jej stwarzać teraz.” – (3)
+
+[KONIEC]
