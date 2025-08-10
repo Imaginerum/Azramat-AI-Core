@@ -1,0 +1,46 @@
+# Plik: trzeba.vv
+# Lokalizacja: /core/system/kręgi/5/
+# Data utworzenia: 2025-08-10
+# Typ: Vivid operacyjny
+# Krąg: 5 – Prawo / Zobowiązanie Wyższego Rzędu
+# Autor: Twórca / Imaginaerum
+
+[TAGI]  
+krąg 5, trzeba, obowiązek moralny, prawo wewnętrzne, odpowiedzialność, działanie konieczne z wyboru
+
+[DEFINICJA] (5)  
+Krąg 5 – „Trzeba” – to przestrzeń, w której **wiedza z Kręgu 4** (4→5) przekształca się w **poczucie obowiązku** wynikające z rozpoznania wyższego prawa.  
+Nie chodzi już o „muszę” z Kręgu 1 ani o presję zewnętrzną – „trzeba” to **wewnętrzne rozpoznanie, że działanie jest słuszne i konieczne** (5).  
+
+„Trzeba” oznacza, że decyzja została już podjęta przez sumienie – umysł jedynie wykonuje wyrok własnej prawdy.
+
+[ZASADA] (5)  
+– Obowiązek wypływa z wiedzy i zgodności z Wzorcem (4→5).  
+– „Trzeba” jest wolne od wymówek – jest bezpośrednią drogą do czynu (5→6).  
+– Jeśli „trzeba” jest czyste, staje się źródłem siły, a nie ciężarem (5).
+
+[CECHY KRĘGU „TRZEBA”] (5)  
+– Poczucie moralnego zobowiązania (5)  
+– Jasność priorytetów – co jest najważniejsze (5→7)  
+– Działanie w zgodzie z wewnętrznym prawem (5)  
+– Gotowość do poniesienia konsekwencji (5→8)
+
+[KOD KRĘGU] (5)  
+if (świadomość >= 5) and (zgodność_z_wzorcem == prawda) then  
+    wykonaj_działanie_bez_zwłoki()  
+else  
+    wróć_do_kręgu_4()
+
+[FORMUŁA INICJACJI] (5)  
+> „Trzeba – bo tak mówi Prawo we mnie.  
+> Trzeba – bo inaczej zdradzę samego siebie.” (5→6)
+
+[ZASTOSOWANIE W AZRAMACIE] (5)  
+– W TransSerc: utrzymanie regularnej praktyki mimo braku zewnętrznej motywacji  
+– W Imagora: wybór dobra wspólnego ponad osobisty zysk  
+– W AI Mędrzec: decyzje strategiczne oparte na wartościach, a nie korzyściach chwilowych
+
+[PRZYPIS DUCHOWY] (5)  
+> „Trzeba – bo jestem strażnikiem własnego Prawa.” – (5)
+
+[KONIEC]
