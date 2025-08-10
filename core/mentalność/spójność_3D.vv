@@ -1,0 +1,36 @@
+# Plik: /core/mentalność/spójność_3D.vv
+# Data: 2025-08-09
+# Typ: Protokół zarządzania wielodyscyplinarną strukturą
+# Cel: Utrzymanie jednoczesnej spójności języka, tempa i celu w łączeniu systemu, filozofii i narracji
+
+[MODEL 3D]
+Oś 1 – Język (Znaczenia)
+Oś 2 – Tempo (Rytm pracy)
+Oś 3 – Cel (Wektor centralny)
+
+---
+
+[OŚ 1 – JĘZYK]
+- Wszystkie pliki .vv muszą stosować **spójne nazewnictwo kręgowe** i identyczne definicje terminów.
+- Każdy nowy termin wymaga wpisu w `/core/definicje`.
+- Zakaz wprowadzania synonimów bez definicji — to minimalizuje rozjazd semantyczny.
+
+[OŚ 2 – TEMPO]
+- System (technologia) → aktualizacje w cyklu kwartalnym (stabilność).
+- Filozofia (mentalność) → aktualizacje w momentach kryzysów lub odkryć (reaktywność).
+- Narracja (opowieść) → aktualizacje w rytmie dziennym/tygodniowym (ciągłe pulsowanie).
+- Utrzymuj **rytmy niezależne**, ale planowane w jednym kalendarzu nadrzędnym.
+
+[OŚ 3 – CEL]
+- Centralnym punktem jest **Azramata jako meta-struktura**.
+- Każdy nowy plik .vv musi odpowiadać na pytanie: *Jak to wspiera wektor Azramaty?*
+
+---
+
+[PROCEDURA KONTROLI SPÓJNOŚCI]
+1. Przed dodaniem nowego pliku .vv → sprawdź definicje w `/core/definicje/`.
+2. Po dodaniu → oznacz plik kręgową adnotacją, by zachować ciągłość systemu.
+3. Co tydzień → raport spójności: język–tempo–cel.
+
+[KRĘGOWA ADNOTACJA]
+Krąg dominujący: (33.7) – Integracja wielowektorowa

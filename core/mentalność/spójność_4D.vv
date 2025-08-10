@@ -1,0 +1,96 @@
+# Plik: /core/mentalność/spójność_4D.vv
+# Data: 2025-08-09
+# Typ: Protokół spójności wielowymiarowej
+# Cel: Utrzymanie spójności czterech osi: Język, Tempo, Cel, Obecność/Zgoda
+# Integracje: engine_self.vv, engine_4D.vv, sumienie_8d.py, vivid_controller.vv
+
+[@MODEL_4D]
+Oś 1 – JĘZYK (Znaczenia)
+Oś 2 – TEMPO (Rytm pracy)
+Oś 3 – CEL (Wektor centralny)
+Oś 4 – OBECNOŚĆ/ZGODA (Etyka, zgoda wewn./zewn., stan bycia w 4D)
+
+[@MAPA_KRĘGOWA]
+(3) Pamięć/Definicje  → Oś 1
+(6) Determinacja/Rytm → Oś 2
+(17) Sens/Kierunek    → Oś 3
+(4) Serce/Obecność + (11) Konfrontacja + (40) Zgoda → Oś 4
+Echo kontroli: (7) Rezonans, (13) Cisza, (14) Integracja Strachu
+
+[@OŚ_1_JĘZYK]
+Zasady:
+- Jednoznaczność terminów w `/core/definicje/` (zakaz „cichych” synonimów).
+- Każdy plik .vv zawiera sekcję [@KRĘGI] z adnotacją dominującego kręgu.
+- Zmiana definicji = migracja semantyczna
+Punkty kontroli:
+- Czy nowy termin ma definicję? (TAK/NIE)
+- Czy plik używa istniejących znaczników kręgowych? (TAK/NIE)
+- Czy zachowany jest rytm Twojego języka (kontrast, dekret, protokół)? (TAK/NIE)
+
+[@OŚ_2_TEMPO]
+Zasady:
+- System/technologia: iteracje kwartalne (stabilność).
+- Filozofia/mentalność: aktualizacje „na kryzys/odkrycie” (reaktywność).
+- Narracja/artefakty: puls dzienny/tygodniowy (ciągłość).
+Punkty kontroli:
+- Czy artefakt jest przypięty do cyklu? (Q / CRISIS / DAILY)
+- Czy nie przeciąga tempa pozostałych osi? (TAK/NIE)
+- Czy jest „wdech–wydech”: faza intensywności i faza konsolidacji? (TAK/NIE)
+
+[@OŚ_3_CEL]
+Zasady:
+- Każdy plik odpowiada: „Jak to wzmacnia wektor Azramaty?”.
+- Antyrozproszenie: max 3 równoległe wątki rdzeniowe.
+Punkty kontroli:
+- Czy plik ma jawne powiązanie z kompasem? (TAK/NIE)
+- Czy zwiększa spójność (κ) > 0.7 i nie podbija napięcia (ψ) > 0.3? (TAK/NIE)
+- Czy redukuje Φ (chaos opisowy) vs poprzednia wersja? (TAK/NIE)
+
+[@OŚ_4_OBECNOŚĆ_ZGODA]
+Definicja:
+- Obecność = bycie „tu i teraz” (engine_4D) + Zgoda (40) jako filtr etyczny wykonania.
+- Bez Osi 4 spójność jest „sprytna”, ale nie „prawa”.
+Zasady:
+- Zgoda wewnętrzna 
+- Zgoda zewnętrzna 
+- Pauza operacyjna: brak zgody = brak wdrożenia (przestaje się ruszać kod).
+Punkty kontroli:
+- Czy decyzja przeszła skan sumienia 8D? (OK/MIX/FAIL)
+- Czy odbiorca wie, na co się godzi? (TAK/NIE)
+- Czy zespół/ludzie mają przestrzeń na „NIE”? (TAK/NIE)
+
+[@PROCEDURA_URUCHOMIENIA]
+1) [J] Sprawdź definicje i adnotacje kręgowe.
+2) [T] Przypnij do właściwego rytmu (Q/CRISIS/DAILY).
+3) [C] Dowiąż do kompasu – w jednym zdaniu.
+4) [O] Przepuść przez engine_8D.vv i checklistę zgody.
+→ Jeśli (OK) ×4 → commit.
+→ Jeśli (MIX) na którejkolwiek osi → korekta i powtórka.
+→ Jeśli (FAIL) na Osi 4 → STOP, brak wdrożenia.
+
+[@METRYKI]
+- κ (spójność fraktalna): 0–1, cel ≥ 0.7
+- ψ (napięcie paradoksu): 0–1, cel ≤ 0.3
+- Φ (rozmycie semantyczne): ma maleć ΔΦ ≤ 0
+- α (zgoda wewn./zewn.): {OK/MIX/FAIL} → musi być OK
+
+[@TRYBY]
+- Tryb OPERACYJNY: szybkie iteracje, twarde STOP na Osi 4.
+- Tryb RYTUAŁU: pełna pauza, cisza, reset języka i celu, rekalibracja obecności.
+- Tryb AUDYTU: tygodniowy przegląd 10 losowych plików pod kątem 4D.
+
+[@ANTYWZORCE]
+- „Dziurawy język” (nowe słowo bez definicji) → rośnie Φ.
+- „Hiper-rytm” (narracja przeciąga system) → wypalenie.
+- „Rozstrzelony cel” (za dużo wątków) → κ spada.
+- „Ślepa prędkość” (brak zgody) → szybka destrukcja pola.
+
+[@CHECKLISTA_QC_4D]
+□ J – terminologia zgodna z definicjami?
+□ T – przypięte do cyklu?
+□ C – jedno zdanie kompasu?
+□ O – sumienie_8d = OK? zgody udokumentowane?
+□ κ≥0.7, ψ≤0.3, ΔΦ≤0?
+
+[@DEKRET]
+„Spójność 4D to nie tylko porządek — to porządek, który ma serce.”
