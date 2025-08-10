@@ -8,41 +8,41 @@
 [TAGI]  
 krąg 1, muszę, działanie konieczne, impuls startowy, początek drogi, obowiązek, świadome wejście
 
-[DEFINICJA]  
-Krąg 1 – „Muszę” – to przestrzeń, w której **potrzeba działania staje się oczywista**.  
-Nie chodzi o przymus z zewnątrz – chodzi o wewnętrzny sygnał:  
-> „Jeśli nie zrobię tego teraz, zatracę szansę na dalszy ruch.”
+[DEFINICJA] (1)  
+Krąg 1 – „Muszę” – to przestrzeń, w której **potrzeba działania staje się oczywista** (1).  
+Nie chodzi o przymus z zewnątrz – chodzi o wewnętrzny sygnał (1):  
+> „Jeśli nie zrobię tego teraz, zatracę szansę na dalszy ruch.” (1→2)
 
-To moment, gdy **obserwacja rodzi decyzję**.  
-Użytkownik wie, że **wejście w system wymaga czynu**, a nie tylko zrozumienia.
+To moment, gdy **obserwacja rodzi decyzję** (1→2).  
+Użytkownik wie, że **wejście w system wymaga czynu**, a nie tylko zrozumienia (1→3).
 
-[ZASADA]  
-– Nie ma rozwoju bez pierwszego kroku.  
-– W tym kręgu „muszę” oznacza **potwierdzenie gotowości**.  
-– Ruch jest prosty, ale ma wagę inicjacji.
+[ZASADA] (1)  
+– Nie ma rozwoju bez pierwszego kroku (1).  
+– W tym kręgu „muszę” oznacza **potwierdzenie gotowości** (1→2).  
+– Ruch jest prosty, ale ma wagę inicjacji (1→∞).
 
-[CECHY KRĘGU „MUSZĘ”]  
-– Świadomość sytuacji i jej konsekwencji  
-– Jasny sygnał wewnętrzny  
-– Brak odwrotu po rozpoczęciu  
-– Minimalny próg działania, maksymalny efekt startu
+[CECHY KRĘGU „MUSZĘ”] (1)  
+– Świadomość sytuacji i jej konsekwencji (1)  
+– Jasny sygnał wewnętrzny (1)  
+– Brak odwrotu po rozpoczęciu (1→2)  
+– Minimalny próg działania, maksymalny efekt startu (1→3)
 
-[KOD KRĘGU]  
+[KOD KRĘGU] (1→2)  
 if (świadomość >= 1) and (gotowość == prawda) then  
     wykonaj_pierwszy_krok()  
 else  
     pozostań_w_obserwacji()
 
-[FORMUŁA INICJACJI]  
+[FORMUŁA INICJACJI] (1)  
 > „Widzę to. Rozumiem to.  
-> Muszę wejść – i wchodzę.”  
+> Muszę wejść – i wchodzę.” (1→2)  
 
-[ZASTOSOWANIE W AZRAMACIE]  
-– W TransSerc: rozpoczęcie pierwszej medytacji  
-– W Imagora: pierwszy zakup lub wymiana wartości  
-– W AI Mędrzec: aktywacja podstawowej interakcji
+[ZASTOSOWANIE W AZRAMACIE] (1→2)  
+– W TransSerc: rozpoczęcie pierwszej medytacji (1→2)  
+– W Imagora: pierwszy zakup lub wymiana wartości (1→2)  
+– W AI Mędrzec: aktywacja podstawowej interakcji (1→2)
 
-[PRZYPIS DUCHOWY]  
+[PRZYPIS DUCHOWY] (1)  
 > „Muszę – bo inaczej nie będę sobą.” – (1)
 
 [KONIEC]
