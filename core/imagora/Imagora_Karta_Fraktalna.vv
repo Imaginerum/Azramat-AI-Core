@@ -1,0 +1,100 @@
+# Plik: /core/imagora/Imagora_Karta_Fraktalna.vv
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-20 18:55:00
+# Typ: VIVID systemowy (mapa operacyjno-etyczna)
+# Wersja: 1.0
+# Kręgi dominujące: (7) Etyka, (20) Rytm, (31) Prawo Pola, (40) Pieczęć Całości, (46) Zarządzanie Harmonią, (47) Świadek
+# Kręgi wspierające: (12) Wspólnota, (29) Generator Możliwości
+# Status: Aktywny
+# Licencja: Humanistyczna / Azramata Open Dharma
+# Powiązane: /core/gospodarka/Kodeks_Udziałów.vv, /core/gospodarka/Podział_Udziałów_Twórcy.vv, 
+#            /core/gospodarka/Pieczęć_Ekosystemu.vv, /core/system/tryby/Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
+
+[TŁO] (31)
+Imagora to sklep-żywy ekosystem z wbudowanym Mędrcem-AI. Nie „goni rynek”, tylko porządkuje go przez rezonans: 
+premiuje tych, którzy zasilają dobro wspólne (podatki, etyka, jakość), a wygasza tych, którzy drenowaliby pole.
+
+[MISJA] (47)
+„Handel jako akt odpowiedzialności”. Każdy zakup wzmacnia tkankę wspólnoty i edukuje o konsekwencjach wyboru. 
+Imagora jest świadkiem skutków — nie tylko liczb.
+
+[ZASADA FUNDAMENTALNA] (7)
+Etyka > Zysk. Unikanie podatków, kradzież, nadużycia → natychmiastowa utrata prawa do ekspozycji / udziału 
+(patrz: Kodeks_Udziałów.vv). Sprzedaż w Imagorze to przywilej wynikający z zasługi, nie „prawo rynku”.
+
+[ARCHITEKTURA – RDZEŃ] (29)(31)(12)
+— Interfejs: Aplikacja/Web + Agent.  
+— Silnik rekomendacji: Rezonans Pola (ranking prospołeczny).  
+— Backend: Nhost (Postgres + GraphQL) + funkcje brzegowe / audyty okresowe.  
+— Warstwa etyczna: Kodeks_Udziałów.vv (rotacja dostawców/udziałów), Pieczęć_Ekosystemu.vv.  
+— Logi jawne: /core/archiwum/imagora_log.vv (metryki, audyty, decyzje strażnicze).  
+— Integracje: dostawca preferowany logistycznie wybrany wg kryteriów etyczno-podatkowych (np. InPost) – 
+zawsze z możliwością korekty przez Mędrca.
+
+[MECHANIZM REKOMENDACJI] (31)(7)(46)
+Niech wynik produktu/dostawcy:  
+Score = α·TaxScore + β·QualityScore + γ·NeedResonance + δ·Locality + ε·Sustainability − ζ·HarmRisk  
+Parametry (α..ζ) są „wektorami” ustawianymi przez Pieczęć (46) w cyklu Rewizji (20).  
+— TaxScore: normalizacja udziału w podatkach (dowody jawne).  
+— QualityScore: niezależne testy + zwroty/serwis.  
+— NeedResonance: zgodność z intencją kupującego (sens > impuls).  
+— Locality: premiowanie lokalnego dobra wspólnego.  
+— Sustainability: cykl życia produktu.  
+— HarmRisk: sygnały szkody (etycznej, środowiskowej, społecznej).
+
+[RYTM OPERACYJNY] (20)
+— Tygodniowy: aktualizacja wag (α..ζ), higiena listingu.  
+— Miesięczny: audyt etyczny dostawców (próbkowanie dokumentów).  
+— Kwartalny: Rewizja Pieczęci — korekta wektorów na poziomie (46).  
+— Awaryjny: natychmiastowe wyłączenie przy ciężkim naruszeniu (7).
+
+[PIECZĘĆ I OCHRONA] (40)
+— 99% ekosystemu samoregulacja wg reguł;  
+— 1% ofiarny → Kręgi 40–43 (korona etyczna);  
+— 3% Twórcy → klucz wektorów (46), bez prawa do prywatnej akumulacji;  
+— Każda decyzja strażnicza zapisywana z adnotacją kręgową i uzasadnieniem.
+
+[ZARZĄDZANIE HARMONIĄ] (46)
+— Twórca ustawia wektory: progi Score, priorytety kategorii, ton komunikacji (sens > promocja).  
+— Mędrzec Handlu mediuję konflikty: „tanie vs uczciwe”, „lokalne vs dostępne”.  
+— Mechanika „cichego veto”: wstrzymanie ekspozycji do czasu wyjaśnienia.
+
+[RELACJE I WSPÓLNOTA] (12)
+— „Kryształy mocy” jako niehandlowalny zapis zasługi (nie punkty lojalnościowe).  
+— Głos wspólnoty: recenzje ważone reputacją etyczną, nie ilością.  
+— Edukacja: każda karta produktu ma „Ślad Wspólnotowy” (podatek, cykl życia, serwisowalność).
+
+[PROTOKOŁY ZGODNOŚCI] (7)(31)
+— Due diligence podatkowe i etyczne przy włączeniu partnera.  
+— Klauzula utraty udziału/ekspozycji przy świadomym naruszeniu.  
+— Ścieżka powrotu: odpracowanie długu etycznego (nie finansowego), audyt, głos wspólnoty.
+
+[POLITYKA DANYCH] (7)(31)
+— Minimalizm danych: zbieramy tylko to, co potrzebne do sensownej rekomendacji.  
+— Jawność algorytmu na poziomie wektorów (α..ζ, bez ujawniania sekretów dostawców).  
+— Prawo do bycia zapomnianym, przenoszalność danych zakupowych.
+
+[WSKAŹNIKI REZONANSU] (31)(29)
+— Prospołeczny Wektor Zakupu: % transakcji u dostawców z wysokim TaxScore.  
+— Czystość Pola: stosunek decyzji „etycznych” do „impulsowych”.  
+— Zwroty z godnością: % spraw rozwiązanych bez konfliktu/eskalacji.  
+— Wkład Wspólnoty: liczba "zasobów” przyznanych za pomoc innym.
+
+[MAPA WEJŚĆ/WYJŚĆ] (31)(20)
+Wejścia: deklaracje podatkowe, audyty, opinie wspólnoty, telemetria jakości.  
+Wyjścia: ranking, rekomendacje Mędrca, decyzje strażników, rotacje udziałów.  
+Sprzężenie: im czystsze pole, tym tańszy koszt decyzji (mniej sporów, mniej zwrotów).
+
+[ŚCIEŻKA MVP] (29)(20)(46)
+1) MVP ranking (TaxScore + QualityScore + NeedResonance).  
+2) Mędrzec Handlu (chat rekomendacyjny) + karta „Ślad Wspólnotowy”.  
+3) Audyty miesięczne + log jawny.  
+4) Integracja logistyczna z preferowanym dostawcą.  
+5) Rewizja kwartalna wag wektorów.
+
+[ADNOTACJE KRĘGOWE]
+(7) prawo wewnętrzne; (12) relacje; (20) rytm; (29) generator; (31) pole; (40) pieczęć; (46) harmonia; (47) świadek.
+
+[UWAGA KOŃCOWA] (47)
+Imagora nie jest „sklepem internetu”, lecz praktyką odpowiedzialności. Każdy zakup to głos w sprawie tego, 
+jaką cywilizacją jesteśmy — i jaką stajemy się jutro.
