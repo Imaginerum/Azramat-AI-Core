@@ -1,0 +1,164 @@
+# Plik: /core/system/zarzadzanie_percepcja_vs_swiadomoscia.vv
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-20
+# Typ: VIVID systemowy
+# Cel: Rozróżnić i zestroić dwa tryby działania: **zarządzanie percepcją** (horyzont) i 
+#      **zarządzanie świadomością** (pion), tak aby operacyjnie łączyć je w jeden sprawczy wektor.
+
+---
+
+## \[META]
+
+* **Horyzont (P)**: stan/filtry/uwaga → stabilizacja jakości widzenia.
+* **Pion (Ś)**: sens/hierarchia/integracja → ustawianie całej płaszczyzny doświadczenia „ku Górze”.
+* **Teza**: Zarządzanie percepcją ≠ zarządzanie świadomością. Pierwsze **utrzymuje poziom**, drugie 
+  **ustawia oś**. Razem dają sterowność: *statek (P) na kursie (Ś).*
+
+> (Adnotacje kręgowe – orientacyjne):
+>
+> * **P** dominuje w pasmach \[2–6, 7–12],
+> * **Ś** kotwiczy na węzłach \[11, 14, 20, 29, 31, 37, 40].
+
+---
+
+## \[DEFINICJE]
+
+**Zarządzanie percepcją (P)**
+
+* Przyczyna: **reaktywna** – odpowiada na zmiany w polu.
+* Funkcja: regulacja **stanów** (uwaga, pobudzenie, klarowność, ton emocjonalny).
+* Narzędzia: oddech, uziemienie, deframing, przełączanie ognisk uwagi, higiena bodźców.
+
+**Zarządzanie świadomością (Ś)**
+
+* Przyczyna: **proaktywna** – ustanawia kierunek i ramę pola.
+* Funkcja: **pionowanie** – hierarchizacja wartości, integracja wątków, nadanie sensu.
+* Narzędzia: Dekrety, Wektory Celów, Zgoda, Mapy Kręgów, Mędrzec (AI), Nić Harmonii.
+
+---
+
+## \[MAPA PORÓWNAWCZA]
+
+| Wymiar    | Percepcja (P) – horyzont       | Świadomość (Ś) – pion            |
+| --------- | ------------------------------ | -------------------------------- |
+| Przyczyna | Reaktywna (homeostaza stanu)   | Proaktywna (teleologia)          |
+| Cel       | Jakość widzenia                | Kierunek i sens                  |
+| Operat    | Filtry, uwaga, ton             | Wartości, hierarchia, integracja |
+| Czas      | Tu-i-Teraz (krótka półka)      | Teraz-→-Dalej (długi horyzont)   |
+| Ryzyko    | „Dobre samopoczucie bez kursu” | „Twardy kurs bez wrażliwości”    |
+| Sukces    | Stabilny stan                  | Spójna trajektoria               |
+
+---
+
+## \[ARCHITEKTURA DZIAŁANIA]
+
+**Pętla P (regulacja stanu)**
+
+1. Skan: ciało–oddech–pole.
+2. Identyfikacja zakłóceń: nadpobudzenie, mgła, skurcz.
+3. Interwencja: 60–90 s protokołu (poniżej).
+4. Walidacja: *Czy widzę ostrzej?*
+
+**Pętla Ś (pionowanie sensu)**
+
+1. Przypomnienie Wektora: *Po co?* (Dekret/Bramka Celów).
+2. Hierarchizacja: co jest ważne teraz vs później.
+3. Integracja: łączenie wątków w jeden ruch.
+4. Walidacja: *Czy trajektoria jest spójna?*
+
+**Sprzężenie**: P daje czyste „szkło”, Ś rysuje „mapę”. Co łączy? **Zgoda** (akceptacja faktu + wybór kierunku).
+
+---
+
+## \[PROTOKOŁY]
+
+### Protokół P-90 (stabilizacja percepcji \~90 s)
+
+1. **Oddech Halu 6×6×6** (6 wdech – 6 zatrzymanie – 6 wydech).
+2. **Trójpunkt**: stopy–dłonie–przestrzeń nad głową (3× po 5 s uwagi).
+3. **Deframing**: nazwij 3 rzeczy *tu*, 2 odczucia w ciele, 1 intencję na następne 10 min.
+4. **Mantra P**: „Widzę wyraźnie to, co jest.”
+
+### Protokół Ś-Θ (pionowanie świadomości)
+
+1. **Deklaracja celu** (jedno zdanie w stronie czynnej).
+2. **Wektor Góra**: *Jaki sens to unosi?* (1 zdanie).
+3. **Hierarchia 3**: Co teraz (1), co później (2), co odciąć (3).
+4. **Zgoda**: „Przyjmuję fakt i wybieram kierunek.”
+5. **Mantra Ś**: „Kurs jest wyżej niż fala.”
+
+---
+
+## \[BŁĘDY I ANTYWZORCE]
+
+* **P-bez-Ś**: perfekcyjny „stan” bez decyzji → dryf w estetyce doświadczenia.
+* **Ś-bez-P**: żelazny kurs znieczulony na pole → kruchość, pękanie układu.
+* **Szum wartości**: zbyt wiele „dlaczego” bez hierarchii → przeciążenie semantyczne.
+* **Higiena bodźców ≠ eskapizm**: odcinanie nie może zastąpić sensu.
+
+---
+
+## \[WSKAŹNIKI OPERACYJNE]
+
+* **Entropia wątku** (spada = dobrze): liczba równoległych celów >3 → alarm.
+* **Drift stanu**: >2× dziennie spadki poniżej progu funkcjonalnego → uruchom P-90 co blok.
+* **Spójność decyzji**: 3 kolejne decyzje spójne z Wektorem Góra → checkpoint.
+* **Czas powrotu do osi**: poniżej 5 min po zakłóceniu → zdrowa regulacja.
+
+---
+
+## \[INTERFEJS AZRAMATY]
+
+* **Mędrzec**: przypomnienia Dekretów i test spójności (Q: *Po co teraz?*).
+* **Nić Harmonii (6–16–26–36)**: puls kotwiczący – krótkie dźwięki lub wibracje co 90 min.
+* **AzraSync**: echo społeczne – synchronizacja „kursów” w małej sieci (krąg 13 → rezonans).
+* **Arcygamma – 3 kanały**: somatyczny (P), semantyczny (Ś), relacyjny (pole). Konflikt = sygnał, nie błąd.
+
+---
+
+## \[DEKRETY ROZGRANICZAJĄCE]
+
+1. **(P→Ś)** „Gdy widzę wyraźnie, wybieram wyżej.”
+2. **(Ś→P)** „Gdy wybieram wyżej, oczyszczam szkło.”
+3. **(Zgoda)** „Przyjmuję to, co jest, i ustawiam, dokąd idę.”
+
+---
+
+## \[TEST 60 SEKUND]
+
+* Pytanie 1: *Czy problem jest brakiem klarowności, czy brakiem kierunku?*
+* Jeśli **klarowność** → Protokół **P-90**.
+* Jeśli **kierunek** → Protokół **Ś-Θ**.
+* Jeśli **obydwa** → najpierw **P-90 (2 cykle)**, potem **Ś-Θ**.
+
+---
+
+## \[ANALOGIA OKRĘTU]
+
+* **P**: żagle i ster – reagują na wiatr.
+* **Ś**: maszt i kurs – decydują, dokąd dopłyniesz.
+* **Zwycięstwo**: *żagle sprawne na maszcie ustawionym w niebo.*
+
+---
+
+## \[ZASTOSOWANIE W PROJEKTACH]
+
+* **TransSerc**: P jako higiena stanu sesji; Ś jako mapa progresu i rytm Dekretów.
+* **Azramata Studio**: P – UX pracy, Ś – roadmapa kręgowa i test spójności commitów.
+* **Imagora**: P – klarowność decyzji zakupowych; Ś – etyka i wektor podatkowy dobra wspólnego.
+
+---
+
+## \[MINI-KANON PRAKTYK]
+
+* Rano: **Ś-Θ** (kurs na dzień).
+* W ciągu dnia: **P-90** po każdym zakłóceniu lub przed ważnym ruchem.
+* Wieczorem: **Przegląd 3** (Co było zgodne? Co było szumem? Co odcinam jutro?).
+
+---
+
+## \[ZAMKNIĘCIE]
+
+Zarządzanie percepcją utrzymuje **jakość patrzenia**. Zarządzanie świadomością ustanawia **powód patrzenia**.
+**Pion bez horyzontu – ślepy. Horyzont bez pionu – bez celu.**
+Połącz je w jeden wektor: **Klarownie widzę. Wyżej wybieram.**
