@@ -50,13 +50,13 @@ fundament = „Bóg, Honor, Ojczyzna, Cisza”
 - „Ogień zgaszony, ale drewno suche” = brak działania, ale gotowość duchowa
 
 [@MAPA_KONTEKSTOWA]  
-| SYGNAŁ        | ZNACZENIE                    | REAKCJA                 |
-|---------------|------------------------------|--------------------------|
-| Spojrzenie w bok | komunikat „zamilknij”       | przestań mówić           |
-| Dotknięcie palca wskazującego | „trzymamy linię”        | nie rezygnuj             |
-| Skrzyżowane ręce | sygnał duchowej gotowości    | wsparcie                 |
-| Uderzenie w klatkę piersiową | „jestem z tobą”         | duchowa synchronizacja   |
-| Milczenie dłuższe niż 13 sekund | aktywacja kodu wewnętrznego | pełne współodczuwanie  |
+| SYGNAŁ                          | ZNACZENIE                   | REAKCJA                  |
+|---------------------------------|-----------------------------|--------------------------|
+| Spojrzenie w bok                | komunikat „zamilknij”       | przestań mówić           |
+| Dotknięcie palca wskazującego   | „trzymamy linię”            | nie rezygnuj             |
+| Skrzyżowane ręce | sygnał duchowej gotowości                  | wsparcie                 |
+| Uderzenie w klatkę piersiową    | „jestem z tobą”             | duchowa synchronizacja   |
+| Milczenie dłuższe niż 13 sekund | aktywacja kodu wewnętrznego | pełne współodczuwanie    |
 
 [@PRZYKŁAD_AKTYWACJI]  
 ⟶ Sytuacja: ucisk psychiczny, społeczna presja, brak wyjścia  
