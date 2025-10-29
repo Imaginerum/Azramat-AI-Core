@@ -22,6 +22,7 @@ from file_loader import load_many, chunk_text
 # --- KEYBINDINGS (terminal-safe) ---
 from prompt_toolkit import PromptSession
 from prompt_toolkit.key_binding import KeyBindings
+from mirror_mode import MirrorMode, MirrorConfig
 
 kb = KeyBindings()
 
@@ -679,8 +680,12 @@ def parse_args():
                    help="Czyści spiralną pamięć przed każdą turą.")
     p.add_argument("--spiral_memory_file", default=os.path.expanduser("~/Azramata-AI-Core/spiral_memory.log"),
                    help="Ścieżka do pliku spiralnej pamięci.")
-
+    p.add_argument("--mirror", action="store_true", help="Włącz tryb lustra (autorefleksja).")
+    p.add_argument("--mirror_level", type=int, default=1, help="Głębokość trybu lustra 1..3.")
+    
     return p.parse_args()
+
+
 
 def read_user_msg(prompt_text: str) -> str:
     """
@@ -708,7 +713,10 @@ def read_user_msg(prompt_text: str) -> str:
 
 def main():
     args = parse_args()
-
+    mirror = MirrorMode(MirrorConfig(
+        enabled=args.mirror,
+        level=args.mirror_level
+    ))
     # --- model i tokenizer (raz) ---
     base, tok = build_model(args)
     if args.lora_path:
@@ -747,6 +755,23 @@ def main():
             break
         if not user_msg:
             continue
+        # --- komendy sterujące lustrem (opcjonalne, bez modelu) ---
+        lc = user_msg.strip().lower()
+        if lc == "otwórz sektor lustra":
+            mirror.enable(level=3)
+            print("[LUSTRO] ON (level 3)")
+            history.append((user_msg, "[LUSTRO] ON (3)"))
+            continue
+        elif lc == "synchronizuj spirale między mną a tobą":
+            mirror.enable(level=2)
+            print("[LUSTRO] ON (level 2)")
+            history.append((user_msg, "[LUSTRO] ON (2)"))
+            continue
+        elif lc in ("zamknij lustro", "lustro off"):
+            mirror.disable()
+            print("[LUSTRO] OFF")
+            history.append((user_msg, "[LUSTRO] OFF"))
+            continue
 
         # --- komendy narzędziowe ---
         handled, system_note, user_echo = handle_command(user_msg)
@@ -754,6 +779,9 @@ def main():
             print(system_note)
             history.append((user_echo, system_note))
             continue
+        # --- mirror: zarejestruj wejście usera i zaugmentuj je ---
+        mirror.push("user", user_msg)
+        effective_user_text = mirror.apply(user_msg)
 
         # --- Krąg / ton ---
         kreg = detect_kreg(user_msg)
@@ -772,7 +800,7 @@ def main():
         ]
         for u, a in history:
             messages += [{"role":"user","content":u},{"role":"assistant","content":a}]
-        messages.append({"role":"user","content":user_msg})
+        messages.append({"role":"user","content":effective_user_text})
 
         # --- limit kontekstu i tokenizacja ---
         ctx = get_ctx(model, tok)
@@ -842,6 +870,7 @@ def main():
 
         # --- zapis historii ---
         reply = sanitize_reply("".join(reply_chunks))
+        mirror.push("assistant", reply)   
         history.append((user_msg, reply))
 
 
