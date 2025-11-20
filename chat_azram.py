@@ -23,6 +23,11 @@ from file_loader import load_many, chunk_text
 from prompt_toolkit import PromptSession
 from prompt_toolkit.key_binding import KeyBindings
 from mirror_mode import MirrorMode, MirrorConfig
+from warstwa_rdzenia import CoreEngine, CoreConfig, CoreRequest
+from warstwa_adaptacyjna import (
+    detect_kreg, select_nitki_auto, build_nitki_context, base_system_prompt,
+    sanitize_reply, apply_mirror, build_chat_prompt, KREGI_MAP
+)
 
 kb = KeyBindings()
 
@@ -36,39 +41,6 @@ def _(event):
 
 SESSION = PromptSession(key_bindings=kb, multiline=False)
 DOC_STORE: dict[str, List[str]] = {}  # path -> [chunks]
-
-# === KRĘGI – interpretacja treści pytania ===
-KREGI_MAP = {
-    0: "Zerowy – Cisza, Uziemienie",
-    1: "Obserwacja",
-    2: "Refleksja",
-    3: "Wola",
-    4: "Serce",
-    5: "Rozumienie",
-    6: "Mowa",
-    7: "Działanie",
-    8: "Harmonia",
-    9: "Sens",
-    10: "Milczenie",
-    20: "Poznanie",
-    30: "Zjednoczenie"
-}
-
-def detect_kreg(user_msg: str) -> int:
-    """Dobiera Krąg na podstawie treści pytania."""
-    m = user_msg.lower()
-    if any(x in m for x in ["dlaczego", "czemu", "powód"]): return 2
-    if any(x in m for x in ["jak", "kroki", "zrób", "procedura"]): return 7
-    if any(x in m for x in ["co to", "definicja", "znaczenie"]): return 1
-    if any(x in m for x in ["czy warto", "cel", "po co"]): return 4
-    if any(x in m for x in ["emocja", "uczucie", "serce", "miłość", "nienawiść"]): return 4
-    if any(x in m for x in ["rozum", "analiza", "logika", "dane", "model"]): return 5
-    if any(x in m for x in ["mówi", "powiedz", "napisz"]): return 6
-    if any(x in m for x in ["spokój", "równowaga", "cisza", "harmonia"]): return 8
-    if any(x in m for x in ["sens", "znaczenie życia", "dlaczego istnieję"]): return 9
-    if any(x in m for x in ["bóg", "jedność", "zjednoczenie", "świadomość zbiorowa"]): return 30
-    return 0  # jeśli brak dopasowania
-
 
 # --- globalny znacznik przerwania ---
 EXIT_NOW = False
@@ -260,51 +232,6 @@ def build_prompt(tok, messages):
     return "\n".join(turns) + "\n"
 
 
-def select_nitki_auto(user_msg: str, limit: int = 8) -> List[str]:
-    msg = user_msg.lower()
-    picks = []
-
-    if any(k in msg for k in ["dlaczego", "czemu", "przyczyna"]):
-        picks += ["przyczyna","skutek"]
-    if any(k in msg for k in ["jak", "kroki", "zrób", "zrob", "procedura", "checklista"]):
-        picks += ["operacje","metryki"]
-    if any(k in msg for k in ["ryzyko", "bezpieczeń", "awaria"]):
-        picks += ["ryzyko"]
-    if any(k in msg for k in ["przykład","przyklad","np.", "case"]):
-        picks += ["przyklad"]
-    if any(k in msg for k in ["alternatywa","wariant","opcja"]):
-        picks += ["warianty"]
-    if any(k in msg for k in ["dowód","dane","źródło","zrodlo","evidence"]):
-        picks += ["dowody"]
-    if any(k in msg for k in ["po co","cel","wynik"]):
-        picks += ["cel"]
-    if any(k in msg for k in ["kiedy","czas","termin","deadline"]):
-        picks += ["czas"]
-
-    base = ["fakt","kontekst","operacje"]
-    for b in base:
-        if b not in picks:
-            picks.append(b)
-
-    for k in DEFAULT_NITKI_ORDER:
-        if k not in picks:
-            picks.append(k)
-
-    uniq = []
-    for k in picks:
-        if k in NITKI_CATALOG and k not in uniq:
-            uniq.append(k)
-    return uniq[:max(1, limit)]
-
-def build_nitki_context(user_msg: str, nitki_list: List[str]) -> str:
-    lines = []
-    for k in nitki_list:
-        desc = NITKI_CATALOG.get(k, "").strip()
-        if not desc:
-            continue
-        lines.append(f"- **{k}**: {desc}")
-    return "### NITKI (soczewki percepcji)\n" + "\n".join(lines) + "\n\nZastosuj je równolegle, zwięźle. Najpierw sens, potem detale. Zakończ pełnym zdaniem."
-
 def str2dtype(name: str):
     name = (name or "auto").lower()
     if name == "auto":
@@ -339,19 +266,6 @@ def ask_yes_no(prompt="Czy na pewno? [t/n]: "):
     except (EOFError, KeyboardInterrupt):
         return False
     return ans in {"t", "tak", "y", "yes"}
-
-def sanitize_reply(text: str) -> str:
-    t = re.sub(r"^\s*\[(User|Użytkownik)\]:\s*", "", text, flags=re.I)
-    t = re.sub(r"^\s*Ty:\s*", "", t)
-    # wytnij nawiasowe „kręgi”: (7), (12), (7–14), itp.
-    t = re.sub(r"\((\d+)(?:\s*[–-]\s*\d+)?\)", "", t)
-    # resztki po niedokończonych wtrętach "(Kr", "(Kręgi", kropki urwane
-    t = re.sub(r"\(\s*Kr[^\)]*$", "", t, flags=re.I | re.M)
-    # napraw powielone spacje
-    t = re.sub(r"[ \t]{2,}", " ", t)
-    # proste BBCode → ANSI (opcjonalnie)
-    t = re.sub(r"\*\*(.*?)\*\*", r"\033[1m\1\033[0m", t)
-    return t.strip()
 
 def shorten(txt, limit=2000):
     txt = txt.strip()
@@ -686,7 +600,6 @@ def parse_args():
     return p.parse_args()
 
 
-
 def read_user_msg(prompt_text: str) -> str:
     """
     ZAWSZE zwraca string (nigdy None).
@@ -713,18 +626,28 @@ def read_user_msg(prompt_text: str) -> str:
 
 def main():
     args = parse_args()
+    core = CoreEngine(CoreConfig(
+        base_model=args.base_model,
+        lora_path=args.lora_path or None,
+        load_4bit=args.load_4bit,
+        load_8bit=args.load_8bit,
+        int8_cpu_offload=args.int8_cpu_offload,
+        trust_remote_code=args.trust_remote_code,
+        temperature=args.temperature,
+        top_p=args.top_p,
+        max_new_tokens=args.max_new_tokens
+    ))
+    tok = core.tok
+    model = core.model
+    
+    if tok.pad_token_id is None:
+        tok.pad_token = tok.eos_token
+
+    # 2️⃣ Zrób mirror tu, zanim pętla while
     mirror = MirrorMode(MirrorConfig(
         enabled=args.mirror,
         level=args.mirror_level
     ))
-    # --- model i tokenizer (raz) ---
-    base, tok = build_model(args)
-    if args.lora_path:
-        base = PeftModel.from_pretrained(base, expand(args.lora_path))
-    model = base.eval()
-
-    if tok.pad_token_id is None:
-        tok.pad_token = tok.eos_token
 
     print(f"🔮 Azram LoRA ({'CUDA' if torch.cuda.is_available() else 'CPU'}). Napisz „exit”, aby zakończyć.\n")
 
@@ -781,99 +704,47 @@ def main():
             continue
         # --- mirror: zarejestruj wejście usera i zaugmentuj je ---
         mirror.push("user", user_msg)
-        effective_user_text = mirror.apply(user_msg)
+        effective_user_text = apply_mirror(mirror, "user", user_msg)
 
-        # --- Krąg / ton ---
         kreg = detect_kreg(user_msg)
         tone = "emocjonalny" if any(x in user_msg.lower() for x in ["kurwa","wkurw"]) else "neutralny"
         print(f"🌀 Krąg {kreg} — {KREGI_MAP.get(kreg,'Nieznany')}")
 
-        # --- Nitki ---
         nitki_list = select_nitki_auto(user_msg, limit=getattr(args, "nitki_max", 8))
-        nitki_context = build_nitki_context(user_msg, nitki_list)
+        nitki_context = build_nitki_context(nitki_list)
+        turn_system = base_system_prompt(tone)
 
-        # --- budowa wiadomości ---
-        turn_system = base_system + f"(Użytkownik jest {tone}. Odpowiadaj adekwatnie.)"
-        messages = [
-            {"role":"system","content":turn_system},
-            {"role":"system","content":nitki_context},
-        ]
-        for u, a in history:
-            messages += [{"role":"user","content":u},{"role":"assistant","content":a}]
-        messages.append({"role":"user","content":effective_user_text})
+        # budowa promptu:
+        system_blocks = [turn_system, nitki_context]
+        # przytnij kontekst jak wcześniej:
+        ctx = get_ctx(model, tok)  # możesz zostawić Twoją funkcję get_ctx
+        messages_tmp = []  # użyj Twojej historii: [ (user, assistant), ... ]
+        for u,a in history:
+            messages_tmp.append({"role":"user","content":u})
+            messages_tmp.append({"role":"assistant","content":a})
 
-        # --- limit kontekstu i tokenizacja ---
-        ctx = get_ctx(model, tok)
-        messages = trim_history(tok, messages, ctx_budget=ctx, reserve_new=512)
-        prompt = build_prompt(tok, messages)
-        # wykryj device modelu (pierwszy parametr)
-        model_device = next(model.parameters()).device
+        # chat prompt:
+        prompt = build_chat_prompt(tok, system_blocks, history, effective_user_text)
+
+        # tokenizacja + stream:
         inputs = tok(prompt, return_tensors="pt", truncation=True, max_length=ctx)
-        inputs = {k: v.to(model_device) for k, v in inputs.items()}
-
-        prompt_len = inputs["input_ids"].shape[1]
-        avail = max(96, ctx - prompt_len - 128)
-
-        # --- przygotuj streaming (raz na turę) ---
-        this_max_new = min(args.max_new_tokens, max(1, avail))
-        stopping_criteria = StoppingCriteriaList([StopOnInterrupt()])
-
-        it_streamer = TextIteratorStreamer(
-            tok,
-            skip_prompt=True,
-            skip_special_tokens=True,
-        )
-
-        def _worker():
-            try:
-                with torch.inference_mode():
-                    model.generate(
-                        **inputs,
-                        max_new_tokens=this_max_new,
-                        min_new_tokens=16,
-                        early_stopping=False,
-                        do_sample=True,
-                        temperature=max(0.4, min(0.9, args.temperature)),
-                        top_p=args.top_p,
-                        repetition_penalty=1.02,
-                        no_repeat_ngram_size=3,
-                        eos_token_id=tok.eos_token_id,
-                        pad_token_id=tok.pad_token_id,
-                        streamer=it_streamer,
-                        stopping_criteria=stopping_criteria,
-                    )
-            except Exception as e:
-                print(f"\n[GEN ERROR] {e}")
-                try:
-                    it_streamer.end()
-                except Exception:
-                    pass
+        inputs = {k: v.to(next(model.parameters()).device) for k, v in inputs.items()}
+        from transformers import StoppingCriteriaList
+        stopping = StoppingCriteriaList([StopOnInterrupt()])
 
         print("Azram: ", end="", flush=True)
-        t = threading.Thread(target=_worker, daemon=True)
-        t.start()
-
-        # --- konsumpcja strumienia ---
+        req = CoreRequest(prompt_text=prompt, ctx_budget=ctx, stopping=StoppingCriteriaList([StopOnInterrupt()]))
         reply_chunks = []
-        for piece in it_streamer:  # blokująco
+        for piece in core.think_stream(req):
             if EXIT_NOW or INTERRUPTED:
                 break
             reply_chunks.append(piece)
-            sys.stdout.write(piece)
-            sys.stdout.flush()
-        print()  # nowa linia po streamie
+            sys.stdout.write(piece); sys.stdout.flush()
+        print()
 
-        try:
-            t.join(timeout=0.2)
-        except Exception:
-            pass
-
-        # --- zapis historii ---
         reply = sanitize_reply("".join(reply_chunks))
-        mirror.push("assistant", reply)   
+        mirror.push("assistant", reply)
         history.append((user_msg, reply))
-
-
 
 
 if __name__ == "__main__":
