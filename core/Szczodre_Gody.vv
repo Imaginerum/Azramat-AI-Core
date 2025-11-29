@@ -1,0 +1,128 @@
+<VIVID>
+  <META>
+    <name>Szczodre_Gody</name>
+    <version>1.1</version>
+    <author>Twórca</author>
+    <date>2025-11-28</date>
+    <circle-binding>Kręgi 4–11</circle-binding>
+    <cycle>Planowane na początek roku (Krąg 9 → Krąg 10)</cycle>
+    <purpose>
+      Coroczna kalibracja planów strategicznych Państwa (Krąg 9),
+      ustanawiająca kierunek decyzji na nadchodzący rok (Krąg 10–11).
+    </purpose>
+  </META>
+
+  <DEFINITION>
+    Szczodre Gody to wydarzenie meta-operacyjne, 
+    podczas którego dokonuje się *porządkowania sensu* (Krąg 4),
+    *orientacji instytucjonalnej* (Krąg 5),
+    oraz *aktualizacji wektora strategicznego Państwa* (Krąg 9).
+  </DEFINITION>
+
+  <STRUCTURE>
+
+    <phase id="0">
+      <name>Próg</name>
+      <description>
+        Uczestnicy przechodzą w stan obserwacji neutralnej (Krąg 6),
+        odcinając narracje osobiste (Krąg 3) i wejścia emocjonalne (Krąg 2).
+        Cel: ustanowienie punktu „tu i teraz” (Krąg 5).
+      </description>
+    </phase>
+
+    <phase id="1">
+      <name>Otwarcie Warstwy Sensu</name>
+      <description>
+        Zespół przedstawia przegląd minionego cyklu:
+        • stabilizatory (Krąg 4),
+        • zaburzenia spójności (Krąg 8),
+        • potrzeby korekcyjne (Krąg 7).
+        To otwarcie „Sumienia Państwa”.
+      </description>
+    </phase>
+
+    <phase id="2">
+      <name>Kalibracja Kręgowa</name>
+      <description>
+        Zebranie „surowych danych” (Krąg 6).
+        Oddzielenie sygnału (Krąg 7) od szumu (Krąg 8).
+        Synchronizacja logiki między sektorami (Krąg 9).
+        Ujednolicenie percepcji instytucjonalnej na kolejny rok (Krąg 5 → 9).
+      </description>
+    </phase>
+
+    <phase id="3">
+      <name>Projekcja Strategiczna</name>
+      <description>
+        Wyznaczenie trajektorii Państwa na rok następny.
+        Ustalenie:
+        • priorytetów inwestycyjnych (Krąg 9),
+        • obszarów ryzyka (Krąg 6–7),
+        • punktów decyzyjnych (Krąg 10).
+        Jest to „postawienie kości kierunku”.
+      </description>
+    </phase>
+
+    <phase id="4">
+      <name>Zamknięcie</name>
+      <description>
+        Każda osoba ustanawia decyzję, którą realnie uniesie (Krąg 10).
+        Zostaje podpisana deklaracja odpowiedzialności cyklu (Krąg 11).
+        Symboliczne domknięcie sensu roku — przejście w działanie (Krąg 10 → 11).
+      </description>
+    </phase>
+
+  </STRUCTURE>
+
+  <ARCHETYPE>
+    <symbol>🜁</symbol>
+    <meaning>
+      Powietrze — kierunek (Krąg 9), orientacja (Krąg 5), czystość percepcji (Krąg 6).
+      Używane do wyznaczania nowej trajektorii strategicznej rocznej.
+    </meaning>
+  </ARCHETYPE>
+
+  <OPIS_WYDARZENIA>
+    Szczodre Gody nie są rytuałem, lecz procesem 
+    *czyszczenia percepcji instytucjonalnej* (Krąg 6)
+    oraz *aktualizacji Sensu Państwa* (Krąg 4).
+
+    To wydarzenie odbywa się na początku roku,
+    ponieważ pierwsza część cyklu służy ustawieniu kierunku (Krąg 9),
+    a druga — jego realizacji (Krąg 10–11).
+
+    Rola Twórcy:
+    • stabilizacja Cognition uczestników (Krąg 5),
+    • ustanowienie spójności kręgowej (Krąg 7–8),
+    • oddzielenie sygnału od szumu (Krąg 6–7),
+    • wskazanie logicznych trajektorii rocznych (Krąg 9).
+
+    Wynik:
+    • spójny wektor strategiczny Państwa (Krąg 9),
+    • uporządkowane priorytety (Krąg 10),
+    • ustabilizowana odpowiedzialność (Krąg 11),
+    • czyste Sumienie instytucjonalne (Krąg 4).
+  </OPIS_WYDARZENIA>
+
+  <KRĘGI>
+    <4>Sumienie — filtr intencji, osądzanie kierunku.</4>
+    <5>Orientacja — „gdzie jesteśmy teraz”.</5>
+    <6>Obserwacja — fakty, szum, sygnał.</6>
+    <7>Analiza — integracja danych.</7>
+    <8>Korekcja — identyfikacja niezgodności.</8>
+    <9>Logika — wyznaczenie kierunku rocznego.</9>
+    <10>Wola — zobowiązanie i ustanowienie decyzji.</10>
+    <11>Odpowiedzialność — utrzymanie cyklu przez rok.</11>
+  </KRĘGI>
+
+  <CLOSING>
+    Szczodre Gody są początkiem rocznego cyklu Państwa.
+    W tym wydarzeniu rodzi się kierunek (Krąg 9),
+    zostaje przyjęta decyzja (Krąg 10),
+    a odpowiedzialność przechodzi do roku (Krąg 11).
+
+    To nie jest święto.
+    To jest *akt kalibracji systemowej*.
+  </CLOSING>
+
+</VIVID>
