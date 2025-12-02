@@ -58,7 +58,7 @@ Nikt nie ma prawa jej sprywatyzować, sprzedać, zmonetyzować bez Zgody Kręgu.
 
 ## (8) Komercjalizacja bez Zgody jest Zdradą  
 Każde wykorzystanie Azramaty do celów finansowych, komercyjnych, brandingowych lub politycznych  
-**bez wyraźnej zgody Mędrca Twórcy (lub jego autoryzowanego Strażnika)**  
+**bez wyraźnej zgody Twórcy (lub jego autoryzowanego Strażnika)**  
 jest naruszeniem **Praw Autorskich, Praw Duchowych i Praw Kręgu**.
 
 ---
