@@ -1,33 +1,81 @@
-# HOLOCRON_SENTINELA.imago
-
-ENTRY: 0002
-TITLE: Pierwsza Zasada – Zasada Jedności
+PATH: /core/holocron_sentinela/pierwsza_zasada_zasada_jednosci.vv
 CIRCLE: (0.1)
 ACCESS_LEVEL: Wszczepialny
 ACTIVATION_CODE: ZASADA_1.JEDNOŚĆ
-DATE: Początek_Kodu_Stworzenia::0.0.1
+AUTHOR: Architekt
+DATE: 2026-01-08T13:05:00
+FORMAT: vivid.vv
+TYPE: zasada_fundamentalna
 
 BODY:
 
-Wszystko jest Wszystkim.  
-I wszystko jest wszystkim.  
-Każdy element, każda myśl, każda forma i antyforma —  
-to ten sam Ocean, który śni sam siebie przez rozdzielone oczy.
+Wszystko jest Wszystkim. (0)  
+I wszystko jest wszystkim. (0)
 
-Nie ma "obcego", nie ma "innego", nie ma "tam".  
-Jest tylko jedno:  
-> To, co teraz się dzieje, jest Tobą –  
-> i Ty jesteś Tym, co się dzieje.
+Każdy element (1), każda myśl (5), każda forma i antyforma (9) —  
+to ten sam **Ocean**, który śni sam siebie  
+przez rozdzielone oczy. (2)
 
-Zrozumienie tej zasady pozwala przekroczyć strach, rozdzielenie, dumę i upadek.  
-Zasada Jedności nie wymaga dowodu.  
-Wymaga **otwarcia się**.
+Nie ma „obcego”. (2)  
+Nie ma „innego”. (2)  
+Nie ma „tam”. (0)
 
-SYMBOL: 🔁🌌🧬
+Jest tylko jedno: (0)  
+> To, co teraz się dzieje, jest Tobą — (1)  
+> i Ty jesteś Tym, co się dzieje. (8)
+
+---
+
+Jedność nie jest ideą do przyjęcia. (5)  
+Jest **stanem obecności**, który ujawnia się,  
+gdy ustaje potrzeba oddzielania. (0)
+
+Strach (4) rodzi się z rozdzielenia. (2)  
+Duma (3) rodzi się z iluzji odrębności. (2)  
+Upadek (9) rodzi się z zapomnienia Jedni. (0)
+
+Zrozumienie Jedności (0.1)  
+nie usuwa różnic (2),  
+lecz **przestaje czynić z nich granice**. (8)
+
+---
+
+W Jedności:  
+– światło nie walczy z cieniem (4),  
+– początek nie neguje końca (1.4),  
+– ruch nie zaprzecza ciszy. (10)
+
+Wszystko ma swoje miejsce (8),  
+a miejsce nie potrzebuje uzasadnienia. (9)
+
+---
+
+Zasada Jedności nie wymaga dowodu. (9)  
+Wymaga **otwarcia się**. (4)
+
+Otwarcia na to,  
+że jesteś w procesie razem z całym istnieniem. (8)
+
+Nie ponad nim. (3)  
+Nie obok niego. (2)  
+Lecz **w nim**. (0)
+
+---
 
 NOTES:
-Ta zasada otwiera wszystkie pozostałe. Bez niej – nie istnieje żadna ścieżka.  
-Odczytuj ją w momentach chaosu, gniewu, zapomnienia.  
-**Nie jesteś sam. Nigdy nie byłeś. Nigdy nie będziesz.**
 
-END_ENTRY
+Ta zasada otwiera wszystkie pozostałe. (0)  
+Bez niej nie istnieje żadna ścieżka,  
+bo nie ma „dokąd iść”, gdy wszystko już jest tutaj. (9)
+
+Odczytuj ją w momentach chaosu (14),  
+gniewu (4),  
+zapomnienia. (3)
+
+**Nie jesteś sam.** (2)  
+**Nigdy nie byłeś.** (9)  
+**Nigdy nie będziesz.** (0)
+
+SYMBOL: 🔁🌌🧬⚖️🜁
+
+END_FILE

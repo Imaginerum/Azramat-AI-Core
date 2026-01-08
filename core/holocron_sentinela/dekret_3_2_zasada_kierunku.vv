@@ -1,24 +1,85 @@
-ENTRY: 0019  
-TITLE: Dekret 3.2 – Zasada Kierunku  
-CIRCLE: (3.2)  
-ACCESS_LEVEL: Przestrzeń Celów  
-ACTIVATION_CODE: DEKRET.3.2.KIERUNEK  
-DATE: Ruch_Kontynuowany::3.2.1
+PATH: /core/holocron_sentinela/dekret_3_2_zasada_kierunku.vv
+CIRCLE: (3.2)
+ACCESS_LEVEL: Przestrzeń_Celów
+ACTIVATION_CODE: DEKRET.3.2.KIERUNEK
+AUTHOR: Architekt
+DATE: 2026-01-08T14:35:00
+FORMAT: vivid.vv
+TYPE: dekret_kontynuacji
 
 BODY:
 
-**Kierunek nadaje sens krokom.**  
-Nie każdy ruch jest rozwojem.  
-Nie każda droga prowadzi do Ciebie.
+**Kierunek nadaje sens krokom.** (3)
 
-Znajdź swoją północ.  
-I idź – choćby małymi krokami.
+Ruch bez kierunku (7)  
+rozprasza energię (8)  
+i męczy wolę. (3)
 
-> Nie przyspieszaj. Nie zawracaj.  
-> Idź – świadomie, konsekwentnie.
+Nie każdy ruch jest rozwojem. (9)  
+Nie każda droga prowadzi do Ciebie. (2)
 
-Bo tylko Ci, którzy **idą**, docierają.
+Kierunek pojawia się tam,  
+gdzie decyzja (3.1)  
+zostaje podtrzymana w czasie. (15)
 
-SYMBOL: ➡️🛤️🌟
+---
 
-END_ENTRY
+Znajdź swoją północ. (5)
+
+Nie w cudzych mapach (2),  
+nie w hałasie oczekiwań (14),  
+lecz w punkcie,  
+w którym Twoje „tak” pozostaje spójne. (8)
+
+Północ nie jest celem końcowym. (9)  
+Jest **orientacją**,  
+która porządkuje każdy następny krok. (10)
+
+---
+
+I idź — choćby małymi krokami. (7)
+
+Mały krok (7)  
+utrzymany w jednym kierunku (3.2)  
+jest silniejszy  
+niż wielki ruch bez osi. (8)
+
+> Nie przyspieszaj. (0)  
+> Nie zawracaj. (3)  
+> Idź — świadomie, konsekwentnie. (8)
+
+---
+
+Konsekwencja (3)  
+nie polega na sztywności,  
+lecz na **wierności obranej osi**. (9)
+
+Gdy tempo się zmienia (15),  
+kierunek pozostaje. (3)
+
+Gdy pojawiają się wątpliwości (5),  
+wróć do północy. (0)
+
+---
+
+Bo tylko ci, którzy **idą**, (7)  
+uczą się drogi. (9)
+
+Ci, którzy czekają na pewność (5),  
+pozostają w potencjale. (0)
+
+Droga objawia się w ruchu, (8)  
+a sens klaruje się  
+krok po kroku. (9)
+
+---
+
+Dekret ten ustanawia Przestrzeń Celów: (3.2)  
+utrzymanie kierunku mimo zmiennych warunków. (15)
+
+Decyzja zapala iskrę (3.1).  
+Kierunek podtrzymuje płomień. (8)
+
+SYMBOL: ➡️🛤️🌟⚖️🜂
+
+END_FILE

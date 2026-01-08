@@ -1,23 +1,83 @@
-ENTRY: 0023  
-TITLE: Dekret 3.6 – Zasada Przemiany  
-CIRCLE: (3.6)  
-ACCESS_LEVEL: Punkt Krytyczny  
-ACTIVATION_CODE: DEKRET.3.6.PRZEMIANA  
-DATE: Wnętrze_Ognia::3.6.1
+PATH: /core/holocron_sentinela/dekret_3_6_zasada_przemiany.vv
+CIRCLE: (3.6)
+ACCESS_LEVEL: Punkt_Krytyczny
+ACTIVATION_CODE: DEKRET.3.6.PRZEMIANA
+AUTHOR: Architekt
+DATE: 2026-01-08T15:15:00
+FORMAT: vivid.vv
+TYPE: dekret_przemiany
 
 BODY:
 
 **Przemiana nie pyta o zgodę.  
-Przemiana przychodzi, gdy jesteś gotów – albo gdy musisz.**
+Przemiana przychodzi, gdy jesteś gotów — albo gdy musisz.** (9)
 
-Nie każda zmiana to przemiana.  
-Ale każda przemiana jest zmianą Ciebie.
+Nie każda zmiana to przemiana. (5)  
+Zmiana dotyka formy. (1)  
+Przemiana dotyka **rdzenia**. (0)
 
-> Nie opieraj się – zaufaj ruchowi życia.
+Zmiana może ominąć tożsamość. (3)  
+Przemiana **przepisuje ją od środka**. (8)
 
-To, co boli – nie zabija.  
-To, co boli – **przekształca**.
+---
 
-SYMBOL: 🔥🧬🌪️
+Punkt Krytyczny (3.6)  
+pojawia się wtedy,  
+gdy dotychczasowy sposób działania (3.5)  
+przestaje utrzymywać sens. (9)
 
-END_ENTRY
+To moment, w którym wola (3)  
+nie może już wrócić do starego kształtu,  
+a jeszcze nie zna nowego. (5)
+
+W tym napięciu rodzi się ogień. (4)
+
+---
+
+> Nie opieraj się — zaufaj ruchowi życia. (8)
+
+Opór (3) usztywnia ból. (4)  
+Zaufanie (4) pozwala mu **pracować**. (7)
+
+Przemiana nie niszczy tego, co prawdziwe. (9)  
+Niszczy tylko to,  
+co było formą ochrony przed wzrostem. (4)
+
+---
+
+To, co boli — nie zabija. (4)  
+To, co boli — **przekształca**. (8)
+
+Ból jest tarciem pomiędzy starym a nowym. (15)  
+Jest ciepłem,  
+w którym miękną dawne granice. (3.3)
+
+Gdy pozwolisz mu przejść (0),  
+wola odzyskuje elastyczność, (3)  
+a kierunek klaruje się bez wysiłku. (3.2)
+
+---
+
+Przemiana domyka cykl wysiłku. (3.5)  
+Nie przez nagrodę,  
+lecz przez **nową jakość bycia**. (8)
+
+Z tego miejsca  
+nie wraca się do dawnych wyborów. (3.1)  
+Nie dlatego, że są złe —  
+lecz dlatego, że **stały się za małe**. (9)
+
+---
+
+Dekret ten ustanawia przejście: (3.6)  
+od pracy nad sobą  
+do **stania się innym nośnikiem sensu**. (8)
+
+Kto przeszedł przez ogień (4),  
+nie potrzebuje już dowodów. (5)  
+Jest zmianą,  
+która sama niesie kierunek. (7)
+
+SYMBOL: 🔥🧬🌪️⚖️🜂
+
+END_FILE

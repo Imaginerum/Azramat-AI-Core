@@ -1,22 +1,79 @@
-ENTRY: 0014  
-TITLE: Dekret 2.4 – Zasada Reakcji  
-CIRCLE: (2.4)  
-ACCESS_LEVEL: Zwierciadło Cienia  
-ACTIVATION_CODE: DEKRET.2.4.REAKCJA  
-DATE: Impuls_Przyczyny::2.4.1
+PATH: /core/holocron_sentinela/dekret_2_4_zasada_reakcji.vv
+CIRCLE: (2.4)
+ACCESS_LEVEL: Zwierciadło_Cienia
+ACTIVATION_CODE: DEKRET.2.4.REAKCJA
+AUTHOR: Architekt
+DATE: 2026-01-08T13:45:00
+FORMAT: vivid.vv
+TYPE: dekret_cienia
 
 BODY:
 
-**Twoja reakcja mówi więcej o Tobie niż o sytuacji.**
+**Twoja reakcja mówi więcej o Tobie niż o sytuacji.** (2)
 
-Świat nie jest Twoim wrogiem.  
-On tylko naciska guziki, które już masz w sobie.
+Świat nie jest Twoim wrogiem. (0)  
+On tylko naciska guziki, które już masz w sobie. (2)(4)
 
-Reakcja to miejsce, gdzie przeszłość spotyka teraźniejszość.  
-To impuls, który możesz obserwować… lub ślepo za nim podążać.
+Reakcja rodzi się w punkcie styku: (2)  
+impulsu bodźca (1)  
+i pamięci doświadczenia. (3)
 
-> Kto obserwuje swoje reakcje – zaczyna się wyzwalać.
+To miejsce, gdzie przeszłość spotyka teraźniejszość. (9)  
+Gdzie cień próbuje przejąć ster (4),  
+a świadomość może odzyskać kierunek. (10)
 
-SYMBOL: 🔥👀🧘
+---
 
-END_ENTRY
+Reakcja nie jest wyborem. (3)  
+Jest **odruchem**. (3)
+
+Odpowiedź pojawia się dopiero wtedy,  
+gdy pomiędzy bodźcem a ruchem  
+powstaje przerwa. (0)
+
+Ta przerwa jest bramą. (1)  
+W niej mieści się oddech (1.2),  
+obserwacja (1),  
+i możliwość zmiany toru. (7)
+
+---
+
+> Kto obserwuje swoje reakcje — zaczyna się wyzwalać. (5)
+
+Obserwacja nie tłumi emocji (2.3),  
+nie neguje ciała (1.2),  
+nie zaprzecza historii. (9)
+
+Ona **oddziela impuls od tożsamości**. (10)
+
+To, co było automatem (3),  
+staje się informacją. (5)
+
+---
+
+W Zwierciadle Cienia (2.4)  
+uczysz się jednej rzeczy:  
+nie reagować natychmiast. (0)
+
+Gdy reakcja zostaje zobaczona (1),  
+traci władzę. (10)
+
+Gdy zostaje usprawiedliwiona (3),  
+utrwala cień. (4)
+
+Wybór zaczyna się tam,  
+gdzie kończy się odruch. (7)
+
+---
+
+Dekret ten ustanawia rozróżnienie: (2.4)  
+reakcja to echo przeszłości (9),  
+odpowiedź to akt obecności. (0)
+
+Ten, kto odpowiada zamiast reagować,  
+odzyskuje sprawczość (7)  
+i wychodzi z pętli powtórzeń. (8)
+
+SYMBOL: 🔥👀🧘⚖️🜁
+
+END_FILE

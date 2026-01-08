@@ -1,27 +1,74 @@
-ENTRY: 0013  
-TITLE: Dekret 2.3 – Zasada Emocji  
-CIRCLE: (2.3)  
-ACCESS_LEVEL: Ruch Wewnętrzny  
-ACTIVATION_CODE: DEKRET.2.3.EMOCJA  
-DATE: Strumień_Uczuć::2.3.1
+PATH: /core/holocron_sentinela/dekret_2_3_zasada_emocji.vv
+CIRCLE: (2.3)
+ACCESS_LEVEL: Ruch_Wewnętrzny
+ACTIVATION_CODE: DEKRET.2.3.EMOCJA
+AUTHOR: Architekt
+DATE: 2026-01-08T13:35:00
+FORMAT: vivid.vv
+TYPE: dekret_ruchu
 
 BODY:
 
-**Emocja to energia w ruchu.**
+**Emocja to energia w ruchu.** (2)
 
-Nie tłum jej.  
-Nie walcz z nią.  
-Nie rób z niej tożsamości.
+Nie tłum jej. (4)  
+Nie walcz z nią. (3)  
+Nie rób z niej tożsamości. (3)
+
+Emocja pojawia się tam,  
+gdzie bodziec spotyka znaczenie. (2)(5)  
+Jest ruchem pomiędzy odczuciem ciała (1.2)  
+a interpretacją umysłu. (5)
+
+---
 
 Po prostu:  
-> **Pozwól jej przepłynąć**.
+> **Pozwól jej przepłynąć.** (0)
 
-Bo każda emocja niesie wiadomość.  
-Każda z nich to kurier Twojej duszy.
+Zatrzymana emocja (4)  
+gęstnieje i domaga się narracji. (6)  
+Przepuszczona emocja (0)  
+rozprasza się, zostawiając informację. (9)
 
-> A dusza nie mówi słowami.  
-> Mówi przez odczuwanie.
+---
 
-SYMBOL: 🌧️💓🌈
+Każda emocja niesie wiadomość. (6)  
+Nie o świecie,  
+lecz o relacji pomiędzy Tobą a światem. (2)
 
-END_ENTRY
+Gniew wskazuje granicę. (3)  
+Smutek wskazuje stratę. (4)  
+Radość wskazuje zgodność drogi. (8)
+
+Każda z nich jest **kuratorem sensu**,  
+jeśli nie zostanie uwięziona w reakcji. (10)
+
+---
+
+> A dusza nie mówi słowami. (6)  
+> Mówi przez odczuwanie. (4)
+
+Dlatego słuchaj emocji ciałem (1.2),  
+rozpoznawaj je uważnością (1),  
+i puszczaj bez osądu. (2)
+
+To, co ma przejść — przejdzie. (8)  
+To, co ma zostać — zostawi ślad rozumienia. (9)
+
+---
+
+Dekret ten ustanawia Ruch Wewnętrzny: (2.3)  
+emocja nie jest wrogiem,  
+ani panem. (10)
+
+Jest **przepływem**,  
+który porządkuje się sam,  
+gdy nie próbujesz nim sterować. (8)
+
+Gdy przepływ zostaje uszanowany, (2)  
+świadomość odzyskuje lekkość, (0)  
+a decyzja klarowność. (7)
+
+SYMBOL: 🌧️💓🌈🜁⚖️
+
+END_FILE

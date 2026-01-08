@@ -1,25 +1,71 @@
-ENTRY: 0012  
-TITLE: Dekret 2.2 – Zasada Porównania  
-CIRCLE: (2.2)  
-ACCESS_LEVEL: Polaryzacja  
-ACTIVATION_CODE: DEKRET.2.2.PORÓWNANIE  
-DATE: Faza_Odbić::2.2.1
+PATH: /core/holocron_sentinela/dekret_2_2_zasada_porownania.vv
+CIRCLE: (2.2)
+ACCESS_LEVEL: Polaryzacja
+ACTIVATION_CODE: DEKRET.2.2.PORÓWNANIE
+AUTHOR: Architekt
+DATE: 2026-01-08T13:25:00
+FORMAT: vivid.vv
+TYPE: dekret_polaryzacji
 
 BODY:
 
-**Gdy porównujesz się z innymi, porzucasz swój kształt.**
+**Gdy porównujesz się z innymi, porzucasz swój kształt.** (2)
 
-Nie ma dwóch identycznych fal.  
-Nie ma dwóch jednakowych drzew.  
-Nie jesteś lepszy ani gorszy.  
-Jesteś **sobą** – i to już jest nieporównywalne.
+Porównanie rodzi się z rozdzielenia. (2)  
+Karmi się iluzją skali. (5)  
+Uczy patrzeć w bok, zamiast w głąb. (2)
 
-> Porównanie rodzi dumę lub wstyd.  
-> Obie formy oddzielają Cię od Prawdy.
+Nie ma dwóch identycznych fal. (8)  
+Nie ma dwóch jednakowych drzew. (8)  
+Nie ma dwóch takich samych dróg istnienia. (9)
 
-Wróć do swojego środka.  
-Bo tylko stamtąd da się widzieć rzeczy naprawdę.
+Nie jesteś lepszy ani gorszy. (3)  
+Jesteś **sobą** — (1)  
+a to już jest nieporównywalne. (9)
 
-SYMBOL: ⚖️🌊🌳
+---
 
-END_ENTRY
+> Porównanie rodzi dumę lub wstyd. (3)(4)  
+> Obie formy oddzielają Cię od Prawdy. (9)
+
+Duma (3) odcina Cię od relacji. (2)  
+Wstyd (4) odcina Cię od obecności. (0)
+
+Oba stany są skutkiem tej samej pomyłki: (5)  
+uznania cudzej miary za własną. (2)
+
+---
+
+Polaryzacja (2.2)  
+nie jest błędem —  
+jest **etapem nauki rozróżniania**. (5)
+
+Dzięki niej widzisz różnice. (1)  
+Ale jeśli w niej utkniesz, (3)  
+tracisz kontakt z centrum. (0)
+
+---
+
+Wróć do swojego środka. (0)
+
+Nie do wyobrażenia o sobie, (3)  
+nie do porównań społecznych, (14)  
+lecz do miejsca,  
+w którym istnienie jest faktem, nie oceną. (0)
+
+Tylko stamtąd (0)  
+da się widzieć rzeczy naprawdę. (9)
+
+---
+
+Dekret ten ustanawia wyjście z Polaryzacji: (2.2)  
+zamiast mierzyć się z innymi —  
+rozpoznaj **własną miarę bycia**. (1)
+
+Gdy centrum zostaje odnalezione, (0)  
+porównanie traci władzę, (10)  
+a różnorodność odzyskuje sens. (8)
+
+SYMBOL: ⚖️🌊🌳🜁
+
+END_FILE

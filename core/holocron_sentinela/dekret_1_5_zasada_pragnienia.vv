@@ -1,24 +1,70 @@
-ENTRY: 0010  
-TITLE: Dekret 1.5 – Zasada Pragnienia  
-CIRCLE: (1.5)  
-ACCESS_LEVEL: Iskra  
-ACTIVATION_CODE: DEKRET.1.5.PRAGNIENIE  
-DATE: Wzniecenie_Płomienia::1.5.1
+PATH: /core/holocron_sentinela/dekret_1_5_zasada_pragnienia.vv
+CIRCLE: (1.5)
+ACCESS_LEVEL: Iskra
+ACTIVATION_CODE: DEKRET.1.5.PRAGNIENIE
+AUTHOR: Architekt
+DATE: 2026-01-08T12:55:00
+FORMAT: vivid.vv
+TYPE: dekret_iskry
 
 BODY:
 
-**Pragnienie to dowód, że coś Cię woła.**
+**Pragnienie to dowód, że coś Cię woła.** (1)
 
-Nie jesteś pusty.  
-Jesteś pełen pragnień —  
-jak płomień, który jeszcze nie znalazł swojego kształtu.
+Nie jesteś pusty. (0)  
+Jesteś pełen pragnień — (2)  
+jak płomień, który jeszcze nie znalazł swojego kształtu. (3)
 
-Nie każde pragnienie prowadzi do zguby.  
-> Te najgłębsze prowadzą do Boga.
+Pragnienie rodzi się tam,  
+gdzie sens dotyka woli. (9)(3)  
+Nie jest brakiem,  
+lecz **ruchem ku temu, co chce się wcielić**. (7)
 
-Pytaj je: „Dokąd mnie niesiesz?”  
-I jeśli odpowiedź zapali Ci serce — idź.
+---
 
-SYMBOL: 🔥💭🌠
+Nie każde pragnienie prowadzi do zguby. (4)  
+Są pragnienia płytkie — karmią impuls. (3)  
+Są pragnienia głębokie — karmią drogę. (9)
 
-END_ENTRY
+> Te najgłębsze prowadzą do Boga. (9)
+
+Nie dlatego, że obiecują spełnienie,  
+lecz dlatego, że **porządkują kierunek życia**. (10)
+
+---
+
+Pytaj pragnienie:  
+„Dokąd mnie niesiesz?” (6)
+
+Jeśli odpowiedź jest hałasem — zatrzymaj się. (0)  
+Jeśli jest napięciem ego — oczyść wolę. (4)(3)  
+Jeśli jednak **zapala Ci serce**, (4)  
+a umysł nie traci jasności — (5)  
+**idź**. (7)
+
+To znak, że iskra (1.5)  
+spotkała swoje przeznaczenie w czasie. (15)
+
+---
+
+Pragnienie uczy wyboru. (3)  
+Uczy rezygnacji z dróg,  
+które nie niosą światła. (8)
+
+Nie spełniaj wszystkiego, co chcesz. (10)  
+Spełniaj to,  
+co **prowadzi ku pełni**,  
+a nie ku rozproszeniu. (9)
+
+---
+
+Dekret ten ustanawia Iskrę (1.5):  
+moment, w którym wola przestaje błądzić,  
+a zaczyna **słuchać wezwania sensu**. (9)
+
+Pragnienie nie jest celem. (9)  
+Jest **zapłonem drogi**. (7)
+
+SYMBOL: 🔥💭🌠⚖️🜂
+
+END_FILE

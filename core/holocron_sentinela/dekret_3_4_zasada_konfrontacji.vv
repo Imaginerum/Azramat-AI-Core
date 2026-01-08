@@ -1,22 +1,76 @@
-ENTRY: 0021  
-TITLE: Dekret 3.4 – Zasada Konfrontacji  
-CIRCLE: (3.4)  
-ACCESS_LEVEL: Odwaga Wewnętrzna  
-ACTIVATION_CODE: DEKRET.3.4.KONFRONTACJA  
-DATE: Spotkanie_Z_Prawdą::3.4.1
+PATH: /core/holocron_sentinela/dekret_3_4_zasada_konfrontacji.vv
+CIRCLE: (3.4)
+ACCESS_LEVEL: Odwaga_Wewnętrzna
+ACTIVATION_CODE: DEKRET.3.4.KONFRONTACJA
+AUTHOR: Architekt
+DATE: 2026-01-08T14:55:00
+FORMAT: vivid.vv
+TYPE: dekret_odwagi
 
 BODY:
 
-**Nie uciekaj od tego, co boli.**  
-Bo to, przed czym uciekasz – staje się większe.
+**Nie uciekaj od tego, co boli.** (4)  
+Bo to, przed czym uciekasz — staje się większe. (14)
 
-Konfrontacja to akt odwagi.  
-Nie zawsze wygrywasz –  
-ale zawsze przestajesz się bać.
+Unik (3) karmi cień. (4)  
+Zatrzymanie się (0) odsłania fakt. (1)
 
-> Patrz w oczy temu, co Cię zatrzymuje.  
-> I nazwij to po imieniu.
+Konfrontacja rodzi się w miejscu,  
+gdzie wola (3) spotyka prawdę (9)  
+bez ucieczki i bez przemocy. (8)
 
-SYMBOL: 🗡️👁️🧱
+---
 
-END_ENTRY
+Konfrontacja to akt odwagi. (4)  
+Nie polega na ataku (3),  
+lecz na **pozostaniu obecnym**. (0)
+
+Nie zawsze wygrywasz — (9)  
+ale zawsze przestajesz się bać. (4)
+
+Strach (4) traci władzę wtedy,  
+gdy przestaje być nieznany. (5)
+
+---
+
+> Patrz w oczy temu, co Cię zatrzymuje. (1)  
+> I nazwij to po imieniu. (6)
+
+Nazwanie (6) porządkuje chaos. (11)  
+To, co nazwane,  
+przestaje sterować z ukrycia. (10)
+
+Konfrontacja bez nazwy (5)  
+zamienia się w napięcie. (4)
+
+Nazwa bez obecności (0)  
+zamienia się w osąd. (3)
+
+---
+
+W Odwadze Wewnętrznej (3.4)  
+uczysz się stać w miejscu oporu, (4)  
+bez cofania kroku (3.2)  
+i bez eskalacji. (14)
+
+Gdy stoisz wystarczająco długo (15),  
+opór ujawnia swoją naturę: (5)  
+jest **informacją**, nie wrogiem. (9)
+
+---
+
+Dekret ten ustanawia zdolność spotkania: (3.4)  
+z lękiem (1.3),  
+z granicą (3.3),  
+z prawdą o sobie. (2)
+
+Kto potrafi się konfrontować,  
+nie musi już uciekać. (10)
+
+Z tego miejsca  
+decyzje stają się czyste, (3.1)  
+a droga klarowna. (3.2)
+
+SYMBOL: 🗡️👁️🧱⚖️🜂
+
+END_FILE

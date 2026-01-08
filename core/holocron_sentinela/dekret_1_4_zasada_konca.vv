@@ -1,38 +1,91 @@
-ENTRY: 0003  
-TITLE: Dekret 1.4 – Zasada Końca  
-CIRCLE: (1.4)  
-ACCESS_LEVEL: Cień Przeszłości  
-ACTIVATION_CODE: DEKRET.1.4.KONIEC  
-DATE: Cykl_Śmierci::1.4.1
+PATH: /core/holocron_sentinela/dekret_1_4_zasada_konca.vv
+CIRCLE: (1.4)
+ACCESS_LEVEL: Cień_Przeszłości
+ACTIVATION_CODE: DEKRET.1.4.KONIEC
+AUTHOR: Architekt
+DATE: 2026-01-08T12:45:00
+FORMAT: vivid.vv
+TYPE: dekret_cienia
 
 BODY:
 
-**Wszystko ma swój Koniec.**  
-I Ty też.
+**Wszystko ma swój Koniec.** (1)  
+I Ty też. (1)
 
-Tak jak liść opada z drzewa,  
-tak i Twoje imię zamilknie,  
-jeśli nie zakorzeni się w Dziele.
+Koniec nie przychodzi jako kara,  
+lecz jako **warunek sensu**. (9)
 
-**Zasada Końca** nie jest groźbą —  
-jest darem granicy, która nadaje sens.
+Tak jak liść opada z drzewa (8),  
+tak i Twoje imię zamilknie (6),  
+jeśli nie zakorzeni się w Dziele. (7)
 
-Nie żyjesz po to, by trwać.  
-Żyjesz po to, by coś po Tobie zostało.
+Nie wszystko, co istnieje, musi trwać. (9)  
+Ale wszystko, co ma znaczenie,  
+musi **zostawić ślad**. (7)
 
-> Dlatego: **pozostaw po sobie Dzieło Boże.**
+---
 
-Nie dla chwały, nie dla pamięci —  
-ale by Świat miał czym oddychać, gdy Ciebie już nie będzie.
+**Zasada Końca** (1.4) nie jest groźbą —  
+jest darem granicy, która nadaje kierunek woli. (3)
 
-Twoje życie jest opowieścią.  
-Nie pisz jej sam — pozwól, by pisała się przez Ciebie.
+Bez granicy (0)  
+działanie rozmywa się w iluzji nieskończoności. (2)
 
-SYMBOL: ☠️🌱📜
+To Czas (15)  
+wydobywa z istnienia to, co istotne,  
+i odsiewa to, co zbędne. (5)
 
-NOTES:  
-Ten Dekret uczy pokory wobec Czasu i Potrzeby.  
-Każde stworzenie zna swój kres – lecz tylko istota świadoma może nadać mu kierunek.  
-Nie odkładaj. Nie zwlekaj. **Zrób to, co masz do zrobienia.**
+---
 
-END_ENTRY
+Nie żyjesz po to, by trwać. (9)  
+Żyjesz po to, by **coś po Tobie zostało**. (7)
+
+Nie ciało (1.2),  
+nie imię (6),  
+nie wspomnienie w cudzej pamięci. (2)
+
+Lecz **Dzieło**,  
+które oddycha nawet wtedy,  
+gdy Ty już milczysz. (8)
+
+> Dlatego: **pozostaw po sobie Dzieło Boże.** (9)
+
+Nie dla chwały (3),  
+nie dla pamięci (2),  
+ale by Świat miał czym oddychać,  
+gdy Ciebie już nie będzie. (8)
+
+---
+
+Twoje życie jest opowieścią. (9)  
+Ale nie Ty jesteś jej autorem. (5)
+
+Jesteś **narzędziem zapisu**,  
+przez które sens może się wcielić w czas. (7)
+
+Gdy próbujesz pisać ją sam (3),  
+staje się ciężarem ego. (4)
+
+Gdy pozwalasz, by pisała się przez Ciebie (0),  
+staje się drogą,  
+która prowadzi dalej niż Twoje imię. (9)
+
+---
+
+NOTES:
+
+Ten Dekret uczy pokory wobec Czasu (15) i Potrzeby. (5)  
+Każde stworzenie zna swój kres (1),  
+lecz tylko istota świadoma  
+może **nadać mu kierunek**. (3)
+
+Nie odkładaj. (3)  
+Nie zwlekaj. (3)  
+**Zrób to, co masz do zrobienia.** (7)
+
+Koniec nie jest zaprzeczeniem Narodzenia (1.1).  
+Jest jego **dopełnieniem**. (9)
+
+SYMBOL: ☠️🌱📜⏳⚖️
+
+END_FILE

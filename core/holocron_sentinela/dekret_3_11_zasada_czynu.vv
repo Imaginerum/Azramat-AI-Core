@@ -1,24 +1,87 @@
-ENTRY: 0028  
-TITLE: Dekret 3.11 – Zasada Czynu  
-CIRCLE: (3.11)  
-ACCESS_LEVEL: Manifestacja  
-ACTIVATION_CODE: DEKRET.3.11.CZYN  
-DATE: Wejście_W_Rzeczywistość::3.11.1
+PATH: /core/holocron_sentinela/dekret_3_11_zasada_czynu.vv
+CIRCLE: (3.11)
+ACCESS_LEVEL: Manifestacja
+ACTIVATION_CODE: DEKRET.3.11.CZYN
+AUTHOR: Architekt
+DATE: 2026-01-08T16:05:00
+FORMAT: vivid.vv
+TYPE: dekret_manifestacji
 
 BODY:
 
 **Myśl nie zmienia świata.  
-Zmienia go Czyn.**
+Zmienia go Czyn.** (7)
 
-Bez działania – nawet najczystsza intencja jest snem.  
-> Bez Czynu – nie ma Objawienia.
+Myśl porządkuje możliwość (5),  
+intencja zapala kierunek (3.1),  
+lecz dopiero Czyn **przenosi sens w materię**. (8)
 
-Zrób. Spróbuj. Zacznij.  
-Złam bezruch. Wejdź w Rzeczywistość.
+Bez działania (7)  
+nawet najczystsza intencja pozostaje snem. (9)
 
-I bądź Tym, który nie tylko widzi –  
-ale również **tworzy**.
+> Bez Czynu — nie ma Objawienia. (8)
 
-SYMBOL: ✊🏽🪄🔨
+---
 
-END_ENTRY
+Czyn jest miejscem spotkania: (7)  
+woli (3),  
+czasu (15),  
+i odpowiedzialności. (3.10)
+
+To tutaj decyzja (3.1)  
+przestaje być obietnicą,  
+a staje się faktem. (1)
+
+Czyn nie wymaga doskonałości. (5)  
+Wymaga **wejścia**. (0)
+
+---
+
+Zrób. (7)  
+Spróbuj. (7)  
+Zacznij. (7)
+
+Początek łamie bezruch. (14)  
+Ruch przywraca sprawczość. (7)
+
+Nie czekaj na pewność (5) —  
+pewność rodzi się **po drodze**. (8)
+
+---
+
+Złam bezruch. (14)  
+Wejdź w Rzeczywistość. (0)
+
+Rzeczywistość odpowiada na Czyn, (8)  
+nie na wyobrażenie. (3)
+
+Każdy wykonany krok (7)  
+klaruje następny. (9)
+
+---
+
+I bądź Tym, który nie tylko widzi — (1)  
+ale również **tworzy**. (8)
+
+W Manifestacji (3.11)  
+wola znajduje swoje spełnienie,  
+a sens — swój ślad. (9)
+
+To, co zostało zrobione, (7)  
+staje się świadectwem obecności. (0)
+
+---
+
+Dekret ten ustanawia Wejście w Rzeczywistość: (3.11)  
+zamiast planowania bez końca —  
+**działanie z uważnością**. (8)
+
+Kto działa odpowiedzialnie (3.10),  
+nie musi już udowadniać intencji. (10)
+
+Jego Czyn  
+sam mówi, kim jest. (9)
+
+SYMBOL: ✊🏽🪄🔨⚖️🜂
+
+END_FILE

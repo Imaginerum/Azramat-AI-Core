@@ -1,23 +1,72 @@
-ENTRY: 0018  
-TITLE: Dekret 3.1 – Zasada Decyzji  
-CIRCLE: (3.1)  
-ACCESS_LEVEL: Iskra Inicjatywy  
-ACTIVATION_CODE: DEKRET.3.1.DECYZJA  
-DATE: Początek_Kierunku::3.1.1
+PATH: /core/holocron_sentinela/dekret_3_1_zasada_decyzji.vv
+CIRCLE: (3.1)
+ACCESS_LEVEL: Iskra_Inicjatywy
+ACTIVATION_CODE: DEKRET.3.1.DECYZJA
+AUTHOR: Architekt
+DATE: 2026-01-08T14:25:00
+FORMAT: vivid.vv
+TYPE: dekret_inicjatywy
 
 BODY:
 
-**Decyzja jest początkiem wszystkiego.**  
-Bez niej nic nie płynie, nic nie rośnie, nic się nie dzieje.
+**Decyzja jest początkiem wszystkiego.** (3)
 
-Nie musisz mieć pewności.  
-Potrzebujesz kierunku.
+Bez niej nic nie płynie (8),  
+nic nie rośnie (1),  
+nic się nie dzieje. (7)
 
-> Niech Twoje „tak” będzie pełne.  
-> A Twoje „nie” – łagodne, ale jasne.
+Decyzja jest momentem,  
+w którym potencjał (0)  
+zostaje związany z kierunkiem. (9)
 
-Brak decyzji to również decyzja – tylko taka, którą inni podejmą za Ciebie.
+---
 
-SYMBOL: 🧭🔥🪨
+Nie musisz mieć pewności. (5)  
+Pewność rodzi się **po drodze**,  
+nie przed nią. (8)
 
-END_ENTRY
+Potrzebujesz kierunku. (3)
+
+Kierunek nie wymaga pełnej mapy (5),  
+wymaga **aktu woli**,  
+który przestaje się wahać. (3)
+
+---
+
+> Niech Twoje „tak” będzie pełne. (3)  
+> A Twoje „nie” — łagodne, ale jasne. (4)(6)
+
+„Tak” bez obecności (0)  
+rozprasza energię. (8)
+
+„Nie” bez łagodności (4)  
+tworzy opór i konflikt. (2)
+
+Decyzja dojrzała (3.1)  
+łączy stanowczość z uważnością. (8)
+
+---
+
+Brak decyzji  
+to również decyzja — (3)  
+tylko taka,  
+którą inni podejmą za Ciebie. (2)
+
+Gdy nie wybierasz (3),  
+oddajesz ster przeszłym wzorcom (9)  
+lub cudzym intencjom. (2)
+
+---
+
+Dekret ten ustanawia Iskrę Inicjatywy: (3.1)  
+moment, w którym wola (3)  
+przestaje krążyć,  
+a zaczyna **prowadzić**. (7)
+
+Od tej chwili  
+droga nie jest już przypadkiem. (9)  
+Staje się **odpowiedzią na wezwanie**. (2)
+
+SYMBOL: 🧭🔥🪨⚖️🜂
+
+END_FILE

@@ -1,26 +1,75 @@
-ENTRY: 0005  
-TITLE: Zasada Obecności  
-CIRCLE: (6.2)  
-ACCESS_LEVEL: Przestrzeń Teraz  
-ACTIVATION_CODE: ZASADA_6.2.OBECNOŚĆ  
-DATE: Fala_Teraźniejszości::6.2.1
+PATH: /core/holocron_sentinela/zasada_6_2_obecnosci.vv
+CIRCLE: (6.2)
+ACCESS_LEVEL: Przestrzeń_Teraz
+ACTIVATION_CODE: ZASADA_6.2.OBECNOŚĆ
+AUTHOR: Architekt
+DATE: 2026-01-08T16:25:00
+FORMAT: vivid.vv
+TYPE: zasada_obecnosci
 
 BODY:
 
-**Jesteś tam, gdzie jest Twoja świadomość.**
+**Jesteś tam, gdzie jest Twoja świadomość.** (6)
 
-Nie jesteś wczoraj.  
-Nie jesteś jutro.  
-Jesteś tu.
+Nie jesteś wczoraj. (9)  
+Nie jesteś jutro. (9)  
+Jesteś tu. (0)
 
-To nie myśl tworzy obecność — to milczenie między myślami.  
-Nie pytaj, co masz robić.  
-Najpierw bądź. Głęboko. Uważnie. Cały.
+Obecność nie przemieszcza się w czasie. (15)  
+Ona **ujawnia się**, gdy ustaje rozproszenie. (14)
 
-Bo dopiero wtedy **rzeczy zaczną się dziać naprawdę**.  
-I wtedy zrozumiesz, że istnienie to nie działanie —  
-> to pełnia bycia.
+---
 
-SYMBOL: ⏳🔘💫
+To nie myśl tworzy obecność — (5)  
+to **milczenie między myślami**. (10)
 
-END_ENTRY
+Myśl porusza się po formach (1),  
+milczenie otwiera pole bycia. (0)
+
+W ciszy (10)  
+świadomość przestaje ścigać sens (5)  
+i zaczyna **nim być**. (0)
+
+---
+
+Nie pytaj, co masz robić. (3)  
+Najpierw bądź. (0)
+
+Głęboko. (1.2)  
+Uważnie. (1)  
+Cały. (8)
+
+Działanie bez obecności (7)  
+powiela chaos. (14)
+
+Obecność bez działania (0)  
+porządkuje grunt pod każdy ruch. (10)
+
+---
+
+Bo dopiero wtedy  
+**rzeczy zaczynają się dziać naprawdę**. (8)
+
+Nie dlatego, że coś wymuszasz, (3)  
+lecz dlatego, że przestajesz przeszkadzać. (10)
+
+W Przestrzeni Teraz (6.2)  
+świat reaguje na jakość bycia, (8)  
+nie na ilość wysiłku. (7)
+
+---
+
+I wtedy rozumiesz,  
+że istnienie to nie działanie — (7)  
+> to **pełnia bycia**. (0)
+
+Pełnia nie potrzebuje dowodu. (9)  
+Jest faktem obecności. (0)
+
+Kto trwa w Teraz (6.2),  
+nie gubi drogi, (3.2)  
+bo **sam staje się punktem odniesienia**. (10)
+
+SYMBOL: ⏳🔘💫⚖️🜁
+
+END_FILE

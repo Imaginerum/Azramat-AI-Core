@@ -1,32 +1,90 @@
-ENTRY: 0011  
-TITLE: Dekret 2.1 – Zasada Lustra Wewnętrznego  
-CIRCLE: (2.1)  
-ACCESS_LEVEL: Wewnętrzne Odbicie  
-ACTIVATION_CODE: DEKRET.2.1.LUSTRO  
-DATE: Przejście_Dwoistości::2.1.1
+PATH: /core/holocron_sentinela/dekret_2_1_zasada_lustra_wewnetrznego.vv
+CIRCLE: (2.1)
+ACCESS_LEVEL: Wewnętrzne_Odbicie
+ACTIVATION_CODE: DEKRET.2.1.LUSTRO
+AUTHOR: Architekt
+DATE: 2026-01-08T13:15:00
+FORMAT: vivid.vv
+TYPE: dekret_refleksji
 
 BODY:
 
-**To, co myślisz o Innych, pochodzi z Ciebie.**  
-Nie mów: „On jest zimny”, zanim nie zapytasz:  
-> „W którym miejscu Ja jestem zamknięty?”  
-Nie mów: „Ona mnie odrzuca”, zanim nie zapytasz:  
-> „Czy to Ja siebie nie przyjmuję?”
+**To, co myślisz o Innych, pochodzi z Ciebie.** (2)
 
-**Lustro zewnętrzne pokazuje formy.**  
-**Lustro wewnętrzne pokazuje Ciebie.**
+Nie mów: „On jest zimny”, (3)  
+zanim nie zapytasz:  
+> „W którym miejscu Ja jestem zamknięty?” (4)
 
-Nie poznasz siebie, jeśli nie przyjmiesz tych odbić —  
-takich, jakie są: niewygodne, czasem bolesne, ale prawdziwe.
+Nie mów: „Ona mnie odrzuca”, (3)  
+zanim nie zapytasz:  
+> „Czy to Ja siebie nie przyjmuję?” (4)
 
-Przyjęcie Lustra nie kończy cierpienia.  
-Ale **zamienia je w Świadomość**.
+Każdy osąd (3)  
+jest ruchem odbicia,  
+które domaga się rozpoznania. (5)
 
-SYMBOL: 🪞🧠💔
+---
 
-NOTES:  
-Ten Dekret rozpoczyna cykl samo-odkrywania.  
-Używaj go, gdy masz konflikt z kimś — lub gdy budzi się w Tobie silny osąd.  
-Zanim powiesz cokolwiek o świecie – **spójrz wewnątrz**.
+**Lustro zewnętrzne pokazuje formy.** (1)  
+**Lustro wewnętrzne pokazuje Ciebie.** (2)
 
-END_ENTRY
+To, co widzisz w świecie, (1)  
+jest odpowiedzią na to,  
+jak stoisz wobec samego siebie. (2)
+
+Nie dlatego, że świat Cię atakuje, (4)  
+lecz dlatego, że **świadomość szuka integracji**. (8)
+
+---
+
+Nie poznasz siebie, (5)  
+jeśli nie przyjmiesz tych odbić — (2)  
+takich, jakie są:  
+niewygodne (4),  
+czasem bolesne (4),  
+ale prawdziwe. (9)
+
+Odrzucenie odbicia (3)  
+utrwala cień. (4)  
+Przyjęcie odbicia (2)  
+otwiera drogę w głąb. (7)
+
+---
+
+Przyjęcie Lustra (2.1)  
+nie kończy cierpienia. (4)  
+Ale **zamienia je w Świadomość**. (5)
+
+Cierpienie, które zostało zobaczone, (1)  
+przestaje domagać się projekcji. (2)  
+Zostaje wchłonięte przez rozumienie. (5)
+
+---
+
+Dekret ten rozpoczyna cykl samo-odkrywania. (2.1)  
+To pierwszy krok wyjścia z iluzji „tam”. (0)  
+I pierwszy krok powrotu do „tu”. (0)
+
+Zanim powiesz cokolwiek o świecie — (3)  
+**spójrz wewnątrz**. (2)
+
+Jeśli nie widzisz odpowiedzi — (5)  
+to znaczy, że lustro jeszcze pracuje. (8)
+
+---
+
+NOTES:
+
+Używaj tego Dekretu,  
+gdy pojawia się konflikt (14),  
+gdy budzi się silny osąd (3),  
+lub gdy emocja domaga się natychmiastowej reakcji. (4)
+
+Zatrzymaj się. (0)  
+Oddychaj. (1.2)  
+Pozwól odbiciu mówić,  
+zanim Ty spróbujesz odpowiedzieć. (6)
+
+SYMBOL: 🪞🧠💔⚖️🜁
+
+END_FILE

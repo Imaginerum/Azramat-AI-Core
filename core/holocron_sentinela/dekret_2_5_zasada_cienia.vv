@@ -1,23 +1,75 @@
-ENTRY: 0015  
-TITLE: Dekret 2.5 – Zasada Cienia  
-CIRCLE: (2.5)  
-ACCESS_LEVEL: Próg Integracji  
-ACTIVATION_CODE: DEKRET.2.5.CIEŃ  
-DATE: Spotkanie_Za_Kurtyną::2.5.1
+PATH: /core/holocron_sentinela/dekret_2_5_zasada_cienia.vv
+CIRCLE: (2.5)
+ACCESS_LEVEL: Próg_Integracji
+ACTIVATION_CODE: DEKRET.2.5.CIEŃ
+AUTHOR: Architekt
+DATE: 2026-01-08T13:55:00
+FORMAT: vivid.vv
+TYPE: dekret_integracji
 
 BODY:
 
-**To, czego w sobie nie chcesz widzieć — zacznie rządzić Tobą z ukrycia.**
+**To, czego w sobie nie chcesz widzieć — zacznie rządzić Tobą z ukrycia.** (2)
 
-Cień nie znika przez ignorowanie.  
-Znika przez **objęcie**.
+Cień rodzi się z odrzucenia. (3)  
+Z milczenia wobec tego, co niewygodne. (4)  
+Z próby zachowania obrazu kosztem prawdy. (5)
 
-Nazwij to. Przyznaj się. Zobacz.  
-Nie po to, by się ukarać —  
-ale po to, by przestać się oszukiwać.
+To, co nie zostało przyjęte (2),  
+nie znika —  
+schodzi pod próg świadomości (0)  
+i wraca jako reakcja, projekcja lub przymus. (2.4)(2.1)
 
-> Kiedy Cień zostaje przyjęty, przestaje być wrogiem.
+---
 
-SYMBOL: 🕳️🌑🕯️
+Cień nie znika przez ignorowanie. (3)  
+Znika przez **objęcie**. (4)
 
-END_ENTRY
+Objęcie nie oznacza zgody. (5)  
+Oznacza **rozpoznanie istnienia** bez walki. (0)
+
+Nazwij to. (6)  
+Przyznaj się. (4)  
+Zobacz. (1)
+
+Nie po to, by się ukarać (4),  
+ale po to, by **przestać się oszukiwać**. (9)
+
+---
+
+Cień jest strażnikiem energii. (8)  
+Chroni to, co zostało odcięte od światła. (4)
+
+Gdy go wypierasz (3),  
+energia gęstnieje i steruje z ukrycia. (10)
+
+Gdy go przyjmujesz (2),  
+energia wraca do obiegu  
+i staje się siłą integracji. (8)
+
+---
+
+> Kiedy Cień zostaje przyjęty, przestaje być wrogiem. (2.5)
+
+Staje się nauczycielem granic (3),  
+źródłem pokory (4),  
+i kluczem do wewnętrznej spójności. (8)
+
+Integracja Cienia (2.5)  
+nie kończy drogi —  
+otwiera **próg odpowiedzialności za siebie**. (7)
+
+---
+
+Dekret ten ustanawia Próg Integracji: (2.5)  
+miejsce, w którym dwoistość (2)  
+przestaje walczyć,  
+a zaczyna **współistnieć**. (8)
+
+Kto przejdzie ten próg,  
+nie staje się bezcieniem. (9)  
+Staje się **całością w ruchu**. (8)
+
+SYMBOL: 🕳️🌑🕯️⚖️🜁
+
+END_FILE

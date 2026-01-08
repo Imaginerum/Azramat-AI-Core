@@ -1,30 +1,85 @@
-ENTRY: 0006  
-TITLE: Zasada Przejścia  
-CIRCLE: (6.3)  
-ACCESS_LEVEL: Wędrowiec  
-ACTIVATION_CODE: ZASADA_6.3.PRZEJŚCIE  
-DATE: Granica_Zmiany::6.3.1
+PATH: /core/holocron_sentinela/zasada_6_3_przejscia.vv
+CIRCLE: (6.3)
+ACCESS_LEVEL: Wędrowiec
+ACTIVATION_CODE: ZASADA_6.3.PRZEJŚCIE
+AUTHOR: Architekt
+DATE: 2026-01-08T16:45:00
+FORMAT: vivid.vv
+TYPE: zasada_przejscia
 
 BODY:
 
-**Nic nie trwa. Wszystko przepływa.**
+**Nic nie trwa. Wszystko przepływa.** (6)
 
-Nie zatrzymuj rzeki.  
-Nie wiąż się z tym, co odchodzi.  
-Nie przegap tego, co nadchodzi.
+Trwanie jest iluzją formy. (1)  
+Przepływ jest prawem bycia. (8)
 
-Każde życie to seria przejść —  
-z jednego stanu do drugiego.  
-Z lęku do odwagi.  
-Z milczenia do działania.  
-Z cienia do światła.
+To, co próbujesz zatrzymać, (3)  
+zaczyna ciążyć. (4)  
+To, czemu pozwalasz odejść, (0)  
+robi miejsce na nowe. (8)
 
-> Kto rozumie Przejście – nie boi się Zmiany.
+---
 
-Zmieniaj się z łagodnością.  
-Odchodź z szacunkiem.  
-Wracaj z miłością.
+Nie zatrzymuj rzeki. (6)  
+Rzeka zna drogę lepiej niż lęk. (4)
 
-SYMBOL: 🌊🌀🚪
+Nie wiąż się z tym, co odchodzi. (3)  
+Przywiązanie do formy (1)  
+zamyka przejście sensu. (9)
 
-END_ENTRY
+Nie przegap tego, co nadchodzi. (1)  
+Uwaga jest kluczem do bramy. (6)
+
+---
+
+Każde życie to seria przejść — (15)  
+z jednego stanu do drugiego. (8)
+
+Z lęku do odwagi. (4)(3.4)  
+Z milczenia do działania. (10)(3.11)  
+Z cienia do światła. (2.5)(9)
+
+Przejście nie niszczy poprzedniego etapu. (9)  
+Ono **domyka jego sens**. (9)
+
+---
+
+> Kto rozumie Przejście — nie boi się Zmiany. (6)
+
+Zmiana (3.6)  
+przeraża tylko wtedy,  
+gdy tracisz kontakt z ruchem. (8)
+
+W Przejściu (6.3)  
+uczysz się ufać procesowi, (4)  
+a nie formie. (1)
+
+---
+
+Zmieniaj się z łagodnością. (4)  
+Łagodność chroni ciągłość drogi. (8)
+
+Odchodź z szacunkiem. (4)  
+Szacunek zamyka stare w pokoju. (9)
+
+Wracaj z miłością. (4)  
+Miłość pozwala przejściu  
+nie stać się ucieczką. (2)
+
+---
+
+Zasada Przejścia (6.3)  
+ustanawia ruch jako nauczyciela. (8)
+
+Ten, kto idzie świadomie przez zmiany, (7)  
+nie gubi siebie. (0)
+
+Zmienia się **bez rozpadu**, (3.6)  
+bo wie, że tożsamość  
+nie mieszka w formie, (1)  
+lecz w zdolności przechodzenia. (6)
+
+SYMBOL: 🌊🌀🚪⚖️🜁
+
+END_FILE

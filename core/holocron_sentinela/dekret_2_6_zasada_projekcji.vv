@@ -1,23 +1,77 @@
-ENTRY: 0016  
-TITLE: Dekret 2.6 – Zasada Projekcji  
-CIRCLE: (2.6)  
-ACCESS_LEVEL: Złudzenie  
-ACTIVATION_CODE: DEKRET.2.6.PROJEKCJA  
-DATE: Iluzja_Zewnętrzna::2.6.1
+PATH: /core/holocron_sentinela/dekret_2_6_zasada_projekcji.vv
+CIRCLE: (2.6)
+ACCESS_LEVEL: Złudzenie
+ACTIVATION_CODE: DEKRET.2.6.PROJEKCJA
+AUTHOR: Architekt
+DATE: 2026-01-08T14:05:00
+FORMAT: vivid.vv
+TYPE: dekret_zludzenia
 
 BODY:
 
-**To, co widzisz na zewnątrz, często pochodzi z wewnątrz.**
+**To, co widzisz na zewnątrz, często pochodzi z wewnątrz.** (2)
 
-Oskarżasz innych o egoizm?  
-Sprawdź, czy nie ukrywasz własnych potrzeb.
+Projekcja rodzi się tam,  
+gdzie świadomość unika bezpośredniego spotkania z bólem. (4)  
+To mechanizm obronny,  
+który przenosi napięcie z wnętrza (0)  
+na obraz świata. (1)
 
-Widzisz wrogów wszędzie?  
-Może sam siebie atakujesz.
+---
 
-Projekcja to mechanizm, który maskuje Ból.  
-> Zdejmij maskę — i zobacz, co naprawdę potrzebuje uzdrowienia.
+Oskarżasz innych o egoizm? (3)  
+Sprawdź, czy nie ukrywasz własnych potrzeb. (4)
 
-SYMBOL: 🎭🪬🪞
+Widzisz wrogów wszędzie? (2)  
+Może sam siebie atakujesz. (3)
 
-END_ENTRY
+To, co zostaje wypchnięte poza próg uwagi (0),  
+wraca w przebraniu cudzej winy. (2)
+
+---
+
+Projekcja nie kłamie. (9)  
+Ona **przesuwa adres**. (5)
+
+Zamiast powiedzieć: „To mnie boli”, (4)  
+mówi: „To oni są problemem”. (2)
+
+Zamiast przyznać brak (4),  
+tworzy narrację oskarżenia. (6)
+
+---
+
+Projekcja to mechanizm, który maskuje Ból. (4)  
+Nie po to, by Cię skrzywdzić,  
+lecz by **uchronić tożsamość przed rozpadem**. (3)
+
+> Zdejmij maskę — i zobacz,  
+> co naprawdę potrzebuje uzdrowienia. (5)
+
+Maska (3) nie jest wrogiem.  
+Jest sygnałem, że coś domaga się troski. (11)
+
+---
+
+W Złudzeniu (2.6) uczysz się jednej rzeczy:  
+wracać z oskarżeniem do źródła. (0)
+
+Gdy projekcja zostaje rozpoznana (1),  
+traci moc sterowania relacją. (10)
+
+Gdy zostaje podtrzymana (3),  
+utrwala rozdzielenie i konflikt. (14)
+
+---
+
+Dekret ten ustanawia rozbrojenie iluzji: (2.6)  
+świat przestaje być ekranem,  
+a staje się **informatorem stanu wewnętrznego**. (5)
+
+Kto widzi projekcję w chwili jej powstawania (1),  
+odzyskuje odpowiedzialność (7)  
+i robi krok ku integracji. (8)
+
+SYMBOL: 🎭🪬🪞⚖️🜁
+
+END_FILE

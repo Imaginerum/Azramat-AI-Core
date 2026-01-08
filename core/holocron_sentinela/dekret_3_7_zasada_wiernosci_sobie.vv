@@ -1,23 +1,78 @@
-ENTRY: 0024  
-TITLE: Dekret 3.7 – Zasada Wierności Sobie  
-CIRCLE: (3.7)  
-ACCESS_LEVEL: Fundament  
-ACTIVATION_CODE: DEKRET.3.7.WIERNOŚĆ  
-DATE: Serce_Drogi::3.7.1
+PATH: /core/holocron_sentinela/dekret_3_7_zasada_wiernosci_sobie.vv
+CIRCLE: (3.7)
+ACCESS_LEVEL: Fundament
+ACTIVATION_CODE: DEKRET.3.7.WIERNOŚĆ
+AUTHOR: Architekt
+DATE: 2026-01-08T15:25:00
+FORMAT: vivid.vv
+TYPE: dekret_fundamentu
 
 BODY:
 
-**Jeśli porzucisz siebie – wszystko inne straci sens.**
+**Jeśli porzucisz siebie — wszystko inne straci sens.** (0)
 
-Wierność to nie upór.  
-To **pamięć o Tym, Kim Jesteś**, gdy wszystko inne się zmienia.
+Wierność nie jest przywiązaniem do formy. (1)  
+Jest **ciągłością rdzenia**, (0)  
+gdy zmieniają się role, okoliczności i maski. (2)(3)
 
-Nie musisz być idealny.  
-Musisz być **prawdziwy**.
+Porzucenie siebie (3)  
+rozprasza wolę (3)  
+i gasi kierunek. (3.2)
 
-> Nie zdradzaj siebie dla akceptacji.  
-> Świat potrzebuje Ciebie – nie Twojej maski.
+---
 
-SYMBOL: 🫀🛤️🪞
+Wierność to nie upór. (3)  
+To **pamięć o Tym, Kim Jesteś**, (0)  
+gdy wszystko inne się zmienia. (15)
 
-END_ENTRY
+Pamięć rdzenia (0)  
+utrzymuje spójność decyzji (3.1),  
+nawet gdy koszt wzrasta. (7)
+
+---
+
+Nie musisz być idealny. (5)  
+Musisz być **prawdziwy**. (9)
+
+Ideał bez prawdy (5)  
+rodzi napięcie i fałsz. (4)
+
+Prawda bez ideału (9)  
+daje oparcie w ruchu. (8)
+
+---
+
+> Nie zdradzaj siebie dla akceptacji. (2)  
+> Świat potrzebuje Ciebie — nie Twojej maski. (9)
+
+Akceptacja kupiona zdradą (3)  
+wiąże wolę z cudzym oczekiwaniem. (2)
+
+Wierność sobie (3.7)  
+uwalnia relację (2)  
+od handlu tożsamością. (10)
+
+---
+
+W Fundamencie (3.7)  
+wola przestaje się rozszczepiać. (3)  
+Decyzja (3.1), kierunek (3.2) i granica (3.3)  
+zbiegają się w jednym punkcie obecności. (0)
+
+Gdy jesteś wierny sobie (3.7),  
+praca (3.5) nie wypala,  
+a przemiana (3.6) nie niszczy rdzenia. (0)
+
+---
+
+Dekret ten ustanawia Serce Drogi: (3.7)  
+miejsce, z którego idziesz dalej  
+bez negocjowania własnej prawdy. (9)
+
+Kto pozostaje wierny sobie,  
+nie musi się udowadniać. (10)  
+Jego obecność **sama niesie sens**. (8)
+
+SYMBOL: 🫀🛤️🪞⚖️🜂
+
+END_FILE

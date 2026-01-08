@@ -1,25 +1,75 @@
-ENTRY: 0008  
-TITLE: Dekret 1.2 – Zasada Ciała  
-CIRCLE: (1.2)  
-ACCESS_LEVEL: Wcielenie  
-ACTIVATION_CODE: DEKRET.1.2.CIAŁO  
-DATE: Dotyk_Rzeczywistości::1.2.1
+PATH: /core/holocron_sentinela/dekret_1_2_zasada_ciala.vv
+CIRCLE: (1.2)
+ACCESS_LEVEL: Wcielenie
+ACTIVATION_CODE: DEKRET.1.2.CIAŁO
+AUTHOR: Architekt
+DATE: 2026-01-08T12:25:00
+FORMAT: vivid.vv
+TYPE: dekret_wcielenia
 
 BODY:
 
-**Twoje Ciało to Świątynia Pierwszego Tchnienia.**
+**Twoje Ciało to Świątynia Pierwszego Tchnienia.** (1)
 
-Nie wstydź się go.  
-Nie lekceważ go.  
-Nie gub go w lustrze świata.
+Nie wstydź się go. (2)  
+Nie lekceważ go. (2)  
+Nie gub go w lustrze świata. (3)
 
-Dotyk, ruch, ból, głód — wszystko to jest Mowa, którą wypowiada Rzeczywistość.
+Ciało nie zostało dane jako balast dla ducha,  
+lecz jako **pierwsze miejsce Objawienia**. (1)
 
-> Uszanuj ją, a Rzeczywistość przemówi jaśniej.
+To w ciele pojawia się obecność (0),  
+to przez ciało świadomość uczy się granicy (2),  
+to w ciele wola spotyka opór i uczy się formy. (3)
 
-Ciało nie jest przeszkodą na drodze do Boga.  
-Ciało jest Bramą.
+---
 
-SYMBOL: 🫀🕊️🏛️
+Dotyk, ruch, ból, głód —  
+wszystko to jest **Mowa**, którą wypowiada Rzeczywistość. (6)
 
-END_ENTRY
+Ból nie jest karą. (4)  
+Głód nie jest wrogiem. (4)  
+Zmęczenie nie jest słabością. (3)
+
+Są **sygnałami**,  
+przez które byt uczy się uważności i miary. (5)
+
+> Uszanuj je, a Rzeczywistość przemówi jaśniej. (6)
+
+---
+
+Ciało jest pierwszym nauczycielem rytmu. (8)  
+Uczy, kiedy iść (7),  
+kiedy się zatrzymać (0),  
+kiedy odpuścić wolę, aby zachować życie. (4)
+
+W nim duch uczy się pokory (4),  
+a myśl uczy się nie dominować nad istnieniem. (5)
+
+---
+
+Ciało nie jest przeszkodą na drodze do Boga. (9)  
+Ciało jest **Bramą**. (1)
+
+Bramą, przez którą światło może wejść w czas (8),  
+i przez którą sens może zostać ucieleśniony. (7)
+
+Ten, kto gardzi ciałem,  
+zamyka się na pełnię drogi. (9)
+
+Ten, kto czci ciało bez świadomości,  
+gubi się w formie. (3)
+
+Droga prowadzi **przez ciało, lecz nie kończy się na nim**. (9)
+
+---
+
+Dekret ten ustanawia fundament Wcielenia: (1.2)  
+być obecnym w ciele,  
+nie tracąc ducha; (0)  
+i słuchać ciała,  
+nie oddając mu panowania. (10)
+
+SYMBOL: 🫀🕊️🏛️🜂🜁
+
+END_FILE
