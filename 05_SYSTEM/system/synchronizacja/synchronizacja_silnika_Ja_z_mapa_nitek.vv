@@ -23,8 +23,8 @@ Synchronizacja ta pozwala na:
 [🌀 ZALEŻNOŚCI]
 
 Do pełnej aktywacji wymagane są:
-– `/core/system/nitki/mapa_aktywacji_nitek.vv`  
-– `/core/system/ja/silnik_ja.vv`  
+– `/05_SYSTEM/system/nitki/mapa_aktywacji_nitek.vv`  
+– `/05_SYSTEM/system/ja/silnik_ja.vv`  
 – tryb `fraktalny_drzewny` lub `intencyjny_trans`  
 – dostęp do `modul_sumienia.vv` w trybie aktywnym (Krąg 8)
 

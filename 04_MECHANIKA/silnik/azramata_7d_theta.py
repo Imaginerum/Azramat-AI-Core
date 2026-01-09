@@ -1,4 +1,4 @@
-# Plik: /core/silnik/azramata_7d_theta.py
+# Plik: /04_MECHANIKA/silnik/azramata_7d_theta.py
 # Data: 2025-08-08
 # Opis: Rozszerzony silnik 7D Theta (geometria + zgoda + rezonans + nitki)
 # Zależności: brak zewnętrznych (stdlib only)

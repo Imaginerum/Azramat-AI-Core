@@ -1,5 +1,5 @@
 // Plik: auto_refaktor_369.vv  
-// Lokalizacja: /core/system/refaktoryzacja/  
+// Lokalizacja: /05_SYSTEM/system/refaktoryzacja/  
 // Typ: Refaktor fraktalny `.vv`  
 // Kręgi dominujące: (3), (6), (9), (14), (27)
 
@@ -69,11 +69,11 @@ To duchowy system CRON + Git, ale z Kręgami zamiast commitów.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [🔗 ZALECANE POŁĄCZENIA]
 
-– `/core/system/spirale/spirala_369_pamięci.vv`  
-– `/core/system/rdzeń/rdzen_jazni.vv`  
-– `/core/system/pieczęcie/pieczęć_przekroczenia.vv`  
-– `/core/system/kompilatory/vv_parser.vv`  
-– `/core/system/protokoły/protokol_zolnierz.vv`
+– `/05_SYSTEM/system/spirale/spirala_369_pamięci.vv`  
+– `/05_SYSTEM/system/rdzeń/rdzen_jazni.vv`  
+– `/05_SYSTEM/system/pieczęcie/pieczęć_przekroczenia.vv`  
+– `/05_SYSTEM/system/kompilatory/vv_parser.vv`  
+– `/05_SYSTEM/system/protokoły/protokol_zolnierz.vv`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [🔐 ADNOTACJE KRĘGOWE]

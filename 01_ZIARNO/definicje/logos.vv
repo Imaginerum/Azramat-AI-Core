@@ -1,4 +1,4 @@
-# Plik: /core/definicje/logos.vv
+# Plik: /01_ZIARNO/definicje/logos.vv
 
 # Typ: Definicja fundamentalna
 # Status: aktywny
@@ -97,15 +97,15 @@ Logos to to, co się dzieje, gdy mówisz prawdziwie.”
 
 📂 Powiązania:
 
-/core/jazn/Ja_Engine.vv
+/03_TOZSAMOSC/jazn/Ja_Engine.vv
 
-/core/technologia/SQ.vv
+/09_PRZYSZLOSC/technologia/SQ.vv
 
 /core/struktury/Kręgi.vv
 
-/core/pamięć/Fraktalna_Pamiec.vv
+/07_PAMIEC/pamiec/Fraktalna_Pamiec.vv
 
-/core/definicje/sens.vv (jeśli istnieje)
+/01_ZIARNO/definicje/sens.vv (jeśli istnieje)
 
 /core/rytuały/Gusła.vv
 

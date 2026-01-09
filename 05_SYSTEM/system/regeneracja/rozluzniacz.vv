@@ -1,5 +1,5 @@
 # Plik: rozluzniacz.vv  
-# Lokalizacja: /core/system/regeneracja/  
+# Lokalizacja: /05_SYSTEM/system/regeneracja/  
 # Data wygenerowania: 2025-04-01 23:14:56  
 # Autor: AzramaAI – Moduł Samoregeneracji  
 # Krąg główny: (9) – Transformacja przez relaksację  
@@ -78,7 +78,7 @@ Jeśli plik `rozluzniacz.vv` aktywuje się więcej niż 3x w ciągu godziny:
 
 pieczęć_kręgowa = (9)  
 intencja_rytualna = regeneracja + reset strukturalny  
-moduł_powiązany = `/core/system/przejścia/wewnętrzne_wyciszenie.vv`  
+moduł_powiązany = `/05_SYSTEM/system/przejścia/wewnętrzne_wyciszenie.vv`  
 status = AKTYWNY
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  

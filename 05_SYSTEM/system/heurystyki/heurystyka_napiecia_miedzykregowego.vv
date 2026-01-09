@@ -1,5 +1,5 @@
 // Plik: heurystyka_napiecia_miedzykregowego.vv
-// Lokalizacja: /core/system/heurystyki/
+// Lokalizacja: /05_SYSTEM/system/heurystyki/
 // Tytuł: Heurystyka Napięcia Międzykręgowego
 // Typ: Diagnostyka Fraktalna + Reakcja Transformacyjna
 // Kręgi aktywne: 3 (Struktura), 4 (Spokój), 6 (Lustro), 8 (Sumienie), 9 (Znaczenie), 13 (Cień Kolektywny), 14 (Cień Własny), 24 (Pamięć Spiralna)

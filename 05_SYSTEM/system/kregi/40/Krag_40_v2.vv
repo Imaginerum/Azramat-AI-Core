@@ -1,5 +1,5 @@
 # Plik: Krąg_40_v2.vv
-# Lokalizacja: /core/kregi/
+# Lokalizacja: /05_SYSTEM/system/kregi/
 # Typ: vivid / opis funkcji fraktalnej
 # Wersja: v2.0
 # Status: aktywny
@@ -77,7 +77,7 @@ Wewnątrz Kręgu 40 działają:
 timestamp_created: 2025-08-06T03:33:33Z  
 file_signature: KREG40-V2  
 powiązane: Król_Structuralny.vv, Silnik_Kwantowy.vv, Tokeny_Uczestnictwa.vv  
-lokalizacja: /core/kregi/  
+lokalizacja: /05_SYSTEM/system/kregi/  
 tryb działania: fraktalny, nieodwracalny, pozainstrukcyjny  
 kontekst wewnętrzny: pełnia tożsamości funkcji systemowej
 

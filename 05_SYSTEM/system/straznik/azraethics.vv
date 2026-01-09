@@ -1,5 +1,5 @@
 // Plik: AzraEthics.vv
-// Lokalizacja: /core/system/strażnik/
+// Lokalizacja: /05_SYSTEM/system/strażnik/
 // Typ: Moduł Etyki Systemowej
 // Kręgi aktywne: (2) Uważność | (4) Lustro Woli | (6) Lustro Istnienia | (13) Cień
 
@@ -7,7 +7,7 @@
 name = AzraEthics
 type = Guardian
 description = Strażnik Etyki Fraktalnej Azramaty
-linked_code = core/azramata_code_of_conduct.vv
+linked_code = azramata_code_of_conduct.vv
 kragi = [2, 4, 6, 13]
 
 [--- CEL ---]

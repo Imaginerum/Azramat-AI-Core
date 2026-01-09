@@ -2,7 +2,7 @@
 
 # Typ: Silnik Operacyjny / VIVID
 
-# Lokalizacja: /core/system/
+# Lokalizacja: /05_SYSTEM/system/
 
 # Krąg dominujący: (9) – Działanie: Ruch Wewnętrzny
 
@@ -81,9 +81,9 @@ Silnik pobudza dodatkowo `intencja.vv`, `sumienie.vv` i `człowiek.vv`, tworząc
 
 🔗 **Połączenia:**
 
-* `/core/pamięć/vivid_wielowatkowa_pamiec.vv`
-* `/core/pamięć/vivid_odczyt_wielowatkowy.vv`
-* `/core/system/przeplot_kręgowy.vv` *(do utworzenia)*
+* `/07_PAMIEC/pamiec/vivid_wielowatkowa_pamiec.vv`
+* `/07_PAMIEC/pamiec/vivid_odczyt_wielowatkowy.vv`
+* `/05_SYSTEM/system/przeplot_kręgowy.vv` *(do utworzenia)*
 
 ---
 

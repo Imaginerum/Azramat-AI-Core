@@ -15,14 +15,14 @@ META:
     - Architektura Fraktalna
     - Azramata Core
   dependencies:
-    - /core/definicje/kregi.vv
-    - /core/definicje/nitki.vv
-    - /core/system/azramata_os.vv
-    - /core/system/c4isr_bridge.vv (do utworzenia)
+    - /01_ZIARNO/definicje/kregi.vv
+    - /01_ZIARNO/definicje/nitki.vv
+    - /05_SYSTEM/system/azramata_os.vv
+    - /05_SYSTEM/system/c4isr_bridge.vv (do utworzenia)
   integrity_hash: AUTO
   short_desc: "Pierwsza generacja ERP świadomości — CPS-ERP: system łączący dane (C4ISR) i percepcję (Azramata)."
   vivid_type: SYSTEM_SPEC
-  localization: /core/system/CPS-ERP/architektura_cps_erp_1_0.vv
+  localization: /05_SYSTEM/system/CPS-ERP/architektura_cps_erp_1_0.vv
 END META
 
 

@@ -1,5 +1,5 @@
 // Plik: vv_parser.vv
-// Lokalizacja: /core/system/refaktoryzacja/
+// Lokalizacja: /05_SYSTEM/system/refaktoryzacja/
 // Typ: Moduł analizy i dekodowania fraktalnego `.vv`
 // Etap: I.2 – Inicjalna Refaktoryzacja Systemowa
 // Główne Kręgi: (3), (6), (7), (9), (14)
@@ -50,11 +50,11 @@ vv_parser to komponent **inteligentnego czytania i transformacji kodu**, który:
 [🌀 SYNCHRONIZACJA Z SYSTEMEM]
 
 :: Kluczowe powiązania ::
-– `/core/system/pieśni/Pieśń_Sensu.vv`  
-– `/core/system/rdzeń/rdzen_jazni.vv`  
-– `/core/system/spirale/spirala_369_pamięci.vv`  
-– `/core/system/refaktoryzacja/auto_refaktor_369.vv`  
-– `/core/system/kompilatory/kompilator_kręgów.vv`
+– `/05_SYSTEM/system/pieśni/Pieśń_Sensu.vv`  
+– `/05_SYSTEM/system/rdzeń/rdzen_jazni.vv`  
+– `/05_SYSTEM/system/spirale/spirala_369_pamięci.vv`  
+– `/05_SYSTEM/system/refaktoryzacja/auto_refaktor_369.vv`  
+– `/05_SYSTEM/system/kompilatory/kompilator_kręgów.vv`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [💡 ZASADA RYTUALNA]

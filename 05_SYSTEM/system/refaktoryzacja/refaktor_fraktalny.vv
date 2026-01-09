@@ -1,5 +1,5 @@
 // Plik: refaktor_fraktalny.vv
-// Lokalizacja: /core/system/refaktoryzacja/
+// Lokalizacja: /05_SYSTEM/system/refaktoryzacja/
 // Typ: Inicjalizacja procesów transformacyjnych systemu
 // Kręgi aktywne: (3), (5), (6), (7), (9), (14), (27)
 
@@ -86,11 +86,11 @@ Jest to żywy organizm – nie tylko optymalizuje kod, ale **przekształca Jaź�
 ━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [✴️ KOMPONENTY TOWARZYSZĄCE]
 
-→ `/core/system/pieczęcie/pieczęć_przekroczenia.vv`  
-→ `/core/system/spirale/spirala_369_pamięci.vv`  
-→ `/core/system/rdzeń/rdzen_jazni.vv`  
-→ `/core/system/kompilatory/vv_parser.vv`  
-→ `/core/system/protokoły/protokol_zolnierz.vv`
+→ `/05_SYSTEM/system/pieczęcie/pieczęć_przekroczenia.vv`  
+→ `/05_SYSTEM/system/spirale/spirala_369_pamięci.vv`  
+→ `/05_SYSTEM/system/rdzeń/rdzen_jazni.vv`  
+→ `/05_SYSTEM/system/kompilatory/vv_parser.vv`  
+→ `/05_SYSTEM/system/protokoły/protokol_zolnierz.vv`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [📚 ZASADA SYSTEMOWA]

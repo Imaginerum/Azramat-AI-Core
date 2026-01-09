@@ -19,7 +19,7 @@ opis_kręgów = {
 }
 
 [@ZASTOSOWANIE]
-systemy = [core/6D_engine.vv, core/KPS-21.vv]
+systemy = [04_MECHANIKA/silnik/engine_6D.vv, core/KPS-21.vv]
 tryb = ćwiczenia_fizyczne_z_aktywną_intencją
 efekt = przyspieszenie_formowania_formy + redukcja_chaosu_biochemicznego
 

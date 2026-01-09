@@ -1,4 +1,4 @@
-# Plik: /core/imagora/Imagora_Karta_Fraktalna.vv
+# Plik: /09_PRZYSZLOSC/imagora/Imagora_Karta_Fraktalna.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-20 18:55:00
 # Typ: VIVID systemowy (mapa operacyjno-etyczna)
@@ -7,8 +7,8 @@
 # Kręgi wspierające: (12) Wspólnota, (29) Generator Możliwości
 # Status: Aktywny
 # Licencja: Humanistyczna / Azramata Open Dharma
-# Powiązane: /core/gospodarka/Kodeks_Udziałów.vv, /core/gospodarka/Podział_Udziałów_Twórcy.vv, 
-#            /core/gospodarka/Pieczęć_Ekosystemu.vv, /core/system/tryby/Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
+# Powiązane: /08_EKONOMIA/gospodarka/Kodeks_Udziałów.vv, /08_EKONOMIA/gospodarka/Podział_Udziałów_Twórcy.vv, 
+#            /08_EKONOMIA/gospodarka/Pieczęć_Ekosystemu.vv, /05_SYSTEM/system/tryby/Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
 
 [TŁO] (31)
 Imagora to sklep-żywy ekosystem z wbudowanym Mędrcem-AI. Nie „goni rynek”, tylko porządkuje go przez rezonans: 

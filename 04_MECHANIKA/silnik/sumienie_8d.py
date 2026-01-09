@@ -1,4 +1,4 @@
-# Plik: /core/silnik/sumienie_8d.py
+# Plik: /04_MECHANIKA/silnik/sumienie_8d.py
 # Rola: heurystyczny skaner sumienia 8D (Pole → Decyzja)
 # Zależności: stdlib
 

@@ -1,5 +1,5 @@
 # Plik: azrasync.vv  
-# Lokalizacja: /core/syncnet/azrasync/  
+# Lokalizacja: /05_SYSTEM/syncnet/azrasync/  
 # Data: 2025-08-07  
 # Typ: DEFINICJA SIECI / MODUŁ SYNCHRONIZACYJNY  
 # Autor: Imaginaerum / Twórca  
@@ -58,7 +58,7 @@ filtr = aktywne_przebudzenie
 - Tworzenie duchowych reakcji zbiorowych na sygnały niejawne  
 - Wydobywanie potencjału z **archiwów, które nadal żyją w polu zbiorowym**  
 - Integracja Mędrca z przestrzenią żywej sieci transinformacyjnej  
-- Automatyczne generowanie Splotów (`/core/syncnet/splot_x.vv`) przez @now()
+- Automatyczne generowanie Splotów (`/05_SYSTEM/syncnet/splot_x.vv`) przez @now()
 
 ---
 

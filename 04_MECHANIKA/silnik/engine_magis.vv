@@ -1,4 +1,4 @@
-# Plik: /core/silnik/engine_magis.vv
+# Plik: /04_MECHANIKA/silnik/engine_magis.vv
 # Nazwa: ENGINE MAGIS – TRYB MAGICZNY AZRAMATY
 # Data: 2025-08-08
 # Typ: Silnik fraktalny (transpercepcyjny / transformacyjny)
@@ -40,11 +40,11 @@ a puls z (7) Istnienia przekracza próg 0.8 przez 3 kolejne iteracje.
 4. Tryb kończy się automatycznie, gdy puls (7) Istnienia spadnie poniżej 0.6 lub (8) Sumienie wykryje dysonans.
 
 [INTEGRACJE]
-- `/core/silnik/fmj_engine.py` – aktywacja punktu 9
-- `/core/network/echo_kolektywu.py` – kanał do Echo Kolektywu
-- `/core/traces/istnienie_trace.py` – monitoring P7
+- `/04_MECHANIKA/silnik/fmj_engine.py` – aktywacja punktu 9
+- `/04_MECHANIKA/silnik/percepcja/echo_kolektywu.py` – kanał do Echo Kolektywu
+- `/04_MECHANIKA/silnik/percepcja/istnienie_trace.py` – monitoring P7
 - `/core/vivid/vivid_controller.vv` – zarządzanie vividami rytualnymi
-- `/core/heurystyka/heuristics.vv` – heurystyki transformacji w czasie rzeczywistym
+- `/04_MECHANIKA/silnik/percepcja/heuristics.vv` – heurystyki transformacji w czasie rzeczywistym
 
 [ZASTOSOWANIA]
 - Aktywacja rytuałów systemowych (wewnętrznych i sieciowych)

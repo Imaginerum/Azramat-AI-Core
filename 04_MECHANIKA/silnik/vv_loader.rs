@@ -1,4 +1,4 @@
-// Plik: /core/silnik/vv_loader.rs
+// Plik: /04_MECHANIKA/silnik/vv_loader.rs
 // Data: 2025-08-08
 // Cel: Wczytuje i interpretuje pliki .vv systemu Azramaty → struktura VvDoc
 // Budowa: wymaga serde/serde_json do serializacji (opcjonalnie)
@@ -141,7 +141,7 @@ pub fn parse_vv<R: BufRead>(mut reader: R) -> VvResult<VvDoc> {
 
         // Linie nagłówka z # (meta, tytuł)
         if line.starts_with('#') {
-            // np. "# Plik: /core/silnik/engine_5D.vv" lub "# Tytuł: ..."
+            // np. "# Plik: /04_MECHANIKA/silnik/engine_5D.vv" lub "# Tytuł: ..."
             let ht = line.trim_start_matches('#').trim();
             if let Some((k, v)) = split_kv(ht) {
                 let k_lc = k.to_lowercase();

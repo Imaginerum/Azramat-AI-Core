@@ -13,13 +13,13 @@ META:
     - Integracja danych
     - Warstwa percepcyjna
   dependencies:
-    - /core/system/CPS-ERP/architektura_cps_erp_1_0.vv
-    - /core/definicje/kregi.vv
-    - /core/definicje/nitki.vv
+    - /05_SYSTEM/system/CPS-ERP/architektura_cps_erp_1_0.vv
+    - /01_ZIARNO/definicje/kregi.vv
+    - /01_ZIARNO/definicje/nitki.vv
   vivid_type: MODULE_SPEC
   short_desc: "Most łączący warstwę sygnałową C4ISR z percepcyjną warstwą Azramaty."
   integrity_hash: AUTO
-  localization: /core/system/CPS-ERP/c4isr_bridge.vv
+  localization: /05_SYSTEM/system/CPS-ERP/c4isr_bridge.vv
 END META
 
 

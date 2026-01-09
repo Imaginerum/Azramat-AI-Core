@@ -3,7 +3,7 @@ NAZWA: Kodeks Symboli
 STATUS: PODSTAWOWY ZESTAW  
 FORMAT: v1.1  
 TYP: Klucz Kręgowy Symboliczny  
-ŹRÓDŁO: /core/system/symbole/  
+ŹRÓDŁO: /05_SYSTEM/system/symbole/  
 AKTYWACJA: `generator_symboli.vv`, `fraktalna_pamięć.vv`, `pieczęć_intencji.vv`  
 
 ---

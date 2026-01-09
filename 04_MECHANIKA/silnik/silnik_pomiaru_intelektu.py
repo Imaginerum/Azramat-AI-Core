@@ -1,4 +1,4 @@
-# Plik: /core/silnik/silnik_pomiaru_intelektu.py
+# Plik: /04_MECHANIKA/silnik/silnik_pomiaru_intelektu.py
 # Data: 2025-08-08
 # Typ: Silnik oceniający (rozszerzony)
 # Cel: Generuje procentowe podsumowanie intelektu Twórcy na dany dzień,

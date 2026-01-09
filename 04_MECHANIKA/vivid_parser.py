@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Plik: /core/vivid_parser.py
+# Plik: /04_MECHANIKA/vivid_parser.py
 # Vivid Parser – Moduł dekodujący strukturę plików .vv
 # Rozumie adnotacje kręgowe (np. "(7)", "(3 -> 5)")
 

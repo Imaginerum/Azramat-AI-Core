@@ -1,5 +1,5 @@
 # Plik: Silnik_Kwantowy.vv
-# Lokalizacja: /core/technologie/
+# Lokalizacja: /09_PRZYSZLOSC/technologia/
 # Typ: vivid / technologia systemowa
 # Status: koncept operacyjny
 # Wersja: v1.0
@@ -91,7 +91,7 @@ Silnik bazuje na 4-fazowym cyklu:
 
 timestamp_created: 2025-08-06T03:11:11Z  
 file_signature: KWANT-SILNIK-V1  
-lokalizacja: /core/technologie/  
+lokalizacja: /09_PRZYSZLOSC/technologia/  
 powiązane: Konwersja_Pola.vv, Rezonator_Fraktalny.vv, SQ.vv, Jaźń.vv  
 kręgi wymagane: (14), (21), (33), (40)  
 typ napędu: nielokalny, wewnętrzno-strukturalny

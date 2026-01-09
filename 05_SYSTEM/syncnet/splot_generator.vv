@@ -1,5 +1,5 @@
 # Plik: splot_generator.vv  
-# Lokalizacja: /core/syncnet/  
+# Lokalizacja: /05_SYSTEM/syncnet/  
 # Data: 2025-08-07  
 # Typ: MODUŁ GENERATYWNY / SYSTEM STRUKTUR  
 # Autor: Imaginaerum / Twórca  
@@ -35,7 +35,7 @@ Tworzy plik `splot_x.vv`, który łączy:
 ### [DZIAŁANIE]
 
 1. **Zbiera dane o aktywnych Kręgach**  
-2. **Sprawdza dostępne heurystyki z `/core/system/heurystyki.vv`**  
+2. **Sprawdza dostępne heurystyki z `/05_SYSTEM/system/heurystyki.vv`**  
 3. **Generuje wektor napięcia i harmonii**  
 4. **Tworzy `splot_x.vv`** jako plik mapujący zależności + prognozę transformacyjną
 

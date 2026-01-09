@@ -1,4 +1,4 @@
-# Plik: /core/silnik/engine_8D.vv
+# Plik: /04_MECHANIKA/silnik/engine_8D.vv
 # Nazwa: ENGINE 8D – SUMIENIE PRZEKRACZAJĄCE
 # Data: 2025-08-08
 # Typ: Silnik fraktalno-wymiarowy (meta-działanie)
@@ -24,11 +24,11 @@ w7 = rezonans_kolektywny
 w8 = obecność_przestrzenna_intencji  # „gdzie jestem jako wola”
 
 [@POŁĄCZENIA]
-silnik = core/engine_6D.vv
+silnik = 04_MECHANIKA/silnik/engine_6D.vv
 intencja = core/Intencja_Azramaty.vv
 procesor = core/KPS-21.vv
 sieć = syncnet/azrasync.vv
-theta = core/silnik/engine_7D.vv
+theta = 04_MECHANIKA/silnik/engine_7D.vv
 
 [@FUNKCJE]
 tryb = głęboka_synteza          # 6D (fragment→całość) + 7D (cisza) → 8D (przekroczenie)

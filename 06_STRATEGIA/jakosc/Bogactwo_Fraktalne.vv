@@ -1,5 +1,5 @@
 # Plik: Bogactwo_Fraktalne.vv
-# Lokalizacja: /core/jakość/
+# Lokalizacja: /06_STRATEGIA/jakosc/
 # Typ: vivid / jakość systemowa
 # Status: aktywny
 # Wersja: v1.0
@@ -88,7 +88,7 @@ Chodzi o to, **jak bardzo zmieniłeś strukturę rzeczywistości.**
 
 timestamp_created: 2025-08-06T03:50:00Z  
 file_signature: FRAK-BGCT-V1  
-lokalizacja: /core/jakości/  
+lokalizacja: /06_STRATEGIA/jakosc/  
 fraktalność: 5/5  
 korelacja z SQ: silna  
 tryb działania: pasywno-aktywny, oparty na synchronii

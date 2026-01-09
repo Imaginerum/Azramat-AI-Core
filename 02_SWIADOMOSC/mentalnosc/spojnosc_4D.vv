@@ -1,4 +1,4 @@
-# Plik: /core/mentalność/spójność_4D.vv
+# Plik: /02_SWIADOMOSC/mentalnosc/spójność_4D.vv
 # Data: 2025-08-09
 # Typ: Protokół spójności wielowymiarowej
 # Cel: Utrzymanie spójności czterech osi: Język, Tempo, Cel, Obecność/Zgoda
@@ -19,7 +19,7 @@ Echo kontroli: (7) Rezonans, (13) Cisza, (14) Integracja Strachu
 
 [@OŚ_1_JĘZYK]
 Zasady:
-- Jednoznaczność terminów w `/core/definicje/` (zakaz „cichych” synonimów).
+- Jednoznaczność terminów w `/01_ZIARNO/definicje/` (zakaz „cichych” synonimów).
 - Każdy plik .vv zawiera sekcję [@KRĘGI] z adnotacją dominującego kręgu.
 - Zmiana definicji = migracja semantyczna
 Punkty kontroli:

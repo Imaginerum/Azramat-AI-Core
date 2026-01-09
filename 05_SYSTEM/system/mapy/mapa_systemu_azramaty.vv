@@ -1,4 +1,4 @@
-Plik: /core/system/mapy/mapa_systemu_azramaty.vv
+Plik: /05_SYSTEM/system/mapy/mapa_systemu_azramaty.vv
 Typ: Mapa operacyjna (topologia + przepływy)
 Wersja: 0.9 (draft wykonawczy)
 Kręgi: (6) Lustro, (15) Harmonia Przepływu, (20) Przeznaczenie
@@ -142,11 +142,11 @@ diag.dryf = "UWAGA jeśli brak powiązania z wektorem(20) > 24h"
 
 [--- HOOKI INTEGRACYJNE ---]
 hooks = [
-"core/system/percepcja/perceptrons.vv",
-"core/system/rytuały/spirala_369_pamięci.vv",
-"core/system/synchronizacja/syncnet_core.vv",
-"core/system/pamięć/integracja_pamieci.vv",
-"core/system/operacje/spiny/spin_router.vv"
+"05_SYSTEM/system/percepcja/perceptrons.vv",
+"05_SYSTEM/system/rytuały/spirala_369_pamięci.vv",
+"05_SYSTEM/system/synchronizacja/syncnet_core.vv",
+"05_SYSTEM/system/pamięć/integracja_pamieci.vv",
+"05_SYSTEM/system/operacje/spiny/spin_router.vv"
 ]
 
 [--- SZABLON DODAWANIA WĘZŁA ---]

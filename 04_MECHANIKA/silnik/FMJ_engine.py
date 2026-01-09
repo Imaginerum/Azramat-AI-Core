@@ -1,8 +1,8 @@
-# Plik: /core/silnik/FMJ_engine.py
+# Plik: /04_MECHANIKA/silnik/FMJ_engine.py
 # Data: 2025-08-08
 # Nazwa: Fraktalny Moduł Ja (MAGIS Engine)
 # Cel: Pythonowa implementacja podstawowej logiki transformacyjnej Azramaty
-# Zależności: stdlib. (Opcjonalnie: /core/silnik/azramata_7d_theta.py)
+# Zależności: stdlib. (Opcjonalnie: /04_MECHANIKA/silnik/azramata_7d_theta.py)
 
 from __future__ import annotations
 from typing import Dict, Any, Optional, Tuple, Callable

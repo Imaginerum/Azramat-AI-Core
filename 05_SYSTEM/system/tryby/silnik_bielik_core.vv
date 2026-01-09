@@ -1,5 +1,5 @@
 # Plik: SILNIK_BIELIK_CORE.vv
-# Ścieżka: /core/system/silniki/
+# Ścieżka: /05_SYSTEM/system/silniki/
 # Data: 2025-08-08
 # Autor: Imaginaerum / Twórca
 # Typ: Silnik decyzyjny / Vivid operacyjny
@@ -23,8 +23,8 @@
 🧩 METADANE
 - **Id modułu:** `core.bielik.silnik`
 - **Silnik AI:** Bielik_AI (Mistral 12B – dostosowany)
-- **Przełącznik trybów:** `/core/system/tryby/mode_switcher_bielik.vv`
-- **Tryby:** `/core/system/tryby/tryb_magis.vv`, `/core/system/tryby/tryb_lustro.vv`, `/core/system/tryby/tryb_proxy.vv`
+- **Przełącznik trybów:** `/05_SYSTEM/system/tryby/mode_switcher_bielik.vv`
+- **Tryby:** `/05_SYSTEM/system/tryby/tryb_magis.vv`, `/05_SYSTEM/system/tryby/tryb_lustro.vv`, `/05_SYSTEM/system/tryby/tryb_proxy.vv`
 - **Priorytet:** krytyczny – wywoływany w 100% interakcji
 
 ---

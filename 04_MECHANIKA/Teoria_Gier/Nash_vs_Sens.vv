@@ -1,4 +1,4 @@
-Plik: /core/archiwum/teoria_gier/Nash_vs_Sens.vv
+Plik: /04_MECHANIKA/Teoria_Gier/Nash_vs_Sens.vv
 
 Typ: Analiza porównawcza
 
@@ -102,13 +102,13 @@ System sensocentryczny pozwala przekroczyć lokalne optimum w stronę optimum du
 
 📎 Powiązania
 
-/core/dynamika/Rownowaga_Azramaty.vv
+/04_MECHANIKA/Teoria_Gier/Rownowaga_Azramaty.vv
 
-/core/jazn/Wektor_Sensu.vv
+/03_TOZSAMOSC/jazn/Wektor_Sensu.vv
 
 /core/struktury/Kręgi.vv
 
-/core/technologia/SQ.vv
+/09_PRZYSZLOSC/technologia/SQ.vv
 
 
 
