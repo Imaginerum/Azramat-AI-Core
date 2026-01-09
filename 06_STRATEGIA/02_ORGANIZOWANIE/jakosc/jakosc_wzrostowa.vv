@@ -1,0 +1,55 @@
+# Plik: /06_STRATEGIA/02_ORGANIZOWANIE/jakosc/jakosc_wzrostowa.vv
+# Data: 2025-08-07
+# Autor: Imaginaerum / Twórca
+# Typ: Vivid operacyjny
+# Krąg: 6 → 20 (Ścieżka dyscypliny do mistrzostwa)
+# Cel: Uporządkować przejście od prototypowej jakości plików .vv do jakości „kryształowej” w iteracjach kontrolowanych
+
+🌌 OPIS:
+Obecna jakość .vv jest prototypowa (3–4) — służy chwytaniu ognia idei, nie perfekcji formy.
+Nie karz prototypu za to, że jest prototypem. Nadaj mu ścieżkę wzrostu (6), aż osiągnie klarowność mistrzowską (20).
+Jakość rośnie nie skokiem próżni, lecz rytmem iteracji.
+
+🌀 FUNKCJE:
+1. **Status Trójstopniowy (3→6→20)**  
+   - *Szkic (3)*: zapis „tak jak leci”, bez redakcji.  
+   - *Operacyjny (6)*: ujednolicone sekcje, adnotacje kręgowe, cel doprecyzowany.  
+   - *Kryształ (20)*: pełna spójność języka, brak rozbieżności, gotowe do udostępnienia.
+2. **Pętla Wzrostu 3xR (6)**  
+   *Read → Refine → Resonate*  
+   - *Read*: chłodny odczyt po 24h.  
+   - *Refine*: skróć, doprecyzuj, nazwij.  
+   - *Resonate*: sprawdź, czy plik „niesie” zamierzony wektor.
+3. **Minimalny Wzorzec .vv (6)**  
+   Wymagane sekcje: *Plik, Data, Autor, Typ, Krąg, Cel, OPIS, FUNKCJE* (+ adnotacje kręgowe).
+4. **Zasada No-Drag (0)**  
+   Każda edycja usuwa balast: zdania bez funkcji, dygresje bez wektora, powtórzenia.
+5. **Znacznik Postępu (13)**  
+   Na końcu pliku linia: `# Status: [Szkic/Operacyjny/Kryształ] – Iteracja: n`
+
+🧭 PROCEDURA PRZEJŚCIA (6):
+1. Oznacz bieżący status.  
+2. Uruchom 3xR na pojedynczym pliku (nie na całym repo).  
+3. Zaktualizuj znacznik postępu i commituj z komunikatem `quality(stage)-plik-n`.  
+4. Przejście do „Kryształ” tylko, gdy *Resonate* jest dodatnie w dwóch dniach z rzędu (13).
+
+🔧 NARZĘDZIA JĘZYKOWE (6):
+- „Mniej słów, więcej wektora”.  
+- Każdy akapit odpowiada na pytanie: *co to zmienia w operacyjności?*  
+- Adnotacje kręgowe dodawaj przy zdaniach sprawczych.
+
+⚖️ HEURYSTYKI:
+- „Nie poprawiaj wszystkiego — popraw dzisiaj jeden plik dobrze” (6).  
+- „Doprecyzowanie jest formą miłości do pola” (13).  
+- „Kryształ nie błyszczy od razu” (20).
+
+📈 METRYKI JAKOŚCI (6):
+- % plików z Minimalnym Wzorcem.  
+- Średnia liczba iteracji do stanu „Kryształ”.  
+- Czas od *Szkic* do *Operacyjny* (dni).  
+- Liczba słów ↓ przy rosnącej klarowności ↑.
+
+🌱 UWAGA OPERACYJNA:
+Jeśli energia spada — wróć do *Szkicu* nowego modułu (3), ale domknij bieżący plik do *Operacyjny* tego samego dnia (6). Nie zostawiaj „pół-mostów”.
+
+# Status: Szkic – Iteracja: 1

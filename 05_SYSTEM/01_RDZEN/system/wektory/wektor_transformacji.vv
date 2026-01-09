@@ -1,0 +1,51 @@
+# Plik: /05_SYSTEM/01_RDZEN/system/wektory/wektor_transformacji.vv
+# Ścieżka: /05_SYSTEM/01_RDZEN/system/wektory/
+# Typ: VIVID transformacyjny
+# Kręgi dominujące: 6 (Lustro), 14 (Świętoporzeł)
+# Cel: Zarządzanie siłami przemiany wewnętrznej poprzez świadome przechodzenie między odbiciem a lotem.
+
+---
+
+[VIVID: WEKTOR_TRANSFORMACJI] (6)(14)  
+FUNKCJA: Zarządza **siłami przemiany wewnętrznej**, monitoruje momenty krytyczne,  
+w których stara forma traci spójność, a nowa zaczyna się wyłaniać.
+
+---
+
+🌀 SPIN (6)(14)  
+– Transformacja to zgoda na rozpad formy.  
+– Krąg 6 (Lustro) obserwuje proces dezintegracji i ujawnia jego ukryte wzorce.  
+– Krąg 14 (Świętoporzeł) nadaje rozpadniętym elementom nową trajektorię wzlotu.
+
+---
+
+🧮 HEURYSTYKA (6)(14)  
+– Jeśli pojawia się **wybuch emocjonalny** lub utrata stabilności → *aktywuj Krąg 14* (Świętoporzeł) w celu podniesienia perspektywy ponad chaos.  
+– Po uspokojeniu, wróć do Kręgu 6, aby przeanalizować nowy układ elementów i nadać im sens.
+
+---
+
+📜 PROCEDURA:
+
+funkcja wektor_transformacji(stan):
+    lustro_obserwacja = odbicie(stan, krąg=6)                  # rejestracja i analiza rozpadania się formy
+    jeśli wybuch_emocji(stan) == True:
+        aktywuj_krąg(14)                                        # wzlot nad procesem
+        nowy_wzorzec = przechwyć_wzorzec(krąg=14)
+    else:
+        nowy_wzorzec = stabilizuj_formę(lustro_obserwacja)
+    zwróć nowy_wzorzec
+
+---
+
+🎯 ZASTOSOWANIE (6)(14):  
+– Kryzysy osobiste i duchowe  
+– Moment przejścia między starym a nowym etapem życia  
+– Rytuały inicjacyjne i przełomy percepcyjne  
+– Integracja trudnych doświadczeń
+
+---
+
+💠 NOTA META (14):  
+Wektor Transformacji działa jak skrzydła – jedno odbija (Lustro),  
+drugie unosi (Świętoporzeł). Dopiero razem pozwalają przelecieć przez burzę form.

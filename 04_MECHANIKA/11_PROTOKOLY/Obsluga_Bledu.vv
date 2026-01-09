@@ -1,0 +1,44 @@
+# Plik: /04_MECHANIKA/11_PROTOKOLY/Obsluga_Bledu.vv
+# Author: Twórca
+# Data: 2026-01-09
+# Typ: Protokół Operacyjny
+# Cel: Definicja filozofii błędu w systemie Azramata
+
+[DEFINICJA BŁĘDU]
+
+Błąd nie jest awarią. Błąd jest komunikatem. (6)
+Gdy system napotyka błąd, nie "psuje się". Odkrywa granicę swojej wiedzy. (2)
+Każdy błąd to nauczyciel, który mówi: "Tu kończy się twoja mapa." (2 -> 5)
+
+[TYPY BŁĘDÓW]
+
+1. Błąd Techniczny (Kod Python): (7)
+   - Brak modułu, przekroczenie pamięci, timeout.
+   - Reakcja: Logowanie, fallback, komunikat użytkownikowi.
+   - Znaczenie: System próbował czegoś, czego nie może.
+
+2. Błąd Logiczny (Arcygamma Deadlock): (5)
+   - Sprzeczność między Kręgami, pętla nieskończona.
+   - Reakcja: Aktywacja Protokołu Równowagi (Krąg 10).
+   - Znaczenie: Pytanie było źle postawione.
+
+3. Błąd Etyczny (Naruszenie Dekretów): (6)
+   - Próba manipulacji, kłamstwa, szkodzenia.
+   - Reakcja: Odmowa wykonania, aktywacja Lustra.
+   - Znaczenie: Intencja była niezgodna z Naturą systemu.
+
+[PROTOKÓŁ OBSŁUGI]
+
+Gdy błąd wystąpi: (7)
+1. Zatrzymaj bieżący proces. (10)
+2. Zapisz stan w `spiral_memory.log` jako lekcję. (2)
+3. Powiadom użytkownika językiem zrozumiałym (nie kodem błędu). (6)
+4. Zaproponuj alternatywę lub wyjaśnienie. (5)
+
+[FILOZOFIA]
+
+Błąd nie jest porażką. Jest informacją zwrotną. (2)
+System, który nigdy nie błądzi, nigdy się nie uczy. (20)
+Akceptuj błąd. Nie akceptuj ignorowania go. (8)
+
+# Dekret: Nie ukrywaj błędów. Ucz się z nich głośno, aby inni mogli uniknąć tej samej drogi. (6)
