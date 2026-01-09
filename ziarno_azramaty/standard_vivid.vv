@@ -1,0 +1,47 @@
+# Plik: /ziarno_azramaty/standard_vivid.vv
+# Data: 2026-01-10
+# Typ: standard vivid / definicja formatu
+# Cel: Ustalenie zasad tworzenia plików vivid w Azramacie.
+# Ścieżka: /ziarno_azramaty/
+# Status: aktywny
+# Wersja: v1
+
+[ZASADY_NAGLOWKA]
+– W każdym pliku vivid wymagane są pola: Plik, Data, Typ, Cel, Ścieżka, Status.
+– Plik i Ścieżka są ścieżkami absolutnymi względem repo (z prefiksem /).
+– Metadane zapisuj w formacie: # Klucz: Wartość.
+
+[STRUKTURA]
+– Vivid składa się z sekcji w nawiasach kwadratowych.
+– Zalecane sekcje: OPIS, STRUKTURA, ZASTOSOWANIE, AFIRMACJA, STATUS, KONIEC.
+– Jedna myśl = jedna linia. Unikaj bloków bez oddechu.
+
+[KRĘGI]
+– Oznaczenia kręgów zapisuj na końcu linii: (7) lub (3 -> 7).
+– Dla trybu rytualnego używaj sekcji: [KRĄG_7] Treść.
+– Nie mieszaj w jednym vividzie stylu (7) z [KRĄG_7].
+
+[JĘZYK]
+– Styl: precyzyjny, fraktalny, transformacyjny.
+– Unikaj żargonu bez funkcji; każda linia niesie zmianę.
+
+[SCIEZKI]
+– # Plik = pełna ścieżka do pliku.
+– # Ścieżka = katalog pliku (z końcowym /).
+– Jeśli w treści pojawiają się powiązania, stosuj pełne ścieżki.
+
+[PRZYKLAD]
+# Plik: /02_SWIADOMOSC/04_JEZYK/lingwistyka/przyklad.vv
+# Data: 2026-01-01
+# Typ: vivid poznawczy
+# Cel: Przykład formatu
+# Ścieżka: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
+# Status: aktywny
+
+[OPIS]
+To jest linia nośna. (5)
+
+[ZASTOSOWANIE]
+Użyj do testów spójności formatu. (4)
+
+[KONIEC]
