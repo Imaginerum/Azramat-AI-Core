@@ -1,0 +1,171 @@
+# Plik: /09_PRZYSZLOSC/28_AI/05_AI_DANE_PAMIĘĆ_WEKTORY.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – dane i pamięć
+# Status: dokument operacyjny
+# Cel: opisać źródła danych, pamięć wektorową
+#      oraz politykę minimalizacji i prywatności
+# Adnotacja Kręgowa:
+
+[ŹRÓDŁA_DANYCH]
+
+System AI w Azramacie korzysta wyłącznie z danych,
+które posiadają jawne pochodzenie, cel użycia
+oraz przypisanego właściciela odpowiedzialności. (10)
+
+Źródła danych obejmują:
+– dane instytucjonalne i operacyjne, (20)
+– dokumenty referencyjne, procedury i normy, (6)
+– dane jawne i jawnie udostępnione. (11)
+
+Dane niejawne lub wrażliwe
+podlegają odrębnym politykom dostępu
+i nie trafiają do warstw generatywnych bez kontroli. (24)
+
+---
+
+[CZYSZCZENIE_I_WERSJONOWANIE]
+
+Każdy zbiór danych przechodzi proces walidacji. (5)
+
+Walidacja obejmuje:
+– ocenę jakości i kompletności, (5)
+– oznaczenie wersji, czasu i pochodzenia, (11)
+– przypisanie celu użycia i zakresu ważności. (15)
+
+Każda zmiana danych:
+– pozostawia ślad audytu, (23)
+– posiada autora i uzasadnienie, (10)
+– może zostać cofnięta bez utraty spójności systemu. (22)
+
+Brak wersjonowania
+unieważnia dane operacyjnie. (24)
+
+---
+
+[PAMIĘĆ_SYSTEMOWA]
+
+Pamięć w systemie AI nie jest magazynem wszystkiego. (14)
+Jest mechanizmem przywoływania kontekstu. (7)
+
+Pamięć systemowa składa się z:
+– repozytoriów wiedzy uporządkowanej, (6)
+– pamięci wektorowej dla relacji i podobieństw, (7)
+– logów decyzji i rekomendacji. (11)
+
+Pamięć:
+– jest selektywna, (15)
+– jest czasowa, (18)
+– podlega zasadzie przydatności. (14)
+
+---
+
+[EMBEDDINGI_I_RETRIEVAL]
+
+Embeddingi pełnią rolę pamięci kontekstowej. (7)
+
+Zasady:
+– wektory są powiązane z wersją źródła, (11)
+– aktualność embeddingów jest monitorowana, (16)
+– nieaktualne wektory są archiwizowane lub usuwane. (18)
+
+Retrieval:
+– podlega kontroli spójności z Kręgami, (4)
+– respektuje polityki dostępu i prywatności, (24)
+– nie łączy danych rozłącznych sensowo. (21)
+
+Separacja danych wrażliwych
+jest obowiązkowa i nienaruszalna. (24)
+
+---
+
+[POLITYKA_PRYWATNOŚCI]
+
+Prywatność jest warunkiem architektury, nie dodatkiem. (13)
+
+Zasady:
+– minimalizacja zakresu danych osobowych, (15)
+– pseudonimizacja tam, gdzie to możliwe, (13)
+– kontrola dostępu oparta na rolach i kontekście. (10)
+
+Każde użycie danych osobowych:
+– jest rejestrowane, (23)
+– posiada podstawę operacyjną, (11)
+– może zostać przeanalizowane audytowo. (23)
+
+---
+
+[ZASADA_MINIMALIZACJI]
+
+System nie gromadzi danych „na zapas”. (14)
+
+Każdy zbiór danych:
+– ma jasno określony cel, (15)
+– posiada właściciela odpowiedzialności, (10)
+– posiada termin przydatności. (18)
+
+Dane bez celu
+są usuwane lub izolowane. (22)
+
+Minimalizacja:
+– redukuje ryzyko nadużyć, (24)
+– zwiększa jakość rozumowania, (6)
+– chroni system przed degradacją sensu. (21)
+
+---
+
+[ODPORNOŚĆ_DANYCH]
+
+Dane są traktowane jako element dynamiczny. (18)
+
+System:
+– wykrywa dryf danych, (16)
+– sygnalizuje spadek jakości, (5)
+– blokuje decyzje oparte na danych nieaktualnych. (22)
+
+Jakość danych
+jest warunkiem jakości decyzji. (21)
+
+---
+
+[PIECZĘĆ_OPERACYJNA]
+
+Pamięć nie służy temu, by pamiętać wszystko.
+Służy temu, by pamiętać to, co istotne. (21)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Dane i pamięć AI w Azramacie – zapis autorski.
+  Dokument operacyjny dla warstwy danych.
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza zasad jakości danych,
+  pamięci wektorowej i polityki minimalizacji
+  w systemach decyzyjnych AI.
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid danych i pamięci. (6)
+– Funkcja: zapewnienie jakości wejść,
+  kontekstu i prywatności danych. (12)
+– Mierzy: spójność danych,
+  aktualność embeddingów
+  oraz zgodność z polityką minimalizacji. (11)
+– Charakter: operacyjny, audytowalny, ochronny. (17)
+– Status: dokument autorski – poziom danych AI. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+System, który pamięta wszystko,
+przestaje rozumieć, co jest ważne. (29)

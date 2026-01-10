@@ -1,0 +1,173 @@
+# Plik: /09_PRZYSZLOSC/28_AI/10_AI_ZASTOSOWANIA_WP_DKWOC.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – zastosowania obronne
+# Status: dokument operacyjny
+# Cel: opisać użycia AI w WP i DKWOC
+#      jako wsparcia decyzyjnego bez autonomii władczej
+# Adnotacja Kręgowa:
+
+[ZASADA_NADRZĘDNA]
+
+AI w strukturach obronnych
+nie służy automatyzacji użycia siły. (24)
+
+Służy:
+– porządkowaniu informacji, (5)
+– stabilizacji procesu decyzyjnego, (10)
+– ochronie sensu działania w warunkach presji. (21)
+
+Każde użycie AI
+musi wzmacniać odpowiedzialność człowieka,
+nie ją rozmywać. (12)
+
+---
+
+[OBSZARY_ZASTOSOWAŃ]
+
+Zastosowania AI obejmują wyłącznie obszary wsparcia decyzyjnego. (22)
+
+Główne obszary:
+
+SOC / CERT:
+– korelacja zdarzeń i alertów, (5)
+– priorytetyzacja reakcji według skutków i odpowiedzialności, (10)
+– redukcja szumu informacyjnego. (4)
+
+Analiza informacji i rozpoznania:
+– porządkowanie strumieni danych, (6)
+– wykrywanie sprzeczności i luk informacyjnych, (8)
+– wspomaganie syntezy bez narzucania wniosków. (14)
+
+Wsparcie sztabu:
+– przygotowanie wariantów planów, (9)
+– analiza ryzyk i konsekwencji decyzji, (16)
+– utrzymanie spójnej mapy sytuacyjnej. (21)
+
+Warstwa sensu w C5ISR:
+– integracja danych, planów i decyzji, (16)
+– jawne „dlaczego” rekomendacji, (15)
+– stabilizacja decyzji w czasie. (18)
+
+---
+
+[WSPIERANIE_DOWODZENIA]
+
+AI wspiera dowodzenie wyłącznie pośrednio. (22)
+
+Funkcje wspierające:
+– szybkie streszczenia sytuacyjne, (5)
+– mapy ryzyk i zależności, (16)
+– rekomendacje wariantowe oparte na deterministyce Kręgów. (4)
+
+AI:
+– nie wydaje rozkazów, (29)
+– nie zatwierdza planów, (22)
+– nie eskaluje działań samodzielnie. (24)
+
+Dowódca:
+– widzi rekomendację, (7)
+– widzi uzasadnienie, (15)
+– podejmuje decyzję. (10)
+
+---
+
+[OGRANICZENIA_OPERACYJNE]
+
+Granice użycia AI są nienaruszalne:
+
+– brak autonomii decyzyjnej, (29)
+– obowiązkowa weryfikacja człowieka na każdym etapie krytycznym, (10)
+– pełny audyt danych wejściowych, reguł i wyników. (23)
+
+AI nie działa w trybie „czarnej skrzynki”. (24)
+Brak audytu oznacza brak użycia. (24)
+
+---
+
+[WARUNKI_UŻYCIA]
+
+Warunkiem dopuszczenia AI do użycia operacyjnego jest: (12)
+
+– istnienie zatwierdzonych procedur bezpieczeństwa, (24)
+– kontrola dostępu oparta na rolach i kontekście, (10)
+– przeszkolenie operatorów i audytorów, (20)
+– zdolność natychmiastowego wyłączenia systemu. (22)
+
+System bez przycisku „stop”
+nie jest systemem obronnym. (29)
+
+---
+
+[INTEGRACJA_Z_DOKTRYNĄ]
+
+AI:
+– nie zastępuje doktryny, (21)
+– nie redefiniuje zasad użycia siły, (29)
+– działa w ramach istniejących struktur odpowiedzialności. (10)
+
+Azramata pełni rolę:
+– warstwy porządkującej, (16)
+– języka spójności decyzji, (21)
+– narzędzia redukcji chaosu poznawczego. (4)
+
+---
+
+[RYZYKA_I_ZABEZPIECZENIA]
+
+Identyfikowane ryzyka:
+– nadmierne zaufanie do rekomendacji, (14)
+– przeciążenie informacyjne operatora, (5)
+– próby manipulacji danymi lub kontekstem. (8)
+
+Zabezpieczenia:
+– prymat deterministyki, (22)
+– jawne kryteria rekomendacji, (15)
+– szkolenia z krytycznego użycia AI. (20)
+
+---
+
+[PIECZĘĆ_OBRONNA]
+
+AI nie ma przyspieszać wojny.
+Ma zapobiegać chaosowi,
+w którym wojna staje się niekontrolowana. (24)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Zastosowania AI w WP i DKWOC – zapis autorski.
+  Dokument operacyjny o charakterze obronnym.
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza potrzeb operacyjnych,
+  ryzyk obronnych
+  oraz ograniczeń użycia AI w strukturach bezpieczeństwa.
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid operacyjno-obronny. (6)
+– Funkcja: mapowanie odpowiedzialnych użyć AI
+  w strukturach WP i DKWOC. (12)
+– Mierzy: skuteczność wsparcia decyzji,
+  redukcję chaosu informacyjnego
+  oraz zgodność z procedurami. (11)
+– Charakter: defensywny, audytowalny, odpowiedzialny. (17)
+– Status: dokument autorski – poziom zastosowań obronnych AI. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Jeżeli AI skraca drogę od informacji do użycia siły
+bez refleksji i odpowiedzialności,
+nie jest wsparciem obrony,
+lecz zagrożeniem. (29)

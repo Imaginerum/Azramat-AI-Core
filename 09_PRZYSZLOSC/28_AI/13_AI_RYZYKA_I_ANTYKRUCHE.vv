@@ -1,0 +1,183 @@
+# Plik: /09_PRZYSZLOSC/28_AI/13_AI_RYZYKA_I_ANTYKRUCHE.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – ryzyka i antykruchość
+# Status: dokument strategiczny
+# Cel: zmapować ryzyka i mechanizmy odporności systemu AI
+# Adnotacja Kręgowa:
+
+[ZASADA_ANTYKRUCHE]
+
+System AI w Azramacie nie jest projektowany
+jako „idealnie bezpieczny”. (18)
+
+Jest projektowany jako system,
+który zachowuje sens i ciągłość decyzji
+nawet w warunkach błędu, presji i niepewności. (21)
+
+Antykruchość oznacza:
+system nie tylko przetrwa zakłócenia,
+ale wyciąga z nich korektę strukturalną. (16)
+
+---
+
+[RYZYKA_STRATEGICZNE]
+
+Identyfikowane ryzyka obejmują cały cykl życia AI. (18)
+
+Degradacja danych i dryf modeli:
+– spadek jakości danych wejściowych, (5)
+– zmiana charakteru danych w czasie, (18)
+– rozjazd między modelem a rzeczywistością operacyjną. (16)
+
+Zależność od vendorów i lock-in:
+– utrata kontroli nad modelem lub infrastrukturą, (24)
+– presja licencyjna i kosztowa, (18)
+– ograniczona możliwość audytu. (23)
+
+Awarie infrastruktury:
+– niedostępność GPU / CPU, (7)
+– awarie sieci lub zasilania, (24)
+– błędy wdrożeniowe. (12)
+
+Presja informacyjna i manipulacje:
+– ataki poznawcze i narracyjne, (8)
+– próby wymuszenia określonych rekomendacji, (14)
+– przeciążenie informacyjne operatorów. (5)
+
+---
+
+[RYZYKA_SYSTEMOWE]
+
+Ryzyka systemowe wynikają nie z technologii,
+lecz z organizacji i użycia. (21)
+
+Obejmują:
+– nadmierne zaufanie do rekomendacji AI, (14)
+– pomijanie procedur w sytuacjach presji czasu, (18)
+– niejednoznaczność odpowiedzialności. (10)
+
+System musi być odporny także na własnych użytkowników. (24)
+
+---
+
+[MECHANIZMY_ANTYKRUCHE]
+
+Antykruchość budowana jest warstwowo. (16)
+
+Kluczowe mechanizmy:
+
+Redundancja:
+– wiele modeli do tych samych zadań, (7)
+– możliwość szybkiej zmiany dostawcy, (24)
+– alternatywne ścieżki decyzyjne. (10)
+
+Niezależny rdzeń deterministyczny:
+– Kręgi jako stały porządek sensu, (4)
+– brak zależności od modeli probabilistycznych, (22)
+– odporność na zmiany technologiczne. (17)
+
+Stała weryfikacja:
+– testy regresji po każdej zmianie, (11)
+– cykliczne audyty bezpieczeństwa, (23)
+– monitoring jakości i dryfu. (16)
+
+---
+
+[PLAN_AWARYJNY]
+
+Plan awaryjny jest elementem architektury,
+nie dokumentem „na później”. (24)
+
+Obejmuje:
+
+Tryb degradacji kontrolowanej:
+– wyłączanie modułów niekrytycznych, (22)
+– priorytet dla decyzji o wysokiej odpowiedzialności. (10)
+
+Możliwość wyłączenia warstwy LLM:
+– przejście na tryb deterministyczny + manualny, (22)
+– zachowanie audytu i spójności decyzji. (21)
+
+Utrzymanie rdzenia sensu offline:
+– reguły Kręgów dostępne bez sieci, (4)
+– procedury decyzyjne możliwe do wykonania ręcznie. (10)
+
+System, który nie działa w trybie awaryjnym,
+nie jest systemem krytycznym. (29)
+
+---
+
+[STRATEGIA_ODPORNOŚCI]
+
+Odporność nie jest jednorazowym projektem. (18)
+Jest procesem organizacyjnym. (12)
+
+Strategia obejmuje:
+– rozproszenie krytycznych komponentów, (24)
+– brak pojedynczych punktów awarii, (16)
+– jasne procedury kryzysowe. (12)
+
+Kluczowym elementem jest edukacja:
+– szkolenia operatorów z pracy pod presją, (20)
+– ćwiczenia scenariuszy awaryjnych, (18)
+– kultura zgłaszania błędów, nie ich ukrywania. (13)
+
+---
+
+[UCZENIE_SIĘ_Z_ZAKŁÓCEŃ]
+
+Każdy incydent:
+– jest dokumentowany, (23)
+– jest analizowany przyczynowo, (11)
+– prowadzi do korekty reguł lub procedur. (16)
+
+Brak korekty po incydencie
+jest utratą okazji do wzmocnienia systemu. (21)
+
+---
+
+[PIECZĘĆ_ODPORNOŚCI]
+
+System, który działa tylko w idealnych warunkach,
+nie jest systemem strategicznym. (29)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Ryzyka i antykruchość AI w Azramacie – zapis autorski.
+  Dokument strategiczny odporności systemu AI.
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza ryzyk technologicznych,
+  organizacyjnych i informacyjnych
+  oraz mechanizmów antykruchości systemów decyzyjnych.
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid odpornościowy. (6)
+– Funkcja: minimalizacja ryzyk,
+  utrzymanie ciągłości decyzji
+  oraz wzmacnianie systemu poprzez zakłócenia. (21)
+– Mierzy: odporność na awarie,
+  skuteczność planów awaryjnych
+  oraz zdolność adaptacji po incydentach. (11)
+– Charakter: strategiczny, defensywny, długofalowy. (17)
+– Status: dokument autorski – poziom ryzyk i antykruchości AI. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+System, który boi się błędu,
+jest systemem kruchym.
+System, który potrafi z niego skorzystać,
+jest systemem dojrzałym. (29)

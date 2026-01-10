@@ -1,0 +1,144 @@
+# Plik: /09_PRZYSZLOSC/28_AI/04_AI_WARSTWA_LLM_ASYSTENT.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – warstwa asystenta językowego
+# Status: moduł wspierający
+# Cel: opisać rolę LLM jako narzędzia wsparcia,
+#      bez prawa do „ostatniego słowa”
+# Adnotacja Kręgowa:
+
+[ROLA_LLM]
+
+Warstwa LLM pełni funkcję asystenta językowego i poznawczego,
+którego zadaniem jest ułatwienie pracy człowieka
+w warunkach złożoności informacyjnej. (7)
+
+LLM:
+– nie jest podmiotem decyzyjnym, (22)
+– nie posiada odpowiedzialności za skutki, (10)
+– nie stanowi źródła sensu ani celu. (14)
+
+Jego rola jest wtórna wobec warstwy deterministycznej. (12)
+
+---
+
+[FUNKCJE_OPERACYJNE]
+
+LLM wspiera system poprzez:
+
+– generację treści roboczych i wariantów, (7)
+– streszczanie dokumentów i danych wejściowych, (5)
+– dialog z operatorem w języku naturalnym, (3)
+– formułowanie wstępnych hipotez i scenariuszy. (9)
+
+Wszystkie funkcje mają charakter pomocniczy. (11)
+
+---
+
+[CO_LLM_MOŻE]
+
+LLM może:
+– proponować możliwe rozwiązania, (7)
+– tłumaczyć złożone zależności na język operacyjny, (5)
+– przygotowywać alternatywne warianty decyzji, (9)
+– wspierać analizę poprzez porównania i analogie. (6)
+
+Każda propozycja LLM
+jest traktowana jako materiał roboczy,
+nie jako rekomendacja decyzyjna. (12)
+
+---
+
+[CZEGO_LLM_NIE_MOŻE]
+
+LLM nie może:
+– podejmować decyzji bez przejścia przez deterministykę, (22)
+– omijać zasad bezpieczeństwa i blokad, (24)
+– modyfikować reguł Kręgów, (21)
+– zastępować odpowiedzialności człowieka, (10)
+– ukrywać niepewności lub źródeł odpowiedzi. (11)
+
+Każda próba naruszenia tych zasad
+oznacza błąd architektoniczny systemu. (18)
+
+---
+
+[ZASADA_BEZ_OSTATNIEGO_SŁOWA]
+
+LLM nie posiada prawa finalnego. (22)
+
+Każda treść generowana przez LLM:
+– przechodzi przez warstwę deterministyczną, (12)
+– podlega kontroli spójności z Kręgami, (4)
+– może zostać odrzucona bez konsekwencji systemowych. (15)
+
+Decyzja:
+– nie wynika z generacji, (14)
+– nie jest sumą prawdopodobieństw, (16)
+– jest aktem odpowiedzialności człowieka. (10)
+
+---
+
+[ZARZĄDZANIE_NIEPEWNOŚCIĄ]
+
+LLM:
+– musi sygnalizować poziom niepewności, (11)
+– nie może przedstawiać hipotez jako faktów, (15)
+– nie może maskować braków danych. (5)
+
+Niepewność jest jawna.
+Brak jawności unieważnia wynik. (24)
+
+---
+
+[ODPORNOŚĆ_SYSTEMOWA]
+
+Warstwa LLM:
+– jest wymienialna technologicznie, (17)
+– nie wpływa na rdzeń sensu systemu, (21)
+– może być wyłączona bez utraty zdolności decyzyjnej. (22)
+
+Zmiana modelu językowego
+nie zmienia logiki decyzji. (16)
+
+---
+
+[PIECZĘĆ_OPERACYJNA]
+
+LLM nie służy temu, by system „mówił mądrze”.
+Służy temu, by człowiek rozumiał lepiej. (21)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Warstwa LLM asystenta – zapis autorski.
+  Dokument operacyjny dla modułów językowych AI.
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza roli modeli językowych
+  w systemach decyzyjnych opartych o deterministykę.
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid operacyjny LLM. (6)
+– Funkcja: wsparcie językowe i poznawcze
+  bez prawa do podejmowania decyzji. (12)
+– Mierzy: zgodność odpowiedzi LLM
+  z regułami deterministyki i zasadami bezpieczeństwa. (11)
+– Charakter: pomocniczy, kontrolowany, wymienialny. (17)
+– Status: dokument autorski – moduł wspierający AI. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Jeżeli LLM staje się źródłem decyzji,
+system utracił architekturę sensu. (29)
