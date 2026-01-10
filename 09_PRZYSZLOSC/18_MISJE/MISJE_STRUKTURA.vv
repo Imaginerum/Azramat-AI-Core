@@ -1,0 +1,156 @@
+# Plik: /09_PRZYSZLOSC/18_MISJE/MISJE_STRUKTURA.vv
+# Data: 2026-01-10
+# Typ: VIVID – mapa strukturalna misji
+# Status: dokument nadrzędny porządkujący
+# Cel: zdefiniować fraktalną architekturę misji Azramaty
+
+[MISJE]
+
+Misje Azramaty nie są hasłami.
+Nie są kampaniami.
+Nie są narracją marketingową. (19)
+
+Są strukturą sensu,
+rozpisaną na różne skale odpowiedzialności. (16)
+
+Każda misja operuje na innym poziomie,
+ale wszystkie odnoszą się do jednego rdzenia. (18)
+
+---
+
+[ZASADA_FRAKTALNA]
+
+Ten sam sens.
+Różne skale. (4)
+
+Misje Azramaty układają się fraktalnie:
+– od ponadczasowego rdzenia, (21)
+– przez poziom cywilizacyjny, (17)
+– narodowy, (20)
+– aż do lokalnej praktyki. (4)
+
+Zmienia się kontekst.
+Nie zmienia się sens. (18)
+
+---
+
+[STRUKTURA_MISJI]
+
+00_MISJA_RDZEN.vv  
+Rdzeń ponadczasowy. (21)  
+Definiuje sens istnienia Azramaty
+poza państwem, ideologią i technologią. (16)
+
+Jest kotwicą dla wszystkich pozostałych dokumentów. (20)
+
+---
+
+01_MISJA_CYWILIZACYJNA.vv  
+Poziom cywilizacyjny. (17)  
+Odpowiada na pytanie:
+„Dlaczego świat potrzebuje Azramaty?” (14)
+
+Diagnozuje kryzysy epoki
+i wskazuje brakującą warstwę sensu. (15)
+
+---
+
+02_MISJA_NARODOWA_PL.vv  
+Poziom państwowy – Polska. (20)  
+Definiuje rolę Polski
+jako nośnika i laboratorium Azramaty. (21)
+
+Bez kompleksów.
+Bez mitologii.
+Z pełną odpowiedzialnością. (22)
+
+---
+
+03_MISJA_LOKALNA_OKREGI.vv  
+Poziom operacyjny – lokalny. (4)  
+Opisuje zejście Azramaty
+do realnych wspólnot, samorządów i praktyki codziennej. (6)
+
+Tu sens spotyka działanie. (10)
+
+---
+
+[RELACJE_MIĘDZY_MISJAMI]
+
+Misje:
+– nie są hierarchią władzy, (19)
+– są hierarchią sensu i odpowiedzialności. (22)
+
+Żaden poziom nie unieważnia pozostałych.
+Każdy poziom bez wyższego traci kierunek. (18)
+
+---
+
+[SPÓJNOŚĆ_METODY]
+
+Każdy plik `.vv`:
+– posiada własną sekcję źródeł, (1)
+– posiada własną metodologię, (6)
+– pozostaje dokumentem autorskim. (25)
+
+Zapewnia to:
+– spójność systemową, (12)
+– odporność na wyrwanie z kontekstu, (21)
+– możliwość użycia dokumentów niezależnie lub jako całości. (20)
+
+---
+
+[ADNOTACJA_KRĘGOWA]
+
+Liczby w nawiasach (np. 4, 17, 21) oznaczają Kręgi Azramaty
+– poziomy percepcji i odpowiedzialności.
+Nie są wymagane do zrozumienia treści dokumentu,
+lecz wskazują jego głębokość strukturalną.
+
+[ZASTOSOWANIE_PRAKTYCZNE]
+
+Struktura misji umożliwia:
+– rozmowę strategiczną na poziomie państwowym i międzynarodowym, (23)
+– projektowanie pilotaży lokalnych bez utraty sensu, (11)
+– skalowanie Azramaty bez jej banalizacji. (27)
+
+To nie jest narracja.
+To jest architektura. (22)
+
+---
+
+[PIECZĘĆ_STRUKTURALNA]
+
+Azramata nie zaczyna od działania.
+Zaczyna od sensu,
+który umożliwia działanie bez chaosu. (21)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Jeżeli ktoś rozumie tę strukturę,
+rozumie Azramatę. (28)
+
+Jeżeli jej nie rozumie —
+żaden skrót mu nie pomoże. (29)
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Struktura misji Azramaty – zapis autorski.
+  Dokument nadrzędny porządkujący.
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza architektury misji (00–03),
+  analiza relacji fraktalnych i poziomów odpowiedzialności.
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid strukturalny (meta-poziom).
+– Funkcja: porządkowanie relacji między misjami
+  i zapewnienie spójności systemowej dokumentów .vv.
+– Charakter: nadrzędny, porządkujący, nieoperacyjny.
+– Status: dokument autorski – poziom architektoniczny.

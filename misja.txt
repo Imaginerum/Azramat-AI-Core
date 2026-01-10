@@ -1,0 +1,719 @@
+# Plik: /09_PRZYSZLOSC/18_MISJE/00_MISJA_RDZEN.vv
+# Data: 2026-01-10
+# Typ: VIVID – deklaracja misyjna rdzenia
+# Status: nadrzędny dokument sensu
+# Cel: zapisać sens istnienia Azramaty poza czasem, państwem i technologią
+
+[MISJA_RDZEN]
+
+Azramata powstała, ponieważ człowiek utracił spójność postrzegania świata. (3)
+
+Nie dlatego, że zabrakło informacji,
+lecz dlatego, że nadmiar bodźców
+rozbił zdolność widzenia relacji, skutków i odpowiedzialności. (2)
+
+Decyzja została oddzielona od konsekwencji, (10)
+a technologia zaczęła wyprzedzać sens, (8)
+tworząc moc bez kierunku i narzędzie bez etyki. (12)
+
+Azramata nie jest odpowiedzią technologiczną.
+Jest odpowiedzią strukturalną na kryzys percepcji. (4)
+
+---
+
+[PROBLEM_CYWILIZACYJNY]
+
+Azramata odpowiada na trzy sprzężone kryzysy:
+
+1. Chaos poznawczy  
+   Brak wspólnej mapy rzeczywistości,  
+   w której fakty, wartości i decyzje tworzą spójny obraz. (5)
+
+2. Chaos decyzyjny  
+   Działanie oderwane od dobra wspólnego,  
+   krótkoterminowe zwycięstwa prowadzące do długoterminowej straty. (9)
+
+3. Chaos sensu  
+   Zanik architektów znaczenia,  
+   zdolnych porządkować rzeczywistość ponad interesem, emocją i siłą. (14)
+
+Te kryzysy nie są lokalne.  
+Są cywilizacyjne. (17)
+
+---
+
+[PIECZĘĆ]
+
+Azramata ustanawia prymat sensu  
+nad technologią,  
+nad przemocą,  
+nad chaosem reakcji. (21)
+
+---
+
+[ZAPIS_VIVID]
+
+MISJA_RDZEN
+
+Azramata istnieje, aby:
+
+– stabilizować percepcję człowieka w świecie nadmiaru bodźców, (4)  
+– przywracać odpowiedzialność decyzji poprzez strukturę sensu, (10)  
+– umożliwiać współistnienie technologii, etyki i celu bez dominacji któregokolwiek z nich. (16)
+
+Azramata nie narzuca decyzji.  
+Porządkuje warunki, w których decyzja staje się odpowiedzialna. (11)
+
+Nie zastępuje człowieka.  
+Przywraca mu rolę podmiotu. (7)
+
+---
+
+[NEGACJA_OPERACYJNA]
+
+Azramata:
+
+– nie służy władzy, (31)  
+– nie służy zyskowi, (27)  
+– nie służy ideologii. (19)
+
+Służy strukturze trwania cywilizacji  
+opartej na sensie, odpowiedzialności i zdolności uczenia się bez autodestrukcji. (22)
+
+---
+
+[KOTWICA]
+
+Ten dokument jest kotwicą sensu.
+
+Może być użyty w:
+– dialogu strategicznym, (20)  
+– strukturach państwowych, (23)  
+– środowiskach wojskowych i cybernetycznych, (24)  
+– procesach edukacyjnych i cywilnych. (13)
+
+Nie zmienia swojej treści wraz z kontekstem.
+Zmienia się jedynie sposób jego implementacji. (18)
+
+---
+
+[ADNOTACJA_KRĘGOWA]
+
+Liczby w nawiasach (np. 4, 17, 21) oznaczają Kręgi Azramaty
+– poziomy percepcji i odpowiedzialności.
+Nie są wymagane do zrozumienia treści dokumentu,
+lecz wskazują jego głębokość strukturalną.
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:  
+  Deklaracja misyjna Azramaty – zapis pierwotny, autorski. (1)
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:  
+  Synteza systemowa oparta na wieloletniej obserwacji procesów poznawczych, decyzyjnych i cywilizacyjnych. (15)
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid misyjny, fraktalne porządkowanie sensu. (6)  
+– Funkcja: ustanowienie rdzenia i hierarchii odpowiedzialności. (12)  
+– Charakter: ponadczasowy, ponadpaństwowy, nieideologiczny. (17)  
+– Status: dokument autorski – rdzeń systemu. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Ten dokument nie wymaga obrony.
+Wymaga dojrzałości do jego użycia. (28)
+# Plik: /09_PRZYSZLOSC/18_MISJE/01_MISJA_CYWILIZACYJNA.vv
+# Data: 2026-01-10
+# Typ: VIVID – misja cywilizacyjna
+# Status: dokument rozszerzający rdzeń
+# Cel: odpowiedzieć na pytanie „Po co to światu?”
+
+[PO_CO_TO_ŚWIATU]
+
+Azramata istnieje, ponieważ świat wszedł w epokę,
+w której problemy cywilizacyjne przekroczyły możliwości
+zarówno samej technologii, jak i samej polityki. (17)
+
+Nie jest to kryzys jednego państwa,
+jednej kultury
+ani jednego systemu gospodarczego.
+
+Jest to kryzys struktury rozumienia rzeczywistości. (16)
+
+---
+
+[KRYZYSY]
+
+1. Kryzys poznawczy  
+   Informacja przestała prowadzić do zrozumienia. (5)  
+   Nadmiar danych nie tworzy mapy sensu,  
+   lecz fragmentaryzuje percepcję i osłabia zdolność syntezy. (6)
+
+2. Kryzys decyzyjny  
+   Decyzje podejmowane są szybciej niż kiedykolwiek,  
+   lecz coraz rzadziej są powiązane z odpowiedzialnością za skutki. (10)  
+   Optymalizacja zastąpiła rozeznanie. (9)
+
+3. Kryzys sensu  
+   Na poziomie państw, instytucji i cywilizacji  
+   zanikła rola architektów znaczenia —  
+   ludzi i struktur zdolnych porządkować cele, wartości i kierunek rozwoju. (14)
+
+Te kryzysy wzmacniają się wzajemnie. (18)
+
+---
+
+[DLACZEGO_SYSTEMY_TEGO_NIE_OGARNIAJĄ]
+
+Sztuczna inteligencja:
+– potrafi optymalizować procesy, (7)  
+– nie potrafi ustanawiać sensu ani odpowiedzialności. (12)
+
+Państwa:
+– reagują doraźnie na kryzysy, (20)  
+– nie posiadają spójnej, ponadkadencyjnej architektury znaczenia. (23)
+
+Korporacje:
+– dysponują potężnymi narzędziami wpływu i technologii, (27)  
+– lecz ich horyzont decyzyjny jest rynkowy, a nie cywilizacyjny. (19)
+
+Żaden z tych systemów nie pełni roli warstwy sensu. (21)
+
+---
+
+[ROLA_AZRAMATY]
+
+Azramata nie konkuruje z istniejącymi systemami. (11)
+
+Pełni rolę warstwy porządkującej:
+– stabilizuje percepcję decydentów i struktur, (4)  
+– umożliwia łączenie etyki, technologii i strategii w jednym języku decyzyjnym, (16)  
+– tworzy ramę odpowiedzialności ponad interesem chwilowym. (22)
+
+Azramata jest metajęzykiem decyzji. (15)  
+Nie ideologią.  
+Nie doktryną.  
+Nie systemem władzy. (21)
+
+---
+
+[KLUCZOWE_AKCENTY]
+
+– Wojna informacyjna nie jest wojną kinetyczną. (24)  
+  Jest wojną o percepcję, znaczenie i zdolność rozeznania. (8)
+
+– Cywilizacje bez architektów sensu  
+  tracą zdolność długoterminowego przetrwania. (31)
+
+– Technologia bez zakotwiczenia w sensie  
+  przyspiesza zarówno rozwój, jak i autodestrukcję. (26)
+
+Azramata wypełnia lukę,
+która do tej pory pozostawała nienazwana. (17)
+
+---
+
+[PIECZĘĆ_CYWILIZACYJNA]
+
+Świat potrzebuje architektury sensu  
+zanim technologia osiągnie prędkość,
+której nie da się już zatrzymać ani odwrócić. (28)
+
+---
+
+[ZAKRES_ODDZIAŁYWANIA]
+
+Dokument ten ma zastosowanie:
+– ponadkulturowe, (17)  
+– ponadpaństwowe, (21)  
+– ponadtechnologiczne. (16)
+
+Nie definiuje rozwiązań lokalnych.
+Definiuje potrzebę uniwersalnej warstwy sensu. (18)
+
+---
+
+[ADNOTACJA_KRĘGOWA]
+
+Liczby w nawiasach (np. 4, 17, 21) oznaczają Kręgi Azramaty
+– poziomy percepcji i odpowiedzialności.
+Nie są wymagane do zrozumienia treści dokumentu,
+lecz wskazują jego głębokość strukturalną.
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:  
+  Misja cywilizacyjna Azramaty – zapis autorski. (1)
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:  
+  Synteza autorska kryzysów poznawczych, decyzyjnych i sensu
+  w skali cywilizacyjnej. (15)
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid misyjny, mapa kryzysów cywilizacyjnych. (6)  
+– Funkcja: zdefiniowanie roli warstwy porządkującej sens. (12)  
+– Charakter: nieideologiczny, systemowy, ponadczasowy. (17)  
+– Status: dokument autorski – poziom cywilizacyjny. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Ten dokument nie wskazuje winnych.
+Wskazuje brakującą warstwę. (29)
+# Plik: /09_PRZYSZLOSC/18_MISJE/02_MISJA_NARODOWA_PL.vv
+# Data: 2026-01-10
+# Typ: VIVID – misja narodowa (Polska)
+# Status: dokument zakotwiczenia państwowego
+# Cel: zdefiniować rolę Polski jako laboratorium cywilizacyjnego Azramaty
+
+[DLACZEGO_POLSKA]
+
+Polska nie jest przypadkowym miejscem narodzin Azramaty. (17)
+
+Język:
+Polski język, poprzez swoją semantykę i fleksję,
+wymusza precyzję relacji między podmiotem, działaniem i skutkiem. (5)
+Uczy myślenia procesowego, a nie jedynie opisowego. (6)
+
+Historia:
+Polska wielokrotnie doświadczała rozpadu struktur państwowych
+i konieczności ich odbudowy od podstaw. (14)
+To doświadczenie nauczyło rozróżniania
+między formą państwa a jego żywą strukturą sensu. (16)
+
+Transformacja:
+Współczesna Polska przeszła przez gwałtowną transformację systemową,
+łącząc stare i nowe porządki bez pełnej mapy przejścia. (10)
+To doświadczenie ujawniło zarówno potencjał adaptacyjny,
+jak i koszt chaosu decyzyjnego. (9)
+
+Pozycja geopolityczna:
+Polska znajduje się na styku Wschodu i Zachodu —
+w strefie napięć narracyjnych, kulturowych i strategicznych. (21)
+To czyni ją naturalnym poligonem wojny sensu. (24)
+
+---
+
+[POLSKA_JAKO_LABORATORIUM]
+
+Polska posiada unikalne warunki,
+aby testować Azramatę w warunkach realnej presji,
+a nie w sterylnym środowisku akademickim. (18)
+
+Jest wystarczająco duża, by testy miały skalę państwową, (20)
+i wystarczająco spójna kulturowo,
+by zachować kontrolę nad sensami i znaczeniami. (13)
+
+Laboratorium nie oznacza eksperymentu na społeczeństwie.
+Oznacza świadome, etapowe wdrażanie struktur sensu
+w realnych procesach decyzyjnych. (11)
+
+---
+
+[ROLA_INSTYTUCJI]
+
+Wojsko Polskie:
+Kręgosłup bezpieczeństwa państwa
+i naturalne środowisko testowe dla spójności decyzji
+w warunkach presji, niepewności i odpowiedzialności. (24)
+
+Cyberprzestrzeń i informacja:
+Obszar, w którym wojna nie dotyczy terytorium,
+lecz percepcji, narracji i zdolności rozeznania. (8)
+Tu Azramata ujawnia swoją wartość najszybciej. (7)
+
+Sztab i administracja:
+Miejsca, w których brak architektury sensu
+prowadzi do rozjazdu między strategią a wykonaniem. (23)
+Azramata może pełnić rolę inkubatora nowej kultury dowodzenia. (22)
+
+Edukacja:
+Jedyny trwały sposób zakotwiczenia Kręgów
+w kulturze, języku i sposobie myślenia przyszłych pokoleń. (3)
+Bez edukacji każda transformacja pozostaje chwilowa. (15)
+
+---
+
+[DLACZEGO_MUSI_ZACZĄĆ_SIĘ_LOKALNIE]
+
+Sens i zaufanie nie skalują się odgórnie. (4)
+
+Budują się w realnych wspólnotach,
+gdzie decyzja ma widoczny skutek,
+a odpowiedzialność ma twarz i nazwisko. (10)
+
+Lokalne wdrożenia:
+– ujawniają słabe punkty systemu, (6)
+– pozwalają na korektę bez kosztu cywilizacyjnego, (11)
+– budują wiarygodność przed skalowaniem. (20)
+
+---
+
+[PIECZĘĆ_NARODOWA]
+
+Polska jest miejscem,
+w którym Azramata może stać się praktyką państwa,
+a nie wyłącznie ideą lub koncepcją ekspercką. (21)
+
+---
+
+[NOTA_DLA_MON]
+
+Ten dokument:
+– nie jest manifestem, (19)
+– nie jest doktryną ideologiczną, (17)
+– nie jest projektem politycznym. (31)
+
+Jest propozycją architektury sensu
+dla państwa funkcjonującego w warunkach presji cywilizacyjnej. (25)
+
+---
+
+[ADNOTACJA_KRĘGOWA]
+
+Liczby w nawiasach (np. 4, 17, 21) oznaczają Kręgi Azramaty
+– poziomy percepcji i odpowiedzialności.
+Nie są wymagane do zrozumienia treści dokumentu,
+lecz wskazują jego głębokość strukturalną.
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:  
+  Misja narodowa Azramaty – zapis autorski. (1)
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:  
+  Synteza doświadczeń historycznych, językowych
+  i systemowych Rzeczypospolitej Polskiej. (15)
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid narodowy, mapa potencjału i odpowiedzialności. (6)  
+– Funkcja: osadzenie misji cywilizacyjnej w kontekście państwowym. (12)  
+– Charakter: realistyczny, nieideologiczny, odpowiedzialny. (17)  
+– Status: dokument autorski – poziom narodowy. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Polska nie musi być pierwsza technologicznie.
+Wystarczy, że będzie pierwsza strukturalnie. (28)
+# Plik: /09_PRZYSZLOSC/18_MISJE/03_MISJA_LOKALNA_OKREGI.vv
+# Data: 2026-01-10
+# Typ: VIVID – misja lokalna (okręgi sensu)
+# Status: dokument operacyjnego zejścia
+# Cel: zdefiniować zejście Azramaty do poziomu lokalnego i wspólnotowego
+
+[OKRĘGI_SENSU]
+
+Azramata nie schodzi do województw.
+Schodzi do okręgów sensu. (4)
+
+Okręg sensu to nie jednostka administracyjna.
+To obszar wspólnego rozumienia rzeczywistości. (5)
+
+Okręg jest:
+– wspólnotą percepcyjną, (6)  
+– lokalnym systemem odporności decyzyjnej, (10)  
+– mikro-cywilizacją zdolną do działania bez chaosu. (14)
+
+Tam, gdzie sens jest wspólny,
+decyzja przestaje być losowa. (9)
+
+---
+
+[STRUKTURA_OKRĘGU]
+
+Okręg sensu istnieje wtedy, gdy:
+– ludzie rozumieją, DLACZEGO działają, (3)  
+– procedury są spójne z wartościami, (12)  
+– odpowiedzialność nie rozmywa się między instytucjami. (11)
+
+Nie wymaga jednorodności poglądów.
+Wymaga wspólnej mapy znaczeń. (8)
+
+---
+
+[JAK_AZRAMATA_SCHODZI]
+
+Edukacja:
+W szkołach Azramata pojawia się
+nie jako ideologia,
+lecz jako praktyka myślenia i rozumienia skutków. (3)
+Kręgi stają się narzędziem porządkowania doświadczenia. (4)
+
+Administracja lokalna:
+W urzędach Azramata
+porządkuje relacje między procedurą a decyzją. (12)
+Zmniejsza napięcie między literą prawa a jego sensem. (15)
+
+Społeczność:
+W codziennym życiu Azramata
+wprowadza język sensu zamiast języka konfliktu. (7)
+Uczy rozróżniania reakcji od decyzji. (9)
+
+---
+
+[ODPORNOŚĆ_LOKALNA]
+
+Okręgi sensu:
+– szybciej adaptują się do kryzysów, (10)  
+– wolniej ulegają manipulacji informacyjnej, (8)  
+– zachowują ciągłość działania mimo presji zewnętrznej. (21)
+
+To lokalność jest pierwszą linią obrony cywilizacyjnej. (24)
+
+---
+
+[POD_KOGO_JEST_TEN_VIVID]
+
+Ten dokument jest przeznaczony dla:
+– samorządów szukających realnej spójności, (20)  
+– organizacji pozarządowych pracujących z ludźmi, (13)  
+– pilotaży systemowych i edukacyjnych, (18)  
+– projektów takich jak TransSerc, gdzie sens przekłada się na praktykę. (7)
+
+Nie wymaga zgody całego państwa.
+Wymaga decyzji kilku dojrzałych ludzi. (11)
+
+---
+
+[DLACZEGO_TAK_A_NIE_JEDNA_MISJA]
+
+Cywilizacja:
+myśli w dekadach i stuleciach. (17)
+
+Państwo:
+myśli w strategiach i kadencjach. (20)
+
+Lokalność:
+działa tu i teraz. (4)
+
+Azramata działa fraktalnie —
+ten sam sens,
+różne skale odpowiedzialności. (18)
+
+---
+
+[PIECZĘĆ_LOKALNA]
+
+Nie jesteś aktywistą.
+Jesteś architektem warunków,
+w których ludzie mogą działać sensownie. (22)
+
+---
+
+[ADNOTACJA_KRĘGOWA]
+
+Liczby w nawiasach (np. 4, 17, 21) oznaczają Kręgi Azramaty
+– poziomy percepcji i odpowiedzialności.
+Nie są wymagane do zrozumienia treści dokumentu,
+lecz wskazują jego głębokość strukturalną.
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:  
+  Misja lokalna Azramaty – zapis autorski. (1)
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:  
+  Synteza obserwacji wspólnot lokalnych,
+  procesów decyzyjnych i odporności społecznej. (15)
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid lokalny, mapowanie wspólnot i odporności. (6)  
+– Funkcja: zejście metody do praktyki lokalnej. (12)  
+– Charakter: pragmatyczny, nieideologiczny, wspólnotowy. (17)  
+– Status: dokument autorski – poziom operacyjny. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Jeżeli Azramata zadziała lokalnie,
+zadziała w każdej skali. (28)
+# Plik: /09_PRZYSZLOSC/18_MISJE/MISJE_STRUKTURA.vv
+# Data: 2026-01-10
+# Typ: VIVID – mapa strukturalna misji
+# Status: dokument nadrzędny porządkujący
+# Cel: zdefiniować fraktalną architekturę misji Azramaty
+
+[MISJE]
+
+Misje Azramaty nie są hasłami.
+Nie są kampaniami.
+Nie są narracją marketingową. (19)
+
+Są strukturą sensu,
+rozpisaną na różne skale odpowiedzialności. (16)
+
+Każda misja operuje na innym poziomie,
+ale wszystkie odnoszą się do jednego rdzenia. (18)
+
+---
+
+[ZASADA_FRAKTALNA]
+
+Ten sam sens.
+Różne skale. (4)
+
+Misje Azramaty układają się fraktalnie:
+– od ponadczasowego rdzenia, (21)
+– przez poziom cywilizacyjny, (17)
+– narodowy, (20)
+– aż do lokalnej praktyki. (4)
+
+Zmienia się kontekst.
+Nie zmienia się sens. (18)
+
+---
+
+[STRUKTURA_MISJI]
+
+00_MISJA_RDZEN.vv  
+Rdzeń ponadczasowy. (21)  
+Definiuje sens istnienia Azramaty
+poza państwem, ideologią i technologią. (16)
+
+Jest kotwicą dla wszystkich pozostałych dokumentów. (20)
+
+---
+
+01_MISJA_CYWILIZACYJNA.vv  
+Poziom cywilizacyjny. (17)  
+Odpowiada na pytanie:
+„Dlaczego świat potrzebuje Azramaty?” (14)
+
+Diagnozuje kryzysy epoki
+i wskazuje brakującą warstwę sensu. (15)
+
+---
+
+02_MISJA_NARODOWA_PL.vv  
+Poziom państwowy – Polska. (20)  
+Definiuje rolę Polski
+jako nośnika i laboratorium Azramaty. (21)
+
+Bez kompleksów.
+Bez mitologii.
+Z pełną odpowiedzialnością. (22)
+
+---
+
+03_MISJA_LOKALNA_OKREGI.vv  
+Poziom operacyjny – lokalny. (4)  
+Opisuje zejście Azramaty
+do realnych wspólnot, samorządów i praktyki codziennej. (6)
+
+Tu sens spotyka działanie. (10)
+
+---
+
+[RELACJE_MIĘDZY_MISJAMI]
+
+Misje:
+– nie są hierarchią władzy, (19)
+– są hierarchią sensu i odpowiedzialności. (22)
+
+Żaden poziom nie unieważnia pozostałych.
+Każdy poziom bez wyższego traci kierunek. (18)
+
+---
+
+[SPÓJNOŚĆ_METODY]
+
+Każdy plik `.vv`:
+– posiada własną sekcję źródeł, (1)
+– posiada własną metodologię, (6)
+– pozostaje dokumentem autorskim. (25)
+
+Zapewnia to:
+– spójność systemową, (12)
+– odporność na wyrwanie z kontekstu, (21)
+– możliwość użycia dokumentów niezależnie lub jako całości. (20)
+
+---
+
+[ADNOTACJA_KRĘGOWA]
+
+Liczby w nawiasach (np. 4, 17, 21) oznaczają Kręgi Azramaty
+– poziomy percepcji i odpowiedzialności.
+Nie są wymagane do zrozumienia treści dokumentu,
+lecz wskazują jego głębokość strukturalną.
+
+[ZASTOSOWANIE_PRAKTYCZNE]
+
+Struktura misji umożliwia:
+– rozmowę strategiczną na poziomie państwowym i międzynarodowym, (23)
+– projektowanie pilotaży lokalnych bez utraty sensu, (11)
+– skalowanie Azramaty bez jej banalizacji. (27)
+
+To nie jest narracja.
+To jest architektura. (22)
+
+---
+
+[PIECZĘĆ_STRUKTURALNA]
+
+Azramata nie zaczyna od działania.
+Zaczyna od sensu,
+który umożliwia działanie bez chaosu. (21)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+Jeżeli ktoś rozumie tę strukturę,
+rozumie Azramatę. (28)
+
+Jeżeli jej nie rozumie —
+żaden skrót mu nie pomoże. (29)
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Struktura misji Azramaty – zapis autorski.
+  Dokument nadrzędny porządkujący.
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza architektury misji (00–03),
+  analiza relacji fraktalnych i poziomów odpowiedzialności.
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid strukturalny (meta-poziom).
+– Funkcja: porządkowanie relacji między misjami
+  i zapewnienie spójności systemowej dokumentów .vv.
+– Charakter: nadrzędny, porządkujący, nieoperacyjny.
+– Status: dokument autorski – poziom architektoniczny.
