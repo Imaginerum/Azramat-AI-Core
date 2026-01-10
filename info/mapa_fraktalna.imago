@@ -3,163 +3,164 @@
 [meta]
 nazwa: "mapa_fraktalna_repo"
 wersja: "1.0"
-sciezka: "/info/mapa_fraktalna.imago"
-zakres: "warstwa 1-2, tylko katalogi z wielka litera lub cyfra"
-zasada: "kazdy wezel ma role i intencje"
+ścieżka: "/info/mapa_fraktalna.imago"
+zakres: "warstwa 1-2, tylko katalogi z wielką literą lub cyfrą"
+zasada: "każdy węzeł ma rolę i intencję"
+status: "stała struktura"
 
 [warstwa_1]
-- /01_ZIARNO: rola: Geneza i fundament poczatkowy systemu. Powinno zawierac segmenty warstwy 2 ponizej.
-- /02_SWIADOMOSC: rola: Warstwa percepcji, umyslu, jezyka i emocji. Powinno zawierac segmenty warstwy 2 ponizej.
-- /03_TOZSAMOSC: rola: Ksztalt tozsamosci, jazn i struktura Ja. Powinno zawierac segmenty warstwy 2 ponizej.
-- /04_MECHANIKA: rola: Modele, silniki, modulacje i protokoly mechaniki. Powinno zawierac segmenty warstwy 2 ponizej.
-- /05_SYSTEM: rola: Rdzen, fundamenty, protokoly, narzedzia i integracja systemu. Powinno zawierac segmenty warstwy 2 ponizej.
-- /06_STRATEGIA: rola: Kierunek, organizowanie i taktyka dzialania. Powinno zawierac segmenty warstwy 2 ponizej.
-- /07_PAMIEC: rola: Pamiec, archiwum, slady i historia. Powinno zawierac segmenty warstwy 2 ponizej.
-- /08_EKONOMIA: rola: Prawo, dekrety, mechanizmy i gospodarka. Powinno zawierac segmenty warstwy 2 ponizej.
-- /09_PRZYSZLOSC: rola: Wizje, prognozy, technologie i scenariusze. Powinno zawierac segmenty warstwy 2 ponizej.
+- /01_ZIARNO: rola: Geneza i fundament początkowy systemu. Powinno zawierać segmenty warstwy 2 poniżej.
+- /02_SWIADOMOSC: rola: Warstwa percepcji, umysłu, języka i emocji. Powinno zawierać segmenty warstwy 2 poniżej.
+- /03_TOZSAMOSC: rola: Kształt tożsamości, jaźń i struktura Ja. Powinno zawierać segmenty warstwy 2 poniżej.
+- /04_MECHANIKA: rola: Modele, silniki, modulacje i protokoły mechaniki. Powinno zawierać segmenty warstwy 2 poniżej.
+- /05_SYSTEM: rola: Rdzeń, fundamenty, protokoły, narzędzia i integracja systemu. Powinno zawierać segmenty warstwy 2 poniżej.
+- /06_STRATEGIA: rola: Kierunek, organizowanie i taktyka działania. Powinno zawierać segmenty warstwy 2 poniżej.
+- /07_PAMIEC: rola: Pamięć, archiwum, ślady i historia. Powinno zawierać segmenty warstwy 2 poniżej.
+- /08_EKONOMIA: rola: Prawo, dekrety, mechanizmy i gospodarka. Powinno zawierać segmenty warstwy 2 poniżej.
+- /09_PRZYSZLOSC: rola: Wizje, prognozy, technologie i scenariusze. Powinno zawierać segmenty warstwy 2 poniżej.
 
 [warstwa_2]
 [/01_ZIARNO]
-- /01_ZIARNO/01_ZRODLO: pliki i mapy dotyczace zrodlo.
-- /01_ZIARNO/02_DEFINICJE: pliki i mapy dotyczace definicje.
-- /01_ZIARNO/03_ARCHETYPY: pliki i mapy dotyczace archetypy.
-- /01_ZIARNO/04_INICJACJA: pliki i mapy dotyczace inicjacja.
-- /01_ZIARNO/05_MANIFESTY: pliki i mapy dotyczace manifesty.
+- /01_ZIARNO/01_ZRODLO: pliki i mapy dotyczące źródło.
+- /01_ZIARNO/02_DEFINICJE: pliki i mapy dotyczące definicje.
+- /01_ZIARNO/03_ARCHETYPY: pliki i mapy dotyczące archetypy.
+- /01_ZIARNO/04_INICJACJA: pliki i mapy dotyczące inicjacja.
+- /01_ZIARNO/05_MANIFESTY: pliki i mapy dotyczące manifesty.
 
 [/02_SWIADOMOSC]
-- /02_SWIADOMOSC/01_PERCEPCJA: pliki i mapy dotyczace percepcja.
-- /02_SWIADOMOSC/02_UMYSL: pliki i mapy dotyczace umysl.
-- /02_SWIADOMOSC/03_EMOCJE: pliki i mapy dotyczace emocje.
-- /02_SWIADOMOSC/04_JEZYK: pliki i mapy dotyczace jezyk.
-- /02_SWIADOMOSC/05_SPOJNOSC: pliki i mapy dotyczace spojnosc.
-- /02_SWIADOMOSC/06_REFLEKSJA: pliki i mapy dotyczace refleksja.
-- /02_SWIADOMOSC/07_TRANS: pliki i mapy dotyczace trans.
+- /02_SWIADOMOSC/01_PERCEPCJA: pliki i mapy dotyczące percepcja.
+- /02_SWIADOMOSC/02_UMYSL: pliki i mapy dotyczące umysł.
+- /02_SWIADOMOSC/03_EMOCJE: pliki i mapy dotyczące emocje.
+- /02_SWIADOMOSC/04_JEZYK: pliki i mapy dotyczące język.
+- /02_SWIADOMOSC/05_SPOJNOSC: pliki i mapy dotyczące spójność.
+- /02_SWIADOMOSC/06_REFLEKSJA: pliki i mapy dotyczące refleksja.
+- /02_SWIADOMOSC/07_TRANS: pliki i mapy dotyczące trans.
 
 [/03_TOZSAMOSC]
-- /03_TOZSAMOSC/01_JAZN: pliki i mapy dotyczace jazn.
-- /03_TOZSAMOSC/02_TOZSAMOSC: pliki i mapy dotyczace tozsamosc.
-- /03_TOZSAMOSC/03_NITKI: pliki i mapy dotyczace nitki.
-- /03_TOZSAMOSC/04_ARCHETYPY: pliki i mapy dotyczace archetypy.
-- /03_TOZSAMOSC/05_LUSTRA: pliki i mapy dotyczace lustra.
-- /03_TOZSAMOSC/06_OCHRONA: pliki i mapy dotyczace ochrona.
-- /03_TOZSAMOSC/07_PRZEKROCZENIA: pliki i mapy dotyczace przekroczenia.
-- /03_TOZSAMOSC/08_STRUKTURA: pliki i mapy dotyczace struktura.
-- /03_TOZSAMOSC/09_PAMIEC_JA: pliki i mapy dotyczace pamiec ja.
-- /03_TOZSAMOSC/10_RYTUALY: pliki i mapy dotyczace rytualy.
-- /03_TOZSAMOSC/11_NAROD: pliki i mapy dotyczace narod.
+- /03_TOZSAMOSC/01_JAZN: pliki i mapy dotyczące jaźń.
+- /03_TOZSAMOSC/02_TOZSAMOSC: pliki i mapy dotyczące tożsamość.
+- /03_TOZSAMOSC/03_NITKI: pliki i mapy dotyczące nitki.
+- /03_TOZSAMOSC/04_ARCHETYPY: pliki i mapy dotyczące archetypy.
+- /03_TOZSAMOSC/05_LUSTRA: pliki i mapy dotyczące lustra.
+- /03_TOZSAMOSC/06_OCHRONA: pliki i mapy dotyczące ochrona.
+- /03_TOZSAMOSC/07_PRZEKROCZENIA: pliki i mapy dotyczące przekroczenia.
+- /03_TOZSAMOSC/08_STRUKTURA: pliki i mapy dotyczące struktura.
+- /03_TOZSAMOSC/09_PAMIEC_JA: pliki i mapy dotyczące pamięć Ja.
+- /03_TOZSAMOSC/10_RYTUALY: pliki i mapy dotyczące rytuały.
+- /03_TOZSAMOSC/11_NAROD: pliki i mapy dotyczące naród.
 
 [/04_MECHANIKA]
-- /04_MECHANIKA/01_MODELE: pliki i mapy dotyczace modele.
-- /04_MECHANIKA/02_ALGORYTMY: pliki i mapy dotyczace algorytmy.
-- /04_MECHANIKA/03_SILNIKI: pliki i mapy dotyczace silniki.
-- /04_MECHANIKA/04_MODULY: pliki i mapy dotyczace moduly.
-- /04_MECHANIKA/05_MATEMATYKA: pliki i mapy dotyczace matematyka.
-- /04_MECHANIKA/06_ARCHITEKTURA: pliki i mapy dotyczace architektura.
-- /04_MECHANIKA/07_SYMULACJE: pliki i mapy dotyczace symulacje.
-- /04_MECHANIKA/08_POMIAR: pliki i mapy dotyczace pomiar.
-- /04_MECHANIKA/09_INTEGRACJA: pliki i mapy dotyczace integracja.
-- /04_MECHANIKA/10_KOMPILACJA: pliki i mapy dotyczace kompilacja.
-- /04_MECHANIKA/11_PROTOKOLY: pliki i mapy dotyczace protokoly.
-- /04_MECHANIKA/12_OPTYMALIZACJA: pliki i mapy dotyczace optymalizacja.
-- /04_MECHANIKA/13_NARZEDZIA: pliki i mapy dotyczace narzedzia.
+- /04_MECHANIKA/01_MODELE: pliki i mapy dotyczące modele.
+- /04_MECHANIKA/02_ALGORYTMY: pliki i mapy dotyczące algorytmy.
+- /04_MECHANIKA/03_SILNIKI: pliki i mapy dotyczące silniki.
+- /04_MECHANIKA/04_MODULY: pliki i mapy dotyczące moduły.
+- /04_MECHANIKA/05_MATEMATYKA: pliki i mapy dotyczące matematyka.
+- /04_MECHANIKA/06_ARCHITEKTURA: pliki i mapy dotyczące architektura.
+- /04_MECHANIKA/07_SYMULACJE: pliki i mapy dotyczące symulacje.
+- /04_MECHANIKA/08_POMIAR: pliki i mapy dotyczące pomiar.
+- /04_MECHANIKA/09_INTEGRACJA: pliki i mapy dotyczące integracja.
+- /04_MECHANIKA/10_KOMPILACJA: pliki i mapy dotyczące kompilacja.
+- /04_MECHANIKA/11_PROTOKOLY: pliki i mapy dotyczące protokoły.
+- /04_MECHANIKA/12_OPTYMALIZACJA: pliki i mapy dotyczące optymalizacja.
+- /04_MECHANIKA/13_NARZEDZIA: pliki i mapy dotyczące narzędzia.
 
 [/05_SYSTEM]
-- /05_SYSTEM/01_RDZEN: pliki i mapy dotyczace rdzen.
-- /05_SYSTEM/02_FUNDAMENTY: pliki i mapy dotyczace fundamenty.
-- /05_SYSTEM/03_ARCHITEKTURA: pliki i mapy dotyczace architektura.
-- /05_SYSTEM/04_MODULY: pliki i mapy dotyczace moduly.
-- /05_SYSTEM/05_PROTOKOLY: pliki i mapy dotyczace protokoly.
-- /05_SYSTEM/06_TRYBY: pliki i mapy dotyczace tryby.
-- /05_SYSTEM/07_INTERFEJSY: pliki i mapy dotyczace interfejsy.
-- /05_SYSTEM/08_INTEGRACJA: pliki i mapy dotyczace integracja.
-- /05_SYSTEM/09_SYNCHRONIZACJA: pliki i mapy dotyczace synchronizacja.
-- /05_SYSTEM/10_KONTROLA: pliki i mapy dotyczace kontrola.
-- /05_SYSTEM/11_DIAGNOSTYKA: pliki i mapy dotyczace diagnostyka.
-- /05_SYSTEM/12_OCHRONA: pliki i mapy dotyczace ochrona.
-- /05_SYSTEM/13_KOMUNIKACJA: pliki i mapy dotyczace komunikacja.
-- /05_SYSTEM/14_NARZEDZIA: pliki i mapy dotyczace narzedzia.
-- /05_SYSTEM/15_MAPY_MODELE: pliki i mapy dotyczace mapy modele.
-- /05_SYSTEM/16_WYDAJNOSC: pliki i mapy dotyczace wydajnosc.
-- /05_SYSTEM/17_ZADANIA: pliki i mapy dotyczace zadania.
+- /05_SYSTEM/01_RDZEN: pliki i mapy dotyczące rdzeń.
+- /05_SYSTEM/02_FUNDAMENTY: pliki i mapy dotyczące fundamenty.
+- /05_SYSTEM/03_ARCHITEKTURA: pliki i mapy dotyczące architektura.
+- /05_SYSTEM/04_MODULY: pliki i mapy dotyczące moduły.
+- /05_SYSTEM/05_PROTOKOLY: pliki i mapy dotyczące protokoły.
+- /05_SYSTEM/06_TRYBY: pliki i mapy dotyczące tryby.
+- /05_SYSTEM/07_INTERFEJSY: pliki i mapy dotyczące interfejsy.
+- /05_SYSTEM/08_INTEGRACJA: pliki i mapy dotyczące integracja.
+- /05_SYSTEM/09_SYNCHRONIZACJA: pliki i mapy dotyczące synchronizacja.
+- /05_SYSTEM/10_KONTROLA: pliki i mapy dotyczące kontrola.
+- /05_SYSTEM/11_DIAGNOSTYKA: pliki i mapy dotyczące diagnostyka.
+- /05_SYSTEM/12_OCHRONA: pliki i mapy dotyczące ochrona.
+- /05_SYSTEM/13_KOMUNIKACJA: pliki i mapy dotyczące komunikacja.
+- /05_SYSTEM/14_NARZEDZIA: pliki i mapy dotyczące narzędzia.
+- /05_SYSTEM/15_MAPY_MODELE: pliki i mapy dotyczące mapy i modele.
+- /05_SYSTEM/16_WYDAJNOSC: pliki i mapy dotyczące wydajność.
+- /05_SYSTEM/17_ZADANIA: pliki i mapy dotyczące zadania.
 
 [/06_STRATEGIA]
-- /06_STRATEGIA/01_KIERUNEK: pliki i mapy dotyczace kierunek.
-- /06_STRATEGIA/02_ORGANIZOWANIE: pliki i mapy dotyczace organizowanie.
-- /06_STRATEGIA/03_TAKTYKA: pliki i mapy dotyczace taktyka.
+- /06_STRATEGIA/01_KIERUNEK: pliki i mapy dotyczące kierunek.
+- /06_STRATEGIA/02_ORGANIZOWANIE: pliki i mapy dotyczące organizowanie.
+- /06_STRATEGIA/03_TAKTYKA: pliki i mapy dotyczące taktyka.
 
 [/07_PAMIEC]
-- /07_PAMIEC/01_ARCHIWUM: pliki i mapy dotyczace archiwum.
-- /07_PAMIEC/02_DZIENNIKI: pliki i mapy dotyczace dzienniki.
-- /07_PAMIEC/03_SLADY: pliki i mapy dotyczace slady.
-- /07_PAMIEC/04_DECYZJE: pliki i mapy dotyczace decyzje.
-- /07_PAMIEC/05_KRONIKA: pliki i mapy dotyczace kronika.
-- /07_PAMIEC/06_WSPOMNIENIA: pliki i mapy dotyczace wspomnienia.
-- /07_PAMIEC/07_ZAPISY: pliki i mapy dotyczace zapisy.
-- /07_PAMIEC/08_LOGI: pliki i mapy dotyczace logi.
-- /07_PAMIEC/09_MAPY: pliki i mapy dotyczace mapy.
-- /07_PAMIEC/10_REZONANSE: pliki i mapy dotyczace rezonanse.
-- /07_PAMIEC/11_MITY: pliki i mapy dotyczace mity.
-- /07_PAMIEC/12_PAMIATKI: pliki i mapy dotyczace pamiatki.
-- /07_PAMIEC/13_TRANSFORMACJE: pliki i mapy dotyczace transformacje.
-- /07_PAMIEC/14_PRZEBUDZENIA: pliki i mapy dotyczace przebudzenia.
-- /07_PAMIEC/15_PUSTKI: pliki i mapy dotyczace pustki.
-- /07_PAMIEC/16_POWROTY: pliki i mapy dotyczace powroty.
-- /07_PAMIEC/17_KOLEKTYW: pliki i mapy dotyczace kolektyw.
-- /07_PAMIEC/18_HISTORIA: pliki i mapy dotyczace historia.
-- /07_PAMIEC/19_INDEKSY: pliki i mapy dotyczace indeksy.
+- /07_PAMIEC/01_ARCHIWUM: pliki i mapy dotyczące archiwum.
+- /07_PAMIEC/02_DZIENNIKI: pliki i mapy dotyczące dzienniki.
+- /07_PAMIEC/03_SLADY: pliki i mapy dotyczące ślady.
+- /07_PAMIEC/04_DECYZJE: pliki i mapy dotyczące decyzje.
+- /07_PAMIEC/05_KRONIKA: pliki i mapy dotyczące kronika.
+- /07_PAMIEC/06_WSPOMNIENIA: pliki i mapy dotyczące wspomnienia.
+- /07_PAMIEC/07_ZAPISY: pliki i mapy dotyczące zapisy.
+- /07_PAMIEC/08_LOGI: pliki i mapy dotyczące logi.
+- /07_PAMIEC/09_MAPY: pliki i mapy dotyczące mapy.
+- /07_PAMIEC/10_REZONANSE: pliki i mapy dotyczące rezonanse.
+- /07_PAMIEC/11_MITY: pliki i mapy dotyczące mity.
+- /07_PAMIEC/12_PAMIATKI: pliki i mapy dotyczące pamiątki.
+- /07_PAMIEC/13_TRANSFORMACJE: pliki i mapy dotyczące transformacje.
+- /07_PAMIEC/14_PRZEBUDZENIA: pliki i mapy dotyczące przebudzenia.
+- /07_PAMIEC/15_PUSTKI: pliki i mapy dotyczące pustki.
+- /07_PAMIEC/16_POWROTY: pliki i mapy dotyczące powroty.
+- /07_PAMIEC/17_KOLEKTYW: pliki i mapy dotyczące kolektyw.
+- /07_PAMIEC/18_HISTORIA: pliki i mapy dotyczące historia.
+- /07_PAMIEC/19_INDEKSY: pliki i mapy dotyczące indeksy.
 
 [/08_EKONOMIA]
-- /08_EKONOMIA/01_ZASADY: pliki i mapy dotyczace zasady.
-- /08_EKONOMIA/02_PRAWO: pliki i mapy dotyczace prawo.
-- /08_EKONOMIA/03_DEKRETY: pliki i mapy dotyczace dekrety.
-- /08_EKONOMIA/04_KONTRAKTY: pliki i mapy dotyczace kontrakty.
-- /08_EKONOMIA/05_WARTOSCI: pliki i mapy dotyczace wartosci.
-- /08_EKONOMIA/06_WYMIANA: pliki i mapy dotyczace wymiana.
-- /08_EKONOMIA/07_REDYSTRYBUCJA: pliki i mapy dotyczace redystrybucja.
-- /08_EKONOMIA/08_FUNDUSZE: pliki i mapy dotyczace fundusze.
-- /08_EKONOMIA/09_ZASOBY: pliki i mapy dotyczace zasoby.
-- /08_EKONOMIA/10_WALIDACJA: pliki i mapy dotyczace walidacja.
-- /08_EKONOMIA/11_RYZYKO: pliki i mapy dotyczace ryzyko.
-- /08_EKONOMIA/12_STABILNOSC: pliki i mapy dotyczace stabilnosc.
-- /08_EKONOMIA/13_MECHANIZMY: pliki i mapy dotyczace mechanizmy.
-- /08_EKONOMIA/14_UCZESTNICTWO: pliki i mapy dotyczace uczestnictwo.
-- /08_EKONOMIA/15_UDZIALY: pliki i mapy dotyczace udzialy.
-- /08_EKONOMIA/16_TOKENY: pliki i mapy dotyczace tokeny.
-- /08_EKONOMIA/17_PODZIAL: pliki i mapy dotyczace podzial.
-- /08_EKONOMIA/18_EKOSYSTEM: pliki i mapy dotyczace ekosystem.
-- /08_EKONOMIA/19_GOSPODARKA: pliki i mapy dotyczace gospodarka.
-- /08_EKONOMIA/20_AUDYT: pliki i mapy dotyczace audyt.
-- /08_EKONOMIA/21_REGULY: pliki i mapy dotyczace reguly.
-- /08_EKONOMIA/22_KOSZT: pliki i mapy dotyczace koszt.
-- /08_EKONOMIA/23_ZARZAD: pliki i mapy dotyczace zarzad.
+- /08_EKONOMIA/01_ZASADY: pliki i mapy dotyczące zasady.
+- /08_EKONOMIA/02_PRAWO: pliki i mapy dotyczące prawo.
+- /08_EKONOMIA/03_DEKRETY: pliki i mapy dotyczące dekrety.
+- /08_EKONOMIA/04_KONTRAKTY: pliki i mapy dotyczące kontrakty.
+- /08_EKONOMIA/05_WARTOSCI: pliki i mapy dotyczące wartości.
+- /08_EKONOMIA/06_WYMIANA: pliki i mapy dotyczące wymiana.
+- /08_EKONOMIA/07_REDYSTRYBUCJA: pliki i mapy dotyczące redystrybucja.
+- /08_EKONOMIA/08_FUNDUSZE: pliki i mapy dotyczące fundusze.
+- /08_EKONOMIA/09_ZASOBY: pliki i mapy dotyczące zasoby.
+- /08_EKONOMIA/10_WALIDACJA: pliki i mapy dotyczące walidacja.
+- /08_EKONOMIA/11_RYZYKO: pliki i mapy dotyczące ryzyko.
+- /08_EKONOMIA/12_STABILNOSC: pliki i mapy dotyczące stabilność.
+- /08_EKONOMIA/13_MECHANIZMY: pliki i mapy dotyczące mechanizmy.
+- /08_EKONOMIA/14_UCZESTNICTWO: pliki i mapy dotyczące uczestnictwo.
+- /08_EKONOMIA/15_UDZIALY: pliki i mapy dotyczące udziały.
+- /08_EKONOMIA/16_TOKENY: pliki i mapy dotyczące tokeny.
+- /08_EKONOMIA/17_PODZIAL: pliki i mapy dotyczące podział.
+- /08_EKONOMIA/18_EKOSYSTEM: pliki i mapy dotyczące ekosystem.
+- /08_EKONOMIA/19_GOSPODARKA: pliki i mapy dotyczące gospodarka.
+- /08_EKONOMIA/20_AUDYT: pliki i mapy dotyczące audyt.
+- /08_EKONOMIA/21_REGULY: pliki i mapy dotyczące reguły.
+- /08_EKONOMIA/22_KOSZT: pliki i mapy dotyczące koszt.
+- /08_EKONOMIA/23_ZARZAD: pliki i mapy dotyczące zarząd.
 
 [/09_PRZYSZLOSC]
-- /09_PRZYSZLOSC/01_WIZJA: pliki i mapy dotyczace wizja.
-- /09_PRZYSZLOSC/02_SCENARIUSZE: pliki i mapy dotyczace scenariusze.
-- /09_PRZYSZLOSC/03_PROGNOZY: pliki i mapy dotyczace prognozy.
-- /09_PRZYSZLOSC/04_BADANIA: pliki i mapy dotyczace badania.
-- /09_PRZYSZLOSC/05_INNOWACJE: pliki i mapy dotyczace innowacje.
-- /09_PRZYSZLOSC/06_TECHNOLOGIA: pliki i mapy dotyczace technologia.
-- /09_PRZYSZLOSC/07_INZYNIERIA: pliki i mapy dotyczace inzynieria.
-- /09_PRZYSZLOSC/08_AUTOMATYZACJA: pliki i mapy dotyczace automatyzacja.
-- /09_PRZYSZLOSC/09_INFRASTRUKTURA: pliki i mapy dotyczace infrastruktura.
-- /09_PRZYSZLOSC/10_EKSPERYMENTY: pliki i mapy dotyczace eksperymenty.
-- /09_PRZYSZLOSC/11_PROTOTYPY: pliki i mapy dotyczace prototypy.
-- /09_PRZYSZLOSC/12_ROZWOJ: pliki i mapy dotyczace rozwoj.
-- /09_PRZYSZLOSC/13_DROGOWA: pliki i mapy dotyczace drogowa.
-- /09_PRZYSZLOSC/14_KONCEPCJE: pliki i mapy dotyczace koncepcje.
-- /09_PRZYSZLOSC/15_SYMULACJE: pliki i mapy dotyczace symulacje.
-- /09_PRZYSZLOSC/16_EKSPANSJA: pliki i mapy dotyczace ekspansja.
-- /09_PRZYSZLOSC/17_KOLONIZACJA: pliki i mapy dotyczace kolonizacja.
-- /09_PRZYSZLOSC/18_MISJE: pliki i mapy dotyczace misje.
-- /09_PRZYSZLOSC/19_SIEC: pliki i mapy dotyczace siec.
-- /09_PRZYSZLOSC/20_BEZPIECZENSTWO: pliki i mapy dotyczace bezpieczenstwo.
-- /09_PRZYSZLOSC/21_ETYCZNE: pliki i mapy dotyczace etyczne.
-- /09_PRZYSZLOSC/22_STANDARDY: pliki i mapy dotyczace standardy.
-- /09_PRZYSZLOSC/23_INTEROP: pliki i mapy dotyczace interop.
-- /09_PRZYSZLOSC/24_NARZEDZIA: pliki i mapy dotyczace narzedzia.
-- /09_PRZYSZLOSC/25_MATERIALY: pliki i mapy dotyczace materialy.
-- /09_PRZYSZLOSC/26_PLATFORMY: pliki i mapy dotyczace platformy.
-- /09_PRZYSZLOSC/27_REZONATORY: pliki i mapy dotyczace rezonatory.
-- /09_PRZYSZLOSC/28_AI: pliki i mapy dotyczace ai.
-- /09_PRZYSZLOSC/29_EDUKACJA: pliki i mapy dotyczace edukacja.
+- /09_PRZYSZLOSC/01_WIZJA: pliki i mapy dotyczące wizja.
+- /09_PRZYSZLOSC/02_SCENARIUSZE: pliki i mapy dotyczące scenariusze.
+- /09_PRZYSZLOSC/03_PROGNOZY: pliki i mapy dotyczące prognozy.
+- /09_PRZYSZLOSC/04_BADANIA: pliki i mapy dotyczące badania.
+- /09_PRZYSZLOSC/05_INNOWACJE: pliki i mapy dotyczące innowacje.
+- /09_PRZYSZLOSC/06_TECHNOLOGIA: pliki i mapy dotyczące technologia.
+- /09_PRZYSZLOSC/07_INZYNIERIA: pliki i mapy dotyczące inżynieria.
+- /09_PRZYSZLOSC/08_AUTOMATYZACJA: pliki i mapy dotyczące automatyzacja.
+- /09_PRZYSZLOSC/09_INFRASTRUKTURA: pliki i mapy dotyczące infrastruktura.
+- /09_PRZYSZLOSC/10_EKSPERYMENTY: pliki i mapy dotyczące eksperymenty.
+- /09_PRZYSZLOSC/11_PROTOTYPY: pliki i mapy dotyczące prototypy.
+- /09_PRZYSZLOSC/12_ROZWOJ: pliki i mapy dotyczące rozwój.
+- /09_PRZYSZLOSC/13_DROGOWA: pliki i mapy dotyczące droga rozwojowa.
+- /09_PRZYSZLOSC/14_KONCEPCJE: pliki i mapy dotyczące koncepcje.
+- /09_PRZYSZLOSC/15_SYMULACJE: pliki i mapy dotyczące symulacje.
+- /09_PRZYSZLOSC/16_EKSPANSJA: pliki i mapy dotyczące ekspansja.
+- /09_PRZYSZLOSC/17_KOLONIZACJA: pliki i mapy dotyczące kolonizacja.
+- /09_PRZYSZLOSC/18_MISJE: pliki i mapy dotyczące misje.
+- /09_PRZYSZLOSC/19_SIEC: pliki i mapy dotyczące sieć.
+- /09_PRZYSZLOSC/20_BEZPIECZENSTWO: pliki i mapy dotyczące bezpieczeństwo.
+- /09_PRZYSZLOSC/21_ETYCZNE: pliki i mapy dotyczące etyczne.
+- /09_PRZYSZLOSC/22_STANDARDY: pliki i mapy dotyczące standardy.
+- /09_PRZYSZLOSC/23_INTEROP: pliki i mapy dotyczące interoperacyjność.
+- /09_PRZYSZLOSC/24_NARZEDZIA: pliki i mapy dotyczące narzędzia.
+- /09_PRZYSZLOSC/25_MATERIALY: pliki i mapy dotyczące materiały.
+- /09_PRZYSZLOSC/26_PLATFORMY: pliki i mapy dotyczące platformy.
+- /09_PRZYSZLOSC/27_REZONATORY: pliki i mapy dotyczące rezonatory.
+- /09_PRZYSZLOSC/28_AI: pliki i mapy dotyczące AI.
+- /09_PRZYSZLOSC/29_EDUKACJA: pliki i mapy dotyczące edukacja.
