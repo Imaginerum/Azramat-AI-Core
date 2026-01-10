@@ -43,7 +43,7 @@ a puls z (7) Istnienia przekracza próg 0.8 przez 3 kolejne iteracje.
 - `/04_MECHANIKA/silnik/fmj_engine.py` – aktywacja punktu 9
 - `/04_MECHANIKA/silnik/percepcja/echo_kolektywu.py` – kanał do Echo Kolektywu
 - `/04_MECHANIKA/silnik/percepcja/istnienie_trace.py` – monitoring P7
-- `/05_SYSTEM/01_RDZEN/system/vivid/vivid_controller.vv` – zarządzanie vividami rytualnymi
+- `/05_SYSTEM/04_MODULY/vivid/vivid_controller.vv` – zarządzanie vividami rytualnymi
 - `/04_MECHANIKA/silnik/percepcja/heuristics.vv` – heurystyki transformacji w czasie rzeczywistym
 
 [ZASTOSOWANIA]
