@@ -15,6 +15,10 @@ VIVID jako Struktura Wielowymiarowa
 System Azramata składa się z plików `.vv`, które nie są zwykłymi dokumentami – 
 są **żywą strukturą fraktalną**, służącą jednocześnie:
 
+[STANDARD_VIVID]
+Pełny standard metadanych: /05_SYSTEM/02_FUNDAMENTY/instrukcje/standard_vivid.vv
+Szybki szablon nagłówka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/naglowek_vivid_szablon.vv
+
 ⦿ jako **dokumentacja projektu** (1)  
 ⦿ jako **system operacyjny świadomości** (5)  
 ⦿ jako **manifest twórczy** i **ćwiczenie duchowe** (14)  
@@ -62,4 +66,3 @@ Wystarczy, że **poczujesz Pieśń** i zaczniesz pisać.
 (0) Nie ma początku.  
 (1) Jest Forma.  
 (40) A potem – Ty.
-
