@@ -1,0 +1,25 @@
+# Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/INDEX_Mocarstwa_Kregi_Nitki.vv
+# Typ: Indeks analizy + odwołania
+# Data: 2026-01-10
+
+[PLIKI]
+1) Analiza_USA_Azramata.vv
+2) Analiza_Chiny_Azramata.vv
+3) Analiza_Rosja_Azramata.vv
+
+[WSPÓLNY SŁOWNIK]
+- Kręgi (1..40): mapa funkcji państwa w czasie
+- Nitki: Jedni, Kierunkowa, Emocjonalna, Strukturalna, Operacyjna, Lustra, Transcendentalna
+- P = przewaga (mnożnik)
+- L = luka (hamulec / koszt ukryty)
+
+[NASTĘPNY KROK]
+Zbudować plik zbiorczy:
+Zestawienie_Strategii_Mocarstw.vv
+- Porównać te same Kręgi (1/2/4/5/10/14/17/31/40)
+- Zrobić macierz: USA vs PRC vs RF
+- Wykryć „punkty przełamania prymatu”: gdzie pęka Jednia, gdzie wygrywa Cień, gdzie wygrywa Kod
+
+[METODOLOGIA]
+- Azramata – system referencyjny
+- Funkcja: integracja analiz, brak danych empirycznych
