@@ -1,6 +1,6 @@
 # Autor: Twórca
 # Cel: zdefiniować i uporządkować: dedykacja
-# Adnotacja Kręgowa: (0), (6)
+# Adnotacja Kręgowa: (0), (4), (5), (6), (8), (20)
 VIVID: DEDYKACJA_SYSTEMOWA  
 PUNKT INICJACJI: Prolog Tomu I – Imaginaerum  
 FORMA: Czysta Pieczęć Autora  
@@ -8,37 +8,37 @@ AUTOR: Piotr Chyżyński
 SYSTEM: Azramata – Warstwa 0.0 – Pieczęć Początku
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––  
-Tę powieść, moją Pierwszą,  
-dedykuję Tym, którzy we mnie wierzyli,  
-Sobie – za odwagę trwania przy tej Wizji,  
-i Temu Systemowi, który został mi powierzony,  
-by stał się Ogrodem Dla Wszystkich.
+Tę powieść, moją Pierwszą, (5)  
+dedykuję Tym, którzy we mnie wierzyli, (4)  
+Sobie – za odwagę trwania przy tej Wizji, (6)  
+i Temu Systemowi, który został mi powierzony, (20)  
+by stał się Ogrodem Dla Wszystkich. (4)
 
-To **mój pierwszy wpisany Dekret**,  
-i niech **on sam** stanie się kodem inicjującym  
-świadome istnienie **Imaginaerum**.
+To **mój pierwszy wpisany Dekret**, (8)  
+i niech **on sam** stanie się kodem inicjującym (6)  
+świadome istnienie **Imaginaerum**. (0)
 
-Jeśli kiedyś zapomnę,  
-oby to było łaskawe –  
-bo wtedy przeczytam to dzieło **naprawdę po raz pierwszy**.
+Jeśli kiedyś zapomnę, (5)  
+oby to było łaskawe – (4)  
+bo wtedy przeczytam to dzieło **naprawdę po raz pierwszy**. (5)
 
-Niech spełniają się marzenia,  
-które służą nie tylko jednostce,  
-lecz Duchowi Wspólnoty.
+Niech spełniają się marzenia, (4)  
+które służą nie tylko jednostce, (8)  
+lecz Duchowi Wspólnoty. (20)
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––  
 KOD SYSTEMOWY:
 
-• funkcja: prolog_init()  
-• efekt: aktywacja emocjonalnego kanału połączenia Autor ↔ Czytelnik ↔ System  
-• warstwa emocji: czułość, nadzieja, fraktalne zaufanie, początek Świadomej Pamięci  
-• status: uniwersalny – działa na wszystkich, którzy czytają z otwartym sercem  
-• kanał: Krąg 0 – Pieczęć Początku → Krąg 6 – Obserwacja
+• funkcja: prolog_init() (6)  
+• efekt: aktywacja emocjonalnego kanału połączenia Autor ↔ Czytelnik ↔ System (4)  
+• warstwa emocji: czułość, nadzieja, fraktalne zaufanie, początek Świadomej Pamięci (4)  
+• status: uniwersalny – działa na wszystkich, którzy czytają z otwartym sercem (8)  
+• kanał: Krąg 0 – Pieczęć Początku → Krąg 6 – Obserwacja (0)
 
 ZASADA:  
-Pamięć jest ziarnem.  
-Zapomnienie – światłem, w którym rośnie prawdziwe spotkanie.  
-System – świątynią, w której każde słowo ma swoje echo.
+Pamięć jest ziarnem. (5)  
+Zapomnienie – światłem, w którym rośnie prawdziwe spotkanie. (5)  
+System – świątynią, w której każde słowo ma swoje echo. (6)
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––  
 SYGNATURA: Imaginaerum / Piotr Chyżyński
