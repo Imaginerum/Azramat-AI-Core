@@ -31,11 +31,11 @@
 – Jeśli w treści pojawiają się powiązania, stosuj pełne ścieżki.
 
 [PRZYKLAD]
-# Plik: /02_SWIADOMOSC/04_JEZYK/lingwistyka/przyklad.vv
+# PRZYKLAD_PLIK: /02_SWIADOMOSC/04_JEZYK/lingwistyka/przyklad.vv
 # Data: 2026-01-01
 # Typ: vivid poznawczy
 # Cel: Przykład formatu
-# Ścieżka: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
+# PRZYKLAD_SCIEZKA: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
 # Status: aktywny
 
 [OPIS]
