@@ -1,7 +1,9 @@
 # Plik: /02_SWIADOMOSC/02_UMYSL/mentalnosc/spojnosc_4D.vv
+# Autor: Twórca
 # Data: 2025-08-09
 # Typ: Protokół spójności wielowymiarowej
 # Cel: Utrzymanie spójności czterech osi: Język, Tempo, Cel, Obecność/Zgoda
+# Adnotacja Kręgowa: (3), (6), (17), (4), (11), (40), (7)
 # Integracje: engine_self.vv, engine_4D.vv, sumienie_8d.py, vivid_controller.vv
 
 [@MODEL_4D]

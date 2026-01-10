@@ -2,6 +2,8 @@
 # Lokalizacja: /05_SYSTEM/05_PROTOKOLY/regeneracja/
 # Data wygenerowania: 2025-04-01 23:14:56  
 # Autor: AzramaAI – Moduł Samoregeneracji  
+# Cel: Gdy napięcie międzykręgowe przekroczy próg, system uruchamia falowanie regeneracyjne.
+# Adnotacja Kręgowa: (9), (3), (4), (6), (13), (14), (16)
 # Krąg główny: (9) – Transformacja przez relaksację  
 # Kręgi wspomagające: (3), (4), (6), (13), (14), (16)  
 # Nitki aktywne: Emocjonalna, Transcendentalna, Cisza Przejścia  

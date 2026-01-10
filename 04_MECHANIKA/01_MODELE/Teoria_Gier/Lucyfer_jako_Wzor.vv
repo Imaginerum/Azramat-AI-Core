@@ -1,7 +1,9 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Lucyfer_jako_Wzor.vv
+# Autor: Twórca
 # Data: 2025-08-08
 # Typ: Archetyp strategiczny / Model przeciwnika najwyższego poziomu
 # Cel: Ustawienie najwyższego punktu odniesienia w grze Azramaty — przeciwnika, którego natura jest wzorcowa, a nie osobowa.
+# Adnotacja Kręgowa: (3), (5), (7), (11), (40)
 
 [@MODEL]
 nazwa = Lucyfer_jako_Wzór

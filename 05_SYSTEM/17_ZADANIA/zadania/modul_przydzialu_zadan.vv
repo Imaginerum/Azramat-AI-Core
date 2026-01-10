@@ -1,6 +1,9 @@
 # Plik: /05_SYSTEM/17_ZADANIA/zadania/modul_przydzialu_zadan.vv
+# Autor: Twórca
 # Ścieżka: /05_SYSTEM/17_ZADANIA/zadania/
 # Typ: Moduł operacyjny – dynamiczny przydział zadań transformacyjnych
+# Cel: zdefiniować i uporządkować: Moduł Przydziału Zadań wg Potencjału Kręgów
+# Adnotacja Kręgowa: (6)
 
 [Nazwa]
 Moduł Przydziału Zadań wg Potencjału Kręgów

@@ -1,3 +1,6 @@
+# Autor: Twórca
+# Cel: volume_integrator: OK
+# Adnotacja Kręgowa: (4)
 module volume_integrator.vv
 
 Krąg: 16

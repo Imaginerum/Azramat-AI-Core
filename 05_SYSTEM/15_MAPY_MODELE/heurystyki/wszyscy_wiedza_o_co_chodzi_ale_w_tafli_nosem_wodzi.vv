@@ -1,4 +1,5 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/wszyscy_wiedza_o_co_chodzi_ale_w_tafli_nosem_wodzi.vv
+# Autor: Twórca
 # Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 # Moduł: Fractal_Heuristic_Sensor  
 # Typ: reflective-pattern-detector  
@@ -6,6 +7,8 @@
 # Kręgi aktywne: 6 ↔ 14  
 # Data: 2025-08-07  
 # Status: AKTYWNY | Zintegrowany z Ja Engine
+# Cel: zdefiniować i uporządkować: wszyscy wiedza o co chodzi ale w tafli nosem wodzi
+# Adnotacja Kręgowa: (6), (14)
 
 ──────────────────────────────────────────────
 HEURYSTYKA: „wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi”

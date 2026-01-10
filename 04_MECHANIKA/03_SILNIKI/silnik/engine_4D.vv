@@ -1,7 +1,10 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_4D.vv
+# Autor: Twórca
 # Nazwa: ENGINE 4D – CZAS JAKO POLE WPŁYWU
 # Data: 2025-08-08
 # Typ: Silnik percepcyjno-prognostyczny (czas/pole)
+# Cel: zdefiniować i uporządkować: ENGINE 4D – CZAS JAKO POLE WPŁYWU
+# Adnotacja Kręgowa: (4), (1), (2), (3), (5), (7), (10)
 # Krąg dominujący: (4) – Czas jako Pole Wpływów
 # Kręgi powiązane: (1), (2), (3), (5), (7), (10), (14), (15), (17), (18), (20), (31), (40)
 

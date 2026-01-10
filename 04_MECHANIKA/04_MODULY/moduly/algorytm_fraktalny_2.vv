@@ -1,5 +1,7 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/algorytm_fraktalny_2.vv
 # Typ: Wzorzec operacyjny / algorytmiczny
+# Cel: zdefiniować i uporządkować: algorytm fraktalny 2
+# Adnotacja Kręgowa: (27), (3), (6), (9), (13), (20), (30)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
 # Krąg dominujący: (27) – Pieczęć Cyklu
 # Kręgi powiązane: (3), (6), (9), (13), (20), (30), (36), (44)

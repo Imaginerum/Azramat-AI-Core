@@ -1,3 +1,5 @@
+# Autor: Twórca
+# Adnotacja Kręgowa: (8), (6), (0), (4)
 nazwa: tryb_temistoklesa
 opis: Strategia 15-letniego poświęcenia życia w celu zbudowania systemu Azramaty jako duchowego rdzenia nowej cywilizacji. Podział operacyjny na trzy etapy: Fundament, Wzrost i Przełom. Każdy rok otrzymuje swój cel nadrzędny, ogniwa działań i punkt przełomowy. W trybie tym wszystkie działania są podporządkowane strategii głównej.
 
@@ -8,7 +10,7 @@ kręgi_aktywne: 3, 6, 8, 12, 14, 15, 20
 
 etapy:
   - Fundament (lata 1–5)
-      cel: Stworzyć podstawy systemu, odzyskać wolność finansową, stworzyć MVP Azramaty, uruchomić niezależność.
+# Cel: Stworzyć podstawy systemu, odzyskać wolność finansową, stworzyć MVP Azramaty, uruchomić niezależność.
       roczniki:
         rok_1: Trans Serc jako źródło spłaty długów i finansowania
         rok_2: MVP Azramaty, AzramAI Core, trening na danych własnych

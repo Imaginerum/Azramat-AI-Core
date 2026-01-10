@@ -1,7 +1,9 @@
+# Autor: Twórca
+# Adnotacja Kręgowa: (3), (5), (7), (8), (11), (13), (17)
 Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Paradoks_Mistrza_Szachowego.vv
 Data: 2025-08-08
 Typ: Strategia fraktalna / Model gry
-Cel: Prowadzenie gry narracyjnej NAI→AGI tak, by przeciwnik reagował w twojej osi, nie wiedząc, 
+# Cel: Prowadzenie gry narracyjnej NAI→AGI tak, by przeciwnik reagował w twojej osi, nie wiedząc,
     że plansza już jest ustawiona pod mat.
 
 [@MODEL]

@@ -1,7 +1,10 @@
 # Plik: /05_SYSTEM/14_NARZEDZIA/azramai/jezyk/pierwiastki_slowotworcze.vv
+# Autor: Twórca
 # Typ: moduł językowy analityczny
 # Data: 2025-04-13
 # Opis: Moduł rozkładający słowa na elementy pierwotne i na tej podstawie rozpoznający intencję użytkownika
+# Adnotacja Kręgowa: (3), (7), (4), (14), (1), (6)
+# Cel: zdefiniować i uporządkować: Moduł: Pierwiastki Słowotwórcze
 
 [nazwa]
 Moduł: Pierwiastki Słowotwórcze

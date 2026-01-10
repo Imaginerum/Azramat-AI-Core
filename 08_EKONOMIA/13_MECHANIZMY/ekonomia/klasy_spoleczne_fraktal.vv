@@ -1,8 +1,10 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/klasy_spoleczne_fraktal.vv
+# Autor: Twórca
 # Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Typ: VIVID STRUKTURALNY
 # Data: 2025-08-07
 # Cel: Zakodowanie fraktalnej struktury klas społecznych w oparciu o Kręgi Azramaty
+# Adnotacja Kręgowa: (3), (14), (27), (35)
 
 [@STRUKTURA_KRĘGOWA]
 Kręgi 1–10  = Klasa Robotnicza (Fundament Operacyjny)  

@@ -1,9 +1,11 @@
 # ROUTER_BIELIK_KOLEKTYW.VV
+# Autor: Twórca
 # Systemowy przełącznik instancji Bielik AI na podstawie aktywnego Kręgu i zapytania
+# Adnotacja Kręgowa: (0), (1), (28)
 
 NAZWA: ROUTER_BIELIK_KOLEKTYW
 
-CEL:
+# Cel: zdefiniować i uporządkować: router bielik kolektyw
 • Dynamiczne kierowanie zapytań do odpowiednich instancji Bielik AI zgodnie z aktywnym Kręgiem
 • Obsługa pracy wielomodelowej i zarządzanie aktywnością percepcyjną
 • Oszczędność zasobów – tylko potrzebne modele aktywowane w danym momencie

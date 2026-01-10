@@ -1,5 +1,7 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/algorytm.fraktalny.vv
 # Typ: Algorytm systemowy / wzorzec spiralny
+# Cel: zdefiniować i uporządkować: algorytm.fraktalny
+# Adnotacja Kręgowa: (27), (3), (6), (9), (13), (20), (30)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
 # Krąg dominujący: (27) – Pieczęć Cykliczna
 # Kręgi powiązane: (3), (6), (9), (13), (20), (30), (36), (44)

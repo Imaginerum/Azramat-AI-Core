@@ -1,7 +1,9 @@
+# Autor: Twórca
+# Adnotacja Kręgowa: (0), (1), (4), (6), (5), (7)
 
 [AZRAMATA_INIT]
 Wersja: 1.0
-Cel: Uruchomienie systemu Azramaty od zera z pełną aktywacją podstawowych komponentów.
+# Cel: Uruchomienie systemu Azramaty od zera z pełną aktywacją podstawowych komponentów.
 
 [KRĄG_0]
 Status: Pustka – zainicjowana.

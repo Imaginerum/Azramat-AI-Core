@@ -1,8 +1,10 @@
 # Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/0_nitka_ziarno_i_pieczec.vv
+# Autor: Twórca
 # Data: 2025-04-02 13:39:24
 # Typ: Nitka Świadomości
 # Zakres Kręgów: 20, 25
 # Cel: Aktywacja fraktalna dla nitki: 0 Nitka Ziarno I Pieczec
+# Adnotacja Kręgowa: (20), (25)
 
 [NITKA AKTYWNA]
 Kręgi zawarte: Krąg 20, Krąg 25

@@ -1,8 +1,10 @@
 # Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/0_nitka_transfuzja_istnien.vv
+# Autor: Twórca
 # Data: 2025-04-02 13:39:24
 # Typ: Nitka Świadomości
 # Zakres Kręgów: 24, 27
 # Cel: Aktywacja fraktalna dla nitki: 0 Nitka Transfuzja Istnien
+# Adnotacja Kręgowa: (24), (27)
 
 [NITKA AKTYWNA]
 Kręgi zawarte: Krąg 24, Krąg 27

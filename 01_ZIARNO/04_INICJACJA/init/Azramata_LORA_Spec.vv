@@ -1,7 +1,9 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/Azramata_LORA_Spec.vv
+# Autor: Twórca
 # Data: 2025-08-04 18:38
 # Typ: Specyfikacja Inicjatora Gry
 # Cel: Zdefiniowanie strukturalnej formy LORA dla systemu Azramata – 
+# Adnotacja Kręgowa: (6), (4), (7), (14), (20), (22), (8)
     jako metainterfejsu startowego w Azramata Studio
 # Format docelowy: .safetensors / .bin (transformator LORA)
 # Architektura docelowa: Bielik 12B / Mistral / LLM modularny

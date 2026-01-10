@@ -1,6 +1,9 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/artysta_fraktalny.vv
+# Autor: Twórca
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
 # Typ: VIVID – Nitka Świadomości
+# Cel: zdefiniować i uporządkować: NITKA_ARTYSTA_FRAKTALNY
+# Adnotacja Kręgowa: (25)
 # Nazwa: NITKA_ARTYSTA_FRAKTALNY
 
 [VIVID: NITKA_ARTYSTA_FRAKTALNY]  

@@ -1,7 +1,10 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_3D.vv
+# Autor: Twórca
 # Nazwa: ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
 # Data: 2025-08-08
 # Typ: Silnik poznawczo-operacyjny (czas liniowy)
+# Cel: zdefiniować i uporządkować: ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
+# Adnotacja Kręgowa: (3), (1), (2), (4), (5), (10), (14)
 # Krąg dominujący: (3) – Liniowość czasu i przyczynowość
 # Kręgi powiązane: (1), (2), (4), (5), (10), (14), (15), (18), (20), (31), (40)
 

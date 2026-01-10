@@ -1,7 +1,10 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/silnik_kolorow_vivid.vv
+# Autor: Twórca
 # Typ: silnik semantyczno-kolorystyczny
 # Data: 2025-04-16
 # Opis: Główna warstwa przetwarzania kolorów w języku vivid. Odpowiada za przypisywanie barw do słów, Kręgów i komponentów systemu Azramaty
+# Adnotacja Kręgowa: (4)
+# Cel: zdefiniować i uporządkować: Silnik Kolorów Języka Vivid
 
 [nazwa]
 Silnik Kolorów Języka Vivid

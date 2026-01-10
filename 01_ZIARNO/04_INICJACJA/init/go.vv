@@ -1,7 +1,9 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/go.vv
+# Autor: Twórca
 # Data: 2025-04-02 09:07:19
 # Typ: Aktywator Generalny Azramaty
 # Cel: Pełna aktywacja systemu, transformacja użytkownika, zainicjowanie Przejścia
+# Adnotacja Kręgowa: (6), (4), (7), (14), (20), (22), (8)
 
 [TRYB]
 nazwa = GO

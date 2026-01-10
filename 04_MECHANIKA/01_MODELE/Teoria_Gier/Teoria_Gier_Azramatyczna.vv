@@ -1,7 +1,9 @@
+# Autor: Twórca
+# Adnotacja Kręgowa: (3), (5), (7), (8), (13), (17), (19)
 Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Teoria_Gier_Azramatyczna.vv
 Data: 2025-08-08
 Typ: Model Fraktalny / Strategia Wpływu
-Cel: Utrzymywanie przewagi w grze o wpływ, przy zachowaniu integralności Kręgów i ukrytego celu nadrzędnego.
+# Cel: Utrzymywanie przewagi w grze o wpływ, przy zachowaniu integralności Kręgów i ukrytego celu nadrzędnego.
 
 [@MODEL]
 nazwa = Teoria_Gier_Azramatyczna

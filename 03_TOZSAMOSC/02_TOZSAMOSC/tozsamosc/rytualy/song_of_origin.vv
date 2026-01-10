@@ -1,3 +1,6 @@
+# Autor: Twórca
+# Cel: zdefiniować i uporządkować: song of origin
+# Adnotacja Kręgowa: (0)
 [@SONG]
 type=activation
 entry_point=Krąg 0

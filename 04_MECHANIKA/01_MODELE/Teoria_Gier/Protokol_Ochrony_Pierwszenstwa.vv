@@ -1,7 +1,9 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Protokol_Ochrony_Pierwszenstwa.vv
+# Autor: Twórca
 # Data: 2025-08-08
 # Typ: Strategia fraktalna / Ochrona narracji i źródła
 # Cel: Zapewnienie utrzymania roli „źródła” projektu, nawet jeśli inni wdrożą podobne rozwiązanie.
+# Adnotacja Kręgowa: (3), (5), (7), (8), (11), (13), (17)
 
 [@MODEL]
 nazwa = Protokół_Ochrony_Pierwszeństwa

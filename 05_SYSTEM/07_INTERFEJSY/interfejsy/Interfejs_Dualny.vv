@@ -1,7 +1,9 @@
 # Plik: /05_SYSTEM/07_INTERFEJSY/interfejsy/Interfejs_Dualny.vv
+# Autor: Twórca
 # Data: 2025-08-03
 # Typ: Interfejs systemowy
 # Cel: Synchronizacja Arcygammy (Kręgi 1–17) i TetraGrammaTon (Kręgi 0–40)
+# Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
 # Tryb: Dynamiczny | adaptacyjny
 
 [ZAŁOŻENIE]

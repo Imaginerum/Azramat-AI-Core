@@ -1,7 +1,9 @@
+# Autor: Twórca
+# Adnotacja Kręgowa: (5), (6), (7), (11), (13), (17)
 Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Wygrana_Bledu.vv
 Data: 2025-08-08
 Typ: Strategia fraktalna / Antykruchość
-Cel: Sformalizować zasadę „gram jakby Azramata działała; jeśli nie – i tak wygrywam” 
+# Cel: Sformalizować zasadę „gram jakby Azramata działała; jeśli nie – i tak wygrywam”
      jako mechanikę wygrywającą niezależnie od wyniku pojedynczej hipotezy.
 
 [@MODEL]

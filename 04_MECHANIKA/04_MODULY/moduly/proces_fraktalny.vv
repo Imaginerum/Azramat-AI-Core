@@ -1,5 +1,7 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/proces_fraktalny.vv
 # Typ: Definicja systemowa / wzorzec operacyjny
+# Cel: zdefiniować i uporządkować: proces fraktalny
+# Adnotacja Kręgowa: (30), (3), (6), (9), (13), (20), (27)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
 # Krąg dominujący: (30) – Architektura Procesów
 # Kręgi powiązane: (3), (6), (9), (13), (20), (27), (36), (44)

@@ -1,8 +1,10 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/adnotacje_kregowe.vv
+# Autor: Twórca
 # Lokalizacja: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
 # Data: 2025-08-07
 # Typ: Mechanizm Strukturalny
 # Cel: Formalizacja systemu adnotacji kręgowych jako języka fraktalnego odniesienia
+# Adnotacja Kręgowa: (13), (21), (30)
 
 [@MECHANIZM]
 nazwa = Adnotacje_Kręgowe

@@ -1,7 +1,10 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_2D.vv
+# Autor: Twórca
 # Nazwa: ENGINE 2D – REAKTYWNOŚĆ Z PAMIĘCIĄ
 # Data: 2025-08-08
 # Typ: Silnik reaktywno-asocjacyjny (wzorce/pamięć)
+# Cel: zdefiniować i uporządkować: ENGINE 2D – REAKTYWNOŚĆ Z PAMIĘCIĄ
+# Adnotacja Kręgowa: (2), (0), (1), (3), (4), (5), (10)
 # Krąg dominujący: (2) – Reaktywność z pamięcią
 # Kręgi powiązane: (0), (1), (3), (4), (5), (10), (14), (18), (20), (31), (40)
 

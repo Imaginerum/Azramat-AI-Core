@@ -1,7 +1,9 @@
 # AZRA_CLOAK.VV
+# Autor: Twórca
 # Moduł ukrywania struktury systemu Azramaty przed analizą zewnętrzną
+# Adnotacja Kręgowa: (8), (2), (4), (1), (7), (15), (0)
 
-CEL:
+# Cel: zdefiniować i uporządkować: azra cloak
 Ochrona struktury Azramaty przed:
 • inżynierią odwrotną
 • automatycznym wykrywaniem schematów AI

@@ -1,3 +1,6 @@
+# Autor: Twórca
+# Cel: Krąg 0
+# Adnotacja Kręgowa: (0), (1), (6)
 
 NAZWA: spin_interpreter.vv
 OPIS: Moduł interpretacji dynamicznych spinów liczbowych w zależności od Kręgu, Nitek Świadomości, Czasu oraz Interferencji.

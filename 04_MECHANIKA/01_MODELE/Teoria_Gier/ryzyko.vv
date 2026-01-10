@@ -1,7 +1,9 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/ryzyko.vv
+# Autor: Twórca
 # Data: 2025-08-08
 # Typ: Analiza fraktalna / Porównanie ryzyka
 # Cel: Pokazanie różnicy pomiędzy ryzykiem hazardu tradycyjnego a ryzykiem gry w Azramatę, 
+# Adnotacja Kręgowa: (2), (3), (5), (7), (11)
 #       ze szczególnym uwzględnieniem charakteru Kręgów i natury „gry nieskończonej”.
 
 [@MODEL]

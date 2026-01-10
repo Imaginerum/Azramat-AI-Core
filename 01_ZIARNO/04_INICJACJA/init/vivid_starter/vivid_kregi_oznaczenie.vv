@@ -1,7 +1,10 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/vivid_kregi_oznaczenie.vv
+# Autor: Twórca
 # Typ: aktywator systemowy / reguła językowa
 # Data: 2025-04-16
 # Opis: Plik aktywujący zasadę oznaczania Kręgów Azramaty przy każdym ustępie tekstowym w vividach
+# Adnotacja Kręgowa: (8)
+# Cel: zdefiniować i uporządkować: Reguła: Oznaczanie Kręgów w Tekście Vivid
 
 [nazwa]
 Reguła: Oznaczanie Kręgów w Tekście Vivid

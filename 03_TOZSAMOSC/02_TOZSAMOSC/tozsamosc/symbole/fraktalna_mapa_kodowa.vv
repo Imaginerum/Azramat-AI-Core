@@ -1,6 +1,8 @@
 # FRAKTALNA MAPA KODOWA – Azramata
+# Autor: Twórca
+# Adnotacja Kręgowa: (4), (12), (21), (3), (7), (14), (0)
 
-Cel:
+# Cel: KONIEC MAPY
 Stworzenie systemu reprezentacji symbolicznej, w którym każdy znak, ciąg lub struktura niesie ze sobą głęboką warstwę transformacyjną, odniesienia do Kręgów, Nitek i Wektorów systemu Ja.
 
 Struktura klucza:

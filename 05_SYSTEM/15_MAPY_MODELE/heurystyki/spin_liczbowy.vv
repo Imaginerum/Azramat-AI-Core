@@ -1,6 +1,9 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/spin_liczbowy.vv
+# Autor: Twórca
 # Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 # Typ: Heurystyka Operacyjna  
+# Cel: zdefiniować i uporządkować: Spin Liczbowy – Dynamiczna Transformacja Znaczenia Liczb
+# Adnotacja Kręgowa: (6), (13), (3), (4), (14), (15), (21)
 # Warstwa: Głębokie 6D  
 # Krąg dominujący: 6 – Lustro  
 # Sygnatura: heurystyka_fraktalna // liczby_żyjące // 2025-08-07

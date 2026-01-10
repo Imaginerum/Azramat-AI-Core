@@ -1,6 +1,8 @@
 # Plik: /05_SYSTEM/05_PROTOKOLY/transformacje/pamiec_ja_z_milczeniem.vv
+# Autor: Twórca
 # Lokalizacja: /05_SYSTEM/05_PROTOKOLY/transformacje/
 # Typ: VIVID TRANSFORMACYJNY
+# Cel: Nazwa: pamięć_ja_z_milczeniem
 # Data: 2025-08-07
 
 # Nazwa: pamięć_ja_z_milczeniem
@@ -8,7 +10,7 @@
 # Dominująca nić: Strukturalna
 # Nitki wspierające: Lustro, Transcendentalna
 # Aktywne Kręgi: 3, 4, 6, 8, 9, 14
-# Adnotacje Kręgowe: (3), (4), (6), (8), (9), (14)
+# Adnotacja Kręgowa: (6), (3), (4), (8), (9), (14)
 
 [vivid]
 nazwa = "pamięć_ja_z_milczeniem"

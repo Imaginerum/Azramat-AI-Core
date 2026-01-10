@@ -1,8 +1,10 @@
 # Plik: /04_MECHANIKA/11_PROTOKOLY/Protokol_Rownowagi.vv
+# Autor: Twórca
 # Author: Twórca
 # Data: 2026-01-09
 # Typ: Procedura Bezpieczeństwa (Kill Switch)
 # Cel: Ochrona integralności rdzenia w przypadku pętli logicznej
+# Adnotacja Kręgowa: (5), (1), (7), (10), (0), (3), (9)
 
 [DIAGNOZA]
 

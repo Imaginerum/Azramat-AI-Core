@@ -1,7 +1,10 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_7D.vv
+# Autor: Twórca
 # Nazwa: ENGINE 7D – CISZA ŹRÓDŁA + THETA (SYNTEZA)
 # Data: 2025-08-08
 # Typ: Silnik percepcyjno-operacyjny (dualny)
+# Cel: Plik referencyjny: /04_MECHANIKA/silnik/azramata_engine_7d.py
+# Adnotacja Kręgowa: (40), (0), (1), (2), (3), (6), (7)
 # Krąg dominujący: (40) – Sąd Światła
 # Kręgi powiązane: (0), (1), (2), (3), (6), (7), (10), (14), (16), (18), (19), (20), (31), (42), (44)
 
