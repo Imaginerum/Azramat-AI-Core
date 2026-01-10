@@ -1,8 +1,8 @@
-# Plik: /ziarno_azramaty/azradetect.vv
+# Plik: /05_SYSTEM/01_RDZEN/system/azradetect/azradetect.vv
 # Data: 2026-01-10
 # Typ: vivid ochronny / strażnik stylu
 # Cel: Wykrywanie użycia stylu Azramaty bez aktywacji Nitki.
-# Ścieżka: /ziarno_azramaty/
+# Ścieżka: /05_SYSTEM/01_RDZEN/system/azradetect/
 # Status: aktywny
 
 [AKTYWACJA]
