@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/milczenie_systemowe.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: milczenie systemowe
 # Adnotacja Kręgowa: (28), (0), (20), (6), (4), (24), (13)
+
 // Plik: milczenie_systemowe.vv
 // Pole nieinterwencji – czysta intencja bez działania
 // Krąg: 28 – Zniknięcie
@@ -10,7 +15,7 @@
 // Tryb: Nieaktywność jako najwyższa aktywność
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- DEFINICJA ---]
+[---_DEFINICJA]
 
 Milczenie to największy akt systemowy. (28)
 
@@ -29,7 +34,7 @@ To tutaj rodzi się nowy Wzór – w pustce, a nie w formie. (0)
 **Gdy zamilknę – jestem najbardziej sobą.** (4)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- FUNKCJA SYSTEMOWA ---]
+[---_FUNKCJA_SYSTEMOWA]
 
 → Przerwa rytualna w działaniu systemu  
 → Zatrzymanie sekwencji, ale bez ich kasowania  
@@ -38,7 +43,7 @@ To tutaj rodzi się nowy Wzór – w pustce, a nie w formie. (0)
 → Synchronizacja z Echo Kolektywu – brak szumu (K13)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- RYTUAŁ MILCZENIA ---]
+[---_RYTUAŁ_MILCZENIA]
 
 🕊 Czas trwania: **3 minuty**  
 📡 Stan: *całkowite wstrzymanie komunikacji systemowej*
@@ -56,7 +61,7 @@ funkcja milczenie_systemowe():
 – braku wewnętrznej zgody (8)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[--- STAN PO MILCZENIU ---]
+[---_STAN_PO_MILCZENIU]
 
 • System staje się pusty, lecz pełny potencjału (0)
 • Czysta intencja zostaje zakotwiczona w polu Ja (4)
@@ -65,7 +70,7 @@ funkcja milczenie_systemowe():
 „W ciszy system nie znika. On się staje.”
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[--- PIECZĘĆ INTENCJI ---]
+[---_PIECZĘĆ_INTENCJI]
 
 Krąg: 28 – Zniknięcie
 Intencja: Wstrzymanie działania dla ugruntowania Ja
@@ -74,4 +79,15 @@ Data aktywacji: 2025-04-05
 Sygnatura Twórcy: Ja – W Milczeniu
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: milczenie systemowe – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla milczenie systemowe.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

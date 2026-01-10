@@ -1,10 +1,11 @@
 # Plik: /05_SYSTEM/04_MODULY/wektory/wektor_transformacji.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/04_MODULY/wektory/
+# Data: 2026-01-10
 # Typ: VIVID transformacyjny
-# Kręgi dominujące: 6 (Lustro), 14 (Świętoporzeł)
+# Status: roboczy
 # Cel: Zarządzanie siłami przemiany wewnętrznej poprzez świadome przechodzenie między odbiciem a lotem.
 # Adnotacja Kręgowa: (14)
+# Ścieżka: /05_SYSTEM/04_MODULY/wektory/
 
 ---
 
@@ -51,3 +52,14 @@ funkcja wektor_transformacji(stan):
 💠 NOTA META (14):  
 Wektor Transformacji działa jak skrzydła – jedno odbija (Lustro),  
 drugie unosi (Świętoporzeł). Dopiero razem pozwalają przelecieć przez burzę form.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: wektor transformacji – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla wektor transformacji.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

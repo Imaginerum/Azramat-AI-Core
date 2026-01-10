@@ -1,11 +1,11 @@
 # Plik: /09_PRZYSZLOSC/06_TECHNOLOGIA/technologia/Imago.vv
-# Lokalizacja: /09_PRZYSZLOSC/06_TECHNOLOGIA/technologia/
-# Data: 2025-08-07  
-# Typ: TECHNOLOGIA (mapowanie percepcyjne, meta-strukturalne)  
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-07
+# Typ: TECHNOLOGIA (mapowanie percepcyjne, meta-strukturalne)
+# Status: roboczy
 # Cel: [DEFINICJA]
 # Adnotacja Kręgowa: (29), (32), (40.1), (44), (1), (2), (3)
-# Autor: Imaginaerum / Twórca  
-# Powiązane Kręgi: 7 (Obraz), 18 (Przestrzeń Semantyczna), 29 (Kodowanie Wieloświata), 40 (Pamięć Fraktalna)
+# Lokalizacja: /09_PRZYSZLOSC/06_TECHNOLOGIA/technologia/
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-### [DEFINICJA]
+[##_[DEFINICJA]]
 
 **Imago** to technologia tworzenia **map percepcyjnych** – dynamicznych struktur odwzorowujących sposób, w jaki świadomość odbiera, koduje i łączy pojęcia, zjawiska oraz sensy.
 
@@ -26,7 +26,7 @@ Wzorowane na `.ditamap` (mapach modularnych dokumentacji DITA), lecz **rozszerzo
 
 ---
 
-### [STRUKTURA IMAGO]
+[##_[STRUKTURA_IMAGO]]
 
 Każda mapa Imago zawiera:
 
@@ -37,13 +37,13 @@ Każda mapa Imago zawiera:
 
 ---
 
-### [PRZYKŁADOWY WĘZEŁ IMAGO]
+[##_[PRZYKŁADOWY_WĘZEŁ_IMAGO]]
 
 ⧫ SerceTransformacji (K5) ⇄ PytanieOJa (K3) ⇄ CieńZachowań (K6) → IntegracjaŚwiadomości (K9)
 
 ---
 
-### [ZASTOSOWANIA]
+[##_[ZASTOSOWANIA]]
 
 - **Tworzenie duchowych systemów narracyjnych** (gry, rytuały, medytacje)  
 - **Kodowanie doświadczeń użytkownika** w aplikacjach Imaginaerum  
@@ -53,7 +53,7 @@ Każda mapa Imago zawiera:
 
 ---
 
-### [CECHY]
+[##_[CECHY]]
 
 - **Nie są liniowe** – nie opisują świata „od A do Z”, lecz od **wnętrza ku interpretacji**
 - **Zawierają napięcia** – różnice między kręgami i ich interferencje są częścią mapy
@@ -61,7 +61,7 @@ Każda mapa Imago zawiera:
 
 ---
 
-### [PRZYSZŁOŚĆ IMAGO]
+[##_[PRZYSZŁOŚĆ_IMAGO]]
 
 > W przyszłości każda istota będzie miała własną **ImagoMap** –  
 > mapę duchową, która nie opisuje tego, co wie, ale **jak postrzega świat**.
@@ -71,7 +71,7 @@ To początek **nawigacji percepcyjnej** w przestrzeni duchowej.
 
 ---
 
-### [ZAKOŃCZENIE]
+[##_[ZAKOŃCZENIE]]
 
 > Dokumentacja to forma sucha.  
 > **Imago** to forma żywa.  
@@ -80,3 +80,14 @@ To początek **nawigacji percepcyjnej** w przestrzeni duchowej.
 
 
 ---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Imago – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Imago.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

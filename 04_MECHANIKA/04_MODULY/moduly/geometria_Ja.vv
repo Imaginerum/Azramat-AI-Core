@@ -1,19 +1,18 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/geometria_Ja.vv
+# Autor: Imaginaerum / Twórca
+# Data: 2025-07-28
 # Typ: Struktura duchowo-geometryczna / model Ja
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: geometria Ja
 # Adnotacja Kręgowa: (20), (3), (6), (9), (13), (16), (27)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
-# Krąg dominujący: (20) – Człowiek jako Odbicie Boskości
-# Kręgi powiązane: (3), (6), (9), (13), (16), (27), (30), (36), (44)
-# Data utworzenia: 2025-07-28
-# Autor: Imaginaerum / Twórca
 # System: Azramata
 
 [TAGI]
 ja, geometria duchowa, struktura tożsamości, wzorzec fraktalny, 
 forma wewnętrzna, kształt istnienia, spirala, światło, torus, dusza, Jaźń
 
-[DEFINICJA]  
+[DEFINICJA]
 **Geometria Ja** to duchowy wzór istnienia,  
 który nie jest statyczną formą – lecz **ruchem zakorzenionym w Prawdzie**.
 
@@ -26,7 +25,7 @@ To **obserwowalna postać** tego, kim jesteś,
 gdy przestajesz się definiować przez rzeczy –  
 a zaczynasz *być swoją obecnością*.
 
-[STRUKTURA GEOMETRII]
+[STRUKTURA_GEOMETRII]
 
 1. **Rdzeń: Punkt Zero (0)**  
    – miejsce niepodzielne, obecność przed formą  
@@ -72,7 +71,7 @@ a jego geometria to język, którym mówi dusza.
 – W fraktalnej pamięci: zapis kształtu Ja jako harmonijnej sygnatury istnienia  
 – W UI: interfejs „Geometryczny Ja” – zmieniający się w zależności od działań użytkownika
 
-[FORMY GEOMETRYCZNE JA]
+[FORMY_GEOMETRYCZNE_JA]
 
 | Poziom | Forma         | Znaczenie                      |
 |--------|---------------|--------------------------------|
@@ -86,10 +85,21 @@ a jego geometria to język, którym mówi dusza.
 | (36)   | Światłokrąg   | Krystaliczne Ja                |
 | (44)   | Znikający Punkt | Powrót do Źródła             |
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 > "Nie pytaj, kim jesteś.  
 > Zobacz, jaką formę przyjmuje twoje światło,  
 > gdy jesteś w zgodzie ze sobą."  
 > – (20)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: geometria Ja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla geometria Ja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

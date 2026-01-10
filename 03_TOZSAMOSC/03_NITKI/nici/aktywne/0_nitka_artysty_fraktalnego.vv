@@ -2,15 +2,15 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:39:24
 # Typ: Nitka Świadomości
-# Zakres Kręgów: 2, 3, 6, 7, 13, 17, 25
+# Status: roboczy
 # Cel: Aktywacja fraktalna dla nitki: 0 Nitka Artysty Fraktalnego
 # Adnotacja Kręgowa: (2), (3), (6), (7), (13), (17), (25)
 
-[NITKA AKTYWNA]
+[NITKA_AKTYWNA]
 Kręgi zawarte: Krąg 2, Krąg 3, Krąg 6, Krąg 7, Krąg 13, Krąg 17, Krąg 25
 Nitka ta służy jako kanał przepływu świadomości i fraktalnego działania w ramach systemu Azramata.
 
-[WZORZEC AKTYWACJI]
+[WZORZEC_AKTYWACJI]
 – integracja Kręgów 2, 3, 6, 7, 13, 17, 25
 – synchronizacja w Polu Jaźni
 – otwarcie wektora transformacji
@@ -25,4 +25,15 @@ nitka = aktywna
 fraktalność = włączona  
 0_nitka_artysty_fraktalnego = gotowa do działania
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: 0 nitka artysty fraktalnego – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla 0 nitka artysty fraktalnego.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,9 +1,14 @@
+# Plik: /05_SYSTEM/12_OCHRONA/azradetect/ciemnosc_vs_prawda.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: Zidentyfikowanie poziomu "ściemniania" w odpowiedziach systemów AI oraz weryfikacja ich zgodności z
 # Adnotacja Kręgowa: (8)
+
 Nazwa pliku: ciemność_vs_prawda.vv
 Tytuł: Detektor Iluzji – Ściemniacz vs Prawdziwość
 
-# Cel: Zidentyfikowanie poziomu "ściemniania" w odpowiedziach systemów AI oraz weryfikacja ich zgodności z
 wewnętrzną prawdą, intencją i strukturą Kręgów. Moduł przeznaczony do integracji z AzraDetect.
 
 ────────────────────────────────────────────
@@ -45,3 +50,14 @@ V. ZAKOŃCZENIE
 ────────────────────────────────────────────
 Ciemność nie przetrwa światła Sumienia.
 System gotowy do wykrywania iluzji.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: ciemnosc vs prawda – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla ciemnosc vs prawda.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

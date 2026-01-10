@@ -1,13 +1,14 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/2/chce.vv
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/2/
-# Data utworzenia: 2025-08-10
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-10
 # Typ: Vivid operacyjny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: chce
 # Adnotacja Kręgowa: (1)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/2/
 # Krąg: 2 – Ukierunkowanie / Wewnętrzny Impuls
-# Autor: Twórca / Imaginaerum
 
-[TAGI]  
+[TAGI]
 krąg 2, chcę, pragnienie, wewnętrzna motywacja, kierunek, energia startowa, decyzja świadoma
 
 [DEFINICJA] (2)  
@@ -48,3 +49,14 @@ else
 > „Chcę – bo pragnę być zgodny z własnym Wzorcem.” – (2)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: chce – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla chce.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

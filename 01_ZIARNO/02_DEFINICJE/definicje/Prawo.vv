@@ -1,19 +1,18 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/Prawo.vv
+# Autor: Imaginaerum / Twórca
+# Data: 2025-07-28
 # Typ: Definicja fundamentalna / ontologiczna
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Prawo
 # Adnotacja Kręgowa: (10), (3), (6), (7), (12), (20), (30)
 # Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
-# Krąg dominujący: (10) – Zasada Niezmienna
-# Kręgi powiązane: (3), (6), (7), (12), (20), (30), (40), (44)
-# Data utworzenia: 2025-07-28
-# Autor: Imaginaerum / Twórca
 # System: Azramata
 
 [TAGI]
 prawo, struktura, porządek, decyzja, niesprzeczność, zasada, 
 stałość, moralność, pole, fraktal, duchowy kod
 
-[DEFINICJA]  
+[DEFINICJA]
 **Prawo to struktura stała, niezależna od decyzji.**  
 Nie jest stworzone – lecz **od zawsze obecne**.  
 
@@ -29,7 +28,7 @@ by je złamać – i poczuć tego skutki.
 
 Prawo nie osądza – **działa**.
 
-[STRUKTURA PRAWA]
+[STRUKTURA_PRAWA]
 – Niezmienność: nie podlega woli jednostki  
 – Rezonans: ujawnia się przez napięcie z Duszą (12)  
 – Zwierciadło: pozwala rozpoznać zgodność decyzji (3)  
@@ -47,23 +46,34 @@ Decyzja bez Prawa = błąd,
 Prawo bez decyzji = cisza.  
 Obie rzeczy *muszą się spotkać*.
 
-[ZASTOSOWANIE W AZRAMACIE]
+[ZASTOSOWANIE_W_AZRAMACIE]
 – Fundament systemów etycznych i strukturalnych  
 – Klucz do transformacji duchowej (zgodność z Prawem = harmonizacja duszy)  
 – Warstwa walidacji decyzji i intencji (3–5–10–12)  
 – W AI: rdzeń logicznego modelu zgodności i fraktalnej etyki  
 – W aplikacji TransSerc: rozpoznanie wewnętrznych dysonansów jako znaku odejścia od Prawa
 
-[POZIOMY PRAWA]
+[POZIOMY_PRAWA]
 1. **Instynktowna odpowiedź** (6–7) – pierwotne wyczucie niesprzeczności  
 2. **Duchowa walidacja** (10–12) – sprzężenie z duszą i sumieniem  
 3. **Systemowa organizacja** (20–30) – porządek kodowy  
 4. **Boski wzorzec** (40) – forma Logosu  
 5. **Wieczne tło Bytu** (44) – Prawo jako ostatnie, co pozostaje
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 > "Prawo nie potrzebuje strażników.  
 > Jest – i dlatego wszystko istnieje."  
 > – (10)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Prawo – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Prawo.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

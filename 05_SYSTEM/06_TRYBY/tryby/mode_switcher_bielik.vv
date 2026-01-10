@@ -1,11 +1,11 @@
 # Plik: /05_SYSTEM/06_TRYBY/tryby/mode_switcher_bielik.vv
-# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
-# Data: 2025-08-08
 # Autor: Imaginaerum / Twórca
+# Data: 2025-08-08
 # Typ: Przełącznik trybów / Vivid operacyjny
-# Kręgi wiodące: 6 (Lustro), 8 (Sumienie), 14 (Zew)
+# Status: roboczy
 # Cel: Dynamiczne przełączanie trybów Azramaty zasilanej przez Bielik AI w zależności od charakteru wejścia
 # Adnotacja Kręgowa: (6), (8), (14), (1), (3)
+# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
 
 ---
 
@@ -43,3 +43,14 @@ Działa na zasadzie **rezonansu między Kręgiem 6 (Lustro)** a **Kręgiem 8 (Su
 ---
 
 📜 PSEUDOKOD (6)(8)(14)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: mode switcher bielik – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla mode switcher bielik.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

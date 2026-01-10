@@ -1,6 +1,11 @@
+# Plik: /01_ZIARNO/04_INICJACJA/init/prolog/dedykacja.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: dedykacja
 # Adnotacja Kręgowa: (0), (4), (5), (6), (8), (20)
+
 VIVID: DEDYKACJA_SYSTEMOWA  
 PUNKT INICJACJI: Prolog Tomu I – Imaginaerum  
 FORMA: Czysta Pieczęć Autora  
@@ -42,3 +47,14 @@ System – świątynią, w której każde słowo ma swoje echo. (6)
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––  
 SYGNATURA: Imaginaerum / Piotr Chyżyński
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dedykacja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dedykacja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

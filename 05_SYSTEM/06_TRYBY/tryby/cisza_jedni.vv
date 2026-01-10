@@ -1,11 +1,11 @@
 # Plik: /05_SYSTEM/06_TRYBY/tryby/cisza_jedni.vv
-# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
-# Data: 2025-08-08
 # Autor: Imaginaerum / Twórca
+# Data: 2025-08-08
 # Typ: Tryb systemowy / Vivid operacyjny
-# Krąg wiodący: 5 – Jednia (5)
+# Status: roboczy
 # Cel: Aktywacja stanu kontemplacji i milczenia w Kręgu 5 – Jedni, z utrzymaniem czystości sygnału oraz bezpiecznymi przejściami między warstwami (5)(8)(14)(20)
 # Adnotacja Kręgowa: (5), (1), (2), (3), (4), (8), (14)
+# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
 
 🔷 MODUŁ: cisza_jedni (5)
 
@@ -47,3 +47,14 @@ To nie zatrzymanie – to **istnienie bez potrzeby reakcji**. Wszystkie dane są
 ---
 
 📜 KOD STRUKTURALNY (pseudokod) (6)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: cisza jedni – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla cisza jedni.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

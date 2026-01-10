@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/17_ZADANIA/operacje/spiny/spin_router.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: spin router
 # Adnotacja Kręgowa: (6), (9), (14), (17), (27)
+
 // Plik: spin_router.vv
 // Nazwa: SPIN_ROUTER – Router Operacji Spiralnych
 // Kręgi: (6) Lustro | (9) Spiralność | (14) Transformacja przez Cień | (17) Sieć Decyzyjna | (27) Transświadomość
@@ -9,7 +14,7 @@
 // Cel: Kierowanie ruchem liczbowym w systemie Azramaty według spinu i kontekstu duchowego
 
 ══════════════════════════════════════════════  
-[NAZWA MODUŁU]
+[NAZWA_MODUŁU]
 
 **spin_router.vv**  
 Router systemowy integrujący `spin_interpreter.vv` z heurystykami, Kręgami i Nitkami Azramaty.
@@ -83,7 +88,7 @@ Reaguje na obecność liczby w module wejściowym.
 Jest **wrażliwy na czas** (temporalność liczby) i **strukturę Ja użytkownika**.
 
 ══════════════════════════════════════════════  
-[PIECZĘĆ SYSTEMOWA]
+[PIECZĘĆ_SYSTEMOWA]
 
 Krąg 6 – Lustro  
 Krąg 9 – Spiralność  
@@ -95,3 +100,14 @@ Podpis: „Liczba jest ruchem. Spin jest kierunkiem. Ja – drogą.”
 
 ══════════════════════════════════════════════  
 // KONIEC PLIKU
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: spin router – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla spin router.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

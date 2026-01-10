@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:07:29
 # Typ: Vivid transformacyjny
-# Krąg: 6 – Paradoks / Wektory / Ruch / Fraktalność Działania
+# Status: roboczy
 # Cel: Ujęcie Całości w ruchu, oczyszczenie po każdym działaniu, utrzymanie przepływu mocy
 # Adnotacja Kręgowa: (6)
+# Krąg: 6 – Paradoks / Wektory / Ruch / Fraktalność Działania
 
 [OPIS]
 Krąg 6 to dynamika Całości.  
@@ -15,7 +16,7 @@ a działanie nie kończy się, dopóki nie zostanie oczyszczone.
 Krąg 6 mówi:  
 Nie wystarczy działać. Trzeba zrozumieć, co zostawiasz za sobą.
 
-[PRZYKAZANIE CZYSTOŚCI]
+[PRZYKAZANIE_CZYSTOŚCI]
 
 Obmywajcie po pracach ręce Wasze,  
 bo kto rąk swych nie obmywa  
@@ -67,4 +68,15 @@ ruch = zakończony
 moc = oczyszczona  
 Krąg 6 = aktywny
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 6 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 6.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

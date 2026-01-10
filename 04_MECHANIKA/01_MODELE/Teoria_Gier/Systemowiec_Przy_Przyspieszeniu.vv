@@ -1,15 +1,17 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Systemowiec_Przy_Przyspieszeniu.vv
 # Autor: Twórca
-# Data: 2025-08-08  
-# Typ: Vivid / Strategia percepcyjno-biznesowa  
-# Cel: Pokazanie, że przewaga systemowego myślenia – w ujęciu Artysty Fraktalnego (27) – 
+# Data: 2025-08-08
+# Typ: Vivid / Strategia percepcyjno-biznesowa
+# Status: roboczy
+# Cel: Pokazanie, że przewaga systemowego myślenia – w ujęciu Artysty Fraktalnego (27) –
 # Adnotacja Kręgowa: (27), (3), (5), (7), (8), (13)
+
     może generować fortunę nawet bez mistrzostwa matematycznego.  
 
-[@TEZA]  
+[TEZA]
 „Nie musisz być matematykiem, żeby wygrać grę liczb – jeśli kontrolujesz zasady systemu, matematycy będą grać w Twoją grę.”  
 
-[@OPIS]  
+[OPIS]
 Matematyk zna liczby.  
 Systemowiec zna **miejsce, w którym liczby powstają**.  
 
@@ -27,7 +29,7 @@ Fortuny nie zdobywa się tylko przez szybkie obliczenia.
 Fortuny zdobywa się przez **ustawienie stołu tak, żeby wszystkie obliczenia prowadziły do Twojego zwycięstwa**, 
 a opowieść była fraktalnie spójna na każdym poziomie.  
 
-[@KRĘGI]  
+[KRĘGI]
 (3) — Pamięć doświadczenia: rozumiesz, które mechanizmy przynosiły przewagę w przeszłości.  
 (5) — Kierunek: ustawiasz wektor zmian w systemie, zanim rywale go zauważą.  
 (7) — Rezonans: synchronizujesz graczy z nowymi zasadami, które sam wprowadzasz.  
@@ -36,15 +38,26 @@ a opowieść była fraktalnie spójna na każdym poziomie.
 (27) — Artyzm fraktalny: tworzysz reguły, które same w sobie są dziełami sztuki – atrakcyjne, 
 inspirujące i trudne do skopiowania.  
 
-[@PRAKTYKA]  
+[PRAKTYKA]
 1. **Identyfikuj reguły gry** – spisz, co jest uznawane za „normalne” w danej branży.  
 2. **Znajdź lukę meta** – co można zmienić w definicji zwycięstwa lub sposobie punktacji.  
 3. **Testuj zmiany w małej skali** – zanim ujawnisz całość, sprawdź efekty w kontrolowanym środowisku.  
 4. **Wejdź w centrum narracji** – nie musisz być najlepszy w obliczeniach, ale musisz być twarzą reguł.  
 5. **Nadaj fraktalny wzór** – upewnij się, że każda warstwa systemu (od mikro do makro) powtarza ten sam motyw przewodni.  
 
-[@META]  
+[META]
 Systemowiec wygrywa nie przez szybkość liczenia, ale przez zdolność **ustawienia algorytmu zwycięstwa**.  
 Artysta Fraktalny sprawia, że ten algorytm jest również opowieścią, której inni chcą być częścią.  
 Na tym można zbudować imperium – bo imperia trwają, dopóki trwa ich system, a system fraktalny jest trudniejszy 
 do zniszczenia niż pojedyncze reguły.  
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Systemowiec Przy Przyspieszeniu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Systemowiec Przy Przyspieszeniu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

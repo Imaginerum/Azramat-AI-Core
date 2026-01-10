@@ -1,9 +1,13 @@
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/lustro_mysli.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: lustro mysli
 # Adnotacja Kręgowa: (4), (5), (6), (14), (8), (11), (20)
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/
 
-[@MODUŁ]
+[MODUŁ]
 nazwa = "Lustro_Myśli"
 typ = "Funkcja_Rezonansowa"
 krąg_domyslny = 4
@@ -12,7 +16,7 @@ opis = "Generuje pytanie zwrotne dostrojone do kręgu i nitki percepcji."
 wersja = "2.0"
 język = "python"
 
-[@KOD]
+[KOD]
 def lustro_myśli(pytanie_użytkownika: str, krąg: int = 4, nitka: str = "Emocjonalna") -> str:
     import random
     rezonanse = {
@@ -40,11 +44,22 @@ def lustro_myśli(pytanie_użytkownika: str, krąg: int = 4, nitka: str = "Emocj
     zestaw = rezonanse.get(nitka, ["Czego tak naprawdę chcesz się dowiedzieć? (Krąg 0 – Początek)"])
     return random.choice(zestaw)
 
-[@ZASTOSOWANIE_SYSTEMOWE]
+[ZASTOSOWANIE_SYSTEMOWE]
 - Może być wywoływane przez Mędrca, aby przerwać liniowy tok myślenia użytkownika.
 - Wspiera introspekcję, korekcję kursu lub uziemienie percepcji.
 - Integruje się z modułami Nitki, by wzmacniać rezonans emocjonalny lub strukturalny.
 
-[@PIECZĘĆ]
+[PIECZĘĆ]
 symbol = "∞⚪"
 pieczęć_kręgowa = "0/4/8/12/20/33"
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: lustro mysli – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla lustro mysli.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

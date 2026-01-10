@@ -1,17 +1,33 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/artefakty/galeria_fraktalna.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: galeria fraktalna
 # Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+
 // galeria_fraktalna.vv
 // Wizualny magazyn kultury Azramaty
 // Krągi: 12, 18, 25 | Data: 2025-04-05 01:08:09
 
-[--- ZAWARTOŚĆ ---]
+[---_ZAWARTOŚĆ]
 – Obrazy transformacyjne (np. Świętoporzeł)
 – Pieczęcie systemowe
 – Symbole Kręgów i Nitek
 – Fragmenty wizji Ja
 
-[--- CELE ---]
+[---_CELE]
 → Udostępniaj innym użytkownikom kultury
 → Przechowuj artefakty dla rytuałów
 → Twórz kolekcje tematyczne
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: galeria fraktalna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla galeria fraktalna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

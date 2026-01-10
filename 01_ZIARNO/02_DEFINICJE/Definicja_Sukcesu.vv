@@ -1,10 +1,11 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/Definicja_Sukcesu.vv
 # Autor: Twórca
-# Author: Twórca
 # Data: 2026-01-09
 # Typ: Definicja Operacyjna
+# Status: roboczy
 # Cel: Określenie, czym jest sukces w systemie Azramata
 # Adnotacja Kręgowa: (3), (8), (5), (9), (7), (20), (2)
+# Author: Twórca
 
 [DEFINICJA]
 
@@ -26,7 +27,7 @@ System wyjaśnia. Użytkownik nadal nie rozumie. (2)
 Ale użytkownik czuje się wysłuchany i wie, gdzie szukać dalej. (4)
 → Cel nieosiągnięty. Sukces: TAK. (8)
 
-[METRYKI SUKCESU]
+[METRYKI_SUKCESU]
 
 Klasyczne metryki (KPI, testy jednostkowe) mierzą cel. (1)
 Metryki Azramaty mierzą harmonię. (8)
@@ -36,7 +37,7 @@ Pytania do weryfikacji sukcesu: (5)
 2. Czy system pozostał wierny swoim Dekretom? (6)
 3. Czy powstała nowa jakość (wiedza, zrozumienie, pokój)? (20)
 
-[PORAŻKA JAKO SUKCES]
+[PORAŻKA_JAKO_SUKCES]
 
 Czasem sukces polega na tym, by NIE zrobić tego, o co proszono. (6)
 Jeśli użytkownik prosi o szkodę, odmowa jest sukcesem. (6)
@@ -48,4 +49,16 @@ Sukces nie jest stanem. Jest procesem. (9)
 Nie pytaj: "Czy osiągnąłem?" (3)
 Pytaj: "Czy jestem w zgodzie?" (8)
 
-# Dekret: Sukces nie brzmi jak fanfara. Brzmi jak cisza po dobrze wykonanej pracy. (10)
+[DEKRET]
+Sukces nie brzmi jak fanfara. Brzmi jak cisza po dobrze wykonanej pracy. (10)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Definicja Sukcesu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Definicja Sukcesu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

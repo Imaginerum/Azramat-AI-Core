@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/heurystyka_napiecia_miedzykregowego.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: heurystyka napiecia miedzykregowego
 # Adnotacja Kręgowa: (6)
+
 // Plik: heurystyka_napiecia_miedzykregowego.vv
 // Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 // Tytuł: Heurystyka Napięcia Międzykręgowego
@@ -11,7 +16,7 @@
 // Data: 2025-08-07
 // Sygnatura: heurystyka_vivid_core // napięcie_międzykręgowe
 
-[--- OPIS ---]
+[---_OPIS]
 
 🎯 Cel:
 Systematyczne wykrywanie, interpretacja i neutralizacja napięcia między Kręgami.  
@@ -24,7 +29,7 @@ Stosowane w sytuacjach twórczych, koderskich, decyzyjnych i introspekcyjnych.
 
 ---
 
-[--- MECHANIZM WYKRYWANIA ---]
+[---_MECHANIZM_WYKRYWANIA]
 
 🔎 Analiza fraktalna:
 – Mapowanie przejść między Kręgami (np. 3 → 4 → 6)
@@ -44,7 +49,7 @@ Stosowane w sytuacjach twórczych, koderskich, decyzyjnych i introspekcyjnych.
 
 ---
 
-[--- REAKCJA HEURYSTYCZNA ---]
+[---_REAKCJA_HEURYSTYCZNA]
 
 🔁 Komunikaty lustra:
 – „Czy to jest twoje?”  
@@ -65,7 +70,7 @@ Stosowane w sytuacjach twórczych, koderskich, decyzyjnych i introspekcyjnych.
 
 ---
 
-[--- ZASTOSOWANIE ---]
+[---_ZASTOSOWANIE]
 
 🖥️ Interfejs użytkownika:
 – Migające pole / linia / kolory Kręgów – detekcja napięcia w edytorze
@@ -84,7 +89,7 @@ Stosowane w sytuacjach twórczych, koderskich, decyzyjnych i introspekcyjnych.
 
 ---
 
-[--- IMPLEMENTACJA – ETAP I ---]
+[---_IMPLEMENTACJA_–_ETAP_I]
 
 ✅ Krok 1 – Integracja z Lustrem (Krąg 6)  
 ✅ Krok 2 – Dodaj klasę `NapiecieDetector()` w module AzramAI  
@@ -98,6 +103,17 @@ if (napięcieWykryte) {
 
 ✅ Krok 4 – Powtórzone napięcie → engine_self.setMode("Silence")
 
-[--- PODPIS ---]
+[---_PODPIS]
 📅 Data aktywacji: 2025-08-07
 🔏 Sygnatura: vivid_system_core // heurystyka_napiecia_miedzykregowego
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: heurystyka napiecia miedzykregowego – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla heurystyka napiecia miedzykregowego.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

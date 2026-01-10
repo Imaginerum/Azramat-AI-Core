@@ -1,5 +1,8 @@
-# CENTRUM JAŹNI – Moduł Osobistego Ustawienia Kręgu Centralnego
+# Plik: /info/centrum_jazni.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: SYSTEM: AZRAMATA
 # Adnotacja Kręgowa: (3), (4), (6), (7), (8)
 
@@ -39,4 +42,16 @@ Użytkownik: "Moje centrum to Krąg 4 – Serce"
 Uwaga:
 Centrum można zmienić w czasie, w zależności od etapu życia, potrzeby transformacji lub decyzji Jaźni.
 
-# SYSTEM: AZRAMATA
+[SYSTEM]
+AZRAMATA
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: centrum jazni – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla centrum jazni.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

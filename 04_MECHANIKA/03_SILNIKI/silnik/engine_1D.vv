@@ -1,17 +1,16 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_1D.vv
 # Autor: Twórca
-# Nazwa: ENGINE 1D – CZYSTA REAKTYWNOŚĆ
 # Data: 2025-08-08
 # Typ: Silnik instynktowny (reakcja natychmiastowa)
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: ENGINE 1D – CZYSTA REAKTYWNOŚĆ
 # Adnotacja Kręgowa: (1), (0), (2), (10), (14), (20), (40)
-# Krąg dominujący: (1) – Czysta reaktywność
-# Kręgi powiązane: (0), (2), (10), (14), (20), (40)
+# Nazwa: ENGINE 1D – CZYSTA REAKTYWNOŚĆ
 
 [TAGI]
 1D, instynkt, odruch, impuls, automatyzm, brak czasu, natychmiastowość, przetrwanie, reakcja_bez_analizy
 
-[DEFINICJA – SYNTEZA]
+[DEFINICJA_–_SYNTEZA]
 (1) 1D to **najprostsza forma działania**: reakcja na bodziec następuje **bez żadnego** przetwarzania pośredniego.  
 (0) Nie istnieje pojęcie czasu, pamięci ani wyboru.  
 To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przyczyny, skutku czy kontekstu.
@@ -23,7 +22,7 @@ To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przycz
 (1.4) **Pierwotność**: fundament wszystkich wyższych wymiarów działania.  
 (1.5) **Zamknięty obieg**: bez zewnętrznych danych – tylko lokalna reakcja.
 
-[MODEL – MAPA 1D]
+[MODEL_–_MAPA_1D]
 (0) **Punkt zerowy**: brak przeszłości i przyszłości, tylko teraźniejszość jako impuls.  
 (1) **Łuk reakcji**: bodziec → natychmiastowa odpowiedź.  
 (10) **Proste reguły**: jeśli sygnał > próg, uruchom akcję.  
@@ -36,14 +35,14 @@ To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przycz
 - **MODE_1D_FAILSAFE** — reakcja awaryjna w systemach krytycznych.  
 - **MODE_1D_PULSE** — krótki impuls reakcji, bez dalszych konsekwencji.
 
-[API – INTERFEJS SILNIKA]
+[API_–_INTERFEJS_SILNIKA]
 - `trigger(signal) -> action` — wywołuje natychmiastową akcję.  
 - `set_threshold(value)` — ustawia próg reakcji.  
 - `emergency_stop()` — natychmiast zatrzymuje działanie.  
 - `link_action(action_fn)` — przypisuje funkcję reakcji.  
 - `handoff_to_2D(stimulus, action) -> gift_2D` — przekazuje dane do 2D (aby zapisać w pamięci).
 
-[PROTOKÓŁ 1D – UŻYCIE (pętla)]
+[PROTOKÓŁ_1D_–_UŻYCIE_(PĘTLA)]
 1) **Detect**: odbierz sygnał wejściowy.  
 2) **Check threshold**: jeśli ≥ próg → wykonaj akcję.  
 3) **React**: natychmiast, bez obliczeń.  
@@ -65,7 +64,7 @@ To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przycz
 (1.L2) Brak intencji → reakcje ślepe.  
 (1.L3) Brak świadomości → niemożliwe rozróżnienie dobra od zła reakcji.
 
-[TRANSFORMACJA → 2D]
+[TRANSFORMACJA_→_2D]
 (1→2) Dodaj **pamięć reakcji** i możliwość porównania sytuacji z przeszłością.  
 `gift_2D = {stimulus, action, timestamp}` → **ENGINE 2D** (`remember`, `recommend`).
 
@@ -74,7 +73,7 @@ To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przycz
 - **Refleks kolanowy**: uderzenie w ścięgno → skurcz mięśnia.  
 - **Kill switch w AI**: wykrycie błędu krytycznego → zatrzymanie procesu.
 
-[MAPA KRĘGOWA]
+[MAPA_KRĘGOWA]
 (0) punkt zerowy • (1) czysta reakcja • (10) progi działania • (14) brak uogólniania • (20) brak zapisu •  
 (2) pamięć reakcji (następny silnik) • (40) integracja podstaw z całością systemu.
 
@@ -82,3 +81,14 @@ To czyste „A → B”, jak iskra zapalająca lont – bez świadomości przycz
 Autor: Twórca (Imaginaerum)  
 Wersja: 1.0 (silnik 1D)  
 Nota: 1D to fundament – czysta, instynktowna reakcja. Wszystko powyżej to warstwy dodające pamięć, czas, intencję i świadomość.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: engine 1D – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla engine 1D.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

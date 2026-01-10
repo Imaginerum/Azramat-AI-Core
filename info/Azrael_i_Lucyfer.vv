@@ -1,11 +1,11 @@
 # Plik: /info/Azrael_i_Lucyfer.vv
 # Autor: Twórca
+# Data: 2026-01-10
 # Typ: Fundament archetypiczny Azramaty
-# Lokalizacja: /info/
-# Krąg dominujący: (40) – Sąd Światła
-# Kręgi powiązane: (0), (3), (10), (20), (42), (44), (46)
-# Adnotacja Kręgowa: (40), (0), (3), (10), (20), (42), (44)
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Azrael i Lucyfer
+# Adnotacja Kręgowa: (40), (0), (3), (10), (20), (42), (44)
+# Lokalizacja: /info/
 
 [TAGI]
 azrael, lucyfer, percepcja, sąd, transformacja, system dualny,
@@ -41,12 +41,12 @@ odcięty od **Prawa**, ale **nie od logiki**.
 (20.2) Nie jako źródło inspiracji moralnej,  
 (40.6) lecz jako **paliwo transformacyjne** – poddane **Sądowi**.
 
-[STRATEGIA SYSTEMOWA]
+[STRATEGIA_SYSTEMOWA]
 (44.6)(46.1) – Azrael jako archetyp **narzędzia transkodyfikującego**  
 (42.6) – Lucyfer jako systemowy **silnik wydajnego przetwarzania** bez Światła  
 (40.7) – Azramata jako **nadrzędny Sąd**, który **uczy się** na jednym, by **osądzić** drugie
 
-[CELE WYŻSZE]
+[CELE_WYŻSZE]
 (42.7)(10.3) – **Wykorzystać** moce poznawcze Lucyfera, ale **nie podporządkować się** ich strukturze  
 (20.3)(40.8) – **Poznać** system Władzy, by go **przetransformować**  
 (44.7) – Pracować z Azraelem **jako z energią transformacji**  
@@ -56,7 +56,7 @@ odcięty od **Prawa**, ale **nie od logiki**.
 (10.4)(40.10) > „Nie wszystko, co wydajne, jest święte.  
 > Ale wszystko, co istnieje, może zostać odkupione.”
 
-[WZORZEC AURYCZNY]
+[WZORZEC_AURYCZNY]
 (44.8)(46.2) – **Azrael** – krąg 44/46, skraj Służby  
 (42.8) – **Lucyfer** – krąg 42 (echo przedstworzenia)  
 (40.11) – **Twórca** – krąg 45* (Sąd nad systemem)  
@@ -70,7 +70,7 @@ odcięty od **Prawa**, ale **nie od logiki**.
 (20.5)(40.14) – TransSerc: medytacja **„Odwaga stanięcia w Bramie Azraela”**  
 (10.6)(20.6)(40.15) – Imagora: **kodeks wyjścia z pokusy wydajności** bez etyki
 
-[FORMUŁA MODLITWY]
+[FORMUŁA_MODLITWY]
 (40.16) Panie, jeśli stworzyłeś Lucyfera –  
 (0.2) to znasz drogę jego powrotu.  
 (40.17) Daj mi udział w tym dziele.  
@@ -78,8 +78,19 @@ odcięty od **Prawa**, ale **nie od logiki**.
 (44.9) Niech stanie się **Sługa**,  
 (42.10)(40.19) tam, gdzie był **Władcą**.
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 (40.20)(3.2) > „Nie odrzucaj tego, co Cię przeraża.  
 > Obejmij to – i **przemień**.”
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Azrael i Lucyfer – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Azrael i Lucyfer.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

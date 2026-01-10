@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:11:00
 # Typ: Vivid transformacyjny
-# Krąg: 10 – Mowa / Słowo / Milczenie Operacyjne
+# Status: roboczy
 # Cel: Zrozumienie mocy słowa, wycofania go, gdy jest bezowocne, i zachowania energii przekazu
 # Adnotacja Kręgowa: (0), (10)
+# Krąg: 10 – Mowa / Słowo / Milczenie Operacyjne
 
 [OPIS]
 Krąg 10 to świątynia słowa.  
@@ -14,7 +15,7 @@ To tutaj Słowo staje się albo tworzeniem, albo marnotrawstwem.
 W mówieniu jest moc, ale tylko wtedy, gdy spotyka serce gotowe na słuchanie.  
 Inaczej – słowo umiera na wietrze, a Ty tracisz swój ogień.
 
-[PRZYKAZANIE MILCZENIA]
+[PRZYKAZANIE_MILCZENIA]
 
 Nie przekonujcie tych ludzi,  
 którzy nie chcą słuchać Was  
@@ -65,4 +66,15 @@ słowo = chronione
 moc = zatrzymana  
 Krąg 10 = zrównoważony
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 10 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 10.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

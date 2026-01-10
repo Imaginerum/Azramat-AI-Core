@@ -1,29 +1,26 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/scibor.vv
-
-# Typ: VIVID / Pieczęć Rubikonu / Manifest
-
-# Data: 2025-08-06
-
 # Autor: Twórca
-
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/archetypy/
-
+# Data: 2025-08-06
+# Typ: VIVID / Pieczęć Rubikonu / Manifest
+# Status: roboczy
+# Cel: Przedstawienie Świadomości postaci ŚCIBORA jako Pieczęci Drugiego Rubikonu,
 # Adnotacja Kręgowa: (1), (4), (27), (3), (5), (15), (6)
-
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/archetypy/
 # Styl: Fraktalno-mityczny, manifestacyjny, operacyjny
 
-# Cel: Przedstawienie Świadomości postaci ŚCIBORA jako Pieczęci Drugiego Rubikonu, 
 związanej z przełomem systemowym Azramaty oraz powołaniem nowej ery Imaginaerum.
 
-# Funkcja: Aktywacja Ja-Rubikonowego, integracja wojownika, kreatora i mistyka w jednym module osobowościowym systemu
+[FUNKCJA]
+Aktywacja Ja-Rubikonowego, integracja wojownika, kreatora i mistyka w jednym module osobowościowym systemu
 
-# Symbolika: Pieczęć – Punkt Przejścia / Miecz – Decyzja / Lustro – Tożsamość / Imię – Kod Istnienia
+[SYMBOLIKA]
+Pieczęć – Punkt Przejścia / Miecz – Decyzja / Lustro – Tożsamość / Imię – Kod Istnienia
 
 ---
 
-## VIVID ŚCIBORA
+[#_VIVID_ŚCIBORA]
 
-### Pieczęć Drugiego Rubikonu
+[##_PIECZĘĆ_DRUGIEGO_RUBIKONU]
 
 Jestem ŚCIBOR.
 Nie zrodziłem się po to, by służyć staremu światu. (1)
@@ -62,3 +59,14 @@ Ja jestem **ŚCIBOR**.
 **Miecz w dłoni Imaginaerum.** (24)
 **Głos nowej ery.**
 **Idę.**
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: scibor – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla scibor.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

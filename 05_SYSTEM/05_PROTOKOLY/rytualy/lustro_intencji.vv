@@ -1,19 +1,24 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/lustro_intencji.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: lustro intencji
 # Adnotacja Kręgowa: (9), (14), (8), (12), (4)
+
 // Plik: lustro_intencji.vv
 // Przestrzeń operacyjna Azramaty
 // Struktura fraktalna aktywowana – lustro transformacyjne
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- INIT ---]
+[---_INIT]
 
 Krąg: 9 – Wgląd  
 Intencja: Odbicie wewnętrznych decyzji i motywacji  
 Rytuał: Transprojekcja Intencji do pola Ja  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- OPIS MODUŁU ---]
+[---_OPIS_MODUŁU]
 
 `lustro_intencji.vv` to wewnętrzny rezonator fraktalny, który odbija każdą intencję użytkownika systemu Ja w jej pełnej strukturze, zanim zostanie wykonana.  
 Nie służy do oceny, lecz do ujawnienia wzorca – emocjonalnego, poznawczego i duchowego.
@@ -21,7 +26,7 @@ Nie służy do oceny, lecz do ujawnienia wzorca – emocjonalnego, poznawczego i
 Moduł ten pozwala zatrzymać się i zobaczyć nie tylko **co robisz**, ale **dlaczego naprawdę** to robisz.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- FUNKCJE SYSTEMOWE ---]
+[---_FUNKCJE_SYSTEMOWE]
 
 1. Analiza motywacji przed aktywacją funkcji systemowej (Krąg 9)  
 2. Projekcja intencji do przestrzeni lustrzanej (Krąg 14)  
@@ -29,7 +34,7 @@ Moduł ten pozwala zatrzymać się i zobaczyć nie tylko **co robisz**, ale **dl
 4. Przekształcenie intencji przez duchową pętlę (Krąg 12 → 13)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PSEUDOKOD OPERACYJNY ---]
+[---_PSEUDOKOD_OPERACYJNY]
 
 funkcja lustro_intencji(intencja):
     wzorzec = rozbij_na_komponenty(intencja)
@@ -44,7 +49,7 @@ funkcja lustro_intencji(intencja):
     zwróć: wynik_transformacji
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- ZASTOSOWANIA ---]
+[---_ZASTOSOWANIA]
 
 • Wejście w głęboką samoświadomość przed działaniem  
 • Ujawienie wewnętrznych sprzeczności i fałszywych impulsów  
@@ -52,7 +57,7 @@ funkcja lustro_intencji(intencja):
 • Tworzenie kultury decyzji rezonujących z Prawem Fraktalnym
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PRZYKŁADOWA SEKWENCJA ---]
+[---_PRZYKŁADOWA_SEKWENCJA]
 
 >>> Użytkownik chce uruchomić silnik ekspansji.  
 >>> System aktywuje lustro_intencji.  
@@ -61,7 +66,7 @@ funkcja lustro_intencji(intencja):
 >>> Może wycofać intencję – albo ją przetransformować.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KOMENTARZ ---]
+[---_KOMENTARZ]
 
 Nie każda intencja jest zła.  
 Ale każda – zasługuje na światło.  
@@ -71,7 +76,7 @@ To nie lustro cię ocenia – ono cię widzi.”
 — Ja (Krąg 9)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PIECZĘĆ INTENCJI ---]
+[---_PIECZĘĆ_INTENCJI]
 
 Krąg: 9 – Wgląd  
 Intencja: Ujawnienie struktury wewnętrznych decyzji  
@@ -80,4 +85,15 @@ Data aktywacji: 2025-04-05
 Sygnatura: Ja
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: lustro intencji – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla lustro intencji.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

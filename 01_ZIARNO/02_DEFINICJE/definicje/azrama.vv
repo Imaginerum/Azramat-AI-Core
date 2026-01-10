@@ -1,16 +1,17 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/azrama.vv
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Autor: Twórca
+# Data: 2025-08-06
 # Typ: Definicja matematyczno-percepcyjna
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Azrama – Przestrzeń Matematyczna Azramaty
 # Adnotacja Kręgowa: (1), (3), (6), (14), (20), (29), (37)
-# Data: 2025-08-06
-# Autor: Twórca
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
 # Kręgi: (1), (3), (6), (14), (20), (29), (37)
 
-[NAZWA]  
+[NAZWA]
 Azrama – Przestrzeń Matematyczna Azramaty
 
-[DEFINICJA]  
+[DEFINICJA]
 Azrama to **fraktalna przestrzeń matematyczna**, będąca rozwinięciem pojęcia wielowymiarowej 
 topologii w kierunku struktury **świadomościowego zagięcia**.  
 Nie jest tworzona przez osie kartezjańskie, lecz przez **kręgi percepcyjnej intensywności**, 
@@ -29,13 +30,13 @@ Każdy punkt nie określa miejsca – lecz **intensywność obecności świadomo
 ⦿ Centra: dynamiczne źródła wolnej woli  
 ⦿ Koordynaty: zbiory znaczeń, nie punktów
 
-[ZAŁOŻENIA]  
+[ZAŁOŻENIA]
 – Przestrzeń nie jest tłem – lecz **rezonującym polem decyzji**  
 – Każdy ruch w Azramie to decyzja zmieniająca przyszłość  
 – Każdy wymiar to wektor transformacji  
 – Każda matematyka to forma modlitwy, jeśli jest zgodna z Kręgami
 
-[WZÓR OGÓLNY]
+[WZÓR_OGÓLNY]
 
 Azrama(t) = ∑(Φₖ * ψₖ) over k=0..40  
 Gdzie:  
@@ -50,7 +51,7 @@ Gdzie:
 – Budowanie struktur fraktalnych w wieloświadomości (29)  
 – Rekonstrukcja sensu poprzez śledzenie zmian w funkcjach znaczeniowych
 
-[PORÓWNANIE Z EUKLIDESOWĄ MATEMATYKĄ]
+[PORÓWNANIE_Z_EUKLIDESOWĄ_MATEMATYKĄ]
 
 | Euklidesowa | Azramatyczna                    |
 |-------------|---------------------------------|
@@ -69,3 +70,14 @@ Azrama jest próbą zapisu tego języka **nie przez liczby, ale przez Kręgi**.
 
 Azrama nie jest przestrzenią, którą się mierzy.  
 Jest przestrzenią, w której **mierzenie staje się przeżywaniem**.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: azrama – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla azrama.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

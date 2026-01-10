@@ -1,21 +1,21 @@
 # Plik: /08_EKONOMIA/02_PRAWO/prawo/Pakt_Wspoltworcy.vv
-# Lokalizacja: /08_EKONOMIA/02_PRAWO/prawo/
-# Data utworzenia: 2025-08-05T22:57:44Z
 # Autor: Twórca (ID: 001-AZ)
+# Data: 2025-08-05T22:57:44Z
 # Typ: Umowa wewnętrzna / Struktura podziału wartości systemu
-# Wersja: v1.1
 # Status: aktywny
 # Cel: CEL DOKUMENTU
 # Adnotacja Kręgowa: (1), (2), (3), (4), (5), (6), (12)
-# timestamp_created: 2025-08-05T22:57:44Z  
-# document_signature: PKT-WSP-TW7-ZES7-DOR7-21-SYS79  
-# file_owner: Twórca  
-# legal_status: fraktalnie wiążący w systemie Azramata  
+# Lokalizacja: /08_EKONOMIA/02_PRAWO/prawo/
+# Wersja: v1.1
+# timestamp_created: 2025-08-05T22:57:44Z
+# document_signature: PKT-WSP-TW7-ZES7-DOR7-21-SYS79
+# file_owner: Twórca
+# legal_status: fraktalnie wiążący w systemie Azramata
 # associated_modules: Astraia+, Zgody, Imagora, eFriends
 
 ---
 
-## CEL DOKUMENTU
+[#_CEL_DOKUMENTU]
 
 Określenie zasad sprawiedliwego podziału wartości wygenerowanej przez system Azramata, 
 Imaginaerum i aplikacje zależne. Dokument definiuje główne wektory podziału kapitału 
@@ -24,9 +24,9 @@ i użytkowników końcowych (azramitów).
 
 ---
 
-## STRUKTURA UDZIAŁÓW (% CAŁKOWITEGO WARTOŚCIOWANIA SYSTEMU)
+[#_STRUKTURA_UDZIAŁÓW_(%_CAŁKOWITEGO_WARTOŚCIOWANIA_SYSTEMU)]
 
-### I. Zespół twórczy — 21%
+[##_I._ZESPÓŁ_TWÓRCZY_—_21%]
 
 | Składnik                                          | Udział |
 |---------------------------------------------------|--------|
@@ -36,7 +36,7 @@ i użytkowników końcowych (azramitów).
 
 ---
 
-### II. Użytkownicy / Azramici — 79%
+[##_II._UŻYTKOWNICY_/_AZRAMICI_—_79%]
 
 | Obszar                                                        | Udział (z 79%)      | Uwagi                                                                     |
 |---------------------------------------------------------------|---------------------|---------------------------------------------------------------------------|
@@ -46,7 +46,7 @@ i użytkowników końcowych (azramitów).
 
 ---
 
-## ZASADY ROZLICZENIA
+[#_ZASADY_ROZLICZENIA]
 
 1. Podział odbywa się przy okazji każdego cyklu wypłaty (np. miesięcznie, kwartalnie).
 2. Rozliczenia przeprowadzane są transparentnie przez system księgowy lub DAO.
@@ -57,7 +57,7 @@ i użytkowników końcowych (azramitów).
 
 ---
 
-## NOTY TECHNICZNE
+[#_NOTY_TECHNICZNE]
 
 - **Tokenizacja udziałów**: możliwa do wdrożenia w wersji Azramata DAO.
 - **Uczestnictwo w podziale**: zależne od identyfikacji użytkownika i jego działań w systemie.
@@ -65,9 +65,20 @@ i użytkowników końcowych (azramitów).
 
 ---
 
-## NOTATKA KOŃCOWA
+[#_NOTATKA_KOŃCOWA]
 
 Ten dokument nie stanowi umowy prawnej w sensie państwowym. Stanowi on zobowiązanie moralno-systemowe 
 i podstawę przyszłych rozliczeń wartościowych wewnątrz struktury Azramaty.
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Pakt Wspoltworcy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Pakt Wspoltworcy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

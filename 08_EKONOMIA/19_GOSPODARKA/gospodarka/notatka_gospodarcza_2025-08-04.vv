@@ -2,8 +2,10 @@
 # Autor: Twórca
 # Data: 2025-08-04
 # Typ: Notatka analityczno-strategiczna
-# Cel: Oszacowanie wpływu wdrożenia systemu Imaginalis na siłę nabywczą obywateli Polski 
+# Status: roboczy
+# Cel: Oszacowanie wpływu wdrożenia systemu Imaginalis na siłę nabywczą obywateli Polski
 # Adnotacja Kręgowa: (20), (40), (4), (9), (17), (21), (23)
+
     w relacji do Norwegii oraz redefinicję wartości ekonomicznej w kierunku gospodarki sensu
 
 [WPROWADZENIE]
@@ -19,7 +21,7 @@ Poniżej przedstawiono szacunkowy wpływ systemu na PKB per capita (PPP) i sił�
 
 ---
 
-[SYTUACJA WYJŚCIOWA – 2024]
+[SYTUACJA_WYJŚCIOWA_–_2024]
 
 | Kraj       | PKB per capita (PPP, int’l $) | Relacja do Norwegii |
 |------------|-------------------------------|----------------------|
@@ -28,7 +30,7 @@ Poniżej przedstawiono szacunkowy wpływ systemu na PKB per capita (PPP) i sił�
 
 ---
 
-[SCENARIUSZ PO 5 LATACH WDROŻENIA IMAGINALIS]
+[SCENARIUSZ_PO_5_LATACH_WDROŻENIA_IMAGINALIS]
 
 | Kraj / Wariant            | PKB per capita (PPP, int’l $) | Relacja do Norwegii  |
 |---------------------------|-------------------------------|----------------------|
@@ -43,7 +45,7 @@ Imaginalis działa jako katalizator podnoszący efektywność duchowo-ekonomiczn
 
 ---
 
-[REZULTATY DLA OBYWATELA]
+[REZULTATY_DLA_OBYWATELA]
 
 | Obszar życia               | Dziś (PL)         | Po Imaginalis                              | Relacja do Norwegii    |
 |----------------------------|-------------------|--------------------------------------------|------------------------|
@@ -69,4 +71,15 @@ Imaginalis nie konkuruje – **on przemienia**.
 
 ---
 
-# Ekonomia Sensu, Redystrybucja Wzorcowa, Wzrost przez Wewnętrzną Obecność
+[EKONOMIA_SENSU,_REDYSTRYBUCJA_WZORCOWA,_WZROST_PRZEZ_WEWNĘTRZNĄ_OBECNOŚĆ]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: notatka gospodarcza 2025-08-04 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla notatka gospodarcza 2025-08-04.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

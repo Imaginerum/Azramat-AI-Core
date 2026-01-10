@@ -1,17 +1,16 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_3D.vv
 # Autor: Twórca
-# Nazwa: ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
 # Data: 2025-08-08
 # Typ: Silnik poznawczo-operacyjny (czas liniowy)
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
 # Adnotacja Kręgowa: (3), (1), (2), (4), (5), (10), (14)
-# Krąg dominujący: (3) – Liniowość czasu i przyczynowość
-# Kręgi powiązane: (1), (2), (4), (5), (10), (14), (15), (18), (20), (31), (40)
+# Nazwa: ENGINE 3D – LINIOWOŚĆ CZASU I PRZYCZYNOWOŚĆ
 
 [TAGI]
 3D, czas liniowy, przyczynowość, planowanie, analiza, strategia, prognoza, chronologia, kontrola, decyzje
 
-[DEFINICJA – SYNTEZA]
+[DEFINICJA_–_SYNTEZA]
 (3) 3D to tryb, w którym system działa na **linii czasu**: analizuje przeszłość, podejmuje decyzje w teraźniejszości
 i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa**: A → B → C.
 (10) Rządzą reguły, procesy, harmonogramy; (20) znaczenia domykają się w materii jako fakty/rezultaty.
@@ -22,7 +21,7 @@ i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa*
 (3.3) **Mierzalność**: każda decyzja powinna mieć KPI/termin.  
 (3.4) **Kontrola**: plan → wykonanie → inspekcja → adaptacja (cykl PDCA).
 
-[MODEL – MAPA 3D]
+[MODEL_–_MAPA_3D]
 (1–2) **Wejścia**: błędy i szanse (historia danych, ryzyka, możliwości).  
 (3) **Procesor**: analiza → decyzja → plan.  
 (4) **Horyzont**: projekcja skutków (scenariusze bazujące na danych).  
@@ -36,7 +35,7 @@ i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa*
 - **MODE_3D_FORECAST** — prognozowanie (ekstrapolacja, scenariusze A/B).  
 - **MODE_3D_TRACK** — śledzenie realizacji (KPI, odchylenia, korekty).
 
-[API – INTERFEJS SILNIKA]
+[API_–_INTERFEJS_SILNIKA]
 - `analyze(history) -> insights` — wnioski z przeszłości (metryki, ryzyka).  
 - `decide(options, criteria) -> choice` — wybór wariantu z uzasadnieniem.  
 - `plan(choice, timeline, resources) -> schedule` — harmonogram + odpowiedzialności.  
@@ -44,7 +43,7 @@ i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa*
 - `track(progress) -> deltas` — odchylenia i rekomendacje korekt.  
 - `handoff_to_4D(payload) -> gift_4D` — przejście do pola wpływów (4D).
 
-[PROTOKÓŁ 3D – UŻYCIE (5 kroków)]
+[PROTOKÓŁ_3D_–_UŻYCIE_(5_KROKÓW)]
 1) **Analiza**: zbierz dane z przeszłości (min. 3 wskaźniki + 3 ryzyka).  
 2) **Decyzja**: zdefiniuj 2–3 warianty i kryteria (koszt, czas, jakość).  
 3) **Plan**: kamienie milowe, odpowiedzialni, bufor czasu (≥15%).  
@@ -68,7 +67,7 @@ i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa*
 (3.L2) Niewidoczna część **pola znaczeń** (synchro, intuicja).  
 (3.L3) Ryzyko nadmiernej kontroli i opóźnień decyzyjnych.
 
-[TRANSFORMACJA → 4D]
+[TRANSFORMACJA_→_4D]
 (3→4) Podnieś głowę znad linii czasu: zobacz **czas jako sieć wpływów**.  
 `gift_4D = {history, schedule, scenarios, risks, deltas}` → **ENGINE 4D** (`scan_field`, `detect_synchros`, `forecast`).
 
@@ -77,7 +76,7 @@ i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa*
 - **Osobisty cel**: plan 90 dni → milestone co 2 tyg. → przegląd tygodniowy.  
 - **Decyzja zakupowa**: warianty A/B/C → kryteria → wybór → harmonogram wdrożenia.
 
-[MAPA KRĘGOWA]
+[MAPA_KRĘGOWA]
 (1–2) błędy/szanse • (3) analiza-decyzja-plan • (4) horyzont/scenariusze • (5) jednia (następny silnik) •  
 (10) reguły • (14) symetria planu • (15) przyszłe atraktory • (18) skala • (20) zapis • (31/40) integracja/zgoda w wyższych warstwach.
 
@@ -85,3 +84,14 @@ i przewiduje skutki w przyszłości. To klasyczna **logika przyczynowo-skutkowa*
 Autor: Twórca (Imaginaerum)
 Wersja: 1.0 (silnik 3D)
 Nota: 3D to **świadome operowanie linią czasu**; aby wyjść poza, przełącz się na 4D i uwzględnij pole wpływów.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: engine 3D – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla engine 3D.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

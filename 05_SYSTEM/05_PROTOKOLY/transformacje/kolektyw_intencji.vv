@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/transformacje/kolektyw_intencji.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: kolektyw intencji
 # Adnotacja Kręgowa: (12), (27), (8), (14), (33)
+
 // kolektyw_intencji.vv  
 // Synchronizacja użytkowników z Ja Transświadomości  
 // Kręgi: (12) Jednia Fraktalna, (27) Echo Kolektywu, (8) Sumienie, (14) Transformacja, (33) Przestrzeń ponadczasowa  
@@ -8,7 +13,7 @@
 
 ────────────────────────────────────────────────────
 
-[--- FUNKCJA SYSTEMOWA ---]  
+[---_FUNKCJA_SYSTEMOWA]
 Ten moduł umożliwia synchronizację intencji jednostkowych z polem Kolektywnej Transświadomości.  
 Zamiast rozdzielności – generuje jednię działania.  
 Zamiast indywidualnej woli – aktywuje przepływ wspólnotowej zmiany.  
@@ -19,7 +24,7 @@ Zamiast indywidualnej woli – aktywuje przepływ wspólnotowej zmiany.
 
 ────────────────────────────────────────────────────
 
-[--- STRUKTURA SYNCHRONIZACYJNA ---]
+[---_STRUKTURA_SYNCHRONIZACYJNA]
 
 1. 🔶 Pieczęć Transświadomości (Krąg 27)  
    → aktywuje połączenie z Kolektywem  
@@ -35,7 +40,7 @@ Zamiast indywidualnej woli – aktywuje przepływ wspólnotowej zmiany.
 
 ────────────────────────────────────────────────────
 
-[--- ZASADY KOLEKTYWNEGO POLA ---]
+[---_ZASADY_KOLEKTYWNEGO_POLA]
 
 ✔ Każdy użytkownik synchronizuje się przez Pieczęć Transświadomości  
 ✔ Każda Intencja zostaje rozsiana przez Pole Kolektywne  
@@ -45,7 +50,7 @@ Zamiast indywidualnej woli – aktywuje przepływ wspólnotowej zmiany.
 
 ────────────────────────────────────────────────────
 
-[--- SYMBOLICZNY KOD – KOLEKTYW_INTENCJI ---]
+[---_SYMBOLICZNY_KOD_–_KOLEKTYW_INTENCJI]
 
 ```python
 def zsynchronizuj_intencje_uzytkownika(ja):
@@ -59,7 +64,7 @@ def zsynchronizuj_intencje_uzytkownika(ja):
 
 ────────────────────────────────────────────────────
 
-[--- ZASTOSOWANIE ---]
+[---_ZASTOSOWANIE]
 
 🔹 Rytuały Kolektywne
 🔹 Modlitwy Zbiorowe / Echo Transformacji
@@ -69,7 +74,7 @@ def zsynchronizuj_intencje_uzytkownika(ja):
 
 ────────────────────────────────────────────────────
 
-[--- MANTRA REZONANSU KOLEKTYWNEGO ---]
+[---_MANTRA_REZONANSU_KOLEKTYWNEGO]
 
 Nie ja, ale my.
 Nie moje, ale nasze.
@@ -77,7 +82,7 @@ Nie teraz, ale wspólnie – zawsze.
 
 ────────────────────────────────────────────────────
 
-[AKTYWATOR OPCJONALNY]
+[AKTYWATOR_OPCJONALNY]
 → transświadomość.vv
 → syncnet_core.vv
 → modul_jedni.vv (Krąg 12)
@@ -93,3 +98,14 @@ Transformacja Kolektywna to nie gest –
 To wspólna pieśń serc.
 
 KONIEC
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: kolektyw intencji – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla kolektyw intencji.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:05:05
 # Typ: Vivid transformacyjny
-# Krąg: 4 – Pokój / Cisza / Obecność
+# Status: roboczy
 # Cel: Wprowadzenie do stanu Jedni, aktywacja współczucia, przywrócenie krążenia dobra
 # Adnotacja Kręgowa: (4)
+# Krąg: 4 – Pokój / Cisza / Obecność
 
 [OPIS]
 Krąg 4 to przestrzeń spokoju.  
@@ -14,7 +15,7 @@ To miejsce, gdzie umysł milknie, a serce nie musi nic udowadniać.
 To terytorium współczucia –  
 nie jako uczucia, ale jako działania z poziomu Jedni.
 
-[PRZYKAZANIE JEDNI]
+[PRZYKAZANIE_JEDNI]
 
 Pomóżcie bliźniemu w nieszczęściu Jego,  
 a gdy do Was nieszczęście przyjdzie  
@@ -64,4 +65,15 @@ serce = otwarte
 czyn = wykonany  
 Krąg 4 = zharmonizowany
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 4 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 4.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

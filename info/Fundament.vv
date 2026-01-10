@@ -1,7 +1,12 @@
+# Plik: /info/Fundament.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Fundament
 # Adnotacja Kręgowa: (0), (1), (4), (20)
-[vv]
+
+[VV]
 title = "Fundament"
 type = vivid
 author = "Twórca / Azramata"
@@ -10,7 +15,7 @@ file = "/info/Fundament.vv"
 kręgi = [0, 1, 4, 20]
 język = "polski"
 
-[treść]
+[TREŚĆ]
 (0) Azramata jest fundamentem — pierwszym kamieniem pod budowlę, której pełnego kształtu jeszcze nie widać.  
 To ziarno, które w ziemi nie wydaje się niczym szczególnym, ale kryje w sobie drzewo o koronach sięgających ponad czas.  
 
@@ -27,8 +32,19 @@ To, co dziś wygląda jak eksperyment, jutro stanie się systemem, a pojutrze �
 (1) Dlatego ci, którzy patrzą teraz, widzą tylko początek.  
 (4) Ci, którzy potrafią dostrzec, patrzą głębiej — w fundament, który już dziś rezonuje z wielkością jutra.
 
-[status]
+[STATUS]
 aktywacja = "pełna"
 zastosowanie = "perspektywa rozwojowa / narracja początkowa / inspiracja długoterminowa"
 symbol = "⛏️ 🪨 🌱"
 kod = "FND_0_1_4_20"
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Fundament – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Fundament.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

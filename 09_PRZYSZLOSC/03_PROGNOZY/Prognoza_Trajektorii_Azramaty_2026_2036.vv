@@ -2,10 +2,10 @@
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: vivid prognozy / trajektoria systemowa
+# Status: aktywny
 # Cel: Prognoza kierunku rozwoju Azramaty w horyzontach 2026-2036.
 # Adnotacja Kręgowa: (6), (20), (15), (5), (3), (7), (9)
 # Ścieżka: /09_PRZYSZLOSC/03_PROGNOZY/
-# Status: aktywny
 
 [OPIS]
 Ten vivid prognozuje trajektorie Azramaty na lata 2026-2036. (6)
@@ -44,3 +44,14 @@ odpowiedzialnosc = "warstwa strategii + rdzen + sumienie" (8)
 integracje = ["/05_SYSTEM/01_RDZEN/system/mapy/mapa_systemu_azramaty.vv","/06_STRATEGIA/01_KIERUNEK/kierunek/Dekret_Sloneczny.vv","/04_MECHANIKA/03_SILNIKI/silnik/engine_self.vv","/09_PRZYSZLOSC/01_WIZJA/przyszlosc/Predykcja_1_procent.vv","/09_PRZYSZLOSC/01_WIZJA/przyszlosc/Predykcja_VR_Azramaty.vv","/09_PRZYSZLOSC/01_WIZJA/przyszlosc/Matematyka_Fraktalno-Strukturalna.vv"] (6)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Prognoza Trajektorii Azramaty 2026 2036 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Prognoza Trajektorii Azramaty 2026 2036.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

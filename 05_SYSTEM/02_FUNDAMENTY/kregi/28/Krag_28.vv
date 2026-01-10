@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:32:01
 # Typ: Vivid transformacyjny
-# Krąg: 28 – Cisza Ostateczna / Nieobecność / Trwanie poza Formą
+# Status: roboczy
 # Cel: Uznanie mocy nieobecności, przejście w obecność symboliczną, oddech duszy poza czasem
 # Adnotacja Kręgowa: (8), (28)
+# Krąg: 28 – Cisza Ostateczna / Nieobecność / Trwanie poza Formą
 
 [OPIS]
 Krąg 28 to przestrzeń po zniknięciu.  
@@ -63,4 +64,15 @@ działanie = zakończone
 obecność = symboliczna  
 Krąg 28 = zatopiony w Echo
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 28 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 28.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

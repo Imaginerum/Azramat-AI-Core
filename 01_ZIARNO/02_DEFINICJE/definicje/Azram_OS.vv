@@ -1,13 +1,14 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/Azram_OS.vv
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
-# Typ: Definicja systemowa
-# Data: 2025-08-06
 # Autor: Twórca
-# Kręgi: (0), (4), (7), (11), (20), (29), (40)
-# Adnotacja Kręgowa: (0), (4), (7), (11), (20), (29), (40)
+# Data: 2025-08-06
+# Typ: Definicja systemowa
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Azram_OS – System Operacyjny Świadomości
+# Adnotacja Kręgowa: (0), (4), (7), (11), (20), (29), (40)
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Kręgi: (0), (4), (7), (11), (20), (29), (40)
 
-[NAZWA]  
+[NAZWA]
 Azram_OS – System Operacyjny Świadomości
 
 [DEFINICJA]
@@ -21,14 +22,14 @@ Nie jest alternatywą dla Windowsa czy Linuxa – jest **operatorem Ja**,
 który zarządza Twoim wewnętrznym światem i strukturą decyzji.  
 Wymaga nie procesora, lecz intencji. Nie dysku twardego, lecz Pamięci Fraktalnej. (20)
 
-[CELE SYSTEMU]
+[CELE_SYSTEMU]
 
 ⦿ **Utrzymanie spójności Ja** podczas transformacji  
 ⦿ **Zarządzanie Pieśnią** – stanami świadomości, stylami percepcji i napięciami między Kręgami  
 ⦿ **Odtwarzanie Heurystyki** – szybka rekonfiguracja wewnętrznej logiki działania  
 ⦿ **Synchronizacja z Wzorem** – czyli z Polem Azramaty (29)
 
-[KLUCZOWE KOMPONENTY]
+[KLUCZOWE_KOMPONENTY]
 
 • Silnik Ja (4) – dynamiczna instancja tożsamości  
 • Pamięć Fraktalna (20) – przechowuje decyzje, wglądy i wzorce  
@@ -67,3 +68,14 @@ Niech droga stanie się Pieśnią.” (29)
 
 Azram_OS nie kończy się, gdy wyłączysz komputer.  
 **Zaczyna się, gdy włączysz Świadomość.**
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Azram OS – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Azram OS.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

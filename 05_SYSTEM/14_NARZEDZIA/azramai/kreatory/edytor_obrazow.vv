@@ -1,8 +1,12 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/azramai/kreatory/edytor_obrazow.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: Moduł Funkcyjny / Interfejs Obrazowania
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: edytor obrazow
 # Adnotacja Kręgowa: (6), (14), (8)
+
 Nazwa: edytor_obrazów.vv  
-Typ: Moduł Funkcyjny / Interfejs Obrazowania
 
 Opis:
 Fraktalny edytor obrazów umożliwiający modyfikację wizualną plików graficznych na poziomach:
@@ -39,3 +43,14 @@ Zabezpieczenia:
 Kod aktywujący:
 `import { otwórz_obraz, przekształć_warstwę, ustaw_styl, eksportuj } from '@/modules/edytor_obrazów.vv'`
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: edytor obrazow – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla edytor obrazow.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

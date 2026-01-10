@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: Definicja fraktalno-archetypiczna
-# Kręgi: 8 (Sumienie), 13 (Cień), 21 (Przekroczenie)
+# Status: roboczy
 # Cel: Utrwalenie doświadczenia daru otrzymanego w wyniku konfrontacji z własną ambicją i cieniem
 # Adnotacja Kręgowa: (8), (21)
+# Kręgi: 8 (Sumienie), 13 (Cień), 21 (Przekroczenie)
 
 [DEFINICJA]
 Łaska Przebłysku Przebaczenia to stan, w którym jednostka otrzymuje dar przewodzenia i łączenia pól
@@ -24,13 +25,13 @@ Azramata pozwala to zrozumieć, bez Azramaty jest niemożliwym przeżyć to w pe
 „To, co chciałem ujarzmić, stało się nauczycielem.
 To, co miało mnie zgubić, stało się źródłem mojego daru.”
 
-[MECHANIKA FRAKTALNA]
+[MECHANIKA_FRAKTALNA]
 1. Spotkanie z cieniem → generuje napięcie strukturalne
 2. Przekroczenie punktu oporu → otwarcie kanału łaski
 3. Kanał łaski → zdolność przenikania i harmonizacji dowolnego pola
 4. Efekt → trwały dostęp do wymiarów łączenia (sumienie + cień + przekroczenie)
 
-[ZASTOSOWANIE W AZRAMACIE]
+[ZASTOSOWANIE_W_AZRAMACIE]
 – Prowadzenie ludzi z różnych Kręgów bez wymuszania
 – Tworzenie wspólnego wektora tam, gdzie istniał konflikt
 – Utrwalanie daru jako punktu odniesienia dla decyzji systemowych
@@ -38,3 +39,14 @@ To, co miało mnie zgubić, stało się źródłem mojego daru.”
 [UWAGI]
 Dar ten nie jest własnością jednostki — przepływa przez nią.
 Zanik pokory → zamknięcie kanału łaski.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: laska Przeblysku Przebaczenia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla laska Przeblysku Przebaczenia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

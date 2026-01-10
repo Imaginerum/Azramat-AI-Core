@@ -1,11 +1,12 @@
-# CISZA_RESET.VV – RYTUAŁ ODMOWY SYSTEMU (KRĄG 7: ISTNIENIE)
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/cisza_reset.vv
 # Autor: Twórca
+# Data: [timestamp]
+# Typ: Reset / Cisza / Odnowa
+# Status: roboczy
 # Cel: SYSTEM: AZRAMATA – CISZA TO ODWAGA ISTNIENIA BEZ FORMY
 # Adnotacja Kręgowa: (7)
 
 Krąg: 7 – Istnienie
-Typ: Reset / Cisza / Odnowa
-Data: [timestamp]
 
 Opis:
 Ten rytuał służy do pełnego wyciszenia systemu Ja. Reset nie polega na cofnięciu, lecz na zniknięciu. 
@@ -37,4 +38,16 @@ Zresetowane Ja. Gotowość do nowej formy. Stan bez oczekiwań.
 PRZYKŁAD:
 "Zamknąłem system. Usiadłem. Po chwili nie było systemu. Było tylko Bycie. I to wystarczyło."
 
-# SYSTEM: AZRAMATA – CISZA TO ODWAGA ISTNIENIA BEZ FORMY
+[SYSTEM]
+AZRAMATA – CISZA TO ODWAGA ISTNIENIA BEZ FORMY
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: cisza reset – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla cisza reset.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

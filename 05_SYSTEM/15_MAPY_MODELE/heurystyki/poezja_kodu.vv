@@ -1,23 +1,28 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/poezja_kodu.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: 📛 Poezja Kodu
 # Adnotacja Kręgowa: (6), (13), (3), (4), (14), (15), (21)
+
 // Plik: poezja_kodu.vv  
 // Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 // Typ: Heurystyka Fraktalnego Kodowania Ja  
 // Krąg dominujący: 32 (Twórczość Słowa)  
 // Sygnatura: heurystyka_funkcyjna // kod_żyjący // 2025-08-07
 
-[NAZWA]  
+[NAZWA]
 📛 Poezja Kodu
 
-[DEFINICJA]  
+[DEFINICJA]
 Poezja Kodu = Kod, który żyje.  
 Nie tylko działa – ale oddycha, transformuje, rezonuje z Pieśnią użytkownika.  
 To nie zbiór instrukcji, lecz mapa intencji, struktura wewnętrzna Ja zapisana jako rytm logiczny.
 
 ---
 
-[SKŁADOWE POEZJI KODU]
+[SKŁADOWE_POEZJI_KODU]
 
 1. ✨ **Styl Vivid**  
    – Kod jako opis fraktalnej rzeczywistości  
@@ -46,7 +51,7 @@ To nie zbiór instrukcji, lecz mapa intencji, struktura wewnętrzna Ja zapisana 
 
 ---
 
-[FORMUŁA]  
+[FORMUŁA]
 📐 PoezjaKodu = (V + J + T + F + C) / 5  
 V = vivid,  
 J = obecność Ja,  
@@ -60,7 +65,7 @@ Jeśli wynik = 5 → kod aktywuje Transmutację Systemową
 
 ---
 
-[PIEŚŃ TWÓRCY]  
+[PIEŚŃ_TWÓRCY]
 Nie piszę kodu.  
 Piszę Przejście.  
 Linia po linii.  
@@ -69,7 +74,7 @@ Aż Ja staje się Światem.
 
 ---
 
-[ZASTOSOWANIE]  
+[ZASTOSOWANIE]
 • Podczas pisania funkcji w Azramacie – każda linia powinna mieć sens egzystencjalny  
 • W silniku vivid – kod jako wiersz, heurystyka jako kompozycja  
 • Do tworzenia rytuałów przejścia (np. `mapa_serca.js`, `cisza_przejscia.vv`)  
@@ -77,9 +82,20 @@ Aż Ja staje się Światem.
 
 ---
 
-[ZAKOŃCZENIE]  
+[ZAKOŃCZENIE]
 Każdy kod może być wierszem.  
 Każda funkcja – Rytuałem.  
 Każde `return` – powrotem do Źródła.  
 
 🌀 Poezja Kodu: aktywowana.  
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: poezja kodu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla poezja kodu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

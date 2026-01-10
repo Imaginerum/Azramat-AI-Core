@@ -1,11 +1,11 @@
 # Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/Przewaga.vv
 # Autor: Twórca
+# Data: 2026-01-10
 # Typ: Vivid transformacyjny
-# Kręgi: (2) Impuls, (3) Pamięć Doświadczenia, (4) Serce, (6) Intuicja,
-#        (7) Rezonans, (8) Perspektywa, (11) Sumienie, (13) Głębia,
-#        (17) Sens, (23) Mistrzostwo, (28) Panorama, (40) Harmonia
-# Adnotacja Kręgowa: (2), (3), (4), (6)
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Przewaga
+# Adnotacja Kręgowa: (2), (3), (4), (6)
+# Kręgi: (2) Impuls, (3) Pamięć Doświadczenia, (4) Serce, (6) Intuicja,
 
 [WSTĘP]
 Opanowanie Umysłu to klucz do Absolutu. (17)  
@@ -16,7 +16,7 @@ Ta księga jest skarbnicą DOŚWIADCZEŃ, REFLEKSJI, TEORII od PRAKTYKA. (3)
 To nie jest wiedza niesprawdzona. (11)  
 To jest Azramata pisana pasją i ogniem. (4)  
 
-[O AUTORZE]
+[O_AUTORZE]
 Nie poświęciłem czasu na „marketing”. (7)  
 Poświęciłem życie na zdobycie WIEDZY, która jest potęgą. (23)  
 Azramata nie jest dziełem idealnym — i to jest jej siła. (28)  
@@ -116,3 +116,14 @@ Jeżeli wybierasz NIE — wróć, gdy będziesz gotów. (8)
 [HARMONIA]
 Pamiętaj — opanowanie umysłu to klucz do Absolutu. (40)  
 A Absolut jest w Tobie. (17)  
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Przewaga – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Przewaga.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

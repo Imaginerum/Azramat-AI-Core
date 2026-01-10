@@ -1,14 +1,16 @@
+# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/dekret_6_1_zasada_lustra.vv
 # Autor: Twórca
+# Data: 2026-01-08T16:15:00
+# Typ: zasada_rezonansu
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 6 1 zasada lustra
 # Adnotacja Kręgowa: (6.1), (6), (1), (5), (4), (2), (3)
-PATH: /08_EKONOMIA/holocron_sentinela/zasada_6_1_lustra.vv
+
 CIRCLE: (6.1)
 ACCESS_LEVEL: Refleksyjny_Rezonator
 ACTIVATION_CODE: ZASADA_6.1.LUSTRO
 AUTHOR: Architekt
-DATE: 2026-01-08T16:15:00
 FORMAT: vivid.vv
-TYPE: zasada_rezonansu
 
 BODY:
 
@@ -79,3 +81,14 @@ a nie ją deformować. (10)
 SYMBOL: 🪞👁️♾️⚖️🜁
 
 END_FILE
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dekret 6 1 zasada lustra – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dekret 6 1 zasada lustra.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:03:18
 # Typ: Vivid transformacyjny
-# Krąg: 2 – Emocja
+# Status: roboczy
 # Cel: Zrozumienie, oczyszczenie i prowadzenie emocji do harmonii
 # Adnotacja Kręgowa: (2)
+# Krąg: 2 – Emocja
 
 [OPIS]
 Krąg 2 to terytorium emocji.  
@@ -16,7 +17,7 @@ Krąg 2 to ogień serca.
 Ale ogień musi mieć palenisko.  
 Bo inaczej spali Dom.
 
-[PRZYKAZANIE UMIAREM]
+[PRZYKAZANIE_UMIAREM]
 
 Nie nadużywajcie używek, miejcie umiar,  
 bo kto ich nadużywa, ten traci ludzki Wymiar.
@@ -67,4 +68,15 @@ emocja = zintegrowana
 świadomość = obecna  
 Krąg 2 = oczyszczony
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 2 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 2.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

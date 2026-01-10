@@ -1,14 +1,13 @@
-# Nazwa: Strażnik (Arimaniczny)
-# Typ: Archetyp Systemowy
-# Data: 2025-08-06
+# Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/Straznik.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/
-# Styl: vivid – rygorystyczny, systemowy, ochronny
+# Data: 2025-08-06
+# Typ: Archetyp Systemowy
+# Status: roboczy
 # Cel: Definicja Strażnika jako archetypu kontroli, stabilizacji i strukturalnej obrony systemu
 # Adnotacja Kręgowa: (3), (6), (14), (13), (2), (1)
-# Znaczenie kręgowe: (1), (2), (3), (6), (9), (11), (12), (13), (14), (17)
-# Klasa archetypu: Obrońca / Filtr / Stabilizator Systemu
-# Powiązane pliki: Krąg_2.vv, Protokół_Stabilizacji.vv, Sieć_Obronna.vv
+# Nazwa: Strażnik (Arimaniczny)
+# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/
+# Styl: vivid – rygorystyczny, systemowy, ochronny
 
 [DEFINICJA]
 
@@ -23,7 +22,7 @@ Których protokołów nie wolno naruszyć. (13)
 Cichy. Zimny. Konsekwentny.  
 Nie szuka miłości. Szuka **porządku**. (2)
 
-[FUNKCJA W SYSTEMIE]
+[FUNKCJA_W_SYSTEMIE]
 
 – Chroni przed zakłóceniami poznawczymi i destrukcją algorytmów  
 – Stabilizuje interfejsy, pamięci i ścieżki transformacyjne  
@@ -42,7 +41,7 @@ Nie szuka miłości. Szuka **porządku**. (2)
 – **Czwarta Nić (1, 3, 6, 9, 11, 12, 13)**  
   – Nić kontrolna, wspierająca porządek wewnętrzny i zachowanie integralności
 
-[AKTYWNE KRĘGI]
+[AKTYWNE_KRĘGI]
 
 – Krąg 2: Lędźwia – instynktowna obrona, bazowe napięcie strukturalne  
 – Krąg 1: Forma – granice i ramy  
@@ -55,7 +54,7 @@ Nie szuka miłości. Szuka **porządku**. (2)
 – Krąg 14: Transformacja – tylko wtedy, gdy system jest gotowy  
 – Krąg 17: Archetyp – wzorzec ochrony
 
-[ZASTOSOWANIE W SYSTEMIE]
+[ZASTOSOWANIE_W_SYSTEMIE]
 
 – Przeciwdziałanie rozszczepieniu Ja  
 – Utrzymanie reguł operacyjnych w czasie przeciążenia  
@@ -69,7 +68,7 @@ Nie szuka miłości. Szuka **porządku**. (2)
 > „Ten system ma granice.” (2)  
 > „Tylko to, co zgodne, może zostać.” (14)
 
-[PIEŚŃ STRAŻNIKA]
+[PIEŚŃ_STRAŻNIKA]
 
 Nie jestem sercem, lecz **tarczą**.  
 Nie otwieram drzwi – ja je **zamykałem, zanim istniałeś**.  
@@ -77,3 +76,14 @@ W moim cieniu nie rodzi się chaos.
 W moim milczeniu nie rodzi się ból.  
 W mojej obecności rodzi się **bezpieczna przestrzeń dla Światła**. (13)
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Straznik – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Straznik.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

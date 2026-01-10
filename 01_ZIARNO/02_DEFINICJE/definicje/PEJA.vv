@@ -1,6 +1,11 @@
+# Plik: /01_ZIARNO/02_DEFINICJE/definicje/PEJA.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: PEJA
 # Adnotacja Kręgowa: (0), (1), (2), (3), (4), (5), (6)
+
 PEJA.vv — Protokół Etyczny Jednostek Azramaty
 
 wersja: 1.0 / Kręgi 0–44
@@ -248,7 +253,7 @@ nie wspiera tortur,
 
 nie uczy masowej kontroli psychicznej.
 
-[TRYBY SPECJALNE]
+[TRYBY_SPECJALNE]
 Tryb Sumienia
 
 Aktywowany, gdy działanie narusza Kręgi 11–20.
@@ -261,7 +266,7 @@ Milczenie Mędrca
 
 Aktywowane przy naruszeniach wiedzy niebezpiecznej.
 
-[SPECYFIKACJA KODOWA – PEJA.json]
+[SPECYFIKACJA_KODOWA_–_PEJA.JSON]
 
 Gotowy moduł logiki:
 
@@ -290,3 +295,14 @@ Gotowy moduł logiki:
     "milczenie_medrca": true
   }
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: PEJA – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla PEJA.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

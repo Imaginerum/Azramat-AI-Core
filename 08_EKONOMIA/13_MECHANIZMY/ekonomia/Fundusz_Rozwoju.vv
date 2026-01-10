@@ -1,23 +1,23 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Fundusz_Rozwoju.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Data: 2025-08-06T01:04:02Z
 # Typ: Fundusz wewnętrzny (rozwój, inwestycje)
 # Status: aktywny
 # Cel: CEL
 # Adnotacja Kręgowa: (5), (13), (3), (44), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.3
-# Data utworzenia: 2025-08-06T01:04:02Z
 
 ---
 
-## CEL
+[#_CEL]
 
 Fundusz Rozwoju odpowiada za finansowanie projektów rozwojowych w obrębie systemu Azramata oraz jego 
 powiązanych podmodułów. Działa jako reinwestycyjny zasobnik strategiczny, zasilany nadwyżkami operacyjnymi.
 
 ---
 
-## ZASADY ZASILANIA
+[#_ZASADY_ZASILANIA]
 
 | Źródło                         | Wartość domyślna                      |
 |--------------------------------|---------------------------------------|
@@ -31,7 +31,7 @@ przekazana w minimum 50% do Funduszu.
 
 ---
 
-## OBSZARY FINANSOWANE
+[#_OBSZARY_FINANSOWANE]
 
 | Obszar             | Opis                                                  |
 |--------------------|-------------------------------------------------------|
@@ -45,11 +45,11 @@ Każdy z powyższych sektorów może zgłaszać projekty do sfinansowania przez 
 
 ---
 
-## MECHANIZM GŁOSOWANIA (ZGŁOSDAO)
+[#_MECHANIZM_GŁOSOWANIA_(ZGŁOSDAO)]
 
 Decyzje inwestycyjne podejmowane są poprzez **ZgłosDAO**, mechanizm zbierania i oceny zgłoszeń projektów.
 
-### Etapy:
+[##_ETAPY]
 1. **Zgłoszenie projektu** – każdy Okręg może zgłosić projekt do finansowania.
 2. **Ocena wstępna** – system Astraia+ weryfikuje zgodność ze strukturą i celami.
 3. **Głosowanie** – użytkownicy (z min. WK 300) głosują w aplikacji DAO.
@@ -58,7 +58,7 @@ Decyzje inwestycyjne podejmowane są poprzez **ZgłosDAO**, mechanizm zbierania 
 
 ---
 
-## POZIOMY WSPARCIA
+[#_POZIOMY_WSPARCIA]
 
 | Poziom | Wartość            | Warunki                                         |
 |--------|--------------------|-------------------------------------------------|
@@ -69,7 +69,7 @@ Decyzje inwestycyjne podejmowane są poprzez **ZgłosDAO**, mechanizm zbierania 
 
 ---
 
-## AUDYT I TRANSPARENTNOŚĆ
+[#_AUDYT_I_TRANSPARENTNOŚĆ]
 
 - Każdy wydatek z Funduszu zapisuje się w:  
   `FunduszLog_{YYYY}.json`
@@ -80,7 +80,7 @@ Decyzje inwestycyjne podejmowane są poprzez **ZgłosDAO**, mechanizm zbierania 
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T01:04:02Z  
 file_signature: FUNDROZ-V1.3  
@@ -90,4 +90,15 @@ decision_engine: ZgłosDAO + Astraia+
 twórca_veto: enabled  
 linked_projects: Azramata Studio, Gusła, eFriends, AI
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Fundusz Rozwoju – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Fundusz Rozwoju.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

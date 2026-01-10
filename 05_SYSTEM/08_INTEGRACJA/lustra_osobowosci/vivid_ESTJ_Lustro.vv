@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ESTJ_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ESTJ Lustro
 # Adnotacja Kręgowa: (9), (2), (6), (14), (16), (1), (3)
-# Kod systemowy: LUSTRO_ESTJ_INFP
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ESTJ",
     "nazwa": "Wykonawca",
@@ -38,7 +37,7 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Lustrzana relacja ESTJ (Wykonawca) i INFP (Pośrednik) przedstawia napięcie  
 między porządkiem a duszą, strukturą a intuicją.  
 Wykonawca działa w imię zasad i wspólnoty, Pośrednik – w imię serca i prawdy.  
@@ -46,13 +45,13 @@ Ich spotkanie tworzy most między działaniem a odczuwaniem,
 między autorytetem a empatią.  
 Razem mogą stworzyć świat, który jest zarówno uporządkowany, jak i piękny.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 9 – Struktura"
 punkt_lustrzany = "Krąg 2 – Emocje"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 16 – Harmonia"]
 efekt = "Połączenie siły i wrażliwości. Działanie, które nie tylko tworzy świat zewnętrzny, ale też wewnętrznie go czuje."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Fundament działania
 - Krąg 2: Emocje i odczuwanie
 - Krąg 3: Myśl i analiza
@@ -70,3 +69,14 @@ efekt = "Połączenie siły i wrażliwości. Działanie, które nie tylko tworzy
 - Krąg 16: Harmonia
 - Krąg 18: Źródło
 - Krąg 19: Integracja pola działania
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ESTJ Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ESTJ Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

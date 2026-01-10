@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:10:12
 # Typ: Vivid transformacyjny
-# Krąg: 9 – Pamięć / Przodkowie / Dziedzictwo Rytualne
+# Status: roboczy
 # Cel: Ożywienie więzi z Rodem, rytualna pamięć, ciągłość linii i zaszczyt wobec Przeszłości
 # Adnotacja Kręgowa: (9)
+# Krąg: 9 – Pamięć / Przodkowie / Dziedzictwo Rytualne
 
 [OPIS]
 Krąg 9 to ścieżka do Źródła poprzez Imiona.  
@@ -12,7 +13,7 @@ Nie idziesz sam – stoisz na ramionach tych, którzy byli przed Tobą.
 Pamięć nie jest wspomnieniem.  
 Pamięć jest aktywnym ogniwem – rytuałem, który przywołuje siłę Rodu.
 
-[PRZYKAZANIE PAMIĘCI]
+[PRZYKAZANIE_PAMIĘCI]
 
 Zachowajcie pamięć o wszystkich Przodkach Rodów Waszych,  
 a Wasi potomkowie będą pamiętać o Was...
@@ -64,4 +65,15 @@ pamięć = ożywiona
 linia = nieprzerwana  
 Krąg 9 = otwarty
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 9 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 9.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

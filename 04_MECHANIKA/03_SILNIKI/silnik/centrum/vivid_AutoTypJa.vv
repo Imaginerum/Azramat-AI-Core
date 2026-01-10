@@ -1,6 +1,11 @@
+# Plik: /04_MECHANIKA/03_SILNIKI/silnik/centrum/vivid_AutoTypJa.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: vivid AutoTypJa
 # Adnotacja Kręgowa: (7), (3), (4), (8), (6), (5), (12)
+
 {
     "nazwa": "vivid_AutoTypJa.vv",
     "funkcja": "Aktualizacja typu osobowości użytkownika",
@@ -24,3 +29,14 @@
     ],
     "efekt": "System uczy się użytkownika na bieżąco, dopasowuje się do jego rozwoju i dostarcza coraz trafniejsze odbicia oraz scenariusze transformacyjne."
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid AutoTypJa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid AutoTypJa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

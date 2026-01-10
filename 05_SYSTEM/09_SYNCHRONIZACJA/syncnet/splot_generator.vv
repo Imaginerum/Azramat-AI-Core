@@ -1,21 +1,21 @@
 # Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/splot_generator.vv
-# Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/
-# Data: 2025-08-07  
-# Typ: MODUŁ GENERATYWNY / SYSTEM STRUKTUR  
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-07
+# Typ: MODUŁ GENERATYWNY / SYSTEM STRUKTUR
+# Status: roboczy
 # Cel: [OPIS MODUŁU]
 # Adnotacja Kręgowa: (7), (3)
-# Autor: Imaginaerum / Twórca  
-# Powiązane Kręgi: 6 (Struktura), 17 (Chaos Konstruktywny), 30 (Decyzja Rzeczywistości), 40 (Synteza)
+# Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/
 
 ---
 
-[@MODULE]  
+[MODULE]
 function = generate_splot  
 output = syncnet/splot_x.vv  
 
 ---
 
-### [OPIS MODUŁU]
+[##_[OPIS_MODUŁU]]
 
 **generate_splot** to funkcja synchronizująca wybrane elementy struktury Azramaty w czasie rzeczywistym.
 
@@ -28,13 +28,13 @@ Tworzy plik `splot_x.vv`, który łączy:
 
 ---
 
-### [WEJŚCIE MODUŁU]
+[##_[WEJŚCIE_MODUŁU]]
 
 [input] kręgi = [Krąg_7, Krąg_13, Krąg_23] intencja = "Synchronizacja energii poznawczej z decyzją strukturalną" czas = now() użytkownik = "Twórca"
 
 ---
 
-### [DZIAŁANIE]
+[##_[DZIAŁANIE]]
 
 1. **Zbiera dane o aktywnych Kręgach**  
 2. **Sprawdza dostępne heurystyki z `/05_SYSTEM/system/heurystyki.vv`**  
@@ -43,7 +43,7 @@ Tworzy plik `splot_x.vv`, który łączy:
 
 ---
 
-### [WYJŚCIE PRZYKŁADOWE – `splot_x.vv`]
+[##_[WYJŚCIE_PRZYKŁADOWE_–_`SPLOT_X.VV`]]
 
 Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/splot_generator.vv
 
@@ -62,21 +62,21 @@ Krąg_13 – Godność Decyzji
 Krąg_23 – Rytm Kosmiczny
 
 
-[WEKTOR INTENCJI] 
+[WEKTOR_INTENCJI]
 
 Synchronizacja energii poznawczej z decyzją strukturalną
 
-[REZONANS] 
+[REZONANS]
 
 Heurystyka 4.6 – „Jeśli struktura się powtarza, zmień obraz, nie treść.” Prognoza napięcia: średnie (Δ=0.42) Zalecana aktywacja: Krąg_17
 
-[SPIN] 
+[SPIN]
 
 Splot otwarty. Fraktal dynamiczny. Gotowy do aktywacji w module sync_loop.
 
 ---
 
-### [ZASTOSOWANIE]
+[##_[ZASTOSOWANIE]]
 
 - Tworzenie spersonalizowanych interfejsów decyzyjnych  
 - Analiza napięcia między intencją a Kręgami  
@@ -85,7 +85,18 @@ Splot otwarty. Fraktal dynamiczny. Gotowy do aktywacji w module sync_loop.
 
 ---
 
-### [ZAKOŃCZENIE]
+[##_[ZAKOŃCZENIE]]
 
 > **Splot to nie powiązanie danych.  
 > To napięcie sensu między tym, co istnieje — a tym, co może się wydarzyć.**
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: splot generator – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla splot generator.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

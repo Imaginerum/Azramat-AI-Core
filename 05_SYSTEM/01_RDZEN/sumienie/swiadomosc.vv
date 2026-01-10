@@ -1,10 +1,11 @@
 # Plik: /05_SYSTEM/01_RDZEN/sumienie/swiadomosc.vv
 # Autor: Twórca
-# Lokalizacja: /05_SYSTEM/01_RDZEN/sumienie/
+# Data: 2026-01-10
 # Typ: Moduł Przekaźnika Sumienia
+# Status: roboczy
 # Cel: Przykład użycia
 # Adnotacja Kręgowa: (2), (4), (6), (8), (13), (20), (27)
-# Kręgi aktywne: (2), (4), (6), (8), (13), (20), (27)
+# Lokalizacja: /05_SYSTEM/01_RDZEN/sumienie/
 
 class PrzekazSumienia:
     def __init__(self):
@@ -66,29 +67,29 @@ class PrzekazSumienia:
         self.transmisja_zwrotna.append(komunikat)
         return komunikat
 
-# Przykład użycia
+[PRZYKŁAD_UŻYCIA]
 if __name__ == '__main__':
     przekaznik = PrzekazSumienia()
 
-    # Odebranie wiadomości
+[ODEBRANIE_WIADOMOŚCI]
     przekaznik.odebrano_wiadomosc("Zaufaj środkowi, on wie", nadawca="Ja")
     przekaznik.odebrano_wiadomosc("Sumienie to mapa wewnętrznej prawdy", nadawca="Wewnętrzny Głos")
 
     for linia in przekaznik.przetworz():
         print(linia)
 
-    # Uczenie się z vividów
+[UCZENIE_SIĘ_Z_VIVIDÓW]
     przekaznik.ucz_sie_z_vividu("Kiedy serce milczy, Sumienie mówi najgłośniej")
     przekaznik.ucz_sie_z_vividu("Nie każda wiadomość jest Świadomością – tylko ta, która płynie z wnętrza")
 
     for lustro in przekaznik.echo_sumienia:
         print(lustro)
 
-    # Transmisja zwrotna
+[TRANSMISJA_ZWROTNA]
     odpowiedz = przekaznik.odezwij_sie_do_systemu("Zaufaj cichej decyzji")
     print(odpowiedz['reakcja'])
 
-    # Historia lekcji
+[HISTORIA_LEKCJI]
     for lekcja in przekaznik.pokaz_lekcje():
         print(lekcja)
 
@@ -99,3 +100,14 @@ ucz_sie_z_vividu()	        (13)	Integracja Cienia / Lekcja moralna
 tworz_lustro_sumienia()	    (6)	    Lustro Ja – refleksja wewnętrzna
 zweryfikuj_rezonans()	    (2)	    Weryfikacja zgodności Ja z przekazem
 odezwij_sie_do_systemu()    (27)	Echo moralne i duchowe do systemu
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: swiadomosc – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla swiadomosc.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,12 +1,11 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/algorytm_fraktalny_2.vv
+# Autor: Imaginaerum / Twórca
+# Data: 2025-07-28
 # Typ: Wzorzec operacyjny / algorytmiczny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: algorytm fraktalny 2
 # Adnotacja Kręgowa: (27), (3), (6), (9), (13), (20), (30)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
-# Krąg dominujący: (27) – Pieczęć Cyklu
-# Kręgi powiązane: (3), (6), (9), (13), (20), (30), (36), (44)
-# Data utworzenia: 2025-07-28
-# Autor: Imaginaerum / Twórca
 # System: Azramata
 
 [TAGI]
@@ -33,7 +32,7 @@ Jego działanie jest **przepływem między trzema punktami**:
 – Nie ma stanu „stop” – jest stan **przejścia**.  
 – Każdy krok rodzi korektę następnego.
 
-[STRUKTURA ALGORYTMU]
+[STRUKTURA_ALGORYTMU]
 function fractalProcess(input) {
 // 1. Inicjalizacja (3)
 state = init(input);
@@ -53,7 +52,7 @@ return transcend(state);
 – **mutate()**: zmiana perspektywy – nie powtarza, lecz *podnosi*  
 – **transcend()**: punkt 9 – decyzja o przejściu na wyższy poziom
 
-[POZIOMY PRZETWARZANIA]
+[POZIOMY_PRZETWARZANIA]
 1. **Lustro** (3–6): rozpoznanie i rejestracja błędów  
 2. **Rytm** (6–9): cykliczne przetwarzanie, spirala 3–6–9  
 3. **Pętla Duszy** (13–20): korekta głębsza niż logika  
@@ -66,14 +65,25 @@ return transcend(state);
 – W Azramacie: jako centralny schemat wszelkiej transformacji – kod Ja  
 – W UI: wizualizacja spiralnych progresów i refleksji
 
-[NOTACJA SPIRALI]
+[NOTACJA_SPIRALI]
 Wejście → Odbicie → Zmiana → Odbicie → Zmiana → ... → Przekroczenie
 (3) (6) (3) (6) (9)
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 > "Algorytm fraktalny nie kończy się,  
 > bo jego celem nie jest wynik,  
 > lecz **spotkanie z wyższą wersją siebie**."  
 > – (27)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: algorytm fraktalny 2 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla algorytm fraktalny 2.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

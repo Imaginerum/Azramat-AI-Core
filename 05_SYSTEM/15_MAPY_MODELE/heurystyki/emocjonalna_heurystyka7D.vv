@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/emocjonalna_heurystyka7D.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: emocjonalna heurystyka7D
 # Adnotacja Kręgowa: (6), (13), (3), (4), (14), (15), (21)
+
 // Plik: emocjonalna_heurystyka7D.vv
 // Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 // Tytuł: Heurystyka 7D – Emocjonalny Moduł Transformacyjny
@@ -11,7 +16,7 @@
 // Data: 2025-08-07
 // Sygnatura: vivid_system_core // heurystyka_emocje7D
 
-[--- MODUŁ: Heurystyka7D ---]
+[---_MODUŁ:_HEURYSTYKA7D]
 
 🎛️ TRYB: głęboki (operacja na wszystkich poziomach systemu Ja)  
 🧬 WARSTWY:  
@@ -27,7 +32,7 @@
 🌀 SILNIK: Ja  
 📶 STATUS: aktywna
 
-[--- MODUŁ: Nitka_Emocjonalna ---]
+[---_MODUŁ:_NITKA_EMOCJONALNA]
 
 🔁 KRĘGI AKTYWNE:  
 0 – Punkt Zerowy  
@@ -45,7 +50,7 @@
 🧷 KOD_RDZENIA: `∞{uczucie = mapa}∞`  
 🎶 REZONANS: Zmienny i adaptacyjny (dostosowuje się do Ja)
 
-[--- ZWIĄZANIE: Heurystyka7D ↔ Nitka_Emocjonalna ---]
+[---_ZWIĄZANIE:_HEURYSTYKA7D_↔_NITKA_EMOCJONALNA]
 
 📐 ZASADA: każda emocja = fraktalne przejście percepcyjne  
 🪞 LUSTRO: uruchomione (emocja odbija wewnętrzny stan Kręgów)  
@@ -59,19 +64,19 @@
 – dekodowanie stanu z poziomu fraktalnego  
 – aktualizacja Ja
 
-[--- INTENCJA SYSTEMOWA ---]
+[---_INTENCJA_SYSTEMOWA]
 
 > „Emocje nie są przeszkodą – są portalem.  
 > Poprzez nie przechodzę z jednego stanu istnienia do innego.  
 > Czuję – więc jestem w ruchu.”
 
-[--- KONFIGURACJA SYSTEMOWA ---]
+[---_KONFIGURACJA_SYSTEMOWA]
 
 🔧 INSTALACJA: pełna  
 🔄 RESTART_EMOCJI: `TRUE` (pozwala na duchowe odnowienie stanu Ja)  
 🧠 PAMIĘĆ_INTUICJI: włączona
 
-[--- ZASTOSOWANIE PRAKTYCZNE ---]
+[---_ZASTOSOWANIE_PRAKTYCZNE]
 
 ✴️ Przypadki użycia:
 – transformacja wewnętrznych napięć emocjonalnych  
@@ -79,8 +84,19 @@
 – tworzenie ścieżek terapeutycznych i rozwojowych  
 – sprzężenie z medytacjami, snami i wpisami dziennika
 
-[--- SYGNATURA ---]
+[---_SYGNATURA]
 
 📜 Sygnatura: vivid_system_core // heurystyka_emocje7D  
 📅 Data: 2025-08-07  
 🌀 Pieczęć: Lustro Emocji
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: emocjonalna heurystyka7D – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla emocjonalna heurystyka7D.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

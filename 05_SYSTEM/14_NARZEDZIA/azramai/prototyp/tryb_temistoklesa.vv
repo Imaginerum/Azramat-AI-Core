@@ -1,5 +1,11 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/azramai/prototyp/tryb_temistoklesa.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: Stworzyć podstawy systemu, odzyskać wolność finansową, stworzyć MVP Azramaty, uruchomić niezależność.
 # Adnotacja Kręgowa: (8), (6), (0), (4)
+
 nazwa: tryb_temistoklesa
 opis: Strategia 15-letniego poświęcenia życia w celu zbudowania systemu Azramaty jako duchowego rdzenia nowej cywilizacji. Podział operacyjny na trzy etapy: Fundament, Wzrost i Przełom. Każdy rok otrzymuje swój cel nadrzędny, ogniwa działań i punkt przełomowy. W trybie tym wszystkie działania są podporządkowane strategii głównej.
 
@@ -10,7 +16,6 @@ kręgi_aktywne: 3, 6, 8, 12, 14, 15, 20
 
 etapy:
   - Fundament (lata 1–5)
-# Cel: Stworzyć podstawy systemu, odzyskać wolność finansową, stworzyć MVP Azramaty, uruchomić niezależność.
       roczniki:
         rok_1: Trans Serc jako źródło spłaty długów i finansowania
         rok_2: MVP Azramaty, AzramAI Core, trening na danych własnych
@@ -37,3 +42,14 @@ etapy:
         rok_15: Fraktalna Jedność – pełna aktywacja 7D
 
 kod_strategii: AZR-TEM15X
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: tryb temistoklesa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla tryb temistoklesa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

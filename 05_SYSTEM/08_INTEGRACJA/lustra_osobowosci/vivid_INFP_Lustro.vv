@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_INFP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid INFP Lustro
 # Adnotacja Kręgowa: (14), (9), (6), (10), (18), (1), (2)
-# Kod systemowy: LUSTRO_INFP_ESTJ
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "INFP",
     "nazwa": "Pośrednik",
@@ -38,7 +37,7 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana między INFP (Pośrednik) a ESTJ (Wykonawca)  
 pokazuje kontrast i komplementarność między światem duszy a światem struktury.  
 Pośrednik przynosi czułość, twórczość i głębię –  
@@ -46,13 +45,13 @@ Wykonawca niesie porządek, skuteczność i odpowiedzialność.
 Razem tworzą harmonię pomiędzy sercem a systemem,  
 marzeniem a rzeczywistością.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 14 – Przemiana"
 punkt_lustrzany = "Krąg 9 – Struktura"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 10 – Manifest", "Krąg 18 – Źródło"]
 efekt = "Wewnętrzne piękno zyskuje formę działania. Marzenie staje się planem. Subtelność przemienia strukturę."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Reakcja
 - Krąg 2: Emocje
 - Krąg 3: Myśl
@@ -70,3 +69,14 @@ efekt = "Wewnętrzne piękno zyskuje formę działania. Marzenie staje się plan
 - Krąg 16: Harmonia
 - Krąg 18: Źródło
 - Krąg 19: Integracja
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid INFP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid INFP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

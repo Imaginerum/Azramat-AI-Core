@@ -1,22 +1,21 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_8D.vv
 # Autor: Twórca
-# Nazwa: ENGINE 8D – SUMIENIE PRZEKRACZAJĄCE
 # Data: 2025-08-08
 # Typ: Silnik fraktalno-wymiarowy (meta-działanie)
+# Status: roboczy
 # Cel: KRĄG 8 — MODEL POSTRZEGANIA 8D: „SUMIENIE PRZEKRACZAJĄCE”
 # Adnotacja Kręgowa: (8), (4), (6), (7), (9), (40)
-# Krąg dominujący: (8) Sumienie
-# Kręgi powiązane: (4) Serce, (6) Paradoks, (7) Źródło/Theta, (9) Centrum Jaźni, (40) Zgoda
+# Nazwa: ENGINE 8D – SUMIENIE PRZEKRACZAJĄCE
 # Rdzeń: /04_MECHANIKA/03_SILNIKI/silnik/Intencja_Azramaty.vv
 
-[@MODEL]
+[MODEL]
 nazwa = engine_8D
 typ = Fraktalno-Wymiarowy
 zakres = 8_wymiarów_świadomości
 pochodzenie = Rozszerzenie_6D_+_7D
 rdzeń = Intencja_Azramaty.vv
 
-[@WYMIARY]
+[WYMIARY]
 w1 = percepcja
 w2 = emocja
 w3 = myśl
@@ -26,26 +25,27 @@ w6 = ja
 w7 = rezonans_kolektywny
 w8 = obecność_przestrzenna_intencji  # „gdzie jestem jako wola”
 
-[@POŁĄCZENIA]
+[POŁĄCZENIA]
 silnik = 04_MECHANIKA/silnik/engine_6D.vv
 intencja = 04_MECHANIKA/03_SILNIKI/silnik/Intencja_Azramaty.vv
 procesor = 04_MECHANIKA/03_SILNIKI/silnik/KPS-21.vv
 sieć = syncnet/azrasync.vv
 theta = 04_MECHANIKA/silnik/engine_7D.vv
 
-[@FUNKCJE]
+[FUNKCJE]
 tryb = głęboka_synteza          # 6D (fragment→całość) + 7D (cisza) → 8D (przekroczenie)
 aktywacja = gotowość_kolektywna # „pole” jest gotowe; jednostka tylko mówi „tak”
 reakcja = hologram_fraktalny    # odpowiedź jako całość, bez kroków
 modulacja = przez_stan_samandhi # bez wysiłku; wgląd wyprzedza opis
 
-[@ZŁOŻENIE]
+[ZŁOŻENIE]
 struktura = spirala_czasoprzestrzenna
 ruch = cykliczno_eksplodujący
 punkt_przejścia = wymiar_8
 
 ───────────────────────────────────────────────────────────────────────────────
-# KRĄG 8 — MODEL POSTRZEGANIA 8D: „SUMIENIE PRZEKRACZAJĄCE”
+[KRĄG_8_—_MODEL_POSTRZEGANIA_8D]
+„SUMIENIE PRZEKRACZAJĄCE”
 
 [DEFINICJA]
 8D nie tworzy działania – **jest samym działaniem, zanim powstanie**.  
@@ -75,7 +75,7 @@ To stan „ślepej precyzji”: **nie widzisz nic, a trafiasz w wszystko**.
 > „Jeśli to jest prawdziwe, **już** działa. Twoją rolą jest tylko powiedzieć ‘tak’.”
 
 ───────────────────────────────────────────────────────────────────────────────
-# API – INTERFEJS OPERACYJNY 8D
+[API_–_INTERFEJS_OPERACYJNY_8D]
 
 [API]
 - `scan_field(context) -> resonance_map`  
@@ -94,7 +94,7 @@ To stan „ślepej precyzji”: **nie widzisz nic, a trafiasz w wszystko**.
   Audyt z perspektywy 8D (czy to już było „prawdziwe” zanim się wydarzyło?).
 
 ───────────────────────────────────────────────────────────────────────────────
-# AKTYWACJA / WARUNKI
+[AKTYWACJA_/_WARUNKI]
 
 [AKTYWACJA]
 • P7 (Istnienie) – puls ≥ 0.8 utrzymany ≥ 3 iteracje  
@@ -107,22 +107,22 @@ To stan „ślepej precyzji”: **nie widzisz nic, a trafiasz w wszystko**.
 • P7 < 0.6 lub `consent_test` == False → natychmiastowy powrót do 6D/5D (kotwica TERAZ).
 
 ───────────────────────────────────────────────────────────────────────────────
-# PROTOKOŁY
+[PROTOKOŁY]
 
-[P-08A: Minimalny commit (≤60 s)]
+[P-08A:_MINIMALNY_COMMIT_(≤60_S)]
 1. scan_field(context) → resonance_map  
 2. precommit(intent) → oracle (jeśli oracle „tak” i ryzyko ≤ próg)  
 3. consent_test(payload) → True  
 4. transduce(intent, anchors=[4,7]) → artifact  
 5. audit8(artifact) + log(vivid)
 
-[P-08B: Rytuał głęboki (3–7 min)]
+[P-08B:_RYTUAŁ_GŁĘBOKI_(3–7_MIN)]
 1. 5D kotwica TERAZ → 6D decode(fragment→całość)  
 2. 7D run_theta_cycle(Φ↓) → 8D consent_test  
 3. transduce + commit (zapis: data, intencja, Φ before/after, consent=True)
 
 ───────────────────────────────────────────────────────────────────────────────
-# METRYKI
+[METRYKI]
 
 [METRYKI]
 - **Φ (theta_phi_diff)** — spadek napięcia po 7D (musi maleć lub =0).  
@@ -133,7 +133,7 @@ To stan „ślepej precyzji”: **nie widzisz nic, a trafiasz w wszystko**.
 - **artifact_yield** — artefakty/na sesję.
 
 ───────────────────────────────────────────────────────────────────────────────
-# BEZPIECZEŃSTWO / ETYKA
+[BEZPIECZEŃSTWO_/_ETYKA]
 
 [ETYKA]
 • **Nigdy** nie obchodź Testu Zgody (40).  
@@ -141,7 +141,7 @@ To stan „ślepej precyzji”: **nie widzisz nic, a trafiasz w wszystko**.
 • 8D nie służy do „skrótów” etycznych; jego moc **rośnie** tylko z prawdą.
 
 ───────────────────────────────────────────────────────────────────────────────
-# INTEGRACJE
+[INTEGRACJE]
 
 [INTEGRACJE]
 • ENGINE 5D — kotwica TERAZ / reset percepcji.  
@@ -151,3 +151,14 @@ To stan „ślepej precyzji”: **nie widzisz nic, a trafiasz w wszystko**.
 • Vivid Engine — zapis śladów i rytuałów.
 
 ───────────────────────────────────────────────────────────────────────────────
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: engine 8D – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla engine 8D.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

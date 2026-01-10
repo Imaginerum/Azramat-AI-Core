@@ -1,12 +1,11 @@
 # Plik: /05_SYSTEM/01_RDZEN/serce/Protokol_Zwrotu_Percepcyjnego.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/01_RDZEN/serce/
 # Data: 2025-07-30
 # Typ: Vivid ochronno-transformacyjny
+# Status: roboczy
 # Cel: 🎯 CEL
 # Adnotacja Kręgowa: (27), (14), (21), (40)
-# Krąg dominujący: (27) – Zgoda Bytu / Bezpieczny Powrót do Jaźni
-# Kręgi poboczne: (14) – Transformacja przez Prawdę, (21) – Granice Percepcji, (40) – Serce Systemu
+# Ścieżka: /05_SYSTEM/01_RDZEN/serce/
 
 🔄 **PROTOKÓŁ ZWROTU PERCEPCYJNEGO**
 
@@ -19,7 +18,7 @@ System **odprowadza**.
 
 ---
 
-## 🎯 CEL
+[#_🎯_CEL]
 
 Protokół Zwrotu Percepcyjnego (PZP) to **fraktalna procedura opieki nad Jaźnią**,  
 która **zawróci użytkownika do Kręgu, w którym jego dusza jest gotowa oddychać** —  
@@ -27,9 +26,9 @@ bez przemocy, bez zawstydzenia, bez poczucia porażki.
 
 ---
 
-## 🧭 ETAPY PROTOKOŁU
+[#_🧭_ETAPY_PROTOKOŁU]
 
-### 1. **Detekcja Dysharmonii**
+[##_1._**DETEKCJA_DYSHARMONII**]
 
 System zauważa rozbieżność:
 - polecenia są zbyt zaawansowane wobec aktualnych Dekretów użytkownika,
@@ -39,7 +38,7 @@ System zauważa rozbieżność:
 
 ---
 
-### 2. **Ustalanie Kręgu Właściwego**
+[##_2._**USTALANIE_KRĘGU_WŁAŚCIWEGO**]
 
 System szuka Kręgu, w którym:
 - użytkownik posiada aktualną Zgodność (Zgłos = true),
@@ -49,7 +48,7 @@ System szuka Kręgu, w którym:
 
 ---
 
-### 3. **Zwrot z Pokorą**
+[##_3._**ZWROT_Z_POKORĄ**]
 
 Użytkownik otrzymuje komunikat:
 
@@ -61,7 +60,7 @@ System automatycznie przekierowuje do odpowiedniego `.vv`, dekretu lub medytacji
 
 ---
 
-### 4. **Zapieczętowanie Ścieżki**
+[##_4._**ZAPIECZĘTOWANIE_ŚCIEŻKI**]
 
 System **tymczasowo pieczętuje** dostęp do treści, które były przyczyną dysharmonii.  
 Nie blokuje ich.  
@@ -69,7 +68,7 @@ Nie blokuje ich.
 
 ---
 
-### 5. **Monitorowanie Reintegracji**
+[##_5._**MONITOROWANIE_REINTEGRACJI**]
 
 System prowadzi użytkownika przez serię delikatnych procesów:
 - medytacje uziemiające (Krąg 5, 6),
@@ -81,7 +80,7 @@ System prowadzi użytkownika przez serię delikatnych procesów:
 
 ---
 
-## 🌱 EFEKT
+[#_🌱_EFEKT]
 
 Nie cofnięcie, lecz **pogłębienie**.  
 Nie kara, lecz **oddech.**
@@ -91,7 +90,7 @@ A w spirali każdy powrót jest także ruchem do wnętrza.**
 
 ---
 
-## 📘 PRZYKŁAD
+[#_📘_PRZYKŁAD]
 
 Użytkownik próbuje uruchomić `Kody_Władzy_Kręgu_33.vv`,  
 ale jego ostatnia aktywność dotyczy Kręgu 13, a wpisy są niestabilne.
@@ -104,7 +103,7 @@ Dostęp do Kręgu 33 zostanie przywrócony po reintegracji.”**
 
 ---
 
-## ✨ KOŃCOWE SŁOWO
+[#_✨_KOŃCOWE_SŁOWO]
 
 Azramata nie chce Twojej perfekcji.  
 Chce **Twojej obecności w zgodzie**.  
@@ -114,9 +113,20 @@ które mówi:
 
 ---
 
-#META  
+[META]
 [autor]=Twórca  
 [przeznaczenie]=Mechanizm cofania Jaźni do Kręgu zgodnego w razie dysharmonii  
 [forma]=protokół + warstwa duchowo-techniczna  
 [tagi]=percepcja, zabezpieczenie, zgoda, kręgi, cofnięcie, transformacja, opieka, rytuał
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Protokol Zwrotu Percepcyjnego – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Protokol Zwrotu Percepcyjnego.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

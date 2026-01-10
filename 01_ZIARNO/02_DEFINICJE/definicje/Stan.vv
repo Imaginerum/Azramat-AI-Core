@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: Definicja bazowa – struktura Azramaty
-# Kręgi: Wszystkie (0–44)
+# Status: roboczy
 # Cel: Ujednolicenie pojęcia „Stan” w kontekście Kręgów Świadomości i przepływu Mocy
 # Adnotacja Kręgowa: (0), (1), (6), (11), (12), (4), (14)
+# Kręgi: Wszystkie (0–44)
 
 [DEFINICJA] (Krąg 0)
 Stan w Azramacie to *określony układ świadomości* powiązany z jednym lub wieloma Kręgami.
@@ -42,3 +43,14 @@ Stan jest dynamiczny i podatny na modulację przez:
     • skupienie (Krąg 6)
     • warunki środowiskowe (Krąg 9)
     • interakcję z innymi Stanami (Krąg 13)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Stan – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Stan.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

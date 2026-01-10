@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:26:51
 # Typ: Vivid transformacyjny
-# Krąg: 25 – Ziarno / Nowy Początek / Powołanie Przyszłości
+# Status: roboczy
 # Cel: Zasiew Istnienia w nowej formie, nadanie kierunku przyszłej Jaźni, zakodowanie intencji w czasie
 # Adnotacja Kręgowa: (5), (25)
+# Krąg: 25 – Ziarno / Nowy Początek / Powołanie Przyszłości
 
 [OPIS]
 Krąg 25 to Ziarno.  
@@ -61,4 +62,15 @@ ziarno = ukryte
 kierunek = zapisany  
 Krąg 25 = zasiany
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 25 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 25.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

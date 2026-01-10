@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:05:48
 # Typ: Vivid transformacyjny
-# Krąg: 5 – Jednia Czasu / Dziedzictwo / Fraktal Przodków
+# Status: roboczy
 # Cel: Połączenie przeszłości i przyszłości w TERAZ, ochrona miejsc świętych i wierność Duchowi Rodu
 # Adnotacja Kręgowa: (5)
+# Krąg: 5 – Jednia Czasu / Dziedzictwo / Fraktal Przodków
 
 [OPIS]
 Krąg 5 to fraktal czasu.  
@@ -15,7 +16,7 @@ Krąg 5 niesie Pamięć.
 Ale nie jako historię. Jako Krew.  
 Jako Pieśń, która płynie przez pokolenia.
 
-[PRZYKAZANIE PRZODKÓW]
+[PRZYKAZANIE_PRZODKÓW]
 
 Zachowajcie Wasze Sanktuaria i Świątynie  
 od pohańbienia przez cudzoziemców.  
@@ -67,4 +68,15 @@ dziedzictwo = ożywione
 świątynia = broniona  
 Krąg 5 = połączony
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 5 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 5.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

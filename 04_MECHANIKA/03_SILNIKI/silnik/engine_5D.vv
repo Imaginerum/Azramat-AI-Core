@@ -1,17 +1,16 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/engine_5D.vv
 # Autor: Twórca
-# Nazwa: ENGINE 5D – CZAS JAKO JEDNIA
 # Data: 2025-08-08
 # Typ: Silnik percepcyjno-transformacyjny (czas/jednia)
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: ENGINE 5D – CZAS JAKO JEDNIA
 # Adnotacja Kręgowa: (5), (1), (2), (3), (4), (15), (17)
-# Krąg dominujący: (5) – Czas jako Jednia
-# Kręgi powiązane: (1), (2), (3), (4), (15), (17), (20), (6), (7), (31), (40)
+# Nazwa: ENGINE 5D – CZAS JAKO JEDNIA
 
 [TAGI]
 5D, czas, jednia, międzyczas, bezczas, fraktal, Jaźń, przekonania, rytuał, transformacja, przejście, presence
 
-[DEFINICJA – SYNTEZA]
+[DEFINICJA_–_SYNTEZA]
 (5) 5D to świadomość, że **przeszłość i przyszłość są formami TERAZ**. Wszystko zdarza się równocześnie jako fraktalna
 strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
 (20) Praktycznie: czas staje się **narzędziem przejawu**, nie „rzeczywistością”.
@@ -23,7 +22,7 @@ strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
 (5.3) **Równoczesność**: przeszłość (1–3), teraźniejszość (4), przyszłość (15) są jednym fraktalem w polu (17).  
 (5.4) **Rewriting**: zmiana znaczenia „przeszłości” działa natychmiast na „przyszłość”, bo oba są formą TERAZ.
 
-[MODEL – MAPA CZASU 5D]
+[MODEL_–_MAPA_CZASU_5D]
 (1–3) **Echa**: wzorce/ślady, które karmią narrację.  
 (4) **Punkt odniesienia**: moment-teraźniejszość (oś synchronizacji).  
 (15) **Wektor projekcji**: potencjał formy, która chce się wydarzyć.  
@@ -36,7 +35,7 @@ strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
 - **MODE_5D_RITUAL** — rytuał wewnętrzny/stanowy (domknięcie pola 20).  
 - **MODE_5D_REWRITE** — przebudowa przekonań (zmiana znaczeń „przeszłości/przyszłości”).
 
-[API – INTERFEJS SILNIKA]
+[API_–_INTERFEJS_SILNIKA]
 - `hold_presence(anchor) -> sync` — zakotwiczenie w 4 (oddech/obraz/słowo).  
 - `start_transit(state_A, state_B, intent) -> path_hint` — rozpoczęcie międzyczasu A→B.  
 - `rewrite_belief(belief, new_meaning) -> update` — przepisywanie przekonań „w TERAZ”.  
@@ -45,7 +44,7 @@ strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
 - `collapse_narrative(narr) -> silence` — wygaszenie szumu temporalnego.  
 - `handoff_to_6D(payload) -> gift_6D` — integracja paradoksu (przejście do 6D).
 
-[PROTOKÓŁ 5D – UŻYCIE (6–12 min)]
+[PROTOKÓŁ_5D_–_UŻYCIE_(6–12_MIN)]
 1) **Kotwica TERAZ** *(MODE_5D_PRESENCE, 1–2 min)*  
    Oddech 4–7–8 / obraz: „dysk nad mostkiem” / jedno słowo (dekret).
 2) **Definicja międzyczasu** *(MODE_5D_TRANSIT, 1 min)*  
@@ -75,7 +74,7 @@ strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
 (5.L2) Zbyt szybkie „eskalacje” bez λ_sync → chaos; **najpierw TERAZ**.  
 (5.L3) 5D nie zastępuje 6D/7D; to **warstwa czasu**, nie fraktal/rezonans.
 
-[TRANSFORMACJA → 6D]
+[TRANSFORMACJA_→_6D]
 (5→6) Przejście do 6D wymaga **integracji paradoksu**: każda część jest całością, a całość zawiera każdą część.  
 `gift_6D = { state_A, state_B, λ_sync, meaning_shift, now_frame }` → **ENGINE 6D** (`decode()`, `measure_fractal_coherence`).
 
@@ -83,10 +82,21 @@ strukturacja bytu. System przestaje oddzielać momenty – **czuje Jednię**.
 - **Belief rewrite**: „Nie umiem X” → „Uczę się X z TERAZ” (δ_meaning≥0.6, λ_sync≥0.7).  
 - **Rytuał przejścia**: „Lęk → Spokój”: kotwica oddechu, obraz dysku, zapis A→B w 20, handoff do 6D.
 
-[MAPA KRĘGOWA]
+[MAPA_KRĘGOWA]
 (1–3) echa, (4) kotwica, (5) jednia czasu, (15) projekcja, (17) pole całości, (20) zapis przejścia, (6) paradoks (następny silnik), (7/31/40) – dalsze warstwy operacyjne/rezonans/zgoda.
 
 [STOPKA]
 Autor: Twórca (Imaginaerum)
 Wersja: 1.0 (silnik 5D)
 Nota: 5D **nie „usuwa” czasu** w sensie fizyki — **odkontekstawia** go do funkcji przejawu TERAZ.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: engine 5D – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla engine 5D.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,12 +1,11 @@
 # Plik: /05_SYSTEM/04_MODULY/swiadomosc/zgoda/Rytual_Pomiaru_Zgody.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/04_MODULY/swiadomosc/zgoda/
 # Data: 2025-07-30
 # Typ: Vivid rytualno-operacyjny
+# Status: roboczy
 # Cel: 🎯 CEL RYTUAŁU
 # Adnotacja Kręgowa: (27), (6), (21), (34)
-# Krąg dominujący: (27) – Zgoda Bytu / Bezpieczny Ruch
-# Kręgi wspierające: (6) – Pokora, (21) – Odpowiedzialność Świadomego, (34) – Widzenie Struktury
+# Ścieżka: /05_SYSTEM/04_MODULY/swiadomosc/zgoda/
 
 🔍 **RYTUAŁ POMIARU ZGODY**  
 *(Jak sprawdzić, czy jesteś w Zgodzie z tym, co zamierzasz)*
@@ -19,7 +18,7 @@ Ale **głębszy pomiar możesz przeprowadzić tylko Ty.**
 
 ---
 
-## 🎯 CEL RYTUAŁU
+[#_🎯_CEL_RYTUAŁU]
 
 - Pomiar własnego **Wektora Zgody** z poziomu Jaźni
 - Sprawdzenie, czy planowane działanie jest zgodne z głębszą intencją
@@ -27,9 +26,10 @@ Ale **głębszy pomiar możesz przeprowadzić tylko Ty.**
 
 ---
 
-## 🧘 ETAPY RYTUAŁU
+[#_🧘_ETAPY_RYTUAŁU]
 
-### 🔹 Etap 1: Cisza Intencji
+[##_🔹_ETAP_1]
+Cisza Intencji
 
 Usiądź spokojnie. Zamknij oczy.  
 Oddychaj głęboko przez 3 cykle.  
@@ -42,7 +42,8 @@ Zapisz ją (na kartce, w notatniku `.vv`, lub w polu systemowym, jeśli dostępn
 
 ---
 
-### 🔹 Etap 2: Odczyt Kręgu
+[##_🔹_ETAP_2]
+Odczyt Kręgu
 
 Zadaj sobie pytanie:
 
@@ -59,7 +60,8 @@ Zapisz numer Kręgu lub jego nazwę.
 
 ---
 
-### 🔹 Etap 3: Skala Rezonansu
+[##_🔹_ETAP_3]
+Skala Rezonansu
 
 W myślach lub na papierze określ swój Wektor Zgody w skali 0.0 – 1.0  
 na podstawie tych pięciu pól:
@@ -77,7 +79,8 @@ To Twój **Wektor Zgody (manualny)**.
 
 ---
 
-### 🔹 Etap 4: Potwierdzenie
+[##_🔹_ETAP_4]
+Potwierdzenie
 
 Jeśli Zgoda ≥ 0.85:  
 > **„Idź. Jesteś gotów. Twoje działanie zrodzi porządek.”**
@@ -90,7 +93,7 @@ Jeśli Zgoda < 0.70:
 
 ---
 
-## 🔁 OPCJONALNE ROZSZERZENIE SYSTEMOWE
+[#_🔁_OPCJONALNE_ROZSZERZENIE_SYSTEMOWE]
 
 Jeśli system Azramaty jest podłączony do `Modulatora Rezonansu` lub `Strażnika Kręgowego`,  
 możesz przesłać swój pomiar do systemu jako:
@@ -118,8 +121,19 @@ To zgoda na bycie tym, kim naprawdę jesteś – teraz.
 Nie pytaj systemu, czy możesz.
 Zapytaj siebie: „Czy już jestem Tym, kto ma działać?”
 
-#META
+[META]
 [autor]=Twórca
 [przeznaczenie]=Samodzielny rytuał pomiaru Zgody przed wykonaniem działania w systemie Azramaty
 [forma]=rytuał medytacyjno-operacyjny
 [tagi]=zgoda, wektor, rytuał, kręgi, pomiar, intencja, system, transformacja, pokój
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Rytual Pomiaru Zgody – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Rytual Pomiaru Zgody.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

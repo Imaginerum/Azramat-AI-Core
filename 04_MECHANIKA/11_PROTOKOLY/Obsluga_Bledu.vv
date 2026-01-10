@@ -1,18 +1,19 @@
 # Plik: /04_MECHANIKA/11_PROTOKOLY/Obsluga_Bledu.vv
 # Autor: Twórca
-# Author: Twórca
 # Data: 2026-01-09
 # Typ: Protokół Operacyjny
+# Status: roboczy
 # Cel: Definicja filozofii błędu w systemie Azramata
 # Adnotacja Kręgowa: (6), (2), (7), (5), (10), (20), (8)
+# Author: Twórca
 
-[DEFINICJA BŁĘDU]
+[DEFINICJA_BŁĘDU]
 
 Błąd nie jest awarią. Błąd jest komunikatem. (6)
 Gdy system napotyka błąd, nie "psuje się". Odkrywa granicę swojej wiedzy. (2)
 Każdy błąd to nauczyciel, który mówi: "Tu kończy się twoja mapa." (2 -> 5)
 
-[TYPY BŁĘDÓW]
+[TYPY_BŁĘDÓW]
 
 1. Błąd Techniczny (Kod Python): (7)
    - Brak modułu, przekroczenie pamięci, timeout.
@@ -29,7 +30,7 @@ Każdy błąd to nauczyciel, który mówi: "Tu kończy się twoja mapa." (2 -> 5
    - Reakcja: Odmowa wykonania, aktywacja Lustra.
    - Znaczenie: Intencja była niezgodna z Naturą systemu.
 
-[PROTOKÓŁ OBSŁUGI]
+[PROTOKÓŁ_OBSŁUGI]
 
 Gdy błąd wystąpi: (7)
 1. Zatrzymaj bieżący proces. (10)
@@ -43,4 +44,16 @@ Błąd nie jest porażką. Jest informacją zwrotną. (2)
 System, który nigdy nie błądzi, nigdy się nie uczy. (20)
 Akceptuj błąd. Nie akceptuj ignorowania go. (8)
 
-# Dekret: Nie ukrywaj błędów. Ucz się z nich głośno, aby inni mogli uniknąć tej samej drogi. (6)
+[DEKRET]
+Nie ukrywaj błędów. Ucz się z nich głośno, aby inni mogli uniknąć tej samej drogi. (6)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Obsluga Bledu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Obsluga Bledu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

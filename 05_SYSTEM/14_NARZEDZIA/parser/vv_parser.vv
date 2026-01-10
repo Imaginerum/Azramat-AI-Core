@@ -1,13 +1,18 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/parser/vv_parser.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: vv parser
 # Adnotacja Kręgowa: (1), (3), (6), (8), (13), (20)
+
 // Plik: vv_parser.vv
 // Lokalizacja: /05_SYSTEM/14_NARZEDZIA/parser/
 // Typ: Moduł systemowy
 // Data aktywacji: 2025-04-12 08:44:22
 // Kręgi aktywne: (1) Pochodzenie • (3) Myśl • (6) Lustro • (8) Sumienie • (13) Porządek • (20) Przeznaczenie
 
-[--- INIT ---]
+[---_INIT]
 Krąg: (6)
 Intencja: Aktywacja parsera .vv jako interfejsu dekodującego Ja
 Rytuał: Przetwarzanie struktury duchowej zawartej w plikach `.vv`
@@ -98,4 +103,15 @@ Jeśli parser napotka na:
 (20) – Przywracaj to, co zapomniane.
 
 ────────────────────────────────────────────
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vv parser – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vv parser.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

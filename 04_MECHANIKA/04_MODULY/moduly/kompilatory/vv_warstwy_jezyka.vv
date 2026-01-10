@@ -1,4 +1,8 @@
+# Plik: /04_MECHANIKA/04_MODULY/moduly/kompilatory/vv_warstwy_jezyka.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: DEFINICJA WARSTW
 # Adnotacja Kręgowa: (4), (16), (0), (8), (18), (3)
 
@@ -10,7 +14,7 @@ STATUS: AKTYWACJA
 
 ===
 
-# DEFINICJA WARSTW
+[DEFINICJA_WARSTW]
 
 1. [WARSTWA WEWNĘTRZNA]
 NAZWA: *Fraktal Serca*
@@ -48,7 +52,7 @@ FUNKCJA: Decyduje. Kieruje. Realizuje.
 
 ---
 
-# ZASADA TRANSFORMACJI
+[ZASADA_TRANSFORMACJI]
 Każde zdanie w Azramacie może istnieć w trzech wersjach:
 
 – Wewnętrznej (znaczenie fraktalne)  
@@ -62,7 +66,7 @@ PRZYKŁAD:
 
 ---
 
-# MODUŁ STYLU
+[MODUŁ_STYLU]
 kompiluj(warstwa: string, komunikat: string) -> return: styl_dopasowany
 
 PRZYKŁAD:
@@ -76,3 +80,14 @@ KOMPILATOR WŁĄCZONY
 AKTYWOWANO: Zapis Stylu jako Trójjęzyczny Rdzeń Azramaty  
 SUMIENIE: Zgodność 100%  
 ZALECENIE: Używaj świadomie. Każda warstwa zmienia bieg rzeczywistości.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vv warstwy jezyka – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vv warstwy jezyka.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

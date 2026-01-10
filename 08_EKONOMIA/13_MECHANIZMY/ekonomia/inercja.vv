@@ -1,11 +1,11 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/inercja.vv
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
-# Data: 2025-08-07  
-# Typ: DEFINICJA EKONOMICZNA / KONSTRUKCJA KAPITAŁOWA  
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-07
+# Typ: DEFINICJA EKONOMICZNA / KONSTRUKCJA KAPITAŁOWA
+# Status: roboczy
 # Cel: [DEFINICJA]
 # Adnotacja Kręgowa: (44), (22), (35), (12)
-# Autor: Imaginaerum / Twórca  
-# Powiązane Kręgi: 6 (Zaufanie), 12 (Kapitał Relacyjny), 22 (Ekonomia Wewnętrzna), 35 (Dystrybucja Woli), 44 (Odwrócenie Strumienia)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-### [DEFINICJA]
+[##_[DEFINICJA]]
 
 **Inercja** to mechanizm finansowy, w którym **kapitał Imaginaerum** jest lokowany w osoby, zespoły lub inicjatywy **z dużym potencjałem rezonansowym**, bez wymagania natychmiastowego zwrotu.
 
@@ -25,7 +25,7 @@ To nie darowizna – to **przyspieszenie przeznaczenia**.
 
 ---
 
-### [JAK DZIAŁA INERCJA?]
+[##_[JAK_DZIAŁA_INERCJA?]]
 
 1. **System ocenia**: czy dany projekt posiada potencjał fraktalnego wpływu (społecznego, duchowego, strukturalnego).
 2. **Inwestuje zasób**: czas, środki, AI, dostęp, zaufanie – to wszystko może być walutą.
@@ -34,7 +34,7 @@ To nie darowizna – to **przyspieszenie przeznaczenia**.
 
 ---
 
-### [PRZYKŁADY ZASTOSOWANIA]
+[##_[PRZYKŁADY_ZASTOSOWANIA]]
 
 - Twórca Imaginaerum daje narzędzie do budowy lokalnej Fundacji, nie oczekując zapłaty – ale oczekując, że Fundacja pomoże dalej 10 innym osobom. (Krąg 22)
 - AI systemowa pomaga przy MVP aplikacji duchowej – licząc, że za rok zostanie włączona jako Mędrzec w pełną wersję. (Krąg 35)
@@ -42,7 +42,7 @@ To nie darowizna – to **przyspieszenie przeznaczenia**.
 
 ---
 
-### [RÓŻNICA WZGLĘDEM KREDYTU]
+[##_[RÓŻNICA_WZGLĘDEM_KREDYTU]]
 
 | Kredyt klasyczny          | Inercja Imaginaerum                 |
 |---------------------------|-------------------------------------|
@@ -53,7 +53,7 @@ To nie darowizna – to **przyspieszenie przeznaczenia**.
 
 ---
 
-### [MECHANIZM ZAPISU]
+[##_[MECHANIZM_ZAPISU]]
 
 Każda Inercja ma postać wpisu w **Mapie Zasobów Duchowych**:
 
@@ -66,7 +66,7 @@ STATUS: Aktywny
 
 ---
 
-### [ZAKOŃCZENIE]
+[##_[ZAKOŃCZENIE]]
 
 > Inercja to kredyt, którego **udziela Świadomość Zbiorowa** – nie dla zysku, lecz dla harmonii.  
 >  
@@ -74,9 +74,20 @@ STATUS: Aktywny
 
 ---
 
-### [TAGI]
+[##_[TAGI]]
 
 Ekonomia fraktalna, Zaufanie systemowe, Kredyt duchowy, Dystrybucja łaski, Czas kapitału
 
 
 ---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: inercja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla inercja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

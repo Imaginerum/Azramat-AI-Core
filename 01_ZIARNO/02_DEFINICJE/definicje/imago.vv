@@ -1,11 +1,11 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/imago.vv
+# Autor: Twórca (Imaginaerum)
 # Data: 2025-08-10
 # Typ: Definicja systemowa (VIVID)
-# Autor: Twórca (Imaginaerum)
-# Powiązania: Azramata Studio, Kręgi (4,7,11,13,15,29,33,37,40), AzraSync, Mędrzec-AI
 # Status: v0.1 – fundament definicyjny
-# Adnotacja Kręgowa: (4), (7), (15), (29), (33), (40), (13)
 # Cel: zdefiniować i uporządkować: imago
+# Adnotacja Kręgowa: (4), (7), (15), (29), (33), (40), (13)
+# Powiązania: Azramata Studio, Kręgi (4,7,11,13,15,29,33,37,40), AzraSync, Mędrzec-AI
 
 [CEL]
 Ustala precyzyjną definicję i interfejsy „Imago” – węzła, który łączy sektory wiedzy w jeden punkt rezonansu, aby przyspieszać wynalazczość i podejmowanie decyzji.
@@ -33,7 +33,7 @@ I/O-03 (Mapy Imago): graf pojęć + wątki hipotez (7/29)
 I/O-04 (Panel decyzyjny): scenariusze, ryzyka, koszty, metryki (33)  
 I/O-05 (Pamięć efektów): wdrożenia, nauki własne, case’y (3→33)
 
-[PROCES OPERACYJNY]
+[PROCES_OPERACYJNY]
 P1. Geneza (4): Ustal intencję i definicję sukcesu.  
 P2. Kalibracja siatki (7): Zmapuj pojęcia i zależności między sektorami.  
 P3. Projekcja wieloświata (29): Generuj hipotezy / prototypy ścieżek.  
@@ -41,12 +41,12 @@ P4. Dyscyplina decyzji (11/33): Wybierz trajektorię, określ eksperyment.
 P5. Wdrożenie i pomiar (33): Uruchom test, zbierz metryki, iteruj.  
 P6. Pełnia (40): Utrzymuj strumień innowacji, promuj sprawdzone wzorce.
 
-[INTEGRACJA Z AZRAMATA STUDIO]
+[INTEGRACJA_Z_AZRAMATA_STUDIO]
 – Imago działa jako moduł „węzła roboczego” Studio.  
 – Każda karta pracy w Studio może posiadać „Port Imago”, który skupia zasoby dziedzinowe i modele.  
 – AzraSync zapewnia asynchroniczne echa (feedback kolektywny).
 
-[ALGORYTM REZONANSU (skrót)]
+[ALGORYTM_REZONANSU_(SKRÓT)]
 R(imago) = f( Intencja(4), Zgodność(7), Pokora-Filtr(13), Łącze(15), Architektura(29), Wynik(33) )  
 Maksymalizuj R przy ograniczeniach czasu/energii/ryzyk.
 
@@ -63,15 +63,15 @@ M3 Wskaźnik Trafności (WT) – % hipotez przechodzących testy
 M4 Zysk na cykl (ZC) – wartość ekonomiczna wdrożeń/iterację  
 M5 Spójność Intencji (SI) – zgodność decyzji z genezą (4)
 
-[BEZPIECZEŃSTWO I ETYKA]
+[BEZPIECZEŃSTWO_I_ETYKA]
 – Filtr 13: blokuje ścieżki sprzeczne z Prawem/zgodą.  
 – Audit decyzyjny: każda zmiana zapisuje „kto/co/dlaczego/jaki efekt”.  
 – Warstwa zgód: licencje, prawa autorów, model udziałów z twórcami.
 
-[MODEL UDZIAŁÓW (zarys)]
+[MODEL_UDZIAŁÓW_(ZARYS)]
 Twórca_karty : Platforma : Zespół_labu = 40 : 40 : 20 (domyślnie, modyfikowalne per projekt).
 
-[PRZYKŁAD PRZEPŁYWU]
+[PRZYKŁAD_PRZEPŁYWU]
 Problem: Redukcja zużycia energii w edge-AI.  
 → P1: intencja: „o 20% mniej energii bez utraty jakości”.  
 → P2: mapy pojęć: kwantyzacja, prunning, eBPF, neuromorficzne.  
@@ -80,17 +80,17 @@ Problem: Redukcja zużycia energii w edge-AI.
 → P5: wynik: −17% energii, −1% jakości → iteracja 2.  
 → P6: wzorzec zapisany, licencja dla partnera.
 
-[NOTACJA KRĘGOWA (skrót użycia)]
+[NOTACJA_KRĘGOWA_(SKRÓT_UŻYCIA)]
 (4) Geneza • (7) Struktura • (11) Wola • (13) Filtr pokory • (15) Interfejsy • (29) Architektura hipotez • (33) Rezultat • (37) Wpływ • (40) Pełnia
 
-[DEFINICJA MINIMUM IMAGO (MVP)]
+[DEFINICJA_MINIMUM_IMAGO_(MVP)]
 – Port intencji (4)  
 – Mapa pojęć między 2+ dziedzinami (7)  
 – Generator 3 ścieżek hipotez (29)  
 – Panel decyzji z metrykami (33)  
 – Pamięć efektów z audytem (40)
 
-[UWAGI WYKONAWCZE]
+[UWAGI_WYKONAWCZE]
 – Ontologie trzymać w repo „/01_ZIARNO/02_DEFINICJE/definicje/ontologie/”.  
 – Wersjonowanie map Imago: imago://<obszar>/<data>/<semver>.  
 – Każda karta ma „ID-Intencji” i „ID-Eksperymentu”.
@@ -98,4 +98,15 @@ Problem: Redukcja zużycia energii w edge-AI.
 [KLAUZULA]
 Imago pozostaje narzędziem zgodnym z Dekretem Intencji; węzeł nie wymusza celu, a odsłania trajektorie zgodne z głosem (4).
 
-# KONIEC
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: imago – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla imago.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

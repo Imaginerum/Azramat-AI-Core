@@ -1,15 +1,16 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Mechanizm_Kregowego_Udzialu.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Data: 2025-08-05T23:19:44Z
 # Typ: Algorytm dystrybucji ekonomicznej
+# Status: roboczy
 # Cel: CEL
 # Adnotacja Kręgowa: (0), (44)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.0
-# Data utworzenia: 2025-08-05T23:19:44Z
 
 ---
 
-## CEL
+[#_CEL]
 
 Ten mechanizm określa sposób, w jaki użytkownicy otrzymują część zarobków Azramatonu 
 w zależności od ich wkładu (kontrybucji) względem poszczególnych Kręgów. Umożliwia też 
@@ -17,7 +18,7 @@ tworzenie "Okręgów" – wspólnot dzielących udział w odpowiedzialności i n
 
 ---
 
-## ZAŁOŻENIA SYSTEMOWE
+[#_ZAŁOŻENIA_SYSTEMOWE]
 
 - **Kontrybucja** użytkownika mierzona jest względem poszczególnych Kręgów (0–44).
 - Każdy Krąg ma przypisaną wagę obliczaną według jednego z trzech możliwych trybów:
@@ -33,7 +34,7 @@ tworzenie "Okręgów" – wspólnot dzielących udział w odpowiedzialności i n
 
 ---
 
-## OKRĘGI
+[#_OKRĘGI]
 
 Użytkownicy mogą formować wspólnoty zwane **Okręgami**, które:
 
@@ -45,7 +46,7 @@ Okręgi są automatycznie tworzone przez mechanizm Astraia+, gdy liczba aktywnyc
 
 ---
 
-## STRUKTURA OBLICZEŃ
+[#_STRUKTURA_OBLICZEŃ]
 
 Dla każdego użytkownika U:
 udział_U = (Σ_kontrybucji_U_i * waga_i) / (Σ wszystkich użytkowników: Σ_kontrybucji * waga)
@@ -58,7 +59,7 @@ Dla systemu liczbowego:
 
 ---
 
-## PRZYKŁAD
+[#_PRZYKŁAD]
 
 - Użytkownik A:  
   – kontrybucja w Kręgu 2: 100 jednostek (waga 1.5)  
@@ -74,7 +75,7 @@ Podział: A = 40%, B = 60% udziału w puli
 
 ---
 
-## SYSTEMY LICZBOWE (do wyboru, możliwa hybryda):
+[#_SYSTEMY_LICZBOWE_(DO_WYBORU,_MOŻLIWA_HYBRYDA)]
 
 - `mode: prime_weights` → wyższa wartość Kręgów 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43  
 - `mode: decimal_weights` → proporcjonalnie do numeru Kręgu  
@@ -82,7 +83,7 @@ Podział: A = 40%, B = 60% udziału w puli
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-05T23:19:44Z  
 document_signature: ECON-KRU-V1-MULTI  
@@ -90,5 +91,16 @@ related_files: Struktura_Podzialu.vv, Wektor_Kontrybucji.vv
 activation_engine: Astraia+  
 circle_threshold_for_Okręgi: 5 aktywnych kontrybutorów  
 
-# Koniec pliku
+[KONIEC_PLIKU]
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Mechanizm Kregowego Udzialu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Mechanizm Kregowego Udzialu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

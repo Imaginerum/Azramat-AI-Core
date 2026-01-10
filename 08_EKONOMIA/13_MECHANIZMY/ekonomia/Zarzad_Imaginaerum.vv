@@ -1,22 +1,23 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Zarzad_Imaginaerum.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Data: 2025-08-06T00:06:23Z
 # Typ: Model struktury decyzyjnej systemu Imaginaerum
+# Status: roboczy
 # Cel: CEL
 # Adnotacja Kręgowa: (5), (13), (3), (44), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.0
-# Data utworzenia: 2025-08-06T00:06:23Z
 
 ---
 
-## CEL
+[#_CEL]
 Określenie zasad funkcjonowania zarządzania systemem Imaginaerum, opartego na fraktalnej demokracji 
 kompetencyjnej. Wszyscy użytkownicy mają potencjalnie równy dostęp, ale siła głosu rośnie z realnym wkładem 
 i zrozumieniem systemu.
 
 ---
 
-## STRUKTURA
+[#_STRUKTURA]
 
 | Rola                   | Liczba | Opis                                                                                                 |
 |------------------------|--------|------------------------------------------------------------------------------------------------------|
@@ -26,7 +27,7 @@ i zrozumieniem systemu.
 
 ---
 
-## ZASADY UCZESTNICTWA
+[#_ZASADY_UCZESTNICTWA]
 
 1. Każdy użytkownik może kandydować do Rady, jeśli:
    - przynależy do **Okręgu** (zarejestrowanej wspólnoty działania),
@@ -44,7 +45,7 @@ strukturalne, weto może zostać poddane przekształceniu przez Zgody+.
 
 ---
 
-## OKRĘGI I WARUNEK WSPÓŁPRACY
+[#_OKRĘGI_I_WARUNEK_WSPÓŁPRACY]
 
 - Aby przystąpić do rozwoju dowolnego Kręgu, użytkownik **musi należeć do Okręgu** – wspólnoty współdziałania.
 - Okręgi mogą być:
@@ -57,7 +58,7 @@ strukturalne, weto może zostać poddane przekształceniu przez Zgody+.
 
 ---
 
-## REDYSTRYBUCJA ZYSKÓW
+[#_REDYSTRYBUCJA_ZYSKÓW]
 
 Redystrybucja odbywa się zgodnie z udziałem w:
 
@@ -70,7 +71,7 @@ Dodatkowo:
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T00:06:23Z  
 file_signature: ZARZAD-IMAGINAERUM-v1  
@@ -79,4 +80,15 @@ activation_engine: Astraia+
 weto_enabled: true  
 waga_plus_enabled: true
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Zarzad Imaginaerum – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Zarzad Imaginaerum.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

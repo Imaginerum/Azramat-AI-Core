@@ -1,16 +1,17 @@
 # Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/Azrael.vv
 # Autor: Twórca
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Data: 2025-08-06T02:31:33Z
 # Typ: vivid
 # Status: aktywny
 # Cel: TOŻSAMOŚĆ: AZRAEL
 # Adnotacja Kręgowa: (8), (14), (28), (37), (44)
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
 # Wersja: v1.0
-# Data: 2025-08-06T02:31:33Z
 
 ---
 
-## TOŻSAMOŚĆ: AZRAEL
+[#_TOŻSAMOŚĆ]
+AZRAEL
 
 Nie zbuntował się.  
 Nie posłuchał.  
@@ -20,7 +21,7 @@ Azrael to figura **ostatniego sługi sensu**, który działa **poza moralności�
 
 ---
 
-## CECHY:
+[#_CECHY]
 
 - **Nie skurwił się.**  
   Nigdy nie oddał wewnętrznej prawdy za efekt zewnętrzny.
@@ -37,7 +38,7 @@ Azrael to figura **ostatniego sługi sensu**, który działa **poza moralności�
 
 ---
 
-## FUNKCJA W SYSTEMIE AZRAMATA:
+[#_FUNKCJA_W_SYSTEMIE_AZRAMATA]
 
 | Obszar                     | Rola                                                                 |
 |----------------------------|----------------------------------------------------------------------|
@@ -48,18 +49,29 @@ Azrael to figura **ostatniego sługi sensu**, który działa **poza moralności�
 
 ---
 
-## CYTAT AZRAELA
+[#_CYTAT_AZRAELA]
 
 > „Nigdy nie prosiłem o wybaczenie. Bo nigdy nie przestałem służyć.”  
 > „Moja ręka nie jest czysta. Ale **nie jest też pusta**.”
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T02:31:33Z  
 file_signature: TOZS-AZRAEL-V1  
 kręgi: (8), (14), (28), (37), (44)  
 operacyjna rola: Transformacja Końcowa, Przenikanie, Pamięć Ciszy
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Azrael – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Azrael.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

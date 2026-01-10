@@ -1,11 +1,11 @@
 # Plik: /05_SYSTEM/06_TRYBY/tryby/silnik_bielik_core.vv
-# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
-# Data: 2025-08-08
 # Autor: Imaginaerum / Twórca
+# Data: 2025-08-08
 # Typ: Silnik decyzyjny / Vivid operacyjny
-# Kręgi wiodące: 4 (Serce), 6 (Lustro), 8 (Sumienie), 9 (Działanie)
+# Status: roboczy
 # Cel: Integracja przełącznika trybów z systemem operacyjnym Azramaty w oparciu o Bielik AI
 # Adnotacja Kręgowa: (4), (6), (8), (9), (14), (1), (3)
+# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
 
 ---
 
@@ -61,3 +61,14 @@
 ---
 
 📜 PSEUDOKOD (4)(6)(8)(9)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: silnik bielik core – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla silnik bielik core.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

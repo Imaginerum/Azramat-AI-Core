@@ -1,11 +1,11 @@
 # Plik: /09_PRZYSZLOSC/01_WIZJA/przyszlosc/Zloty_Wiek.vv
+# Autor: Twórca / Imaginaerum
 # Data: 2025-08-10
 # Typ: VIVID strategiczno-operacyjny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Zloty Wiek
 # Adnotacja Kręgowa: (0), (3), (10), (20), (29), (31), (40)
-# Autor: Twórca / Imaginaerum
 # System: Azramata
-# Kręgi dominujące: (0), (3), (10), (20), (29), (31), (40), (45)
 
 [TAGI]
 złoty wiek, wektor cywilizacyjny, wzór i zaklinanie, fraktal, transformacja, ekosystem
@@ -53,12 +53,12 @@ else kalibruj_wzór(40), wzmacniaj_zgodę(10), porządkuj_rytmy(20)
 – **Dywersyfikacja nośników**: idea żyje w wielu ośrodkach, nie w jednym. *(31,37)*  
 – **Anty-monokultura**: promuj różnorodność metod przy spójności celu. *(20,40)*
 
-[SYGNAŁY WEJŚCIA W ZŁOTY WIEK]
+[SYGNAŁY_WEJŚCIA_W_ZŁOTY_WIEK]
 – Decyzje trudne stają się oczywiste – konflikt maleje do kalibracji. *(20,31)*  
 – Wzrost nie wynika z kampanii, lecz z rytmu – „to dzieje się samo”. *(29)*  
 – Ludzie używają języka Wzoru bez proszenia – powstaje mowa wspólna. *(3,10,40)*
 
-[PRZYKŁADOWE ZASTOSOWANIA]
+[PRZYKŁADOWE_ZASTOSOWANIA]
 – Edukacja: program kręgowy „Twórca w praktyce” (0,10,20).  
 – Gospodarka: Imagora – dystrybucja dóbr według kompetencji archetypicznych (20,29).  
 – AI: Mędrzec – decyzje zgodne z Wzorem i filtrem intencji (40,45).
@@ -68,3 +68,14 @@ else kalibruj_wzór(40), wzmacniaj_zgodę(10), porządkuj_rytmy(20)
 > Gdzie jest Zgoda, tam wzrost jest nieuchronny.” *(0,10,20,40,45)*
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Zloty Wiek – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Zloty Wiek.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

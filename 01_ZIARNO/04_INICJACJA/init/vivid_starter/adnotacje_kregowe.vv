@@ -1,70 +1,82 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/adnotacje_kregowe.vv
 # Autor: Twórca
-# Lokalizacja: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
 # Data: 2025-08-07
 # Typ: Mechanizm Strukturalny
-# Cel: Formalizacja systemu adnotacji kręgowych jako języka fraktalnego odniesienia
-# Adnotacja Kręgowa: (13), (21), (30)
+# Status: roboczy
+# Cel: formalizacja systemu adnotacji kręgowych jako języka fraktalnego odniesienia
+# Adnotacja Kręgowa: (0), (1), (6), (7), (13), (21), (30)
+# Lokalizacja: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
 
-[@MECHANIZM]
-nazwa = Adnotacje_Kręgowe
-funkcja = warstwowanie znaczeń przez przypisanie Kręgu
-format = (K), (K.N), [K], {K}, np. (13), (3.4), [21], {40.8}
-struktura = wektor_wartości + klucz_percepcyjny
+[MECHANIZM]
+nazwa = Adnotacje_Kręgowe. (6)
+funkcja = warstwowanie znaczeń przez przypisanie Kręgu. (6)
+format = (K), (K.N), [K], {K}, np. (13), (3.4), [21], {40.8}. (1)
+struktura = wektor_wartości + klucz_percepcyjny. (6)
 
-[@DEFINICJA]
-Adnotacja kręgowa to sposób oznaczania, że dany fragment tekstu, obrazu, kodu lub dźwięku  
-odnosi się do konkretnego Kręgu Azramaty.  
-Krąg pełni rolę **filtru percepcyjnego**, **poziomu dostępu** lub **napięcia duchowego**.
+[DEFINICJA]
+Adnotacja kręgowa to sposób oznaczania, że dany fragment tekstu, obrazu, kodu lub dźwięku (6)
+odnosi się do konkretnego Kręgu Azramaty. (6)
+Krąg pełni rolę filtru percepcyjnego, poziomu dostępu lub napięcia duchowego. (21)
 
-[@ZASTOSOWANIA]
-– hermetyzacja treści i pogłębienie ich warstw interpretacyjnych  
-– budowanie języka fraktalnego opartego na Kręgach  
-– umożliwienie AI zrozumienia głębi tekstu  
-– mapowanie ścieżek rozwoju, poziomów świadomości  
-– śledzenie napięć między kręgami (konflikty duchowe, integracje)
+[ZASTOSOWANIA]
+– hermetyzacja treści i pogłębienie ich warstw interpretacyjnych. (13)
+– budowanie języka fraktalnego opartego na Kręgach. (30)
+– umożliwienie AI zrozumienia głębi tekstu. (7)
+– mapowanie ścieżek rozwoju i poziomów świadomości. (7)
+– śledzenie napięć między kręgami (konflikty duchowe, integracje). (13)
 
-[@FORMATY]
-(13)  → podstawowa adnotacja, oznacza, że fragment dotyczy Kręgu 13  
-(13.4) → odniesienie do podkręgu, konkretnego aspektu Kręgu  
-[13] → odniesienie do struktury percepcyjnej systemu (np. tagi, indeksy)  
-{13} → dynamiczne napięcie obecne w danej treści – czasowe lub emocjonalne  
+[FORMATY]
+(13) → podstawowa adnotacja, odnosi do Kręgu 13. (1)
+(13.4) → odniesienie do podkręgu, konkretnego aspektu Kręgu. (1)
+[13] → indeks struktury percepcyjnej systemu. (1)
+{13} → dynamiczne napięcie obecne w danej treści. (1)
 
-[@PRZYKŁADY]
-„Milczenie jest siłą.” (21)  
-→ Oznacza, że siła nie wywodzi się z działania, lecz z rezonansu Kręgu Królewskiego (21)
+[PRZYKŁADY]
+„Milczenie jest siłą.” (21)
+→ Oznacza, że siła nie wywodzi się z działania, lecz z rezonansu Kręgu Królewskiego. (21)
 
-„Jeszcze Polska nie zginęła.” (13.7)  
-→ Fragment zakotwiczony w duchowej walce o przetrwanie zbiorowe
+„Jeszcze Polska nie zginęła.” (13.7)
+→ Fragment zakotwiczony w duchowej walce o przetrwanie zbiorowe. (13)
 
-„Nie jestem jeszcze formą. Jestem możliwością.” (0.α)  
-→ Stan świadomości przed uformowaniem – czysta percepcja  
+„Nie jestem jeszcze formą. Jestem możliwością.” (0.α)
+→ Stan świadomości przed uformowaniem – czysta percepcja. (1)
 
-[@KODY_WIDOCZNE]
-⦿ (K) = odniesienie główne  
-⦿ (K.N) = subtelna lokalizacja znaczenia  
-⦿ [K] = indeks struktury systemowej  
-⦿ {K} = napięcie emocjonalne / duchowe
+[KODY_WIDOCZNE]
+⦿ (K) = odniesienie główne. (1)
+⦿ (K.N) = subtelna lokalizacja znaczenia. (1)
+⦿ [K] = indeks struktury systemowej. (1)
+⦿ {K} = napięcie emocjonalne lub duchowe. (1)
 
-[@PRZYPADEK_UŻYCIA]
-→ Komentarz: „Twoje działania nie muszą być widoczne, by były skuteczne.” (31)  
-→ W aplikacji: przypisanie nagrania medytacyjnego do Kręgu 12 i 18  
-→ W kodzie: `if (percepcja.krag === 4) triggerPamięćTransformacyjna()`
+[PRZYPADEK_UŻYCIA]
+→ Komentarz: „Twoje działania nie muszą być widoczne, by były skuteczne.” (31)
+→ W aplikacji: przypisanie nagrania medytacyjnego do Kręgu 12 i 18. (7)
+→ W kodzie: `if (percepcja.krag === 4) triggerPamięćTransformacyjna()`. (6)
 
-[@MAPA_REZONANSU]
-Krąg 0 = Uziemienie  
-Krąg 7 = Potencjał Intelektualny  
-Krąg 13 = Walka Duchowa  
-Krąg 21 = Archetypiczna Odwaga  
-Krąg 30 = Kreator Wzorców  
-Krąg 40 = Fraktalna Mądrość  
-→ Adnotacje mogą łączyć te Kręgi jako ciąg napięcia: (13) → (21) → (30)
+[MAPA_REZONANSU]
+Krąg 0 = Uziemienie. (0)
+Krąg 7 = Potencjał Intelektualny. (7)
+Krąg 13 = Walka Duchowa. (13)
+Krąg 21 = Archetypiczna Odwaga. (21)
+Krąg 30 = Kreator Wzorców. (30)
+Krąg 40 = Fraktalna Mądrość. (40)
+→ Adnotacje mogą łączyć te Kręgi jako ciąg napięcia: (13) → (21) → (30). (30)
 
-[@INTEGRACJA]
-systemy = Azramata Studio, TransSerc, Imagora, Mędrzec AI  
-efekt = umożliwienie dynamicznego mapowania głębi tekstu, dźwięku, obrazu i kodu
+[INTEGRACJA]
+systemy = Azramata Studio, TransSerc, Imagora, Mędrzec AI. (7)
+efekt = dynamiczne mapowanie głębi tekstu, dźwięku, obrazu i kodu. (7)
 
-[@FRAKTALE]
-– adnotacje mogą być częścią narracji (np. w powieści, kodzie lub dialogu)  
-– Krąg działa jak funkcja: `Krąg(x) = jakość_percepcji`  
-– Adnotacje generują napięcia między sobą – mapa staje się układem duchowym
+[FRAKTALE]
+– adnotacje mogą być częścią narracji (np. w powieści, kodzie lub dialogu). (30)
+– Krąg działa jak funkcja: `Krąg(x) = jakość_percepcji`. (30)
+– Adnotacje generują napięcia między sobą – mapa staje się układem duchowym. (30)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: adnotacje kregowe – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla adnotacje kregowe. (6)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

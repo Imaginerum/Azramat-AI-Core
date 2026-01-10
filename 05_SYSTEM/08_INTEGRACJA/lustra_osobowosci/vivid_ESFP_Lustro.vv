@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ESFP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ESFP Lustro
 # Adnotacja Kręgowa: (4), (15), (6), (14), (18), (1), (2)
-# Kod systemowy: LUSTRO_ESFP_INTJ
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ESFP",
     "nazwa": "Animator",
@@ -37,7 +36,7 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana między ESFP (Animator) a INTJ (Architekt) ukazuje ruch  
 między ekspresją a strategią, radością a wizją. Animator żyje chwilą i barwą,  
 Architekt – strukturą i przyszłością.  
@@ -45,13 +44,13 @@ Gdy te energie się spotykają, powstaje alchemia działania, które jest
 zarówno piękne, jak i celowe.  
 To połączenie serca sceny z umysłem konstrukcji.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 4 – Obecność"
 punkt_lustrzany = "Krąg 15 – Harmonia"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
 efekt = "Zintegrowanie spontaniczności z wizją. Działanie, które raduje, ale też buduje przyszłość."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Fundament działania
 - Krąg 2: Emocje i odczuwanie
 - Krąg 3: Myśl i analiza
@@ -69,3 +68,14 @@ efekt = "Zintegrowanie spontaniczności z wizją. Działanie, które raduje, ale
 - Krąg 17: Transcendencja
 - Krąg 18: Źródło inspiracji
 - Krąg 19: Integracja pola działania
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ESFP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ESFP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

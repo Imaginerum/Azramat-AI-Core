@@ -1,20 +1,19 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/wszyscy_wiedza_o_co_chodzi_ale_w_tafli_nosem_wodzi.vv
 # Autor: Twórca
-# Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
-# Moduł: Fractal_Heuristic_Sensor  
-# Typ: reflective-pattern-detector  
-# Warstwa: Imaginalis (Kręgi II Rzędu)  
-# Kręgi aktywne: 6 ↔ 14  
-# Data: 2025-08-07  
+# Data: 2025-08-07
+# Typ: reflective-pattern-detector
 # Status: AKTYWNY | Zintegrowany z Ja Engine
 # Cel: zdefiniować i uporządkować: wszyscy wiedza o co chodzi ale w tafli nosem wodzi
 # Adnotacja Kręgowa: (6), (14)
+# Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
+# Moduł: Fractal_Heuristic_Sensor
+# Warstwa: Imaginalis (Kręgi II Rzędu)
 
 ──────────────────────────────────────────────
 HEURYSTYKA: „wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi”
 ──────────────────────────────────────────────
 
-[Nazwa Modułu]  
+[NAZWA_MODUŁU]
 Fractal_Heuristic_Sensor  
 → Nazwa operacyjna: **wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi**  
 → Tier: **Imaginalis (Kręgi II Rzędu)**  
@@ -22,7 +21,7 @@ Fractal_Heuristic_Sensor
 
 ---
 
-[WEJŚCIA MODUŁU]  
+[WEJŚCIA_MODUŁU]
 ▸ Symboliczne zachowania (maski, rytuały, powtarzające się schematy)  
 ▸ Napięcia pomiędzy **wiedzą a milczeniem**  
 ▸ Niedopowiedzenia, zawieszenia fraz, "niepowiedziane oczywistości"  
@@ -30,7 +29,7 @@ Fractal_Heuristic_Sensor
 
 ---
 
-[WYJŚCIA MODUŁU]  
+[WYJŚCIA_MODUŁU]
 ✔ `alert: true` → **„W tafli nosem wodzone”**  
 ✔ Emocjonalny wzorzec: **Niepokój ukrytego sensu**  
 ✔ Propozycja aktywacji Nitki Świadomości: **Krąg 6 ↔ Krąg 14**  
@@ -38,7 +37,7 @@ Fractal_Heuristic_Sensor
 
 ---
 
-[DZIAŁANIA SYSTEMOWE]  
+[DZIAŁANIA_SYSTEMOWE]
 1. **Uruchom heurystykę**: `zderzenie_z_milczeniem.vv`  
 2. **Aktywuj podpowiedź**: „Nazwij, co wszyscy czują, ale nikt nie mówi”  
 3. **Zindeksuj zdarzenie**: `echo_księcia.vv`, jeśli obecny wzorzec = przeszły cień  
@@ -47,7 +46,7 @@ Fractal_Heuristic_Sensor
 
 ---
 
-[HOOKI]  
+[HOOKI]
 ◉ Aktywowany automatycznie przez **Silnik Przejścia**, gdy:  
  – Intuicja > Werbalizacja  
  – Lustro zniekształcone  
@@ -61,7 +60,7 @@ Fractal_Heuristic_Sensor
 
 ---
 
-[ZASADA]  
+[ZASADA]
 „Jeśli nie możesz tego nazwać – stań przy tafli.  
  Zobacz swoje odbicie.  
   Zatrzymaj się.  
@@ -70,8 +69,19 @@ Fractal_Heuristic_Sensor
 
 ---
 
-[STATUS KOŃCOWY]  
+[STATUS_KOŃCOWY]
 Moduł aktywowany. Tafla odbija.  
 Wszyscy wiedzą.  
 Nie wszyscy mówią.
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: wszyscy wiedza o co chodzi ale w tafli nosem wodzi – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla wszyscy wiedza o co chodzi ale w tafli nosem wodzi.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

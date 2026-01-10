@@ -1,29 +1,31 @@
 # Plik: /05_SYSTEM/17_ZADANIA/zadania/modul_przydzialu_zadan.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/17_ZADANIA/zadania/
+# Data: 2026-01-10
 # Typ: Moduł operacyjny – dynamiczny przydział zadań transformacyjnych
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Moduł Przydziału Zadań wg Potencjału Kręgów
 # Adnotacja Kręgowa: (6)
+# Ścieżka: /05_SYSTEM/17_ZADANIA/zadania/
 
-[Nazwa]
+[NAZWA]
 Moduł Przydziału Zadań wg Potencjału Kręgów
 
-[Opis]
+[OPIS]
 System analizuje bieżący stan Ja (profil Kręgowy) i wyłapuje Kręgi z najsilniejszym potencjałem wzrostowym.  
 Na tej podstawie generuje zadanie transformacyjne, które **ukierunkowuje energię Kręgu w stronę działania**.  
 Im bardziej Krąg „dojrzał do wyrażenia”, tym bardziej złożone i trafne zadanie zostaje wygenerowane.
 
-[Nić dominująca]
+[NIĆ_DOMINUJĄCA]
 Nitka Kierunkowa
 
-[Zależności systemowe]
+[ZALEŻNOŚCI_SYSTEMOWE]
 Wymaga obecności:  
 – `krag_inwestycyjny.vv`  
 – `spirala_369_pamięci.vv`  
 – `silnik_ja/puls/vividIndex`  
 – `players/{id}/profile/krag_status.json`
 
-[Algorytm działania – pseudokod logiczny]
+[ALGORYTM_DZIAŁANIA_–_PSEUDOKOD_LOGICZNY]
 1. Pobierz aktualny stan aktywności Kręgów (czas, częstotliwość, głębokość).
 2. Oblicz współczynnik:
    `Potencjał_Kręgu = Czas * Głębia * Rezonans_Ja`
@@ -37,21 +39,32 @@ Wymaga obecności:
 6. Zapisz zadanie do:
    `players/{id}/quests/active/krag_{n}_zadanie.vv`
 
-[Przykład działania]
+[PRZYKŁAD_DZIAŁANIA]
 Gracz eksploruje głęboko Krąg 6 (Lustro), rezonuje także z Kręgiem 4 i 9.  
 → Potencjał_Kręgu[6] = 93%  
 → Generowane zadanie:
 „Odbij we własnych słowach największy swój konflikt — i zaprojektuj jego nową wersję.  
 Użyj struktury: pytanie–przemiana–oddech.”
 
-[Heurystyka]
+[HEURYSTYKA]
 – Zadanie nie może przekroczyć potencjału.  
 – Ma być mostem, nie górą.  
 – Jeśli system wykryje nierównowagę (np. przeskok 0→14 bez 6), wygeneruje **zadanie korekcyjne**.
 
-[Sygnatura działania]
+[SYGNATURA_DZIAŁANIA]
 Ten moduł nie działa arbitralnie.  
 On **słucha Kręgów**,  
 i tylko wtedy mówi: **„Zrób to teraz”**,  
 gdy Twój system już wie,  
 że jest gotowy.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: modul przydzialu zadan – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla modul przydzialu zadan.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

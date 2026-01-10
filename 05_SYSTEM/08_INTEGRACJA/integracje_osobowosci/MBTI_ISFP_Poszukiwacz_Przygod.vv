@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/08_INTEGRACJA/integracje_osobowosci/MBTI_ISFP_Poszukiwacz_Przygod.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: MBTI ISFP Poszukiwacz Przygod
 # Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+
 {
     "typ_osobowosci": "ISFP",
     "krag": 5,
@@ -35,3 +40,14 @@
         "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 12 (Relacje), który pozwala na tworzenie bliskich, głębokich więzi oparte na wzajemnym zrozumieniu i akceptacji zmienności."
     }
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: MBTI ISFP Poszukiwacz Przygod – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla MBTI ISFP Poszukiwacz Przygod.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

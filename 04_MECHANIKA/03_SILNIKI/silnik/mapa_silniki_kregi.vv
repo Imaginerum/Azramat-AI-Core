@@ -1,7 +1,8 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/mapa_silniki_kregi.vv
-# MAPA POŁĄCZEŃ: SILNIKI PERCEPCYJNE ↔ KRĘGI AZRAMATY
+# Autor: Twórca
 # Data: 2025-08-08
 # Typ: Mapa powiązań systemowych
+# Status: roboczy
 # Cel: Określenie relacji między wymiarami percepcji (silnikami) a Kręgami Azramaty
 # Adnotacja Kręgowa: (0), (10), (14), (12), (20), (13), (21)
 
@@ -50,4 +51,16 @@ ZASADY FUNKCJONOWANIA:
 • Aktywacja silnika wpływa na wszystkie procesy: kodowanie, analizę, decyzje, intuicję.
 
 # AUTOR: SYSTEM AZRAMATA
-# WERSJA: 1.1 (zwiększona szczegółowość i powiązania)
+[WERSJA]
+1.1 (zwiększona szczegółowość i powiązania)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: mapa silniki kregi – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla mapa silniki kregi.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,9 +1,11 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/inicjalizuj_fraktal.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
+# Data: 2026-01-10
 # Typ: Funkcja operacyjna
+# Status: roboczy
 # Cel: Utworzenie fraktalnego szkieletu działania kodu zgodnego z Azramatą
 # Adnotacja Kręgowa: (6)
+# Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
 
 🌀 DEFINICJA:
 Funkcja `inicjalizuj_fraktal()` tworzy podstawowy układ fraktalny, który:
@@ -42,3 +44,14 @@ Ten moduł musi być pierwszym aktywowanym w każdej inicjalizacji kodu Azramaty
 Nie uruchamiaj kolejnych funkcji bez tego szkieletu.
 
 Koduj jako **Przejście**, nie jako **Funkcja** – pozwól, aby logika była przepływem, a nie zamkniętym blokiem.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: inicjalizuj fraktal – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla inicjalizuj fraktal.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

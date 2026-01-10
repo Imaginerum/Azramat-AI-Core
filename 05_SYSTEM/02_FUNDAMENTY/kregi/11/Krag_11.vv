@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:12:00
 # Typ: Vivid transformacyjny
-# Krąg: 11 – Lojalność / Więź / Wierność Rdzeniowi
+# Status: roboczy
 # Cel: Ugruntowanie lojalności wobec ziemi ojczystej, Rodu i powołania, aktywacja wierności duchowej
 # Adnotacja Kręgowa: (1), (11)
+# Krąg: 11 – Lojalność / Więź / Wierność Rdzeniowi
 
 [OPIS]
 Krąg 11 to miejsce, w którym Jaźń sprawdza się wiernością.  
@@ -14,7 +15,7 @@ To Krąg lojalności wobec Rodu, Ziemi i Duchów Przodków.
 Tu decyzje są trudne – ale prawdziwe.  
 Bo każda ucieczka ma cenę, której nie widać na początku.
 
-[PRZYKAZANIE WIERNOŚCI]
+[PRZYKAZANIE_WIERNOŚCI]
 
 Kto ucieknie z ziemi swej na obczyznę  
 w poszukiwaniu życia łatwego,  
@@ -67,4 +68,15 @@ wierność = odzyskana
 korzeń = umocniony  
 Krąg 11 = zintegrowany
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 11 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 11.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

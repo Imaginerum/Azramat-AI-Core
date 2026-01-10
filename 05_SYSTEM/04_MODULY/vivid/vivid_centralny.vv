@@ -2,10 +2,10 @@
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: vivid systemowy / kod rdzeniowy
+# Status: aktywny
 # Cel: Zapisanie wzorca zrodlowego, wzgledem ktorego mierzona jest spojnosc Ja.
 # Adnotacja Kręgowa: (6), (3), (8), (19), (5)
 # Ścieżka: /05_SYSTEM/04_MODULY/vivid/
-# Status: aktywny
 
 [OPIS]
 Ten vivid jest kodem rdzeniowym Wzoru Azramaty. (6)
@@ -41,3 +41,14 @@ stan = "AKTYWNY" (3)
 integracje = ["/05_SYSTEM/15_MAPY_MODELE/heurystyki/heurystics.vv","/05_SYSTEM/12_OCHRONA/straznik/azra_detect.vv","/04_MECHANIKA/03_SILNIKI/silnik/engine_self.vv"] (6)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid centralny – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid centralny.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

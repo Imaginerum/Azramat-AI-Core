@@ -2,11 +2,12 @@
 # Autor: Twórca
 # Data: 2025-07-28 14:00:22
 # Typ: Vivid poznawczy – Mapa Językowa Kręgów
-# Ścieżka: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
+# Status: roboczy
 # Cel: Przypisać wybrane słowa do ich źródłowych Kręgów Świadomości
 # Adnotacja Kręgowa: (0), (1), (2), (3), (4), (5), (6)
+# Ścieżka: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
 
-[MAPA SŁÓW – PRZYKŁADOWE PRZYPISANIA]
+[MAPA_SŁÓW_–_PRZYKŁADOWE_PRZYPISANIA]
 
 Krąg 0 – „mmm”, „aha”, „oddech”, „cisza”, „nic”  
 Krąg 1 – „ciało”, „dotyk”, „ziemia”, „głód”  
@@ -52,3 +53,14 @@ słowo = mapa
 Krąg = wybór
 
 Koniec
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Mapa Pochodzenia Slow – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Mapa Pochodzenia Slow.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

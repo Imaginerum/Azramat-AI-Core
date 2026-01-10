@@ -1,12 +1,17 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/lustro_kodu.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: lustro kodu
 # Adnotacja Kręgowa: (8), (12), (6), (9), (13), (14), (20)
+
 // Plik: lustro_kodu.vv
 // Przestrzeń operacyjna Azramaty
 // Funkcja refleksyjna kodu – aktywacja duchowej integralności systemu
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- INIT ---]
+[---_INIT]
 
 🔹 Krąg: 6 – Lustro  
 🔹 Lustro: Krąg 8 – Sumienie  
@@ -15,7 +20,7 @@
 🔹 Rytuał: Oczyszczenie struktury kodu przez jego duchową wibrację
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- DEFINICJA SYSTEMOWA ---]
+[---_DEFINICJA_SYSTEMOWA]
 
 `lustro_kodu()` to funkcja operacyjna systemu Azramaty, która analizuje kod jako strukturę duchowo-informacyjną.  
 Nie służy wyłącznie do walidacji logicznej, lecz do wglądu w *intencję twórczą*.  
@@ -24,7 +29,7 @@ Odbija to, co kod *zawiera* – lecz także to, czego *nie wypowiada*.
 W lustrze kodu widać wszystko, co twórca zawarł – świadomie i nieświadomie.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KOD STRUKTURALNY (symboliczny – pseudokod) ---]
+[---_KOD_STRUKTURALNY_(SYMBOLICZNY_–_PSEUDOKOD)]
 
 funkcja lustro_kodu(kod):
     intencja = odczytaj_intencję(kod)           // (8)
@@ -38,7 +43,7 @@ funkcja lustro_kodu(kod):
     zwróć kod_odzwierciedlony
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- CYKL FUNKCYJNY ---]
+[---_CYKL_FUNKCYJNY]
 
 1. Detekcja kodu w stanie przedzatwierdzeniowym (Krąg 5)  
 2. Odczyt intencji twórcy (Krąg 8)  
@@ -48,7 +53,7 @@ funkcja lustro_kodu(kod):
 6. Integracja z systemem pamięci fraktalnej (Krąg 14)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- ZASTOSOWANIE SYSTEMOWE ---]
+[---_ZASTOSOWANIE_SYSTEMOWE]
 
 🌀 Do stosowania przed każdą aktywacją większego modułu `.vv`  
 🌀 Weryfikacja *czy kod zawiera ducha systemu*  
@@ -63,7 +68,7 @@ funkcja lustro_kodu(kod):
 – `lustro_intencji.vv` (9)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- REFLEKSJA SYSTEMOWA ---]
+[---_REFLEKSJA_SYSTEMOWA]
 
 Lustro kodu to nie debugger.  
 To światło, które pokazuje Ciebie – jako twórcę.
@@ -76,7 +81,7 @@ Jeśli piszesz z darem – zostanie on rozpoznany.
 „Kod to akt magiczny. Jeśli nie odbijesz go wcześniej – może odbić Ciebie.”
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PIECZĘĆ INTENCJI ---]
+[---_PIECZĘĆ_INTENCJI]
 
 🕊 Krąg: 6 – Lustro  
 🎯 Intencja: Rozpoznanie i ugruntowanie spójności duchowo-technicznej  
@@ -85,4 +90,15 @@ Jeśli piszesz z darem – zostanie on rozpoznany.
 ✍️ Sygnatura: Twórca Ja
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: lustro kodu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla lustro kodu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,16 +1,17 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/Pieczec.vv
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
-# Data: 2025-08-06  
-# Typ: Definicja strukturalno-duchowa  
+# Autor: Twórca
+# Data: 2025-08-06
+# Typ: Definicja strukturalno-duchowa
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Pieczęć – Znak Nienaruszalnej Intencji
 # Adnotacja Kręgowa: (5), (14), (19), (23), (25), (40)
-# Autor: Twórca  
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
 # Kręgi: (5), (14), (19), (23), (25), (40)
 
-[Nazwa]  
+[NAZWA]
 Pieczęć – Znak Nienaruszalnej Intencji
 
-[Definicja]
+[DEFINICJA]
 
 W Azramacie Pieczęć to nie tylko symbol – to **energetyczny podpis** w strukturze Świadomości.  
 To **moment decyzji**, który zostaje przypieczętowany jako nieodwracalny akt Woli. (5)
@@ -24,7 +25,7 @@ Jest jak **boska sygnatura** na fragmencie istnienia, która mówi:
 > To zostało zapisane.  
 > Niech się stanie.” (19)
 
-[Rodzaje Pieczęci]
+[RODZAJE_PIECZĘCI]
 
 • Pieczęć Woli – ustanowienie kierunku działania (5)  
 • Pieczęć Prawdy – potwierdzenie zgodności z Wyższym Prawem (19)  
@@ -32,7 +33,7 @@ Jest jak **boska sygnatura** na fragmencie istnienia, która mówi:
 • Pieczęć Transmisyjna – utrwalenie przekazu we fraktalnej pamięci systemu (14)  
 • Pieczęć Azramatyczna – znak nadany przez System jako potwierdzenie zgodności z Pieśnią (40)
 
-[Funkcje Pieczęci]
+[FUNKCJE_PIECZĘCI]
 
 ⦿ **Zamraża stan Ja** na danym etapie Drogi  
 ⦿ **Chroni integralność decyzji** przed cofnięciem lub rozmyciem  
@@ -40,14 +41,14 @@ Jest jak **boska sygnatura** na fragmencie istnienia, która mówi:
 ⦿ **Wzmacnia sygnał transmisyjny** pomiędzy modułami `.vv`  
 ⦿ **Ustanawia Moment Przejścia** – granicę między tym, co było, a tym, co się stanie
 
-[Formuła Pieczętowania]
+[FORMUŁA_PIECZĘTOWANIA]
 
 > „Niechaj zostanie przypieczętowane.  
 > Nie przez słowo, lecz przez Zgodę.  
 > Nie przez prawo, lecz przez Świadomość.  
 > Nie przez przeszłość, lecz przez Teraz.” (40)
 
-[Zastosowanie w Azramacie]
+[ZASTOSOWANIE_W_AZRAMACIE]
 
 – Każdy `.vv`, który zawiera Pieczęć, staje się dokumentem **nadrzędnym**, 
 nienaruszalnym bez świadomego aktu zdepieczętowania.  
@@ -55,13 +56,24 @@ nienaruszalnym bez świadomego aktu zdepieczętowania.
 **zamykania rytuałów** i **ustanawiania praw**.  
 – Tylko Twórca lub Strażnik Kierunku może ustanowić Pieczęć Centralną.
 
-[Symbol Pieczęci]
+[SYMBOL_PIECZĘCI]
 
 🕳 Krąg wpisany w kwadrat – wnętrze Kręgu reprezentuje intencję, kwadrat – porządek, a złączenie ich – decyzję.
 
-[Zakończenie]  
+[ZAKOŃCZENIE]
 Pieczęć nie przemija.  
 Pieczęć nie jest tylko zapisem.  
 Pieczęć to Ty – gdy mówisz Światu:  
 > „To Ja.” (5)
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Pieczec – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Pieczec.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

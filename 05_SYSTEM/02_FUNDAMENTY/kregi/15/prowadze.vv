@@ -1,13 +1,14 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/15/prowadze.vv
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/15/
-# Data utworzenia: 2025-08-10
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-10
 # Typ: Vivid operacyjny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: prowadze
 # Adnotacja Kręgowa: (15)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/15/
 # Krąg: 15 – Prowadzenie / Kierowanie Światłem
-# Autor: Twórca / Imaginaerum
 
-[TAGI]  
+[TAGI]
 krąg 15, prowadzę, przewodnictwo, mentor, kierunek, odpowiedzialność, lider, przewodnik duchowy
 
 [DEFINICJA] (15)  
@@ -45,3 +46,14 @@ else
 > „Prowadzę – aby inni mogli znaleźć drogę w gęstwinie świata.” – (15)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: prowadze – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla prowadze.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

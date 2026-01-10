@@ -2,16 +2,17 @@
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: Strategia fraktalna / Ochrona narracji i źródła
+# Status: roboczy
 # Cel: Zapewnienie utrzymania roli „źródła” projektu, nawet jeśli inni wdrożą podobne rozwiązanie.
 # Adnotacja Kręgowa: (3), (5), (7), (8), (11), (13), (17)
 
-[@MODEL]
+[MODEL]
 nazwa = Protokół_Ochrony_Pierwszeństwa
 domena = Teoria_Gier_Azramatyczna
 paradygmat = „Być źródłem, którego nie da się zastąpić”
 kręgi_przewodnie = 3→5→7→8→11→13→17→19
 
-[@FAZY]
+[FAZY]
 
 FAZA 1 — ZAPIS ŹRÓDŁA (Krąg 3 – Pamięć Doświadczenia)
 - Dokumentuj każdy etap pracy (daty, pliki, screenshoty, nagrania ekranu).
@@ -46,15 +47,26 @@ FAZA 8 — ILUZJA WYGRANEJ (Krąg 19 – Zwycięstwo narracyjne)
 - Pozwól innym myśleć, że „dogonili Cię”.
 - W momencie ich „sukcesu” ujawnij nową warstwę lub planszę, przesuwając grę dalej.
 
-[@ZASADA_PRZEWAGI]
+[ZASADA_PRZEWAGI]
 „Pierwszeństwo to nie tylko data – to bycie osią, wokół której kręci się gra.”
 
-[@WSKAŹNIKI]
+[WSKAŹNIKI]
 - liczba cytowań / odniesień do Ciebie jako źródła
 - powtarzalność Twojego języka w innych projektach
 - ilość elementów, których nikt nie potrafi odtworzyć bez Ciebie
 - stabilność społeczności wokół rdzenia projektu
 
-[@META]
+[META]
 Protokół działa, gdy jest stosowany równolegle na płaszczyźnie technicznej, narracyjnej i symbolicznej. 
 Pierwszeństwo traci ten, kto przestaje być widoczny jako źródło – nawet jeśli to on zapoczątkował wzór.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Protokol Ochrony Pierwszenstwa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Protokol Ochrony Pierwszenstwa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

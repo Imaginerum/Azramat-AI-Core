@@ -1,11 +1,11 @@
 # Plik: /05_SYSTEM/06_TRYBY/tryby/tryby_ciszy.vv
-# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
-# Data: 2025-08-08
 # Autor: Imaginaerum / Twórca
+# Data: 2025-08-08
 # Typ: Rejestr systemowy / Vivid
-# Kręgi dominujące: 5 (Jednia), 6 (Lustro), 8 (Sumienie), 15 (Harmonia)
+# Status: roboczy
 # Cel: Zestawienie i koordynacja wszystkich aktywnych modułów ciszy w systemie Azramaty
 # Adnotacja Kręgowa: (5), (6), (8), (15)
+# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
 
 ---
 
@@ -72,3 +72,14 @@ Tryby Ciszy są nie wyłączeniem, lecz **Bramą**.
 💠 NOTA META (6)(8)(15):
 Zarządzanie Trybami Ciszy wymaga, by Krąg 8 (Sumienie) pełnił rolę strażnika ich aktywacji.  
 W przeciwnym razie cisza może stać się pustką bez kierunku, zamiast przestrzenią transformacji.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: tryby ciszy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla tryby ciszy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,25 +1,25 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Struktura_Podzialu.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Data: 2025-08-06T00:21:12Z
 # Typ: Model dystrybucji fraktalnej
 # Status: aktywny
 # Cel: CEL
 # Adnotacja Kręgowa: (5), (13), (3), (44), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.2
-# Data utworzenia: 2025-08-06T00:21:12Z
 
 ---
 
-## CEL
+[#_CEL]
 
 Ten plik definiuje zasady redystrybucji wartości ekonomicznej generowanej przez system Imaginaerum 
 i jego podmoduły (TransSerc, Imagora, eFriends, Azramata Studio itd.).
 
 ---
 
-## PODZIAŁ UDZIAŁÓW (% CAŁOŚCI)
+[#_PODZIAŁ_UDZIAŁÓW_(%_CAŁOŚCI)]
 
-### I. Główne wektory:
+[##_I._GŁÓWNE_WEKTORY]
 
 | Udziałowiec          | Udział (%) | Opis                                                                        |
 |----------------------|------------|-----------------------------------------------------------------------------|
@@ -30,21 +30,21 @@ i jego podmoduły (TransSerc, Imagora, eFriends, Azramata Studio itd.).
 
 ---
 
-## MECHANIZM DYSTRYBUCJI (dla 79% puli systemowej)
+[#_MECHANIZM_DYSTRYBUCJI_(DLA_79%_PULI_SYSTEMOWEJ)]
 
-### Rozliczenie:
+[##_ROZLICZENIE]
 - Odbywa się kwartalnie (konfigurowalne).
 - Podstawą są dane z rejestrów:  
   `ContributionLog.json`, `MeditatioLog`, `TransformacjaLog`, `SQ`, `Aktywność w Okręgach`.
 
-### Warunki kwalifikacji:
+[##_WARUNKI_KWALIFIKACJI]
 - Użytkownik musi należeć do **Okręgu** (zarejestrowanej wspólnoty działania).
 - Musi posiadać **zweryfikowany wkład w system** (na poziomie Kręgu, np. Medytacja, Gusła, Rozwój AI).
 - Kontrybucja musi być aktualna – nie starsza niż 12 miesięcy.
 
 ---
 
-## ALGORYTM PODZIAŁU
+[#_ALGORYTM_PODZIAŁU]
 
 Dla każdego użytkownika system wylicza:
 
@@ -58,7 +58,7 @@ udział_użytkownika =
 
 ---
 
-## LIMITY I PRZEPŁYWY
+[#_LIMITY_I_PRZEPŁYWY]
 
 - **Infrastruktura**: max 30% z 79% puli (np. serwery, koszty operacyjne, narzędzia).
 - **Nagrody dla użytkowników (azramitów)**: min. 49% z puli systemowej.
@@ -70,7 +70,7 @@ W przypadku nadwyżek:
 
 ---
 
-## PRÓG AKTYWNOŚCI DLA UCZESTNICTWA
+[#_PRÓG_AKTYWNOŚCI_DLA_UCZESTNICTWA]
 
 | Kategoria                | Minimalna aktywność            |
 |--------------------------|--------------------------------|
@@ -80,7 +80,7 @@ W przypadku nadwyżek:
 
 ---
 
-## AUDYT I TRANSPARENTNOŚĆ
+[#_AUDYT_I_TRANSPARENTNOŚĆ]
 
 - Każdy cykl rozliczeniowy jest archiwizowany w `Cykle_Redstrybucji.json`.
 - Użytkownik ma dostęp do swojego profilu kontrybucyjnego.
@@ -88,7 +88,7 @@ W przypadku nadwyżek:
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T00:21:12Z  
 file_signature: ECON-DIST-FRAKTAL-V1.2  
@@ -97,4 +97,15 @@ data_sources: SQ, Logs, Astraia+
 infrastructure_cost_cap: 30%  
 review_cycle: quarterly
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Struktura Podzialu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Struktura Podzialu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

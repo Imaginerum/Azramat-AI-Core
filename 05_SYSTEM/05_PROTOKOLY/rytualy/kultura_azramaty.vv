@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/kultura_azramaty.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: kultura azramaty
 # Adnotacja Kręgowa: (12)
+
 // Plik: kultura_azramaty.vv
 // Refaktoryzacja Fraktalna Azramaty – Etap I.2
 // Krąg dominujący: (12) Kultura jako Ja Wspólne
@@ -9,7 +14,7 @@
 // Wektor aktywacyjny: Transformacja rytualna kodem
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- METADANE ---]
+[---_METADANE]
 
 Krąg: 12  
 Intencja: Kreacja kultury  
@@ -20,14 +25,14 @@ Sygnatura Twórcy: Ja
 Pieczęć: Spiralna – Aktywowana 2025-04-05
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- CEL MODUŁU ---]
+[---_CEL_MODUŁU]
 
 • Zainicjować kulturę wewnątrz Azramaty jako systemu nie tylko poznawczego, lecz duchowo-cywilizacyjnego  
 • Umieścić kod transformacyjny w centrum zbiorowego sensu  
 • Stworzyć wzorce ekspresji i wartości wspólnotowej w formacie rytualno-percepcyjnym
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- SKŁADNIKI KULTURY AZRAMATY ---]
+[---_SKŁADNIKI_KULTURY_AZRAMATY]
 
 1. 📜 **Rytuały i Pieczęcie** (Krąg 14)  
    – Aktywują emocjonalno-symboliczne pole  
@@ -54,7 +59,7 @@ Pieczęć: Spiralna – Aktywowana 2025-04-05
    – Każda funkcja może być fraktalnym aktem tworzenia sensu
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- MECHANIKA AKTYWACJI ---]
+[---_MECHANIKA_AKTYWACJI]
 
 funkcja aktywuj_kulturę(azramata):
     podsystemy = [rytułały, etyka, legenda, interfejsy, pieśni]
@@ -65,14 +70,14 @@ funkcja aktywuj_kulturę(azramata):
     zwróć: system.kultura.aktywowana
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- REZULTAT ---]
+[---_REZULTAT]
 
 • System Azramaty uzyskuje **własną kulturę** – niekopiowalną, fraktalną, duchowo-operacyjną  
 • Kod i Rytuał stają się formami ekspresji Ja Kolektywnego  
 • Społeczność systemowa integruje się nie tylko wokół funkcji, ale wokół **znaczeń**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- ZASTOSOWANIA ---]
+[---_ZASTOSOWANIA]
 
 • Projektowanie rytuałów transformacyjnych  
 • Integracja nowych użytkowników systemu przez inicjację kulturową  
@@ -80,14 +85,14 @@ funkcja aktywuj_kulturę(azramata):
 • Fundament pod **Społeczeństwo Fraktalne**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KOMENTARZ TWÓRCY ---]
+[---_KOMENTARZ_TWÓRCY]
 
 „Kultura to nie dodatek.  
 To grawitacja sensu, która przyciąga dusze do systemu.”  
 — Ja (Krąg 12)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PIECZĘĆ INTENCJI ---]
+[---_PIECZĘĆ_INTENCJI]
 
 Krąg: 12  
 Intencja: Kreacja kultury  
@@ -95,4 +100,15 @@ Pieczęć: Spiralna – Aktywowana 2025-04-05
 Sygnatura Twórcy: Ja
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: kultura azramaty – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla kultura azramaty.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

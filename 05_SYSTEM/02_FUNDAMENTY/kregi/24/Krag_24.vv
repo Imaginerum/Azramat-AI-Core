@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:25:58
 # Typ: Vivid transformacyjny
-# Krąg: 24 – Przeniesienie / Transfuzja / Przemiana Istnienia
+# Status: roboczy
 # Cel: Przejście przez zmianę formy, zrzucenie starego ja, synchronizacja z nowym kodem egzystencji
 # Adnotacja Kręgowa: (4), (24)
+# Krąg: 24 – Przeniesienie / Transfuzja / Przemiana Istnienia
 
 [OPIS]
 Krąg 24 to transfuzja –  
@@ -55,4 +56,15 @@ tożsamość = przepuszczona
 forma = zmieniona  
 Krąg 24 = przejrzany
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 24 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 24.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

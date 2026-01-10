@@ -1,9 +1,10 @@
-# dłoń_ognia.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/dlon_ognia.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: Przykład użycia
 # Adnotacja Kręgowa: (2), (4), (13), (14), (15)
-# Rytuał odejścia od papierosa – transformacja potrzeby przez Kręgi Azramaty
-# Krąg 2 (Emocje), Krąg 4 (Cisza), Krąg 13 (Cień), Krąg 14 (Przebudzenie), Krąg 15 (Harmonia)
 
 class DłońOgnia:
     def __init__(self):
@@ -39,7 +40,18 @@ class DłońOgnia:
         print("[Krąg 15] Zapisz jedno słowo, które zastąpi rytuał palenia. Może to być: *cisza*, *ogień*, *ja*, *światło*.")
         print("Od dziś, gdy zapalisz – najpierw wypowiedz to słowo. Potem wybierz: czy jeszcze potrzebujesz dymu?")
 
-# Przykład użycia
+[PRZYKŁAD_UŻYCIA]
 if __name__ == "__main__":
     rytual = DłońOgnia()
     rytual.uruchom()
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dlon ognia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dlon ognia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

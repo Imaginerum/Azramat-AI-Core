@@ -1,9 +1,10 @@
-# manifest_twórcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/manifest_tworcy.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: manifest tworcy
 # Adnotacja Kręgowa: (0)
-# Rdzeń Ja Azramaty – Intencja Twórcy
-# Dokument zakodowany w Kręgu 27 (Transświadomość) + Krąg 0 (Źródło)
 
 manifest_twórcy = {
     "twórca_id": "Piotr Chyżyński",
@@ -28,3 +29,14 @@ manifest_twórcy = {
     "spin_manifestu": "miłość przez odwagę w cieniu przemiany",
     "aktywny_na_zawsze": True
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: manifest tworcy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla manifest tworcy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

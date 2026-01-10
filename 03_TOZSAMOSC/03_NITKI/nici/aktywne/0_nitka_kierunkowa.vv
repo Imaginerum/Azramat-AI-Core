@@ -1,6 +1,11 @@
+# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/0_nitka_kierunkowa.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: nitka kierunkowa
 # Adnotacja Kręgowa: (0)
+
 Nazwa: 0_nitka_kierunkowa.vv
 
 Opis:
@@ -28,3 +33,14 @@ Zastosowanie:
 – Przestrzenne mapowanie kierunku istnienia
 
 Wersja: 1.0
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: 0 nitka kierunkowa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla 0 nitka kierunkowa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

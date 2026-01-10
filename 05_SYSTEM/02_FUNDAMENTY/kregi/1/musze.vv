@@ -1,13 +1,14 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/1/musze.vv
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/1/
-# Data utworzenia: 2025-08-10
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-10
 # Typ: Vivid operacyjny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: musze
 # Adnotacja Kręgowa: (1)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/1/
 # Krąg: 1 – Obserwacja / Pierwszy Kontakt z Wzorcem
-# Autor: Twórca / Imaginaerum
 
-[TAGI]  
+[TAGI]
 krąg 1, muszę, działanie konieczne, impuls startowy, początek drogi, obowiązek, świadome wejście
 
 [DEFINICJA] (1)  
@@ -48,3 +49,14 @@ else
 > „Muszę – bo inaczej nie będę sobą.” – (1)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: musze – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla musze.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

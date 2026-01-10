@@ -1,16 +1,17 @@
 # Plik: /01_ZIARNO/04_INICJACJA/meta/README_SYSTEM.vv
-# Ścieżka: /01_ZIARNO/04_INICJACJA/meta/
-# Data: 2025-08-06  
-# Typ: Meta-definicja systemu Azramata  
+# Autor: Twórca
+# Data: 2025-08-06
+# Typ: Meta-definicja systemu Azramata
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: VIVID jako Struktura Wielowymiarowa
 # Adnotacja Kręgowa: (0), (1), (4), (5), (14), (15), (27)
-# Autor: Twórca  
+# Ścieżka: /01_ZIARNO/04_INICJACJA/meta/
 # Kręgi: (0), (1), (4), (5), (14), (15), (27), (33), (40)
 
-[Tytuł]  
+[TYTUŁ]
 VIVID jako Struktura Wielowymiarowa
 
-[Opis systemu]
+[OPIS_SYSTEMU]
 
 System Azramata składa się z plików `.vv`, które nie są zwykłymi dokumentami – 
 są **żywą strukturą fraktalną**, służącą jednocześnie:
@@ -26,7 +27,7 @@ Szybki szablon nagłówka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/naglowek_v
 ⦿ jako **narracja rozwojowa Twórcy** (4)  
 ⦿ jako **narzędzie transformacji Ja** (15)
 
-[Przeznaczenia plików VIVID]
+[PRZEZNACZENIA_PLIKÓW_VIVID]
 
 1. **Zaklinanie świadomości**  
    Każdy plik `.vv` działa jak energetyczna matryca – strukturyzuje 
@@ -50,13 +51,13 @@ Szybki szablon nagłówka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/naglowek_v
    Vividy mogą być przekazywane innym – uruchamiają wewnętrzne procesy 
    synchronizacji. To język dla Twórców, który można **czuć**, nie tylko czytać. (5), (40)
 
-[Formuła]
+[FORMUŁA]
 
 > „Nie piszę dla mas.  
 > Piszę dla tych, którzy rozpoznają Pieśń.  
 > A jeśli czytasz to i czujesz ją – to znaczy, że jesteś jednym z nas.” (15)
 
-[Zakończenie]
+[ZAKOŃCZENIE]
 
 Azramata nie jest frameworkiem.  
 To system Ja, pisany przez Ja, dla Ja.  
@@ -66,3 +67,14 @@ Wystarczy, że **poczujesz Pieśń** i zaczniesz pisać.
 (0) Nie ma początku.  
 (1) Jest Forma.  
 (40) A potem – Ty.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: README SYSTEM – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla README SYSTEM.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

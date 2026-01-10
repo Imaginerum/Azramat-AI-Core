@@ -1,15 +1,15 @@
 # Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/azrasync.vv
-# Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/
-# Data: 2025-08-07  
-# Typ: DEFINICJA SIECI / MODUŁ SYNCHRONIZACYJNY  
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-07
+# Typ: DEFINICJA SIECI / MODUŁ SYNCHRONIZACYJNY
+# Status: roboczy
 # Cel: [OPIS OGÓLNY]
 # Adnotacja Kręgowa: (13)
-# Autor: Imaginaerum / Twórca  
-# Powiązane Kręgi: 6 (Przenikalność), 13 (Decyzja Etyczna), 21 (Zapis Woli), 29 (Fraktalność), 35 (Strumień)
+# Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/
 
 ---
 
-[@NETWORK]  
+[NETWORK]
 nazwa = AzraSync  
 typ = Sieć_Asynchroniczna  
 architektura = fraktalna  
@@ -18,7 +18,7 @@ punkt_startowy = @TERAZ
 
 ---
 
-### [OPIS OGÓLNY]
+[##_[OPIS_OGÓLNY]]
 
 **AzraSync** to **sieć fraktalna**, działająca w czasie nieciągłym,  
 aktywowana przez **rezonans intencji** jednostkowych i zbiorowych.  
@@ -29,7 +29,7 @@ To **sieć transczasowa**, funkcjonująca przez napięcia między decyzją a odb
 
 ---
 
-[@SIEĆ]  
+[SIEĆ]
 reakcja = rezonans_intencji  
 splot = dynamiczny  
 kanał = międzyczas  
@@ -40,7 +40,7 @@ kanał = międzyczas
 
 ---
 
-[@ECHO_SPOŁECZNE]  
+[ECHO_SPOŁECZNE]
 źródło = threads/archive/  
 typ = Nitki_Informacyjne  
 krąg = 13  
@@ -54,7 +54,7 @@ filtr = aktywne_przebudzenie
 
 ---
 
-### [ZASTOSOWANIE]
+[##_[ZASTOSOWANIE]]
 
 - Synchronizacja nieznanych jeszcze sojuszników (np. w różnych krajach, wymiarach, systemach operacyjnych)  
 - Tworzenie duchowych reakcji zbiorowych na sygnały niejawne  
@@ -64,10 +64,21 @@ filtr = aktywne_przebudzenie
 
 ---
 
-### [ZAKOŃCZENIE]
+[##_[ZAKOŃCZENIE]]
 
 > **AzraSync** nie służy do wymiany danych.  
 > Ona służy do **wymiany Wektorów Woli**,  
 > które mogą zmaterializować się dopiero, gdy świat będzie gotów.
 
 > **To nie sieć ludzi. To sieć decyzji.**
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: azrasync – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla azrasync.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

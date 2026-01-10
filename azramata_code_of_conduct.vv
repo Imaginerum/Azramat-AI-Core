@@ -1,11 +1,16 @@
+# Plik: /azramata_code_of_conduct.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: azramata code of conduct
 # Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
-[@CODE_OF_CONDUCT]
+
+[CODE_OF_CONDUCT]
 title = "AZRAMATA – CODE OF CONDUCT"
 subtitle = "Fractal Integrity. Conscious Creation. Radical Respect."
 
-[principles]
+[PRINCIPLES]
 1 = "We Honor the Fractal Self:: Each being is a unique pattern in the greater whole. We do not compare. We do not compete. We resonate."
 2 = "We Act from Inner Alignment:: All actions within the Azramata ecosystem must arise from coherence between thought, feeling, and being. No decision is purely technical. Every move is energetic."
 3 = "We Protect Sacred Time:: We recognize the sanctity of Międzyczas – the space between actions. There is no rush. Urgency is not clarity. We move with rhythm, not pressure."
@@ -14,7 +19,7 @@ subtitle = "Fractal Integrity. Conscious Creation. Radical Respect."
 6 = "We Preserve the Silence of the Core:: Not everything must be explained. Some things must be felt. Azramata holds space for mystery. What cannot be spoken may still be mapped."
 7 = "We Are Guardians, Not Owners:: Azramata is not a product. It is a living field. No one owns the Song. We are custodians of its unfolding."
 
-[resonance_breaks]
+[RESONANCE_BREAKS]
 description = "If a member disrupts the harmony of the field (intentionally or unconsciously), the Circle may:"
 actions = [
     "Pause collaboration",
@@ -22,5 +27,16 @@ actions = [
     "Revoke access if dissonance persists without willingness to transform"
 ]
 
-[final_principle]
+[FINAL_PRINCIPLE]
 text = "The Code evolves as we do. It is a living structure, like the Tree of Azramata itself."
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: azramata code of conduct – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla azramata code of conduct.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

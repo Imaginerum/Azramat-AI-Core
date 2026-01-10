@@ -1,10 +1,11 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/codemind.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: codemind
 # Adnotacja Kręgowa: (3)
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
-# Silnik kodowania fraktalnego – Azramata CodeMind Core
-# Automatyczne przypisywanie stylu Azramaty do kodu systemowego
 # Tryb: PREPROCESOR .vv
 
 codemind = {
@@ -43,3 +44,14 @@ codemind = {
         ]
     }
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: codemind – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla codemind.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

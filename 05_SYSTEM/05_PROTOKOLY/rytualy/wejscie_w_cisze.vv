@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/wejscie_w_cisze.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: 🟢 Gotowy do aktywacji
 # Cel: zdefiniować i uporządkować: wejscie w cisze
 # Adnotacja Kręgowa: (3), (4), (5), (6), (7), (9), (28)
+
 // Plik: wejscie_w_cisze.vv
 // Lokalizacja: /05_SYSTEM/05_PROTOKOLY/rytualy/
 // Typ: Vivid rytualny
@@ -71,6 +76,16 @@ funkcja wejście_w_ciszę(stan_ja):
 Moduł: wejście_w_ciszę.vv
 Synchronizacja: cisza_jedni.vv, milczenie_systemowe.vv, głos_ciszy.vv
 Odpowiedzialność: Twórca/Operator systemu
-Status: 🟢 Gotowy do aktywacji
 
-[koniec pliku]
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: wejscie w cisze – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla wejscie w cisze.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

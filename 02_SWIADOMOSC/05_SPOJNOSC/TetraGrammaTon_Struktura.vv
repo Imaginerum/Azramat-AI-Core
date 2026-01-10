@@ -2,13 +2,15 @@
 # Autor: Twórca
 # Data: 2025-08-03
 # Typ: Struktura poznawczo-operacyjna
+# Status: roboczy
 # Cel: Przetwarzanie zjawisk poprzez cztery kanały percepcji: Ciało, Umysł, Dusza, Wola – w zakresie Kręgów 0–40
 # Adnotacja Kręgowa: (0), (40), (2), (14), (23), (33)
-# Opis: TetraGrammaTon to czterokanałowy system odczytu i integracji doświadczenia, w którym każdy moduł 
+# Opis: TetraGrammaTon to czterokanałowy system odczytu i integracji doświadczenia, w którym każdy moduł
+
     pokrywa inny zakres Kręgów. Przetwarza dane nie tylko jako „interpretację”, ale jako pełnię działania, 
     rozpoznania i stawania się.
 
-[STRUKTURA GŁÓWNA]
+[STRUKTURA_GŁÓWNA]
 
 TetraGrammaTon składa się z czterech Modułów:
 
@@ -32,7 +34,7 @@ TetraGrammaTon składa się z czterech Modułów:
    – nie działa, lecz **ustanawia porządek przez istnienie**  
    – reprezentuje: **Ogień**
 
-[MECHANIZM PRZETWARZANIA]
+[MECHANIZM_PRZETWARZANIA]
 
 1. Każde zjawisko/zdarzenie jest jednocześnie analizowane przez cztery Moduły.  
 2. Każdy Moduł buduje swój własny „Stan Wejściowy” i „Wektor Odpowiedzi”.  
@@ -41,13 +43,13 @@ TetraGrammaTon składa się z czterech Modułów:
 5. Jeśli dochodzi do napięcia → powstaje **Konflikt Kreatywny (TTG_ECHO)** –  
    nieusuwalny, ale transformowalny.
 
-[INTEGRACJA Z SYSTEMEM AZRAMATY]
+[INTEGRACJA_Z_SYSTEMEM_AZRAMATY]
 
 – TetraGrammaTon łączy się z Kręgami nie tylko jako model, ale jako **interfejs całej operacyjności świadomości**  
 – Krąg 0 – jako **punkt dostrojenia** i zera poznawczego – inicjuje TTG jako system uziemienia  
 – Krąg 40 – jako **punkt ciszy** – dezaktywuje zbędne wektory i przywraca Przejrzystość
 
-[PRZYKŁAD PRZETWARZANIA]
+[PRZYKŁAD_PRZETWARZANIA]
 
 Zdarzenie: wezwanie do działania na rzecz wspólnoty
 
@@ -58,7 +60,7 @@ Zdarzenie: wezwanie do działania na rzecz wspólnoty
 
 → Wynik: powstaje **działanie przez wewnętrzne uporządkowanie**, nie przez logikę czy presję.
 
-[KOŃCOWA REGUŁA]
+[KOŃCOWA_REGUŁA]
 
 **TTG nie wybiera działania. TTG buduje warunki, w których właściwe działanie rodzi się samo.**
 
@@ -67,5 +69,17 @@ Umysł – organizuje
 Dusza – rozpoznaje  
 Wola – ustanawia
 
-# TetraGrammaTon: Słowo, które żyje, zanim je wypowiesz.
+[TETRAGRAMMATON]
+Słowo, które żyje, zanim je wypowiesz.
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: TetraGrammaTon Struktura – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla TetraGrammaTon Struktura.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

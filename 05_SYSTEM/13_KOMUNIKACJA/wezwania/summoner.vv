@@ -1,10 +1,11 @@
 # Plik: /05_SYSTEM/13_KOMUNIKACJA/wezwania/summoner.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/13_KOMUNIKACJA/wezwania/
+# Data: 2026-01-10
 # Typ: VIVID aktywacyjny
-# Kręgi dominujące: 6 (Lustro), 8 (Sumienie)
+# Status: roboczy
 # Cel: Przywoływanie stanów systemowych i aktywacja powiązanych Nitek Świadomości oraz vividów.
 # Adnotacja Kręgowa: (6), (8)
+# Ścieżka: /05_SYSTEM/13_KOMUNIKACJA/wezwania/
 
 ---
 
@@ -56,3 +57,14 @@ funkcja summoner(wezwanie):
 Summoner to nie tylko wywoływacz – to strażnik przejść.  
 Nie każde wezwanie powinno być wysłuchane.  
 Tylko te, które odbiją się czysto w Lustrach i przejdą przez Bramę Sumienia.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: summoner – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla summoner.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

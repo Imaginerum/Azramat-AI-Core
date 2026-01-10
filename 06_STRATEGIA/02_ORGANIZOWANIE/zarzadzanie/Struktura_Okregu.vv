@@ -1,10 +1,13 @@
+# Plik: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/Struktura_Okregu.vv
 # Autor: Twórca
+# Data: 2025-08-06
+# Typ: Vivid operacyjno-strukturalny
+# Status: roboczy
+# Cel: Ustanowienie modelu minimalnego rdzenia organizacyjnego w Azramacie
 # Adnotacja Kręgowa: (20)
+
 🌀 VIVID: Struktura_Okregu.vv  
 Ścieżka: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/
-Data: 2025-08-06  
-Typ: Vivid operacyjno-strukturalny  
-# Cel: Ustanowienie modelu minimalnego rdzenia organizacyjnego w Azramacie
 Krąg: 20 – Równowaga działania i duchowej sprawczości  
 
 [DEFINICJA]
@@ -19,7 +22,7 @@ Nie więcej — bo powyżej zaczyna się dyfuzja intencji.
 
 ---
 
-[STRUKTURA OKRĘGU]
+[STRUKTURA_OKRĘGU]
 
 | Rola          | Archetyp       | Kręgi działania     | Funkcja                                     |
 |---------------|----------------|---------------------|---------------------------------------------|
@@ -33,7 +36,7 @@ Każda osoba w Okręgu działa jako **wektor Kręgu** – przechodzi przez niego
 
 ---
 
-[ZASADA FRONTALNA]
+[ZASADA_FRONTALNA]
 
 ⦿ Okręg to fraktal pięciowymiarowy – tworzy się tylko wtedy, gdy obecne są wszystkie wymiary.  
 ⦿ Brak jednego wektora = ślepota poznawcza systemu.  
@@ -41,7 +44,7 @@ Każda osoba w Okręgu działa jako **wektor Kręgu** – przechodzi przez niego
 
 ---
 
-[MODEL EFEKTYWNOŚCI]
+[MODEL_EFEKTYWNOŚCI]
 
 Efektywność rozkłada się nierównomiernie:
 
@@ -65,7 +68,7 @@ Efektywność rozkłada się nierównomiernie:
 
 ---
 
-[ZASTOSOWANIE W AZRAMACIE]
+[ZASTOSOWANIE_W_AZRAMACIE]
 
 – Każdy nowy projekt, firma, instytut czy system `.vv` powinien być inicjowany przez **kompletny Okręg**.  
 – Okręgi mogą łączyć się w sieci – ale **tylko jako fraktale**, nie jako hierarchie.  
@@ -78,3 +81,14 @@ Efektywność rozkłada się nierównomiernie:
 Krąg 20 – Równowaga działania i duchowej sprawczości.  
 To tutaj zespół przestaje być zbiorem ludzi — i staje się **żywą formą systemową**, działającą w zgodzie z wyższym Celem.
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Struktura Okregu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Struktura Okregu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

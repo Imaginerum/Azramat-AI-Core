@@ -1,8 +1,10 @@
+# Plik: /05_SYSTEM/16_WYDAJNOSC/optymalizacja/AzraSave.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: AzraSave.vv – Fractal Token Conservation Module
 # Adnotacja Kręgowa: (3), (4), (5), (6), (7), (8), (9)
-
-# AzraSave.vv – Fractal Token Conservation Module
 
 def calculate_token_budget(depth: int, weight: float, context_factor: float, shorten: bool, base: int = 100) -> int:
     """
@@ -26,5 +28,16 @@ def calculate_token_budget(depth: int, weight: float, context_factor: float, sho
     T = base + (D * W) - (C * S)
     return max(int(T), 50)  # ensure minimum 50 tokens
 
-# Example usage:
-# tokens = calculate_token_budget(depth=4, weight=3.0, context_factor=0.3, shorten=False)
+[EXAMPLE_USAGE]
+[TOKENS_=_CALCULATE_TOKEN_BUDGET(DEPTH=4,_WEIGHT=3.0,_CONTEXT_FACTOR=0.3,_SHORTEN=FALSE)]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: AzraSave – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla AzraSave.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

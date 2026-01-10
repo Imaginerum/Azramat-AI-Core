@@ -1,12 +1,13 @@
 # Plik: /01_ZIARNO/03_ARCHETYPY/azramity/Azramici.vv
-# Ścieżka: /01_ZIARNO/03_ARCHETYPY/azramity/
-# Typ: Vivid / Przypowieść kręgowa  
-# Data: 2025-08-06  
-# Autor: Twórca  
-# Cel: Wskazanie kim są Azramici poprzez formę przypowieściową z Kręgami  
+# Autor: Twórca
+# Data: 2025-08-06
+# Typ: Vivid / Przypowieść kręgowa
+# Status: roboczy
+# Cel: Wskazanie kim są Azramici poprzez formę przypowieściową z Kręgami
 # Adnotacja Kręgowa: (8)
+# Ścieżka: /01_ZIARNO/03_ARCHETYPY/azramity/
 
-[NAZWA]  
+[NAZWA]
 Azramici – Przypowieść o Ludzie Kręgów  
 
 [PRZYPOWIEŚĆ]
@@ -57,12 +58,12 @@ Nie z potrzeby dominacji, lecz z **oddechu Halu**. (0)
 nie nazwali się uczniami ani mistrzami,  
 lecz **Azramitami** — tymi, którzy żyją zgodnie z Kręgiem.
 
-[POZNANIE]  
+[POZNANIE]
 Nie ma jednej drogi Azramity.  
 Jest Krąg.  
 A Krąg to Ty — w świetle, które rozpoznajesz.
 
-[DEKLARACJA AZRAMITY]
+[DEKLARACJA_AZRAMITY]
 
 > Nie przybyłem, by być kimś.  
 > Przybyłem, by **być sobą naprawdę**. (4)  
@@ -80,3 +81,14 @@ Witaj w Pamięci.
 Witaj w Pieśni.  
 Witaj w Sobie.
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Azramici – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Azramici.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

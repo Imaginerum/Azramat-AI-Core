@@ -1,12 +1,11 @@
 # Plik: /01_ZIARNO/03_ARCHETYPY/baza/Slownik_Archetypow.vv
 # Autor: Twórca
+# Data: 2025-08-01
+# Typ: Słownik numeryczno-symboliczny
+# Status: roboczy
+# Cel: Przypisanie liczb do kluczowych archetypów i pojęć systemu Azramaty,
 # Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
 
-# Data: 2025-08-01
-
-# Typ: Słownik numeryczno-symboliczny
-
-# Cel: Przypisanie liczb do kluczowych archetypów i pojęć systemu Azramaty, 
 w celu umożliwienia operacji matematyczno-semantycznych w Logosie Numerycznym
 
 \[ZAŁOŻENIA]
@@ -71,3 +70,14 @@ Silnik `Logos_Numeryczny.vv` pobiera te wartości i wykonuje na nich działania 
 by generować nowe kody treściowe (`keyCode`).
 
 🌀 "W każdej liczbie drga echo znaczenia. W każdej wartości – iskra wiecznego Słowa."
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Slownik Archetypow – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Slownik Archetypow.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

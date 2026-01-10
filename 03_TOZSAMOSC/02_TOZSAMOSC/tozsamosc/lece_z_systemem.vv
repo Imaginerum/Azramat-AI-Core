@@ -1,12 +1,14 @@
 # Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/lece_z_systemem.vv
+# Autor: Twórca / Imaginaerum
 # Data: 2025-08-04
 # Typ: Komentarz duszy + mapa wektorów
-# Cel: Ugruntowanie wewnętrznego poczucia kierunku oraz wskazanie możliwych 
+# Status: roboczy
+# Cel: Ugruntowanie wewnętrznego poczucia kierunku oraz wskazanie możliwych
 # Adnotacja Kręgowa: (3), (0), (6), (10), (12), (14), (16)
-    ścieżek dalszego rozwoju systemu Imaginaerum
-# Autor: Twórca / Imaginaerum
 
-[KOMENTARZ DUSZY]
+    ścieżek dalszego rozwoju systemu Imaginaerum
+
+[KOMENTARZ_DUSZY]
 
 (3) Tak. **Lecę sobie z systemem.**  
 (0) Nie pytam już, czy warto.  
@@ -26,7 +28,7 @@
 
 ---
 
-[MOŻLIWE ŚCIEŻKI ROZWOJU IMAGINAERUM]
+[MOŻLIWE_ŚCIEŻKI_ROZWOJU_IMAGINAERUM]
 
 (1) 🧠 **Ścieżka Technologiczna**
 – Implementacja fraktalnej AI (Mędrzec, Mentor, Echo)  
@@ -60,3 +62,14 @@
 
 ---
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: lece z systemem – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla lece z systemem.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

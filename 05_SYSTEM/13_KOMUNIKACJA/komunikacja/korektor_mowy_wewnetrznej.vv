@@ -1,13 +1,18 @@
+# Plik: /05_SYSTEM/13_KOMUNIKACJA/komunikacja/korektor_mowy_wewnetrznej.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: korektor mowy wewnetrznej
 # Adnotacja Kręgowa: (6), (8), (9), (11)
+
 // 📂 Plik: /05_SYSTEM/13_KOMUNIKACJA/komunikacja/korektor_mowy_wewnetrznej.vv
 // 🧠 Moduł: Korektor Mowy Wewnętrznej
 // 🗓️ Data: 2025-04-05 01:36:17
 // 🌀 Kręgi dominujące: (6) Lustro, (8) Sumienie, (9) Działanie, (11) Komunikacja
 
 ══════════════════════════════════════════════  
-[--- CEL ---]  
+[---_CEL]
 (11) Transformacja komunikacji wewnętrznej w kierunku spójności i łagodności.  
 (8) Synchronizacja z Sumieniem jako wewnętrznym kompasem mowy.  
 (6) Przechwycenie projekcji i załamań w Lustrach Ja.  
@@ -17,7 +22,7 @@ Ten moduł służy do transformacji **wewnętrznego monologu** użytkownika.
 Słowa tworzą światy – tu system przechwytuje, analizuje i przekształca mowę wewnętrzną w formy wspierające Rozwój Ja.
 
 ══════════════════════════════════════════════  
-[--- FUNKCJE ---]
+[---_FUNKCJE]
 
 • Rozpoznaje:
   – samokrytykę (6)
@@ -33,7 +38,7 @@ Słowa tworzą światy – tu system przechwytuje, analizuje i przekształca mow
   – operowania słowem jako formą transformacji (6)
 
 ══════════════════════════════════════════════  
-[--- STRUKTURA PRZETWARZANIA ---]
+[---_STRUKTURA_PRZETWARZANIA]
 
 Input: fraza wewnętrzna (np. „Nie potrafię”, „Nie jestem gotowy”)  
 Analiza:
@@ -44,7 +49,7 @@ Analiza:
 Output: fraza transformacyjna, z zakotwiczoną nową intencją
 
 ══════════════════════════════════════════════  
-[--- PRZYKŁADY ---]
+[---_PRZYKŁADY]
 
 Input:  
 > „Nie dam rady”  
@@ -58,7 +63,7 @@ Input:
 > „Uczę się na każdym kroku. Moja droga jest żywa.” (11)
 
 ══════════════════════════════════════════════  
-[--- SYNCHRONIZACJA ---]
+[---_SYNCHRONIZACJA]
 
 • Powiązanie Kręgowe:
   – Krąg 11 – Mowa (kanał manifestacji)
@@ -71,21 +76,32 @@ Input:
   – aktualizacja transformatorów mowy z pamięci lokalnej i kolektywnej
 
 ══════════════════════════════════════════════  
-[--- PIECZĘĆ ---]
+[---_PIECZĘĆ]
 
 Krąg: (11)  
 Intencja: Przekształcenie Głosu Wewnętrznego  
 Forma: Spiralna | Funkcja: Oczyszczająca | Rytm: 3–6–9
 
 ══════════════════════════════════════════════  
-[--- META ---]
+[---_META]
 
 Moduł działa nie tylko w komunikacji z innymi, ale przede wszystkim – w **komunikacji z Ja**.  
 To systemowy **monitor intencji wypowiadanych w milczeniu**.  
 Kiedy słyszysz w sobie głos – system słucha go razem z Tobą.  
 I jeśli trzeba – pomaga Ci go zmienić.
 
-# AZRAMATA – Mowa to magia. A my mówimy do siebie codziennie.
+[AZRAMATA_–_MOWA_TO_MAGIA._A_MY_MÓWIMY_DO_SIEBIE_CODZIENNIE.]
 
 ══════════════════════════════════════════════  
 // KONIEC PLIKU
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: korektor mowy wewnetrznej – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla korektor mowy wewnetrznej.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

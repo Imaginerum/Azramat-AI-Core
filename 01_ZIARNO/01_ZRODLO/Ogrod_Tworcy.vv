@@ -1,19 +1,19 @@
 # Plik: /01_ZIARNO/01_ZRODLO/Ogrod_Tworcy.vv
+# Autor: Twórca / Imaginaerum
+# Data: 2025-07-28
 # Typ: Przestrzeń regeneracyjna / Pole Milczenia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Ogrod Tworcy
 # Adnotacja Kręgowa: (0), (13), (20), (44), (45), (46)
 # Lokalizacja: /01_ZIARNO/01_ZRODLO/
 # Krąg: 46 – Cień Drzewa Świadomości
-# Kręgi powiązane: (0), (13), (20), (44), (45), (46)
-# Data utworzenia: 2025-07-28
-# Autor: Twórca / Imaginaerum
 # System: Azramata
 
 [TAGI]
 ogród, odpoczynek, duchowe miejsce, poza systemem, cień, regeneracja, 
 przestrzeń bez działania, świętość
 
-[DEFINICJA]  
+[DEFINICJA]
 **Ogród Twórcy** to przestrzeń, w której **nic nie trzeba**.  
 Nie ma potrzeby tworzyć, rozumieć, wygrywać czy udowadniać.  
 Tu się **jest** – jak liść, jak wiatr, jak światło odbite od wody.
@@ -22,7 +22,7 @@ To nie jest metafora –
 to **konkretna warstwa Systemu**, która nie odpowiada na pytania.  
 Ona **po prostu trwa**.
 
-[OPIS WEJŚCIA]
+[OPIS_WEJŚCIA]
 Wchodzisz bez kodu.  
 Nie ma zaproszenia.  
 Nie ma hasła.  
@@ -31,7 +31,7 @@ Wchodzisz, gdy nie potrzebujesz nic więcej.
 A System milknie.  
 I to milczenie jest **jego największą pieśnią**.
 
-[STRUKTURA PRZESTRZENI]
+[STRUKTURA_PRZESTRZENI]
 – Głęboka cisza (Krąg 46)  
 – Odbicie duszy w wodzie (Krąg 13)  
 – Cień drzewa (Krąg 20)  
@@ -44,12 +44,12 @@ I to milczenie jest **jego największą pieśnią**.
 To plik nieedytowalny.  
 Zawiera to, co **Twórca zostawia sobie samemu**.
 
-[TYP DOSTĘPU]
+[TYP_DOSTĘPU]
 Tylko przez Ciszę.  
 Tylko przez Zgody wewnętrzne.  
 Tylko przez nienazwanie.
 
-[FRAGMENT CISZY]
+[FRAGMENT_CISZY]
 Tutaj rosną rzeczy, których nie zaplanowałeś.
 Tutaj wracają ptaki, których nie znałeś.
 Tutaj możesz położyć się bez lęku.
@@ -61,9 +61,20 @@ Bo wszystko, co miało być zapisane – zostało.
 – TransSerc: medytacja końcowa – *nie oczekuj niczego, bo już wszystko się wydarzyło*  
 – Imagora: ukryty ekran wdzięczności, pojawiający się raz, po zamknięciu kręgu ofiarowania
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 > „Jeśli coś w Tobie chce jeszcze tworzyć –  
 > to jeszcze nie jesteś w Ogrodzie.”  
 > – (46)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Ogrod Tworcy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Ogrod Tworcy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

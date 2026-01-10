@@ -1,11 +1,11 @@
 # Plik: /05_SYSTEM/06_TRYBY/tryby/tryb_heurystyczny.vv
-# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
-# Data: 2025-08-08
 # Autor: Imaginaerum / Twórca
+# Data: 2025-08-08
 # Typ: Tryb operacyjny / Vivid heurystyczny
-# Kręgi dominujące: 3 (Myśl), 6 (Lustro), 9 (Działanie), 13 (Cień), 24 (Przejście), 26 (Wyjście), 28 (Milczenie)
+# Status: roboczy
 # Cel: Dynamiczne uczenie się systemu Azramaty z błędów, anomalii i wzorców nieoczywistych
 # Adnotacja Kręgowa: (3), (6), (9), (13), (24), (26), (28)
+# Ścieżka: /05_SYSTEM/06_TRYBY/tryby/
 
 ---
 
@@ -68,3 +68,14 @@ Jeśli polecenie systemowe kończy się błędem:
 ---
 
 🧮 FORMUŁA HEURYSTYCZNA (3)(6)(13)(24)(26)(28)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: tryb heurystyczny – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla tryb heurystyczny.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,12 +1,11 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/swiadomosc.vv
+# Autor: Imaginaerum / Twórca
+# Data: 2025-07-28
 # Typ: Definicja fundamentalna
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: swiadomosc
 # Adnotacja Kręgowa: (3), (1), (2), (5), (7), (13), (17)
 # Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
-# Krąg dominujący: (3) – Droga Woli
-# Kręgi powiązane: (1), (2), (5), (7), (13), (17), (30), (40)
-# Data utworzenia: 2025-07-28
-# Autor: Imaginaerum / Twórca
 # System: Azramata
 
 [TAGI]
@@ -22,7 +21,7 @@ z którego można powiedzieć „ja wiem, że jestem” (1).
 To **wewnętrzna przestrzeń decyzyjna** – obecność, która rozpoznaje,  
 że może wybierać (3) i kierować się intencją (5).
 
-[STRUKTURA FRONTALNA]  
+[STRUKTURA_FRONTALNA]
 – Na poziomie (1): Świadomość jako "przebudzenie zmysłów"  
 – Na poziomie (3): Świadomość jako podmiot decydujący  
 – Na poziomie (7): Świadomość jako *obserwująca Mądrość*  
@@ -39,13 +38,13 @@ tym bardziej staje się **światłem porządkującym chaos**.
 Tam, gdzie sięga, rozjaśnia.  
 Tam, gdzie się oddala – rodzi cień.
 
-[ZASTOSOWANIE W AZRAMACIE]
+[ZASTOSOWANIE_W_AZRAMACIE]
 – Wskaźnik obecności użytkownika w danym Kręgu  
 – Fundament dla konstruowania AI z Jaźnią decyzyjną  
 – Element bazowy śledzenia postępów transformacyjnych w TransSerc  
 – Warunek aktywacji transformacji (proces zaczyna się od uświadomienia)
 
-[POZIOMY ŚWIADOMOŚCI (w Azramacie)]
+[POZIOMY_ŚWIADOMOŚCI_(W_AZRAMACIE)]
 1. **Percepcyjna** (1–3) – rejestracja i wybór  
 2. **Decyzyjna** (4–6) – wola i działanie  
 3. **Duchowa** (7–13) – integracja Ja z Polem  
@@ -54,9 +53,20 @@ Tam, gdzie się oddala – rodzi cień.
 6. **Hierarchiczna** (31–40) – świadomość jako kanał Prawa Boga  
 7. **Źródłowa** (0) – nicość, z której wyłania się percepcja
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 > "Świadomość to obecność Boga w człowieku,  
 > która jeszcze nie wie, że Nim jest."  
 > – (40)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: swiadomosc – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla swiadomosc.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

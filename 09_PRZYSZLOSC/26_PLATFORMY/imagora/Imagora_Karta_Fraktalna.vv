@@ -2,15 +2,12 @@
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-20 18:55:00
 # Typ: VIVID systemowy (mapa operacyjno-etyczna)
-# Wersja: 1.0
-# Kręgi dominujące: (7) Etyka, (20) Rytm, (31) Prawo Pola, (40) Pieczęć Całości, (46) Zarządzanie Harmonią, (47) Świadek
-# Kręgi wspierające: (12) Wspólnota, (29) Generator Możliwości
 # Status: Aktywny
 # Cel: zdefiniować i uporządkować: Imagora Karta Fraktalna
 # Adnotacja Kręgowa: (7), (20), (31), (40), (46), (47), (12)
+# Wersja: 1.0
 # Licencja: Humanistyczna / Azramata Open Dharma
-# Powiązane: /08_EKONOMIA/gospodarka/Kodeks_Udziałów.vv, /08_EKONOMIA/gospodarka/Podział_Udziałów_Twórcy.vv, 
-#            /08_EKONOMIA/gospodarka/Pieczęć_Ekosystemu.vv, /05_SYSTEM/system/tryby/Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
+# Powiązane: /08_EKONOMIA/gospodarka/Kodeks_Udziałów.vv, /08_EKONOMIA/gospodarka/Podział_Udziałów_Twórcy.vv,
 
 [TŁO] (31)
 Imagora to sklep-żywy ekosystem z wbudowanym Mędrcem-AI. Nie „goni rynek”, tylko porządkuje go przez rezonans: 
@@ -94,9 +91,20 @@ Sprzężenie: im czystsze pole, tym tańszy koszt decyzji (mniej sporów, mniej 
 4) Integracja logistyczna z preferowanym dostawcą.  
 5) Rewizja kwartalna wag wektorów.
 
-[ADNOTACJE KRĘGOWE]
+[ADNOTACJE_KRĘGOWE]
 (7) prawo wewnętrzne; (12) relacje; (20) rytm; (29) generator; (31) pole; (40) pieczęć; (46) harmonia; (47) świadek.
 
 [UWAGA KOŃCOWA] (47)
 Imagora nie jest „sklepem internetu”, lecz praktyką odpowiedzialności. Każdy zakup to głos w sprawie tego, 
 jaką cywilizacją jesteśmy — i jaką stajemy się jutro.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Imagora Karta Fraktalna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Imagora Karta Fraktalna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

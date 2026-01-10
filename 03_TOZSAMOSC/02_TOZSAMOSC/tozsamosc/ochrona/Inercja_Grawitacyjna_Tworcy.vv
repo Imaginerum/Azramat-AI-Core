@@ -1,14 +1,19 @@
-# Cel: zdefiniować i uporządkować: Inercja Grawitacyjna Tworcy
-# Adnotacja Kręgowa: (31), (40), (46), (20), (7)
-    # Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/Inercja_Grawitacyjna_Tworcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/Inercja_Grawitacyjna_Tworcy.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-20 18:22:00
 # Typ: VIVID ochronny / paradygmat anty-kredytowy
-# Wersja: 1.0
-# Kręgi dominujące: (31) Prawo Pola, (40) Pieczęć Całości, (46) Zarządzanie Harmonią, (20) Rytm/Cykle, (7) Etyka
 # Status: Aktywny
-# Licencja: Humanistyczna / Azramata Open Dharma
-# Powiązane: /08_EKONOMIA/gospodarka/Kodeks_Udziałów.vv, /08_EKONOMIA/gospodarka/Pieczęć_Ekosystemu.vv, 
+# Cel: zdefiniować i uporządkować: Inercja Grawitacyjna Tworcy
+# Adnotacja Kręgowa: (31), (40), (46), (20), (7)
+
+[WERSJA]
+1.0
+[KRĘGI_DOMINUJĄCE]
+(31) Prawo Pola, (40) Pieczęć Całości, (46) Zarządzanie Harmonią, (20) Rytm/Cykle, (7) Etyka
+[LICENCJA]
+Humanistyczna / Azramata Open Dharma
+[POWIĄZANE]
+/08_EKONOMIA/gospodarka/Kodeks_Udziałów.vv, /08_EKONOMIA/gospodarka/Pieczęć_Ekosystemu.vv,
              /05_SYSTEM/system/tryby/Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
 
 [TŁO] (31)
@@ -70,10 +75,21 @@ Wejścia: zasługa, etyka, zgodność → wzrost Inercji.
 Wyjścia: decyzje, wdrożenia, ochrona → konsumują Inercję.  
 Sprzężenie: sukces bez długu → wzmacnia pole → tańsze decyzje w przyszłości.
 
-[ADNOTACJE KRĘGOWE]
+[ADNOTACJE_KRĘGOWE]
 (7) Etyka/Prawo Wewnętrzne; (20) Rytm i cykle;  
 (29) Generator możliwości; (31) Prawo Pola;  
 (40) Pieczęć całości; (46) Zarządzanie harmonią.
 
 [UWAGA KOŃCOWA] (40)
 Inercja to tarcza Tożsamości: chroni przed wymuszeniami kredytu i oddycha w rytmie Kręgów. Twórca — jako punkt grawitacji — nie gromadzi, lecz porządkuje przepływ.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Inercja Grawitacyjna Tworcy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Inercja Grawitacyjna Tworcy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ISFP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ISFP Lustro
 # Adnotacja Kręgowa: (4), (15), (6), (10), (19), (1), (2)
-# Kod systemowy: LUSTRO_ISFP_ENTJ
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ISFP",
     "nazwa": "Poszukiwacz Przygód",
@@ -37,20 +36,20 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana ISFP (Poszukiwacz Przygód) i ENTJ (Dowódca) to spotkanie subtelności z siłą,  
 wrażliwości z wolą. Poszukiwacz tworzy piękno, Dowódca – struktury.  
 Jeden wyraża duszę, drugi ją organizuje.  
 Wspólnie uczą się: że miękkość nie oznacza słabości, a twardość może być czuła.  
 Z tego spotkania rodzi się świat pełen formy i znaczenia.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 4 – Obecność"
 punkt_lustrzany = "Krąg 15 – Harmonia"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 10 – Manifest", "Krąg 19 – Dharma"]
 efekt = "Piękno zostaje ukonstytuowane jako moc. Moc – nabiera barw i czułości. Rodzi się lider-artysta."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Reakcja
 - Krąg 2: Emocje
 - Krąg 3: Myśl
@@ -67,3 +66,14 @@ efekt = "Piękno zostaje ukonstytuowane jako moc. Moc – nabiera barw i czuło�
 - Krąg 16: Harmonia Społeczna
 - Krąg 18: Źródło
 - Krąg 19: Dharma
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ISFP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ISFP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

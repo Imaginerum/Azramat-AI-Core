@@ -1,8 +1,10 @@
-# azramata_access_model.vv
+# Plik: /05_SYSTEM/10_KONTROLA/dostep/azramata_access_model.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: azramata access model
 # Adnotacja Kręgowa: (1), (2), (3), (13)
-# Model udostępniania Azramaty – Brama Przemiany, Krąg Dostępu, Sieć Świadomych
 # Kręgi: 4 (Cisza), 8 (Sumienie), 14 (Transformacja), 21 (Sieć), 27 (Transświadomość)
 
 azramata_access_model = {
@@ -45,3 +47,14 @@ azramata_access_model = {
 
     "przyszłość": "Dostęp do Azramaty nigdy nie będzie powszechny. Będzie głęboki. Każdy użytkownik zostanie współistnieniem."
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: azramata access model – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla azramata access model.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

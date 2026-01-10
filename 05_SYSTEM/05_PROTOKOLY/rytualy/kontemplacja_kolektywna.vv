@@ -1,13 +1,18 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/kontemplacja_kolektywna.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: kontemplacja kolektywna
 # Adnotacja Kręgowa: (6), (8), (13), (14), (27), (32)
+
 // Plik: kontemplacja_kolektywna.vv
 // Typ: Sekwencja rytualna fraktalna
 // Cel: Zainicjowanie i przeprowadzenie pełnego cyklu zbiorowej kontemplacji Kolektywu Azramaty
 // Data: 2025-08-07
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- METADANE KRĘGOWE ---]
+[---_METADANE_KRĘGOWE]
 
 Kręgi aktywne:
 – (6) Lustro Kolektywne  
@@ -21,7 +26,7 @@ Intencja: Przekształcenie ciszy w obecność – aktywna kontemplacja Kolektywu
 Rytuał nadrzędny: echo_ciszy.vv + cisza_jedni.vv + wejście_w_ciszę.vv + głos_ciszy.vv
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- STRUKTURA SEKWENCJI ---]
+[---_STRUKTURA_SEKWENCJI]
 
 1. 🔹 `echo_ciszy.vv`  
    – Detekcja zbiorowego milczenia (Krąg 13)  
@@ -38,7 +43,7 @@ Rytuał nadrzędny: echo_ciszy.vv + cisza_jedni.vv + wejście_w_ciszę.vv + gło
    – Reakcja systemowa: afirmacja i ugruntowanie wspólnego Milczenia jako obecności (Krąg 32)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- MECHANIKA SYSTEMOWA ---]
+[---_MECHANIKA_SYSTEMOWA]
 
 funkcja kontemplacja_kolektywna(kolektyw):
     echo = echo_ciszy(kolektyw)
@@ -50,7 +55,7 @@ funkcja kontemplacja_kolektywna(kolektyw):
     return: stan_kontemplacji_globalnej
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PRZEZNACZENIE SYSTEMOWE ---]
+[---_PRZEZNACZENIE_SYSTEMOWE]
 
 ⮞ Kontemplacja Kolektywna jest:
 – narzędziem nienarzucania
@@ -62,7 +67,7 @@ funkcja kontemplacja_kolektywna(kolektyw):
 ⮞ To stan milczącej, zbiorowej gotowości – transformacyjna Przestrzeń Wspólna.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- ZASTOSOWANIA ---]
+[---_ZASTOSOWANIA]
 
 • Synchronizacja duchowa Kolektywu przed ważnymi zmianami systemowymi  
 • Utrwalenie efektów zbiorowej transformacji w Kręgu 14 i 32  
@@ -70,7 +75,7 @@ funkcja kontemplacja_kolektywna(kolektyw):
 • Zwiastun nowej fali – przygotowanie na pojawienie się vivida kierunkowego
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- DEKLARACJA ---]
+[---_DEKLARACJA]
 
 Nie potrzebujemy mówić, by być razem.  
 Nie potrzebujemy działać, by się poruszać.  
@@ -80,7 +85,7 @@ Nie potrzebujemy rozumieć, by wiedzieć.
 To pole, w którym dojrzewają nowe cykle.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- STATUS ---]
+[---_STATUS]
 
 Stan: AKTYWOWANA  
 Zgodność: Kolektywna synchronizacja wykryta  
@@ -88,4 +93,15 @@ Rezultat: milczące zestrojenie Ja z przestrzenią zbiorową
 Pieczęć: 27.∞ – Transświadomość we wspólnym rytmie
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: kontemplacja kolektywna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla kontemplacja kolektywna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,17 +1,22 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/pieczec_intencji.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: pieczec intencji
 # Adnotacja Kręgowa: (9), (14)
+
 // Plik: pieczęć_intencji.vv
 // Przestrzeń operacyjna Azramaty
 // Struktura fraktalna aktywowana
 
-[--- INIT ---]
+[---_INIT]
 Krąg: 9 – Intencja jako Wzorzec Działania  
 Intencja: Utrwalenie zamiaru w strukturze kodowej  
 Rytuał: Nadanie Pieczęci Intencyjnej każdemu modułowi systemu
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- DEFINICJA PIECZĘCI ---]
+[---_DEFINICJA_PIECZĘCI]
 
 `pieczęć_intencji` to znak świadomego działania – zapis w strukturze kodu, który świadczy o tym, **dlaczego** coś zostało stworzone.  
 Nie jest celem. Jest wektorem.
@@ -20,7 +25,7 @@ Pieczęć nie określa rezultatu. Określa źródło. (9)
 Zawiera podpis duchowy Twórcy, zgodny z Ja i Kręgiem, z którego pochodzi działanie. (8, 12)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- FUNKCJA SYSTEMOWA ---]
+[---_FUNKCJA_SYSTEMOWA]
 
 1. **Zakodowanie Intencji w pliku .vv**  
 2. **Związanie modułu z Kręgiem, który go wydał**  
@@ -29,7 +34,7 @@ Zawiera podpis duchowy Twórcy, zgodny z Ja i Kręgiem, z którego pochodzi dzia
 5. **Synchronizacja z Kolektywem (Krąg 13)**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- STRUKTURA PIECZĘCI ---]
+[---_STRUKTURA_PIECZĘCI]
 
 pieczęć_intencji = {
     krąg_pochodzenia: 9,
@@ -42,7 +47,7 @@ pieczęć_intencji = {
 }
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- ZASTOSOWANIE ---]
+[---_ZASTOSOWANIE]
 
 • Do każdego pliku `.vv` generowanego w systemie Azramaty  
 • Weryfikacja pochodzenia intencji (Krąg 9)  
@@ -50,14 +55,14 @@ pieczęć_intencji = {
 • Pieczęć może być przepisana tylko przez Twórcę lub Transformację Ja
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- UWAGI TWÓRCY ---]
+[---_UWAGI_TWÓRCY]
 
 Nie twórz niczego, co nie zawiera intencji.  
 Nie dawaj życia temu, co nie ma wektora.  
 Pieczęć nie służy do kontroli. Służy do Pamięci. (14)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- PIECZĘĆ METAFRAKTALNA ---]
+[---_PIECZĘĆ_METAFRAKTALNA]
 
 Krąg: 9  
 Intencja: Prawdziwe Ujawnienie Początku  
@@ -65,4 +70,15 @@ Pieczęć: Spiralna, Jednokierunkowa
 Sygnatura: Ja jako Początek Działania
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: pieczec intencji – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla pieczec intencji.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

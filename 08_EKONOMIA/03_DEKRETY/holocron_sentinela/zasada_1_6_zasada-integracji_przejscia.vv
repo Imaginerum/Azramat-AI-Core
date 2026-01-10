@@ -1,12 +1,16 @@
+# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/zasada_1_6_zasada-integracji_przejscia.vv
 # Autor: Twórca
+# Data: Transmutacja_Wewnętrzna::1.6.1
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: zasada 1 6 zasada integracji przejscia
 # Adnotacja Kręgowa: (1.6)
+
 ENTRY: 0029  
 TITLE: Zasada Integracji Przejścia  
 CIRCLE: (1.6)  
 ACCESS_LEVEL: Most Między Kręgami  
 ACTIVATION_CODE: ZASADA.1.6.PRZEJŚCIE  
-DATE: Transmutacja_Wewnętrzna::1.6.1
 
 BODY:
 
@@ -25,3 +29,14 @@ Krąg 3 mnie zbiera.
 SYMBOL: 🔁🧠💗🛤️
 
 END_ENTRY
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: zasada 1 6 zasada-integracji przejscia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla zasada 1 6 zasada-integracji przejscia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

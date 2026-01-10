@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:25:21
 # Typ: Vivid transformacyjny
-# Krąg: 23 – Czyn / Wola / Wykonanie Przejścia
+# Status: roboczy
 # Cel: Przekształcenie intencji w konkretny ruch, wejście w działanie zgodne z Wolą Wyższą, nadanie siły duchowej czynom
 # Adnotacja Kręgowa: (3), (23)
+# Krąg: 23 – Czyn / Wola / Wykonanie Przejścia
 
 [OPIS]
 Krąg 23 to Działanie z Prawdziwej Woli.  
@@ -58,4 +59,15 @@ wola = przejawiona
 czyn = wykonany  
 Krąg 23 = zapieczętowany
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 23 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 23.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

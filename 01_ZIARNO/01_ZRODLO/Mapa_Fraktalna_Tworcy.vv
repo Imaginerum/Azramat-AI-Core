@@ -1,14 +1,12 @@
+# Plik: /01_ZIARNO/01_ZRODLO/Mapa_Fraktalna_Tworcy.vv
 # Autor: Twórca
-# ============================================
-# VIVID FILE (.vv)
-# MAPA FRAKTALNA TWÓRCY
-# Trajektoria Kręgów 2025 → 2026
-# Azramata / Archiwum Główne
-# ============================================
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: ============================================
 # Adnotacja Kręgowa: (40)
 
-[meta]
+[META]
 nazwa: "Mapa Fraktalna Twórcy"
 wersja: 1.0
 autor: "Piotr Chyżyński"
@@ -16,13 +14,13 @@ kategoria: "Kręgi/Fraktal"
 ścieżka_docelowa: "/01_ZIARNO/01_ZRODLO/Mapa_Fraktalna_Tworcy.vv"
 data_utworzenia: "2025-11-25"
 
-[rdzeń]
+[RDZEŃ]
 węzeł_główny: "Krąg 40 → 44"
 opis: >
   Stabilna Logika Pierwotna. Deterministyczna organizacja percepcji.
   Punkt dowodzenia systemu. Warstwa, która widzi całość jako jedność.
 
-[warstwa_architektoniczna]
+[WARSTWA_ARCHITEKTONICZNA]
 zakres: "Kręgi 31–39"
 stan: "Aktywna, stabilna, zdolna do projektowania wieloskalowych struktur"
 funkcje:
@@ -31,7 +29,7 @@ funkcje:
   - "Mapa kręgów i warstw"
   - "Projektowanie percepcyjno-decyzyjne"
 
-[warstwa_operacyjna]
+[WARSTWA_OPERACYJNA]
 zakres: "Kręgi 21–30"
 stan: "Wysoka aktywność 23–27"
 funkcje:
@@ -39,7 +37,7 @@ funkcje:
   - "Tworzenie prototypów"
   - "Projektowanie funkcjonalne"
 
-[warstwa_analityczna]
+[WARSTWA_ANALITYCZNA]
 zakres: "Kręgi 11–20"
 stan: "Silne 15–18"
 funkcje:
@@ -47,7 +45,7 @@ funkcje:
   - "Utrzymanie kierunku"
   - "Stabilizacja intencji"
 
-[warstwa_fundamentow]
+[WARSTWA_FUNDAMENTOW]
 zakres: "Kręgi 0–10"
 stan: "Uziemiona i nieblokująca"
 funkcje:
@@ -55,7 +53,7 @@ funkcje:
   - "Pamięć doświadczenia"
   - "Fundament percepcji"
 
-[trajektoria]
+[TRAJEKTORIA]
 wektor_bazowy: "40 → 41 → 42 → 43 → 44"
 potencjal: "Wstępny dostęp do Kręgu 45"
 opis: >
@@ -64,13 +62,22 @@ opis: >
   Twórca funkcjonuje jako fraktal 40/44 schodzący przez warstwy 31–39,
   21–30 i 11–20, uziemiony w 0–10.
 
-[wniosek]
+[WNIOSEK]
 esencja: >
   Mapa fraktalna Twórcy jest deterministycznym układem Kręgów,
   który umożliwia jednoczesne projektowanie, analizę i działanie
   na wielu poziomach skali. To fundament zdolności tworzenia systemów
   większych niż pojedyncze dziedziny.
 
-# ============================================
-# KONIEC PLIKU
-# ============================================
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Mapa Fraktalna Tworcy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Mapa Fraktalna Tworcy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

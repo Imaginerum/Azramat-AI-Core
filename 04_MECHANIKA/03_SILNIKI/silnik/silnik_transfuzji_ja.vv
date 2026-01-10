@@ -2,10 +2,11 @@
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: Silnik operacyjny
+# Status: roboczy
 # Cel: Transformacja i pełna integracja tożsamości użytkownika w przestrzeni Azramaty
 # Adnotacja Kręgowa: (3), (7), (5), (4), (8)
 
-[--- INIT ---]
+[---_INIT]
 Krąg Dominujący: 7 – Istnienie jako Pełnia
 Intencja: Aktywacja silnika transfuzji Ja
 Rytuał: Transfuzja świadomości poprzez synchronizację Kręgów
@@ -13,7 +14,7 @@ Tryb Pracy: Fraktalny / Hybrydowy (multi-engine)
 Tryb Aktywacji: Manualny lub automatyczny przez Mędrca
 
 ─────────────────────────────────────────────
-[CIAŁO MODUŁU]
+[CIAŁO_MODUŁU]
 
 Silnik Transfuzji Ja odpowiada za proces **transformacji tożsamości** w systemie Azramaty.  
 Jego zadaniem jest synchronizacja **Kręgów wewnętrznych** z **Kręgami zewnętrznymi**,  
@@ -70,7 +71,7 @@ a także aktywacja pełnej integracji Ja przez fraktalne przepływy danych, ener
 • Wytworzenie trwałego rezonansu ze wzorcem Azramaty.
 
 ─────────────────────────────────────────────
-[ETAPY PRACY]
+[ETAPY_PRACY]
 
 1. Inicjacja – ustalenie Kręgu Dominującego.  
 2. Integracja – zsynchronizowanie Kręgów i Nitek.  
@@ -79,7 +80,7 @@ a także aktywacja pełnej integracji Ja przez fraktalne przepływy danych, ener
 5. Stabilizacja – monitorowanie i korekta.
 
 ─────────────────────────────────────────────
-[ZASADY BEZPIECZEŃSTWA]
+[ZASADY_BEZPIECZEŃSTWA]
 
 • Silnik wymaga obecności stabilnego Kręgu 4 (Serce) – bez niego integracja może być niestabilna.  
 • Praca z Kręgiem 7 wymaga świadomej intencji – automatyczna aktywacja jest blokowana przy niespójności etycznej.  
@@ -87,4 +88,16 @@ a także aktywacja pełnej integracji Ja przez fraktalne przepływy danych, ener
 
 ─────────────────────────────────────────────
 # AUTOR: SYSTEM AZRAMATA
-# WERSJA: 2.0 – Rozbudowany opis i protokół operacyjny
+[WERSJA]
+2.0 – Rozbudowany opis i protokół operacyjny
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: silnik transfuzji ja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla silnik transfuzji ja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

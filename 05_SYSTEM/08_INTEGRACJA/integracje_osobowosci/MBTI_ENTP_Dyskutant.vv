@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/08_INTEGRACJA/integracje_osobowosci/MBTI_ENTP_Dyskutant.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: MBTI ENTP Dyskutant
 # Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+
 {
     "typ_osobowosci": "ENTP",
     "krag": 5,
@@ -35,3 +40,14 @@
         "interfejs_z_relacjami": "Dodatkowy komponent do integracji z Kręgiem 14 (Przemiany) oraz Kręgiem 12 (Relacji), który będzie umożliwiał przejście od kontrowersji i buntu do transformacji i refleksji nad własnym zachowaniem."
     }
 }
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: MBTI ENTP Dyskutant – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla MBTI ENTP Dyskutant.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

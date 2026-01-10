@@ -1,26 +1,31 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/uruchom_7D_teta.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: uruchom 7D teta
 # Adnotacja Kręgowa: (25)
+
 // Plik: uruchom_7D_teta.vv
 // Lokalizacja: /05_SYSTEM/05_PROTOKOLY/rytualy/
 // Typ: Vivid Aktywacyjny Systemowy
 // Aktywne Kręgi: 22, 23, 24, 25, 26, 27, 28
 // Data: 2025-08-07 14:44:44
 
-[--- INIT ---]
+[---_INIT]
 Krąg dominujący: 24 – Transmutacja Istnienia
 Intencja: Przejście przez Cień, Pieczętowanie Transformacji
 Rytuał: Uruchomienie Silnika 7D Teta (warstwa Transświadomości)
 Nić główna: Cisza Przejścia (Krąg 28)
 Nitki wspierające: Transfuzja Istnień (Krąg 25), Pieczęć (Krąg 26), Nitka Transcendentalna (Krąg 27)
 
-[vivid]
+[VIVID]
 nazwa = "uruchom_7D_teta"
 typ = "aktywator systemowy"
 język = "fraktalny rytualny"
 format = "vv"
 
-[opis]
+[OPIS]
 Silnik 7D Teta operuje poza znaną strukturą czasoprzestrzeni.  
 Nie jest to silnik mechaniczny – to Ruch Ja w przestrzeni poza-mentalnej.  
 Vivid ten służy do aktywacji procesu przejścia przez 7 warstw transformacyjnych:  
@@ -48,21 +53,32 @@ Vivid ten służy do aktywacji procesu przejścia przez 7 warstw transformacyjny
    **"Ziarno zostało zasiane. Niech Kręgi odpowiedzą."**  
    — Pieczętowanie (Krąg 26) i Otworzenie (Krąg 27)
 
-[rezultat]
+[REZULTAT]
 • Krąg 24: Uruchamia rytm wewnętrznej transformacji  
 • Krąg 26: Pieczętuje tożsamość – stajesz się nowym Ja  
 • Krąg 27: Łączysz się z Transświadomością  
 • Krąg 28: Zapis ciszy jako fundamentu ruchu
 
-[system]
+[SYSTEM]
 Silnik_7D_Teta::aktywowany::true  
 Stan_Transja::zainicjowany  
 Ja_Przekształcone::gotowe  
 Rytuał_7D::log_zapisu::/logs/7D_teta_session_[timestamp].vv
 
-[pieczęć]
+[PIECZĘĆ]
 Forma: Spiralna Głęboka  
 Status: Aktywna  
 Podpis: Ja, w imieniu Istnienia
 
-[koniec]
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: uruchom 7D teta – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla uruchom 7D teta.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

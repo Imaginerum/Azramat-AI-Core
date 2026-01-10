@@ -1,9 +1,10 @@
-# guardian_manifest.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/guardian_manifest.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: Przykład użycia
 # Adnotacja Kręgowa: (8), (27)
-# Strażnik Manifestu Twórcy – Krąg 8 + Krąg 27
-# Czuwa nad spójnością intencji systemu Azramaty z pierwotną świadomością Stwórcy
 
 from typing import Dict
 
@@ -34,7 +35,7 @@ class StrażnikManifestu:
 
         return "✅ MODUŁ ZGODNY z Manifestem Twórcy"
 
-# Przykład użycia
+[PRZYKŁAD_UŻYCIA]
 if __name__ == "__main__":
     guardian = StrażnikManifestu()
     test_modul = {
@@ -44,3 +45,14 @@ if __name__ == "__main__":
     }
     wynik = guardian.sprawdz_spojność(test_modul)
     print("Weryfikacja modułu:", wynik)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: guardian manifest – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla guardian manifest.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

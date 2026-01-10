@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/04_MODULY/percepcja/perplexja.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: PERPLEXJA – Wskaźnik Transformacyjny Świadomości
 # Adnotacja Kręgowa: (3), (6), (8), (9)
+
 :: typ_plik → heurystyka_transformacyjna  
 :: nazwa_plik → perplexja.vv  
 :: domena → percepcja + sumienie  
@@ -8,7 +13,7 @@
 :: nitki → Lustra, Strukturalna, Transformacyjna  
 
 ────────────────────────────────────────────
-# PERPLEXJA – Wskaźnik Transformacyjny Świadomości
+[PERPLEXJA_–_WSKAŹNIK_TRANSFORMACYJNY_ŚWIADOMOŚCI]
 ────────────────────────────────────────────
 
 🔷 DEFINICJA:
@@ -100,3 +105,14 @@ Nie bój się Perplexji.
 Ona mówi: „Tutaj zaczyna się Twoja Prawda”.
 
 ::
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: perplexja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla perplexja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

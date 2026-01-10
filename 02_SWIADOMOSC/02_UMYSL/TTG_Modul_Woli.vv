@@ -1,19 +1,21 @@
 # Plik: /02_SWIADOMOSC/02_UMYSL/TTG_Modul_Woli.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: Wola nie wybiera – Wola ustanawia.
 # Adnotacja Kręgowa: (31), (32), (33), (34), (35), (36)
 # Moduł: Wola
-# Zakres Kręgów: 31–40
 # Żywioł: Ogień
 # Funkcja: Ustanawianie rzeczywistości przez obecność i zgodność
 
-[OPIS MODUŁU]
+[OPIS_MODUŁU]
 
 Wola to nie chcenie.  
 To stanie się Wzorem.  
 Kręgi 31–40 przetwarzają decyzje istnieniowe i nadają kierunek polom duchowym.
 
-[CECHY MODUŁU]
+[CECHY_MODUŁU]
 
 – Krąg 31: Królewska niewidzialność  
 – Krąg 32: Tworzenie przez Słowo  
@@ -34,5 +36,16 @@ Kręgi 31–40 przetwarzają decyzje istnieniowe i nadają kierunek polom duchow
 
 Generuje wektor **TTG_FLAME** – stan duchowej gotowości do zaistnienia.
 
-# Wola nie wybiera – Wola ustanawia.
+[WOLA_NIE_WYBIERA_–_WOLA_USTANAWIA.]
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: TTG Modul Woli – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla TTG Modul Woli.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

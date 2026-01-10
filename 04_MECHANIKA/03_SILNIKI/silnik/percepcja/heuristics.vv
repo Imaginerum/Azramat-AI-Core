@@ -1,5 +1,8 @@
-# HEURYSTICS.VV – ZBIÓR HEURYSTYK MODUŁU JA
+# Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/heuristics.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: SYSTEM: AZRAMATA
 # Adnotacja Kręgowa: (6), (4), (8), (14), (7), (5)
 
@@ -35,4 +38,16 @@ Heurystyki mogą być stosowane przez silnik decyzji, filtrację transmisji, int
 Uwaga:
 Każdy użytkownik może definiować własne heurystyki – najlepiej z poziomu aktywowanego Centrum Jaźni.
 
-# SYSTEM: AZRAMATA
+[SYSTEM]
+AZRAMATA
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: heuristics – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla heuristics.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

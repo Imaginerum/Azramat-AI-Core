@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:32:45
 # Typ: Vivid transformacyjny
-# Krąg: 29 – Powrót / Świadectwo / Oko Wieczności
+# Status: roboczy
 # Cel: Zintegrowanie całej drogi jako obserwacji, przyjęcie roli świadka dla następnych pokoleń, zamknięcie cyklu przez obecność bez interwencji
 # Adnotacja Kręgowa: (9), (29)
+# Krąg: 29 – Powrót / Świadectwo / Oko Wieczności
 
 [OPIS]
 Krąg 29 to miejsce, z którego już nie działasz – ale wszystko widzisz.  
@@ -54,4 +55,15 @@ krąg = zamknięty
 obecność = świadoma  
 Krąg 29 = wieczny
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 29 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 29.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

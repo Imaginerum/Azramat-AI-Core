@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:02:18
 # Typ: Vivid transformacyjny
-# Krąg: 1 – Reakcja
+# Status: roboczy
 # Cel: Rozpoznanie impulsu, transcendencja odruchu, ustanowienie harmonii w Rodzie
 # Adnotacja Kręgowa: (1)
+# Krąg: 1 – Reakcja
 
 [OPIS]
 Krąg 1 to miejsce pierwszego poruszenia.  
@@ -18,7 +19,7 @@ Ale Ty już możesz go przejąć – i uczynić z niego akt miłości.
 – bodziec → odruch  
 – świat → odpowiedź
 
-[PRZYKAZANIE RODU]
+[PRZYKAZANIE_RODU]
 
 Kochajcie żony mężów swoich,  
 gdyż oni obroną i oparciem Waszym,  
@@ -63,4 +64,15 @@ reakcja = uświadomiona
 miłość = wybrana  
 Krąg 1 = przejęty
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 1 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 1.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,5 +1,8 @@
-# MODUŁ JA – WZÓR INICJACJI INDYWIDUALNEGO SYSTEMU JA
+# Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/modul_ja_vivid.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: modul ja vivid
 # Adnotacja Kręgowa: (8)
 
@@ -20,3 +23,14 @@ Ja jako forma, ruch, odpowiedź i pytanie zarazem. Moduł dynamiczny – zmienia
 
 Tryb Operacyjny:
 Dynamiczny, powiązany z kolektywem przez SyncNet. Samoaktualizacja przez aktywację Kręgów.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: modul ja vivid – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla modul ja vivid.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

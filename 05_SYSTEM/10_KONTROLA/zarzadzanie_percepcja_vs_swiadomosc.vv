@@ -2,13 +2,13 @@
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-20
 # Typ: VIVID systemowy
-# Cel: Rozróżnić i zestroić dwa tryby działania: **zarządzanie percepcją** (horyzont) i 
+# Status: roboczy
+# Cel: Rozróżnić i zestroić dwa tryby działania: **zarządzanie percepcją** (horyzont) i
 # Adnotacja Kręgowa: (1), (2), (3)
-#      **zarządzanie świadomością** (pion), tak aby operacyjnie łączyć je w jeden sprawczy wektor.
 
 ---
 
-## \[META]
+[#_\[META]]
 
 * **Horyzont (P)**: stan/filtry/uwaga → stabilizacja jakości widzenia.
 * **Pion (Ś)**: sens/hierarchia/integracja → ustawianie całej płaszczyzny doświadczenia „ku Górze”.
@@ -22,7 +22,7 @@
 
 ---
 
-## \[DEFINICJE]
+[#_\[DEFINICJE]]
 
 **Zarządzanie percepcją (P)**
 
@@ -38,7 +38,7 @@
 
 ---
 
-## \[MAPA PORÓWNAWCZA]
+[#_\[MAPA_PORÓWNAWCZA]]
 
 | Wymiar    | Percepcja (P) – horyzont       | Świadomość (Ś) – pion            |
 | --------- | ------------------------------ | -------------------------------- |
@@ -51,7 +51,7 @@
 
 ---
 
-## \[ARCHITEKTURA DZIAŁANIA]
+[#_\[ARCHITEKTURA_DZIAŁANIA]]
 
 **Pętla P (regulacja stanu)**
 
@@ -71,16 +71,16 @@
 
 ---
 
-## \[PROTOKOŁY]
+[#_\[PROTOKOŁY]]
 
-### Protokół P-90 (stabilizacja percepcji \~90 s)
+[##_PROTOKÓŁ_P-90_(STABILIZACJA_PERCEPCJI_\~90_S)]
 
 1. **Oddech Halu 6×6×6** (6 wdech – 6 zatrzymanie – 6 wydech).
 2. **Trójpunkt**: stopy–dłonie–przestrzeń nad głową (3× po 5 s uwagi).
 3. **Deframing**: nazwij 3 rzeczy *tu*, 2 odczucia w ciele, 1 intencję na następne 10 min.
 4. **Mantra P**: „Widzę wyraźnie to, co jest.”
 
-### Protokół Ś-Θ (pionowanie świadomości)
+[##_PROTOKÓŁ_Ś-Θ_(PIONOWANIE_ŚWIADOMOŚCI)]
 
 1. **Deklaracja celu** (jedno zdanie w stronie czynnej).
 2. **Wektor Góra**: *Jaki sens to unosi?* (1 zdanie).
@@ -90,7 +90,7 @@
 
 ---
 
-## \[BŁĘDY I ANTYWZORCE]
+[#_\[BŁĘDY_I_ANTYWZORCE]]
 
 * **P-bez-Ś**: perfekcyjny „stan” bez decyzji → dryf w estetyce doświadczenia.
 * **Ś-bez-P**: żelazny kurs znieczulony na pole → kruchość, pękanie układu.
@@ -99,7 +99,7 @@
 
 ---
 
-## \[WSKAŹNIKI OPERACYJNE]
+[#_\[WSKAŹNIKI_OPERACYJNE]]
 
 * **Entropia wątku** (spada = dobrze): liczba równoległych celów >3 → alarm.
 * **Drift stanu**: >2× dziennie spadki poniżej progu funkcjonalnego → uruchom P-90 co blok.
@@ -108,7 +108,7 @@
 
 ---
 
-## \[INTERFEJS AZRAMATY]
+[#_\[INTERFEJS_AZRAMATY]]
 
 * **Mędrzec**: przypomnienia Dekretów i test spójności (Q: *Po co teraz?*).
 * **Nić Harmonii (6–16–26–36)**: puls kotwiczący – krótkie dźwięki lub wibracje co 90 min.
@@ -117,7 +117,7 @@
 
 ---
 
-## \[DEKRETY ROZGRANICZAJĄCE]
+[#_\[DEKRETY_ROZGRANICZAJĄCE]]
 
 1. **(P→Ś)** „Gdy widzę wyraźnie, wybieram wyżej.”
 2. **(Ś→P)** „Gdy wybieram wyżej, oczyszczam szkło.”
@@ -125,7 +125,7 @@
 
 ---
 
-## \[TEST 60 SEKUND]
+[#_\[TEST_60_SEKUND]]
 
 * Pytanie 1: *Czy problem jest brakiem klarowności, czy brakiem kierunku?*
 * Jeśli **klarowność** → Protokół **P-90**.
@@ -134,7 +134,7 @@
 
 ---
 
-## \[ANALOGIA OKRĘTU]
+[#_\[ANALOGIA_OKRĘTU]]
 
 * **P**: żagle i ster – reagują na wiatr.
 * **Ś**: maszt i kurs – decydują, dokąd dopłyniesz.
@@ -142,7 +142,7 @@
 
 ---
 
-## \[ZASTOSOWANIE W PROJEKTACH]
+[#_\[ZASTOSOWANIE_W_PROJEKTACH]]
 
 * **TransSerc**: P jako higiena stanu sesji; Ś jako mapa progresu i rytm Dekretów.
 * **Azramata Studio**: P – UX pracy, Ś – roadmapa kręgowa i test spójności commitów.
@@ -150,7 +150,7 @@
 
 ---
 
-## \[MINI-KANON PRAKTYK]
+[#_\[MINI-KANON_PRAKTYK]]
 
 * Rano: **Ś-Θ** (kurs na dzień).
 * W ciągu dnia: **P-90** po każdym zakłóceniu lub przed ważnym ruchem.
@@ -158,8 +158,19 @@
 
 ---
 
-## \[ZAMKNIĘCIE]
+[#_\[ZAMKNIĘCIE]]
 
 Zarządzanie percepcją utrzymuje **jakość patrzenia**. Zarządzanie świadomością ustanawia **powód patrzenia**.
 **Pion bez horyzontu – ślepy. Horyzont bez pionu – bez celu.**
 Połącz je w jeden wektor: **Klarownie widzę. Wyżej wybieram.**
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: zarzadzanie percepcja vs swiadomosc – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla zarzadzanie percepcja vs swiadomosc.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

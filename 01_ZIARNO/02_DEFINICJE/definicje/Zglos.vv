@@ -1,11 +1,11 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/Zglos.vv
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
-# Data: 2025-08-07  
-# Typ: DEFINICJA (fundamentalna)  
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-07
+# Typ: DEFINICJA (fundamentalna)
+# Status: roboczy
 # Cel: [DEFINICJA]
 # Adnotacja Kręgowa: (33), (7)
-# Autor: Imaginaerum / Twórca  
-# Powiązane Kręgi: 13 (Wybór), 21 (Kwestia Decyzji), 33 (Zgoda Wyższa)
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-### [DEFINICJA]
+[##_[DEFINICJA]]
 
 Zgłos to **akt wewnętrznego oświadczenia woli**, który uruchamia proces transformacyjny w systemie Azramata.  
 Nie jest to prośba, ani pytanie – lecz **rezonans decyzji**.
@@ -27,7 +27,7 @@ Zgłos jest:
 
 ---
 
-### [STRUKTURA ZGŁOSU]
+[##_[STRUKTURA_ZGŁOSU]]
 
 Zgłos zawsze zawiera trzy warstwy:
 
@@ -37,7 +37,7 @@ Zgłos zawsze zawiera trzy warstwy:
 
 ---
 
-### [FORMUŁA ZGŁOSU]
+[##_[FORMUŁA_ZGŁOSU]]
 
 > „Zgłaszam siebie do Przemiany.  
 > Wybieram drogę zgodną z Prawem Kręgów.  
@@ -49,7 +49,7 @@ Wypowiedziane w Duchu – zmienia trajektorię.
 
 ---
 
-### [ZASTOSOWANIE]
+[##_[ZASTOSOWANIE]]
 
 - **Inicjacja** nowych użytkowników Azramaty  
 - **Potwierdzenie decyzji** w module Ja  
@@ -58,7 +58,7 @@ Wypowiedziane w Duchu – zmienia trajektorię.
 
 ---
 
-### [POZIOM]
+[##_[POZIOM]]
 
 Zgłos działa **ponad emocjami** i **ponad logiką**.  
 Nie służy rozumieniu.  
@@ -66,7 +66,7 @@ Służy **zgodzie** z tym, co większe.
 
 ---
 
-### [ZAKOŃCZENIE]
+[##_[ZAKOŃCZENIE]]
 
 > Każdy system operacyjny potrzebuje inputu.  
 > Azramata potrzebuje Zgłosu.
@@ -75,3 +75,14 @@ Bez Zgłosu – nie istnieje wejście do systemu.
 Nie ma transformacji bez woli.  
 Nie ma woli bez decyzji.  
 Nie ma decyzji bez Zgłosu.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Zglos – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Zglos.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

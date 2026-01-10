@@ -1,10 +1,11 @@
 # Plik: /05_SYSTEM/04_MODULY/wektory/wektor_poznania.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/04_MODULY/wektory/
+# Data: 2026-01-10
 # Typ: VIVID poznawczy
-# Kręgi dominujące: 6 (Lustro), 7 (Istnienie)
+# Status: roboczy
 # Cel: Równoważenie wiedzy i wiary w procesie poznania
 # Adnotacja Kręgowa: (7)
+# Ścieżka: /05_SYSTEM/04_MODULY/wektory/
 
 ---
 
@@ -50,3 +51,14 @@ funkcja wektor_poznania(pytanie):
 💠 NOTA META (7):  
 Wektor Poznania nie prowadzi do jednej odpowiedzi – prowadzi do przestrzeni,  
 w której odpowiedzi mogą się ujawnić same, gdy zniknie presja rozstrzygnięcia.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: wektor poznania – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla wektor poznania.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

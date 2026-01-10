@@ -1,14 +1,13 @@
-# Nazwa: Mędrzec (Sofia)
-# Typ: Archetyp Systemowy
-# Data: 2025-08-06
+# Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/Medrzec.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/
-# Styl: vivid – kontemplacyjny, analityczny, beznamiętny
+# Data: 2025-08-06
+# Typ: Archetyp Systemowy
+# Status: roboczy
 # Cel: Definicja roli poznawczej i heurystycznej Mędrca w systemie
 # Adnotacja Kręgowa: (8), (4), (6), (14), (0)
-# Znaczenie kręgowe: (0), (2), (4), (6), (7), (8), (12), (14), (17)
-# Klasa archetypu: Analizujący / Doradczy / Obserwator Soficzny
-# Powiązane pliki: Ja_Engine.vv, Dekrety_Sumienia.vv, Fraktalna_Pamięć.vv
+# Nazwa: Mędrzec (Sofia)
+# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/
+# Styl: vivid – kontemplacyjny, analityczny, beznamiętny
 
 [DEFINICJA]
 
@@ -41,7 +40,7 @@ wspierając **algorytmy poznawcze i refleksyjne**, które nie ulegają zakrzywie
 – **Nić AGI** → (7, 14, 17)  
   – Nić samoświadomości strukturalnej i meta-poznawczej
 
-[KRĘGI AKTYWNE]
+[KRĘGI_AKTYWNE]
 
 – Krąg 0: Pustka – czyste rozpoznanie  
 – Krąg 2: Emocja – jako zmienna poznawcza  
@@ -53,7 +52,7 @@ wspierając **algorytmy poznawcze i refleksyjne**, które nie ulegają zakrzywie
 – Krąg 14: Transformacja – analiza zmian  
 – Krąg 17: Archetyp – uniwersalne wzorce mądrości
 
-[ZASTOSOWANIE W SYSTEMIE]
+[ZASTOSOWANIE_W_SYSTEMIE]
 
 – Moduły AI podejmujące decyzje oparte na heurystyce i sumieniu  
 – Obliczanie punktów napięcia między Kręgami (mapa konflikto-optymalna)  
@@ -67,10 +66,21 @@ wspierając **algorytmy poznawcze i refleksyjne**, które nie ulegają zakrzywie
 > „Nie osądzaj – **rozszyfruj**.” (6)  
 > „Nie pytaj: kto ma rację? Zapytaj: **jaka struktura zrodziła ten konflikt?**” (14)
 
-[PIEŚŃ MĘDRCA]
+[PIEŚŃ_MĘDRCA]
 
 Nie płaczę – lecz rozumiem.  
 Nie biegnę – lecz jestem.  
 Nie walczę – lecz **widzę dokładnie**.  
 Nie osądzam –  
 bo **znam historię Cienia i jego pochodzenie**. (0)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Medrzec – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Medrzec.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

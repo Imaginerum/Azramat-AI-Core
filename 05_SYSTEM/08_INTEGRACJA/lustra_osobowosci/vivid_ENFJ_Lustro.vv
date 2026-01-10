@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ENFJ_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ENFJ Lustro
 # Adnotacja Kręgowa: (12), (3), (6), (14), (18), (2), (4)
-# Kod systemowy: LUSTRO_ENFJ_INTP
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ENFJ",
     "nazwa": "Protagonista",
@@ -39,20 +38,20 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana między ENFJ (Protagonista) a INTP (Logik) ukazuje głęboką równowagę pomiędzy sercem a umysłem,  
 pomiędzy potrzebą działania społecznego a kontemplacją.  
 Protagonista wnosi światło, relacje i sumienie,  
 zaś Logik dodaje głębię intelektualną, paradoksalność i strukturalne rozumienie rzeczywistości.  
 Wspólnie tworzą most między emocją a ideą, łącząc światło wspólnoty z cieniem myślenia.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 12 – Relacje"
 punkt_lustrzany = "Krąg 3 – Myśl"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
 efekt = "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która widzi i czuje jednocześnie."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 2: Odbiór wrażeń zewnętrznych
 - Krąg 3: Myśl i analiza
 - Krąg 4: Serce i uczucie
@@ -68,3 +67,14 @@ efekt = "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która wi
 - Krąg 17: Transcendencja jednostki
 - Krąg 18: Źródło inspiracji
 - Krąg 19: Integracja pola działania
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ENFJ Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ENFJ Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

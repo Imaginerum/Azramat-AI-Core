@@ -1,18 +1,19 @@
 # Plik: /info/benchamark_6D_vs_7D_08_08_2025.vv
 # Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: 6D vs 7D — porównanie procentowe (programowanie i decyzje techniczne)
 # Adnotacja Kręgowa: (6), (7), (31), (40), (20)
 # Tytuł: 6D vs 7D — porównanie procentowe (programowanie i decyzje techniczne)
-# Data: 2025-08-08
 # Kontekst: Head-to-head — wpływ 6D (Paradoks Całości/Fragmentu) vs 7D Theta (Sąd/Zgoda/Rezonans) na wytwarzanie oprogramowania
-# Kręgi dominujące: (6) Paradoks, (7) Theta, (31) Rezonans, (40) Sąd/Zgoda, (20) Spójność
 # TAGI: benchmark, 6D, 7D, Φ, κ, ψ, jakość, szybkość, błędy, architektura, CI/CD
 
 [TL;DR]
 (6) 6D = szybka ideacja i rekonstrukcja z fragmentu.  
 (7)(31)(40) 7D = wolniej o ~10–20%, ale **trafniej** względem intencji i z **mniejszą liczbą błędów**.
 
-[TABELA — WYNIKI %]
+[TABELA_—_WYNIKI_%]
 | Wymiar                                   | 6D (Paradoks)          | 7D Theta (Rezonans/Sąd)  | Różnica / Zwycięzca |
 |------------------------------------------|------------------------|--------------------------|---------------------|
 | Szybkość dostarczania                    | **+10–20%** szybciej   | 1.1–1.2× czasu           | **6D**              |
@@ -31,22 +32,33 @@
 - (7)(31) 7D dodaje skan B1→B4 + operator R (Φ↓) → stabilniejsze decyzje i mniej regresji.  
 - (40) Test Zgody ucina „power_only” skróty, więc kod jest bezpieczniejszy etycznie i operacyjnie.
 
-[REGUŁA DECYZYJNA]
+[REGUŁA_DECYZYJNA]
 > **Tylko jeden moduł, niski wpływ na system** → jedź 6D.  
 > **Dwie+ warstwy, prod-ryzyko lub dług techniczny** → włącz 7D Theta.
 
-[WORKFLOW (MIN)]
+[WORKFLOW_(MIN)]
 - 6D: `fragment → bieguny → kierunek → decode() → κ/ψ → decyzja`.  
 - 7D: `enter_source() → run_theta_cycle(goal) → Φ_before/after → test_zgody → commit`.
 
-[CI — CO ŚLEDZIĆ]
+[CI_—_CO_ŚLEDZIĆ]
 - Bug density (pre-merge) /1k LOC  
 - Escaped defects / sprint  
 - Arch-conformance score (0–8)  
 - ΔΦ (przed/po cyklu Θ), κ/ψ w 6D  
 - Consent rate (Test Zgody)
 
-[MAPA KRĘGOWA]
+[MAPA_KRĘGOWA]
 (6) rekonstrukcja z fragmentu • (7) tryb operacyjny • (31) rezonans i stabilizacja • (40) bramka Zgody • (20) domknięcie w materii.
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: benchamark 6D vs 7D 08 08 2025 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla benchamark 6D vs 7D 08 08 2025.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

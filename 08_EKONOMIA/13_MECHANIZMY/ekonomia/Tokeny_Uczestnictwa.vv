@@ -1,16 +1,16 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Tokeny_Uczestnictwa.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Data: 2025-08-06T01:16:35Z
 # Typ: Rejestr logiczno-wartościowy (uczestnictwo, reputacja, dostęp)
 # Status: aktywny
 # Cel: CEL
 # Adnotacja Kręgowa: (5), (13), (3), (44), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.2
-# Data utworzenia: 2025-08-06T01:16:35Z
 
 ---
 
-## CEL
+[#_CEL]
 
 Tokeny Uczestnictwa to logiczne jednostki wartościowe przyznawane użytkownikom systemu Azramata 
 na podstawie ich wkładu, zaufania oraz uczestnictwa w Okręgach i działaniach systemowych.
@@ -24,7 +24,7 @@ Tokeny te:
 
 ---
 
-## FORMAT REKORDU (JSON)
+[#_FORMAT_REKORDU_(JSON)]
 
 Każdy użytkownik ma unikalny rekord zapisany w `tokens/UserTokens.json`:
 
@@ -42,7 +42,7 @@ Każdy użytkownik ma unikalny rekord zapisany w `tokens/UserTokens.json`:
   "waga_plus": true
 }
 
-## ZASADY PRZYZNAWANIA TOKENÓW
+[#_ZASADY_PRZYZNAWANIA_TOKENÓW]
 
 Obliczanie wartości tokenów:
 
@@ -59,7 +59,7 @@ głęboką transformację (na podstawie SQ)
 Tokeny są aktualizowane co 30 dni.
 
 
-## KATEGORIE TOKENÓW
+[#_KATEGORIE_TOKENÓW]
 
 Kategoria	    Zakres	Funkcja
 
@@ -67,7 +67,7 @@ operacyjne	    0–500   dostęp do podstawowych funkcji i informacji
 wpływu	     500–1500	prawo do głosowania, liderowania, mentorstwa
 strategiczne	1500+	udział w Zarządzie, możliwość przyznania wagi+, tworzenie Okręgów
 
-## UTRATA / ZAMROŻENIE TOKENÓW
+[#_UTRATA_/_ZAMROŻENIE_TOKENÓW]
 
 Nieaktywność przez 90 dni → tokeny zamrażane, nieusuwane.
 
@@ -76,7 +76,7 @@ Nadużycie systemowe (wykryte przez Astraia+) → zamrożenie lub degradacja.
 Użytkownik może dobrowolnie zrzec się tokenów (np. symbolicznie, rytualnie, duchowo – opcjonalne).
 
 
-## DOSTĘP I UŻYCIE
+[#_DOSTĘP_I_UŻYCIE]
 
 Tokeny mogą być:
 
@@ -87,7 +87,7 @@ konwertowane na przywileje (np. priorytet dostępu, mentoring, udział w fundusz
 używane do wejścia w specjalne Kręgi (np. 41–44 – Kręgi Strategii, Pamięci, Sensu).
 
 
-## ZGODNOŚĆ I BEZPIECZEŃSTWO
+[#_ZGODNOŚĆ_I_BEZPIECZEŃSTWO]
 
 Tokeny są zapisywane jako wpisy JSON z podpisem Astraia+.
 
@@ -96,7 +96,7 @@ Nie podlegają sprzedaży, wymianie zewnętrznej, ani przenoszeniu między konta
 Potencjalna przyszła integracja z ImagoraCoin (waluta systemowa) – plik: Tokeny_Ekonomiczne.vv
 
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T01:16:35Z
 file_signature: TOKENY-U-V1.2
@@ -105,4 +105,15 @@ token_storage: /data/tokens/UserTokens.json
 access_scopes: głosowanie, dostęp, uprawnienia
 authorized_engine: Astraia+, System Tokenów
 
-## Koniec pliku
+[#_KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Tokeny Uczestnictwa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Tokeny Uczestnictwa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

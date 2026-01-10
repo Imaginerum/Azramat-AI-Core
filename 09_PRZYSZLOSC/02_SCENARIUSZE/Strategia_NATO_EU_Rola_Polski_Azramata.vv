@@ -1,11 +1,11 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/Strategia_NATO_EU_Rola_Polski_Azramata.vv
 # Autor: Twórca
-# Typ: Strategia kierunkowa (NATO + EU) z rolą Polski – ujęcie Kręgi + Nitki
 # Data: 2026-01-10
-# Adresaci: DKWOC / MON / decydenci strategiczni
+# Typ: Strategia kierunkowa (NATO + EU) z rolą Polski – ujęcie Kręgi + Nitki
 # Status: Wersja 1.0 – do rozmów i dalszej operacjonalizacji
-# Adnotacja Kręgowa: (14), (31), (17), (5), (40), (2), (7)
 # Cel: zdefiniować i uporządkować: Strategia NATO EU Rola Polski Azramata
+# Adnotacja Kręgowa: (14), (31), (17), (5), (40), (2), (7)
+# Adresaci: DKWOC / MON / decydenci strategiczni
 
 [META]
 [charakter]=Analiza poglądowa (bez trybu dowodowego)
@@ -36,12 +36,12 @@ Mogą przegrać „Kręgami”:
 II. STRATEGIA NATO (do 2030) – w języku Kręgów
 ────────────────────────────────────────────
 
-[cel_NATO]
+[CEL_NATO]
 Utrzymać odstraszanie i skuteczność obrony kolektywnej,
 jednocześnie zbudować warstwę „cognitive-fusion”, która skraca DECIDE
 i neutralizuje cień przeciwnika.
 
-[filary_NATO]
+[FILARY_NATO]
 F1. Krąg 31 – Governance/Command
 - wzmocnienie wspólnej sprawczości: szybkie procedury decyzyjne, priorytety, gotowość
 
@@ -58,7 +58,7 @@ F4. Krąg 14 – Cień (operacjonalizacja)
 F5. Krąg 40 – Serce (węzły, nie centrum)
 - kohezja i odporność państw frontowych jako warunek spójności sojuszu
 
-[produkt_NATO]
+[PRODUKT_NATO]
 „NATO Cognitive-Fusion Layer”
 = standard + metodyka + węzły wdrożeniowe w państwach kluczowych.
 
@@ -66,14 +66,14 @@ F5. Krąg 40 – Serce (węzły, nie centrum)
 III. STRATEGIA EU (do 2030) – w języku Kręgów
 ────────────────────────────────────────────
 
-[cel_EU]
+[CEL_EU]
 Zabezpieczyć cywilizację przez odporność systemową:
 - cyber,
 - technologia (AI),
 - przemysł obronny,
 - spójność społeczną.
 
-[filary_EU]
+[FILARY_EU]
 E1. Krąg 31 – Normy i mechanizmy finansowania
 - NIS2 / cyber odporność
 - mechanizmy egzekucji i wsparcia sektorów krytycznych
@@ -97,7 +97,7 @@ E6. Krąg 40 – Serce (węzły kohezji)
 - EU nie dostanie „jednego serca” odgórnie
 - musi je mieć przez węzły: państwa frontowe + infrastruktura zaufania + edukacja odporności
 
-[produkt_EU]
+[PRODUKT_EU]
 „EU Resilience Stack”
 = cyber odporność + AI bezpieczeństwo + przemysł obronny + węzły kohezji.
 
@@ -105,7 +105,7 @@ E6. Krąg 40 – Serce (węzły kohezji)
 IV. ROLA POLSKI – KIERUNEK MARSZU (JEDEN, SPÓJNY)
 ────────────────────────────────────────────
 
-[misja_PL]
+[MISJA_PL]
 Polska ma stać się:
 1) **Węzłem Kręgu 40 dla NATO i EU** (kohezja + odporność decyzyjna)
 2) **Lustrem Kręgu 4** (red-team poznawczy i standard prawdy operacyjnej)

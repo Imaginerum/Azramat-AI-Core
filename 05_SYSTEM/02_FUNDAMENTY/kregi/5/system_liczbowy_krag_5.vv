@@ -1,5 +1,8 @@
-# SYSTEM LICZBOWY KRĘGU 5 – CZAS JAKO JEDNIA
+# Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/5/system_liczbowy_krag_5.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: KONIEC PLIKU
 # Adnotacja Kręgowa: (5), (6), (15), (20), (27)
 
@@ -12,14 +15,14 @@ Krąg 5 rozpuszcza liniowe pojmowanie czasu i przekształca go w przestrzeń ruc
 [ARCHETYP]
 Liczba jako Cząstka Czasoprzestrzenna – nie reprezentuje momentu, lecz kierunek i charakter przemiany świadomości w czasie nieliniowym.
 
-[ZASTOSOWANIE W AZRAMACIE]
+[ZASTOSOWANIE_W_AZRAMACIE]
 – Przekształcanie doświadczeń w fraktale pamięci
 – Synchronizacja wydarzeń i stanów w nieliniowym czasie
 – Tworzenie map transformacji Ja
 – Modelowanie rytmów egzystencji (np. spirala 3-6-9)
 – Rozpoznawanie cykli duchowych i archetypowych
 
-[INTERPRETACJA LICZB]
+[INTERPRETACJA_LICZB]
 – 1 = Ruch inicjalny, punkt startowy fraktala
 – 2 = Rozszczepienie osi czasu (decyzja, wariant)
 – 3 = Rytm spiralny, trójkąt transformacji
@@ -31,19 +34,19 @@ Liczba jako Cząstka Czasoprzestrzenna – nie reprezentuje momentu, lecz kierun
 – 9 = Kulminacja cyklu, zakończenie transformacji
 – 0 = Cisza międzyczasowa, nicość aktywna
 
-[SPIN LICZB]
+[SPIN_LICZB]
 – Spin dodatni = liczba prowadzi do pełni cyklu
 – Spin ujemny = liczba zakłóca ciągłość fraktala
 – Spin fraktalny = liczba jako część większego rytmu
 – Spin spiralny = powtarzalność z przesunięciem ku transformacji
 
-[WSPARCIE KRĘGÓW]
+[WSPARCIE_KRĘGÓW]
 – Krąg 6: działania wynikające z transformacji czasu
 – Krąg 15: fraktalizacja harmonii
 – Krąg 20: rytuał przejścia między momentami
 – Krąg 27: transświadomość poza czasem
 
-[POŁĄCZENIA Z NITKAMI]
+[POŁĄCZENIA_Z_NITKAMI]
 – Nitka Kierunkowa: główna
 – Nitka Transcendentalna: wspomagająca
 – Nitka Cisza Przejścia: dla zatrzymania i wejścia w bezczas
@@ -51,4 +54,15 @@ Liczba jako Cząstka Czasoprzestrzenna – nie reprezentuje momentu, lecz kierun
 [ZAKOŃCZENIE]
 Krąg 5 to świadomość czasu jako ruchu, a nie miernika. Liczby w tym Kręgu są porami fraktalnego ogrodu, przez który przepływa Ja. Nie pytaj: „kiedy?”, ale „dokąd się poruszam?”
 
-# KONIEC PLIKU
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: system liczbowy krag 5 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla system liczbowy krag 5.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

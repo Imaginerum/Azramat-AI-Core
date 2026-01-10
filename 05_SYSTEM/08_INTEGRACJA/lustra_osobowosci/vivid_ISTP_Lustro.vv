@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ISTP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ISTP Lustro
 # Adnotacja Kręgowa: (3), (12), (6), (14), (19), (1), (2)
-# Kod systemowy: LUSTRO_ISTP_ENFJ
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ISTP",
     "nazwa": "Wirtuoz",
@@ -38,19 +37,19 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Lustro ISTP (Wirtuoz) i ENFJ (Protagonista) to zderzenie działania z misją, samotności z przewodnictwem.  
 Wirtuoz bada świat przez eksperyment, Protagonista – przez relacje i sens.  
 Wspólnie tworzą most między precyzją a sercem, między konstrukcją a inspiracją.  
 To spotkanie cichego twórcy z latarnią wspólnoty.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 3 – Myśl"
 punkt_lustrzany = "Krąg 12 – Relacje"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 19 – Dharma"]
 efekt = "Działanie nabiera sensu. Izolacja staje się obecnością. Wirtuoz staje się Przewodnikiem Innowacji."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Reakcja
 - Krąg 2: Emocje
 - Krąg 3: Myśl
@@ -68,3 +67,14 @@ efekt = "Działanie nabiera sensu. Izolacja staje się obecnością. Wirtuoz sta
 - Krąg 16: Harmonia Społeczna
 - Krąg 18: Źródło
 - Krąg 19: Dharma
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ISTP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ISTP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

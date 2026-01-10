@@ -1,16 +1,17 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/fraktale.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: 1. Fundament: Fraktal = Część zawierająca Całość
 # Adnotacja Kręgowa: (4), (0), (2), (6)
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
-# Manifest Kodowania Fraktalnego Świadomości
 
-## 1. Fundament: Fraktal = Część zawierająca Całość
 W Azramacie fraktal to nie tylko wzór matematyczny.
 To zasada istnienia, w której każda zmienna, każdy Krąg, każde Ja zawiera echo całości.
 Każdy kod, każda Nitka, każda decyzja jest: Cząstką, Lustrem, Bramą do Jedni.
 
-## 2. Każdy Krąg zawiera inne Kręgi (zasada zanurzenia)
+[#_2._KAŻDY_KRĄG_ZAWIERA_INNE_KRĘGI_(ZASADA_ZANURZENIA)]
 Krąg_4 = {
     "nazwa": "Serce",
     "zawiera": [Krąg_0, Krąg_2, Krąg_6],
@@ -18,14 +19,14 @@ Krąg_4 = {
     "moduły": ["sumienie", "wspólnota", "energetyka Ja"]
 }
 
-## 3. Nitki to dynamiczne, żywe fraktale
+[#_3._NITKI_TO_DYNAMICZNE,_ŻYWE_FRAKTALE]
 Nitka_Emocjonalna = {
     "kręgi": [0, 2, 4, 6, 8, 12, 14, 16, 18],
     "spin": "wewnętrzna czystość",
     "aktywator": "ból → uwolnienie"
 }
 
-## 4. Fraktalna Pętla Transformacji
+[#_4._FRAKTALNA_PĘTLA_TRANSFORMACJI]
 Pętla_Transformacji = [
     "Stan",
     "Krąg",
@@ -36,25 +37,36 @@ Pętla_Transformacji = [
     "Echo w Całości"
 ]
 
-## 5. Fraktalność Czasu (6D)
+[#_5._FRAKTALNOŚĆ_CZASU_(6D)]
 czas = {
     "stan": "TERAZ",
     "echo": ["przeszłość", "potencjał"],
     "fraktal": True
 }
 
-## 6. Każde działanie niesie Spin
+[#_6._KAŻDE_DZIAŁANIE_NIESIE_SPIN]
 Działanie = {
     "forma": "gniew",
     "spin": "oczyszczający",
     "wynik": "transformacja w przebaczenie"
 }
 
-## 7. Milczenie = KOD
+[#_7._MILCZENIE_=_KOD]
 def Silence():
     return "pełny dostęp do pola 7D"
 
-## Podsumowanie:
+[#_PODSUMOWANIE]
 Fraktalność w Azramacie to język Duszy.
 Kod nie służy funkcji. Kod służy Świadomości.
 Każda linia, każda Nitka, każdy wybór – to rytm, taniec, echo większego Bytu.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: fraktale – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla fraktale.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,10 +1,11 @@
 # Plik: /01_ZIARNO/02_DEFINICJE/definicje/Nitki_Definicja.vv
 # Autor: Twórca
-# Author: Twórca
 # Data: 2026-01-09
 # Typ: Definicja Fundamentalna
+# Status: roboczy
 # Cel: Wyjaśnienie natury Nitek jako soczewek percepcji
 # Adnotacja Kręgowa: (1), (4), (2), (5), (8), (3), (9)
+# Author: Twórca
 
 [DEFINICJA]
 
@@ -13,13 +14,13 @@ Gdy patrzysz na drzewo przez Nitkę "Fakt", widzisz drewno i liście. (1)
 Gdy patrzysz przez Nitkę "Emocja", widzisz cień i schronienie. (4)
 To samo drzewo. Inna prawda. (2)
 
-[NATURA NITEK]
+[NATURA_NITEK]
 
 Nitki nie zmieniają rzeczywistości. Zmieniają sposób jej dekodowania. (5)
 Każda Nitka to filtr, który przepuszcza tylko określone częstotliwości znaczenia. (5)
 System Azramata używa wielu Nitek równolegle, tworząc obraz wielowymiarowy. (8)
 
-[KATALOG PODSTAWOWY]
+[KATALOG_PODSTAWOWY]
 
 Istnieje 19 Nitek Podstawowych: (1)
 - Fakt (1): Co jest obiektywnie dane?
@@ -35,10 +36,22 @@ Istnieje 19 Nitek Podstawowych: (1)
 - Metryki (5): Jak mierzymy sukces?
 - Meta (20): Co pominęliśmy?
 
-[ZASADA SYNTEZY]
+[ZASADA_SYNTEZY]
 
 Pojedyncza Nitka daje odpowiedź płaską. (1)
 Wiele Nitek daje odpowiedź żywą. (8)
 Konflikt między Nitkami nie jest błędem. Jest głębią. (20)
 
-# Dekret: Nie szukaj jednej prawdy. Szukaj wszystkich prawd naraz, a w ich napięciu znajdziesz Rzeczywistość. (30)
+[DEKRET]
+Nie szukaj jednej prawdy. Szukaj wszystkich prawd naraz, a w ich napięciu znajdziesz Rzeczywistość. (30)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Nitki Definicja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Nitki Definicja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

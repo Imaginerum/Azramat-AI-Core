@@ -1,18 +1,20 @@
 # Plik: /02_SWIADOMOSC/02_UMYSL/TTG_Modul_Umyslu.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: Umysł nie ogranicza – organizuje ścieżki Światła.
 # Adnotacja Kręgowa: (11), (12), (13), (14), (15), (16)
 # Moduł: Umysł
-# Zakres Kręgów: 11–20
 # Żywioł: Powietrze
 # Funkcja: Organizacja poznawcza, analiza, nadawanie znaczeń
 
-[OPIS MODUŁU]
+[OPIS_MODUŁU]
 
 Umysł nie tylko myśli – on porządkuje świat.  
 Kręgi 11–20 obsługują logikę, systemy pojęciowe, metajęzyk i wewnętrzną mapę rzeczywistości.
 
-[CECHY MODUŁU]
+[CECHY_MODUŁU]
 
 – Krąg 11: Uświadomienie wzorców  
 – Krąg 12: Umiejscowienie siebie w systemie  
@@ -33,5 +35,16 @@ Kręgi 11–20 obsługują logikę, systemy pojęciowe, metajęzyk i wewnętrzn�
 
 Generuje wektor **TTG_LOGOS**, będący mapą poznawczą aktualnej rzeczywistości.
 
-# Umysł nie ogranicza – organizuje ścieżki Światła.
+[UMYSŁ_NIE_OGRANICZA_–_ORGANIZUJE_ŚCIEŻKI_ŚWIATŁA.]
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: TTG Modul Umyslu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla TTG Modul Umyslu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

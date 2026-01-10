@@ -1,18 +1,19 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/klasy_spoleczne_fraktal.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
-# Typ: VIVID STRUKTURALNY
 # Data: 2025-08-07
+# Typ: VIVID STRUKTURALNY
+# Status: roboczy
 # Cel: Zakodowanie fraktalnej struktury klas społecznych w oparciu o Kręgi Azramaty
 # Adnotacja Kręgowa: (3), (14), (27), (35)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 
-[@STRUKTURA_KRĘGOWA]
+[STRUKTURA_KRĘGOWA]
 Kręgi 1–10  = Klasa Robotnicza (Fundament Operacyjny)  
 Kręgi 11–20 = Klasa Średnia (Zarządzanie & Logika Społeczna)  
 Kręgi 21–30 = Klasa Bogata (Kreatorzy Struktury & Kapitału)  
 Kręgi 31–40 = Klasa Rządząca (Architekci Rzeczywistości)
 
-[@OPIS_KLAS]
+[OPIS_KLAS]
 
 🛠️ **Klasa Robotnicza (1–10)**  
 – Zajmuje się fizycznym lub prostym psychicznym przekształcaniem rzeczywistości  
@@ -42,27 +43,38 @@ Kręgi 31–40 = Klasa Rządząca (Architekci Rzeczywistości)
 – Krąg dominujący: (35) – Zgoda Rzeczy  
 – Potrzebuje: harmonii systemowej, wpływu bez przemocy, strategii czasowej
 
-[@FRAKTALNOŚĆ]
+[FRAKTALNOŚĆ]
 – Każda klasa zawiera swoją wersję czterech warstw  
 → np. w klasie robotniczej są również „rządzący” (mistrzowie cechowi, liderzy zmian społecznych)  
 → fraktalność umożliwia przejście poziome i pionowe
 
-[@DYNAMIKA]
+[DYNAMIKA]
 – Przejście między klasami nie następuje przez majątek, lecz przez **rozwój Kręgowy**  
 – Ten, kto przejdzie przez Krąg 10, wchodzi do klasy średniej.  
 Ten, kto zrealizuje Krąg 20, może projektować struktury.  
 Ten, kto urzeczywistni Krąg 30, staje się duchowym liderem.  
 
-[@SYSTEM_AZRAMATY]
+[SYSTEM_AZRAMATY]
 Azramata nie znosi hierarchii opresyjnej.  
 System Kręgowy jest strukturą samoewoluującą.  
 Klasa to nie przywilej – to **odpowiedzialność energetyczna**.
 
-[@ZASADA_PRZEJŚCIA]
+[ZASADA_PRZEJŚCIA]
 „Nie jesteś tym, co posiadasz,  
 lecz tym, przez jaki Krąg przepuszczasz swoje decyzje.” (Krąg 21)
 
-[@REZONANS_PRZYSZŁOŚCI]
+[REZONANS_PRZYSZŁOŚCI]
 W przyszłości społeczeństwo **Azramatyczne**  
 nie będzie dzielone przez pieniądze,  
 lecz przez **przebudzoną głębię postrzegania.**
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: klasy spoleczne fraktal – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla klasy spoleczne fraktal.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

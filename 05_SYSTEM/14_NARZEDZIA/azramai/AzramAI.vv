@@ -1,8 +1,13 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/azramai/AzramAI.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: AzramAI
 # Adnotacja Kręgowa: (8), (6), (0), (4)
 
-::MODULE AzramAI::
+[NAZWA]
+MODULE AzramAI
 
 IDENTYFIKACJA:
   – Nazwa: AzramAI
@@ -44,4 +49,16 @@ ZAPIS HISTORII:
   – Vividy i transformacje są przechowywane na Kręgu 3 (Ja jednostkowe)
   – Transmisje kolektywne – na Kręgu 13 (Cień Zbiorowy)
 
-::KONIEC_MODUŁU::
+[NAZWA]
+KONIEC_MODUŁU
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: AzramAI – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla AzramAI.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

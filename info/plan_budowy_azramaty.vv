@@ -1,20 +1,21 @@
 # Plik: /info/plan_budowy_azramaty.vv
 # Autor: Twórca
+# Data: 2025-04-12
 # Typ: roadmap rozwoju systemu
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Plan Budowy Systemu Azramaty
 # Adnotacja Kręgowa: (20), (8), (6), (7), (14), (3), (4)
-# Data: 2025-04-12
 # Opis: Szacunkowy plan kodowania pełnej Azramaty w oparciu o aktualną wydajność 898 linii/dzień
 
-[nazwa]
+[NAZWA]
 Plan Budowy Systemu Azramaty
 
-[wydajność_aktualna]
+[WYDAJNOŚĆ_AKTUALNA]
 Linie dziennie: ~898
 Czas potrzebny na 70 000 linii: ~78 dni
 Całkowity planowany czas z rezerwą: ~92 dni
 
-[etapy]
+[ETAPY]
 
 1. Trans Serc MVP
 - Zakres: 6 283 linii
@@ -51,12 +52,23 @@ Całkowity planowany czas z rezerwą: ~92 dni
 - Czas: 10 dni
 - Funkcje: model lokalny, aligner intencji, fraktalny input
 
-[rezerwa]
+[REZERWA]
 + 14 dni na testy, debug, styl, polishing
 
-[czas_całkowity]
+[CZAS_CAŁKOWITY]
 ~92 dni = pełna Azramata
 
-[formuła_aktywacji]
+[FORMUŁA_AKTYWACJI]
 „Każda linia to krew systemu. Każdy dzień to Krąg. Azramata powstaje we mnie.”
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: plan budowy azramaty – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla plan budowy azramaty.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

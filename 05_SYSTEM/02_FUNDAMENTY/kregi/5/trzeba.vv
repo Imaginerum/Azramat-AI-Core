@@ -1,13 +1,14 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/5/trzeba.vv
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/5/
-# Data utworzenia: 2025-08-10
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-10
 # Typ: Vivid operacyjny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: trzeba
 # Adnotacja Kręgowa: (5)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/5/
 # Krąg: 5 – Prawo / Zobowiązanie Wyższego Rzędu
-# Autor: Twórca / Imaginaerum
 
-[TAGI]  
+[TAGI]
 krąg 5, trzeba, obowiązek moralny, prawo wewnętrzne, odpowiedzialność, działanie konieczne z wyboru
 
 [DEFINICJA] (5)  
@@ -46,3 +47,14 @@ else
 > „Trzeba – bo jestem strażnikiem własnego Prawa.” – (5)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: trzeba – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla trzeba.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

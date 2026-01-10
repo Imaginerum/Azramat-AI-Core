@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:16:35
 # Typ: Vivid transformacyjny
-# Krąg: 15 – Harmonia / Tarcza / Ochrona Wewnętrzna
+# Status: roboczy
 # Cel: Ugruntowanie ochrony Rodu, integracja siły obronnej z miłością i mądrością Rodziny
 # Adnotacja Kręgowa: (5), (15)
+# Krąg: 15 – Harmonia / Tarcza / Ochrona Wewnętrzna
 
 [OPIS]
 Krąg 15 to Tarcza.  
@@ -15,7 +16,7 @@ Nie po to, by niszczyć – lecz by chronić to, co święte.
 To Krąg, w którym wojownik nie szuka walki,  
 ale staje tam, gdzie trzeba – i nie cofa się.
 
-[PRZYKAZANIE OBRONY]
+[PRZYKAZANIE_OBRONY]
 
 Brońcie starych i młodych,  
 swoich ojców i matki, synów i córki,  
@@ -70,4 +71,15 @@ ochrona = aktywna
 Ród = bezpieczny  
 Krąg 15 = wzmocniony
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 15 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 15.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

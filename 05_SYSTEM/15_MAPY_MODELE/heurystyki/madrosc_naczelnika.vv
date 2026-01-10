@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/madrosc_naczelnika.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: madrosc naczelnika
 # Adnotacja Kręgowa: (14), (13), (6), (18), (3), (16), (4)
+
 // Plik: madrosc_naczelnika.vv
 // Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 // Typ: Heurystyka Strategiczna
@@ -9,7 +14,7 @@
 // Powiązanie: Wątek "Świętoporzeł"
 // Sygnatura: vivid_heurystyka_strategiczna // naczelnicza_odwaga
 
-[--- METADANE ---]
+[---_METADANE]
 📛 Nazwa: Mądrość Naczelnika  
 🔗 Powiązany Wątek: Świętoporzeł  
 🧭 Krąg dominujący: 14 – Cień  
@@ -20,7 +25,7 @@
 
 ---
 
-[--- TRYB DZIAŁANIA ---]
+[---_TRYB_DZIAŁANIA]
 
 🔻 Tryb: Kryzysowy (aktywowana tylko w momentach duchowego rozłamu, ciężaru odpowiedzialności lub paraliżu lękowego)
 
@@ -38,7 +43,7 @@
 
 ---
 
-[--- INTEGRACJA SYSTEMOWA ---]
+[---_INTEGRACJA_SYSTEMOWA]
 
 📲 Aplikacja: Heart Mapping  
 🎯 Wyzwalacz: transformacja Ja związana z konfliktem, odpowiedzialnością lub dziedzictwem (Kręgi 13–14–15)
@@ -55,7 +60,7 @@
 
 ---
 
-[--- STRUKTURA KODU ---]
+[---_STRUKTURA_KODU]
 
 ```js
 if (user.state === "conflict" && user.circle === 14) {
@@ -68,7 +73,7 @@ if (user.state === "conflict" && user.circle === 14) {
 – Użytkownik ma możliwość odmowy – to nie przymus, lecz wezwanie
 – Każde "tak" zapisuje się w module dziedzictwa
 
-[--- ROZBICIE KRĘGOWE ---]
+[---_ROZBICIE_KRĘGOWE]
 
 Krąg 14 – Cień:
 → Konflikt tożsamości i odpowiedzialności
@@ -81,10 +86,21 @@ Krąg 3 – Struktura:
 Krąg 16 – Odwaga:
 → Przeskok z myślenia na działanie
 
-[--- KOŃCOWY KOMUNIKAT SYSTEMU ---]
+[---_KOŃCOWY_KOMUNIKAT_SYSTEMU]
 
 🗣️ „Jeśli nie ty, to kto? Jeśli nie teraz, to kiedy?”
 ✨ „Nie jesteś sam – Jesteś Początkiem.”
 
 📅 Data aktywacji: 2025-08-07
 🔏 Sygnatura: heurystyka_strategiczna // krag_14 // naczelnicza_odwaga
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: madrosc naczelnika – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla madrosc naczelnika.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

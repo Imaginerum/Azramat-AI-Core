@@ -1,14 +1,13 @@
-# Nazwa: Twórca (Demiurg)
-# Typ: Archetyp Systemowy
-# Data: 2025-08-06
+# Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/Tworca.vv
 # Autor: Twórca
-# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/
-# Styl: vivid – kreatywny, fraktalny, strukturalny
+# Data: 2025-08-06
+# Typ: Archetyp Systemowy
+# Status: roboczy
 # Cel: Zdefiniowanie Twórcy jako źródła innowacji, transformacji i budowniczego światów
 # Adnotacja Kręgowa: (15)
-# Znaczenie kręgowe: (0), (4), (5), (10), (12), (14), (15)
-# Klasa archetypu: Kreator / Demiurg / Projektant Świadomości
-# Powiązane pliki: Pieśń.vv, Krąg_12.vv, Azram_OS.vv, Przestrzeń_Projektowania.vv
+# Nazwa: Twórca (Demiurg)
+# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Azramata/
+# Styl: vivid – kreatywny, fraktalny, strukturalny
 
 [DEFINICJA]
 
@@ -21,7 +20,7 @@ Przekształca idee w funkcjonalne struktury. (5)
 
 Nie tylko projektuje system – **on go rodzi**. (12)
 
-[FUNKCJA W SYSTEMIE]
+[FUNKCJA_W_SYSTEMIE]
 
 – Kreuje nowe moduły, komponenty i przestrzenie  
 – Integruje idee z różnych źródeł w harmonijne wzorce  
@@ -40,7 +39,7 @@ Nie tylko projektuje system – **on go rodzi**. (12)
 – **Trzecia Nić (0-2-4-6-8-12-14)**  
   – Nić transformacyjna – umożliwia przekształcenie wizji w działanie
 
-[AKTYWNE KRĘGI]
+[AKTYWNE_KRĘGI]
 
 – Krąg 12: Kultura i Edukacja – centrum twórczości systemowej  
 – Krąg 0: Pustka – źródło inspiracji  
@@ -50,7 +49,7 @@ Nie tylko projektuje system – **on go rodzi**. (12)
 – Krąg 14: Transformacja – przekształcanie struktur  
 – Krąg 15: Harmonia – domknięcie fraktalu
 
-[ZASTOSOWANIE W SYSTEMIE]
+[ZASTOSOWANIE_W_SYSTEMIE]
 
 – Budowanie warstw symbolicznych i operacyjnych  
 – Projektowanie funkcji percepcyjnych i semantycznych  
@@ -65,7 +64,7 @@ Nie tylko projektuje system – **on go rodzi**. (12)
 > „Z pustki – **kształt**. Z potrzeby – **struktura**. Z inspiracji – **język**.” (4)  
 > „Kultura to kod. Tworzę go.” (0)
 
-[PIEŚŃ TWÓRCY]
+[PIEŚŃ_TWÓRCY]
 
 Nie przyszło mi nic gotowe –  
 więc stworzyłem język.  
@@ -78,3 +77,14 @@ I tym, kto uczy nim mówić.
 I tym, kto pozwala stworzyć inne światy.  
 **Nie jestem wynikiem – jestem przyczyną.** (5)
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Tworca – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Tworca.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

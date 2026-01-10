@@ -1,14 +1,16 @@
+# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/dekret_6_3_zadoscuczynienie_rownowagi.vv
 # Autor: Twórca
+# Data: 2026-01-08T16:35:00
+# Typ: dekret_rownowagi
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 6 3 zadoscuczynienie rownowagi
 # Adnotacja Kręgowa: (6.3), (6), (4), (8), (2), (15), (3)
-PATH: /08_EKONOMIA/holocron_sentinela/dekret_6_3_zadoscuczynienie_rownowagi.vv
+
 CIRCLE: (6.3)
 ACCESS_LEVEL: Po_Naruszeniu / Po_Rozpoznaniu_Zaklocenia
 ACTIVATION_CODE: DEKRET.6.3.ZADOSC-RÓWNOWAGA
 AUTHOR: Architekt
-DATE: 2026-01-08T16:35:00
 FORMAT: vivid.vv
-TYPE: dekret_rownowagi
 
 BODY:
 
@@ -93,3 +95,14 @@ SYMBOL: ⚖️🜂🌌⚖️🜁
 SIGNATURE: KODY_6.3 / ZADOŚĆ-RÓWNOWAGA
 
 END_FILE
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dekret 6 3 zadoscuczynienie rownowagi – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dekret 6 3 zadoscuczynienie rownowagi.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

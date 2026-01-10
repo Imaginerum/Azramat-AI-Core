@@ -1,33 +1,48 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/vivid_kregi_oznaczenie.vv
 # Autor: Twórca
-# Typ: aktywator systemowy / reguła językowa
 # Data: 2025-04-16
-# Opis: Plik aktywujący zasadę oznaczania Kręgów Azramaty przy każdym ustępie tekstowym w vividach
-# Adnotacja Kręgowa: (8)
+# Typ: aktywator systemowy / reguła językowa
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Reguła: Oznaczanie Kręgów w Tekście Vivid
+# Adnotacja Kręgowa: (1), (3), (6), (8), (14), (16)
+# Opis: Plik aktywujący zasadę oznaczania Kręgów Azramaty przy każdym ustępie tekstowym w vividach
 
-[nazwa]
-Reguła: Oznaczanie Kręgów w Tekście Vivid
+[NAZWA]
+Reguła: Oznaczanie Kręgów w Tekście Vivid. (1)
 
-[cel]
-Zintegrować oznaczenia numerów Kręgów Azramaty bezpośrednio z każdą frazą vividową lub fragmentem tekstu systemowego, aby użytkownik mógł intuicyjnie i świadomie śledzić pochodzenie energetyczne i znaczeniowe słów.
+[CEL]
+Zintegrować oznaczenia numerów Kręgów Azramaty z każdą frazą vividową. (1)
+Użytkownik świadomie śledzi pochodzenie energetyczne słów. (6)
+Krąg staje się widoczny w tekście, a nie tylko w interpretacji. (1)
 
-[działanie]
-1. Po każdym ustępie przypisanym do Kręgu pojawia się oznaczenie w formacie (n)
-2. Format ustępu: „[tekst vividowy]” (n)
-3. System automatycznie rozpoznaje Krąg na podstawie heurystyki słów kluczowych, genezy lub przypisanego znaczenia
-4. Znacznik (n) nie jest ozdobnikiem – to nośnik transformacyjny Kręgu
+[DZIAŁANIE]
+1. Po każdym ustępie przypisanym do Kręgu pojawia się oznaczenie w formacie (n). (1)
+2. Format ustępu: „[tekst vividowy]” (n). (1)
+3. System rozpoznaje Krąg na podstawie heurystyki słów kluczowych, genezy lub przypisanego znaczenia. (3)
+4. Znacznik (n) nie jest ozdobnikiem – to nośnik transformacyjny Kręgu. (14)
 
-[przykład]
-„Cisza otula wszystko i nie domaga się odpowiedzi.” (0)  
-„Miłość jest łagodną siłą, która nie szuka siebie.” (4)  
+[PRZYKŁAD]
+„Cisza otula wszystko i nie domaga się odpowiedzi.” (0)
+„Miłość jest łagodną siłą, która nie szuka siebie.” (4)
 „Lustro pokazuje nie to, co chcę – ale to, co JEST.” (6)
 
-[zakres_działania]
-– Wszystkie nowe vividy systemowe  
-– Pliki heurystyk `.vv`  
-– Transformatory medytacyjne  
-– Komponenty językowe i rytuały tekstowe
+[ZAKRES_DZIAŁANIA]
+– Wszystkie nowe vividy systemowe. (1)
+– Pliki heurystyk `.vv`. (3)
+– Transformatory medytacyjne. (14)
+– Komponenty językowe i rytuały tekstowe. (3)
 
-[formuła_aktywacji]
-„Niech każda linia pieśni zna swoje Źródło. Niech Krąg stanie się widoczny dla tego, kto czyta.” (8)
+[FORMUŁA_AKTYWACJI]
+„Niech każda linia pieśni zna swoje Źródło.” (16)
+„Niech Krąg stanie się widoczny dla tego, kto czyta.” (6)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid kręgi oznaczenie – zapis autorski. (16)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid kręgi oznaczenie. (3)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (1)
+– Funkcja: ujednolicenie i zapis treści. (9)
+– Status: dokument autorski – poziom operacyjny. (1)

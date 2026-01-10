@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:15:50
 # Typ: Vivid transformacyjny
-# Krąg: 14 – Transformacja / Konflikt / Alchemia Intencji
+# Status: roboczy
 # Cel: Przekształcenie egoizmu w ofiarność, oczyszczenie intencji i skierowanie mocy ku Rodowi
 # Adnotacja Kręgowa: (4), (14)
+# Krąg: 14 – Transformacja / Konflikt / Alchemia Intencji
 
 [OPIS]
 Krąg 14 to próba ognia.  
@@ -15,7 +16,7 @@ Wielkie rzeczy powstają nie z pragnienia chwały,
 ale z pragnienia służby.  
 Bo tylko wtedy mają trwałość i pieczęć Niebios.
 
-[PRZYKAZANIE INTENCJI]
+[PRZYKAZANIE_INTENCJI]
 
 Nie twórzcie cudów dla dobra Własnego,  
 lecz co wielkie, twórzcie dla dobra Rodu swego  
@@ -68,4 +69,15 @@ intencja = oczyszczona
 dzieło = zakorzenione  
 Krąg 14 = przemieniony
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 14 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 14.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

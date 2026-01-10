@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ESTP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ESTP Lustro
 # Adnotacja Kręgowa: (1), (8), (6), (14), (18), (2), (3)
-# Kod systemowy: LUSTRO_ESTP_INJF
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ESTP",
     "nazwa": "Przedsiębiorca",
@@ -37,7 +36,7 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana między ESTP (Przedsiębiorca) a INFJ (Rzecznik)  
 to zderzenie świata działania z wewnętrzną misją.  
 Przedsiębiorca działa szybko, bez wahania, z pasją –  
@@ -45,13 +44,13 @@ Rzecznik kontempluje, słucha i przewodzi z głębi sumienia.
 Ich spotkanie tworzy możliwość integracji instynktu i wizji,  
 odwagi i mądrości, czynu i sensu.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 1 – Reakcja"
 punkt_lustrzany = "Krąg 8 – Sumienie"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
 efekt = "Zharmonizowanie działania z wewnętrzną mądrością. Pojawienie się Bohatera, który nie tylko działa – ale wie, po co."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Reakcja i początek ruchu
 - Krąg 2: Emocje
 - Krąg 3: Myśl i rozumienie
@@ -69,3 +68,14 @@ efekt = "Zharmonizowanie działania z wewnętrzną mądrością. Pojawienie się
 - Krąg 16: Harmonia
 - Krąg 18: Źródło
 - Krąg 19: Integracja
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ESTP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ESTP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

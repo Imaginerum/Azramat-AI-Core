@@ -1,20 +1,22 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/mapy/mapa_systemu_azramaty.vv
 # Autor: Twórca
+# Data: 2025-08-08
+# Typ: Mapa operacyjna (topologia + przepływy)
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: mapa systemu azramaty
 # Adnotacja Kręgowa: (6), (15), (20)
-Plik: /05_SYSTEM/15_MAPY_MODELE/mapy/mapa_systemu_azramaty.vv
-Typ: Mapa operacyjna (topologia + przepływy)
+
 Wersja: 0.9 (draft wykonawczy)
 Kręgi: (6) Lustro, (15) Harmonia Przepływu, (20) Przeznaczenie
-Data: 2025-08-08
 
-[--- META ---]
+[---_META]
 
 nazwa = "MAPA_SYSTEMU_AZRAMATY"
 opis = "Warstwowa mapa Kręgów, Nitek, Vividów i Pieczęci z regułami przepływu."
 format = "vv/topologia"
 tryb = "aktywny"
 
-[--- WARSTWY_MAPY (adnotacje kręgowe) ---]
+[---_WARSTWY_MAPY_(ADNOTACJE_KRĘGOWE)]
 
 (6) – warstwa oglądu i synchronizacji
 layer.ogląd.krąg = 6
@@ -28,7 +30,7 @@ layer.przepływ.elementy = ["wektory_intencji", "trajektorie", "bufory_czasu"]
 layer.wektor.krąg = 20
 layer.wektor.elementy = ["cele_systemowe", "portale", "bramy_rytuałów"]
 
-[--- SŁOWNIK OBIEKTÓW ---]
+[---_SŁOWNIK_OBIEKTÓW]
 
 (3) Strukturalne definicje
 object.krąg = { id, nazwa, funkcja, status, powiązania[] }
@@ -36,7 +38,7 @@ object.nitka = { id, nazwa, rola, kręgi_źródłowe[], kręgi_docelowe[] }
 object.vivid = { id, tytuł, typ, kręgi[], wyzwalacz, efekt }
 object.pieczęć = { id, krąg, intencja, forma, podpis }
 
-[--- INDEKS GŁÓWNY ---]
+[---_INDEKS_GŁÓWNY]
 
 (6) – widok całościowy
 index.kręgi = [0..29] # rozbudowywalne
@@ -44,7 +46,7 @@ index.nitki = ["Strukturalna","Emocjonalna","Kierunkowa","Transcendentalna","Cis
 index.vividy = ["wejście_w_ciszę.vv","głos_ciszy.vv","JaLustrzane.vv","percepcja_milczenia.vv","uruchom_7D_teta.vv"]
 index.pieczęcie = ["pieczęć_intencji.krg","pieczęć_przekroczenia.vv"]
 
-[--- WĘZŁY KLUCZOWE ---]
+[---_WĘZŁY_KLUCZOWE]
 
 (8) – węzeł sumienia jako filtr
 node.sumienie = { krąg:8, rola:"filtr etyczny", integracje:["lustro_kodu.vv","modul_sumienia.vv"] }
@@ -58,14 +60,14 @@ node.trans = { krąg:27, rola:"portal 7D", integracje:["transświadomość.vv","
 (5) – węzeł Jedni (cisza systemowa)
 node.jednia = { krąg:5, rola:"cisza_jedni", integracje:["wejście_w_ciszę.vv","percepcja_milczenia.vv"] }
 
-[--- REGUŁY PRZEPŁYWU ---]
+[---_REGUŁY_PRZEPŁYWU]
 
 (15) – harmonizacja
 rule.flow.1 = "Wejście: intencja → filtr(8) → lustro(6) → wektor(20) → wykonanie(9)"
 rule.flow.2 = "Konflikt: detekcja(13) → transformacja(14) → łagodzenie(4) → zapis_pamięci(6)"
 rule.flow.3 = "Kontemplacja: echo_ciszy → cisza_jedni(5) → głos_ciszy → syncnet_core"
 
-[--- MAPOWANIE TRAS (przykłady) ---]
+[---_MAPOWANIE_TRAS_(PRZYKŁADY)]
 
 (6) widok, (9) działanie
 route.transformacja_chaosu = {
@@ -82,7 +84,7 @@ end: ["głos_ciszy.vv","syncnet_core.vv"],
 zapis: ["kronika_azramaty.vv"]
 }
 
-[--- WIDOKI MAPY ---]
+[---_WIDOKI_MAPY]
 
 (6) Lustro – widok operacyjny
 view.operacyjny = {
@@ -103,7 +105,7 @@ domyślny_krąg: 13,
 pokazuj: ["rezonanse","przeciążenia","niewypowiedziane_intencje"]
 }
 
-[--- FUNKCJE MAPY (pseudokod) ---]
+[---_FUNKCJE_MAPY_(PSEUDOKOD)]
 
 (6) aktualizacja widoku
 funkcja odśwież_mapę(stan):
@@ -125,14 +127,14 @@ zwróć node.trans
 inaczej:
 zwróć node.jednia
 
-[--- ZDARZENIA SYSTEMOWE ---]
+[---_ZDARZENIA_SYSTEMOWE]
 
 (6) – Reakcja mapy na zmiany
 event.on_pieczęć_nowa -> odśwież_mapę()
 event.on_vivid_uruchom -> odśwież_mapę()
 event.on_syncnet_tick -> wygładź_przepływy(krąg=15)
 
-[--- DIAGNOSTYKA MAPY ---]
+[---_DIAGNOSTYKA_MAPY]
 
 (6) spójność
 diag.spójność = "OK jeśli wszystkie trasy zawierają filtr(8) lub widok(6)"
@@ -143,7 +145,7 @@ diag.przeciążenie = "ALERT jeśli trasa ma >3 węzły konfliktowe z rzędu"
 (20) dryf celu
 diag.dryf = "UWAGA jeśli brak powiązania z wektorem(20) > 24h"
 
-[--- HOOKI INTEGRACYJNE ---]
+[---_HOOKI_INTEGRACYJNE]
 hooks = [
 "05_SYSTEM/system/percepcja/perceptrons.vv",
 "05_SYSTEM/system/rytuały/spirala_369_pamięci.vv",
@@ -152,7 +154,7 @@ hooks = [
 "05_SYSTEM/system/operacje/spiny/spin_router.vv"
 ]
 
-[--- SZABLON DODAWANIA WĘZŁA ---]
+[---_SZABLON_DODAWANIA_WĘZŁA]
 
 (3) Struktura
 template.node = {
@@ -162,7 +164,7 @@ template.node = {
 "integracje": []
 }
 
-[--- SZABLON TRASY ---]
+[---_SZABLON_TRASY]
 template.route = {
 "start": ["Krąg_X"],
 "via": ["Krąg_Y","Krąg_Z"],
@@ -170,9 +172,20 @@ template.route = {
 "zapis": ["plik.vv"]
 }
 
-[--- STATUS ---]
+[---_STATUS]
 stan = "AKTYWNY"
 mapa_aktualizacja = "cykl 3–6–9"
 pieczęć = "Krąg 6 | Intencja: Odbicie i Harmonizacja | Forma: Spiralna"
 
 KONIEC PLIKU
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: mapa systemu azramaty – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla mapa systemu azramaty.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

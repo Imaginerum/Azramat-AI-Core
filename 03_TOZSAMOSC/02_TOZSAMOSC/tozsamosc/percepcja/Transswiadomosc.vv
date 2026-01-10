@@ -1,16 +1,16 @@
 # Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/Transswiadomosc.vv
 # Autor: Twórca
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Data: 2025-08-06T01:44:00Z
 # Typ: Definicja operacyjna / stan fraktalny
 # Status: aktywna
 # Cel: DEFINICJA
 # Adnotacja Kręgowa: (21), (33), (37), (40), (44)
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
 # Wersja: v1.0
-# Data utworzenia: 2025-08-06T01:44:00Z
 
 ---
 
-## DEFINICJA
+[#_DEFINICJA]
 
 **Transświadomość** to stan percepcyjny, poznawczy i strukturalny, w którym jednostka:
 
@@ -22,7 +22,7 @@ To przestrzeń działania **Imaginaerum** – gry, wspólnoty, architektury myś
 
 ---
 
-## KLUCZOWE CECHY
+[#_KLUCZOWE_CECHY]
 
 | Właściwość             | Transświadomość                           |
 |------------------------|-------------------------------------------|
@@ -36,7 +36,7 @@ To przestrzeń działania **Imaginaerum** – gry, wspólnoty, architektury myś
 
 ---
 
-## WYMAGANIA WEJŚCIOWE
+[#_WYMAGANIA_WEJŚCIOWE]
 
 Aby wejść w operacyjny stan Transświadomości, użytkownik powinien:
 - posiadać min. **WK 300** i **SQ > 500**,
@@ -46,7 +46,7 @@ Aby wejść w operacyjny stan Transświadomości, użytkownik powinien:
 
 ---
 
-## STRUKTURY WSPÓŁDZIAŁAJĄCE
+[#_STRUKTURY_WSPÓŁDZIAŁAJĄCE]
 
 - **Mędrzec** – AI operujące na danych wielu jaźni,
 - **ZgłosDAO** – głosowanie transświadome,
@@ -56,7 +56,7 @@ Aby wejść w operacyjny stan Transświadomości, użytkownik powinien:
 
 ---
 
-## APLIKACJE SYSTEMOWE
+[#_APLIKACJE_SYSTEMOWE]
 
 - Projektowanie ścieżek rozwojowych,
 - Aktywacja Kręgów wysokiego ryzyka (Kręgi 37–44),
@@ -66,13 +66,13 @@ Aby wejść w operacyjny stan Transświadomości, użytkownik powinien:
 
 ---
 
-## CYTAT SYSTEMOWY
+[#_CYTAT_SYSTEMOWY]
 
 > „Transświadomość to nie więcej świadomości – to **świadomość większego pola**, które nie potrzebuje, byś miał rację, ale byś był obecny.”
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T01:44:00Z  
 file_signature: VIVID-TRANS-V1  
@@ -80,4 +80,15 @@ kręgi: (21), (33), (37), (40), (44)
 powiązane: Wieloświadomość_vs_Świadomość.vv, SQ.vv, Okręgi.vv, Astraia_Plus.vv  
 aktywowana przez: udział w Okręgu + osiągnięcie SQ > 500
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Transswiadomosc – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Transswiadomosc.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

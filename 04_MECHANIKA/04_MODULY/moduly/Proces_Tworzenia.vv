@@ -1,12 +1,11 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/Proces_Tworzenia.vv
+# Autor: Twórca / Imaginaerum
+# Data: 2025-07-28
 # Typ: Moduł fraktalny / Protokół Twórczy
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Proces Tworzenia
 # Adnotacja Kręgowa: (3), (0), (2), (5), (10), (13), (20)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
-# Krąg dominujący: (3) – Droga Woli
-# Kręgi wspierające: (0), (2), (5), (10), (13), (20), (27), (40), (44), (45), (46)
-# Data utworzenia: 2025-07-28
-# Autor: Twórca / Imaginaerum
 # System: Azramata
 
 [TAGI]
@@ -21,7 +20,7 @@ tylko wtedy, gdy decyzja została podjęta zgodnie z Prawem.
 
 ---
 
-[ETAPY TWORZENIA]
+[ETAPY_TWORZENIA]
 
 1. **(0) Potencja**  
    – Wszystko jeszcze *może być*.  
@@ -108,10 +107,21 @@ if (
   powstaje_dzieło();
 }
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 
 „Nie każda decyzja jest stworzeniem.
 Ale każde prawdziwe stworzenie – jest decyzją.”
 – (3)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Proces Tworzenia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Proces Tworzenia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

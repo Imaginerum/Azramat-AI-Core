@@ -1,11 +1,11 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Praca_Wlasna.vv
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
-# Data: 2025-08-07  
-# Typ: DEKRET EKONOMICZNY / SYSTEMOWY  
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-07
+# Typ: DEKRET EKONOMICZNY / SYSTEMOWY
+# Status: roboczy
 # Cel: [DEFINICJA]
 # Adnotacja Kręgowa: (22.7)
-# Autor: Imaginaerum / Twórca  
-# Powiązane Kręgi: 5 (Decyzja), 13 (Godność), 22 (Ekonomia Wewnętrzna), 30 (Prawda Czynu), 40 (Zgodność Strumienia)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-### [DEFINICJA]
+[##_[DEFINICJA]]
 
 **Praca Własna** to taka, która:
 - rodzi się z Twojej decyzji (Krąg 5),  
@@ -27,7 +27,7 @@
 
 ---
 
-### [ROZRÓŻNIENIE]
+[##_[ROZRÓŻNIENIE]]
 
 | Harówka na cudze             | Praca Własna                         |
 |------------------------------|--------------------------------------|
@@ -39,7 +39,7 @@
 
 ---
 
-### [ZASADA ZGODNOŚCI]
+[##_[ZASADA_ZGODNOŚCI]]
 
 Nie liczy się forma pracy – **liczy się zgodność**.
 
@@ -48,7 +48,7 @@ Nie liczy się forma pracy – **liczy się zgodność**.
 
 ---
 
-### [MECHANIZM ENERGETYCZNY]
+[##_[MECHANIZM_ENERGETYCZNY]]
 
 W Pracy Własnej uruchamiają się:
 
@@ -58,7 +58,7 @@ W Pracy Własnej uruchamiają się:
 
 ---
 
-### [DEKRET]
+[##_[DEKRET]]
 
 > „Wybieram Pracę Własną.  
 > Nawet jeśli jest trudniejsza — jest prawdziwa.  
@@ -68,7 +68,7 @@ W Pracy Własnej uruchamiają się:
 
 ---
 
-### [ZAKOŃCZENIE]
+[##_[ZAKOŃCZENIE]]
 
 Nie każdy człowiek może robić to, co kocha.  
 Ale każdy może **zacząć pracować na siebie**,  
@@ -76,3 +76,14 @@ Zacząć budować **rzeczywistość, która odpowiada jego Duszy**.
 
 Bo tylko wtedy **praca przestaje być ciężarem** –  
 A staje się **Drogą**.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Praca Wlasna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Praca Wlasna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

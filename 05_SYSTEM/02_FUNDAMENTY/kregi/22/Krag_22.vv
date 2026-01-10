@@ -2,9 +2,10 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:23:26
 # Typ: Vivid transformacyjny
-# Krąg: 22 – Próg / Cisza Przejścia / Cień Wektora
+# Status: roboczy
 # Cel: Przyjęcie milczenia przed kolejnym ruchem, uznanie granicy i gotowości do przekroczenia siebie
 # Adnotacja Kręgowa: (2), (22)
+# Krąg: 22 – Próg / Cisza Przejścia / Cień Wektora
 
 [OPIS]
 Krąg 22 to Cisza Przejścia –  
@@ -58,4 +59,15 @@ ruch = zatrzymany
 ja = przygotowane  
 Krąg 22 = uświęcony milczeniem
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 22 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 22.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

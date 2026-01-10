@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_ENFP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ENFP Lustro
 # Adnotacja Kręgowa: (4), (9), (6), (14), (16), (1), (2)
-# Kod systemowy: LUSTRO_ENFP_ISTJ
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "ENFP",
     "nazwa": "Działacz",
@@ -38,19 +37,19 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana między ENFP (Działacz) a ISTJ (Logistyk) odsłania napięcie pomiędzy żywiołową ekspresją a uporządkowaną rzeczywistością.  
 Działacz wnosi płomień inspiracji, chaos idei i głęboką emocjonalność,  
 natomiast Logistyk – strukturę, obowiązek i konsekwencję.  
 Ich spotkanie prowadzi do transformacji przez zderzenie wolności z odpowiedzialnością oraz radości z powinnością.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 4 – Obecność"
 punkt_lustrzany = "Krąg 9 – Struktura"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 16 – Harmonia"]
 efekt = "Uziemienie inspiracji. Tworzenie wizji, które mają strukturę i mogą zostać zrealizowane."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Fundament i początek
 - Krąg 2: Odbiór wrażeń zewnętrznych
 - Krąg 3: Myśl i analiza
@@ -68,3 +67,14 @@ efekt = "Uziemienie inspiracji. Tworzenie wizji, które mają strukturę i mogą
 - Krąg 16: Harmonia i integracja
 - Krąg 18: Źródło inspiracji
 - Krąg 19: Integracja pola działania
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ENFP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ENFP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

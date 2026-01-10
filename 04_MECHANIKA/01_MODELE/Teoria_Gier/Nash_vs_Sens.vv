@@ -1,13 +1,14 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Nash_vs_Sens.vv
 # Autor: Twórca
+# Data: 2025-08-06
+# Typ: Analiza porównawcza
+# Status: aktywny
 # Cel: zdefiniować i uporządkować: Nash vs Sens
 # Adnotacja Kręgowa: (7), (5), (3), (6), (11), (13), (14)
-Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/Nash_vs_Sens.vv
 
-Typ: Analiza porównawcza
 
-Status: aktywny
 
-Data: 2025-08-06
+
 
 
 ---
@@ -116,3 +117,14 @@ System sensocentryczny pozwala przekroczyć lokalne optimum w stronę optimum du
 
 
 ---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Nash vs Sens – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Nash vs Sens.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

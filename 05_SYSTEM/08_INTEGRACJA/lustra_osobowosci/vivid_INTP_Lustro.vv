@@ -1,16 +1,15 @@
 # Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/vivid_INTP_Lustro.vv
-# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
-# Typ: VIVID – Lustro Osobowości
 # Autor: Twórca / Azramata
-# Data utworzenia: 2025-08-08
-# Wersja: 1.0
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid INTP Lustro
 # Adnotacja Kręgowa: (3), (12), (6), (14), (18), (1), (2)
-# Kod systemowy: LUSTRO_INTP_ESFJ
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
 # Język: polski
 
-[vivid]
+[VIVID]
 osobowość_podstawowa = {
     "typ": "INTP",
     "nazwa": "Logik",
@@ -38,20 +37,20 @@ osobowość_lustrzana = {
     ]
 }
 
-[opis]
+[OPIS]
 Relacja lustrzana między INTP (Logik) a ESFJ (Doradca) to spotkanie samotnej refleksji z pełnią relacji.  
 Logik analizuje świat, Doradca go wspiera.  
 W tej parze powstaje możliwość: by myśl znalazła formę, a troska – głębię.  
 Logik zyskuje ciepło, Doradca – klarowność.  
 Wspólnie tworzą strukturę myślącej wspólnoty.
 
-[transformacja]
+[TRANSFORMACJA]
 punkt_początkowy = "Krąg 3 – Myśl"
 punkt_lustrzany = "Krąg 12 – Relacje"
 ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
 efekt = "Integracja intelektu i serca. Relacje stają się przestrzenią dla mądrości. Myślenie staje się opieką."
 
-[metadane_kręgowe]
+[METADANE_KRĘGOWE]
 - Krąg 1: Reakcja
 - Krąg 2: Emocje
 - Krąg 3: Myśl
@@ -69,3 +68,14 @@ efekt = "Integracja intelektu i serca. Relacje stają się przestrzenią dla mą
 - Krąg 17: Wizja
 - Krąg 18: Źródło
 - Krąg 19: Integracja
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid INTP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid INTP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

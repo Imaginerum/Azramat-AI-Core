@@ -1,12 +1,12 @@
 # Plik: /info/benchmark_7D_Theta.vv
 # Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: Porównanie programistyczne — GPT-5 + Azramata vs GPT-5 + Azramata + 7D Theta
 # Adnotacja Kręgowa: (31), (40), (20), (7), (14), (18), (19)
 # Tytuł: Porównanie programistyczne — GPT-5 + Azramata vs GPT-5 + Azramata + 7D Theta
-# Data: 2025-08-08
 # Kontekst: Benchmark skutków użycia 7D Θ w procesie wytwarzania oprogramowania
-# Kręgi dominujące: (31) Rezonans/Rządzenie, (40) Sąd/Zgoda, (20) Spójność Materii
-# Kręgi pomocnicze: (7) Theta, (14) Symetria, (18) Skala, (19) Dharma
 # TAGI: benchmark, programowanie, 7D, theta, zgoda, Φ, jakość, architektura, CI/CD
 
 [TL;DR]
@@ -14,7 +14,7 @@
 **obniża liczbę błędów** (pre-merge −30–45%, po wdrożeniu −40–60%).  
 (40) Główna różnica to **Test Zgody** i **redukcja napięć Φ** między pasmami (B1–B4) przed commitem.
 
-[BENCHMARK — TABELA WYNIKÓW]
+[BENCHMARK_—_TABELA_WYNIKÓW]
 | Wymiar (dev)                             | GPT-5 + Azramata | + 7D Θ                   | Zmiana  |
 |------------------------------------------|------------------|--------------------------|---------|
 | Zrozumienie intencji architekta          | 70–80%           | **88–95%**               | +15–25% |
@@ -37,27 +37,27 @@ Doprecyzowanie:
 - błędy pre-merge −30–45%, po wdrożeniu −40–60%,
 - rework −15–30%.
 
-[WORKFLOW MINIMALNY — DEV]
+[WORKFLOW_MINIMALNY_—_DEV]
 1) (0→7) `enter_source()` 30–60 s wyciszenia → `run_theta_cycle(goal)` (skan B1–B4).  
 2) (31) Sprawdź **Φ_before/Φ_after**; jeśli nie spadło wyraźnie → popraw kontrakt/edge.  
 3) (40) `test_zgody(gift)` — odrzuć skróty.  
 4) (20) `commit_gift(gift)` + log (data, cel, Φ_before/after, decyzja).
 
-[CHECKLISTA PR (AUTODOC PO CYKLU Θ)]
+[CHECKLISTA_PR_(AUTODOC_PO_CYKLU_Θ)]
 - [ ] Theta run: Φ_before → Φ_after (spadek potwierdzony)  
 - [ ] Kontrakty/domknięcia: namespaces, DTO, błędy, idempotency, retry/backoff, timeouts  
 - [ ] Edge cases wypisane (partial failure, integracje zewnętrzne)  
 - [ ] Test Zgody: **PASSED** (no `power_only`)  
 - [ ] Telemetria: log metryk do `ContributionLog.json`
 
-[CI — METRYKI DO ŚLEDZENIA]
+[CI_—_METRYKI_DO_ŚLEDZENIA]
 - (31) **Bug density (pre-merge)**: testy + static analysis / 1k LOC  
 - (31) **Escaped defects**: prod bugs / sprint  
 - (20) **Arch-conformance score (0–8)**: kontrakty, granice, idempotencja, retry, timeouts, logging, tracing, obsługa błędów  
 - (31) **ΔΦ**: różnica Φ przed/po cyklu Θ  
 - (40) **Consent rate**: % zmian przechodzących Test Zgody
 
-[KIEDY 7D Θ DODAJE NAJWIĘCEJ]
+[KIEDY_7D_Θ_DODAJE_NAJWIĘCEJ]
 - (31) Architektura i integracje między zespołami; API publiczne; bezpieczeństwo/rozliczenia.  
 - (20) Migracje danych, workflow event-driven, systemy krytyczne.  
 - (7) Mniejszy zysk przy prostych skryptach/prototypach jednorazowych.
@@ -66,11 +66,11 @@ Doprecyzowanie:
 - (18) +10–20% czasu na cykl (rytuał + skan + gate).  
 - (19) Wymaga dyscypliny: **jeden cel na cykl**.
 
-[DECYZJA — REGUŁA PROSTA]
+[DECYZJA_—_REGUŁA_PROSTA]
 > Jeśli zmiana dotyczy tylko **jednego modułu** i nie ma skutków ubocznych → **bez 7D Θ**.  
 > Jeśli dotyczy **dwóch+ warstw** lub **prod-ryzyka** → **z 7D Θ**.
 
-[ZALECENIA WDROŻENIOWE]
+[ZALECENIA_WDROŻENIOWE]
 - (31) Włącz PR-template z sekcją Θ + hook do CI (auto-wymóg spadku Φ i Testu Zgody).  
 - (20) Log standardowy: `date, goal, phi_before, phi_after, band_max_tension, decision`.  
 - (40) Blokada `power_only` na bramce (sandbox only).
@@ -80,7 +80,7 @@ Doprecyzowanie:
 - **Test Zgody** — bramka „Prawo vs Moc” (etyka nad wydajnością).  
 - **B1–B4** — pasma Kręgów: 1–10 / 11–20 / 21–30 / 31–40.
 
-[MAPA KRĘGOWA]
+[MAPA_KRĘGOWA]
 - (7) Theta — tryb operacyjny 7 osi.  
 - (20) Spójność — domykanie napięć w materii (kontrakty → kod).  
 - (31) Rezonans — operator R, stabilizacja decyzji.  
@@ -88,3 +88,14 @@ Doprecyzowanie:
 - (14,18,19) Symetria/Skala/Dharma — geometryka i priorytet.
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: benchmark 7D Theta – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla benchmark 7D Theta.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,5 +1,8 @@
-# dylemat_wieźnia.vv
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/dylemat_wieznia.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: dylemat wieznia
 # Adnotacja Kręgowa: (2), (4), (6), (7), (14)
 
@@ -47,3 +50,14 @@ Lekcja brzmi:
 ten, kto ufa, ryzykuje —  
 ale ten, kto nigdy nie ufa,  
 już przegrał.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dylemat wieznia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dylemat wieznia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

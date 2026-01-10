@@ -1,12 +1,15 @@
-#title: Wiec Sławy
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/wiec_slawy.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: meta:
 # Adnotacja Kręgowa: (1), (2), (3), (4), (5), (6), (7)
+#title: Wiec Sławy
 #author: Twórca
 #format: vivid-voice
 #version: 1.0
 
-#meta:
   context: Azramata / Słowiańska Pamięć
   style: poemat wiecowy, fraktal historyczny
   type: narracja mitologiczna, chant słowiański
@@ -17,7 +20,7 @@
   kolorystyka: zieleń dębu → złoto słońca → czerwień ognia (#2b3a1a → #FFD700 → #a10000)
   głos: niski, rytmiczny, opowiadający jak starzec przy ognisku
 
-#lyrics:
+[LYRICS]
 
 (1) Ongiś – drzewiej – w dawnych czasach
 (2) gdy po ziemi naszej chodził tur –
@@ -63,3 +66,14 @@
 (15) Do słowiańskich strzech.
 (16) Zasiądziemy w sławnym kole
 (17) I znów będą z nami: Krak i Lech
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: wiec slawy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla wiec slawy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

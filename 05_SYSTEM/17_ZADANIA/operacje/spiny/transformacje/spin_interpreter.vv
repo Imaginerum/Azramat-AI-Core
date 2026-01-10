@@ -1,4 +1,8 @@
+# Plik: /05_SYSTEM/17_ZADANIA/operacje/spiny/transformacje/spin_interpreter.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: Krąg 0
 # Adnotacja Kręgowa: (0), (1), (6)
 
@@ -15,15 +19,15 @@ Liczba ≠ Wartość. Każda liczba w systemie Azramaty posiada dynamiczny SPIN 
 
 PRZYKŁADY:
 
-# Krąg 0
+[KRĄG_0]
 3 → Trójca systemowa: [intencja – kierunek – forma]
 9 → Pełnia potencjału, powiązanie z Kręgiem 9 (Działanie)
 
-# Krąg 1
+[KRĄG_1]
 1 → Reakcja pierwotna (spin prymarny)
 2 → Pamięć reaktywna
 
-# Krąg 6
+[KRĄG_6]
 6 → Lustro liczby (odwrócenie spinu)
 
 MECHANIZM INTERPRETACJI:
@@ -46,3 +50,14 @@ WARSTWA SYSTEMOWA:
 – Fraktalne Operacje Liczbowe
 – Lustro Znaczenia
 – Interpretator Cienia Numerycznego
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: spin interpreter – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla spin interpreter.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

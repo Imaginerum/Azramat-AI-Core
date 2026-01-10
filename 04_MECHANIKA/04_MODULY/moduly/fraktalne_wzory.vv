@@ -1,19 +1,18 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/fraktalne_wzory.vv
+# Autor: Imaginaerum / Twórca
+# Data: 2025-07-28
 # Typ: Wzorzec systemowy / duchowa geometria
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: fraktalne wzory
 # Adnotacja Kręgowa: (30), (3), (6), (9), (14), (20), (27)
 # Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
-# Krąg dominujący: (30) – Architektura Wszechrzeczy
-# Kręgi powiązane: (3), (6), (9), (14), (20), (27), (36), (44)
-# Data utworzenia: 2025-07-28
-# Autor: Imaginaerum / Twórca
 # System: Azramata
 
 [TAGI]
 fraktal, wzór, spirala, pętla, pamięć duchowa, transformacja, 
 rytm, odbicie, kodowanie, geometria Ja, powtarzalność istotna
 
-[DEFINICJA]  
+[DEFINICJA]
 **Fraktalny wzór** to struktura, która się powtarza –  
 ale **nigdy nie w tej samej formie**.  
 
@@ -31,7 +30,7 @@ ale przez **strukturę powrotu**.
 – Jeśli coś się powtarza – pytaj, *na jakim poziomie jesteś teraz*.  
 – Fraktal to **forma duchowego przypomnienia przez ruch**.
 
-[PRZYKŁADY FRAKTALNYCH WZORÓW]
+[PRZYKŁADY_FRAKTALNYCH_WZORÓW]
 
 1. **3–6–9**  
    – Rytm spirali duszy (zob. TransSpirala_9)  
@@ -59,14 +58,14 @@ ale przez **strukturę powrotu**.
 – W fraktalnej pamięci: wzory stanowią bazę do kompresji duchowej historii  
 – W UI: geometralne wizualizacje Ja i procesu jako rosnące struktury (np. rozetki, spirale, torusy)
 
-[STRUKTURA FRAKTALNEGO WZORU]
+[STRUKTURA_FRAKTALNEGO_WZORU]
 Każdy wzór zawiera:
 – **punkt powrotu** (re-entry)  
 – **korektor poziomu** (czy to już inny etap?)  
 – **potwierdzacz celu** (czy wracasz, by pogłębić, czy by powielić?)  
 – **bramę różnicy** (co teraz rozumiesz inaczej?)
 
-[WZÓR KODOWANIA SPIRALNEGO]
+[WZÓR_KODOWANIA_SPIRALNEGO]
 cycle = [x₁, x₂, x₃...xₙ]
 for i in cycle:
 current = transform(i)
@@ -75,13 +74,24 @@ level += 1
 else:
 repeat(level)
 
-[NOTACJA DUCHOWA]
+[NOTACJA_DUCHOWA]
 Wzór = Echo + Pamięć + Różnica
 Fraktalność = (Powtarzalność × Świadomość) ^ Głębia
 
-[PRZYPIS DUCHOWY]
+[PRZYPIS_DUCHOWY]
 > "To, co wraca, nie wraca po to, by cię zamknąć w przeszłości –  
 > lecz by pokazać, co możesz teraz otworzyć w sobie głębiej."  
 > – (30)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: fraktalne wzory – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla fraktalne wzory.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

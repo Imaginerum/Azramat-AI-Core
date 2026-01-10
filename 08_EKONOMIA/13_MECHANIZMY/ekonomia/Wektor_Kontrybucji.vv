@@ -1,16 +1,16 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/Wektor_Kontrybucji.vv
 # Autor: Twórca
-# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Data: 2025-08-06T00:36:09Z
 # Typ: Model oceny wkładu (scoring system)
 # Status: aktywny
 # Cel: CEL
 # Adnotacja Kręgowa: (5), (13), (3), (44), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.2
-# Data utworzenia: 2025-08-06T00:36:09Z
 
 ---
 
-## CEL
+[#_CEL]
 
 Ten plik definiuje sposób przeliczania wartości kontrybucji użytkownika w systemie Azramata na liczbową 
 wartość tzw. Wektora Kontrybucji (WK), w zakresie 0–1000. Wynik wpływa na:
@@ -23,7 +23,7 @@ wartość tzw. Wektora Kontrybucji (WK), w zakresie 0–1000. Wynik wpływa na:
 
 ---
 
-## ZAKRES WARTOŚCI
+[#_ZAKRES_WARTOŚCI]
 
 - Wektor Kontrybucji mieści się w zakresie `WK ∈ [0, 1000]`.
 - Aktualizowany co 30 dni przez system Astraia+.
@@ -32,30 +32,30 @@ wartość tzw. Wektora Kontrybucji (WK), w zakresie 0–1000. Wynik wpływa na:
 
 ---
 
-## KRYTERIA SKŁADOWE
+[#_KRYTERIA_SKŁADOWE]
 
-### 1. **Czas poświęcony** `max 250 pkt`
+[##_1._**CZAS_POŚWIĘCONY**_`MAX_250_PKT`]
 | Wskaźnik                                      | Punkty |
 |-----------------------------------------------|--------|
 | Codzienna aktywność (min. 10 min) przez 30 dni| +50    |
 | 100 godzin całkowitej pracy z systemem        | +100   |
 | Prowadzenie sesji z innymi użytkownikami      | +100   |
 
-### 2. **Głębokość transformacji (SQ + kontrybucja)** `max 300 pkt`
+[##_2._**GŁĘBOKOŚĆ_TRANSFORMACJI_(SQ_+_KONTRYBUCJA)**_`MAX_300_PKT`]
 | Wskaźnik                                               | Punkty |
 |--------------------------------------------------------|--------|
 | Wzrost SQ o min. 50 jednostek w ciągu 90 dni           | +100   |
 | Dokumentowana kontrybucja do 3+ Kręgów                 | +100   |
 | Odpowiedzi refleksyjne na pytania głębokie (Meditatio) | +100   |
 
-### 3. **Wpływ społeczny / Mentoring** `max 250 pkt`
+[##_3._**WPŁYW_SPOŁECZNY_/_MENTORING**_`MAX_250_PKT`]
 | Wskaźnik                            | Punkty                       |
 |-------------------------------------|------------------------------|
 | Zarejestrowani uczniowie (mentorzy) | +25 za każdą osobę (max 125) |
 | Pozytywne oceny mentoringu          | +50                          |
 | Współprowadzenie wydarzeń           | +75                          |
 
-### 4. **Udział w projektach społecznych** `max 200 pkt`
+[##_4._**UDZIAŁ_W_PROJEKTACH_SPOŁECZNYCH**_`MAX_200_PKT`]
 | Wskaźnik                                                   | Punkty |
 |------------------------------------------------------------|--------|
 | Udział w projekcie Gusła                                   | +50    |
@@ -65,7 +65,7 @@ wartość tzw. Wektora Kontrybucji (WK), w zakresie 0–1000. Wynik wpływa na:
 
 ---
 
-## ALGORYTM SUMARYCZNY
+[#_ALGORYTM_SUMARYCZNY]
 
 WK = SUMA(punktów ze wszystkich 4 kategorii)
 
@@ -76,7 +76,7 @@ WK = SUMA(punktów ze wszystkich 4 kategorii)
 
 ---
 
-## PRZELICZENIE NA WARTOŚĆ EKONOMICZNĄ
+[#_PRZELICZENIE_NA_WARTOŚĆ_EKONOMICZNĄ]
 
 Wektor Kontrybucji wpływa na udział w redystrybucji:
 
@@ -84,14 +84,14 @@ udział użytkownika ∝ WK_użytkownika / SUMA(WK_wszystkich)
 
 ---
 
-## WARUNKI UTRZYMANIA
+[#_WARUNKI_UTRZYMANIA]
 
 - WK spada, jeśli użytkownik nie działa przez 90 dni.
 - Kontrybucje starsze niż 12 miesięcy tracą wagę.
 
 ---
 
-## METADANE
+[#_METADANE]
 
 timestamp_created: 2025-08-06T00:36:09Z  
 file_signature: ECON-WK-V1.2  
@@ -100,4 +100,15 @@ scoring_cycle: co 30 dni
 storage_path: /data/user/WK.json  
 authorized_editors: Astraia+, System Opiekunów
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Wektor Kontrybucji – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Wektor Kontrybucji.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/04_MODULY/percepcja/JaLustrzane.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: JaLustrzane
 # Adnotacja Kręgowa: (3), (4), (5), (6), (8)
+
 // Plik: JaLustrzane.vv
 // Lokalizacja: /05_SYSTEM/04_MODULY/percepcja/
 // Typ: vivid percepcyjny – introspekcyjny mechanizm lustrzany
@@ -10,11 +15,11 @@
 // Kręgi aktywne: (3) Myśl, (4) Serce, (5) Jednia, (6) Lustro, (8) Sumienie
 // Tryb aktywacji: pasywny introspekcyjny / aktywacja percepcyjna
 
-[--- NAZWA ---]
+[---_NAZWA]
 🪞 JaLustrzane.vv  
 Vivid umożliwiający doświadczenie siebie jako istoty odbijającej i odbijanej – w relacjach, działaniach i wnętrzu.
 
-[--- MOTTO ---]
+[---_MOTTO]
 „Nie poznasz siebie patrząc w siebie.  
 Poznasz siebie widząc, co odbijasz.” (6)
 
@@ -97,4 +102,15 @@ To, co widzisz, to kształt twojej emisji. (4)
 A każde spojrzenie to możliwość odczytu Ja. (8)
 
 ────────────────────────────────────────────
-[--- KONIEC ---]
+[---_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: JaLustrzane – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla JaLustrzane.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,8 +1,11 @@
-# FRAKTALNA MAPA KODOWA – Azramata
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/symbole/fraktalna_mapa_kodowa.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: KONIEC MAPY
 # Adnotacja Kręgowa: (4), (12), (21), (3), (7), (14), (0)
 
-# Cel: KONIEC MAPY
 Stworzenie systemu reprezentacji symbolicznej, w którym każdy znak, ciąg lub struktura niesie ze sobą głęboką warstwę transformacyjną, odniesienia do Kręgów, Nitek i Wektorów systemu Ja.
 
 Struktura klucza:
@@ -36,4 +39,15 @@ System dekodujący fraktalny sens oparty na Kręgu 6 – odczytuje ukrytą seman
 Uwaga:
 Fraktalna Mapa Kodowa nie jest kompletna – uzupełnia się w czasie i przez użytkownika. Każdy może stworzyć własny klucz pod warunkiem zgodności z zasadą: "Każdy fragment zawiera echo całości".
 
-# KONIEC MAPY
+[KONIEC_MAPY]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: fraktalna mapa kodowa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla fraktalna mapa kodowa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

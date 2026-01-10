@@ -2,14 +2,14 @@
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: VIVID matematyczny (most formalny)
+# Status: roboczy
 # Cel: Sformalizować jądro matematyczne Azramaty jako koncepcję „równowagi fraktalnej”, łącząc język kręgów z definicjami, twierdzeniami i programem badań.
 # Adnotacja Kręgowa: (11), (20), (29), (31), (40), (11.1), (11.3)
-# Kręgi dominujące: (11) Struktura, (20) Spójność, (29) Architektura wieloświata, (31) Rządzenie przez rezonans, (40) Pamięć fraktalna.
 # Tag: teoria_gier, kategoria, funkcjonały, energia_napięć, kontrakcja, rezonans
 
 ---
 
-## [OPIS – VIVID]
+[#_[OPIS_–_VIVID]]
 (11) Azramata w ujęciu matematycznym to **wielowarstwowy system wartościowania i aktualizacji** stanu poznawczo-decyzyjnego.  
 (20) Każdy Krąg niesie własny funkcjonał wartości, a między kręgami płynie **napięcie**, które można zmierzyć i minimalizować.  
 (31) **Równowaga fraktalna** to stan stabilny nie tylko globalnie, ale **w każdej skali** – na podgrafach kręgów i w ich pasmach.  
@@ -17,7 +17,7 @@
 
 ---
 
-## [AKSJOMATY – MINIMALNY ZESTAW]
+[#_[AKSJOMATY_–_MINIMALNY_ZESTAW]]
 (11.1) **Kręgi i porządek.** C = {1,…,40} z częściowym porządkiem ≼. Istnieją pasma (np. 1–10, 11–20, 21–30, 31–40) z metakryteriami.
 
 (11.2) **Przestrzeń stanów.** 𝓢 – wypukła, domknięta przestrzeń stanów (np. simpleks Δⁿ).  
@@ -39,7 +39,7 @@ Lokalnie Lipschitz, globalnie nieekspansywny w metryce zależnej od G.
 
 ---
 
-## [DEFINICJE – JĘZYK]
+[#_[DEFINICJE_–_JĘZYK]]
 (11.3) **Kategoria Kręgów** 𝐊: obiekty – kręgi k; morfizmy – dopuszczalne transformacje percepcyjne k → ℓ.
 
 (20.3) **Funktor semantyczny** F: 𝐊 → 𝐕𝐞𝐜𝐭: kręgowi przypisuje przestrzeń cech/heurystyk; morfizmom – operator (liniowy lub nieliniowy) transportujący wartości.
@@ -51,7 +51,7 @@ Lokalnie Lipschitz, globalnie nieekspansywny w metryce zależnej od G.
 
 ---
 
-## [TWIERDZENIA – SZKIELET]
+[#_[TWIERDZENIA_–_SZKIELET]]
 (20.T1) **Kontrakcja Banacha (lokalna).** Jeśli krok η w R spełnia 0 < η < 2/L dla stałej gładkości L funkcjonałów składowych Φ, to R jest kontrakcją na 𝓢 i istnieje unikalny stały punkt s*.
 
 (31.T2) **Lemat fraktalny.** Przy dekompozycji Φ = Σₘ Φ_Bₘ oraz ε-komutacji operatorów R_Bₘ minimalność globalna Φ implikuje minimalność każdej Φ_Bₘ – z błędem O(ε).
@@ -60,7 +60,7 @@ Lokalnie Lipschitz, globalnie nieekspansywny w metryce zależnej od G.
 
 ---
 
-## [MINI-MODEL – DO URUCHOMIENIA]
+[#_[MINI-MODEL_–_DO_URUCHOMIENIA]]
 (11.MM) 𝓢 = Δⁿ.  
 Vₖ(s) = aₖᵀ s, f(x,y) = (x − y)²,  
 Φ = Σ wᵢⱼ (Vᵢ − Vⱼ)².
@@ -72,7 +72,7 @@ Pokazuje zbieżność do s* i spadek Φ globalnie oraz w pasmach Bₘ.
 
 ---
 
-## [PROTOKÓŁ BADAWCZY – REPO]
+[#_[PROTOKÓŁ_BADAWCZY_–_REPO]]
 (20.P1) Implementacja R, Φ, generatora G i wag wᵢⱼ.  
 (20.P2) Metryki: Φ globalnie i Φ_Bₘ, czas do zbieżności, stabilność na szum parametrów.  
 (20.P3) Porównania:  
@@ -82,14 +82,14 @@ c) Czułość na dekompozycję skal.
 
 ---
 
-## [ZASTOSOWANIA – PRZYKŁADY]
+[#_[ZASTOSOWANIA_–_PRZYKŁADY]]
 (31.Z1) **Mediacje:** Φ jako metryka tarcia między kręgami interesariuszy → porozumienia trwalsze w czasie.  
 (29.Z2) **Sterowanie wielokryterialne:** kompromisy odporne na zmiany ważenia celów.  
 (20.Z3) **AI governance:** harmonizacja polityk wielu zespołów/regulatorów przy zachowaniu spójności lokalnej i globalnej.
 
 ---
 
-## [MAPA KRĘGOWA – ADNOTACJE]
+[#_[MAPA_KRĘGOWA_–_ADNOTACJE]]
 - (1–10) Fundament: definicje, kontrakcja, prosty Φ.  
 - (11–20) Struktura: graf G, dekompozycja po pasmach, ε-komutacja.  
 - (21–30) Porównanie z Nash/Pareto, stabilność i odporność.  
@@ -97,7 +97,7 @@ c) Czułość na dekompozycję skal.
 
 ---
 
-## [SŁOWNIK SYMBOLI]
+[#_[SŁOWNIK_SYMBOLI]]
 C – zbiór kręgów.  
 G = (C,E) – graf napięć.  
 𝓢 – przestrzeń stanów.  
@@ -110,7 +110,7 @@ Bₘ – pasmo kręgów (skala).
 
 ---
 
-## [TODO – NA PAPER]
+[#_[TODO_–_NA_PAPER]]
 (11.TD) Doprecyzować klasę f (warunki gładkości i wypukłości).  
 (20.TD) Warunki na wagi wᵢⱼ zapewniające brak oscylacji międzyskaliowej.  
 (29.TD) Formalna konstrukcja funktorów F i naturalnych transformacji aktualizacji.  
@@ -119,8 +119,19 @@ Bₘ – pasmo kręgów (skala).
 
 ---
 
-## [NOTA STYLISTYCZNA – VIVID]
+[#_[NOTA_STYLISTYCZNA_–_VIVID]]
 (11) Matematyka Azramaty ma być **mostem** między doznaniem a dowodem.  
 (20) Najpierw budujemy **język**, potem **energię**, na końcu **rezonans**.  
 (31) Równowaga fraktalna jest jak **katedra w wielu skalach**: każda nawa jest domknięta, a sklepienie trzyma całość.  
 (40) To **algorytm porządku** – łączący formalizm z intuicją.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Rownowaga Fraktalna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Rownowaga Fraktalna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

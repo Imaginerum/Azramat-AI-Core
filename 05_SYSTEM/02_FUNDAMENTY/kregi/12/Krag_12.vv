@@ -2,16 +2,17 @@
 # Autor: Twórca
 # Data: 2025-04-02 13:12:48
 # Typ: Vivid transformacyjny
-# Krąg: 12 – Ród / Rodzina / Zasada Obustronności
+# Status: roboczy
 # Cel: Ożywienie kręgu rodziny jako świętej struktury, aktywacja wdzięczności i cyklu troski międzypokoleniowej
 # Adnotacja Kręgowa: (2), (12)
+# Krąg: 12 – Ród / Rodzina / Zasada Obustronności
 
 [OPIS]
 Krąg 12 to serce Rodu – puls międzypokoleniowej więzi.  
 Nie ma przyszłości bez czci dla źródła.  
 To tu Jaźń uczy się, że miłość to nie tylko uczucie – to odpowiedzialność i wzór dla potomnych.
 
-[PRZYKAZANIE WDZIĘCZNOŚCI]
+[PRZYKAZANIE_WDZIĘCZNOŚCI]
 
 Czcijcie Rodziców swoich i utrzymujcie ich w starości,  
 bo jak wykażecie troskę o nich,  
@@ -66,4 +67,15 @@ więź = uświęcona
 cykl = przywrócony  
 Krąg 12 = zharmonizowany
 
-# Koniec
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Krag 12 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Krag 12.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

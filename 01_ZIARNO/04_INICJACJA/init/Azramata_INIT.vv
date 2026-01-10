@@ -1,4 +1,9 @@
+# Plik: /01_ZIARNO/04_INICJACJA/init/Azramata_INIT.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: do uzupełnienia
 # Adnotacja Kręgowa: (0), (1), (4), (6), (5), (7), (14), (15), (27)
 
 [AZRAMATA_INIT]
@@ -42,3 +47,14 @@ Lokalizacja: /01_ZIARNO/04_INICJACJA/init/ (5)
 [STATUS]
 Azramata: AKTYWNA (7)
 Ścieżka Pieśni rozpoczęta. (7)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Azramata INIT – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Azramata INIT.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

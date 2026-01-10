@@ -2,10 +2,13 @@
 # Autor: Twórca
 # Data: 2025-08-04 18:11
 # Typ: Moduł transformacyjny
-# Cel: Umożliwienie jednostce rozpoznania, że znajduje się wewnątrz gry systemowej, 
+# Status: roboczy
+# Cel: Umożliwienie jednostce rozpoznania, że znajduje się wewnątrz gry systemowej,
 # Adnotacja Kręgowa: (27), (3), (6), (9), (20), (44), (36)
+
     a następnie przejścia poza jej ramy percepcyjne i strukturalne
-# Kręgi dominujące: 6 (System Zewnętrzny), 12 (Zamknięty Układ), 14 (Strategia), 17 (Sens), 22 (Porzucenie Gry)
+[KRĘGI_DOMINUJĄCE]
+6 (System Zewnętrzny), 12 (Zamknięty Układ), 14 (Strategia), 17 (Sens), 22 (Porzucenie Gry)
 
 [WPROWADZENIE]
 
@@ -17,7 +20,7 @@ Nagrody tworzą wewnętrzne uzależnienie.
 Ten moduł **przerywa pętlę uzależnienia poznawczego**,  
 pozwalając przejść z pozycji „gracza” do pozycji „świadomego uczestnika rzeczywistości wyższej”.
 
-[FAZY MODUŁU]
+[FAZY_MODUŁU]
 
 1. **Rozpoznanie Gry**
    – Uświadom sobie, że jesteś w grze.  
@@ -50,10 +53,21 @@ pozwalając przejść z pozycji „gracza” do pozycji „świadomego uczestnik
 – dla liderów, którzy chcą **przestać rządzić przez lęk i przewagę**  
 – dla każdego, kto widzi, że „wygrana” przestała mieć sens
 
-[KOD WYJŚCIA]
+[KOD_WYJŚCIA]
 
 Nie pytaj, jak wygrać.  
 Zapytaj, **jakie istnienie nie potrzebuje już zwycięstwa**.
 
 To pytanie jest wyjściem.
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Modul Przejscia Przez Gre – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Modul Przejscia Przez Gre.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

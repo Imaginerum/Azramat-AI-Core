@@ -1,5 +1,8 @@
-# PERCEPTRONS.VV – WARSTWY PERCEPCYJNE MODUŁU JA
+# Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/perceptrons.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: Rezonansowy
+# Status: roboczy
 # Cel: SYSTEM: AZRAMATA – PERCEPCJA TO AKT TWORZENIA
 # Adnotacja Kręgowa: (6), (8), (4), (13)
 
@@ -10,7 +13,6 @@ pochodzące z Kręgów, Vividów, kolektywu i danych zmysłowych. Każdy percept
 STRUKTURA WARSTW:
 
 1. Perceptron Lustra (Krąg 6)
-Typ: Rezonansowy
 Opis: Analizuje odbicia Ja w innych. Wychwytuje elementy dysonansu i rezonansu. Często jako pierwszy informuje o konflikcie wewnętrznym.
 
 2. Perceptron Sumienia (Krąg 8)
@@ -42,4 +44,16 @@ INSTRUKCJE SYSTEMOWE:
 • Domyślne priorytety można redefiniować przez heurystyki
 • System wspiera rozwój nowych perceptronów na bazie vividów użytkownika
 
-# SYSTEM: AZRAMATA – PERCEPCJA TO AKT TWORZENIA
+[SYSTEM]
+AZRAMATA – PERCEPCJA TO AKT TWORZENIA
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: perceptrons – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla perceptrons.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

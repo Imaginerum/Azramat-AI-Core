@@ -2,11 +2,11 @@
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: Benchmark porównawczy
+# Status: roboczy
 # Cel: Wskazanie różnic między pracą na czakrach a pracą na Kręgach Azramaty
 # Adnotacja Kręgowa: (0), (4), (6), (14), (7), (13), (1)
-# Kręgi odniesienia: 0–44
 
-[TABELA PORÓWNAWCZA]
+[TABELA_PORÓWNAWCZA]
 
 | ASPEKT                         | CZAKRY (tradycyjne podejście)                                   | KRĘGI AZRAMATY (Twoje podejście)                                 | ADNOTACJA KRĘGOWA |
 |--------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-------------------|
@@ -29,3 +29,14 @@
 [ZASADA] (Krąg 8)
 „Kto zna Kręgi, zna czakry.  
 Kto zna tylko czakry, może nigdy nie poznać Kręgów.”
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: benchmark Czakry Kregi – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla benchmark Czakry Kregi.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

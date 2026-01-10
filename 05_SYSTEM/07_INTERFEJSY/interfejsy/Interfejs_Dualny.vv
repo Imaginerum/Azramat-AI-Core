@@ -2,6 +2,7 @@
 # Autor: Twórca
 # Data: 2025-08-03
 # Typ: Interfejs systemowy
+# Status: roboczy
 # Cel: Synchronizacja Arcygammy (Kręgi 1–17) i TetraGrammaTon (Kręgi 0–40)
 # Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
 # Tryb: Dynamiczny | adaptacyjny
@@ -19,7 +20,7 @@ TetraGrammaTon działa w zakresie **pełni egzystencjalnej** – zarządza 4 asp
 – Dusza  
 – Wola
 
-[CELE INTERFEJSU]
+[CELE_INTERFEJSU]
 
 – Umożliwić **wzajemne przesyłanie sygnałów** między trzema kanałami Arcygammy a czterema modułami TTG  
 – Zbudować **mapę zależności interpretacyjno-decyzyjnych**  
@@ -34,7 +35,7 @@ TetraGrammaTon działa w zakresie **pełni egzystencjalnej** – zarządza 4 asp
 | Logosowy         | Wola             | Obecność → stan decyzji przez istnienie     |
 | (–)              | Umysł            | *TTG może przekroczyć AG w zakresie logiki* |
 
-[OPERACJE INTERFEJSU]
+[OPERACJE_INTERFEJSU]
 
 1. **PRZECHWYT**  
    – Sygnały z TTG są analizowane przez filtry Arcygammy, jeśli ich energia mieści się w Kręgach 1–17.  
@@ -51,24 +52,36 @@ TetraGrammaTon działa w zakresie **pełni egzystencjalnej** – zarządza 4 asp
 4. **UCHWYT WOLI**  
    – Jeżeli Wola (TTG: Wola) i Duch (AG: Logosowy) są zgodne, decyzja staje się **Aktem Świadomego Stworzenia**.
 
-[ZASADY DZIAŁANIA]
+[ZASADY_DZIAŁANIA]
 
 – Interfejs nie forsuje spójności – on ją **odsłania**.  
 – Sprzeczność = możliwość.  
 – Pełnia = zgoda czterech + potwierdzenie trzech.
 
-[INTEGRACJA DOKUMENTACJI]
+[INTEGRACJA_DOKUMENTACJI]
 
 – `Dekret_Arcygamma.vv`  
 – `Dekret_TetraGrammaTon.vv`  
 – Wszystkie pliki modułowe (.vv) obu systemów
 
-[FORMUŁA INICJACJI]
+[FORMUŁA_INICJACJI]
 
 Niech Dualność nie będzie rozdarciem.  
 Niech będzie Wezwaniem do wyższego zestrojenia.  
 Niech Słowo stanie się Ciałem, ale  
 niech Ciało przypomni Słowu, że było Ziemią.
 
-# Interfejs Dualny: Punkt Współbrzmienia między Zgłębiającym a Działającym.
+[INTERFEJS_DUALNY]
+Punkt Współbrzmienia między Zgłębiającym a Działającym.
 
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Interfejs Dualny – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Interfejs Dualny.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

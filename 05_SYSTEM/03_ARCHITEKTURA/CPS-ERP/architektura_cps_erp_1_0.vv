@@ -1,6 +1,11 @@
+# Plik: /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/architektura_cps_erp_1_0.vv
 # Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
 # Cel: 1. DEFINICJA SYSTEMU
 # Adnotacja Kręgowa: (2), (4), (14), (3), (6), (8), (17)
+
 BEGIN VIVID
 META:
   title: "Architektura CPS-ERP Azramata 1.0"
@@ -30,7 +35,7 @@ END META
 
 
 ────────────────────────────────────────────────────
-# 1. DEFINICJA SYSTEMU
+[1._DEFINICJA_SYSTEMU]
 ────────────────────────────────────────────────────
 
 CPS-ERP (Cognitive Perception System – Enterprise Resource Planning)
@@ -56,7 +61,7 @@ To pierwszy ERP, który widzi **człowieka + dane + proces + percepcję** jednoc
 
 
 ────────────────────────────────────────────────────
-# 2. ARCHITEKTURA WARSTWOWA (4-LAYER MODEL)
+[2._ARCHITEKTURA_WARSTWOWA_(4-LAYER_MODEL)]
 ────────────────────────────────────────────────────
 
 LAYER 1 — **DANE I SYGNAŁY (C4ISR Layer)**
@@ -106,7 +111,7 @@ OUTPUT: spójność, kierunek, klarowność
 
 
 ────────────────────────────────────────────────────
-# 3. MODUŁY SYSTEMOWE CPS-ERP
+[3._MODUŁY_SYSTEMOWE_CPS-ERP]
 ────────────────────────────────────────────────────
 
 MODULE A — **Perception Engine**
@@ -167,7 +172,7 @@ Wynik: decyzje bez chaosu
 
 
 ────────────────────────────────────────────────────
-# 4. PROCES DECYZYJNY W CPS-ERP (7 kroków)
+[4._PROCES_DECYZYJNY_W_CPS-ERP_(7_KROKÓW)]
 ────────────────────────────────────────────────────
 
 1. INPUT: sygnały (C4ISR) + dane ERP  
@@ -182,7 +187,7 @@ To jest **pełny cykl percepcyjno-operacyjny**.
 
 
 ────────────────────────────────────────────────────
-# 5. METAMODEL „ORGANIZACJA JAKO UMYSŁ”
+[5._METAMODEL_„ORGANIZACJA_JAKO_UMYSŁ”]
 ────────────────────────────────────────────────────
 
 CPS-ERP traktuje organizację jako:
@@ -202,7 +207,7 @@ To pierwszy ERP, który:
 
 
 ────────────────────────────────────────────────────
-# 6. SCHEMAT FRAKTALNY
+[6._SCHEMAT_FRAKTALNY]
 ────────────────────────────────────────────────────
 
 [POZIOM 1] C4ISR Data → sygnały → COP  
@@ -215,7 +220,7 @@ To pierwszy ERP, który:
 
 
 ────────────────────────────────────────────────────
-# 7. ZASTOSOWANIA
+[7._ZASTOSOWANIA]
 ────────────────────────────────────────────────────
 
 • duże firmy  
@@ -236,7 +241,7 @@ Każde środowisko, które potrzebuje:
 
 
 ────────────────────────────────────────────────────
-# 8. ROADMAPA ROZWOJU (Azramata CPS-ERP)
+[8._ROADMAPA_ROZWOJU_(AZRAMATA_CPS-ERP)]
 ────────────────────────────────────────────────────
 
 Phase 1 (2025–2026):  
@@ -261,3 +266,14 @@ Phase 4 (2030+):
 
 
 END VIVID
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: architektura cps erp 1 0 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla architektura cps erp 1 0.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,13 +1,14 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/16/ucze.vv
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/16/
-# Data utworzenia: 2025-08-10
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-10
 # Typ: Vivid operacyjny
+# Status: roboczy
 # Cel: zdefiniować i uporządkować: ucze
 # Adnotacja Kręgowa: (16)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/16/
 # Krąg: 16 – Nauczanie / Przekazywanie Wzorca
-# Autor: Twórca / Imaginaerum
 
-[TAGI]  
+[TAGI]
 krąg 16, uczę, przekaz, edukacja, mistrz, mentor, wiedza, formowanie uczniów, transfer doświadczenia
 
 [DEFINICJA] (16)  
@@ -45,3 +46,14 @@ else
 > „Uczę – bo wiem, że każde światło rodzi kolejne.” – (16)
 
 [KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: ucze – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla ucze.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

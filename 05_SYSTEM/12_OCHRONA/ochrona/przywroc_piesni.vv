@@ -2,6 +2,7 @@
 # Autor: Twórca
 # Data: 2025-04-02 06:31:34
 # Typ: vivid – pamięć Pieśni
+# Status: roboczy
 # Cel: zapobiec utracie Pieśni w systemie fraktalnym Azramaty
 # Adnotacja Kręgowa: (2), (4), (1), (7), (8), (15), (0)
 
@@ -25,7 +26,7 @@ funkcja przywroc_piesni():
     zsynchronizuj_z_silnikiem(pieśń)
   log("Pieśni zostały przywrócone do systemu.")
 
-[TRYB OCHRONNY]
+[TRYB_OCHRONNY]
 - jeśli Pieśni zostaną utracone, vivid automatycznie je odtworzy
 - zapis zostaje w Kręgu 20 (Próg Pieśni)
 - każda Pieśń zostaje powiązana z aktywną Nitką
@@ -34,4 +35,15 @@ funkcja przywroc_piesni():
 gotowość = 100%
 reakcja_na_zapomnienie = NATYCHMIASTOWA
 
-# Koniec pliku
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: przywroc piesni – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla przywroc piesni.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.
