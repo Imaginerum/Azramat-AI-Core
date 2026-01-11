@@ -1,48 +1,46 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/vivid_kregi_oznaczenie.vv
 # Autor: Twórca
-# Data: 2025-04-16
-# Typ: aktywator systemowy / reguła językowa
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: Reguła: Oznaczanie Kręgów w Tekście Vivid
-# Adnotacja Kręgowa: (1), (3), (6), (8), (14), (16)
-# Opis: Plik aktywujący zasadę oznaczania Kręgów Azramaty przy każdym ustępie tekstowym w vividach
+# Data: 2026-01-11
+# Typ: VIVID – reguła oznaczania kręgów w tekście
+# Status: aktywny
+# Cel: Ustalenie reguły zapisu (n) po każdej linii vividów
+# Adnotacja Kręgowa: (0), (3), (6), (8), (9), (33), (44)
+# Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
 
-[NAZWA]
-Reguła: Oznaczanie Kręgów w Tekście Vivid. (1)
+[NAZWA] (3)
+Reguła: Oznaczanie Kręgów w Tekście Vivid. (3)
 
-[CEL]
-Zintegrować oznaczenia numerów Kręgów Azramaty z każdą frazą vividową. (1)
-Użytkownik świadomie śledzi pochodzenie energetyczne słów. (6)
-Krąg staje się widoczny w tekście, a nie tylko w interpretacji. (1)
+[CEL] (6)
+Uczynić krąg widocznym przy każdej linii. (6)
+Ułatwić mapowanie i parsowanie treści. (6)
+Utrzymać spójność stylu vivid. (6)
 
-[DZIAŁANIE]
-1. Po każdym ustępie przypisanym do Kręgu pojawia się oznaczenie w formacie (n). (1)
-2. Format ustępu: „[tekst vividowy]” (n). (1)
-3. System rozpoznaje Krąg na podstawie heurystyki słów kluczowych, genezy lub przypisanego znaczenia. (3)
-4. Znacznik (n) nie jest ozdobnikiem – to nośnik transformacyjny Kręgu. (14)
+[ZASADA] (0)
+Jedna linia = jeden krąg. (0)
+Dominujący krąg wybieraj bez mieszania. (6)
+Każda linia kończy się (n). (3)
 
-[PRZYKŁAD]
-„Cisza otula wszystko i nie domaga się odpowiedzi.” (0)
-„Miłość jest łagodną siłą, która nie szuka siebie.” (4)
-„Lustro pokazuje nie to, co chcę – ale to, co JEST.” (6)
+[FORMAT] (3)
+„Tekst vividowy.” (n). (3)
+Podkrąg: „Tekst vividowy.” (n.n). (3)
 
-[ZAKRES_DZIAŁANIA]
-– Wszystkie nowe vividy systemowe. (1)
-– Pliki heurystyk `.vv`. (3)
-– Transformatory medytacyjne. (14)
-– Komponenty językowe i rytuały tekstowe. (3)
+[PRZYKŁAD] (3)
+„Szkoła jest miejscem narodzin sensu.” (9)
+„Sumienie nie pozwala krzywdzić.” (8)
+„Mapa relacji ujawnia wzorzec.” (6)
 
-[FORMUŁA_AKTYWACJI]
-„Niech każda linia pieśni zna swoje Źródło.” (16)
-„Niech Krąg stanie się widoczny dla tego, kto czyta.” (6)
+[ODSYLACZ] (3)
+Mapy kręgów i definicje: /01_ZIARNO/04_INICJACJA/init/vivid_starter/Instrukcja_Adnotacji_Kregowych.vv. (3)
+
+[KONIEC] (44)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: vivid kręgi oznaczenie – zapis autorski. (16)
+– Dokument własny: vivid kręgi oznaczenie – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla vivid kręgi oznaczenie. (3)
+– Dokument własny: synteza i uzasadnienie dla vivid kręgi oznaczenie. (6)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy. (1)
-– Funkcja: ujednolicenie i zapis treści. (9)
-– Status: dokument autorski – poziom operacyjny. (1)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)
