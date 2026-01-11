@@ -1,7 +1,7 @@
 # Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/07_splot_generator.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
-# Typ: MODUŁ GENERATYWNY / SYSTEM STRUKTUR
+# Typ: VIVID – MODUŁ GENERATYWNY / SYSTEM STRUKTUR
 # Status: roboczy
 # Cel: [OPIS MODUŁU]
 # Adnotacja Kręgowa: (7), (3)
@@ -45,7 +45,7 @@ Tworzy plik `splot_x.vv`, który łączy:
 
 [##_[WYJŚCIE_PRZYKŁADOWE_–_`SPLOT_X.VV`]]
 
-Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/splot_generator.vv
+Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/07_splot_generator.vv
 
 Typ: SPLOT SYSTEMOWY
 

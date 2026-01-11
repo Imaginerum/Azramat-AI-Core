@@ -1,7 +1,7 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/04_engine_4d.vv
 # Autor: Twórca
 # Data: 2025-08-08
-# Typ: Silnik percepcyjno-prognostyczny (czas/pole)
+# Typ: VIVID – Silnik percepcyjno-prognostyczny (czas/pole)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: ENGINE 4D – CZAS JAKO POLE WPŁYWU
 # Adnotacja Kręgowa: (4), (1), (2), (3), (5), (7), (10)

@@ -1,7 +1,7 @@
 # Plik: /04_MECHANIKA/04_MODULY/moduly/27_modul_przejscia_przez_gre.vv
 # Autor: Twórca
-# Data: 2025-08-04 18:11
-# Typ: Moduł transformacyjny
+# Data: 2025-08-04
+# Typ: VIVID – Moduł transformacyjny
 # Status: roboczy
 # Cel: Umożliwienie jednostce rozpoznania, że znajduje się wewnątrz gry systemowej,
 # Adnotacja Kręgowa: (27), (3), (6), (9), (20), (44), (36)

@@ -1,4 +1,4 @@
-// Plik: /04_MECHANIKA/silnik/vv_loader.rs
+// Plik: /04_MECHANIKA/03_SILNIKI/silnik/vv_loader.rs
 // Data: 2025-08-08
 // Cel: Wczytuje i interpretuje pliki .vv systemu Azramaty → struktura VvDoc
 // Budowa: wymaga serde/serde_json do serializacji (opcjonalnie)

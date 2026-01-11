@@ -1,7 +1,7 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/01_engine_1d.vv
 # Autor: Twórca
 # Data: 2025-08-08
-# Typ: Silnik instynktowny (reakcja natychmiastowa)
+# Typ: VIVID – Silnik instynktowny (reakcja natychmiastowa)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: ENGINE 1D – CZYSTA REAKTYWNOŚĆ
 # Adnotacja Kręgowa: (1), (0), (2), (10), (14), (20), (40)

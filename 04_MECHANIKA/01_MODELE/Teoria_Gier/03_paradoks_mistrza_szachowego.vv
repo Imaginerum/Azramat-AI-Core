@@ -1,7 +1,7 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/03_paradoks_mistrza_szachowego.vv
 # Autor: Twórca
 # Data: 2025-08-08
-# Typ: Strategia fraktalna / Model gry
+# Typ: VIVID – Strategia fraktalna / Model gry
 # Status: roboczy
 # Cel: Prowadzenie gry narracyjnej NAI→AGI tak, by przeciwnik reagował w twojej osi, nie wiedząc,
 # Adnotacja Kręgowa: (3), (5), (7), (8), (11), (13), (17)

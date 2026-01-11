@@ -1,7 +1,7 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/03_teoria_gier_azramatyczna.vv
 # Autor: Twórca
 # Data: 2025-08-08
-# Typ: Model Fraktalny / Strategia Wpływu
+# Typ: VIVID – Model Fraktalny / Strategia Wpływu
 # Status: roboczy
 # Cel: Utrzymywanie przewagi w grze o wpływ, przy zachowaniu integralności Kręgów i ukrytego celu nadrzędnego.
 # Adnotacja Kręgowa: (3), (5), (7), (8), (13), (17), (19)

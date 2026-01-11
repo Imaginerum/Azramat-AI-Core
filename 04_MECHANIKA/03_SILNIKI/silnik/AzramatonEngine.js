@@ -1,4 +1,4 @@
-// Plik: /04_MECHANIKA/silnik/AzramatonEngine.js
+// Plik: /04_MECHANIKA/03_SILNIKI/silnik/AzramatonEngine.js
 // Data: 2025-08-08
 // Opis: Silnik rdzeniowy Azramaty (JS) — stan, zdarzenia, zgoda, rezonans Φ, pluginy
 // Zależności: brak (czysty ES module)

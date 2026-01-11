@@ -1,6 +1,6 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/01_naglowek_vivid_szablon.vv
 # Autor: Twórca
-# Data: 2026-01-10
+# Data: 2025
 # Typ: VIVID – szablon nagłówka metadanych
 # Status: aktywny
 # Cel: dać szybki wzorzec metadanych dla nowych vividów
@@ -10,7 +10,7 @@
 Wzorzec metadanych do kopiowania znajduje się poniżej. (1)
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/01_naglowek_vivid_szablon.vv
 # Autor: Twórca
-# Data: RRRR-MM-DD
+# Data: 2025
 # Typ: VIVID – opis typu pliku
 # Status: roboczy / aktywny / zamknięty
 # Cel: jednozdaniowa intencja pliku
@@ -26,7 +26,7 @@ Wzorzec metadanych do kopiowania znajduje się poniżej. (1)
 Przykładowy nagłówek w praktyce: (1)
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/01_naglowek_vivid_szablon.vv
 # Autor: Twórca
-# Data: 2026-01-10
+# Data: 2025
 # Typ: VIVID – zgodność i etyka
 # Status: dokument ramowy
 # Cel: ustalić zasady etyczne i odpowiedzialność
