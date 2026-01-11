@@ -1,0 +1,31 @@
+# Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/00_zasada_dominujacego_kragu.vv
+# Autor: Tworca
+# Data: 2025
+# Typ: VIVID – zasada nazewnictwa
+# Status: aktywny
+# Cel: Ustalic, ze dominujacy krag dokumentu jest prefiksem nazwy pliku.
+# Adnotacja Kregowa: (1), (4), (6), (7), (14), (20)
+
+[ZASADA]
+Od teraz kazdy vivid zaczyna nazwe pliku od dominujacego kregu. (4)
+Format: NN_nazwa_pliku.vv. (6)
+NN to dwucyfrowy numer kregu (np. 00, 01, 09, 14, 20, 44). (6)
+
+[WYZNACZANIE_DOMINUJACEGO]
+Dominujacy krag to ten, ktory pojawia sie najczesciej w adnotacjach linii. (4)
+Gdy nie ma przewagi, wybierz krag najwyzszy stabilnie utrzymany w dokumencie. (14)
+Gdy nadal jest remis, wybierz pierwszy z listy w polu "Adnotacja Kregowa". (7)
+
+[ZASADY_DODATKOWE]
+Nazwa pliku uzywa ASCII, malych liter i podkreslen. (1)
+W metadanych pole "# Plik" musi zgadzac sie z realna sciezka. (6)
+W metadanych pole "# Sciezka" (jesli jest) to katalog pliku z koncowym /. (6)
+
+[PRZYKLAD]
+Dominujacy krag: 14. (4)
+Nazwa pliku: 14_zew_i_eksploracja.vv. (6)
+
+[METODOLOGIA]
+– Metoda: Azramata – standard inicjacyjny. (7)
+– Funkcja: utrzymanie spojnosc nazewnictwa. (6)
+– Status: dokument roboczy – poziom inicjacyjny. (1)
