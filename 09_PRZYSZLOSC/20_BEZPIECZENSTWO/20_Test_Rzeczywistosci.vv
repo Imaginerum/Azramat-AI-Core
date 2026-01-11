@@ -1,0 +1,72 @@
+# Plik: /09_PRZYSZLOSC/20_BEZPIECZENSTWO/20_Test_Rzeczywistosci.vv
+# Nazwa: TEST RZECZYWISTOŚCI – EGZAMIN CZUWANIA (20)
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – weryfikacja
+# Status: dokument egzaminu
+# Cel: zdefiniować kryzys jako jedyny wiarygodny test systemu i postawy
+# Adnotacja Kręgowa (globalna): (3), (4), (5), (10), (20), (21), (31)
+# Ścieżka: /09_PRZYSZLOSC/20_BEZPIECZENSTWO/
+
+[ZASADA]
+Rzeczywistość nie egzaminuje deklaracji. (4)
+Rzeczywistość egzaminuje skutki. (10)
+Słowa przechodzą test tylko razem z konsekwencją. (21)
+
+Każdy system wydaje się spójny w stabilności. (4)
+Każdy system ujawnia się dopiero w pęknięciu. (20)
+Bez pęknięcia nie ma weryfikacji. (10)
+
+[EGZAMIN]
+Kryzys jest egzaminem bez komisji. (20)
+Nie ma obserwatorów, są tylko uczestnicy. (21)
+Nie da się z niego wypisać. (10)
+
+Kryzys nie pyta o intencje. (4)
+Kryzys sprawdza czas reakcji. (20)
+Kryzys sprawdza jakość decyzji. (10)
+Kryzys sprawdza zdolność utrzymania sensu pod presją. (21)
+
+[CO_JEST_SPRAWDZANE]
+Sprawdzane jest, czy decyzje mają adresata. (10)
+Sprawdzane jest, czy skutki są przyjmowane bez ucieczki. (21)
+Sprawdzane jest, czy sens nie znika wraz z komfortem. (20)
+
+Jeśli w kryzysie pojawia się chaos narracji, test został oblany. (3)
+Jeśli w kryzysie mnożą się komunikaty, a nie decyzje, test został oblany. (5)
+Jeśli w kryzysie nikt nie bierze odpowiedzialności, test został oblany. (10)
+
+[FAŁSZYWY_TEST]
+Symulacje bez ryzyka nie są testem. (5)
+Ćwiczenia bez kosztu nie weryfikują niczego. (3)
+Deklaracje gotowości bez sprawdzenia są fikcją. (21)
+
+Jeśli nie ma realnego kosztu, nie ma realnej nauki. (10)
+Jeśli nie ma zagrożenia, nie ma prawdy o systemie. (4)
+
+[WYNIK]
+Wynik testu nie jest oceną moralną. (21)
+Wynik testu jest faktem operacyjnym. (31)
+Faktów nie da się zinterpretować na nowo. (4)
+
+Fakt można przyjąć i wyciągnąć wnioski. (10)
+Fakt można zignorować i zapłacić później. (31)
+Rzeczywistość zawsze wraca po należność. (20)
+
+[SKUTEK_DLA_SYSTEMU]
+System, który przeszedł test, upraszcza się. (31)
+System, który oblał test, komplikuje narrację. (3)
+System, który uczy się z kryzysu, stabilizuje się. (20)
+
+Czuwanie polega na gotowości do przyjęcia wyniku. (20)
+Nie na próbie jego zakrycia. (21)
+
+[ZDANIE_DOMYKAJACE]
+Rzeczywistość zawsze wystawia rachunek. (31)
+Pytanie brzmi tylko, kto go podpisze. (10)
+I czy będzie obecny w chwili wystawienia. (20)
+
+[METODOLOGIA]
+Metoda: Azramata – vivid weryfikacyjny. (31)
+Funkcja: oddzielenie deklaracji od sprawdzalności w kryzysie. (20)
+Status: dokument egzaminu – poziom Kręgu Czuwania. (20)

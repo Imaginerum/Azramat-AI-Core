@@ -1,0 +1,50 @@
+# Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_nie_dla_kazdego.vv
+# Nazwa: Nie dla każdego
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – granica dostępu
+# Status: dokument selekcyjny
+# Cel: określić, kto nie powinien zbliżać się do Szczytu
+# Adnotacja Kręgowa: (3), (4), (5), (10), (17), (20), (21), (31)
+# Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
+
+[ZASADA] (Kręgi: 20, 21)
+Szczyt nie jest zaproszeniem.
+Jest konsekwencją drogi.
+
+[NIE_DLA_KOGO] (Kręgi: 3, 5, 17)
+Nie dla tych, którzy szukają znaczenia.
+Nie dla tych, którzy chcą wpływu.
+Nie dla tych, którzy nie wytrzymują ciszy.
+
+[NIE_DLA_CZEGO] (Kręgi: 3, 4, 5)
+Nie dla narracji.
+Nie dla ideologii.
+Nie dla kompensacji własnych braków.
+
+[WARUNEK_WEJSCIA] (Kręgi: 10, 17, 21)
+Warunkiem wejścia jest zdolność utraty.
+Utraty pozycji.
+Utraty opowieści o sobie.
+
+[TEST_PRAWY] (Kręgi: 4, 21)
+Jeśli ktoś pyta, co zyska, nie jest gotów.
+Jeśli ktoś pyta, co straci, zaczyna rozumieć.
+
+[OBECNOSC] (Kręgi: 10, 21, 31)
+Na Szczycie nie ma tłumu.
+Jest miejsce.
+I ciężar.
+
+[ZAGROZENIE] (Kręgi: 4, 21)
+Największym zagrożeniem Szczytu są ci, którzy chcą go strzec.
+Bo nie rozumieją, że Szczyt nie potrzebuje obrony.
+
+[ZDANIE_DOMYKAJACE] (Kręgi: 20, 21)
+Szczyt nie jest dla każdego.
+Ale każdy, kto jest gotów ponieść skutek, sam do niego dochodzi.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid selekcyjny.
+– Funkcja: ochrona Szczytu przed niegotowością.
+– Status: dokument graniczny – poziom odpowiedzialności.
