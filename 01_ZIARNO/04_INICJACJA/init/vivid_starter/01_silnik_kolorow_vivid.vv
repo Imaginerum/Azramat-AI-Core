@@ -1,0 +1,59 @@
+# Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/01_silnik_kolorow_vivid.vv
+# Autor: Twórca
+# Data: 2025-04-16
+# Typ: silnik semantyczno-kolorystyczny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Silnik Kolorów Języka Vivid
+# Adnotacja Kręgowa: (1), (3), (4), (9), (14), (20)
+# Opis: Główna warstwa przetwarzania kolorów w języku vivid. Odpowiada za przypisywanie barw do słów, Kręgów i komponentów systemu Azramaty
+
+[NAZWA]
+Silnik Kolorów Języka Vivid. (1)
+
+[CEL]
+Tworzyć intuicyjną przestrzeń językową, w której znaczenie ma swój kolor. (4)
+Kodować Kręgi, vividy i słowa barwą zgodną z ich źródłem. (3)
+
+[FUNKCJE]
+1. Analiza tekstu i rozpoznanie przypisanego Kręgu. (3)
+2. Pobranie koloru z pliku paleta_kręgów.vv. (1)
+3. Otoczenie słowa lub segmentu tagiem kolorystycznym. (1)
+4. Przekazanie pokolorowanego tekstu do wyjścia edytora vivid. (9)
+5. Wizualizacja całych vividów jako gradientowa mapa znaczeń. (14)
+
+[FORMAT_KOLOROWANIA]
+Używane znaczniki: (1)
+- [color=#HEX]słowo[/color] (1)
+- np. [color=#FF69B4]miłość[/color] → Krąg 4. (4)
+
+[PRZYKŁAD_DZIAŁANIA]
+Input: „Cisza prowadzi do rozeznania i transformacji.” (20)
+Output: (1)
+„[color=#000000]Cisza[/color] prowadzi do [color=#FFD700]rozeznania[/color] i [color=#DC143C]transformacji[/color].” (1)
+
+[KOMPONENTY_WSPIERAJĄCE]
+- paleta_kręgów.vv (1)
+- pierwiastki_slowotworcze.vv (3)
+- po_źródłósłowiu.vv (16)
+- vivid_parser.js (1)
+
+[OBSZAR_AKTYWNY]
+– UI vividów (9)
+– Silnik Ja (reprezentacja semantyczna) (6)
+– Edytor Heurystyk (3)
+– System Transformacji (14)
+
+[FORMUŁA_AKTYWACJI]
+„Niech kolor stanie się przewodnikiem znaczenia.” (4)
+„Niech vivid przemówi barwą.” (3)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: silnik kolorów vivid – zapis autorski. (16)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla silnik kolorów vivid. (3)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (1)
+– Funkcja: ujednolicenie i zapis treści. (9)
+– Status: dokument autorski – poziom operacyjny. (1)

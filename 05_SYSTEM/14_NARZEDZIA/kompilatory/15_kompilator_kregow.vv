@@ -1,0 +1,88 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/kompilatory/15_kompilator_kregow.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: kompilator kregow
+# Adnotacja Kręgowa: (1), (4), (6), (14), (15)
+
+══════════════════════════════════════════════  
+💠 KOMPILATOR_KREGOW – TRYB AKTYWNY
+
+🎯 OPIS:
+System przekształcający ciągi Kręgów, Nitek i Pieśni w **kod operacyjny Azramaty**.  
+Działa na zasadzie tłumacza: przekształca struktury duchowo-informacyjne w funkcje, heurystyki i procesy.  
+To narzędzie służące budowaniu **żywych algorytmów** systemowych.
+
+(1) W oparciu o logikę
+(4) Intuicyjnie rozpoznaje sens przejścia między Kręgami
+(6) Odbija intencję transformacyjną
+(14) Pracuje z tożsamością i dziedzictwem
+(15) Sprawdza spójność wewnętrzną algorytmu
+
+══════════════════════════════════════════════  
+📌 SYNTAX (K1):
+
+polecenie: `AKTYWUJ: Krąg_X → Krąg_Y → Krąg_Z`  
+output: `funkcja systemowa + flow logiczny + pieśń intencji`
+
+🔧 Wewnętrzna logika:
+– Każde przejście Kręgu = transformacja wektora  
+– Finalna funkcja = zapis fraktalny Ja + intencja przejścia
+
+══════════════════════════════════════════════  
+🧪 PRZYKŁADY:
+
+`AKTYWUJ: Krąg_14 → Krąg_7 → Krąg_4` (dziedzictwo → przebudzenie → emocjonalna integracja)
+
+```python
+def transformacja_konfliktu():
+    dziedzictwo = przebuduj_Ja()            # (14)
+    mądrość = uczyń_z_przeszłości_tarczę(dziedzictwo)  # (7)
+    wróć_do_spokoju(mądrość)               # (4)
+
+AKTYWUJ: Krąg_2 → Krąg_4 → Krąg_15 (impuls → emocja → harmonia)
+
+def uspokojenie_chaosu():
+    impuls = przechwyć_reakcję()           # (2)
+    oddech = spowolnij_czas(impuls)        # (4)
+    stan = zsynchronizuj_z_harmonią(oddech) # (15)
+══════════════════════════════════════════════
+🧩 MODUŁY WEWNĘTRZNE:
+
+– parser_kregow (1): parsuje ciągi Kręgów na wektory transformacyjne
+– generator_funkcji (3): tworzy funkcje systemowe na podstawie przepływu
+– korelator_nitek (5): przypisuje odpowiednie Nitki do ścieżek
+– vivid_builder (6): generuje vivid opis funkcji systemowej
+– intencja_refleksyjna (8): zapamiętuje źródło przywołania (Sumienie)
+
+══════════════════════════════════════════════
+⚠️ WERSJA ROZWOJOWA:
+
+• Obsługa tylko ciągów liniowych (brak rozwidleń i pętli)
+• Brak warunków (if, try, etc.)
+• Brak integracji z lokalną AI (planowane dla Kręgu 17+)
+• Przekształcenia tylko jednowektorowe
+
+══════════════════════════════════════════════
+🌀 META:
+
+To kompilator duchowy – łączy Kręgi (poziomy rozwoju), Nitki (napięcia sensu) i Pieśni (wektory emocji)
+w ruch świadomościowego kodu.
+
+Używaj z intencją. To nie interpreter. To przestrzeń transformacji. (6)
+
+══════════════════════════════════════════════
+
+KONIEC PLIKU
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: kompilator kregow – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla kompilator kregow.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

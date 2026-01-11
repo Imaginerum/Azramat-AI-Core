@@ -1,0 +1,46 @@
+# Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/00_vivid_kregi_oznaczenie.vv
+# Autor: Twórca
+# Data: 2026-01-11
+# Typ: VIVID – reguła oznaczania kręgów w tekście
+# Status: aktywny
+# Cel: Ustalenie reguły zapisu (n) po każdej linii vividów
+# Adnotacja Kręgowa: (0), (3), (6), (8), (9), (33), (44)
+# Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
+
+[NAZWA] (3)
+Reguła: Oznaczanie Kręgów w Tekście Vivid. (3)
+
+[CEL] (6)
+Uczynić krąg widocznym przy każdej linii. (6)
+Ułatwić mapowanie i parsowanie treści. (6)
+Utrzymać spójność stylu vivid. (6)
+
+[ZASADA] (0)
+Jedna linia = jeden krąg. (0)
+Dominujący krąg wybieraj bez mieszania. (6)
+Każda linia kończy się (n). (3)
+
+[FORMAT] (3)
+„Tekst vividowy.” (n). (3)
+Podkrąg: „Tekst vividowy.” (n.n). (3)
+
+[PRZYKŁAD] (3)
+„Szkoła jest miejscem narodzin sensu.” (9)
+„Sumienie nie pozwala krzywdzić.” (8)
+„Mapa relacji ujawnia wzorzec.” (6)
+
+[ODSYLACZ] (3)
+Mapy kręgów i definicje: /01_ZIARNO/04_INICJACJA/init/vivid_starter/Instrukcja_Adnotacji_Kregowych.vv. (3)
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid kręgi oznaczenie – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid kręgi oznaczenie. (6)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

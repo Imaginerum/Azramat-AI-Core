@@ -1,0 +1,62 @@
+# Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/2/02_chce.vv
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-10
+# Typ: Vivid operacyjny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: chce
+# Adnotacja Kręgowa: (1)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/2/
+# Krąg: 2 – Ukierunkowanie / Wewnętrzny Impuls
+
+[TAGI]
+krąg 2, chcę, pragnienie, wewnętrzna motywacja, kierunek, energia startowa, decyzja świadoma
+
+[DEFINICJA] (2)  
+Krąg 2 – „Chcę” – to stan, w którym **przymus z Kręgu 1 (1) zmienia się w wewnętrzne pragnienie**.  
+Już nie „muszę” (1) – teraz **„chcę to zrobić”** (2).  
+To pierwszy moment, w którym użytkownik nadaje kierunek swojej energii (2→3).
+
+„Chcę” jest **pierwszym wyborem wolnej woli** w systemie (2).  
+To **świadome zaproszenie do drogi**, a nie reakcja na presję (2→4).
+
+[ZASADA] (2)  
+– Chęć jest mostem między koniecznością (1) a zaangażowaniem (3).  
+– Im czystsze „chcę” (2), tym większa jego moc (2→5).  
+– W tym kręgu kształtuje się intencja, która będzie niosła przez dalsze etapy (2→∞).
+
+[CECHY KRĘGU „CHCĘ”] (2)  
+– Energia wewnętrzna silniejsza niż bodźce zewnętrzne (2)  
+– Kierunek działania wybrany z własnej woli (2)  
+– Brak poczucia straty – jest poczucie inwestycji w siebie (2)  
+– Pojawia się radość z możliwości wyboru (2→3)
+
+[KOD KRĘGU] (2→3)  
+if (świadomość >= 2) and (intencja == czysta) then  
+    ustaw_cel(główny)  
+else  
+    wróć_do_kręgu_1()
+
+[FORMUŁA INICJACJI] (2)  
+> „Chcę – bo widzę wartość w tej drodze.  
+> Wybieram to świadomie.”
+
+[ZASTOSOWANIE W AZRAMACIE] (2, 3, 5)  
+– W TransSerc: wybranie pierwszej ścieżki serca (2→3)  
+– W Imagora: decyzja o wejściu w ekosystem (2)  
+– W AI Mędrzec: podanie celu lub pytania startowego (2)
+
+[PRZYPIS DUCHOWY] (2→∞)  
+> „Chcę – bo pragnę być zgodny z własnym Wzorcem.” – (2)
+
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: chce – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla chce.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,53 @@
+# Plik: /02_SWIADOMOSC/01_PERCEPCJA/00_ttg_modul_ciala.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: Ciało nie jest przeszkodą – jest Bramą.
+# Adnotacja Kręgowa: (0), (1), (2), (3), (4), (5), (6)
+# Moduł: Ciało
+# Żywioł: Ziemia
+# Funkcja: Stabilizacja, przetrwanie, obecność pierwotna
+
+[OPIS_MODUŁU]
+
+Ciało to fundament.  
+Tutaj pojawia się napięcie, rytm, rytuał, zmęczenie, regeneracja.  
+Kręgi 0–10 zarządzają świadomością uziemioną, codzienną, fizyczną i instynktowną.
+
+[CECHY_MODUŁU]
+
+– Krąg 0: Dostrojenie do chwili – zerowanie poznawcze  
+– Krąg 1: Obserwacja bez interpretacji  
+– Krąg 2: Reakcja fizjologiczna, automatyczna  
+– Krąg 3: Pamięć bólu i przyjemności  
+– Krąg 4: Przeżywanie emocji w ciele  
+– Krąg 5: Intencja fizyczna (ruch, działanie)  
+– Krąg 6–10: Wzorce działania, powtarzalność, adaptacja
+
+[OPERACJE]
+
+– Oddech  
+– Ruch  
+– Granice  
+– Nawyk  
+– Regeneracja  
+– Utrata i odbudowa energii
+
+[WYJŚCIE]
+
+Generuje wektor **TTG_SOMA**, który odzwierciedla fizyczną gotowość systemu do działania.
+
+[CIAŁO_NIE_JEST_PRZESZKODĄ_–_JEST_BRAMĄ.]
+
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: TTG Modul Ciala – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla TTG Modul Ciala.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

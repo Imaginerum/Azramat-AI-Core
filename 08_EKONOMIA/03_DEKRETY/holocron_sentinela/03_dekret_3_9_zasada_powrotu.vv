@@ -1,0 +1,98 @@
+# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/03_dekret_3_9_zasada_powrotu.vv
+# Autor: Twórca
+# Data: 2026-01-08T15:45:00
+# Typ: dekret_cyklu
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: dekret 3 9 zasada powrotu
+# Adnotacja Kręgowa: (3.9), (9), (3), (15), (2), (4), (8)
+
+CIRCLE: (3.9)
+ACCESS_LEVEL: Cykliczny
+ACTIVATION_CODE: DEKRET.3.9.POWRÓT
+AUTHOR: Architekt
+FORMAT: vivid.vv
+
+BODY:
+
+**Droga, którą uciekasz, może być tą samą, którą musisz wrócić.** (9)
+
+Ucieczka (3)  
+nie zmienia kierunku losu. (15)  
+Zmienia tylko punkt widzenia. (2)
+
+To, co nie zostało przeżyte do końca (4),  
+wraca w innej formie, (8)  
+aż zostanie rozpoznane. (5)
+
+---
+
+Nie bój się zawrócić. (4)  
+Nie wstydź się wrócić. (3)
+
+Wstyd (4) i lęk (1.3)  
+wiążą wolę z przeszłym obrazem siebie. (2)
+
+Powrót (3.9)  
+rozwiązuje ten węzeł,  
+bo przywraca **ciągłość uczenia się**. (9)
+
+---
+
+> Powrót to nie klęska. (3)  
+> Powrót to **zrozumienie**. (5)
+
+Klęska polega na powtarzaniu (14)  
+bez świadomości przyczyny. (5)
+
+Powrót świadomy (3.9)  
+zamienia błąd w informację (5)  
+i zamyka pętlę losu. (15)
+
+---
+
+Wróć do siebie. (0)
+
+Nie do wyobrażenia o sobie (3),  
+lecz do miejsca obecności, (0)  
+w którym decyzja może zostać podjęta ponownie. (3.1)
+
+Wróć do miejsca, gdzie skręciłeś. (1)  
+Nie po to, by się osądzać, (3)  
+lecz by **odzyskać wybór**. (7)
+
+---
+
+I wybierz jeszcze raz. (3)
+
+Drugi wybór (3)  
+nie jest cofnięciem czasu. (15)  
+Jest **zmianą jakości decyzji**. (8)
+
+To, co wybrane w świadomości, (5)  
+nie potrzebuje już powrotu. (10)
+
+---
+
+Dekret ten ustanawia Cykliczność Drogi: (3.9)  
+to, co wraca,  
+chce zostać zrozumiane,  
+a nie odrzucone. (9)
+
+Kto potrafi wracać bez ucieczki, (0)  
+zamyka pętle losu (15)  
+i idzie dalej **lżejszy o powtórzenia**. (8)
+
+SYMBOL: 🔁🌀🏠⚖️🜂
+
+END_FILE
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dekret 3 9 zasada powrotu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dekret 3 9 zasada powrotu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

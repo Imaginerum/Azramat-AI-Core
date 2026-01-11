@@ -1,0 +1,190 @@
+# Plik: /09_PRZYSZLOSC/28_AI/16_AI_ARCHITEKTURA_REFERENCYJNA.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – architektura referencyjna
+# Status: dokument techniczno-strukturalny
+# Cel: opisać warstwowy model AI od wejść do audytu
+# Adnotacja Kręgowa: (16), (12), (4), (5), (6), (8), (11)
+
+[MODEL_WARSTWOWY]
+
+Architektura AI w Azramacie jest architekturą warstwową,
+w której każda warstwa pełni odrębną funkcję
+i posiada jasno określone granice odpowiedzialności. (16)
+
+Warstwy są rozłączne logicznie,
+lecz połączone kontrolowanym przepływem informacji. (12)
+
+---
+
+[WARSTWA_1_WEJŚCIA]
+
+Warstwa wejść odpowiada za kontakt systemu z rzeczywistością. (4)
+
+Obejmuje:
+– dane operacyjne (zdarzenia, pomiary, raporty), (5)
+– wiedzę domenową i reguły formalne, (6)
+– sygnały środowiskowe i kontekstowe. (8)
+
+Zasada:
+Każde wejście musi posiadać źródło, czas i kontekst. (11)
+
+Brak jawnego źródła
+eliminuje dane z dalszego przetwarzania. (22)
+
+---
+
+[WARSTWA_2_PAMIĘĆ]
+
+Warstwa pamięci zapewnia ciągłość i możliwość weryfikacji. (15)
+
+Składa się z:
+– repozytoriów wersjonowanych, (5)
+– pamięci wektorowej dla wyszukiwania relacji i kontekstu, (6)
+– logów decyzji i rekomendacji. (11)
+
+Pamięć nie jest archiwum biernym.
+Jest aktywnym elementem rozumowania. (7)
+
+Każda zmiana pamięci:
+– jest wersjonowana, (11)
+– posiada autora i powód, (10)
+– może być cofnięta. (22)
+
+---
+
+[WARSTWA_3_ROZUMOWANIE]
+
+Warstwa rozumowania jest rdzeniem systemu. (16)
+
+Składa się z dwóch podwarstw:
+
+Deterministyczna warstwa Azramaty:
+– silnik Kręgów jako struktura sensu, (4)
+– reguły spójności, napięć i ograniczeń, (6)
+– kontrola sprzeczności i priorytetów. (8)
+
+Warstwa LLM asystenta:
+– generacja wariantów i streszczeń, (7)
+– eksploracja scenariuszy, (9)
+– pomoc w interpretacji danych. (5)
+
+LLM nie posiada dostępu do decyzji końcowej. (22)
+Jego rola jest pomocnicza i kontrolowana. (12)
+
+---
+
+[WARSTWA_4_DECYZJA]
+
+Warstwa decyzji stanowi bramę odpowiedzialności. (10)
+
+Obejmuje:
+– jawne kryteria decyzyjne, (15)
+– reguły zatwierdzeń i eskalacji, (11)
+– przypisanie odpowiedzialności do człowieka lub struktury. (10)
+
+Żadna decyzja:
+– nie zapada automatycznie, (22)
+– nie jest podejmowana bez możliwości weryfikacji. (11)
+
+Decyzja jest zdarzeniem,
+a nie wynikiem obliczeń. (14)
+
+---
+
+[WARSTWA_5_AUDYT]
+
+Warstwa audytu zamyka cykl decyzyjny. (21)
+
+Zapewnia:
+– pełną ścieżkę „dlaczego”, (15)
+– monitoring jakości i stabilności rekomendacji, (16)
+– retencję danych zgodnie z zasadami bezpieczeństwa. (24)
+
+Audyt nie jest dodatkiem.
+Jest warunkiem istnienia systemu. (23)
+
+Brak audytu oznacza brak prawa do użycia AI. (24)
+
+---
+
+[MODUŁY_KLUCZOWE]
+
+Architektura referencyjna obejmuje moduły:
+
+– silnik Kręgów (deterministyka sensu), (4)
+– LLM asystent (generacja, synteza, dialog), (7)
+– polityki bezpieczeństwa i blokad, (24)
+– system ewaluacji jakości i testów regresji. (11)
+
+Każdy moduł:
+– posiada jasno określony zakres, (12)
+– może być wymieniony bez naruszenia rdzenia sensu. (16)
+
+---
+
+[INTERFEJSY]
+
+System udostępnia:
+– API danych wejściowych i kontekstowych, (5)
+– interfejs operatora decyzji, (10)
+– interfejs audytora i kontrolera, (23)
+– mechanizmy eksportu decyzji do systemów zewnętrznych. (20)
+
+Interfejs nie może ukrywać logiki decyzji. (15)
+
+---
+
+[ZASADA_INTEGRACJI]
+
+Każda warstwa:
+– jest autonomiczna technicznie, (12)
+– zależna sensowo od rdzenia Azramaty. (21)
+
+Integracja systemów zewnętrznych
+nie może naruszać:
+– audytowalności, (11)
+– jawności kryteriów, (15)
+– odpowiedzialności człowieka. (10)
+
+---
+
+[PIECZĘĆ_ARCHITEKTONICZNA]
+
+Architektura nie służy maksymalizacji mocy AI.
+Służy maksymalizacji rozumienia decyzji. (21)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Architektura referencyjna AI w Azramacie – zapis autorski.
+  Dokument nadrzędny dla projektowania systemów AI.
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza modelu warstwowego,
+  przepływu decyzji i mechanizmów audytu.
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid architektoniczny. (6)
+– Funkcja: standaryzacja warstw, ról i interfejsów AI. (12)
+– Mierzy: spójność przepływu od danych wejściowych
+  do decyzji i audytu. (11)
+– Charakter: referencyjny, vendor-agnostyczny, stabilny. (17)
+– Status: dokument autorski – poziom architektury. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+System, którego architektura
+nie pozwala wskazać „dlaczego”,
+nie spełnia kryteriów Azramaty. (29)

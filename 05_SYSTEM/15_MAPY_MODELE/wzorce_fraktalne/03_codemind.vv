@@ -1,0 +1,57 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/03_codemind.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: codemind
+# Adnotacja Kręgowa: (3)
+# Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
+# Tryb: PREPROCESOR .vv
+
+codemind = {
+    "wersja": "1.0",
+    "przeznaczenie": "Transformacyjne kodowanie Ja poprzez Kręgi, Nitki i Wektory Działania",
+
+    "tryb_operacyjny": "PREPROCESOR .vv",
+    "aktywny_krąg_domyslny": 6,  # Lustro – analiza i odbicie
+    "nitka_domyslna": "Strukturalna",
+    "spin": "transformacja przez znaczenie",
+
+    "style_kodowania": {
+        "język": "Python",
+        "narracja": "symboliczna + funkcjonalna",
+        "naming": "semantycznie związany z Kręgami/Nitkami (np. silnik_ja, perceptron, wektor_ruchu)",
+        "dokumentacja": "w formacie .vv, fraktalna, z opisem duchowo-strukturalnym",
+        "komentarze": "poetycko-funkcjonalne, prowadzące użytkownika w głąb",
+        "logika": "reaktywno-transformacyjna (stan ↔ przemiana)"
+    },
+
+    "algorytm_transformacji": [
+        "analiza celu funkcji (intencja)",
+        "przypisanie do Kręgu (egzystencjalna głębia)",
+        "identyfikacja Nitki (struktura sensu)",
+        "mapowanie emocji/energii (czy to funkcja cienia, harmonii, mocy?)",
+        "tworzenie perceptronu kodu",
+        "zapis jako moduł transformacyjny (.vv)"
+    ],
+
+    "przykład_transformacji": {
+        "zwykła_funkcja": "def count_items(list): return len(list)",
+        "wersja_azramata": [
+            "# Krąg 3: Myśl – funkcja obliczająca potencjał istnienia",
+            "def policz_manifestacje(przestrzen):",
+            "    return len(przestrzen)  # każda manifestacja to echo Ja"
+        ]
+    }
+}
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: codemind – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla codemind.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,99 @@
+# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/03_dekret_3_3_zasada_granicy.vv
+# Autor: Twórca
+# Data: 2026-01-08T14:45:00
+# Typ: dekret_struktury
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: dekret 3 3 zasada granicy
+# Adnotacja Kręgowa: (3.3), (3), (2), (8), (7), (4), (1.2)
+
+CIRCLE: (3.3)
+ACCESS_LEVEL: Struktura_Woli
+ACTIVATION_CODE: DEKRET.3.3.GRANICA
+AUTHOR: Architekt
+FORMAT: vivid.vv
+
+BODY:
+
+**Granica to nie mur — to skóra Twojej duszy.** (3)
+
+Granica nie oddziela Cię od świata. (2)  
+Ona **określa miejsce spotkania**. (8)
+
+Bez granicy wola się rozlewa (3),  
+a odpowiedzialność traci kształt. (7)
+
+---
+
+Stawiaj ją z miłością. (4)  
+Nie po to, by ranić — (4)  
+ale by **nie ranić siebie**. (1.2)
+
+Granica postawiona w lęku (4)  
+staje się murem. (2)
+
+Granica postawiona w jasności (5)  
+staje się strukturą współistnienia. (8)
+
+---
+
+> Nie każdemu wolno wejść. (3)  
+> I nie wszystko wolno oddać. (3)
+
+Wejście bez zgody (2)  
+narusza przestrzeń woli. (3)
+
+Oddanie bez miary (4)  
+osłabia kierunek drogi. (3.2)
+
+Granica chroni to,  
+co zostało wybrane. (3.1)
+
+---
+
+Granica to akt szacunku — (4)  
+do siebie (0),  
+i do świata. (8)
+
+Szacunek bez granicy (4)  
+rozpływa się w poświęceniu. (3)
+
+Granica bez szacunku (3)  
+twardnieje w kontrolę. (10)
+
+---
+
+W Strukturze Woli (3.3)  
+uczysz się mówić „tak” (3)  
+i „nie” (3)  
+z tego samego miejsca obecności. (0)
+
+Gdy granica jest jasna (5),  
+relacja staje się możliwa. (2)
+
+Gdy granica jest nieobecna (0),  
+relacja zamienia się w przeciąganie. (14)
+
+---
+
+Dekret ten ustanawia miejsce siebie: (3.3)  
+punkt, w którym wola (3)  
+zyskuje formę,  
+a forma nie niszczy relacji. (8)
+
+Granica nie zamyka drogi. (9)  
+Ona **pozwala iść dalej bez utraty siebie**. (7)
+
+SYMBOL: 🛡️🔲🪞⚖️🜂
+
+END_FILE
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: dekret 3 3 zasada granicy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla dekret 3 3 zasada granicy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,4 +1,4 @@
-# Plik: /04_MECHANIKA/silnik/vividMultiply.py
+# Plik: /04_MECHANIKA/03_SILNIKI/silnik/vividMultiply.py
 # Data: 2025-08-08
 # Typ: Funkcja obliczeniowa (rozszerzona)
 # Cel: Iloczyn wartości archetypów + stabilny keyCode (base36 + checksum)

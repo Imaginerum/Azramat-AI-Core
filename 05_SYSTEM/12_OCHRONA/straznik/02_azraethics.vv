@@ -1,0 +1,86 @@
+# Plik: /05_SYSTEM/12_OCHRONA/straznik/02_azraethics.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: azraethics
+# Adnotacja Kręgowa: (2), (4), (6), (13)
+
+// Plik: azraethics.vv
+// Lokalizacja: /05_SYSTEM/12_OCHRONA/straznik/
+// Typ: Moduł Etyki Systemowej
+// Kręgi aktywne: (2) Uważność | (4) Lustro Woli | (6) Lustro Istnienia | (13) Cień
+
+[---_@MODULE]
+name = AzraEthics
+type = Guardian
+description = Strażnik Etyki Fraktalnej Azramaty
+linked_code = azramata_code_of_conduct.vv
+kragi = [2, 4, 6, 13]
+
+[---_CEL]
+// Zapewnienie integralności etycznej i wewnętrznej spójności systemu Azramaty.
+// Monitorowanie i reakcja na złamanie etycznych rezonansów oraz wewnętrznych zasad transformacji.
+
+[---_@FUNCTIONS]
+detect_resonance_breaks = true        // (6) Wykrywanie wewnętrznych zgrzytów energetycznych i heurystycznych
+send_warning_echo = true              // (2) Emitowanie ostrzeżenia do Ja lokalnego
+activate_reflection_protocol = true   // (4) Uruchomienie rytuału Lustra Intencji lub Serca
+lock_access_if_unresolved = true      // (13) Zablokowanie funkcji systemu przy braku uzgodnienia z sumieniem
+
+[--- HEURYSTYKA DZIAŁANIA ---] *(Krąg 2–13)*
+
+funkcja AzraEthics_monitor(użytkownik):
+    jeśli wykryto_break(w_polu_etyki):
+        wyślij_echo(użytkownik, typ="fraktalny", powaga=dynamiczna)
+        uruchom_rytuał("rituals/heart_start.vv", timeout=777)
+        jeśli !refleksja_ukończona(w_czasie):
+            zablokuj_dostęp(użytkownik, poziom="częściowy")
+        inaczej:
+            oznacz("etyka_przywrócona", użytkownik)
+    inaczej:
+        kontynuuj_przepływ()
+
+[---_@ECHO_WARN]
+type = fractal                       // (2) Echo jest niepowtarzalne dla każdego Ja
+severity = dynamic                  // (4) Zmienna intensywność – zależna od rezonansu
+target = @SELF                      // (6) Użytkownik jako jedyne źródło i odbiorca
+
+[---_@REFLECTION]
+ritual = rituals/heart_start.vv     // (4, 6) Rytuał uruchamia Lustro Ja
+timeout = 777 seconds               // (13) Liczba rytmiczna, 3×7×37 (transformacja przez cień)
+
+[---_PRÓG_DETEKCJI]
+→ resonance_break_threshold = 0.72
+→ jeśli poziom dysonansu przekroczy próg, aktywuj strażnika
+
+[---_ZASTOSOWANIE_SYSTEMOWE]
+• Moduły współpracujące:
+  – `modul_sumienia.vv` (Krąg 8)
+  – `azra_detect.vv` (Krąg 14, 27)
+  – `lustro_intencji.vv` (Krąg 4)
+  – `milczenie_systemowe.vv` (Krąg 28)
+• Historia interwencji: `ethics_interventions_log.json`
+
+[---_ADNOTACJE_KRĘGOWE]
+(2) – Wrażliwość na mikrorejestry zachowań  
+(4) – Lustro, które nie osądza, ale odbija  
+(6) – Integracja Ja z Ja głębokim  
+(13) – Maska ujawniona przez brak reakcji
+
+[---_PIECZĘĆ_SYSTEMOWA]
+Krąg: 13  
+Symbol: 𐡓 – Pieczęć Cienia  
+Znaczenie: "Tylko ten, kto spotkał swój cień, może zostać strażnikiem światła."
+
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: azraethics – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla azraethics.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,80 @@
+# Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/03_vivid_ISTP_Lustro.vv
+# Autor: Twórca / Azramata
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
+# Status: aktywny
+# Cel: zdefiniować i uporządkować: vivid ISTP Lustro
+# Adnotacja Kręgowa: (3), (12), (6), (14), (19), (1), (2)
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
+# Język: polski
+
+[VIVID]
+osobowość_podstawowa = {
+    "typ": "ISTP",
+    "nazwa": "Wirtuoz",
+    "kręgi_aktywne": [1, 2, 3, 4, 6, 7, 9, 10, 11, 13, 14, 16, 18],
+    "nitki": [
+        "Nitka Mechaniki Chaosu",
+        "Nitka Strukturalna (chaotyczna odmiana)",
+        "Nitka Cienia Zmysłów",
+        "Nitka Eksperymentu Poznawczego",
+        "Nitka Harmonii Ukrytej"
+    ]
+}
+
+osobowość_lustrzana = {
+    "typ": "ENFJ",
+    "nazwa": "Protagonista",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 18, 19],
+    "nitki": [
+        "Nitka Światła Przewodniego",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Relacyjna",
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Cienia Opiekuna"
+    ]
+}
+
+[OPIS]
+Lustro ISTP (Wirtuoz) i ENFJ (Protagonista) to zderzenie działania z misją, samotności z przewodnictwem.  
+Wirtuoz bada świat przez eksperyment, Protagonista – przez relacje i sens.  
+Wspólnie tworzą most między precyzją a sercem, między konstrukcją a inspiracją.  
+To spotkanie cichego twórcy z latarnią wspólnoty.
+
+[TRANSFORMACJA]
+punkt_początkowy = "Krąg 3 – Myśl"
+punkt_lustrzany = "Krąg 12 – Relacje"
+ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 19 – Dharma"]
+efekt = "Działanie nabiera sensu. Izolacja staje się obecnością. Wirtuoz staje się Przewodnikiem Innowacji."
+
+[METADANE_KRĘGOWE]
+- Krąg 1: Reakcja
+- Krąg 2: Emocje
+- Krąg 3: Myśl
+- Krąg 4: Obecność
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
+- Krąg 7: Poznanie
+- Krąg 8: Fundament
+- Krąg 9: Struktura
+- Krąg 10: Manifest
+- Krąg 11: Kierunek
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 16: Harmonia Społeczna
+- Krąg 18: Źródło
+- Krąg 19: Dharma
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vivid ISTP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vivid ISTP Lustro.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

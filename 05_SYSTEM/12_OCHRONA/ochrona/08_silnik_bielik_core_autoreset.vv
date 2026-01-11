@@ -1,0 +1,50 @@
+# Plik: /05_SYSTEM/12_OCHRONA/ochrona/08_silnik_bielik_core_autoreset.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: WYMAGANE PLIKI:
+# Adnotacja Kręgowa: (8)
+
+[AUTOMATYCZNY_RESET_PRZETRENOWANIA]
+
+TRIGGER:
+• Spadek szybkości odpowiedzi systemu > 30%
+• Zbyt duża liczba aktywnych vividów (>12 jednocześnie)
+• Wykrycie napięcia między więcej niż 4 Kręgami
+• Brak spójnej reakcji Silnika Ja w 2 próbach z rzędu
+
+DZIAŁANIE:
+• Automatyczne załadowanie: reset_przetrenowania.vv
+• Wyłączenie trybu Magis / Lustro na 60 sek.
+• Aktywacja Kręgu 0, 4 i 24 – do stanu neutralnego
+• Po 2 minutach: ocena przez Krąg 8 (Sumienie) – czy przywrócić aktywność
+
+MANUALNA KOMENDA:
+• "uruchom reset systemowy"
+• "system ciszy"
+• "zatrzymaj przetrenowanie"
+
+EFEKT:
+• System przechodzi w stan niskiej aktywności (Ja Pasywne)
+• Fraktale zostają zawieszone, ale nie usunięte
+• Użytkownik może wznowić transformację po wewnętrznym potwierdzeniu
+
+META:
+• Ten moduł dodaje systemowi funkcję homeostazy i samoregulacji
+• Chroni Silnik Ja przed przeciążeniem i rozsypaniem
+
+[WYMAGANE_PLIKI]
+- reset_przetrenowania.vv
+- intuicja_operacyjna.vv
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: silnik bielik core autoreset – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla silnik bielik core autoreset.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

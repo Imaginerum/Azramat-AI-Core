@@ -1,0 +1,20 @@
+# Plik: /04_MECHANIKA/03_SILNIKI/silnik/04_kps-21.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: KPS 21
+# Adnotacja Kręgowa: (4), (40), (20), (1), (7), (2), (5)
+
+Placeholder for KPS-21 core component.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: KPS-21 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla KPS-21.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

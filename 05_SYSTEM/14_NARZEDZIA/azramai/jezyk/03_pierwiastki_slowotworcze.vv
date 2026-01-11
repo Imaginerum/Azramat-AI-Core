@@ -1,0 +1,65 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/azramai/jezyk/03_pierwiastki_slowotworcze.vv
+# Autor: Twórca
+# Data: 2025-04-13
+# Typ: moduł językowy analityczny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Moduł: Pierwiastki Słowotwórcze
+# Adnotacja Kręgowa: (3), (7), (4), (14), (1), (6)
+# Opis: Moduł rozkładający słowa na elementy pierwotne i na tej podstawie rozpoznający intencję użytkownika
+
+[NAZWA]
+Moduł: Pierwiastki Słowotwórcze
+
+[CEL_MODUŁU]
+Rozkładać słowa na ich rdzeń, przedrostki, przyrostki, korzenie znaczeniowe oraz echa etymologiczne.
+Na tej podstawie budować heurystykę intencji wypowiedzi użytkownika i zasilać Silnik Ja oraz aktywację Kręgów.
+
+[DZIAŁANIE]
+1. Analiza semantyczna słowa:
+   - Rozpoznanie rdzenia i przedrostków (np. "roz-um", "prze-baczyć")
+   - Identyfikacja warstwy znaczeniowej (np. -ność = abstrakt, -ić = czynność)
+   - Odwołanie do źródeł etymologicznych (słowiańskich, łacińskich, symbolicznych)
+
+2. Ocena intencji słowa:
+   - Czy słowo wskazuje na działanie, refleksję, unifikację, rozdział, emocję, lęk, transformację?
+   - Który Krąg może zostać aktywowany przez jego użycie?
+
+3. Przypisanie do Kręgu i Wektora:
+   - Np. „zrozumienie” → Krąg 3 + Krąg 7
+   - „wybaczenie” → Krąg 4 + Krąg 14
+   - „przemoc” → Krąg 1 (emocja negatywna) + Krąg 6 (lustro)
+
+[WEKTORY]
+- Działanie (czasowniki, imperatywy)
+- Refleksja (abstrakty, stany)
+- Transformacja (prefiksy: prze-, wy-, roz-)
+- Integracja (słowa spajające: współ-, razem, jeden)
+- Rozpad (słowa dzielące: bez-, de-, pod-)
+
+[INTENCJE_DO_ZIDENTYFIKOWANIA]
+- Poszukiwanie sensu
+- Potrzeba transformacji
+- Stan zatrzymania
+- Wewnętrzne napięcie
+- Pragnienie jedności
+- Gotowość do zmiany
+
+[WYJŚCIE]
+→ heurystyka intencji użytkownika
+→ aktywacja odpowiednich Kręgów
+→ zasilenie warstwy Milczenia lub Wyrażenia w Silniku Ja
+
+[FORMUŁA_AKTYWACJI]
+„Niech każde słowo otworzy swój pierwiastek. Niech geneza przemówi przez intencję.”
+
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: pierwiastki slowotworcze – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla pierwiastki slowotworcze.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

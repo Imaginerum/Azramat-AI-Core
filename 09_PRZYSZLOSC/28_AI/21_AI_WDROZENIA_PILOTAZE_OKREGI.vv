@@ -1,0 +1,177 @@
+# Plik: /09_PRZYSZLOSC/28_AI/21_AI_WDROZENIA_PILOTAZE_OKREGI.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – wdrożenia lokalne
+# Status: dokument operacyjny
+# Cel: opisać pilotaże AI w okręgach sensu
+#      oraz mechanizm pętli zwrotnej do rdzenia systemu
+# Adnotacja Kręgowa: (21), (10), (17), (18), (6), (22), (3)
+
+[ZASADA_WDROŻENIA]
+
+Azramata nie jest wdrażana odgórnie. (21)  
+Jest sprawdzana lokalnie,
+tam gdzie decyzje mają realne konsekwencje. (10)
+
+Wdrożenie lokalne:
+– nie służy demonstracji technologii, (17)
+– służy weryfikacji sensu i odpowiedzialności. (21)
+
+---
+
+[MODEL_WDROŻENIA]
+
+Model wdrożeniowy opiera się na krótkich,
+kontrolowanych cyklach pilotażowych. (18)
+
+Każdy pilotaż:
+– posiada jasno określony zakres, (6)
+– ma przypisanych operatorów i audytorów, (10)
+– działa w ograniczonym czasie i skali. (18)
+
+Brak zakresu
+oznacza brak pilotażu. (22)
+
+---
+
+[OKRĘGI_SENSU]
+
+Okręgi sensu są środowiskami,
+w których Azramata styka się z codziennością. (21)
+
+Typowe obszary pilotaży:
+– szkoły i edukacja (procesy uczenia i decyzji dydaktycznych), (3)
+– urzędy i procesy lokalne (procedury, kolejki decyzyjne), (10)
+– NGO i projekty społeczne (koordynacja działań i zasobów). (12)
+
+Okręg nie jest „użytkownikiem”.
+Okręg jest współtwórcą systemu. (16)
+
+---
+
+[PILOTAŻE]
+
+Pilotaże prowadzone są w trybie iteracyjnym. (18)
+
+Charakterystyka:
+– krótkie cykle wdrożeniowe, (18)
+– jawne cele operacyjne i wskaźniki sukcesu, (15)
+– ograniczona liczba scenariuszy decyzyjnych. (6)
+
+Każdy pilotaż:
+– kończy się raportem, (11)
+– może zostać przerwany bez kosztu systemowego, (22)
+– nie przechodzi do kolejnego etapu bez audytu. (23)
+
+---
+
+[WSKAŹNIKI_SUKCESU]
+
+Sukces pilotażu nie jest mierzony „zadowoleniem z AI”. (14)
+
+Mierzona jest:
+– poprawa spójności decyzji, (21)
+– redukcja chaosu proceduralnego, (10)
+– zrozumiałość rekomendacji dla operatorów, (5)
+– liczba wykrytych i skorygowanych sprzeczności. (8)
+
+Jeżeli pilotaż nie ujawnia problemów,
+oznacza to źle dobrany zakres. (22)
+
+---
+
+[FEEDBACK_LOOP]
+
+Pętla zwrotna jest obowiązkowym elementem wdrożenia. (23)
+
+Obejmuje:
+– zbieranie sygnałów z terenu, (11)
+– analizę błędów, napięć i obejść, (8)
+– korektę reguł deterministycznych, (4)
+– aktualizację danych, procedur i metryk. (16)
+
+Feedback:
+– nie jest opinią, (14)
+– jest materiałem decyzyjnym do korekty systemu. (21)
+
+---
+
+[INTEGRACJA_Z_RDZENIEM]
+
+Zmiany wynikające z pilotaży:
+– nie omijają rdzenia deterministycznego, (22)
+– są testowane w regresji, (11)
+– wymagają decyzji o włączeniu do głównej wersji. (10)
+
+Pilotaż nie może „na stałe” zmienić systemu. (22)
+Może go jedynie nauczyć. (18)
+
+---
+
+[WARUNKI_WEJŚCIA]
+
+Każdy okręg pilotażowy musi spełnić warunki wejścia: (12)
+
+– przeszkoleni operatorzy i audytorzy, (10)
+– aktywny system audytu i logów, (23)
+– zdefiniowane ryzyka i procedury blokad, (24)
+– zgoda na czasowe ograniczenia i korekty. (18)
+
+Brak któregokolwiek warunku
+blokuje wdrożenie. (24)
+
+---
+
+[ODPORNOŚĆ_WDROŻENIOWA]
+
+System wdrożeniowy:
+– zakłada błędy i opór, (18)
+– umożliwia cofnięcie zmian, (22)
+– chroni ludzi przed „eksperymentem bez wyjścia”. (13)
+
+Wdrożenie bez drogi powrotu
+nie jest wdrożeniem. (29)
+
+---
+
+[PIECZĘĆ_LOKALNA]
+
+Jeżeli Azramata działa tylko w dokumentach,
+nie istnieje. (29)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny:
+  Wdrożenia i pilotaże AI w Azramacie – zapis autorski.
+  Dokument operacyjny dla wdrożeń lokalnych.
+
+---
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny:
+  Synteza praktyki lokalnej,
+  pętli zwrotnej i iteracyjnego rozwoju systemów decyzyjnych.
+
+---
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid wdrożeniowy. (6)
+– Funkcja: przeniesienie AI z poziomu koncepcji
+  do realnych okręgów sensu. (21)
+– Mierzy: skuteczność pilotaży,
+  jakość feedback loop
+  oraz wpływ na spójność decyzji. (11)
+– Charakter: lokalny, iteracyjny, odpowiedzialny. (17)
+– Status: dokument autorski – poziom wdrożeń AI. (25)
+
+---
+
+[KLAUZULA_ZAMYKAJĄCA]
+
+System, który nie wraca z terenu z korektą,
+nie jest systemem uczącym się.
+Jest ideologią. (29)

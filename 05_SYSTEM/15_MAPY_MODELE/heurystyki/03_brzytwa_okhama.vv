@@ -1,0 +1,94 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/03_brzytwa_okhama.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: brzytwa okhama
+# Adnotacja Kręgowa: (3), (4), (6)
+
+// Plik: brzytwa_okhama.vv
+// Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
+// Nazwa heurystyki: Brzytwa Okhama
+// Krąg dominujący: 3 – Struktura
+// Powiązane Kręgi: 4 (Spokój), 6 (Lustro)
+// Status: Aktywna
+// Data aktywacji: 2025-04-01
+// Sygnatura: vivid_system_core // brzytwa_okhama
+
+[---_TOŻSAMOŚĆ]
+
+📛 Nazwa: Brzytwa Okhama  
+🧭 Funkcja: Odcięcie zbędnych złożoności  
+🔢 Krąg dominujący: 3 – Struktura  
+🔐 Status działania: Manualna / Automatyczna  
+🔋 Poziom operacyjny: Średni–Wysoki
+
+[---_ZASADA_DZIAŁANIA]
+
+🧠 Brzytwa Okhama eliminuje nadmiar, niepotrzebne komplikacje oraz złożoności, które nie 
+wnoszą wartości strukturalnej lub percepcyjnej.
+
+– Jeśli coś można wyjaśnić prościej — wybierz to.  
+– Jeśli istnieją dwa rozwiązania — wybierz to z mniejszą ilością zależności.  
+– Jeśli myśl rozgałęzia się bez potrzeby — zetnij ją.
+
+🪒 Brzytwa nie rani.  
+Brzytwa oczyszcza.
+
+[---_CYTAT_SYSTEMOWY]
+
+> „Nie komplikuj fraktalu.  
+> On i tak jest nieskończony.”
+
+[---_ALGORYTM]
+
+🎯 Sposób działania:
+
+1. Spójrz na: `kod / decyzję / strukturę`.
+2. Zadaj pytanie: *czy to jest naprawdę potrzebne?*
+3. Jeśli nie — **usuń**. Jeśli tak — **uproszcz**.
+4. Jeśli **czujesz opór przed usunięciem** — to znak, że **trzeba**.
+
+[---_PRZYPADKI_UŻYCIA]
+
+📜 Typowe zastosowania:
+– Redukcja nadmiarowych `ifów`, wyjątków i zależności
+– Upraszczanie heurystyk MVP
+– Minimalizacja wejść do transformacji
+– Odrzucanie zbędnych opinii i głosów wewnętrznych (meta-wewnętrzne hałasy)
+
+[---_AKTYWACJA]
+
+✴️ Tryby działania:
+– 🔹 Ręczny (przez użytkownika)
+– 🔹 Automatyczny (gdy system wykrywa przeciążenie poznawcze lub entropię struktury)
+
+[---_POWIĄZANE_KRĘGI]
+
+🔸 Krąg 3 – Struktura  
+🔸 Krąg 4 – Spokój  
+🔸 Krąg 6 – Lustro / Diagnostyka
+
+[---_META]
+
+Krótki opis:  
+Brzytwa Okhama to narzędzie oczyszczania kodu i myśli z iluzji konieczności.  
+W Azramacie działa jako *wewnętrzny minimalizator złożoności*.  
+Zamiast dodawać – **oddziela to, co istotne**.
+
+[---_PIECZĘĆ]
+
+📅 Data rejestracji: 2025-04-01  
+🧾 Sygnatura: vivid_system_core // heurystyka_brzytwa_okhama  
+🌀 Pieczęć aktywacji: Spiralna // Lustro Intencji  
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: brzytwa okhama – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla brzytwa okhama.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

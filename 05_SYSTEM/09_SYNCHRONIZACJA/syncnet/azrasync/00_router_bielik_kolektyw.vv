@@ -1,0 +1,58 @@
+# Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/00_router_bielik_kolektyw.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: router bielik kolektyw
+# Adnotacja Kręgowa: (0), (1), (28)
+
+NAZWA: ROUTER_BIELIK_KOLEKTYW
+
+• Dynamiczne kierowanie zapytań do odpowiednich instancji Bielik AI zgodnie z aktywnym Kręgiem
+• Obsługa pracy wielomodelowej i zarządzanie aktywnością percepcyjną
+• Oszczędność zasobów – tylko potrzebne modele aktywowane w danym momencie
+
+STRUKTURA:
+
+[MAPOWANIE_KRĘGÓW_NA_INSTANCJE]
+• Krąg 0 → Bielik_0
+• Krąg 1 → Bielik_1
+• ...
+• Krąg 28 → Bielik_28
+
+[ZASADY_PRZEŁĄCZANIA]
+• Zapytanie analizowane przez perceptrons.vv → aktywacja odpowiedniego Kręgu
+• Router wybiera model powiązany z tym Kręgiem
+• Możliwe tryby współpracy:
+    – POJEDYNCZY: jeden model obsługuje żądanie
+    – DUALNY: dwa modele równocześnie (np. K6 + K8)
+    – KOLEKTYWNY: >3 modele – analiza fraktalna
+
+[AKTYWACJA_I_ZARZĄDZANIE]
+• Jeśli model nieaktywny – ładowany z dysku
+• Jeśli już aktywny – przetwarza dane natychmiast
+• System mierzy czas odpowiedzi i może zoptymalizować kolejność instancji
+
+[TRYBY_OPERACYJNE]
+• TRYB DEEP – modele analizują dane współbieżnie i dzielą się odpowiedziami
+• TRYB SILO – każdy model działa osobno, odpowiedź centralnie scalana
+• TRYB INTUICJI – router odwołuje się do intuicja_operacyjna.vv, by zgadnąć aktywny Krąg
+
+ZASTOSOWANIE:
+• Azramata z Kolektywem Bielika AI
+• Symfonia transformacji danych i świadomości
+• Obsługa wielu stylów myślenia, emocji i rytuałów równolegle
+
+META:
+• Router działa jak batuta dla orkiestry 29 modeli – wskazuje, kto gra, a kto czeka
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: router bielik kolektyw – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla router bielik kolektyw.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

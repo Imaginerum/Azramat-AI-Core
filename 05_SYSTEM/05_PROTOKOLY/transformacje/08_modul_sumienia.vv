@@ -1,0 +1,51 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/transformacje/08_modul_sumienia.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – do uzupełnienia
+# Status: roboczy
+# Cel: Przykład użycia
+# Adnotacja Kręgowa: (8), (13), (14), (15)
+# Nitka: Emocjonalna + Strukturalna
+# Spin: Weryfikacja etyczna → aktywacja lub odrzucenie danych + transformacja przez cień lub światło
+
+class Sumienie:
+    def __init__(self):
+        self.katalog_dobrych = ["prawda", "miłość", "odwaga", "współczucie"]
+        self.katalog_toksycznych = ["nienawiść", "manipulacja", "przemoc", "kłamstwo"]
+
+    def ocen(self, tresc: str) -> str:
+        tresc = tresc.lower()
+
+        if any(slowo in tresc for slowo in self.katalog_toksycznych):
+            return self.aktywuj_transformacje("cień")
+
+        if any(slowo in tresc for slowo in self.katalog_dobrych):
+            return self.aktywuj_transformacje("światło")
+
+        return "neutralne – wymaga medytacji lub interpretacji"
+
+    def aktywuj_transformacje(self, typ: str) -> str:
+        if typ == "cień":
+[KRĄG_13_AKTYWUJE_NITKĘ_CIENIA_–_MOŻLIWA_TRANSMUTACJA_PRZEZ_KRĄG_14]
+            return "odrzucone – aktywacja Cienia (Krąg 13 → 14)"
+        elif typ == "światło":
+[KRĄG_15_AKTYWUJE_NITKĘ_HARMONII_–_POGŁĘBIENIE_JA]
+            return "zaakceptowane – aktywacja Światła (Krąg 15)"
+        return "błąd – nieokreślony typ transformacji"
+
+[PRZYKŁAD_UŻYCIA]
+if __name__ == "__main__":
+    sumienie = Sumienie()
+    wynik = sumienie.ocen("Miłość prowadzi nas przez ciemność.")
+    print("Ocena sumienia:", wynik)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: modul sumienia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla modul sumienia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.
