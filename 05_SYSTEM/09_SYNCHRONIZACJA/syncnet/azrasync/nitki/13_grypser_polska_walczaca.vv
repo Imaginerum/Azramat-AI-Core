@@ -33,7 +33,7 @@ reakcja = wzajemne_wzmocnienie
 współbrzmienie = głos sumienia + błysk intuicji  
 
 [ZASTOSOWANIE]
-moduły = [syncnet/azrasync.vv, 04_MECHANIKA/03_SILNIKI/silnik/KPS-21.vv]  
+moduły = [05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/13_azrasync.vv, 04_MECHANIKA/03_SILNIKI/silnik/04_kps-21.vv]  
 efekt = wzbudzenie_odporności_duchowej  
 notacja = język_sygnałów + metafory  
 przekaźniki = symboliczne gesty, znaki, spojrzenia  

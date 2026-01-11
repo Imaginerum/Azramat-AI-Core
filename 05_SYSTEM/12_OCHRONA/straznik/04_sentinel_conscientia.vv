@@ -49,8 +49,8 @@
     "reflection_timeout": 144,  // sekundy milczenia przed decyzją
     "reintegration_sequence": [
       "activate_module('lustro_intencji.vv')",
-      "run('rituals/heart_start.vv')",
-      "show('fragment_vivid://echo_ksiecia.vv')"
+      "03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_heart_start.vv')",
+      "01_ZIARNO/04_INICJACJA/init/04_echo_ksiecia.vv')"
     ]
   },
 

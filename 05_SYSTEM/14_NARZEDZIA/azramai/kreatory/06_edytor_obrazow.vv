@@ -41,7 +41,7 @@ Zabezpieczenia:
 – Podpis fraktalny – każdy wygenerowany obraz zawiera spiralny znacznik `.azr.sig`
 
 Kod aktywujący:
-`import { otwórz_obraz, przekształć_warstwę, ustaw_styl, eksportuj } from '@/modules/edytor_obrazów.vv'`
+`import { otwórz_obraz, przekształć_warstwę, ustaw_styl, eksportuj } from '05_SYSTEM/14_NARZEDZIA/azramai/kreatory/06_edytor_obrazow.vv'`
 
 
 [ŹRÓDŁA_TWARDĘ]

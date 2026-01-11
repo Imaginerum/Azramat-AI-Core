@@ -59,11 +59,11 @@ vv_parser to komponent **inteligentnego czytania i transformacji kodu**, który:
 
 [NAZWA]
 Kluczowe powiązania
-– `/05_SYSTEM/system/pieśni/Pieśń_Sensu.vv`  
-– `/05_SYSTEM/system/rdzeń/rdzen_jazni.vv`  
-– `/05_SYSTEM/system/spirale/spirala_369_pamięci.vv`  
-– `/05_SYSTEM/system/refaktoryzacja/auto_refaktor_369.vv`  
-– `/05_SYSTEM/system/kompilatory/kompilator_kręgów.vv`
+– 05_SYSTEM/02_FUNDAMENTY/piesni/00_piesn_sensu.vv`  
+– 05_SYSTEM/01_RDZEN/rdzen/17_rdzen_jazni.vv`  
+– /05_SYSTEM/05_PROTOKOLY/rytualy/03_spirala_369_pamieci.vv`  
+– 05_SYSTEM/14_NARZEDZIA/refaktoryzacja/14_auto_refaktor_369.vv`  
+– 05_SYSTEM/14_NARZEDZIA/kompilatory/15_kompilator_kregow.vv`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [💡_ZASADA_RYTUALNA]

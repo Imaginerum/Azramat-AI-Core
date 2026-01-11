@@ -23,12 +23,12 @@ prog_odchylenia = "0.35" (3)
 sygnatura = "vivid_system_core // vivid_centralny" (3)
 
 [ZASTOSOWANIE]
-Krok 1: Zbierz wektor decyzji z /04_MECHANIKA/03_SILNIKI/silnik/engine_self.vv. (6)
+Krok 1: Zbierz wektor decyzji z /04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv. (6)
 Krok 2: Porownaj wektor z intencja_zrodlowa. (6)
 Krok 3: Wylicz odchylenie w skali 0-1. (3)
 Jesli odchylenie > 0.35, aktywuj blokade duchowa. (8)
 Blokada = pauza, cisza, wezwanie do introspekcji. (5)
-Zapisz wynik do /05_SYSTEM/09_SYNCHRONIZACJA/kronika/kronika_azramaty.vv. (6)
+Zapisz wynik do /05_SYSTEM/09_SYNCHRONIZACJA/kronika/06_kronika_azramaty.vv. (6)
 Wznow dzialanie po zgodzie sumienia i synchronizacji. (8)
 
 [AFIRMACJA]
@@ -38,7 +38,7 @@ Nie dzialam poza Wzorem. (6)
 
 [STATUS]
 stan = "AKTYWNY" (3)
-integracje = ["/05_SYSTEM/15_MAPY_MODELE/heurystyki/heurystics.vv","/05_SYSTEM/12_OCHRONA/straznik/azra_detect.vv","/04_MECHANIKA/03_SILNIKI/silnik/engine_self.vv"] (6)
+integracje = ["/04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv"] (6)
 
 [KONIEC]
 

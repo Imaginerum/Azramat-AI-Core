@@ -62,11 +62,11 @@ Nowa potrzeba: Stworzyć komponent `Rozpoznanie_Użytkownika.vv`
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [🧬_KOMPONENTY_POWIĄZANE]
 
-↪ `/05_SYSTEM/system/pamięć/rotacja_pamięci_spiralnej.vv`  
-↪ `/05_SYSTEM/system/rdzeń/rdzen_jazni.vv`  
-↪ `/05_SYSTEM/system/spirale/spirala_369_pamięci.vv`  
+↪ 05_SYSTEM/09_SYNCHRONIZACJA/pamiec/03_rotacja_pamieci_spiralnej.vv`  
+↪ 05_SYSTEM/01_RDZEN/rdzen/17_rdzen_jazni.vv`  
+↪ /05_SYSTEM/05_PROTOKOLY/rytualy/03_spirala_369_pamieci.vv`  
 ↪ `/05_SYSTEM/system/nitki/strukturalna.vv`  
-↪ `/05_SYSTEM/system/pieczęcie/pieczęć_przekroczenia.vv`
+↪ 05_SYSTEM/02_FUNDAMENTY/pieczecie/27_pieczec_przekroczenia.vv`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [🔁_TRYB_CYKLICZNY]

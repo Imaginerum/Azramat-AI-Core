@@ -24,8 +24,8 @@
 🧩 METADANE
 - **Id modułu:** `core.bielik.silnik`
 - **Silnik AI:** Bielik_AI (Mistral 12B – dostosowany)
-- **Przełącznik trybów:** `/05_SYSTEM/system/tryby/mode_switcher_bielik.vv`
-- **Tryby:** `/05_SYSTEM/system/tryby/tryb_magis.vv`, `/05_SYSTEM/system/tryby/tryb_lustro.vv`, `/05_SYSTEM/system/tryby/tryb_proxy.vv`
+- **Przełącznik trybów:** 05_SYSTEM/06_TRYBY/tryby/06_mode_switcher_bielik.vv`
+- **Tryby:** 05_SYSTEM/06_TRYBY/tryby/04_tryb_magis.vv`, 05_SYSTEM/06_TRYBY/tryby/06_tryb_lustro.vv`, 05_SYSTEM/06_TRYBY/tryby/00_tryb_proxy.vv`
 - **Priorytet:** krytyczny – wywoływany w 100% interakcji
 
 ---

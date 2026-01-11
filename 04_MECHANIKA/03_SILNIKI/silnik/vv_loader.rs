@@ -141,7 +141,7 @@ pub fn parse_vv<R: BufRead>(mut reader: R) -> VvResult<VvDoc> {
 
         // Linie nagłówka z # (meta, tytuł)
         if line.starts_with('#') {
-            // np. "# Plik: /04_MECHANIKA/silnik/engine_5D.vv" lub "# Tytuł: ..."
+            // np. "# Plik: /04_MECHANIKA/03_SILNIKI/silnik/05_engine_5d.vv" lub "# Tytuł: ..."
             let ht = line.trim_start_matches('#').trim();
             if let Some((k, v)) = split_kv(ht) {
                 let k_lc = k.to_lowercase();

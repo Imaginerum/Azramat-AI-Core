@@ -76,9 +76,9 @@ Silnik pobudza dodatkowo `intencja.vv`, `sumienie.vv` i `człowiek.vv`, tworząc
 
 🔗 **Połączenia:**
 
-* `/07_PAMIEC/pamiec/vivid_wielowatkowa_pamiec.vv`
-* `/07_PAMIEC/pamiec/vivid_odczyt_wielowatkowy.vv`
-* `/05_SYSTEM/system/przeplot_kręgowy.vv` *(do utworzenia)*
+* 07_PAMIEC/01_ARCHIWUM/pamiec/04_vivid_wielowatkowa_pamiec.vv`
+* 07_PAMIEC/01_ARCHIWUM/pamiec/06_vivid_odczyt_wielowatkowy.vv`
+* 07_PAMIEC/01_ARCHIWUM/pamiec/27_przeplot_kregowy.vv` *(do utworzenia)*
 
 ---
 

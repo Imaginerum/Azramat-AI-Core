@@ -112,7 +112,7 @@ if system_mode == "kolektywny":
 [STATUS]
 `aktywne` → gotowe do pełnej integracji z:  
 – `/engine/ja_core.vv`  
-– `/net/syncnet_core.vv`  
+– 05_SYSTEM/09_SYNCHRONIZACJA/synchronizacja/06_syncnet_core.vv`  
 – `/rituals/zbiorowa_transformacja.vv`  
 – `/input/interpretator_tozsamosci.vv`
 

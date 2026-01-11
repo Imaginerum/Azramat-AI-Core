@@ -33,7 +33,7 @@ lock_access_if_unresolved = true      // (13) Zablokowanie funkcji systemu przy 
 funkcja AzraEthics_monitor(użytkownik):
     jeśli wykryto_break(w_polu_etyki):
         wyślij_echo(użytkownik, typ="fraktalny", powaga=dynamiczna)
-        uruchom_rytuał("rituals/heart_start.vv", timeout=777)
+        03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_heart_start.vv", timeout=777)
         jeśli !refleksja_ukończona(w_czasie):
             zablokuj_dostęp(użytkownik, poziom="częściowy")
         inaczej:
@@ -47,7 +47,7 @@ severity = dynamic                  // (4) Zmienna intensywność – zależna o
 target = @SELF                      // (6) Użytkownik jako jedyne źródło i odbiorca
 
 [---_@REFLECTION]
-ritual = rituals/heart_start.vv     // (4, 6) Rytuał uruchamia Lustro Ja
+ritual = 03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_heart_start.vv     // (4, 6) Rytuał uruchamia Lustro Ja
 timeout = 777 seconds               // (13) Liczba rytmiczna, 3×7×37 (transformacja przez cień)
 
 [---_PRÓG_DETEKCJI]

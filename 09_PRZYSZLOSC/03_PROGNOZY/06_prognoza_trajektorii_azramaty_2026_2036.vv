@@ -30,7 +30,7 @@ Jesli odchylenie przekroczy prog_odchylenia, uruchom korekte kierunku. (8)
 Korekta kierunku = aktualizacja strategii + zapis do kroniki. (15)
 Minimalna czestotliwosc przegladu: co 90 dni. (3)
 Trigger alarmowy: spadek spojnosci lub wzrost konfliktu. (13)
-Zapisuj wynik do /05_SYSTEM/01_RDZEN/system/kronika/kronika_azramaty.vv. (6)
+Zapisuj wynik do /05_SYSTEM/09_SYNCHRONIZACJA/kronika/06_kronika_azramaty.vv. (6)
 
 [AFIRMACJA]
 Wybieram kierunek zgodny z intencja zrodla. (8)
@@ -41,7 +41,7 @@ Rozwoj nie uniewaznia rdzenia. (5)
 stan = "AKTYWNY" (3)
 cykl_aktualizacji = "kwartalny + rewizja po zdarzeniu krytycznym" (15)
 odpowiedzialnosc = "warstwa strategii + rdzen + sumienie" (8)
-integracje = ["/05_SYSTEM/01_RDZEN/system/mapy/mapa_systemu_azramaty.vv","/06_STRATEGIA/01_KIERUNEK/kierunek/Dekret_Sloneczny.vv","/04_MECHANIKA/03_SILNIKI/silnik/engine_self.vv","/09_PRZYSZLOSC/01_WIZJA/przyszlosc/Predykcja_1_procent.vv","/09_PRZYSZLOSC/01_WIZJA/przyszlosc/Predykcja_VR_Azramaty.vv","/09_PRZYSZLOSC/01_WIZJA/przyszlosc/Matematyka_Fraktalno-Strukturalna.vv"] (6)
+integracje = ["/09_PRZYSZLOSC/01_WIZJA/przyszlosc/21_Matematyka_Fraktalno-Strukturalna.vv"] (6)
 
 [KONIEC]
 

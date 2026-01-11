@@ -30,7 +30,7 @@ Iloczyn: 13 × 40 × 12 = 6240
 
 \[KOMPONENTY SILNIKA]
 
-1. **Słownik Archetypiczny** (`/01_ZIARNO/baza/Slownik_Archetypow.vv`)
+1. **Słownik Archetypiczny** (01_ZIARNO/03_ARCHETYPY/baza/06_slownik_archetypow.vv`)
 2. **Funkcja vividMultiply(a, b, c...)** – mnoży znaczenia i zwraca `keyCode`
 3. **Funkcja synthFromKeyCode(code)** – przekształca `keyCode` w treść vividową
 4. **Dekodery Kręgowe** – rozpoznają, z którego Kręgu pochodzi dane połączenie
