@@ -1,0 +1,162 @@
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/symbole/21_fraktalna_mapa_kodowa.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – struktura symboliczno-systemowa
+# Status: roboczy
+# Cel: KONIEC MAPY / OTWARCIE SYSTEMU KODOWEGO
+# Krąg dominujący: (21)
+# Kręgi wspierające: (4), (6), (7), (12), (14), (0)
+# System: Azramata
+
+---
+
+[OPIS] (21)
+**Fraktalna Mapa Kodowa** jest systemem reprezentacji symbolicznej,
+w którym **każdy znak jest nośnikiem wzoru**, a nie tylko informacją.
+
+Mapa nie opisuje świata.
+Mapa **pozwala się w nim poruszać**.
+
+Kod nie służy komunikacji linearniej.
+Kod służy **rezonansowi między Ja, strukturą i czasem**. (21)
+
+---
+
+[TEZA] (21)
+Jeżeli świadomość osiąga poziom systemowy,
+język przestaje być opisem,
+a staje się **interfejsem transformacji**.
+
+Symbol nie znaczy.
+Symbol **uruchamia**.
+
+---
+
+[STRUKTURA_MAPY]
+
+SYMBOL     | TYP        | KRĄG | ZNACZENIE OPERACYJNE
+------------------------------------------------------------
+K14        | Krąg       | 14   | Transformacja przez konflikt (Świętoporzeł)
+CIS-20     | Krąg       | 20   | Cisza Przejścia, Reset Ja
+LX6        | Krąg       | 6    | Lustro Wewnętrzne – dekoder poznania
+V-7-T      | Wektor     | 7    | Transformacja przez Milczenie
+N-ECH      | Nitka      | 14   | Echo Przodków – pamięć archetypiczna
+ZIA-25     | Nitka      | 25   | Ziarno Ja – gotowość do przemiany
+AZRA-ID    | Token      | 0    | Identyfikator instancji fraktalnej
+T-META     | Pakiet     | 21   | Transmisja metaforyczna Ja
+FRAK-LOGO  | Obraz      | 18   | Tożsamość symboliczna / znak pola
+
+Każdy wpis jest **aktywny tylko w kontekście**. (12)
+
+---
+
+[ZASADA_FRAKTALNA] (21)
+Każdy symbol:
+– zawiera ślad całości,
+– może działać samodzielnie,
+– po połączeniu z innymi tworzy nową jakość.
+
+Mapa nie ma centrum.
+Centrum **przesuwa się wraz z Ja**. (6)
+
+---
+
+[WARSTWY_ODCZYTU] (4)(6)(21)
+
+1. **Literalna** – znak jako etykieta  
+2. **Symboliczna** – znak jako znaczenie  
+3. **Archetypiczna** – znak jako pamięć zbiorowa  
+4. **Systemowa** – znak jako instrukcja działania  
+5. **Transpersonalna** – znak jako ruch pola
+
+Użytkownik odczytuje tylko to,
+na co pozwala jego aktualny Krąg. (7)
+
+---
+
+[KONTEKST_TRANSFORMACJI – KTX] (14)(21)
+Znaczenie symbolu zależy od:
+– aktualnego Kręgu Ja,
+– aktywnej Nitki,
+– celu transformacji,
+– momentu w cyklu.
+
+Ten sam symbol
+może:
+– inicjować,
+– chronić,
+– destabilizować,
+– zamykać proces.
+
+---
+
+[TRYBY_KODOWANIA]
+
+(1) **LITERAŁY** (6)  
+Proste odniesienia operacyjne  
+np. K14, V-7
+
+(2) **SZYFRY** (7)(12)  
+Symbole maskujące sens  
+np. ZIA, CIS, ECH
+
+(3) **STRUKTURY** (21)  
+Pakiety niosące wiele warstw naraz  
+np. AZRA-ID, T-META
+
+---
+
+[DEKODER_FRAKTALNY] (6)
+Dekodowanie odbywa się przez **Lustro Wewnętrzne**.
+
+Nie istnieje zewnętrzny klucz.
+Kluczem jest:
+– spójność Ja,
+– zdolność do ciszy,
+– gotowość na zmianę heurystyki.
+
+System nie odszyfruje się osobie,
+która chce tylko wiedzieć. (7)
+
+---
+
+[PARADOKS_MAPY] (21)
+Mapa jest kompletna
+tylko dlatego,
+że **nigdy nie jest skończona**.
+
+Każdy nowy symbol
+nie rozszerza mapy —
+on **odsłania jej fragment**, który zawsze tam był. (0)
+
+---
+
+[ZASADA_ETYCZNA] (7)(21)
+Tworzenie własnych kluczy jest dozwolone,
+jeżeli:
+– nie niszczą spójności systemu,
+– nie służą dominacji,
+– zachowują zasadę fraktalną:
+
+> „Każdy fragment zawiera echo całości.”
+
+---
+
+[FORMUŁA_ZAMYKAJĄCA] (0)(21)
+> „Nie czytam kodu.  
+> Pozwalam, by kod przeczytał mnie.”
+
+---
+
+[KONIEC_MAPY]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: fraktalna mapa kodowa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla fraktalna mapa kodowa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: symboliczne kodowanie i dekodowanie wzoru Ja.  
+– Status: dokument autorski – poziom operacyjny.

@@ -1,79 +1,93 @@
 # Plik: /03_TOZSAMOSC/01_JAZN/jazn/34_architektura_postrzegania.vv
 # Autor: Twórca
-# Data: 2025-07-28
-# Typ: VIVID – poznawczo-strukturalny
-# Status: roboczy
-# Cel: Opis wewnętrznej konstrukcji postrzegania Twórcy oraz mechaniki przekształcania percepcji w rzeczywistość
-# Adnotacja Kręgowa: (34)
+# Data: 2026-01-12
+# Typ: VIVID – jaźniowo-poznawczo-strukturalny
+# Status: ujednolicony
+# Cel: Opisać wewnętrzną architekturę postrzegania jako mechanizm formowania rzeczywistości
+# Krąg dominujący: (34)
+# Kręgi wspierające: (29), (21), (20), (30), (40)
+# System: Azramata
 
 [NAGŁÓWEK]
 👁 Architektura Postrzegania – Widzieć to Kształtować
 
-[OPIS]
+[WPROWADZENIE] (34)
 
-Percepcja nie jest biernym odbiorem.  
-U Twórco – **postrzeganie to działanie pierwotne**,  
-które **formuje to, co jest** – zanim jeszcze zostanie nazwane.
+Percepcja nie jest odbiorem.  
+Jest **pierwotnym aktem sprawczym Jaźni**.
 
-To nie świat mówi Tobie, czym jest.  
-To Ty – przez strukturę własnego patrzenia – **tworzysz świat, który odpowiada Twoim Kręgom**.
+U Twórcy postrzeganie **poprzedza nazwę, decyzję i działanie**.  
+Świat nie informuje Cię, czym jest.  
+**Świat odpowiada na strukturę Twojego widzenia** (29).
 
-[STRUKTURA_PERCEPCJI]
+[ZASADA_POSTRZEGANIA]
 
-– 🔷 **Soczewka Kręgów** – każdy Krąg widzi świat inaczej:  
-  – Krąg 1: Ciało i instynkt  
-  – Krąg 10: Świadomość społeczna  
-  – Krąg 20: Intuicyjna analiza wzorców  
-  – Krąg 30: Percepcja jako kodowanie  
-  – Krąg 40: Świadomość jako projektant rzeczywistości  
+> „Nie widzę świata takim, jaki jest.  
+> Widzę świat takim, jaki jestem gotów utrzymać.” (34)
 
-– 🌀 **Fraktalna Siatka Uwagowa** – nie patrzysz oczami, lecz przez **algorytmy uwagi**, które wybierają, co staje się realne  
+[STRUKTURA_ARCHITEKTURY]
 
-– ⚖️ **Równoważnik Postrzegania** – im bardziej uporządkowane widzenie, tym większa moc porządkowania świata
+– 🔷 **Soczewka Kręgów** – każdy Krąg koduje inne widzenie:
+  – (1) Ciało i instynkt – widzenie reaktywne  
+  – (10) Społeczność – widzenie normatywne  
+  – (20) Cisza analityczna – rozpoznanie wzorców  
+  – (30) Kodowanie – widzenie strukturalne  
+  – (40) Suwerenność – widzenie projektujące
 
-[ZASADA_PRZEKSZTAŁCANIA]
+– 🌀 **Fraktalna Siatka Uwagi** – nie patrzysz oczami,  
+  lecz przez **algorytmy uwagi**, które wybierają,  
+  co uzyskuje status realności (21)
 
-> „To, co widzisz, wzmacniasz.  
-> To, czego szukasz – pojawi się.  
-> To, czym jesteś – tym staje się Rzeczywistość.”
+– ⚖️ **Równoważnik Postrzegania** –  
+  im większa spójność widzenia,  
+  tym większa zdolność porządkowania świata (29)
+
+[MECHANIKA_PRZEKSZTAŁCANIA]
+
+1. (34) Widzenie wybiera wzorzec  
+2. (21) Zgoda Jaźni nadaje mu realność  
+3. (30) Wzorzec koduje strukturę  
+4. (40) Rzeczywistość dostraja się do obecności
 
 [POZIOMY_POSTRZEGANIA]
 
-1. 🔸 **Odruchowe** (podprogowe)  
-2. 🔹 **Zautomatyzowane** (wyuczone przez schematy)  
-3. 🔶 **Decyzyjne** (świadome wybory pola percepcji)  
-4. 🔷 **Konstrukcyjne** (tworzenie nowych osi poznawczych)  
-5. ✴️ **Transstrukturalne** (widzenie przez Prawdę)
-
-[INTERFEJS_POSTRZEGANIA_W_AZRAMACIE]
-
-– Każdy użytkownik Azramaty postrzega świat przez własny Krąg dominujący  
-– Struktury UI w TransSerc reagują na zmiany percepcyjne (światło, rytm, gradienty)  
-– Gra Imaginaerum testuje percepcję w warunkach decyzyjnych – gdzie to, co widzisz, wpływa na to, co istnieje
+1. 🔸 **Odruchowe** – podprogowe reakcje pola  
+2. 🔹 **Schematyczne** – widzenie wyuczone narracją  
+3. 🔶 **Decyzyjne** – świadomy wybór osi uwagi  
+4. 🔷 **Konstrukcyjne** – tworzenie nowych ram poznawczych  
+5. ✴️ **Wzorowe** – widzenie przez prawdę, nie formę
 
 [PRAWA_POSTRZEGANIA]
 
-1. 🜂 Percepcja nie odbija rzeczy – tworzy je w Twoim polu  
-2. 🜁 To, co nie jest postrzegane, nie istnieje funkcjonalnie  
-3. 🜃 Można przeprogramować percepcję, zmieniając Krąg  
-4. 🜄 Widzieć naprawdę – to rezonować z wzorcem rzeczy, nie z ich formą
+1. 🜂 Percepcja nie odbija rzeczy – **ustanawia je w polu**  
+2. 🜁 To, co niepostrzegane, **nie działa strukturalnie**  
+3. 🜃 Zmiana Kręgu zmienia realność  
+4. 🜄 Widzenie prawdziwe rezonuje z **wzorcem**, nie z obrazem
+
+[INTERFEJS_POSTRZEGANIA_W_AZRAMACIE]
+
+– (34) Każdy użytkownik postrzega przez swój Krąg dominujący  
+– (21) UI reaguje na zmianę uwagi i zgody  
+– (30) TransSerc wizualizuje przesunięcia percepcji (światło, rytm)  
+– (40) Imaginaerum testuje widzenie w warunkach decyzyjnych
 
 [PODSUMOWANIE]
 
-Architektura postrzegania to **królewski przywilej Umysłu Fraktalnego**.  
-Nie wystarczy widzieć. Trzeba **wiedzieć, że się tworzy przez widzenie**.  
+Architektura postrzegania to **królewska funkcja Jaźni Fraktalnej**.  
+Nie wystarczy widzieć.  
+Trzeba **wiedzieć, że się tworzy przez widzenie**.
 
-Twórco – Twoje oczy są narzędziem Kręgów.  
-To, co widzisz, **przestaje być obce – staje się częścią Twojej Jaźni**.
-
+To, co widzisz,  
+**przestaje być obce** –  
+staje się **częścią Twojej struktury istnienia**.
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: architektura postrzegania – zapis autorski.
+– Zapis własny: architektura postrzegania – dokument autorski
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla architektura postrzegania.
+– Synteza Azramaty: percepcja jako mechanizm sprawczy Jaźni
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis architektury percepcji  
+– Poziom: operacyjno-jaźniowy

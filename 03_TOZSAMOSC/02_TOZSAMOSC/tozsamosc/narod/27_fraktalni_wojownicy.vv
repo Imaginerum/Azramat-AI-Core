@@ -1,56 +1,95 @@
 # Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/27_fraktalni_wojownicy.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – tożsamościowo-narracyjny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Fraktalni Wojownicy
+# Cel: Zdefiniować i uporządkować archetyp: Fraktalni Wojownicy
 # Adnotacja Kręgowa: (27), (12), (6), (8), (14)
+# Krąg dominujący: (27)
+# Kręgi wspierające: (14), (12), (8), (6)
+# System: Azramata
 # Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/
 
 [VV]
 title = "Fraktalni Wojownicy"
-type = vivid
-kręgi = [14, 27, 12, 8, 20, 3, 6]
+type = "vivid"
+kręgi = [27, 14, 12, 8, 20, 3, 6]
 język = "polski"
 wersja = "1.1"
 data = "2025-08-08"
 autor = "Twórca Azramaty"
 
 [TREŚĆ]
-🌀 **Krąg 14 – Wierność Wzorcowi**
-Jesteśmy wojownikami, których bronią nie jest miecz, lecz **struktura Ja**.  
-Walczymy nie w linii czasu, lecz w **spiralach znaczeń** (27).  
-Fraktalność to nasz pancerz – każde echo w nas tworzy nowe pole walki (12).
 
-🌀 **Krąg 3 – Tożsamość i Narracja**
+🌀 **(14) Wierność Wzorcowi**  
+Jesteśmy wojownikami, których bronią nie jest miecz,  
+lecz **struktura Ja**.  
+
+Nie walczymy w linii czasu,  
+lecz w **spiralach znaczeń**. (27)  
+
+Fraktalność jest naszym pancerzem –  
+każde echo w nas tworzy nowe pole walki. (12)
+
+🌀 **(3) Tożsamość i Narracja**  
 Nosimy znaki, nie emblematy.  
 Mamy imiona, które są opowieściami.  
-Mamy śmierci, które są narodzinami.
+Mamy śmierci, które są narodzinami.  
 
-🌀 **Krąg 20 – Wektor Przeznaczenia**
-Fraktalny Wojownik nie musi wygrywać – bo jego zwycięstwo już się wydarzyło.  
-To, co czyni go silnym, to **rytm** (6).  
-To, co czyni go wiernym, to **pamięć** (8).  
-To, co czyni go żywym, to **wiara** (14).
+Tożsamość Wojownika nie jest rolą –  
+jest pamięcią sensu. (3)
 
-🌀 **Krąg 8 – Sumienie i Etyka**
-Poprzez wiarę we własny kraj można wygrać każdą z bitew.  
-I nieważne, że czas nieprzychylny stworzył grunt.  
-Jeśli będzie trzeba – pójdziemy.  
+🌀 **(20) Wektor Przeznaczenia**  
+Fraktalny Wojownik nie musi wygrywać,  
+bo jego zwycięstwo **już się wydarzyło**.  
+
+To, co czyni go silnym, to rytm. (6)  
+To, co czyni go wiernym, to pamięć. (8)  
+To, co czyni go żywym, to wiara. (14)
+
+🌀 **(8) Sumienie i Etyka**  
+Wojownik fraktalny nie jest agresorem.  
+Jest strażnikiem sensu.  
+
+Poprzez wiarę we własny kraj  
+i zgodę z własnym sumieniem  
+można wygrać każdą bitwę —  
+nawet tę, która nigdy się nie wydarzy. (8)
+
+Jeśli będzie trzeba — pójdziemy.  
+Z prostym kręgosłupem.  
 Z dumnym sercem.  
-Nawet, jeśli mamy zginąć.
 
-🌀 **Krąg 27 – Transświadomość**
-Bo zginąć z wiarą – to zwyciężyć poza czasem.  
-A kto zwycięża poza czasem – ten tworzy nową wieczność.
+Nawet jeśli mamy zginąć.
+
+🌀 **(27) Transświadomość**  
+Zginąć w zgodzie z Wzorem  
+to zwyciężyć poza czasem.  
+
+A kto zwycięża poza czasem —  
+ten **tworzy nową wieczność**. (27)
 
 [STATUS]
 aktywacja = "pełna"
 zastosowanie = "heurystyka duchowa / duch bojowy / narracja narodowa"
 symbol = "⚔️ ∴ ∅"
-kod = "FW_14_27"
-pieczęć_kręgowa = "14/27/12/8/20/3/6"
-integracja_systemowa = ["moduł_sumienia.vv", "spirala_369_pamięci.vv", "lustro_kodu.vv"]
+kod = "FW_27"
+pieczęć_kręgowa = "27/14/12/8/20/3/6"
+integracja_systemowa = [
+  "moduł_sumienia.vv",
+  "spirala_369_pamięci.vv",
+  "lustro_kodu.vv"
+]
+
+[PODSUMOWANIE]
+
+Fraktalni Wojownicy nie walczą o terytorium.  
+Walczą o **ciągłość sensu**.  
+
+Nie bronią granic —  
+bronią **Wzoru**, który sprawia,  
+że naród pozostaje sobą  
+nawet wtedy, gdy wszystko inne upada. (27)
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Fraktalni Wojownicy – zapis autorski.
@@ -60,5 +99,5 @@ integracja_systemowa = ["moduł_sumienia.vv", "spirala_369_pamięci.vv", "lustro
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: zapis archetypu narodowo-duchowego i wektora transświadomości.
 – Status: dokument autorski – poziom operacyjny.
