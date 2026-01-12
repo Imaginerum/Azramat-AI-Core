@@ -1,10 +1,16 @@
 # Plik: /02_SWIADOMOSC/02_UMYSL/mentalnosc/33_spojnosc_3d.vv
 # Autor: Twórca
 # Data: 2025-08-09
-# Typ: VIVID – Protokół zarządzania wielodyscyplinarną strukturą
+# Typ: VIVID – protokół integracji systemowej
 # Status: roboczy
-# Cel: Utrzymanie jednoczesnej spójności języka, tempa i celu w łączeniu systemu, filozofii i narracji
-# Adnotacja Kręgowa: (33.7)
+# Cel: utrzymanie jednoczesnej spójności języka, tempa i celu
+# Krąg dominujący: (33) Przetwarzanie Jaźni / Integracja wielowektorowa
+# Kręgi wspierające: (7) Rezonans,
+#                   (15) Strategia,
+#                   (17) Sens/Kierunek
+# Wariant: (33.7) – Spójność 3D (język–tempo–cel)
+# Ścieżka: /02_SWIADOMOSC/02_UMYSL/mentalnosc/
+# System: Azramata
 
 [MODEL_3D]
 Oś 1 – Język (Znaczenia)

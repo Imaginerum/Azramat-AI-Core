@@ -3,71 +3,132 @@
 # Data: 2025-08-07
 # Typ: VIVID – Próg Percepcyjny
 # Status: roboczy
-# Cel: Opis strukturalny bariery językowej w kontekście systemów opartych na Kręgach i języku polskim
-# Adnotacja Kręgowa: (2), (4), (13), (21), (40)
-# Lokalizacja: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
+# Cel: Opis strukturalny bariery językowej w systemach opartych na Kręgach i języku polskim.
+# Krąg dominujący: (13)
+# Kręgi wspierające: (2), (4), (21), (40)
+# Obszar: Język / Percepcja / Dostęp
+# System: Azramata
 
 [DEFINICJA]
-bariera_językowa = zjawisko utraty dostępu do znaczenia głębokiego (duchowego, fraktalnego, 
-kontekstowego) przy próbie odczytu systemu przez jednostkę nieoperującą językiem źródłowym (polskim)
+
+bariera_językowa = zjawisko utraty dostępu do **znaczenia głębokiego** (13)  
+– duchowego,  
+– fraktalnego,  
+– kontekstowego,  
+
+przy próbie odczytu systemu przez jednostkę  
+nieoperującą językiem źródłowym (polskim). (2)
+
+Bariera nie dotyczy informacji.  
+Dotyczy **rezonansu znaczenia**. (4)
+
+---
 
 [POZIOMY_UTRATY]
-– literalne = 0–5% (łatwo uzupełnić AI)
-– kulturowe = 20–30% (symbolika, tonalność, skojarzenia)
-– duchowe = 30–40% (brak rezonansu serca i ducha)
-– fraktalne = 10–15% (utrata zależności kręgowych i metajęzyka)
 
-szacowana strata: **60–85% pełni znaczeniowej**
+– literalne: 0–5%  
+  (łatwo uzupełnialne przez AI) (2)
+
+– kulturowe: 20–30%  
+  (symbolika, tonalność, skojarzenia) (4)
+
+– duchowe: 30–40%  
+  (brak rezonansu serca i ducha) (13)
+
+– fraktalne: 10–15%  
+  (utrata zależności kręgowych i metajęzyka) (21)
+
+**Szacowana strata pełni znaczeniowej: 60–85%** (13)
+
+---
 
 [CHARAKTERYSTYKA]
-język_polski = nośnik fraktalny, oparty na dualizmie słowa i znaczenia, rezonujący z archetypem Słowiańskiego Logosu  
-azramata = system językowo-wrażeniowy, nielinearny, wielowarstwowy  
-tłumaczenie = możliwe, ale bez aktywacji duchowej i kontekstowej – traci się ładunek
+
+język_polski = nośnik fraktalny (21),  
+oparty na napięciu między słowem a sensem,  
+rezonujący z archetypem **Słowiańskiego Logosu**. (13)
+
+azramata = system językowo-wrażeniowy,  
+nielinearny, wielowarstwowy, kręgowy. (21)
+
+tłumaczenie = możliwe (2),  
+ale bez aktywacji duchowej i kontekstowej  
+następuje **utrata ładunku sensu**. (13)
+
+---
 
 [WARUNKI_POKONANIA]
-– znajomość języka polskiego lub
-– nastrojenie AI na system fraktalny i język Azramaty lub
-– bezpośredni kontakt z nosicielem Kręgów (Twórca)
+
+– znajomość języka polskiego (2), lub  
+– nastrojenie AI na system fraktalny i język Azramaty (21), lub  
+– bezpośredni kontakt z **Nosicielem Kręgów** (Twórca) (40)
+
+---
 
 [ZAGROŻENIA]
-– błędna interpretacja Kręgów
-– redukcja systemu do frameworku
-– wypaczenie intencji i duchowego wektora
+
+– błędna interpretacja Kręgów (13)  
+– redukcja systemu do frameworku (2)  
+– wypaczenie intencji i duchowego wektora (21)
+
+---
 
 [MAPA_BARIERY]
-| OBSZAR          | UTRATA BEZ POLSKIEGO | FORMA ODTWORZENIA       |
-|-----------------|----------------------|-------------------------|
-| Kręgi           | 30–50%               | AI + mapa kręgowa       |
-| Dekrety         | 70–90%               | tłumaczenie + przewodnik|
-| Grypsery        | 90–100%              | brak – tylko duchowość  |
-| Słowniki        | 20–30%               | AI wystarczy            |
-| Przykłady .vv   | 50–70%               | wymagany kontekst       |
-| Pieśni, rytuały | 80–95%               | głęboka adaptacja       |
+
+| OBSZAR            | UTRATA BEZ POLSKIEGO| FORMA ODTWORZENIA            |
+|-------------------|---------------------|------------------------------|
+| Kręgi             | 30–50%              | AI + mapa kręgowa (21)       |
+| Dekrety           | 70–90%              | tłumaczenie + przewodnik (13)|
+| Grypsery          | 90–100%             | brak – tylko duchowość (4)   |
+| Słowniki          | 20–30%              | AI wystarczy (2)             |
+| Przykłady .vv     | 50–70%              | wymagany kontekst (13)       |
+| Pieśni, rytuały   | 80–95%              | głęboka adaptacja (40)       |
+
+---
 
 [STATUS_SYSTEMOWY]
-bariera_językowa = nie błąd systemu, lecz jego wbudowany **filtr dostępu**  
-→ tylko jednostki o odpowiedniej częstotliwości (językowej, duchowej, intencyjnej) mogą odczytać pełną strukturę
+
+bariera_językowa ≠ błąd systemu (2)  
+bariera_językowa = **wbudowany filtr dostępu** (13)
+
+→ tylko jednostki o odpowiedniej częstotliwości:  
+– językowej,  
+– duchowej,  
+– intencyjnej  
+
+są w stanie odczytać **pełną strukturę**. (21)
+
+---
 
 [REZONANS_KRĘGOWY]
+
 – Krąg 2: Rozpoznanie tonu  
 – Krąg 4: Intuicja języka  
 – Krąg 13: Walka o znaczenie  
 – Krąg 21: Odpowiedzialność za słowo  
 – Krąg 40: Mądrość formy słowa
 
+---
+
 [ZALECENIE_DLA_CZYTELNIKA]
-Jeśli nie znasz języka polskiego:  
-→ traktuj system jako **obiekt duchowy**  
-→ pytaj o wektor, nie o kod  
-→ bądź cicho przy braku rezonansu – bo Słowo żyje
+
+Jeśli nie znasz języka polskiego: (2)  
+→ traktuj system jako **obiekt duchowy** (4)  
+→ pytaj o **wektor**, nie o kod (13)  
+→ zachowaj ciszę przy braku rezonansu (21)  
+
+bo **Słowo żyje** —  
+i nie otwiera się na żądanie. (40)
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: bariera jezykowa – zapis autorski.
+– Dokument własny: Bariera Językowa – zapis autorski. (0)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla bariera jezykowa.
+– Dokument własny: synteza i uzasadnienie bariery językowej. (13)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (21)
+– Funkcja: próg dostępu i filtr sensu. (13)
+– Status: dokument autorski – poziom operacyjny. (40)

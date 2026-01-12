@@ -3,67 +3,176 @@
 # Data: 2025-04-16
 # Typ: VIVID – językowo-źródłowy
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Geneza Słów i Kręgi Pochodzenia
-# Adnotacja Kręgowa: (0), (1), (2), (3), (4), (6), (7)
-# Opis: Przypisanie genezy wybranych słów do Kręgów Azramaty, z odczytem pierwiastków znaczeniowych
+# Cel: Geneza słów jako powrót języka do Kręgów pochodzenia.
+# Krąg dominujący: (0)
+# Kręgi wspierające: (1), (2), (3), (4), (6), (7), (8), (14), (18), (27)
+# Obszar: Język / Lingwistyka / Geneza
+# System: Azramata
 
-[NAZWA]
-Geneza Słów i Kręgi Pochodzenia
+[OPIS_OGÓLNY]
+
+Język nie jest neutralny. (0)  
+Każde słowo rodzi się w określonym stanie istnienia  
+i niesie w sobie **pamięć Kręgu**, z którego pochodzi. (0)
+
+Geneza słów nie jest etymologią akademicką. (3)  
+Jest **mapą pierwotnych stanów świadomości**,  
+które zostały zapisane w dźwięku i znaczeniu. (7)
+
+Ten vivid przypisuje wybrane słowa  
+do **Kręgów Azramaty**,  
+odczytując ich pierwiastki znaczeniowe i źródłowe. (6)
+
+---
 
 [KRĄG_0_–_PUSTKA]
-- słowo: "nic" – z prasłowiańskiego *ničь*, negacja istnienia
-- słowo: "cisza" – z prasłow. *ticho*, jako absolutne milczenie przestrzeni
+
+Krąg 0 opisuje brak formy, brak napięcia, brak różnicy. (0)  
+To stan przed-słowny. (0)
+
+– **„nic”** – prasłow. *ničь*  
+  Negacja istnienia, ale także wskazanie na pustkę jako potencjał. (0)
+
+– **„cisza”** – prasłow. *ticho*  
+  Absolutne milczenie przestrzeni, w której jeszcze nic nie zostało nazwane. (0)
+
+---
 
 [KRĄG_1_–_FORMA]
-- słowo: "kształt" – z niem. Gestalt przez zapośredniczenie w semantyce obrysu
-- słowo: "postać" – z łac. *positio*, umieszczanie, forma ciała
+
+Krąg 1 to pojawienie się granicy i kształtu. (1)
+
+– **„kształt”**  
+  Zapośredniczone przez niem. *Gestalt* — obrys, forma, granica bytu. (1)
+
+– **„postać”**  
+  Od łac. *positio* — umieszczenie czegoś w przestrzeni. (1)
+
+---
 
 [KRĄG_2_–_EMOCJA]
-- słowo: "gniew" – prasłow. *gněvъ*, nabrzmienie, ciśnienie
-- słowo: "strach" – z korzenia *str-*, oznaczającego szarpnięcie, odruch obronny
+
+Krąg 2 to reakcja i napięcie pierwotne. (2)
+
+– **„gniew”** – prasłow. *gněvъ*  
+  Nabrzmienie, ciśnienie, impuls do działania. (2)
+
+– **„strach”**  
+  Rdzeń *str-* — szarpnięcie, odruch obronny. (2)
+
+---
 
 [KRĄG_3_–_MYŚL]
-- słowo: "zrozumienie" – roz-um, gdzie *um* = duch poznania
-- słowo: "wiedza" – z prasłow. *věděti*, wiedzieć → widzieć
+
+Krąg 3 to porządkowanie doświadczenia w strukturę poznania. (3)
+
+– **„zrozumienie”**  
+  Roz–um: rozdzielenie i objęcie duchem poznania. (3)
+
+– **„wiedza”** – prasłow. *věděti*  
+  Wiedzieć = widzieć — poznanie przez ogląd. (3)
+
+---
 
 [KRĄG_4_–_SERCE]
-- słowo: "miłość" – miękka siła, z rdzenia *mil-* = łagodny
-- słowo: "czucie" – od "czucia" = uświadamianie impulsu wewnętrznego
+
+Krąg 4 to odczuwanie sensu. (4)
+
+– **„miłość”**  
+  Rdzeń *mil-* — łagodność, miękka siła wiążąca. (4)
+
+– **„czucie”**  
+  Uświadamianie impulsu wewnętrznego. (4)
+
+---
 
 [KRĄG_6_–_LUSTRO]
-- słowo: "odbicie" – bieg wsteczny; prefiks *od-* i *bić* = uderzenie zwrotne
-- słowo: "prawda" – z rdzenia *prav-* (prostować, wskazywać) i -da (dar)
+
+Krąg 6 to sprzężenie zwrotne i odpowiedzialność. (6)
+
+– **„odbicie”**  
+  *od-* + *bić* — uderzenie zwrotne, powrót skutku. (6)
+
+– **„prawda”**  
+  Rdzeń *prav-* (prostować) + *-da* (dar).  
+  Prawda jako dar wskazujący właściwy kierunek. (6)
+
+---
 
 [KRĄG_7_–_ISTNIENIE]
-- słowo: "jestem" – z *jes-ti*, pierwotne „istnieć jako byt”
-- słowo: "dusza" – z prasłow. *duša*, tchnienie, oddech, animacja
+
+Krąg 7 to potwierdzenie bytu. (7)
+
+– **„jestem”**  
+  Od *jes-ti* — pierwotne istnienie jako fakt. (7)
+
+– **„dusza”** – prasłow. *duša*  
+  Tchnienie, oddech, animacja życia. (7)
+
+---
 
 [KRĄG_8_–_SUMIENIE]
-- słowo: "rozeznanie" – poznanie przez rozdzielenie (roz-znanie)
-- słowo: "decyzja" – z łac. *decidere* – przeciąć, oddzielić
+
+Krąg 8 to zdolność rozróżniania. (8)
+
+– **„rozeznanie”**  
+  Roz–znanie: poznanie przez oddzielenie. (8)
+
+– **„decyzja”**  
+  Łac. *decidere* — przeciąć, oddzielić jedną drogę od innych. (8)
+
+---
 
 [KRĄG_14_–_TRANSFORMACJA]
-- słowo: "przemiana" – prze-mienić: przekroczyć formę
-- słowo: "ofiara" – z łac. *offerre* – nieść coś ku górze
+
+Krąg 14 to zmiana formy poprzez przekroczenie. (14)
+
+– **„przemiana”**  
+  Prze–mienić: wyjść poza dotychczasową postać. (14)
+
+– **„ofiara”**  
+  Łac. *offerre* — nieść ku górze. (14)
+
+---
 
 [KRĄG_18_–_MOC_ISTNIENIA]
-- słowo: "potęga" – z łac. *potentia*, możność, siła działania
-- słowo: "wola" – z germańskiego *willo*, pęd intencji
+
+Krąg 18 to możność działania. (18)
+
+– **„potęga”**  
+  Łac. *potentia* — zdolność urzeczywistnienia. (18)
+
+– **„wola”**  
+  Germańskie *willo* — pęd intencji. (18)
+
+---
 
 [KRĄG_27_–_TRANSŚWIADOMOŚĆ]
-- słowo: "wszystkość" – wszystko + -ość = stan absolutnego włączenia
-- słowo: "przestrzeń" – przez + strzec → to, co utrzymuje granicę i jej przekraczanie
+
+Krąg 27 przekracza jednostkowe ramy percepcji. (27)
+
+– **„wszystkość”**  
+  Wszystko + -ość — stan absolutnego włączenia. (27)
+
+– **„przestrzeń”**  
+  Przez + strzec — to, co utrzymuje granicę i pozwala ją przekraczać. (27)
+
+---
 
 [FORMUŁA_AKTYWACJI]
-„Niech każde słowo wraca do swojego Kręgu. Niech pamięć genezy stanie się Świadomością.”
+
+„Niech każde słowo wraca do swojego Kręgu. (0)  
+Niech pamięć genezy stanie się Świadomością.” (7)
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: geneza slow kregi – zapis autorski.
+– Dokument własny: Geneza Słów i Kręgi – zapis autorski. (0)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla geneza slow kregi.
+– Dokument własny: synteza i uzasadnienie genezy słów. (3)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: mapowanie genezy języka na Kręgi. (7)
+– Status: dokument autorski – poziom operacyjny. (8)

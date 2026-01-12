@@ -1,66 +1,140 @@
 # Plik: /02_SWIADOMOSC/04_JEZYK/lingwistyka/00_mapa_pochodzenia_slow.vv
 # Autor: Twórca
 # Data: 2025-07-28
-# Typ: VIVID – poznawczy – Mapa Językowa Kręgów
+# Typ: VIVID – poznawczy / mapa językowa Kręgów
 # Status: roboczy
-# Cel: Przypisać wybrane słowa do ich źródłowych Kręgów Świadomości
-# Adnotacja Kręgowa: (0), (1), (2), (3), (4), (5), (6)
-# Ścieżka: /02_SWIADOMOSC/04_JEZYK/lingwistyka/
+# Cel: Przypisać słowa do ich źródłowych Kręgów Świadomości.
+# Krąg dominujący: (0)
+# Kręgi wspierające: (1), (2), (3), (4), (5), (6), (7), (8), (9), (10),
+#                    (20), (30), (33), (34), (37), (40), (44)
+# Obszar: Język / Lingwistyka / Nawigacja
+# System: Azramata
+
+[OPIS]
+
+Słowa nie są neutralne. (0)  
+Każde słowo niesie **wysokość**,  
+czyli punkt odniesienia w strukturze świadomości. (0)
+
+Używając słów,  
+nie tylko opisujesz świat —  
+**uruchamiasz konkretne Kręgi**. (6)
+
+Ten vivid jest mapą orientacyjną:  
+język = nawigacja, (7)  
+słowo = wektor, (6)  
+Krąg = wybór. (8)
+
+---
 
 [MAPA_SŁÓW_–_PRZYKŁADOWE_PRZYPISANIA]
 
-Krąg 0 – „mmm”, „aha”, „oddech”, „cisza”, „nic”  
-Krąg 1 – „ciało”, „dotyk”, „ziemia”, „głód”  
-Krąg 2 – „ogień”, „walka”, „przetrwać”, „instynkt”  
-Krąg 3 – „chcę”, „wolność”, „moc”, „wola”  
-Krąg 4 – „dom”, „bezpieczeństwo”, „mama”, „zawsze”  
-Krąg 5 – „poznaj”, „uczę się”, „światło”, „słowo”  
-Krąg 6 – „harmonia”, „zestrojenie”, „dźwięk”, „fala”  
-Krąg 7 – „świadomość”, „prawda”, „jestem”, „jaźń”  
-Krąg 8 – „drzewo”, „serce”, „miłość”, „korzeń”  
-Krąg 9 – „brama”, „rytuał”, „przejście”, „krąg”  
-Krąg 10 – „cień”, „pułapka”, „pętla”, „odzyskaj”
+**Krąg 0 – Pustka / Przed-język** (0)  
+– „mmm”, „aha”, „oddech”, „cisza”, „nic” (0)
 
-Krąg 20 – „sumienie”, „blask”, „rozeznaj”, „wybierz”  
-Krąg 30 – „architektura”, „algorytm”, „konstrukcja”, „praświat”  
-Krąg 33 – „symbol”, „ikon”, „echo”, „świadectwo”  
-Krąg 34 – „wizja”, „proroctwo”, „zbieżność”, „obraz”  
-Krąg 37 – „światło”, „dekret”, „tworzenie”, „pamięć głęboka”  
-Krąg 40 – „przebaczenie”, „ogień prawdy”, „prawo”, „ofiarowanie”  
-Krąg 44 – „pieczęć”, „objawienie”, „królestwo”, „wypełnienie”
+**Krąg 1 – Ciało / Materia** (1)  
+– „ciało”, „dotyk”, „ziemia”, „głód” (1)
+
+**Krąg 2 – Instynkt / Przetrwanie** (2)  
+– „ogień”, „walka”, „przetrwać”, „instynkt” (2)
+
+**Krąg 3 – Wola / Impuls Ja** (3)  
+– „chcę”, „wolność”, „moc”, „wola” (3)
+
+**Krąg 4 – Bezpieczeństwo / Serce** (4)  
+– „dom”, „bezpieczeństwo”, „mama”, „zawsze” (4)
+
+**Krąg 5 – Poznanie / Światło** (5)  
+– „poznaj”, „uczę się”, „światło”, „słowo” (5)
+
+**Krąg 6 – Harmonia / Rezonans** (6)  
+– „harmonia”, „zestrojenie”, „dźwięk”, „fala” (6)
+
+**Krąg 7 – Istnienie / Tożsamość** (7)  
+– „świadomość”, „prawda”, „jestem”, „jaźń” (7)
+
+**Krąg 8 – Korzeń / Sumienie** (8)  
+– „drzewo”, „serce”, „miłość”, „korzeń” (8)
+
+**Krąg 9 – Próg / Rytuał** (9)  
+– „brama”, „rytuał”, „przejście”, „krąg” (9)
+
+**Krąg 10 – Cień / Pętla** (10)  
+– „cień”, „pułapka”, „pętla”, „odzyskaj” (10)
+
+---
+
+**Krąg 20 – Rozeznanie / Wybór** (20)  
+– „sumienie”, „blask”, „rozeznaj”, „wybierz” (20)
+
+**Krąg 30 – Architektura Bytu** (30)  
+– „architektura”, „algorytm”, „konstrukcja”, „praświat” (30)
+
+**Krąg 33 – Symbol / Świadectwo** (33)  
+– „symbol”, „ikon”, „echo”, „świadectwo” (33)
+
+**Krąg 34 – Wizja / Widzenie** (34)  
+– „wizja”, „proroctwo”, „zbieżność”, „obraz” (34)
+
+**Krąg 37 – Dekret / Pamięć Głęboka** (37)  
+– „światło”, „dekret”, „tworzenie”, „pamięć głęboka” (37)
+
+**Krąg 40 – Prawo / Ofiarowanie** (40)  
+– „przebaczenie”, „ogień prawdy”, „prawo”, „ofiarowanie” (40)
+
+**Krąg 44 – Pieczęć / Wypełnienie** (44)  
+– „pieczęć”, „objawienie”, „królestwo”, „wypełnienie” (44)
+
+---
 
 [ZASTOSOWANIE]
 
-– Słowa mają wysokość.  
-– Wybierając je, sięgasz do konkretnych pasm świadomości.  
-– Używaj ich świadomie, by dostrajać swoje życie do wybranych Kręgów.
+– Słowa mają wysokość. (6)  
+– Wybierając je, sięgasz do konkretnych pasm świadomości. (7)  
+– Język **dostraja życie**, nie tylko je opisuje. (8)
+
+Używaj słów świadomie,  
+jeśli chcesz poruszać się między Kręgami  
+bez chaosu i przypadkowości. (20)
+
+---
 
 [ĆWICZENIE]
 
-Weź 5 najczęstszych słów z Twoich ostatnich rozmów.  
-Spróbuj przypisać je do Kręgów.  
-Zobacz, który poziom w Tobie dominuje.  
-Czy to Kręgi dolne – czy już operujesz z wyższych?
+Weź **5 najczęściej używanych słów** z ostatnich rozmów. (3)  
+Przypisz je do Kręgów. (6)  
+Zobacz, który poziom w Tobie dominuje. (7)
+
+– Czy operujesz z Kręgów dolnych? (2)  
+– Czy już z wyższych? (30)  
+– Czy świadomie wybierasz? (20)
+
+---
 
 [AFIRMACJA]
 
-„Wypowiadam słowa, które są Bramą.  
-Wchodzę przez język do Kręgu, który wybieram.”
+„Wypowiadam słowa, które są Bramą. (9)  
+Wchodzę przez język do Kręgu, który wybieram.” (8)
+
+---
 
 [STATUS]
-język = nawigacja
-słowo = mapa
-Krąg = wybór
 
-Koniec
+język = nawigacja (6)  
+słowo = mapa (7)  
+Krąg = wybór (20)
+
+[KONIEC]
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Mapa Pochodzenia Slow – zapis autorski.
+– Dokument własny: Mapa Pochodzenia Słów – zapis autorski. (0)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Mapa Pochodzenia Slow.
+– Dokument własny: synteza i uzasadnienie mapy językowej. (3)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: mapowanie słów na Kręgi Świadomości. (7)
+– Status: dokument autorski – poziom operacyjny. (8)

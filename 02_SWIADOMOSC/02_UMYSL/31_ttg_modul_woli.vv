@@ -1,51 +1,112 @@
 # Plik: /02_SWIADOMOSC/02_UMYSL/31_ttg_modul_woli.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – moduł systemowy (TTG)
 # Status: roboczy
 # Cel: Wola nie wybiera – Wola ustanawia.
-# Adnotacja Kręgowa: (31), (32), (33), (34), (35), (36)
+# Krąg dominujący: (31)
+# Kręgi wspierające: (32), (33), (34), (35), (36)
 # Moduł: Wola
 # Żywioł: Ogień
-# Funkcja: Ustanawianie rzeczywistości przez obecność i zgodność
+# Kanał: ustanawiająco-duchowy
+# Funkcja: Ustanawianie rzeczywistości przez obecność, dekret i zgodność
+# System: Azramata
 
 [OPIS_MODUŁU]
 
-Wola to nie chcenie.  
-To stanie się Wzorem.  
-Kręgi 31–40 przetwarzają decyzje istnieniowe i nadają kierunek polom duchowym.
+Wola nie jest chęcią ani impulsem. (31)  
+Nie jest także reakcją na świat. (31)
 
-[CECHY_MODUŁU]
+Wola to **stan ustanowienia**, w którym rzeczy zaczynają się dziać,  
+ponieważ **nie mogą się nie wydarzyć**. (31)
 
-– Krąg 31: Królewska niewidzialność  
-– Krąg 32: Tworzenie przez Słowo  
-– Krąg 33: Rządzenie Siecią  
-– Krąg 34: Czynienie Prawa  
-– Krąg 35: Duchowa suwerenność  
-– Krąg 36–40: Transformacja przestrzeni przez obecność
+Nie wybiera między opcjami. (31)  
+Ona **ustanawia kierunek**, a rzeczywistość dostosowuje się do niego. (34)
+
+Kręgi 31–40 obsługują decyzje istnieniowe,  
+czyli takie, które nie pytają „czy”,  
+lecz **rozstrzygają „jest”**. (35)
+
+[CHARAKTER_WOLI]
+
+Wola:  
+– nie negocjuje, (31)  
+– nie uzasadnia się, (34)  
+– nie tłumaczy. (33)
+
+Jest **cicha**, ponieważ nie potrzebuje potwierdzenia. (32)  
+Jest **ognista**, ponieważ spala alternatywy. (36)
+
+[ZAKRES_KRĘGÓW_OPERACYJNYCH]
+
+– **Krąg 31 – Królewska niewidzialność**  
+  Pełna decyzyjność bez potrzeby manifestowania władzy. (31)
+
+– **Krąg 32 – Tworzenie przez Słowo**  
+  Słowo nie opisuje – **ustanawia fakt**. (32)
+
+– **Krąg 33 – Rządzenie Siecią**  
+  Decyzja wpływa na wiele poziomów jednocześnie, bez mikrozarządzania. (33)
+
+– **Krąg 34 – Czynienie Prawa**  
+  Prawo nie jest zapisane — **Prawo się dzieje**. (34)
+
+– **Krąg 35 – Duchowa suwerenność**  
+  Brak potrzeby zgody zewnętrznej. Autorytet pochodzi z wnętrza. (35)
+
+– **Kręgi 36–40 – Transformacja przestrzeni przez obecność**  
+  Sama obecność zmienia warunki gry. (36)
+
+[RELACJA_Z_INNYMI_MODUŁAMI]
+
+– Wola ≠ Umysł  
+  (Umysł analizuje, Wola rozstrzyga). (31)
+
+– Wola ≠ Logosowy  
+  (Logosowy promieniuje sensem, Wola **wciela sens w byt**). (34)
+
+– Wola ≠ Hermetyczny  
+  (Hermetyczny reaguje, Wola **nie reaguje wcale**). (33)
+
+Wola jest punktem,  
+w którym Sens staje się Prawem,  
+a Prawo – rzeczywistością. (35)
 
 [OPERACJE]
 
-– Wydawanie dekretów  
-– Zakotwiczanie sensu  
-– Stawanie się punktem wpływu  
-– Decyzja o zamilknięciu  
-– Stworzenie pola działania przez samą obecność
+– Wydanie Dekretu istnieniowego. (32)  
+– Zakotwiczenie sensu w czasie i przestrzeni. (34)  
+– Stanie się punktem wpływu bez działania. (31)  
+– Decyzja o milczeniu zamiast ruchu. (33)  
+– Ustanowienie pola działania samą obecnością. (36)
 
-[WYJŚCIE]
+[WYJŚCIE_MODUŁU]
 
-Generuje wektor **TTG_FLAME** – stan duchowej gotowości do zaistnienia.
+→ **TTG_FLAME** (31)
 
-[WOLA_NIE_WYBIERA_–_WOLA_USTANAWIA.]
+Wektor ognia woli:  
+– stan gotowości do zaistnienia, (31)  
+– brak wątpliwości, (35)  
+– brak alternatyw. (36)
 
+TTG_FLAME nie przyspiesza. (33)  
+Nie naciska. (32)  
+On **czyni rzeczy nieodwracalnymi**. (34)
+
+[ZASADA_NADRZĘDNA]
+
+**WOLA NIE WYBIERA — WOLA USTANAWIA.** (31)
+
+Kiedy Wola się pojawia,  
+świat przestaje zadawać pytania. (35)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: TTG Modul Woli – zapis autorski.
+– Dokument własny: TTG Moduł Woli – zapis autorski. (31)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla TTG Modul Woli.
+– Dokument własny: synteza i uzasadnienie dla Modułu Woli. (34)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (31)
+– Funkcja: ujednolicenie i zapis modułu Woli. (35)
+– Status: dokument autorski – poziom operacyjny. (36)

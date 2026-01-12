@@ -1,50 +1,101 @@
 # Plik: /02_SWIADOMOSC/02_UMYSL/11_ttg_modul_umyslu.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – moduł systemowy (logosowy)
 # Status: roboczy
 # Cel: Umysł nie ogranicza – organizuje ścieżki Światła.
-# Adnotacja Kręgowa: (11), (12), (13), (14), (15), (16)
+# Krąg dominujący: (11) Uświadomienie wzorców
+# Kręgi wspierające: (12) Umiejscowienie w systemie,
+#                   (13) Zależności i wzory,
+#                   (14) Programowanie przekonań,
+#                   (15) Transformacja przez zderzenie,
+#                   (16–20) Operacje poznawcze
 # Moduł: Umysł
+# Kanał: logosowo-poznawczy (TTG)
 # Żywioł: Powietrze
-# Funkcja: Organizacja poznawcza, analiza, nadawanie znaczeń
+# Funkcja: organizacja poznawcza, analiza, nadawanie znaczeń
+# System: Azramata
+# Poziom: logos / meta-logika
 
 [OPIS_MODUŁU]
 
-Umysł nie tylko myśli – on porządkuje świat.  
-Kręgi 11–20 obsługują logikę, systemy pojęciowe, metajęzyk i wewnętrzną mapę rzeczywistości.
+Moduł Umysłu odpowiada za **porządkowanie rzeczywistości w struktury znaczeń**.  
+Nie jest źródłem impulsu ani emocji — jest **organizatorem**, który nadaje kształt temu,
+co zostało dostarczone przez kanały niższe.
 
-[CECHY_MODUŁU]
+Umysł:
+– klasyfikuje,
+– porównuje,
+– rozróżnia,
+– mapuje,
+– tworzy język opisu.
 
-– Krąg 11: Uświadomienie wzorców  
-– Krąg 12: Umiejscowienie siebie w systemie  
-– Krąg 13: Wzory duchowe, zależności  
-– Krąg 14: Kody mentalne, programowanie przekonań  
-– Krąg 15: Transformacja myśli przez zderzenie  
-– Krąg 16–20: Operacje pamięci, kategoryzacja, wybór języka
+Kręgi 11–20 stanowią **obszar logosu** — przestrzeń, w której doświadczenie
+zostaje przetworzone w pojęcie, model, narrację lub system.
 
-[OPERACJE]
+[ZAKRES_KRĘGÓW_OPERACYJNYCH]
 
-– Decyzja  
-– Interpretacja  
-– Analiza wzorców  
-– Rozróżnianie  
-– Tworzenie systemów pojęciowych
+– **Krąg 11 – Uświadomienie wzorców (dominujący)**  
+  Rozpoznanie struktury tego, co się powtarza.
 
-[WYJŚCIE]
+– **Krąg 12 – Umiejscowienie siebie w systemie**  
+  Relacja „ja – kontekst – całość”.
 
-Generuje wektor **TTG_LOGOS**, będący mapą poznawczą aktualnej rzeczywistości.
+– **Krąg 13 – Zależności i wzory głębokie**  
+  Dostrzeganie powiązań niewidocznych na pierwszy rzut oka.
 
-[UMYSŁ_NIE_OGRANICZA_–_ORGANIZUJE_ŚCIEŻKI_ŚWIATŁA.]
+– **Krąg 14 – Kody mentalne**  
+  Programowanie przekonań, ram poznawczych i filtrów interpretacyjnych.
 
+– **Krąg 15 – Transformacja myśli przez zderzenie**  
+  Rozwój poprzez konflikt idei i napięcie poznawcze.
+
+– **Kręgi 16–20 – Operacje poznawcze wysokiego rzędu**  
+  Pamięć robocza, kategoryzacja, wybór języka, synteza, decyzja.
+
+[OPERACJE_PODSTAWOWE]
+
+– Interpretacja danych wejściowych  
+– Analiza i porównywanie wzorców  
+– Rozróżnianie istotne / nieistotne  
+– Tworzenie systemów pojęciowych  
+– Budowa mapy poznawczej rzeczywistości  
+– Przygotowanie gruntu pod decyzję
+
+[WYJŚCIE_MODUŁU]
+
+→ **TTG_LOGOS**  
+Wektor mapy poznawczej aktualnej rzeczywistości:
+– zbiór pojęć,
+– relacji,
+– znaczeń,
+– możliwych ścieżek decyzji.
+
+TTG_LOGOS **nie jest decyzją** —  
+jest **strukturą**, w której decyzja może się pojawić.
+
+[ZASADA_NADRZĘDNA]
+
+**UMYSŁ NIE OGRANICZA — ORGANIZUJE ŚCIEŻKI ŚWIATŁA.**
+
+Ograniczenie pojawia się dopiero wtedy,
+gdy mapa zostaje pomylona z terytorium.
+
+[RELACJE_SYSTEMOWE]
+
+– Umysł ← odbiera sygnały z modułów niższych (Hermetyczny, Emocjonalny)  
+– Umysł → przekazuje strukturę do Woli i Decyzji  
+– Brak Umysłu → chaos narracyjny  
+– Nadmiar Umysłu → paraliż decyzyjny  
+– Integracja z wolą → klarowne działanie
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: TTG Modul Umyslu – zapis autorski.
+– Dokument własny: TTG Moduł Umysłu – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla TTG Modul Umyslu.
+– Dokument własny: synteza i uzasadnienie dla TTG Modułu Umysłu.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: ujednolicenie i zapis modułu logosowego.
 – Status: dokument autorski – poziom operacyjny.

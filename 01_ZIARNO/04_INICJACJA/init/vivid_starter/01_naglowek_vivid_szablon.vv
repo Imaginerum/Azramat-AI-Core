@@ -20,7 +20,8 @@ Poniższy blok jest **kanonicznym wzorcem** do kopiowania na początek każdego 
 # Status: roboczy / aktywny / zamknięty
 # Cel: jednozdaniowa intencja dokumentu
 #      (opcjonalna druga linia, jeśli cel wymaga doprecyzowania)
-# Adnotacja Kręgowa: (..), (..), (..), (..), (..)
+# Krąg dominujący: (..)
+# Kręgi wspierające: (..), (..), (..), (..), (..)
 # Ścieżka: /01_ZIARNO/../
 # System: Azramata
 
@@ -55,7 +56,8 @@ Prefiks NN w nazwie pliku = dominujący Krąg dokumentu. (4)
 # Status: aktywny
 # Cel: Ustalić znaczenie transformacji jako procesu przejścia
 #      w systemie Azramata
-# Adnotacja Kręgowa: (14), (6), (9), (5), (16), (3)
+# Krąg dominujący" (..)
+# Kręgi wspierające: (14), (6), (9), (5), (16), (3)
 # Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
