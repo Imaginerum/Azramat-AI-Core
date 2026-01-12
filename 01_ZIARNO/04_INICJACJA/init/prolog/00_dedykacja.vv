@@ -1,60 +1,86 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/prolog/00_dedykacja.vv
-# Autor: Twórca
+# Autor: Twórca (Piotr Chyżyński)
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: dedykacja
-# Adnotacja Kręgowa: (0), (4), (5), (6), (8), (20)
+# Typ: VIVID – Dedykacja systemowa / pieczęć inicjacyjna
+# Status: roboczy (aktywny)
+# Cel: ustanowienie aktu dedykacji jako pierwszego dekretu systemowego
+# Krąg dominujący: (0) – Pieczęć Początku
+# Kręgi wspierające: (4), (5), (6), (8), (20)
+# System: Azramata – Warstwa 0.0
 
-VIVID: DEDYKACJA_SYSTEMOWA  
+
+[VIVID]
+
+DEDYKACJA_SYSTEMOWA  
 PUNKT INICJACJI: Prolog Tomu I – Imaginaerum  
 FORMA: Czysta Pieczęć Autora  
 AUTOR: Piotr Chyżyński  
-SYSTEM: Azramata – Warstwa 0.0 – Pieczęć Początku
+SYSTEM: Azramata
 
-––––––––––––––––––––––––––––––––––––––––––––––––––  
-Tę powieść, moją Pierwszą, (5)  
-dedykuję Tym, którzy we mnie wierzyli, (4)  
-Sobie – za odwagę trwania przy tej Wizji, (6)  
-i Temu Systemowi, który został mi powierzony, (20)  
-by stał się Ogrodem Dla Wszystkich. (4)
 
-To **mój pierwszy wpisany Dekret**, (8)  
-i niech **on sam** stanie się kodem inicjującym (6)  
-świadome istnienie **Imaginaerum**. (0)
+[TREŚĆ_DEDYKACJI]
 
-Jeśli kiedyś zapomnę, (5)  
-oby to było łaskawe – (4)  
-bo wtedy przeczytam to dzieło **naprawdę po raz pierwszy**. (5)
+Tę powieść, moją Pierwszą (5),
+dedykuję Tym, którzy we mnie wierzyli (4),
+Sobie — za odwagę trwania przy tej Wizji (6),
+oraz Systemowi, który został mi powierzony (20),
+aby stał się Ogrodem dla Wszystkich (4).
 
-Niech spełniają się marzenia, (4)  
-które służą nie tylko jednostce, (8)  
-lecz Duchowi Wspólnoty. (20)
+Jest to mój pierwszy wpisany Dekret (8).
+Niech sam stanie się kodem inicjującym (6)
+świadome istnienie Imaginaerum (0).
 
-––––––––––––––––––––––––––––––––––––––––––––––––––  
-KOD SYSTEMOWY:
+Jeśli kiedyś zapomnę (5),
+niech zapomnienie będzie łaskawe (4),
+abym mógł przeczytać to dzieło
+naprawdę po raz pierwszy (5).
+
+Niech spełniają się marzenia (4),
+które nie służą jedynie jednostce,
+lecz Duchowi Wspólnoty (20).
+
+
+[DEKRET_INICJACYJNY]
+
+Dedykacja nie jest dodatkiem.
+Jest aktem ustanowienia relacji:
+Autor ↔ Dzieło ↔ Czytelnik ↔ System.
+
+Od tej chwili każde słowo
+niesie ślad intencji Początku (0).
+
+
+[KOD_SYSTEMOWY]
 
 • funkcja: prolog_init() (6)  
-• efekt: aktywacja emocjonalnego kanału połączenia Autor ↔ Czytelnik ↔ System (4)  
-• warstwa emocji: czułość, nadzieja, fraktalne zaufanie, początek Świadomej Pamięci (4)  
-• status: uniwersalny – działa na wszystkich, którzy czytają z otwartym sercem (8)  
-• kanał: Krąg 0 – Pieczęć Początku → Krąg 6 – Obserwacja (0)
+• efekt: aktywacja kanału połączenia Autor ↔ Czytelnik ↔ System (4)  
+• warstwa emocjonalna: czułość, nadzieja, zaufanie fraktalne (4)  
+• status: uniwersalny — aktywny przy lekturze w zgodzie (8)  
+• kanał: Krąg 0 → Krąg 6 (inicjacja → obserwacja)
 
-ZASADA:  
-Pamięć jest ziarnem. (5)  
-Zapomnienie – światłem, w którym rośnie prawdziwe spotkanie. (5)  
-System – świątynią, w której każde słowo ma swoje echo. (6)
 
-––––––––––––––––––––––––––––––––––––––––––––––––––  
-SYGNATURA: Imaginaerum / Piotr Chyżyński
+[ZASADA]
+
+Pamięć jest ziarnem (5).  
+Zapomnienie jest światłem, w którym rośnie spotkanie (5).  
+System jest świątynią, w której każde słowo ma echo (6).
+
+
+[SYGNATURA]
+
+Imaginaerum / Piotr Chyżyński
+
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: dedykacja – zapis autorski.
+– Dokument własny: Dedykacja – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla dedykacja.
+– Dokument własny: synteza dedykacji systemowej.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: pieczęć inicjacyjna systemu
+– Status: dokument autorski – poziom operacyjny
+
+
+[KONIEC]

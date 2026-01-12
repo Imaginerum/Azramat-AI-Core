@@ -1,31 +1,68 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/vivid_starter/00_zasada_dominujacego_kragu.vv
-# Autor: Tworca
-# Data: 2025
-# Typ: VIVID – zasada nazewnictwa
+# Autor: Twórca
+# Data: 2025-01-01
+# Typ: VIVID – zasada kanoniczna nazewnictwa
 # Status: aktywny
-# Cel: Ustalic, ze dominujacy krag dokumentu jest prefiksem nazwy pliku.
-# Adnotacja Kregowa: (1), (4), (6), (7), (14), (20)
+# Cel: Ustalenie, że dominujący Krąg dokumentu jest prefiksem nazwy pliku .vv
+# Adnotacja Kręgowa: (1), (4), (6), (7), (14), (20)
+# Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
+# System: Azramata
 
-[ZASADA]
-Od teraz kazdy vivid zaczyna nazwe pliku od dominujacego kregu. (4)
-Format: NN_nazwa_pliku.vv. (6)
-NN to dwucyfrowy numer kregu (np. 00, 01, 09, 14, 20, 44). (6)
 
-[WYZNACZANIE_DOMINUJACEGO]
-Dominujacy krag to ten, ktory pojawia sie najczesciej w adnotacjach linii. (4)
-Gdy nie ma przewagi, wybierz krag najwyzszy stabilnie utrzymany w dokumencie. (14)
-Gdy nadal jest remis, wybierz pierwszy z listy w polu "Adnotacja Kregowa". (7)
+[ZASADA_GŁÓWNA] (6)
 
-[ZASADY_DODATKOWE]
-Nazwa pliku uzywa ASCII, malych liter i podkreslen. (1)
-W metadanych pole "# Plik" musi zgadzac sie z realna sciezka. (6)
-W metadanych pole "# Sciezka" (jesli jest) to katalog pliku z koncowym /. (6)
+Każdy plik vivid **musi** zaczynać nazwę od numeru dominującego Kręgu. (4)
+Prefiks Kręgu jest obowiązkowy i jednoznaczny. (6)
 
-[PRZYKLAD]
-Dominujacy krag: 14. (4)
-Nazwa pliku: 14_zew_i_eksploracja.vv. (6)
+
+[FORMAT_NAZWY] (6)
+
+Format pliku:  
+NN_nazwa_pliku.vv. (6)
+
+Gdzie:  
+NN = dwucyfrowy numer Kręgu (00–44). (6)  
+nazwa_pliku = ASCII, małe litery, podkreślenia. (1)
+
+Przykłady poprawne:  
+00_kamien_vivid.vv. (6)  
+14_transformacja_i_przejscie.vv. (6)  
+44_zapis_wieczny.vv. (6)
+
+
+[WYZNACZANIE_DOMINUJACEGO_KREGU] (14)
+
+Dominujący Krąg ustala się w kolejności: (6)
+
+1. Krąg występujący **najczęściej** w adnotacjach linii dokumentu. (4)
+2. Jeżeli brak przewagi — Krąg **najwyższy stabilnie utrzymany** w treści. (14)
+3. Jeżeli nadal remis — **pierwszy Krąg** z listy w polu „Adnotacja Kręgowa” nagłówka. (7)
+
+
+[ZASADY_SPÓJNOŚCI] (6)
+
+Pole „# Plik” w nagłówku **musi** odpowiadać rzeczywistej ścieżce pliku. (6)
+Pole „# Ścieżka” (jeśli występuje) zawiera katalog z końcowym „/”. (6)
+Zmiana dominującego Kręgu wymaga **zmiany nazwy pliku**. (6)
+
+
+[PRZYKŁAD] (4)
+
+Dominujący Krąg dokumentu: 14. (4)
+Poprawna nazwa pliku:  
+14_zew_i_eksploracja.vv. (6)
+
+
+[ZASADA_KANONICZNA] (7)
+
+Nazwa pliku jest pierwszą adnotacją Kręgu. (7)
+Jeżeli nazwa jest błędna — dokument jest niespójny systemowo. (6)
+
+
+[KONIEC] (44)
+
 
 [METODOLOGIA]
 – Metoda: Azramata – standard inicjacyjny. (7)
-– Funkcja: utrzymanie spojnosc nazewnictwa. (6)
-– Status: dokument roboczy – poziom inicjacyjny. (1)
+– Funkcja: spójność struktury, parsowanie i nawigacja. (6)
+– Status: dokument kanoniczny – poziom inicjacyjny. (1)

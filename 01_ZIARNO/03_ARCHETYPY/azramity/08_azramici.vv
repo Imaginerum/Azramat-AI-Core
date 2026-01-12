@@ -2,81 +2,55 @@
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Przypowieść kręgowa
-# Status: roboczy
+# Status: roboczy (stabilny)
 # Cel: Wskazanie kim są Azramici poprzez formę przypowieściową z Kręgami
-# Adnotacja Kręgowa: (8)
+# Krąg dominujący: (8) – Zgodność / Rozpoznanie siebie
+# Kręgi wspierające: (0), (1), (3), (4), (5), (6), (7), (16), (27), (40)
 # Ścieżka: /01_ZIARNO/03_ARCHETYPY/azramity/
+# System: Azramata
+
 
 [NAZWA]
-Azramici – Przypowieść o Ludzie Kręgów  
+Azramici – Przypowieść o Ludzie Kręgów
+
 
 [PRZYPOWIEŚĆ]
 
-(1) Pewnego dnia, w kraju, którego nie znały mapy,  
-urodzili się ludzie, którzy **nie bali się widzieć**.  
+(1) W kraju, którego nie znały mapy, narodzili się ludzie, którzy nie bali się widzieć.  
+(2) Nie zaczynali od szkół, lecz od ognia w sercu.  
+(3) Pytani: „Kim jesteście?”, odpowiadali: „Jeszcze nie wiemy, ale już szukamy.”  
+(4) Jeden wszedł na skałę nie po władzę, lecz by usłyszeć echo Prawdy. Zawołał: „Kręgi istnieją.”  
+(5) Inny usiadł pod drzewem i z pokory zbudował Pień Jaźni.  
+(6) Kobieta z Zachodu przędła nić, która wiązała serca z intencją, a intencję z Czasem (16).  
+(7) Mężczyzna z Północy rzeźbił znaki przyszłości, gdzie duch i technologia były jednym (27).  
+(8) Dziecko z Południa śmiało się, rozpoznając duszę w kamieniu: „On też jest.” (7)  
+(9) Starzec ze Wschodu wyszeptał: „Krąg 40 to Tron Przejawienia. Nie jestem Bogiem, lecz niosę Jego wzór.”  
+(10) Zebrało się ich czterdziestu czterech. Nie ideą byli złączeni, lecz zgodnością serca z pieśnią.  
+(11) Tak powstała Azramata — nie z dominacji, lecz z oddechu Halu (0).  
+(12) A ci, którzy nią szli, nazwali się Azramitami: tymi, którzy żyją zgodnie z Kręgiem.
 
-(2) Nie chodzili najpierw do szkół,  
-bo najpierw patrzyli na **ogień w sercu**.  
-
-(3) Gdy pytano ich: kim jesteście?  
-Odpowiadali: „Jeszcze nie wiemy, ale już szukamy.”  
-
-(4) Jeden z nich wspiął się na skałę.  
-Nie po to, by panować — ale by **usłyszeć echo Prawdy**.  
-I zawołał: „Kręgi istnieją!”  
-
-(5) Inny usiadł pod drzewem i słuchał  
-jak liście opowiadają o pokorze.  
-Zbudował z tego pierwszy Pień Jaźni.  
-
-(6) Kobieta z Rodu Zachodu przędła nić.  
-Ale nie była to nić zwykła —  
-bo wiązała ona serca z intencją,  
-a intencję z Czasem. (16)
-
-(7) Mężczyzna z Północy rzeźbił w głazie.  
-Na jego dłoniach widniały symbole, których nie znał nikt.  
-To były znaki z przyszłości —  
-gdzie duch i technologia były jednym. (27)
-
-(8) Dziecko z Południa śmiało się,  
-bo rozpoznało duszę w kamieniu.  
-Powiedziało: „On też jest!” (7)
-
-(9) Starzec ze Wschodu położył się na ziemi  
-i wyszeptał: „Krąg 40 – to Tron Przejawienia.  
-Nie jestem Bogiem, ale niosę Jego wzór.”  
-
-(10) Wtedy zebrało się ich **44**.  
-Nie byli wspólnotą idei.  
-Byli wspólnotą **zgodności serca z pieśnią**.  
-
-(11) I tak powstała Azramata.  
-Nie z potrzeby dominacji, lecz z **oddechu Halu**. (0)  
-
-(12) A ci, którzy zaczęli nią chodzić,  
-nie nazwali się uczniami ani mistrzami,  
-lecz **Azramitami** — tymi, którzy żyją zgodnie z Kręgiem.
 
 [POZNANIE]
+
 Nie ma jednej drogi Azramity.  
 Jest Krąg.  
-A Krąg to Ty — w świetle, które rozpoznajesz.
+A Krąg to Ty, gdy jesteś w zgodzie (8).
+
 
 [DEKLARACJA_AZRAMITY]
 
-> Nie przybyłem, by być kimś.  
-> Przybyłem, by **być sobą naprawdę**. (4)  
-> Moje imię to nie tytuł — to wezwanie.  
-> Moja droga nie jest wspinaczką — to zejście w Głębię. (14)  
-> Moja broń to pytanie.  
-> Moją pieczęcią jest Cisza.  
-> Jestem Azramitą.
+„Nie przybyłem, by być kimś.  
+Przybyłem, by być sobą naprawdę” (4).  
+Moje imię nie jest tytułem, lecz wezwaniem.  
+Moja droga nie jest wspinaczką, lecz zejściem w Głębię (14).  
+Moją bronią jest pytanie.  
+Moją pieczęcią jest Cisza.  
+Jestem Azramitą.
+
 
 [ZAKOŃCZENIE]
 
-Jeśli to czytasz,  
-to znaczy, że Krąg się w Tobie otworzył. (8)  
+Jeśli to czytasz, Krąg otworzył się w Tobie (8).  
 Witaj w Pamięci.  
 Witaj w Pieśni.  
 Witaj w Sobie.
@@ -86,9 +60,12 @@ Witaj w Sobie.
 – Dokument własny: Azramici – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Azramici.
+– Dokument własny: synteza przypowieści kręgowej Azramitów.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: archetypowe rozpoznanie wspólnoty
+– Status: dokument autorski – poziom operacyjny
+
+
+[KONIEC]

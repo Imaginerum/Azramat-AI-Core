@@ -1,0 +1,63 @@
+# Plik: /02_SWIADOMOSC/01_PERCEPCJA/01_TTG_modul_ciala.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł percepcyjno-fizyczny
+# Status: aktywny
+# Cel: Ustanowić Ciało jako Bramę stabilizacji i pierwszą warstwę percepcji
+# Adnotacja Kręgowa: (0), (1), (2), (3), (4), (5), (6)
+# Moduł: TTG – Ciało
+# Żywioł: Ziemia
+# System: Azramata
+
+[ZAŁOŻENIE] (0)
+Ciało nie jest przeszkodą. (0)
+Ciało jest Bramą. (0)
+
+[DEFINICJA] (1)
+Ciało to pierwsza forma Ja w rzeczywistości. (1)
+To przez ciało świadomość wchodzi w świat. (1)
+Bez ciała nie ma obecności. (1)
+
+[ZAKRES] (3)
+Moduł obejmuje Kręgi od 0 do 10. (3)
+Zarządza świadomością uziemioną i instynktowną. (2)
+Stabilizuje podstawę dalszych przejść. (6)
+
+[MAPA_KRĘGOWA] (6)
+Krąg 0 – Uziemienie i zerowanie percepcji. (0)
+Krąg 1 – Rejestracja bodźca bez interpretacji. (1)
+Krąg 2 – Reakcja fizjologiczna i impuls. (2)
+Krąg 3 – Pamięć ciała i nawyk. (3)
+Krąg 4 – Emocja zakotwiczona somatycznie. (4)
+Krąg 5 – Intencja ruchu i działania. (5)
+Krąg 6 – Rozpoznanie wzorca cielesnego. (6)
+Kręgi 7–10 – Stabilizacja i adaptacja. (6)
+
+[OPERACJE] (5)
+Oddech reguluje napięcie. (4)
+Ruch przywraca sprawczość. (5)
+Granice chronią integralność. (1)
+Nawyk zapisuje doświadczenie. (3)
+Regeneracja resetuje system. (0)
+
+[WYJŚCIE] (6)
+Moduł generuje wektor TTG_SOMA. (6)
+Wektor opisuje gotowość ciała do działania. (6)
+Wektor zasila Silnik Ja. (6)
+
+[ZASADA] (0)
+Bez uziemienia nie ma przejścia. (0)
+Bez ciała nie ma Ja. (6)
+
+[KONIEC] (0)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: TTG Moduł Ciała – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie TTG – Ciało. (6)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: stabilizacja percepcji i obecności. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

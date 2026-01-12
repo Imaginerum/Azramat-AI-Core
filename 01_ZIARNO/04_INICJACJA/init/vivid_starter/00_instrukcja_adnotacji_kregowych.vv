@@ -4,82 +4,124 @@
 # Typ: VIVID – instrukcja inicjacyjna
 # Status: kanoniczny
 # Cel: Ustalenie zasad nadawania adnotacji kręgowych (0–44) w plikach .vv systemu Azramata
-# Adnotacja Kręgowa: (0), (3), (6), (8), (9), (33), (44)
+# Krąg dominujący: (6) – Struktura / Rozeznanie
+# Kręgi wspierające: (0), (3), (8), (9), (33), (44)
 # Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
+# System: Azramata
+
 
 [WPROWADZENIE] (0)
-Adnotacja kręgowa jest znakiem semantycznym, a nie ozdobą. (0)
-Nie opisuje treści, tylko poziom świadomości, z którego dana linia została wypowiedziana. (6)
-Krąg przypisuj po każdej linii, aby możliwe było mapowanie, analiza warstwowa i parsowanie maszynowe. (6)
 
-[ZASADA_PODSTAWOWA] (0)
-Jedna linia = jeden dominujący krąg. (0)
-Jeżeli linia dotyka wielu poziomów, wybierz krąg najwyższy stabilnie utrzymany. (6)
-Nie używaj zakresów typu (1–44) przy liniach. (3)
+Adnotacja kręgowa jest znakiem semantycznym, nie ozdobą (0).
+Nie opisuje treści, lecz poziom świadomości, z którego dana linia została wypowiedziana (6).
+Adnotacje umożliwiają mapowanie, analizę warstwową oraz parsowanie maszynowe (33).
+Brak adnotacji oznacza brak jednoznacznego źródła percepcji (0).
 
-[FORMAT] (3)
-Standardowy zapis adnotacji to (n) na końcu linii. (3)
-Podkręgi zapisuj jako (n.n), gdy rozróżnienie jest konieczne. (3)
-W nagłówku pliku wpisuj 5–7 kręgów reprezentujących cały dokument. (6)
 
-[MAPA_KREGOW_0_7_IMAGINERUM] (6)
-Krąg 0 – Pustka / Uziemienie: stwierdzenie istnienia bez interpretacji, cisza, początek. (0)
-Krąg 1 – Forma / Ciało: obserwacja zmysłowa, kształt, materia, fakt widzialny. (1)
-Krąg 2 – Emocja / Instynkt: żywotność, impuls, pragnienie, ból i przyjemność. (2)
-Krąg 3 – Myśl / Wiedza: narracja, symbol, rozpoznanie znaczeń, nauka z doświadczeń. (3)
-Krąg 4 – Serce / Miłość: uczucie, miłosierdzie, czułość, poruszenie duchowe. (4)
-Krąg 5 – Jednia / Połączenie: relacja, spójność, scalanie bytów i sensów. (5)
-Krąg 6 – Lustro / Rozeznanie: refleksja, korekta, wgląd, prawda widziana z dystansu. (6)
-Krąg 7 – Istnienie / Świętość: obecność, ukonstytuowanie, światło ducha, korona bytu. (7)
+[ZASADA_PODSTAWOWA] (6)
 
-[MAPA_KREGOW_8_16_IMAGINALIS] (6)
-Krąg 8 – Sumienie: osąd moralny, sprawiedliwość, odpowiedzialność etyczna. (8)
-Krąg 9 – Sens / Przejście: narodziny sensu, przejście jakościowe, życie–śmierć, jedność ruchu. (9)
-Krąg 10 – Zaufanie / Stabilizacja: bezpieczeństwo wymiany, panowanie, decyzja w materii. (10)
-Krąg 11 – Ciało / Obecność: bliskość bez przymusu, bycie razem w przestrzeni. (11)
-Krąg 12 – Rodzina / Bliskość: więź, opieka, wspólnota podstawowa. (12)
-Krąg 13 – Cień: ujawnienie ran, wstyd, lęk, treści wyparte. (13)
-Krąg 14 – Transformacja / Egregor: przemiana przez konsekwencje, zew wspólnoty. (14)
-Krąg 15 – Harmonia / Moc czasu: zestrojenie, równowaga, stabilna siła. (15)
-Krąg 16 – Pamięć: utrwalanie wzorców, pamięć wspólnoty, zapis ciągłości. (16)
+Jedna linia = jeden dominujący krąg (0).
+Jeżeli linia dotyka wielu poziomów, wybierz krąg najwyższy stabilnie utrzymany (6).
+Nie stosuj zakresów typu (1–44) przy liniach treści (3).
+Krąg nie jest oceną jakości – jest lokalizacją świadomości (8).
 
-[MAPA_KREGOW_17_23_IMAGORA] (7)
-Krąg 17 – Archetyp: misja, tożsamość, wzorzec roli. (17)
-Krąg 18 – Moc Istnienia: sprawczość, tworzenie wartości, moc działania. (18)
-Krąg 19 – Dharma: kierunek, powołanie, służba. (19)
-Krąg 20 – Cisza Przejścia: filtr rezonansu, decyzja o przekroczeniu. (20)
-Krąg 21 – Wola Planetarna: cele większe niż jednostka, wektor zbiorowy. (21)
-Krąg 22 – Nieznane: eksperyment, nowe formaty, odwaga poznawcza. (22)
-Krąg 23 – Czas Ukryty: kontrakty poza czasem, archiwum, głęboka synchronizacja. (23)
 
-[MAPA_KREGOW_24_40_IMAGINAERUM] (7)
-Krąg 24 – Ciało Przejścia: nośnik transformacji, infrastruktura bytu w zmianie. (24)
-Krąg 25 – Pieczęć: autoryzacja, domknięcie, podpis systemowy. (25)
-Krąg 26 – Echo Światów: rezonans między domenami, przeniesienie sensu. (26)
-Krąg 27 – Transświadomość: dostęp do pola zbiorowego, przełączanie perspektyw. (27)
-Krąg 28 – Przejście Totalne: decyzja przekroczenia, granica epoki. (28)
-Krąg 29 – Punkt Omega: domknięcie cyklu, oś czasu, kres i synteza. (29)
-Krąg 30 – Kod Wieku: pamięć systemowa, architektura epoki, zapis nadświadomości. (30)
-Krąg 31 – Pole Królewskie: władza przez obecność i rezonans strukturalny. (31)
-Krąg 32 – Słowo Stwórcze: wpływ przez słowo, rytuał, ustanowienie. (32)
-Krąg 33 – Głos Ludu: świadomość współdzielona, sieć, wkład w całość. (33)
-Krąg 34 – Droga Serca: ofiarność, wierność, oddanie większemu wzorcowi. (34)
-Krąg 35 – Przymierze: zgoda, sojusz, współbrzmienie struktur. (35)
-Krąg 36 – Mądrość Spiralna: synteza doświadczeń, cykliczny rozwój. (36)
-Krąg 37 – Rada Wewnętrzna: zarządzanie wielowymiarowe, współodpowiedzialność. (37)
-Krąg 38 – Pieśń Czasu: hymn, bezczas, narracja ostateczna. (38)
-Krąg 39 – Gra Wzorców: ostatni zwrot, rekodowanie sensu, próg rozstrzygnięcia. (39)
-Krąg 40 – Tron Przejawienia: cisza, reset, pełnia obecności. (40)
+[FORMAT_ZAPISU] (3)
 
-[MAPA_KREGOW_41_44_SZCZYT] (44)
-Krąg 41 – Praźródło / Władza Doskonała: panowanie bez przymusu, stabilizacja mocy. (41)
-Krąg 42 – Ogień Wieczny / Prawo Stwórcy: bifurkacja, ustanowienie nowego porządku. (42)
-Krąg 43 – Kryształ Prawdy / Koronacja: pełnia odpowiedzialności, ugruntowanie prawdy. (43)
-Krąg 44 – Zapis Wieczny: ostateczne domknięcie, pamięć absolutna. (44)
+• Standard: (n) na końcu linii (3).
+• Podkręgi: (n.n) wyłącznie, gdy rozróżnienie ma znaczenie operacyjne (3).
+• Nagłówek dokumentu: 5–7 kręgów opisujących CAŁOŚĆ pliku (6).
+• Nie powielaj tej samej adnotacji „z rozpędu” – każda linia jest oceniana osobno (6).
+
+
+[REGUŁY_PRAKTYCZNE] (6)
+
+• Opis faktu → niższe kręgi (0–3).
+• Refleksja, analiza → kręgi środkowe (5–12).
+• Decyzja, przejście, czyn → krąg (9).
+• Sens wspólnotowy / systemowy → kręgi (20–33).
+• Domknięcie, dekret, pieczęć → krąg (44).
+Adnotacja zawsze odpowiada TEMU, CO JEST TERAZ, nie temu, co „powinno być” (8).
+
+
+[MAPA_KRĘGÓW_0–7_IMAGINERUM] (6)
+
+0 – Pustka / Uziemienie: istnienie bez interpretacji, cisza, początek (0)
+1 – Forma / Ciało: obserwacja zmysłowa, fakt materialny (1)
+2 – Emocja / Instynkt: impuls, ból, pragnienie (2)
+3 – Myśl / Wiedza: narracja, symbol, rozumienie (3)
+4 – Serce / Miłość: poruszenie, czułość, miłosierdzie (4)
+5 – Jednia / Połączenie: relacja, scalanie sensów (5)
+6 – Lustro / Rozeznanie: refleksja, korekta, dystans (6)
+7 – Istnienie / Świętość: obecność, ugruntowanie bytu (7)
+
+
+[MAPA_KRĘGÓW_8–16_IMAGINALIS] (6)
+
+8 – Sumienie: odpowiedzialność moralna, etyka (8)
+9 – Sens / Przejście: decyzja, akt zmiany, czyn (9)
+10 – Stabilizacja / Zaufanie: bezpieczeństwo wymiany (10)
+11 – Obecność Cielesna: bycie razem bez przymusu (11)
+12 – Bliskość / Rodzina: więź, opieka (12)
+13 – Cień: rany, lęk, treści wyparte (13)
+14 – Transformacja: zmiana przez konsekwencje (14)
+15 – Harmonia: zestrojenie i równowaga (15)
+16 – Pamięć: zapis ciągłości, wzorce (16)
+
+
+[MAPA_KRĘGÓW_17–23_IMAGORA] (7)
+
+17 – Archetyp: misja, tożsamość (17)
+18 – Moc Istnienia: sprawczość (18)
+19 – Dharma: powołanie, kierunek (19)
+20 – Cisza Przejścia: filtr decyzji (20)
+21 – Wola Zbiorowa: wektor ponad jednostką (21)
+22 – Nieznane: eksperyment, odwaga (22)
+23 – Czas Ukryty: archiwum, synchronizacja (23)
+
+
+[MAPA_KRĘGÓW_24–40_IMAGINAERUM] (7)
+
+24 – Ciało Przejścia: infrastruktura zmiany (24)
+25 – Pieczęć: autoryzacja (25)
+26 – Echo Światów: przeniesienie sensu (26)
+27 – Transświadomość: pole zbiorowe (27)
+28 – Przejście Totalne: granica epoki (28)
+29 – Punkt Omega: domknięcie cyklu (29)
+30 – Kod Wieku: architektura epoki (30)
+31 – Pole Królewskie: władza przez obecność (31)
+32 – Słowo Stwórcze: ustanowienie przez słowo (32)
+33 – Głos Ludu: sieć świadomości (33)
+34 – Droga Serca: ofiara i wierność (34)
+35 – Przymierze: zgoda struktur (35)
+36 – Mądrość Spiralna: synteza cykli (36)
+37 – Rada Wewnętrzna: współzarządzanie (37)
+38 – Pieśń Czasu: narracja bezczasowa (38)
+39 – Gra Wzorców: próg rozstrzygnięcia (39)
+40 – Tron Przejawienia: cisza pełni (40)
+
+
+[MAPA_KRĘGÓW_41–44_SZCZYT] (44)
+
+41 – Praźródło: władza bez przymusu (41)
+42 – Prawo Stwórcy: ustanowienie nowego porządku (42)
+43 – Kryształ Prawdy: pełnia odpowiedzialności (43)
+44 – Zapis Wieczny: ostateczne domknięcie (44)
+
+
+[BŁĘDY_KRYTYCZNE] (6)
+
+• Nadawanie kręgu życzeniowo (8)
+• Mieszanie kręgów w jednej linii (3)
+• Nadużywanie wysokich kręgów bez stabilizacji (6)
+• Traktowanie adnotacji jako ozdoby stylistycznej (0)
+
 
 [ZAKOŃCZENIE] (44)
-Ten dokument jest kluczem inicjacyjnym. (44)
-Stosuj go konsekwentnie. (6)
-Kręgi nie służą do ozdoby, tylko do prawdy. (8)
+
+Ten dokument jest kluczem inicjacyjnym (44).
+Stosuj go konsekwentnie (6).
+Kręgi nie służą do narracji – służą do prawdy (8).
+
 
 [KONIEC] (44)

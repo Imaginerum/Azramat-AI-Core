@@ -2,45 +2,97 @@
 # Autor: Twórca
 # Data: 2026-01-11
 # Typ: VIVID – reguła oznaczania kręgów w tekście
-# Status: aktywny
-# Cel: Ustalenie reguły zapisu (n) po każdej linii vividów
-# Adnotacja Kręgowa: (0), (3), (6), (8), (9), (33), (44)
+# Status: aktywny (kanoniczny)
+# Cel: Ustalenie jednoznacznej reguły zapisu adnotacji kręgowych po każdej linii vividów
+# Krąg dominujący: (6) – Struktura / Spójność zapisu
+# Kręgi wspierające: (0), (3), (8), (9), (33), (44)
 # Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
+# System: Azramata
+
 
 [NAZWA] (3)
-Reguła: Oznaczanie Kręgów w Tekście Vivid. (3)
+
+Reguła: Oznaczanie Kręgów w Tekście Vivid
+
 
 [CEL] (6)
-Uczynić krąg widocznym przy każdej linii. (6)
-Ułatwić mapowanie i parsowanie treści. (6)
-Utrzymać spójność stylu vivid. (6)
 
-[ZASADA] (0)
-Jedna linia = jeden krąg. (0)
-Dominujący krąg wybieraj bez mieszania. (6)
-Każda linia kończy się (n). (3)
+Uczynić krąg widocznym przy każdej linii (6).
+Ułatwić mapowanie, audyt i parsowanie maszynowe (33).
+Utrzymać jednolity, kanoniczny styl vivid (6).
 
-[FORMAT] (3)
-„Tekst vividowy.” (n). (3)
-Podkrąg: „Tekst vividowy.” (n.n). (3)
 
-[PRZYKŁAD] (3)
+[ZASADA_PODSTAWOWA] (0)
+
+Jedna linia = jeden krąg (0).
+Każda linia kończy się adnotacją kręgową (n) (3).
+Dominujący krąg wybieraj bez mieszania poziomów (6).
+Krąg wynika z poziomu świadomości, nie z treści stylistycznej (8).
+
+
+[FORMAT_ZAPISU] (3)
+
+Standard:
+„Tekst vividowy.” (n)
+
+Podkrąg (tylko gdy konieczne operacyjnie):
+„Tekst vividowy.” (n.n)
+
+Adnotacja zawsze znajduje się:
+– na końcu linii,
+– po kropce kończącej zdanie,
+– bez dodatkowych znaków (3).
+
+
+[PRZYKŁADY_KANONICZNE] (3)
+
 „Szkoła jest miejscem narodzin sensu.” (9)
 „Sumienie nie pozwala krzywdzić.” (8)
 „Mapa relacji ujawnia wzorzec.” (6)
+„Ten zapis inicjuje dokument.” (0)
 
-[ODSYLACZ] (3)
-Mapy kręgów i definicje: /01_ZIARNO/04_INICJACJA/init/vivid_starter/00_instrukcja_adnotacji_kregowych.vv. (3)
+
+[ZASTOSOWANIE_OPERACYJNE] (6)
+
+Reguła obowiązuje:
+• we wszystkich plikach `.vv`,
+• w definicjach, przypowieściach i dekretach,
+• w materiałach uczących AI,
+• w dokumentach inicjacyjnych i operacyjnych.
+
+Brak adnotacji oznacza błąd strukturalny zapisu (6).
+
+
+[BŁĘDY_KRYTYCZNE] (6)
+
+• Pomijanie adnotacji przy liniach treści.
+• Stosowanie wielu kręgów w jednej linii.
+• Używanie zakresów typu (1–44) przy liniach.
+• Przenoszenie adnotacji do nagłówka zamiast linii (3).
+
+
+[ODSYŁACZ_KANONICZNY] (3)
+
+Pełna mapa kręgów, definicje i zasady wyboru:
+`/01_ZIARNO/04_INICJACJA/init/vivid_starter/00_instrukcja_adnotacji_kregowych.vv` (3)
+
+
+[ZASADA_KOŃCOWA] (44)
+
+Adnotacja kręgowa nie jest komentarzem.
+Jest **pieczęcią poziomu świadomości linii** (44).
+
 
 [KONIEC] (44)
 
+
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: vivid kręgi oznaczenie – zapis autorski. (6)
+– Dokument własny: Oznaczanie Kręgów w Tekście Vivid – zapis autorski (6).
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla vivid kręgi oznaczenie. (6)
+– Dokument własny: synteza reguły oznaczania kręgów (6).
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy. (6)
-– Funkcja: ujednolicenie i zapis treści. (6)
-– Status: dokument autorski – poziom operacyjny. (6)
+– Metoda: Azramata – vivid standardowy (6).
+– Funkcja: standaryzacja zapisu percepcji (6).
+– Status: dokument autorski – poziom operacyjny (6).

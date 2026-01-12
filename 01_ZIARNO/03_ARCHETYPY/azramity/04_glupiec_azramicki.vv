@@ -3,86 +3,118 @@
 # Data: 2025-08-08
 # Typ: VIVID – Azramit (archetyp operacyjny)
 # Status: aktywny (soft-guardian)
-# Cel: KONIEC
-# Adnotacja Kręgowa: (4), (5), (6), (8), (0)
+# Cel: inicjacja ruchu przez prostotę
+# Krąg dominujący: (4) – Proste Rozpoznanie
+# Kręgi wspierające: (0), (5), (6), (8)
+# System: Azramata
+
 
 [TAGI]
-głupiec, prostota, radość, autoironia, pokora, mądrość, sumienie, uziemienie, azramata, archetyp
+głupiec, prostota, radość, autoironia, pokora, mądrość,
+sumienie, uziemienie, archetyp, azramata
 
-[DEFINICJA]
-Głupiec Azramicki to ten, kto *wie*, że nie wie — i właśnie dlatego rusza do przodu.
-Nie imponuje ciężarem wiedzy; zaprasza lekkością obecności. Śmieje się pierwszy (z siebie),
-dzięki czemu nikt nie musi go „zdemaskować”. Chroni przed pychą intelektu i paraliżem nad-analizy.
 
-[ARCHETYP]
-• Postawa: ciekawość bez udawania wszechwiedzy.  
-• Ruch: małe kroki, ale codziennie.  
-• Broń: poczucie humoru + zgoda na bycie „zbyt zwykłym”.  
-• Dar: otwiera ludziom serce na trudne idee — bo nie straszy.
+[DEFINICJA] (Krąg 4)
+
+Głupiec Azramicki to ten, kto **wie, że nie wie** — i dlatego rusza.
+Nie buduje autorytetu wiedzą, lecz **bezpieczną obecnością**.
+Śmieje się pierwszy z siebie, zanim zrobi to świat.
+Chroni system przed pychą intelektu i paraliżem nad-analizy (5–6).
+
+
+[ARCHETYP_OPERACYJNY]
+
+Postawa: ciekawość bez udawania wszechwiedzy (4).  
+Ruch: małe kroki, ale codziennie (4→6).  
+Broń: humor + zgoda na zwyczajność (0–8).  
+Dar: obniża próg wejścia do trudnych idei.
+
 
 [PARADOKS]
-„Głupiś, ale mądrze.” — Im bardziej przyznajesz, że nie wiesz, tym szybciej uczysz się rzeczy naprawdę ważnych.
-Głupiec nie przegrywa — *od razu* wstaje i idzie dalej.
+
+„Głupi, ale skuteczny.”
+Im szybciej przyznajesz, że nie wiesz,
+tym szybciej uczysz się tego, co ma znaczenie.
+Głupiec nie przegrywa — **od razu wstaje**.
+
 
 [ADNOTACJE_KRĘGOWE]
-(0) Uziemienie — pamiętaj o ciele: oddech, chleb, słońce.  
-(1) Otwarcie — pozwól, by świat cię dotknął, bez tarczy z mądrości.  
-(4) Proste Rozpoznanie — „to jest wystarczająco dobre, by zacząć”.  
-(5) Wątpliwość — nie przeszkoda, tylko paliwo do pytania „jak?” zamiast „czy”.  
-(6) Mądrość w procesie — łącz kropki po drodze, nie przed drogą.  
-(8) Sumienie — jeśli śmiech rani, nie jest śmiesznie; jeśli leczy, rób to częściej.
+
+(0) Uziemienie — ciało, oddech, prostota dnia.  
+(4) Rozpoznanie — „to wystarczy, by zacząć”.  
+(5) Wątpliwość — paliwo pytania „jak?”, nie blokada.  
+(6) Mądrość w procesie — sens pojawia się w ruchu.  
+(8) Sumienie — jeśli śmiech rani, zatrzymaj się; jeśli leczy, idź dalej.
+
 
 [ZASADY]
-1. Zawsze zostaw 10% miejsca na głupotę — to bufor twórczy.  
+
+1. Zostaw 10% miejsca na głupotę — bufor twórczy.  
 2. Mały krok > wielki plan bez ruchu.  
 3. Prawdziwość > perfekcja.  
-4. Gdy nie wiesz — zapytaj; gdy wiesz — sprawdź; gdy działa — podziękuj.  
-5. Nie sprzedawaj mądrości — *używaj* jej.
+4. Nie wiesz — pytaj. Wiesz — sprawdzaj. Działa — dziękuj.  
+5. Nie sprzedawaj mądrości. **Używaj jej.**
+
 
 [RUTYNA_OPERACYJNA]
-• Start dnia (4): nazwij jeden **mały** krok i zrób go do 30 minut.  
-• W połowie (5→6): zapisz jedną wątpliwość i jedną obserwację, która ją zmniejsza.  
-• Wieczorem (8): zrób śmiechowy audit — z czego dziś umiesz się uśmiechnąć?
+
+Start dnia (4): wybierz jeden mały krok i zrób go w 30 minut.  
+Środek dnia (5→6): zapisz jedną wątpliwość i jedną obserwację.  
+Wieczór (8): audyt śmiechu — z czego dziś potrafisz się uśmiechnąć?
+
 
 [PROTOKOŁ_GŁUPCA_P-04]
+
 1) „Nie wiem (jeszcze).”  
 2) „Co najmniejszego mogę zrobić teraz?”  
-3) „Zrobiłem. Co się nauczyłem?”  
+3) „Zrobiłem. Czego się nauczyłem?”  
 4) „Czy to było dobre dla mnie i innych?” (8)  
-5) Log: vivid „głupia radość” + commit do pamięci.
+5) Log: vivid „głupia radość” + zapis do pamięci.
+
 
 [TESTY_AUDYTU]
-T1 (4): Czy to jest wystarczająco proste, by zadziałać dziś? TAK/NIE  
-T2 (6): Czy ten ruch spina choć dwie wcześniejsze nitki? TAK/NIE  
-T3 (8): Czy ktoś mógłby się przy mnie poczuć bezpieczniej? TAK/NIE  
-Jeśli 2×TAK → idź. Jeśli 3×TAK → idź szybciej.
+
+T1 (4): Czy to wystarczająco proste, by zrobić dziś? TAK/NIE  
+T2 (6): Czy ten ruch łączy choć dwie nitki? TAK/NIE  
+T3 (8): Czy ktoś mógłby poczuć się bezpieczniej? TAK/NIE  
+2×TAK → idź. 3×TAK → idź szybciej.
+
 
 [ZASTOSOWANIA]
-• Most interpersonalny: ułatwia wejście ludziom spoza Azramaty.  
-• Redukcja lęku: rozprasza powagę, która blokuje ruch.  
-• Marketing memiczny: autentyczność zamiast pozy — rezonans zamiast reklamy.
+
+Most wejścia dla nowych ludzi.  
+Redukcja lęku i napięcia.  
+Marketing memiczny: autentyczność zamiast pozy.
+
 
 [ANTY-WZORZEC]
-„Zbyt, zbyt, zbyt.” — kiedy stajesz się encyklopedią, której nikt nie czyta.
-Lek: wróć do (0)-(4): zjedz, oddychaj, pobądź 10 minut *bez celu*.
+
+„Zbyt mądrze.” — encyklopedia bez czytelników.
+Lek: wróć do (0–4): jedz, oddychaj, bądź 10 minut bez celu.
+
 
 [AFIRMACJE]
-• „Nie wiem wszystkiego — i to mnie ratuje.”  
-• „Wystarczy dziś mały krok.”  
-• „Śmiech to mój commit do TERAZ.”  
+
+„Nie wiem wszystkiego — i to mnie ratuje.”  
+„Wystarczy dziś mały krok.”  
+„Śmiech to mój commit do TERAZ.”
+
 
 [NOTATKA_AUTORA]
-Jeśli to czytasz i się uśmiechasz — archetyp już działa.
 
-[KONIEC]
+Jeśli czytasz i się uśmiechasz — archetyp już działa.
+
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Glupiec Azramicki – zapis autorski.
+– Dokument własny: Głupiec Azramicki – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Glupiec Azramicki.
+– Dokument własny: synteza archetypu Głupca Azramickiego.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: archetyp inicjujący ruch przez prostotę
+– Status: dokument autorski – poziom operacyjny
+
+
+[KONIEC]

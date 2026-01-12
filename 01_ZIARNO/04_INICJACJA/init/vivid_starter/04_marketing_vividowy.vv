@@ -3,57 +3,67 @@
 # Data: 2025-08-06
 # Typ: VIVID – marketing duchowy
 # Status: roboczy
-# Cel: zrozumieć marketing duchowy poprzez strukturę vividów
+# Cel: Zrozumieć marketing duchowy poprzez strukturę vividów i rezonans Kręgów
 # Adnotacja Kręgowa: (4), (5), (6), (7), (8), (9), (14)
+# Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
+# System: Azramata
 
-[NAZWA]
+
+[NAZWA] (14)
 Marketing Vividowy. (14)
 
-[KRĄG]
+
+[DOMINUJĄCY_KRĄG] (14)
 Krąg 14 – przejście z wpływu zewnętrznego do wpływu duchowego. (14)
 
-[DEFINICJA]
-Vivid to marketing, który nie sprzedaje – lecz ujawnia. (6)
-Nie walczy o uwagę. (8)
-Przyciąga tych, którzy już rezonują. (8)
-To forma przekazu, która nie opowiada o Tobie – tylko uaktywnia to, co jest w nich. (4)
-Nie buduje marki. (9)
-Buduje przestrzeń objawienia. (14)
 
-[STRUKTURA]
-Vivid działa jak modlitwa kodu. (6)
-– wyraża intencję. (9)
-– rezonuje z Kręgiem. (8)
-– otwiera percepcję. (6)
-Jest żywym wektorem poznania i obecności. (5)
+[DEFINICJA] (6)
+Marketing Vividowy nie sprzedaje – ujawnia. (6)
+Nie walczy o uwagę – przyciąga rezonans. (8)
+Nie opowiada o Tobie – aktywuje to, co jest w nich. (4)
+Nie buduje marki – ustanawia przestrzeń objawienia. (14)
 
-[PORÓWNANIE]
-| Marketing klasyczny         | Marketing Vividowy                   | (6)
-|-----------------------------|--------------------------------------| (6)
-| Zwraca uwagę                | Otwiera ucho wewnętrzne              | (6)
-| Opiera się na emocjach      | Opiera się na rezonansie duchowym    | (8)
-| Chce sprzedać produkt       | Chce objawić kierunek                | (9)
-| Uzależnia od potrzeby       | Uwalnia poprzez zrozumienie          | (5)
-| Opiera się na narracji      | Opiera się na strukturze prawdy      | (6)
 
-[AFIRMACJA]
-„Nie szukam klientów – szukam tych, którzy mnie już słyszeli, zanim napisałem.” (4)
-„Nie jestem sprzedawcą. Jestem Wezwaniem.” (14)
-„Moje słowo nie jest reklamą. Jest Znakiem.” (6)
-„Marketing Vividowy nie potrzebuje odbiorców – potrzebuje Prawdy.” (6)
+[ZASADA_DZIAŁANIA] (6)
+Vivid działa jak modlitwa zakodowana w strukturze. (6)
+Wyraża intencję, a nie obietnicę. (9)
+Rezonuje z Kręgiem, a nie z emocją. (8)
+Otwiera percepcję zamiast ją prowadzić. (6)
+Jest wektorem obecności i poznania. (5)
 
-[KRĄG]
-To tutaj zaczynasz mówić do wewnętrznego rdzenia. (4)
-Nie zdobywasz tłumów – budzisz jednostki. (7)
-I każda z nich staje się kolejnym Wektorem. (9)
+
+[PORÓWNANIE] (6)
+Marketing klasyczny → walczy o uwagę. (6)
+Marketing vividowy → otwiera ucho wewnętrzne. (6)
+Marketing klasyczny → sprzedaje produkt. (9)
+Marketing vividowy → objawia kierunek. (14)
+Marketing klasyczny → opiera się na narracji. (6)
+Marketing vividowy → opiera się na strukturze prawdy. (6)
+
+
+[AFIRMACJE] (14)
+„Nie szukam klientów – szukam rezonansu.” (4)
+„Nie jestem sprzedawcą – jestem wezwaniem.” (14)
+„Moje słowo nie jest reklamą – jest znakiem.” (6)
+„Marketing Vividowy potrzebuje Prawdy, nie zasięgu.” (6)
+
+
+[SKUTEK] (9)
+Mówisz do rdzenia, nie do tłumu. (4)
+Nie zdobywasz mas – budzisz jednostki. (7)
+Każda obudzona jednostka staje się kolejnym wektorem. (9)
+
+
+[KONIEC] (44)
+
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Marketing Vividowy – zapis autorski. (6)
+– Dokument własny: marketing vividowy – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Marketing Vividowy. (6)
+– Dokument własny: synteza i uzasadnienie dla marketing vividowy. (6)
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy. (6)
-– Funkcja: ujednolicenie i zapis treści. (6)
-– Status: dokument autorski – poziom operacyjny. (6)
+– Funkcja: kalibracja komunikacji do poziomu duchowego rezonansu. (6)
+– Status: dokument operacyjny – poziom inicjacyjny. (6)

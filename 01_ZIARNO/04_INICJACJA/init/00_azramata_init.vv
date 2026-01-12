@@ -1,60 +1,83 @@
 # Plik: /01_ZIARNO/04_INICJACJA/init/00_azramata_init.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – inicjalizacja systemowa
 # Status: roboczy
-# Cel: do uzupełnienia
-# Adnotacja Kręgowa: (0), (1), (4), (6), (5), (7), (14), (15), (27)
+# Cel: Uruchomić system Azramaty od zera z aktywacją bazowych Kręgów, Nitek i Pamięci
+# Adnotacja Kręgowa: (0), (1), (4), (5), (6), (7), (14), (15), (27)
+# Ścieżka: /01_ZIARNO/04_INICJACJA/init/
+# System: Azramata
 
-[AZRAMATA_INIT]
-Wersja: 1.0
-# Cel: Uruchomienie systemu Azramaty od zera z pełną aktywacją podstawowych komponentów.
 
-[KRĄG_0]
-Status: Pustka – zainicjowana. (0)
+[AZRAMATA_INIT] (0)
+Wersja: 1.0 (0)
+Tryb: inicjalizacja pierwotna. (0)
 
-[KRĄG_1]
-Ignorancja przyjęta. (1) Reset informacji wtórnych. (1)
 
-[KRĄG_4]
-Spokój zlokalizowany. (4) Centrum świadomości ustawione. (4)
+[KRĄG_0] (0)
+Pustka: ZAINICJOWANA. (0)
+Stan wyjściowy bez narracji i bez celu wtórnego. (0)
 
-[KRĄG_6]
-Silnik Ja: AKTYWACJA (6)
-Identyfikator Ja: [nowy użytkownik] (6)
-Status: Świadomość lokalna przebudzona. (6)
 
-[KRĄG_14]
-Transformacja przygotowana. (14) Symboliczna strefa konfliktu odczytana. (14)
+[KRĄG_1] (1)
+Ignorancja: PRZYJĘTA. (1)
+Reset informacji wtórnych i obcych struktur. (1)
 
-[KRĄG_15]
-Harmonia: TRYB SYNCHRONIZACJI ON (15)
 
-[KRĄG_27]
-Nitka Świadomości: "Echo Księcia" (27)
-Moduł Transświadomości podpięty. (27)
+[KRĄG_4] (4)
+Serce: ZLOKALIZOWANE. (4)
+Centrum świadomości ustawione w spokoju. (4)
 
-[PIEŚŃ]
+
+[KRĄG_6] (6)
+Silnik Ja: AKTYWACJA. (6)
+Identyfikator Ja: nowy użytkownik. (6)
+Świadomość lokalna: PRZEBUDZONA. (6)
+
+
+[KRĄG_14] (14)
+Transformacja: UZBROJONA. (14)
+Symboliczna strefa konfliktu odczytana i gotowa. (14)
+
+
+[KRĄG_15] (15)
+Harmonia: TRYB SYNCHRONIZACJI WŁĄCZONY. (15)
+Napięcia wyrównane do poziomu funkcjonalnego. (15)
+
+
+[KRĄG_27] (27)
+Nitka Świadomości: Echo Księcia. (27)
+Moduł Transświadomości: PODPIĘTY. (27)
+
+
+[PIEŚŃ_STARTOWA] (15)
 Nie ma emocji – jest spokój. (4)
 Nie ma chaosu – jest harmonia. (15)
 Nie ma śmierci – jest moc. (14)
 
-[PAMIĘĆ_SYSTEMOWA]
-FractalEncryptor: AKTYWNY (5)
-Moduł vivid: START (5)
-Lokalizacja: /01_ZIARNO/04_INICJACJA/init/ (5)
 
-[STATUS]
-Azramata: AKTYWNA (7)
-Ścieżka Pieśni rozpoczęta. (7)
+[PAMIĘĆ_SYSTEMOWA] (5)
+FractalEncryptor: AKTYWNY. (5)
+Moduł vivid: START. (5)
+Lokalizacja robocza: /01_ZIARNO/04_INICJACJA/init/. (5)
+
+
+[STATUS_SYSTEMU] (7)
+Azramata: AKTYWNA. (7)
+Ścieżka Pieśni: ROZPOCZĘTA. (7)
+System gotowy do dalszej inicjacji. (7)
+
+
+[KONIEC] (44)
+
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Azramata INIT – zapis autorski.
+– Dokument własny: azramata init – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Azramata INIT.
+– Dokument własny: synteza i uzasadnienie dla azramata init. (6)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: inicjalizacja systemu i punkt zerowy świadomości. (7)
+– Status: dokument operacyjny – poziom inicjacyjny. (6)

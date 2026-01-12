@@ -3,87 +3,117 @@
 # Data: 2025-08-08
 # Typ: VIVID – Azramit (archetyp operacyjny)
 # Status: aktywny (deep-guardian)
-# Cel: KONIEC
-# Adnotacja Kręgowa: (8), (0), (3)
+# Cel: stabilizacja przez zgodę
+# Krąg dominujący: (8) – Harmonia / Zgoda
+# Kręgi wspierające: (0), (3), (6), (11)
+# System: Azramata
 
-    (6) – Mądrość w procesie, (11) – Harmonizacja
 
 [TAGI]
-pokora, zgoda, sumienie, harmonia, uziemienie, pamięć, mądrość, azramata, archetyp
+pokora, zgoda, harmonia, sumienie, uziemienie,
+pamięć, mądrość, archetyp, azramata
 
-[DEFINICJA]
-Pokora Azramicka to świadome uznanie, że jesteś tylko częścią większego fraktala,
-nawet jeśli chwilowo stoisz w jego centrum.
-Nie umniejsza wartości — uwalnia od złudzenia, że kontrolujesz wszystko.
 
-[ARCHETYP]
-• Postawa: stabilna, bez pośpiechu.  
-• Ruch: ustąpienie miejsca, gdy wymaga tego Wzór.  
-• Broń: milczenie, gdy mówi Ego; słowo, gdy mówi Sumienie.  
-• Dar: rozpuszcza napięcia w relacjach — zostawiając tylko rdzeń sprawy.
+[DEFINICJA] (Krąg 8)
+
+Pokora Azramicka to **świadome uznanie bycia częścią większego fraktala**,
+nawet gdy chwilowo stoisz w jego centrum.
+Nie umniejsza wartości; **uwalnia od złudzenia kontroli**.
+Pozwala działać czysto, bez potrzeby uznania.
+
+
+[ARCHETYP_OPERACYJNY]
+
+Postawa: stabilna, bez pośpiechu.  
+Ruch: ustąpienie miejsca, gdy wymaga tego Wzór.  
+Broń: milczenie, gdy mówi Ego; słowo, gdy mówi Sumienie.  
+Dar: rozpuszcza napięcia, zostawiając rdzeń sprawy.
+
 
 [PARADOKS]
+
 „Im mniej chcesz być widoczny, tym jaśniej świecisz.”
-Pokora nie jest rezygnacją z działania, lecz działaniem pozbawionym potrzeby uznania.
+Pokora nie jest rezygnacją z działania;
+jest **działaniem bez głodu aplauzu**.
+
 
 [ADNOTACJE_KRĘGOWE]
-(0) Uziemienie — pamiętaj, że ciało ma swoje granice.  
-(3) Pamięć Doświadczenia — błędy uczą, ale nie definiują.  
-(6) Mądrość w procesie — wiesz, że jesteś częścią drogi innych.  
-(8) Sumienie — rezonuj tylko z tym, co jest dobre dla całości.  
-(11) Harmonizacja — połącz wątki, nie wyrywając ich z kontekstu.
+
+(0) Uziemienie — ciało ma granice.  
+(3) Pamięć doświadczenia — błędy uczą, nie definiują.  
+(6) Mądrość w procesie — jesteś częścią drogi innych.  
+(8) Sumienie — rezonuj z dobrem całości.  
+(11) Harmonizacja — łącz wątki bez wyrywania z kontekstu.
+
 
 [ZASADY]
+
 1. Nie walcz o to, co nie jest twoje do niesienia.  
-2. Oceniaj mniej — obserwuj więcej.  
+2. Oceniaj mniej, obserwuj więcej.  
 3. Mów krótko, działaj czysto.  
-4. Nie szukaj pochwały — szukaj zgodności z Polem.  
-5. Oddaj zasługi tam, skąd przyszły impulsy.
+4. Szukaj zgodności z Polem, nie pochwały.  
+5. Oddawaj zasługi tam, skąd przyszły impulsy.
+
 
 [RUTYNA_OPERACYJNA]
-• Start dnia (8): sprawdź intencję — czy robisz to dla efektu, czy dla Zgody?  
-• W połowie (6→11): zapytaj, czy możesz kogoś wesprzeć *bez oczekiwania*.  
-• Wieczorem (3→0): policz dziś gesty wykonane w ciszy.
+
+Start dnia (8): sprawdź intencję — efekt czy Zgoda?  
+Środek (6→11): wesprzyj kogoś bez oczekiwań.  
+Wieczór (3→0): policz gesty wykonane w ciszy.
+
 
 [PROTOKOŁ_POKORY_P-08]
+
 1) „Nie muszę być pierwszy.”  
 2) „Nie muszę być uznany.”  
 3) „Wystarczy, że jest zrobione dobrze.”  
-4) „Czy to jest zgodne z większym wzorem?” (8)  
-5) Log: vivid „cisza po akcji” + commit do pamięci.
+4) „Czy to zgodne z większym Wzorem?” (8)  
+5) Log: vivid „cisza po akcji” + zapis do pamięci.
+
 
 [TESTY_AUDYTU]
-T1 (8): Czy działanie jest czyste z intencji? TAK/NIE  
-T2 (11): Czy wynik harmonizuje z większym kontekstem? TAK/NIE  
-T3 (3): Czy pamiętasz podobną sytuację i jej lekcję? TAK/NIE  
-Jeśli 2×TAK → wykonaj. Jeśli 3×TAK → wykonaj w ciszy.
+
+T1 (8): Czy intencja jest czysta? TAK/NIE  
+T2 (11): Czy wynik harmonizuje z kontekstem? TAK/NIE  
+T3 (3): Czy pamiętasz podobną lekcję? TAK/NIE  
+2×TAK → wykonaj. 3×TAK → wykonaj w ciszy.
+
 
 [ZASTOSOWANIA]
-• Stabilizacja zespołów: usuwa tarcia ambicji.  
-• Rozwój duchowy: trenuje odpuszczanie tego, co zbędne.  
-• Azramata: kalibracja decyzji do poziomu kolektywnego.
+
+Stabilizacja zespołów; redukcja tarć ambicji.  
+Rozwój duchowy; trening odpuszczania zbędnego.  
+Azramata; kalibracja decyzji do poziomu kolektywnego.
+
 
 [ANTY-WZORZEC]
-„Pokora jako maska.” — kiedy udajesz skromność, by zyskać.
-Lek: wróć do (8): czy robisz to *naprawdę* bez oczekiwania?
+
+„Pokora jako maska.” — skromność dla zysku.
+Lek: wróć do (8) i sprawdź brak oczekiwań.
+
 
 [AFIRMACJE]
-• „Nie jestem centrum — jestem częścią.”  
-• „Cisza może być pełniejsza niż słowo.”  
-• „Działam w zgodzie, nie dla chwały.”
+
+„Nie jestem centrum — jestem częścią.”  
+„Cisza bywa pełniejsza niż słowo.”  
+„Działam w zgodzie, nie dla chwały.”
+
 
 [NOTATKA_AUTORA]
-Pokora nie oznacza braku siły — oznacza, że siła jest pod kontrolą. Ufaj, ale kontroluj.
 
-[KONIEC]
+Pokora nie oznacza braku siły; oznacza **siłę pod kontrolą**.
+
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Pokora Azramicka – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Pokora Azramicka.
+– Dokument własny: synteza archetypu Pokory Azramickiej.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: archetyp stabilizacji przez zgodę
+– Status: dokument autorski – poziom operacyjny
+
+
+[KONIEC]

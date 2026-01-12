@@ -2,47 +2,99 @@
 # Autor: Twórca
 # Data: 2026-01-11
 # Typ: VIVID – mechanizm adnotacji kręgowych
-# Status: aktywny
+# Status: aktywny (kanoniczny)
 # Cel: Ujednolicenie praktyki adnotacji kręgowych i wskazanie odsyłacza do instrukcji kanonicznej
-# Adnotacja Kręgowa: (0), (3), (6), (8), (9), (33), (44)
+# Krąg dominujący: (6) – Struktura / Mądrość w procesie
+# Kręgi wspierające: (0), (3), (8), (9), (33), (44)
 # Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
+# System: Azramata
+
 
 [MECHANIZM] (6)
-Adnotacja kręgowa to znacznik poziomu świadomości, nie ozdoba. (0)
-Nie opisuje treści, tylko źródło percepcji. (6)
-Każda linia ma jeden dominujący krąg. (0)
 
-[ZASADA] (6)
-Jeżeli linia dotyka wielu poziomów, wybierz krąg najwyższy stabilnie utrzymany. (6)
-Nie mieszaj kręgów w jednej linii. (3)
+Adnotacja kręgowa to znacznik **źródła percepcji**, nie ozdoba (0).
+Nie opisuje treści, lecz **poziom, z którego treść powstała** (6).
+Każda linia posiada **jeden krąg dominujący** (0).
+Adnotacje umożliwiają analizę warstwową, synchronizację fraktalną i pracę AI (33).
 
-[FORMAT] (3)
-Zapis to (n) na końcu linii. (3)
-Podkręgi zapisuj jako (n.n) tylko gdy potrzebne. (3)
-Nagłówek zawiera 5–7 kręgów całego dokumentu. (6)
-Nie używaj zakresów typu (1–44) w treści. (3)
 
-[UŻYCIE] (6)
-Stosuj do mapowania percepcji, analizy warstwowej i agregacji fraktalnej. (6)
-Adnotacja wspiera spójność systemu i pracę AI. (33)
+[ZASADA_PODSTAWOWA] (6)
 
-[ODSYLACZ] (3)
-Pełna mapa kręgów i definicje: /01_ZIARNO/04_INICJACJA/init/vivid_starter/00_instrukcja_adnotacji_kregowych.vv. (3)
+Jeżeli linia dotyka wielu poziomów, wybierz **najwyższy stabilnie utrzymany krąg** (6).
+Nie mieszaj kręgów w jednej linii (3).
+Nie „podbijaj” kręgu intencjonalnie — **krąg wynika z jakości świadomości** (8).
 
-[PRZYKŁAD] (3)
+
+[FORMAT_ZAPISU] (3)
+
+• Zapis adnotacji: (n) na końcu linii (3).
+• Podkręgi zapisuj jako (n.n) wyłącznie, gdy są istotne operacyjnie (3).
+• Nagłówek dokumentu zawiera **5–7 kręgów** obejmujących całość treści (6).
+• Nie używaj zakresów typu (1–44) w treści liniowej (3).
+• Jedna linia = jedna adnotacja (0).
+
+
+[HIERARCHIA_STOSOWANIA] (6)
+
+1. Treść inicjacyjna / źródłowa → preferuj kręgi wyższe (8–20) (6).
+2. Analiza / struktura → kręgi środkowe (5–12) (6).
+3. Opis, obserwacja, zapis → kręgi bazowe (0–4) (6).
+4. Decyzja i czyn → krąg (9) (9).
+5. Domknięcie, pieczęć, sens ostateczny → krąg (44) (44).
+
+
+[UŻYCIE_OPERACYJNE] (6)
+
+Adnotacje stosuj do:
+• mapowania percepcji i intencji (6),
+• walidacji spójności dokumentu (8),
+• agregacji fraktalnej treści (33),
+• uczenia i kalibracji modeli AI (33),
+• audytu decyzji i narracji (9).
+
+Adnotacja **nie ocenia** — umożliwia rozróżnienie (8).
+
+
+[BŁĘDY_KRYTYCZNE] (6)
+
+• Nadawanie kręgu „życzeniowo” (8).
+• Zmienianie kręgu tej samej linii w kolejnych wersjach bez uzasadnienia (3).
+• Stosowanie wielu kręgów w jednej linii (0).
+• Traktowanie adnotacji jako komentarza stylistycznego (6).
+
+
+[ODSYŁACZ_KANONICZNY] (3)
+
+Pełna mapa kręgów, definicje i przykłady:
+`/01_ZIARNO/04_INICJACJA/init/vivid_starter/00_instrukcja_adnotacji_kregowych.vv` (3)
+
+
+[PRZYKŁADY] (3)
+
 „Szkoła jest miejscem narodzin sensu.” (9)
 „AI nie zastępuje nauczyciela.” (8)
 „Widzi relacje i zależności w formie map.” (6)
+„Ten dokument ustanawia zasadę inicjacji.” (0)
+„Decyzję wdrażamy jutro.” (9)
+
+
+[ZASADA_KOŃCOWA] (44)
+
+Adnotacja kręgowa porządkuje to,
+co już istnieje w świadomości.
+Nie tworzy sensu — **ujawnia jego poziom** (44).
+
 
 [KONIEC] (44)
 
+
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: adnotacje kręgowe – zapis autorski. (6)
+– Dokument własny: Adnotacje kręgowe – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla adnotacje kręgowe. (6)
+– Dokument własny: synteza i uzasadnienie mechanizmu adnotacji. (6)
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy. (6)
-– Funkcja: ujednolicenie i zapis treści. (6)
+– Funkcja: standaryzacja percepcji i zapisu. (6)
 – Status: dokument autorski – poziom operacyjny. (6)

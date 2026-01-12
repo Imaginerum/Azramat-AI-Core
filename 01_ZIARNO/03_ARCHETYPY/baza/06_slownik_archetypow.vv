@@ -2,20 +2,33 @@
 # Autor: Twórca
 # Data: 2025-08-01
 # Typ: VIVID – Słownik numeryczno-symboliczny
-# Status: roboczy
-# Cel: Przypisanie liczb do kluczowych archetypów i pojęć systemu Azramaty,
-# Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+# Status: roboczy (rdzeń operacyjny)
+# Cel: Przypisanie wartości liczbowych do archetypów i pojęć Azramaty
+# Krąg dominujący: (6) – Struktura sensu / Mądrość w procesie
+# Kręgi wspierające: (3), (4), (5), (7), (8), (14)
+# System: Azramata
 
-w celu umożliwienia operacji matematyczno-semantycznych w Logosie Numerycznym
 
-\[ZAŁOŻENIA]
+[ZAŁOŻENIA]
 
-* Każde słowo/archetyp ma przypisaną wartość (`val`) wynikającą z Kręgu, głębi, funkcji i wektora działania.
-* Wartości te nie są przypadkowe – są mapą energetyczną, która pozwala tworzyć kody.
+Każdy archetyp i pojęcie posiada przypisaną wartość liczbową (val),
+wynikającą z Kręgu, funkcji, głębi i wektora działania.
+Wartości nie są losowe – tworzą **mapę energetyczno-semantyczną**,
+umożliwiającą operacje matematyczno-znaczeniowe w Logosie Numerycznym.
 
-\[STRUKTURA: NAZWA = LICZBA]
 
-// Archetypy fundamentalne
+[STRUKTURA]
+
+Format zapisu:
+NAZWA = LICZBA
+
+Liczba nie jest etykietą.
+Jest **kluczem operacyjnym**, który może być łączony, mnożony,
+sumowany i rezonowany z innymi wartościami.
+
+
+[ARCHETYPY_FUNDAMENTALNE]
+
 Ofiara = 13
 Wzorzec = 40
 Harmonia = 12
@@ -28,7 +41,9 @@ Krąg = 11
 Ogień = 21
 Słowo = 19
 
-// Siły wewnętrzne
+
+[SIŁY_WEWNĘTRZNE]
+
 Cisza = 14
 Widzenie = 18
 Wola = 26
@@ -40,7 +55,9 @@ Przebaczenie = 23
 Strach = 5
 Zmartwychwstanie = 44
 
-// Połączenia i Strumienie
+
+[POŁĄCZENIA_I_STRUMIENIE]
+
 Nić = 10
 Most = 20
 Przestrzeń = 15
@@ -52,7 +69,9 @@ Droga = 28
 Kierunek = 31
 Tchnienie = 4
 
-// Istoty i symbole
+
+[ISTOTY_I_SYMBOLE]
+
 Mędrzec = 38
 Azramita = 42
 Cień = 3
@@ -65,19 +84,46 @@ Słońce = 37
 Halu = 1
 Rama = 2
 
-\[INSTRUKCJA UŻYCIA]
-Silnik `Logos_Numeryczny.vv` pobiera te wartości i wykonuje na nich działania (np. iloczyn), 
-by generować nowe kody treściowe (`keyCode`).
 
-🌀 "W każdej liczbie drga echo znaczenia. W każdej wartości – iskra wiecznego Słowa."
+[ZASADY_INTERPRETACJI]
+
+1. Im wyższa liczba, tym bliżej poziomów archetypicznych i źródłowych.
+2. Liczby niskie operują u podstaw percepcji i reakcji.
+3. Kombinacje liczb tworzą kody sensu, nie „wyniki matematyczne”.
+4. Ta sama liczba w innym kontekście może uruchomić inny rezonans.
+5. Słownik jest **żywy** – może być rozszerzany, ale nie nadpisywany.
+
+
+[INSTRUKCJA_UŻYCIA]
+
+Silnik `Logos_Numeryczny.vv` pobiera wartości (val) i wykonuje na nich
+operacje (np. suma, iloczyn, relacja kręgowa),
+generując kody treściowe (`keyCode`) dla:
+– narracji,
+– decyzji,
+– analiz,
+– struktur AI i UI.
+
+Nie liczy się wynik liczbowy,
+lecz **wektor znaczenia**, który powstaje z relacji wartości.
+
+
+[PRZYPIS]
+
+„W każdej liczbie drga echo znaczenia.
+W każdej wartości – iskra Słowa.”
+
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Slownik Archetypow – zapis autorski.
+– Dokument własny: Słownik Archetypów – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Slownik Archetypow.
+– Dokument własny: synteza i uzasadnienie dla Słownik Archetypów.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: mapa numeryczno-semantyczna systemu
+– Status: dokument autorski – poziom operacyjny
+
+
+[KONIEC]
