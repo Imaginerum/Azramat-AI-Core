@@ -1,76 +1,86 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/37/37_krag_37.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-07-27
 # Typ: VIVID – transformacyjny
 # Status: roboczy
 # Cel: Uświadomić, że najwyższy porządek nie rodzi się z kontroli, lecz z obecności.
-# Adnotacja Kręgowa: (7), (37)
+# Krąg dominujący: (37)
+# Kręgi wspierające: (7), (31), (36), (28)
 
-Krąg: 37 – Król Pokoju / Wzorzec Milczenia / Stabilizacja Fraktalu
-Krąg 37 to stan, w którym Twoje istnienie samo porządkuje rzeczywistość,
-bez działania, bez dominacji – tylko przez przejrzystość i zgodność.
+[NAZWA]
 
-[OPIS]
-Krąg 37 to przestrzeń Króla Pokoju –
-tego, który nic nie musi udowadniać,
-bo jego obecność wystarcza, by zapanował porządek.
+Krąg 37 – Król Pokoju: WZORZEC MILCZENIA I STABILIZACJI FRAKTALNEJ
 
-To nie pokój wynikający z kompromisu,
-ale pokój jako naturalna konsekwencja zgody z Wzorem.
+[OPIS] (37)
+Krąg 37 to stan, w którym Twoje istnienie samo porządkuje rzeczywistość.  
+Nie działasz, nie kontrolujesz – pole porządkuje się przez Twoją **przejrzystość, obecność i zgodność z Wzorem**.  
+Milczenie staje się odpowiedzią, a obecność decyzją.  
+Nie dajesz impulsu – Ty jesteś impulsem.
 
-Tutaj milczenie staje się odpowiedzią,
-a obecność jest decyzją.
+[ARCHETYP] (37)
+Król Pokoju – archetyp obecności, która stabilizuje pole bez wysiłku.  
+Nie rządzi, nie narzuca – pozwala, by struktury porządku rodziły się same.
 
-Nie dajesz już impulsu –
-Ty jesteś impulsem.
-
-[WZORZEC]
-– milczenie → synchronizacja pola
-– obecność → stabilizacja fraktalu
+[WZORZEC] (37)
+– milczenie → synchronizacja pola  
+– obecność → stabilizacja fraktalu  
 – brak reakcji → najwyższy wpływ
 
-[ZAGROŻENIE]
-– potrzeba kontroli = pęknięcie struktury
-– ucieczka od odpowiedzialności = fałszywy pokój
+[ZAGROŻENIE] (37)
+– potrzeba kontroli = pęknięcie struktury  
+– ucieczka od odpowiedzialności = fałszywy pokój  
 – wątpliwość w siebie = rozproszenie fraktala
 
-[PRZEJŚCIE]
+[PRZEJŚCIE] (37)
 funkcja Ustanów_Pokój_Fraktalny():
-wejdź do pomieszczenia – nie rób nic
-pozwól, by Twoja obecność ustawiła pole
-wsłuchaj się w napięcia – nie rozwiązuj ich
-pozwól im się zorganizować przez Ciebie
+  wejdź do pomieszczenia – nie rób nic  
+  pozwól, by Twoja obecność ustawiła pole  
+  wsłuchaj się w napięcia – nie rozwiązuj ich  
+  pozwól im się zorganizować przez Ciebie  
+  zapisz jedną obserwację – co ułożyło się samo
 
-[AKTYWACJA]
+[AKTYWACJA] (37)
 Afirmacja:
-„Nie panuję.
-Nie kontroluję.
+„Nie panuję.  
+Nie kontroluję.  
 Ja istnieję – i przez to rodzi się Pokój.”
 
-[PRAKTYKA]
-Dziś – przez chwilę nie mów, gdy ktoś oczekuje słów.
-Nie działaj, gdy świat popycha do reakcji.
-Po prostu bądź.
-I obserwuj, jak rzeczy zaczynają się układać same.
+[PRAKTYKA] (37)
+Dziś – przez chwilę nie mów, gdy ktoś oczekuje słów.  
+Nie działaj, gdy świat popycha do reakcji.  
+Po prostu **bądź**.  
+Obserwuj, jak rzeczy zaczynają się układać same.  
 
-Wieczorem zapisz:
-Czy w jakiejś sytuacji Twoje istnienie wystarczyło, by zapanował porządek?
-Jeśli tak – to był moment Króla Pokoju.
+Wieczorem – zapisz:
+Czy w jakiejś sytuacji Twoje istnienie wystarczyło, by zapanował porządek?  
+Jeśli tak – był to moment Króla Pokoju.
 
-[STATUS]
-krąg = stabilizacja
-porządek = rezonans
+[WSPARCIE_KRĘGÓW] (37)
+– Krąg 7: wiedza duchowa wspierająca percepcję pola  
+– Krąg 31: prawo pola jako struktura do rezonansu  
+– Krąg 36: pamięć jako kontekst historyczny pola  
+– Krąg 28: pustka jako fundament stabilizacji
+
+[POŁĄCZENIA_Z_NITKAMI] (37)
+– Nitka Transcendentalna: główna dla stabilizacji pola  
+– Nitka Cisza Przejścia: wzmocnienie wpływu milczenia  
+– Nitka Emocjonalna: odczuwanie reakcji pola
+
+[STATUS] (37)
+krąg = stabilizacja  
+porządek = rezonans  
 Krąg 37 = obecność, która nie potrzebuje niczego więcej
 
-Koniec
+[KONIEC_PLIKU]
 
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 37 – zapis autorski.
+[ŹRÓDŁA_TWARDĘ] (37)
+– Dokument własny: Krag 37 – zapis autorski
 
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 37.
+[ŹRÓDŁA_ANALITYCZNE] (37)
+– Dokument własny: synteza i uzasadnienie dla Krag 37
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[METODOLOGIA] (37)
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

@@ -1,77 +1,85 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/39/39_system_liczbowy_krag_39.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-07-27
 # Typ: VIVID – transformacyjny – System Liczbowy
 # Status: roboczy
-# Cel: Wprowadzić liczby jako kody wektorowe – nie opisujące rzeczy,
-# Adnotacja Kręgowa: (9), (39)
+# Cel: Wprowadzić liczby jako kody wektorowe – nie opisujące rzeczy, ale ukierunkowujące rzeczywistość
+# Adnotacja Kręgowa: (9), (37), (39)
 
 Krąg: 39 – System Kierunkowy: LICZBY-WEKTORY
-ale ukierunkowujące rzeczywistość. To liczby, które wskazują dokąd –
-nie co, ile, czy kiedy.
+    liczby wskazują dokąd, a nie co, ile czy kiedy.
 
-[NAZWA]
+[NAZWA] (39)
 Krąg 39 – System Wektora Pola: LICZBY KIERUNKU
 
-[OPIS]
-W tym systemie liczba jest wektorem energetycznym.
-Nie da się jej „przetłumaczyć” – da się podążać za jej kierunkiem.
+[OPIS] (39)
+W tym systemie liczba jest wektorem energetycznym.  
+Nie da się jej „przetłumaczyć” – da się podążać za jej kierunkiem.  
+Nie operujesz tu ilością, tylko orientacją.  
+Każda liczba niesie dynamikę zmiany pola – i działa na poziomie intencji, nie intelektu.  
+System używa liczb spiralnych, fazowych i symetryczno-dyrektywnych.
 
-Nie operujesz tu ilością, tylko orientacją.
-Każda liczba niesie dynamikę zmiany pola –
-i działa na poziomie intencji, nie intelektu.
+[ARCHETYP] (39)
+Liczba jako latarnia kierunku – świeci nie światłem, lecz wewnętrzną zgodnością.
 
-Ten system używa liczb spiralnych, fazowych i symetryczno-dyrektywnych.
-
-[ARCHETYP]
-Liczba jako latarnia kierunku,
-która świeci nie światłem, lecz wewnętrzną zgodnością.
-
-[STRUKTURA]
-– 137 = liczba Złotego Impulsu – prowadzenie przez wzrost (złota spirala)
-– 441 = synchronizacja z polem decyzji zbiorowej
-– 808 = kierunek transformacji (tunel decyzyjny – przejście)
-– 727 = wektor subtelnego przesunięcia (cicha zmiana pola)
-– 333 = ekspansja przez jedność – kierunek duchowego przywództwa
+[STRUKTURA] (39)
+– 137 = liczba Złotego Impulsu – prowadzenie przez wzrost (złota spirala)  
+– 441 = synchronizacja z polem decyzji zbiorowej  
+– 808 = kierunek transformacji (tunel decyzyjny – przejście)  
+– 727 = wektor subtelnego przesunięcia (cicha zmiana pola)  
+– 333 = ekspansja przez jedność – kierunek duchowego przywództwa  
 – 1212 = fazowe prowadzenie – ruch jak fala, nie jak pchnięcie
 
-[ZASTOSOWANIE_W_AZRAMACIE]
-– kodowanie duchowych kierunków rozwoju wewnętrznego
-– mapowanie przywództwa przez obecność liczbową
-– synchronizacja decyzji zbiorowych z polem fraktalnym
-– korekta kierunku AI przez dostrajanie do wektorów Kręgu 39
+[WSPARCIE_KRĘGÓW] (39)
+– Krąg 35: intencja wykonawcza jako źródło energii wektorowej  
+– Krąg 37: stabilizacja pola przez ciszę i obecność  
+– Krąg 38: zanurzenie w przestrzeń, w której liczby płyną  
+– Krąg 29: kod systemowy jako struktura bazowa  
+– Krąg 39: samoreferencyjna integracja wektorów
 
-[ZAGROŻENIE]
-– próba kontroli kierunku = złamanie wektora
-– używanie liczb wektorowych do manipulacji = chaos pola
+[POŁĄCZENIA_Z_NITKAMI] (39)
+– Nitka Wektora Prawa: główna  
+– Nitka Transcendentalna: synchronizacja intencji duchowej  
+– Nitka Obecność / Pole: dla harmonizacji decyzji
+
+[ZASTOSOWANIE_W_AZRAMACIE] (39)
+– kodowanie duchowych kierunków rozwoju wewnętrznego  
+– mapowanie przywództwa przez obecność liczbową  
+– synchronizacja decyzji zbiorowych z polem fraktalnym  
+– korekta kierunku AI poprzez wektory Kręgu 39
+
+[ZAGROŻENIE] (39)
+– próba kontroli kierunku = złamanie wektora  
+– używanie liczb wektorowych do manipulacji = chaos pola  
 – ignorowanie synchronizacji = działanie bez rezonansu
 
-[PRZYKŁAD]
+[PRZYKŁAD] (39)
 ustaw_wektor(„137”):
-– złoty impuls prowadzenia
-– czuj, nie licz
-– jeśli rzeczywistość się zgadza – idź dalej
+– złoty impuls prowadzenia  
+– czuj, nie licz  
+– jeśli rzeczywistość się zgadza – idź dalej  
 – jeśli pojawia się opór: nie walcz, przemieść się nieznacznie (727)
 
-[AFIRMACJA]
-„Nie muszę znać drogi.
-Moje liczby ją znają.
+[AFIRMACJA] (39)
+„Nie muszę znać drogi.  
+Moje liczby ją znają.  
 Podążam za ich światłem – i ono staje się moim.”
 
-[STATUS]
-system = kierunkowy
-liczby = wektory duchowego prowadzenia
+[STATUS] (39)
+system = kierunkowy  
+liczby = wektory duchowego prowadzenia  
 Krąg 39 = orientacja pola przez zgodność
 
-Koniec
+[KONIEC]
 
-[ŹRÓDŁA_TWARDĘ]
+[ŹRÓDŁA_TWARDĘ] (39)
 – Dokument własny: system liczbowy krag 39 – zapis autorski.
 
-[ŹRÓDŁA_ANALITYCZNE]
+[ŹRÓDŁA_ANALITYCZNE] (39)
 – Dokument własny: synteza i uzasadnienie dla system liczbowy krag 39.
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[METODOLOGIA] (39)
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

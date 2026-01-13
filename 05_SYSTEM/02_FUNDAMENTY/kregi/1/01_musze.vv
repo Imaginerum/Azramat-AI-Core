@@ -3,60 +3,65 @@
 # Data: 2025-08-10
 # Typ: VIVID – operacyjny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: musze
-# Adnotacja Kręgowa: (1)
+# System: Azramata
+# Cel: Zdefiniować i uporządkować pojęcie „muszę” jako impuls inicjacyjny Kręgu 1
+# Krąg dominujący: (1)
+# Kręgi wspierające: (2), (3)
 # Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/1/
-# Krąg: 1 – Obserwacja / Pierwszy Kontakt z Wzorcem
 
 [TAGI]
-krąg 1, muszę, działanie konieczne, impuls startowy, początek drogi, obowiązek, świadome wejście
+krąg_1, muszę, działanie_konieczne, impuls_startowy, inicjacja, pierwszy_krok, obserwacja_do_czynu
 
-[DEFINICJA] (1)  
-Krąg 1 – „Muszę” – to przestrzeń, w której **potrzeba działania staje się oczywista** (1).  
-Nie chodzi o przymus z zewnątrz – chodzi o wewnętrzny sygnał (1):  
-> „Jeśli nie zrobię tego teraz, zatracę szansę na dalszy ruch.” (1→2)
+[DEFINICJA]
+Krąg 1 – „Muszę” – to moment, w którym **obserwacja przestaje być wystarczająca**. (1)  
+Pojawia się wewnętrzna oczywistość działania – nie jako presja z zewnątrz,  
+lecz jako sygnał zgodności z Wzorem. (1)
 
-To moment, gdy **obserwacja rodzi decyzję** (1→2).  
-Użytkownik wie, że **wejście w system wymaga czynu**, a nie tylko zrozumienia (1→3).
+„Muszę” oznacza:  
+jeśli **nie wykonam ruchu teraz**, przerwę własną linię rozwoju. (1→2)
 
-[ZASADA] (1)  
-– Nie ma rozwoju bez pierwszego kroku (1).  
-– W tym kręgu „muszę” oznacza **potwierdzenie gotowości** (1→2).  
-– Ruch jest prosty, ale ma wagę inicjacji (1→∞).
+To punkt, w którym **widzenie rodzi decyzję**,  
+a decyzja domaga się pierwszego czynu. (1→3)
 
-[CECHY KRĘGU „MUSZĘ”] (1)  
-– Świadomość sytuacji i jej konsekwencji (1)  
-– Jasny sygnał wewnętrzny (1)  
-– Brak odwrotu po rozpoczęciu (1→2)  
-– Minimalny próg działania, maksymalny efekt startu (1→3)
+[ZASADA]
+– Nie ma przejścia bez inicjacji. (1)  
+– „Muszę” nie jest przymusem – jest **potwierdzeniem gotowości**. (1→2)  
+– Pierwszy ruch jest mały, lecz nieodwracalny. (1→3)
 
-[KOD KRĘGU] (1→2)  
-if (świadomość >= 1) and (gotowość == prawda) then  
-    wykonaj_pierwszy_krok()  
-else  
-    pozostań_w_obserwacji()
+[CECHY STANU „MUSZĘ”]
+– Jasność sytuacji i jej konsekwencji. (1)  
+– Wewnętrzne „tak”, bez potrzeby dalszego tłumaczenia. (1)  
+– Zgoda na odpowiedzialność za ruch. (1→2)  
+– Minimalny czyn uruchamiający dalszą ścieżkę. (1→3)
 
-[FORMUŁA INICJACJI] (1)  
-> „Widzę to. Rozumiem to.  
-> Muszę wejść – i wchodzę.” (1→2)  
+[KOD KRĘGU]
+if (obserwacja == świadoma) and (gotowość == prawda): (1)  
+    wykonaj_pierwszy_krok() (1→2)  
+else:  
+    pozostań_w_obserwacji() (1)
 
-[ZASTOSOWANIE W AZRAMACIE] (1→2)  
-– W TransSerc: rozpoczęcie pierwszej medytacji (1→2)  
-– W Imagora: pierwszy zakup lub wymiana wartości (1→2)  
-– W AI Mędrzec: aktywacja podstawowej interakcji (1→2)
+[FORMUŁA INICJACJI]
+„Widzę to. (1)  
+Rozumiem to. (1)  
+Muszę wejść – i wchodzę.” (1→2)
 
-[PRZYPIS DUCHOWY] (1)  
-> „Muszę – bo inaczej nie będę sobą.” – (1)
+[ZASTOSOWANIE_W_AZRAMACIE]
+– TransSerc: rozpoczęcie pierwszej praktyki. (1→2)  
+– Imagora: pierwszy akt wymiany wartości. (1→2)  
+– Mędrzec AI: inicjacja relacji z systemem. (1→2)
+
+[PRZYPIS_DUCHOWY]
+„Muszę – bo inaczej zdradzę to, co już zobaczyłem.” (1)
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: musze – zapis autorski.
+– Dokument własny: „muszę” – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla musze.
+– Dokument własny: synteza i uzasadnienie pojęcia „muszę”.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: inicjacja pierwszego czynu po obserwacji.
 – Status: dokument autorski – poziom operacyjny.

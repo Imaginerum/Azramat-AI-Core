@@ -1,0 +1,142 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/06_wygrana_bledu.vv
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Strategia fraktalna / Antykruchość
+# Status: roboczy
+# Cel: Sformalizować zasadę „gram jakby Azramata działała; jeśli nie – i tak wygrywam”
+#       jako mechanikę wygrywającą niezależnie od wyniku pojedynczej hipotezy.
+# Krąg dominujący: (6) – Integracja / Uczenie się z doświadczenia  
+# Kręgi wspierające: (5), (7), (11), (13), (17)
+# System: Azramata
+
+---
+
+[MODEL]
+nazwa = Wygrana_Błędu  
+domena = Teoria_Gier_Azramatyczna  
+paradygmat = „błąd jako ruch zwycięski”  
+kręgi_przewodnie = 5→6→7→11→13→17  
+
+---
+
+[TEZA_RDZENIOWA] (6)
+Każdy ruch, który **ujawnia strukturę pola** — nawet poprzez pomyłkę —  
+przybliża do wzoru.
+
+Błąd **nie jest porażką**, jeśli:
+– generuje informację,  
+– koryguje wektor działania,  
+– wzmacnia obecność w polu gry.
+
+Integracja błędu = postęp.
+
+---
+
+[ZASADA_PODWÓJNEJ_WYGRANEJ] (5)(13)
+
+1) **Jeśli Azramata działa**  
+→ wygrywasz przewagą wzoru, spójnością i skalowalnością decyzji.
+
+2) **Jeśli Azramata nie działa**  
+→ wygrywasz:
+   – treningiem percepcji,  
+   – rytmem działania,  
+   – siecią relacji,  
+   – autorytetem praktyki.
+
+W obu przypadkach **nie cofasz się**.
+
+---
+
+[MECHANIKA_ANTYKRUCHEJ_GRY] (6)(7)(11)
+
+• Informacja zwrotna z błędu  
+  → aktualizacja mapy poznawczej (6)
+
+• Rezonans z polem mimo niepewności  
+  → ciągłość obecności i zaufania (7)
+
+• Bramka Zgody  
+  → filtr działań szkodliwych i manipulacyjnych (11)
+
+---
+
+[PROTOKOŁ_P-EB] (5→6→13)
+**Experiment → Bound**
+
+1) Zdefiniuj mikro-hipotezę  
+   + minimalny koszt testu (5)
+
+2) Wykonaj **mały ruch**  
+   + loguj Φ / κ / ψ (6)
+
+3) Jeśli wynik ≠ oczekiwany  
+   → zamień go w **artefakt wiedzy**  
+   (vivid + nota operacyjna) (13)
+
+Błąd zostaje **związany** i nie powtarza się chaotycznie.
+
+---
+
+[METRYKI_OPERACYJNE] (6)(7)(17)
+
+learn_yield      = liczba wniosków / test  
+presence_streak  = dni ciągłej praktyki  
+phi_delta        = Φ_before − Φ_after   (≤ 0 pożądane)  
+kappa            = spójność fraktalna   (> 0.7 zalecane)  
+error_value      = (learn_yield × presence_streak) / koszt_testu  
+
+---
+
+[TAKTYKI]
+
+T1 „Małe ryzyko, duża informacja” (5)  
+T2 „Publikuj fakty, nie interpretacje” (13)  
+T3 „Zmieniaj planszę, gdy robi się tłoczno” (7→17)  
+T4 „Nigdy nie eskaluj bez Zgody” (11)
+
+---
+
+[KRĘGI_OPERACYJNE]
+
+(5) **Kierunek** — intencja ponad emocją.  
+(6) **Integracja** — błąd sklejony w wiedzę.  
+(7) **Rezonans** — utrzymuj obecność w polu.  
+(11) **Sumienie** — filtr szkód i manipulacji.  
+(13) **Cisza działania** — efekt > deklaracja.  
+(17) **Ograniczone ujawnienie** — dawkuj mapę.
+
+---
+
+[ANTY-WZORZEC] (2)
+„Podwajanie stawki ze strachu.”
+
+Jeśli ruch wynika z impulsu (2):  
+→ **przerwij**, wróć do (5) i zdefiniuj nowy mikro-test.
+
+---
+
+[AFIRMACJE_OPERACYJNE]
+
+„Błąd to ruch, który pokazał mi drogę.”  
+„Wygrywam rytmem, nie jednorazowym strzałem.”  
+„Publikuję wynik, nie ego.”
+
+---
+
+[STOPKA]
+Integracja: łączyć z P-05 / P-11 / P-13 z `Przemiana_Azramatyczna.vv`  
+Status: aktywne
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Wygrana Błędu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Wygrana Błędu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: modelowanie antykruchości i uczenia się przez błąd.  
+– Status: dokument autorski – poziom operacyjny.

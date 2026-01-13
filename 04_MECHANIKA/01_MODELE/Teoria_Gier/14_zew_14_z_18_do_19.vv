@@ -3,46 +3,101 @@
 # Data: 2025-08-08
 # Typ: VIVID – Strategia Kręgowa / Emisja Egregoru
 # Status: roboczy
-# Cel: Użycie masowego wysyłania CV jako nośnika intencji i sygnału w polu,
-# Adnotacja Kręgowa: (14), (18), (19)
+# Cel: Użycie masowego wysyłania CV jako nośnika intencji i sygnału w polu
+# System: Azramata
+# Krąg dominujący: (14) – Zew / Wezwanie
+# Kręgi wspierające: (18), (19)
+
+---
 
 [MODEL]
-nazwa = Zew_14_z_18_do_19
-domena = Teoria_Gier_Azramatyczna
-paradygmat = „aplikacja jako komunikat egregorialny”
+nazwa = Zew_14_z_18_do_19  
+domena = Teoria_Gier_Azramatyczna  
+paradygmat = „aplikacja jako komunikat egregorialny”  
 plansze = {rynek_pracy, percepcja_społeczna, narracja, reputacja}
 
-[KRĘGI_PRZEWODNIE]
-(14) – Zew: intencja ciągłego wezwania w przestrzeń publiczną.
-(18) – Promień: rozszerzenie sygnału w wielu kierunkach jednocześnie.
-(19) – Hala Sław: utrwalenie w pamięci zbiorowej i w strukturze wzoru.
+---
 
-[ZAŁOŻENIA]
-- Każde CV jest nośnikiem kodu (język, forma, detale) → działa na percepcję odbiorcy.
-- Liczy się ilość odbiorców i powtarzalność sygnału.
-- Dokument nie jest prośbą o pracę — jest **emanacją obecności**.
-- Nawet odrzucone CV działa — zostaje w pamięci skrzynki, w systemach HR, w rozmowach.
+[OPIS_RDZENIOWY]
+Zew 14 z 18 do 19 to **strategia emisji obecności**, w której czynność pozornie
+instrumentalna (wysyłanie CV) staje się **aktem kręgowym**.
+
+Nie jest to prośba o zatrudnienie.  
+Jest to **wezwanie rzucone w pole zbiorowe**.
+
+CV działa tu jak:
+– sygnet,
+– pieczęć,
+– nośnik intencji.
+
+Każda wysyłka to impuls w Kręgu (14),  
+każde dotarcie — promień rozszerzenia (18),  
+a każda rejestracja w systemach, pamięci ludzi i narracjach  
+— zapis w Hali Sław (19).
+
+---
+
+[KRĘGI_PRZEJŚCIA]
+
+(14)  
+Zew — decyzja, by **zaistnieć w przestrzeni publicznej**.  
+Nie prosisz.  
+Wołasz.  
+Twoja obecność domaga się odpowiedzi.
+
+---
+
+(18)  
+Promień — intencja rozchodzi się wielokierunkowo.  
+Nie wiesz, kto odpowie,  
+ale wiesz, że **pole zostało poruszone**.
+
+---
+
+(19)  
+Hala Sław — nawet brak odpowiedzi jest zapisem.  
+Imię, forma, ton —  
+zostają w systemach, rozmowach, pamięci zbiorowej.  
+Legenda zaczyna żyć własnym życiem.
+
+---
+
+[ZAŁOŻENIA_STRATEGICZNE]
+– Każde CV jest **pakietem znaczeń**, nie tylko kompetencji.  
+– Ilość + powtarzalność = utrwalenie wzoru.  
+– Odrzucenie ≠ porażka → jest **aktem zapisu**.  
+– Dokument nie szuka pracy — **ustanawia obecność**.
+
+---
 
 [MECHANIKA_RUCHU]
-1. **Przygotowanie matrycy** — CV zawiera element zakodowanego wzoru (np. fraza, układ, symbol).
-2. **Masowa emisja** — wysyłka do szerokiej bazy odbiorców (różne branże, struktury).
-3. **Rezonans wtórny** — część odbiorców reaguje, inni zapamiętują mimo braku reakcji.
-4. **Fala powrotna** — odpowiedzi, oferty, zapytania — każdy kontakt jest punktem kotwiczącym wzór.
-5. **Utrwalenie** — ruch zostaje zapisany w polu (Krąg 19), a wzór działa długofalowo.
+1. **Matryca** — CV zawiera element wyróżniający (fraza, struktura, układ, sens).
+2. **Emisja** — masowa wysyłka do wielu sektorów jednocześnie.
+3. **Rezonans wtórny** — część reaguje, część zapamiętuje bez reakcji.
+4. **Fala powrotna** — odpowiedzi, oferty, pytania, rekomendacje.
+5. **Utrwalenie** — wzór zapisuje się w Kręgu (19) i działa długofalowo.
 
-[STRATEGIA]
-- Mów językiem wartości i wizji, nie tylko kompetencji.
-- Dodawaj elementy unikalne, które łatwo zapamiętać.
-- Wysyłaj partiami, by utrzymać długotrwałą obecność w polu.
-- Obserwuj, które sektory reagują najmocniej — wzmacniaj tam sygnał.
+---
+
+[STRATEGIA_OPERACYJNA]
+– Mów językiem **wizji i sensu**, nie tylko umiejętności.
+– Stosuj elementy łatwe do zapamiętania.
+– Wysyłaj partiami, by utrzymać ciągłość sygnału.
+– Wzmacniaj sektory, w których pojawia się rezonans.
+
+---
 
 [ZASADA_PRZEWAGI]
-„Nie szukasz pracy — tworzysz legendę.”
+„Nie szukasz pracy — **tworzysz legendę**.”
+
+---
 
 [META]
-Czas trwania efektu: 6–18 miesięcy od emisji.
-Efekt uboczny: zwiększona rozpoznawalność w środowiskach, do których normalnie nie docierasz.
-Ryzyko: nadmierna widoczność może wywołać ciekawość tych, których wolałbyś ominąć, więc wybieraj mądrze.
+Czas trwania efektu: 6–18 miesięcy od emisji.  
+Efekt uboczny: zwiększona rozpoznawalność poza standardowym zasięgiem.  
+Ryzyko: nadmierna widoczność — dlatego **Zew musi być czysty**.
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Zew 14 z 18 do 19 – zapis autorski.
@@ -51,6 +106,6 @@ Ryzyko: nadmierna widoczność może wywołać ciekawość tych, których wolał
 – Dokument własny: synteza i uzasadnienie dla Zew 14 z 18 do 19.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: emisja egregorialna i utrwalenie wzoru obecności.  
 – Status: dokument autorski – poziom operacyjny.

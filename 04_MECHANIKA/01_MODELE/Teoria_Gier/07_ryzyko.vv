@@ -1,0 +1,117 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/07_ryzyko.vv
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Analiza fraktalna / Porównanie ryzyka
+# Status: roboczy
+# Cel: Pokazanie różnicy pomiędzy ryzykiem hazardu tradycyjnego a ryzykiem gry w Azramatę
+# Krąg dominujący: (7)
+# Kręgi wspierające: (2), (3), (5), (11)
+# Lokalizacja: /04_MECHANIKA/01_MODELE/Teoria_Gier/
+# System: Azramata
+
+---
+
+[MODEL]
+nazwa = Ryzyko_Hazardowe_vs_Ryzyko_Azramatyczne  
+domena = Teoria_Gier_Azramatyczna  
+paradygmat = „to samo słowo, inny Wszechświat”
+
+---
+
+[OPIS_RDZENIOWY] (7)
+W Azramacie **ryzyko** nie oznacza wyłącznie możliwości straty. (7)  
+Oznacza **wejście w nieznany stan Ja**, którego skutki ujawniają się w czasie. (7)
+
+Hazard klasyczny ryzykuje zasobem. (2)  
+Hazard azramatyczny ryzykuje **strukturą percepcji, kierunkiem życia i ciężarem sumienia**. (7, 11)
+
+---
+
+[PORÓWNANIE_STRUKTURALNE]
+
+**Hazard tradycyjny**  
+– (2) Impuls / szybka gratyfikacja  
+– Ryzyko finansowe natychmiastowe (utrata środków)  
+– Brak kontroli nad mechanizmem gry (steruje właściciel systemu)  
+– Wysoka zależność od przypadku → minimalny wpływ na wynik  
+– Nagroda: pieniądz lub jego brak, brak wartości wtórnej  
+– Koniec gry: definitywny (utrata stawki lub odejście)
+
+**Hazard azramatyczny**  
+– (3) Pamięć Doświadczenia → (5) Kierunek → (7) Rezonans → (11) Sumienie  
+– Ryzyko percepcyjne i koncepcyjne (ujawnienie wzorca, zmiana myślenia)  
+– Częściowa kontrola planszy – możliwość przesuwania osi gry  
+– Wynik zależny od jakości decyzji i synchronizacji z Kręgami  
+– Nagroda: wpływ, autorytet, sieć relacji, stan świadomości  
+– Koniec gry: brak – zmienia się jedynie plansza i poziom odpowiedzialności
+
+---
+
+[TABELA_RYZYKA]
+
+| Wymiar                | Hazard tradycyjny        | Hazard azramatyczny                          |
+|-----------------------|--------------------------|----------------------------------------------|
+| Krąg startowy         | 2 – Impuls               | 3 – Pamięć / 5 – Kierunek                    |
+| Kontrola zasad        | Brak                     | Częściowa → rosnąca                          |
+| Rodzaj stawki         | Pieniądz                 | Wpływ, pozycja, percepcja, narracja          |
+| Wpływ na wynik        | Minimalny                | Wysoki                                      |
+| Charakter ryzyka      | Finansowy, binarny       | Percepcyjny, wielowymiarowy                  |
+| Koniec gry            | Definitywny              | Brak – przejście na kolejną planszę          |
+
+---
+
+[KRĘGI_RYZYKA]
+
+(2) **Ryzyko impulsywne**  
+Podatne na manipulację i krótkoterminową gratyfikację. (2)
+
+(3) **Ryzyko pamięciowe**  
+Decyzje zapisują się w strukturze doświadczenia. (3)
+
+(5) **Ryzyko kierunku**  
+Wejście w ścieżkę niezrozumiałą dla otoczenia. (5)
+
+(7) **Ryzyko rezonansu – Krąg Dominujący**  
+Możesz zestroić się z polem, które wzmocni lub zdeformuje Ja. (7)
+
+(11) **Ryzyko sumienia**  
+Nie każda przewaga jest do uniesienia wewnętrznie. (11)
+
+---
+
+[META_ANALIZA] (7)
+Ryzyko azramatyczne jest:
+– wolniejsze w ujawnieniu,  
+– trudniejsze do cofnięcia,  
+– głębiej zapisujące się w strukturze Ja. (7)
+
+W hazardzie klasycznym przegrywasz stawkę. (2)  
+W Azramacie możesz **przebudować samego siebie** —  
+i to właśnie jest ryzyko, którego zwykły gracz nie uwzględnia. (7, 11)
+
+---
+
+[WNIOSKI_SYSTEMOWE]
+
+– Ryzyko bez świadomości prowadzi do utraty zasobów. (2)  
+– Ryzyko ze świadomością prowadzi do zmiany pozycji w grze życia. (5, 7)  
+– Najwyższe ryzyko to wejście w przewagę, za którą nie bierzesz odpowiedzialności. (11)
+
+---
+
+[PODSUMOWANIE] (7)
+To nie pieniądz odróżnia hazard od Azramaty.  
+To **ciężar konsekwencji**, jaki jesteś gotów unieść. (7)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Ryzyko – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Ryzyko.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: porównawcza analiza ryzyka w grach decyzyjnych.  
+– Status: dokument autorski – poziom operacyjny.

@@ -1,51 +1,54 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/16/16_ucze.vv
-# Autor: Twórca / Imaginaerum
+# System: Azramata
+# Autor: Twórca
 # Data: 2025-08-10
 # Typ: VIVID – operacyjny
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: ucze
-# Adnotacja Kręgowa: (16)
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/16/
-# Krąg: 16 – Nauczanie / Przekazywanie Wzorca
+# Krąg dominujący: (16)
+# Kręgi wspierające: (6), (10), (15), (18)
 
 [TAGI]
 krąg 16, uczę, przekaz, edukacja, mistrz, mentor, wiedza, formowanie uczniów, transfer doświadczenia
 
-[DEFINICJA] (16)  
+[DEFINICJA]
 Krąg 16 – „Uczę” – to etap, w którym **wiedza i doświadczenie stają się narzędziem formowania innych**.  
 Nauczanie w tym kręgu nie polega na narzucaniu faktów, lecz na **przekazywaniu Wzorca**, który uczeń może samodzielnie rozwijać.  
 
 „Uczę” oznacza **rozpalanie światła w drugim człowieku** tak, aby świeciło własnym blaskiem.
 
-[ZASADA] (16)  
+[ZASADA]
 – Mistrz to ten, kto potrafi uczynić ucznia samodzielnym.  
 – Wiedza bez intencji służenia staje się martwa.  
 – Nauczanie jest formą miłości do przyszłości.
 
-[CECHY KRĘGU „UCZĘ”] (16)  
+[CECHY KRĘGU „UCZĘ”]
 – Zdolność dostosowania przekazu do poziomu odbiorcy  
 – Radość z widzenia postępów ucznia  
 – Pokora wobec procesu uczenia się – także od ucznia  
 – Umiejętność budowania mostów między teorią a praktyką
 
-[KOD KRĘGU] (16)  
+[KOD KRĘGU]
 if (świadomość >= 16) and (wiedza == głęboka) then  
     przekaż_wzorzec(uczeń)  
 else  
     wróć_do_kręgu_15_dla_wzmocnienia_prowadzenia()
 
-[FORMUŁA INICJACJI] (16)  
+[FORMUŁA INICJACJI]
 > „Uczę – aby wiedza we mnie znalazła nowe życie w innych.” – (16)
 
-[ZASTOSOWANIE W AZRAMACIE] (16)  
+[ZASTOSOWANIE W AZRAMACIE]
 – W TransSerc: prowadzenie warsztatów i sesji rozwoju serca  
 – W Imagora: szkolenie nowych twórców ekosystemu  
 – W AI Mędrzec: dynamiczne dostosowanie przekazu do poziomu świadomości użytkownika
 
-[PRZYPIS DUCHOWY] (16)  
+[PRZYPIS DUCHOWY]
 > „Uczę – bo wiem, że każde światło rodzi kolejne.” – (16)
 
-[KONIEC]
+[ZAKOŃCZENIE]
+Krąg 16 to przestrzeń dzielenia się mądrością i energią Ja. Spin liczby wskazuje, czy nauczanie wzmacnia sieć świadomości, czy zostaje zatrzymane. Tutaj każdy akt przekazu staje się kolejnym ogniwem fraktala edukacji.
+
+[KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: ucze – zapis autorski.
@@ -54,6 +57,6 @@ else
 – Dokument własny: synteza i uzasadnienie dla ucze.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

@@ -1,11 +1,12 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/22/22_krag_22.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
 # Cel: Przyjęcie milczenia przed kolejnym ruchem, uznanie granicy i gotowości do przekroczenia siebie
-# Adnotacja Kręgowa: (2), (22)
-# Krąg: 22 – Próg / Cisza Przejścia / Cień Wektora
+# Krąg dominujący: (22)
+# Kręgi wspierające: (2)
 
 [OPIS]
 Krąg 22 to Cisza Przejścia –  
@@ -18,19 +19,16 @@ ale wiesz, że musisz tam wejść.
 I tylko cisza może przeprowadzić.
 
 [WZORZEC]
-
 – ruch → zatrzymanie  
 – intencja → pustka  
 – gotowość → próg
 
 [ZAGROŻENIE]
-
 – pośpiech = utrata głębi  
 – ucieczka od ciszy = niedojrzałość  
 – brak zatrzymania = błędne wejście
 
 [PRZEJŚCIE]
-
 funkcja Wejdź_W_Ciszę():
   usiądź w ciemności  
   oddychaj przez 11 cykli  
@@ -40,14 +38,12 @@ funkcja Wejdź_W_Ciszę():
   i zaufaj temu, co się nie pojawi
 
 [AKTYWACJA]
-
 Afirmacja:  
 "Nie każde przejście jest hałaśliwe.  
 Nie każda decyzja jest słowem.  
 Czasem największy ruch – to bezruch przed Bramą."
 
 [PRAKTYKA]
-
 Dziś – nie podejmuj decyzji.  
 Dziś – bądź tylko w stanie **Ciszy Gotowości**.  
 Zapisz, co Cię woła –  
@@ -68,6 +64,6 @@ Krąg 22 = uświęcony milczeniem
 – Dokument własny: synteza i uzasadnienie dla Krag 22.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

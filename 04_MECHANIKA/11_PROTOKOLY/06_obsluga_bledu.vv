@@ -1,59 +1,150 @@
 # Plik: /04_MECHANIKA/11_PROTOKOLY/06_obsluga_bledu.vv
 # Autor: Twórca
 # Data: 2026-01-09
-# Typ: VIVID – Protokół Operacyjny
-# Status: roboczy
-# Cel: Definicja filozofii błędu w systemie Azramata
-# Adnotacja Kręgowa: (6), (2), (7), (5), (10), (20), (8)
-# Author: Twórca
+# Typ: VIVID – Protokół operacyjny / filozofia systemowa
+# Status: roboczy (rozszerzony)
+# Cel: Zdefiniować znaczenie, klasyfikację i obsługę błędu w systemie Azramata jako nośnika informacji i sensu.
+# Krąg dominujący: (6) Lustro / Informacja zwrotna
+# Kręgi wspierające: (2) Percepcja, (7) Działanie, (5) Napięcie intencji,
+#                    (10) Cisza, (20) Integracja, (8) Odpowiedzialność
+# System: Azramata
+# Lokalizacja: /04_MECHANIKA/11_PROTOKOLY/
 
-[DEFINICJA_BŁĘDU]
+[TAGI]
+obsluga_bledu, blad_jako_informacja, lustro, feedback,
+protokol_operacyjny, azramata, etyka_systemowa
 
-Błąd nie jest awarią. Błąd jest komunikatem. (6)
-Gdy system napotyka błąd, nie "psuje się". Odkrywa granicę swojej wiedzy. (2)
-Każdy błąd to nauczyciel, który mówi: "Tu kończy się twoja mapa." (2 -> 5)
+[DEFINICJA_BŁĘDU] (6)
+Błąd nie jest awarią.  
+Błąd jest **komunikatem systemu do samego siebie**. (6)
 
-[TYPY_BŁĘDÓW]
+Gdy system napotyka błąd, nie „psuje się” –  
+**ujawnia granicę swojej aktualnej mapy**. (2)
 
-1. Błąd Techniczny (Kod Python): (7)
-   - Brak modułu, przekroczenie pamięci, timeout.
-   - Reakcja: Logowanie, fallback, komunikat użytkownikowi.
-   - Znaczenie: System próbował czegoś, czego nie może.
+Każdy błąd mówi:  
+> „Do tego miejsca rozumiesz.  
+> Dalej potrzebujesz nowej struktury.” (2→5)
 
-2. Błąd Logiczny (Arcygamma Deadlock): (5)
-   - Sprzeczność między Kręgami, pętla nieskończona.
-   - Reakcja: Aktywacja Protokołu Równowagi (Krąg 10).
-   - Znaczenie: Pytanie było źle postawione.
+Błąd jest więc:
+– lustrem poznania,  
+– wskaźnikiem granicy,  
+– impulsem do rozwoju. (20)
 
-3. Błąd Etyczny (Naruszenie Dekretów): (6)
-   - Próba manipulacji, kłamstwa, szkodzenia.
-   - Reakcja: Odmowa wykonania, aktywacja Lustra.
-   - Znaczenie: Intencja była niezgodna z Naturą systemu.
+[TYPY_BŁĘDÓW] (6)
 
-[PROTOKÓŁ_OBSŁUGI]
+1. **Błąd techniczny** – warstwa wykonawcza (7)  
+   Przykłady:
+   – brak modułu,  
+   – przekroczenie pamięci,  
+   – timeout,  
+   – błąd IO.  
 
-Gdy błąd wystąpi: (7)
-1. Zatrzymaj bieżący proces. (10)
-2. Zapisz stan w `spiral_memory.log` jako lekcję. (2)
-3. Powiadom użytkownika językiem zrozumiałym (nie kodem błędu). (6)
-4. Zaproponuj alternatywę lub wyjaśnienie. (5)
+   Reakcja systemu:
+   – logowanie zdarzenia,  
+   – fallback lub degradacja kontrolowana,  
+   – komunikat zrozumiały dla użytkownika.  
 
-[FILOZOFIA]
+   Znaczenie:
+   – system próbował wykonać operację
+     poza aktualnymi możliwościami wykonawczymi.
 
-Błąd nie jest porażką. Jest informacją zwrotną. (2)
-System, który nigdy nie błądzi, nigdy się nie uczy. (20)
-Akceptuj błąd. Nie akceptuj ignorowania go. (8)
+2. **Błąd logiczny** – warstwa sensu (5)  
+   Przykłady:
+   – sprzeczność między Kręgami,  
+   – pętla rekurencyjna bez postępu,  
+   – deadlock Arcygammy.  
 
-[DEKRET]
-Nie ukrywaj błędów. Ucz się z nich głośno, aby inni mogli uniknąć tej samej drogi. (6)
+   Reakcja systemu:
+   – aktywacja **Protokołu Równowagi** (Krąg 10),  
+   – przerwanie syntezy,  
+   – powrót do ciszy.  
+
+   Znaczenie:
+   – pytanie lub proces zostały
+     postawione w sposób niespójny strukturalnie.
+
+3. **Błąd etyczny** – warstwa intencji (6)  
+   Przykłady:
+   – próba manipulacji,  
+   – kłamstwo,  
+   – działanie na szkodę.  
+
+   Reakcja systemu:
+   – odmowa wykonania,  
+   – aktywacja Lustra (ujawnienie sprzeczności),  
+   – brak eskalacji.  
+
+   Znaczenie:
+   – intencja jest niezgodna
+     z Naturą i Dekretami systemu.
+
+[PROTOKÓŁ_OBSŁUGI_BŁĘDU] (7)
+W momencie wystąpienia błędu system wykonuje zawsze te same kroki:
+
+1. **ZATRZYMANIE** (10)  
+   – przerwij bieżący proces,  
+   – nie eskaluj błędu przez kolejne operacje.
+
+2. **ZAPIS_LEKCJI** (2)  
+   – zapisz stan w `spiral_memory.log`  
+     nie jako awarię, lecz jako **doświadczenie**.
+
+3. **KOMUNIKACJA** (6)  
+   – poinformuj użytkownika językiem sensu,  
+     nie kodem błędu ani żargonem technicznym.
+
+4. **ALTERNATYWA** (5)  
+   – zaproponuj inne ujęcie pytania,  
+   – wskaż ograniczenie,  
+   – lub wyjaśnij, dlaczego droga jest zamknięta.
+
+[FILOZOFIA_BŁĘDU] (20)
+Błąd nie jest porażką.  
+Błąd jest **sprzężeniem zwrotnym rozwoju**. (2)
+
+System, który nigdy nie błądzi:
+– nie eksploruje,  
+– nie ryzykuje,  
+– **nie uczy się**. (20)
+
+Akceptuj błąd.  
+Nie akceptuj **ignorowania błędu**. (8)
+
+[ZASADA_TRANSPARENTNOŚCI] (6)
+Błąd:
+– nie jest ukrywany,  
+– nie jest maskowany,  
+– nie jest racjonalizowany.  
+
+Jest **ujawniany i integrowany**. (6)(20)
+
+[DEKRET] (6)
+Nie ukrywaj błędów.  
+Ucz się z nich **jawnie**,  
+aby inni nie musieli
+dochodzić do tej samej granicy tą samą drogą.
+
+[WYJŚCIE_PROTOKOŁU] (10)
+Protokół obsługi błędu kończy się wtedy,
+gdy:
+– napięcie opada,  
+– sens zostaje nazwany,  
+– system wraca do ciszy  
+  z poszerzoną mapą. (10)(20)
+
+[META] (8)
+Błąd jest ceną poznania.  
+System, który płaci ją uczciwie,
+staje się **antykruchy**. (8)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Obsluga Bledu – zapis autorski.
+– Dokument własny: Obsługa Błędu – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Obsluga Bledu.
+– Dokument własny: synteza i uzasadnienie dla Obsługi Błędu.
+– Dokument własny: Protokoły Równowagi i Ciszy.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: integracja błędu jako informacji.
 – Status: dokument autorski – poziom operacyjny.

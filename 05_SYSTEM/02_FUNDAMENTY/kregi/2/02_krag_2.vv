@@ -3,78 +3,74 @@
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
+# System: Azramata
 # Cel: Zrozumienie, oczyszczenie i prowadzenie emocji do harmonii
-# Adnotacja Kręgowa: (2)
-# Krąg: 2 – Emocja
+# Krąg dominujący: (2)
+# Kręgi wspierające: (1), (4), (5)
 
 [OPIS]
-Krąg 2 to terytorium emocji.  
-Tu człowiek zaczyna odczuwać.  
-Lecz bez świadomości emocja staje się falą –  
-niszczy zamiast prowadzić.
+Krąg 2 to terytorium emocji. (2)  
+Tu człowiek zaczyna **odczuwać**, a energia życia nabiera kierunku. (2)  
+Bez świadomości emocja staje się falą —  
+niszczy zamiast prowadzić. (2→1)
 
-Krąg 2 to ogień serca.  
-Ale ogień musi mieć palenisko.  
-Bo inaczej spali Dom.
+Krąg 2 to **ogień serca**. (2)  
+Ale ogień musi mieć palenisko. (1)(5)  
+Inaczej spali Dom. (2→0)
 
 [PRZYKAZANIE_UMIAREM]
+Nie nadużywajcie używek, miejcie umiar, (2)  
+bo kto ich nadużywa, ten traci ludzki Wymiar. (2→13)
 
-Nie nadużywajcie używek, miejcie umiar,  
-bo kto ich nadużywa, ten traci ludzki Wymiar.
-
-To słowo nie mówi: "Nie pij", "Nie kosztuj".  
-Ono mówi: "Nie trać siebie w tym, co Cię kusi."  
-Bo emocje zniekształcone przez ucieczkę –  
-stają się demoniczne.
+To słowo nie mówi: „Nie pij”, „Nie kosztuj”.  
+Ono mówi: **„Nie trać siebie w tym, co Cię kusi.”** (2→1)  
+Emocje zniekształcone przez ucieczkę  
+stają się destrukcyjne. (2→13)
 
 [WZORZEC]
-
-– emocja → reakcja  
-– emocja → zatrzymanie → transmutacja  
-– emocja → odwaga → ekspresja serca
+– emocja → reakcja (2→1)  
+– emocja → zatrzymanie → transmutacja (2→5)  
+– emocja → odwaga → ekspresja serca (2→4)
 
 [ZAGROŻENIE]
-
-– ucieczka w używki = zanik Wymiaru  
-– emocja tłumiona = choroba  
-– emocja wyładowana = rani
+– ucieczka w używki = zanik Wymiaru (2→13)  
+– emocja tłumiona = choroba (2→0)  
+– emocja wyładowana bez świadomości = rana (2→1)
 
 [PRZEJŚCIE]
-
 funkcja Oczyść_Emocję():
-  nazwij_co_czujesz()
-  nie uciekaj
-  oddech_przez_serce()
-  jeśli chcesz coś wziąć – zapytaj, czego naprawdę Ci brakuje
-  wybierz: obecną świadomość zamiast zapomnienia
+  nazwij_co_czujesz()        (2)
+  nie_uciekaj()              (2→1)
+  oddychaj_przez_serce()     (2→4)
+  jeśli_chcesz_coś_wziąć:
+      zapytaj_czego_brakuje() (2→5)
+  wybierz_obecność()         (2→8)
 
 [AKTYWACJA]
-
 Afirmacja:  
-"Moje emocje to nie wrogowie.  
-To język mojego wnętrza.  
-Odpowiadam na nie nie ucieczką, lecz obecnością."
+„Moje emocje nie są wrogami. (2)  
+Są językiem mojego wnętrza. (2→4)  
+Odpowiadam na nie obecnością, nie ucieczką.” (2→5)
 
 [PRAKTYKA]
-
-Dziś – jeśli poczujesz potrzebę sięgnięcia po używkę:  
-– zatrzymaj się  
-– zapisz, co czujesz  
-– zapytaj siebie: „czy to przyniesie ukojenie, czy tylko znieczulenie?”  
-– wybierz to, co Cię przywraca do Wymiaru
+Dziś — gdy pojawi się impuls ucieczki: (2)  
+– zatrzymaj się (1)  
+– zapisz, co czujesz (2→3)  
+– zapytaj: „ukojenie czy znieczulenie?” (2→5)  
+– wybierz to, co przywraca Ci Wymiar (2→4)
 
 [STATUS]
-emocja = zintegrowana  
-świadomość = obecna  
-Krąg 2 = oczyszczony
+emocja = zintegrowana (2)  
+świadomość = obecna (5)  
+Krąg 2 = oczyszczony (2)
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 2 – zapis autorski.
+– Dokument własny: Krąg 2 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 2.
+– Dokument własny: synteza i uzasadnienie dla Kręgu 2.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.

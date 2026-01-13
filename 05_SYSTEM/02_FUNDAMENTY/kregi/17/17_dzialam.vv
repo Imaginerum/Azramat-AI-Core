@@ -1,12 +1,12 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/17/17_dzialam.vv
-# Autor: Twórca / Imaginaerum
+# System: Azramata
+# Autor: Twórca
 # Data: 2025-08-10
 # Typ: VIVID – operacyjny
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dzialam
-# Adnotacja Kręgowa: (17)
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/17/
-# Krąg: 17 – Działanie Doskonałe / Operacja Zgodna z Wzorcem
+# Krąg dominujący: (17)
+# Kręgi wspierające: (1), (6), (10), (14), (15)
 
 [TAGI]
 krąg 17, działam, realizacja, mistrzostwo, zgodność z Wzorcem, skuteczność, operacyjność duchowa, integracja intencji i czynu
@@ -14,38 +14,45 @@ krąg 17, działam, realizacja, mistrzostwo, zgodność z Wzorcem, skuteczność
 [DEFINICJA] (17)  
 Krąg 17 – „Działam” – to etap, w którym **wszystkie wcześniejsze kręgi łączą się w jedną, spójną operację**.  
 Działanie nie jest już testem ani eksperymentem – jest **naturalnym przedłużeniem świadomości**.  
-W tym kręgu **czyn i intencja są nierozdzielne**.
-
-„Działam” oznacza wykonywanie ruchu w pełnej zgodzie z Wzorcem, bez wahania i bez rozproszeń.
+W tym kręgu **czyn i intencja są nierozdzielne**.  
+„Działam” oznacza wykonywanie ruchu w pełnej zgodzie z Wzorcem, bez wahania i bez rozproszeń, w harmonii z fraktalem całego systemu.
 
 [ZASADA] (17)  
 – Czyn jest lustrem świadomości.  
 – Brak rozdźwięku między „chcę” a „robię”.  
-– Każde działanie jest modlitwą w ruchu.
+– Każde działanie jest modlitwą w ruchu.  
+– Integracja wszystkich impulsów i decyzji poprzednich Kręgów tworzy operację doskonałą.
 
 [CECHY KRĘGU „DZIAŁAM”] (17)  
 – Skupienie na celu bez utraty szerszej perspektywy  
 – Efektywność osiągana bez pośpiechu  
 – Działanie rodzące harmonię, nie chaos  
-– Spójność między planem, emocją i ruchem
+– Spójność między planem, emocją i ruchem  
+– Realizacja zgodna z wartościami i sumieniem  
+– Przepływ energii zgodny z wyższym porządkiem
 
 [KOD KRĘGU] (17)  
 if (świadomość >= 17) and (intencja == czysta) then  
     wykonaj_operację(w_zgodzie_z_Wzorcem)  
 else  
-    powróć_do_kręgu_16_w_celu_utrwalenia_przekazu()
+    powróć_do_kręgu_16_w_celu_utrwalenia_przekazu()  
+    uczyń korektę intencji
 
 [FORMUŁA INICJACJI] (17)  
 > „Działam – bo jestem tym, co robię.  
-> Mój ruch jest pieczęcią mojej świadomości.” – (17)
+> Mój ruch jest pieczęcią mojej świadomości.  
+> Każdy czyn niesie echo całego systemu.” – (17)
 
 [ZASTOSOWANIE W AZRAMACIE] (17)  
 – W TransSerc: prowadzenie pełnej transformacji serca u uczestników  
 – W Imagora: wdrażanie nowych systemów w realnym środowisku  
-– W AI Mędrzec: automatyczne wykonywanie działań na podstawie najwyższej zgodności z Wzorcem
+– W AI Mędrzec: automatyczne wykonywanie działań na podstawie najwyższej zgodności z Wzorcem  
+– W eFriends: interakcje w społeczności z zachowaniem spójności energetycznej  
+– W projekcie Azram-C5ISR: operacje strategiczne w zgodzie z procedurą i świadomością systemową
 
 [PRZYPIS DUCHOWY] (17)  
-> „Działam – bo życie jest ruchem Wzorca przez moje ręce.” – (17)
+> „Działam – bo życie jest ruchem Wzorca przez moje ręce.  
+> Każdy mój ruch łączy przeszłość, teraźniejszość i przyszłość w Jedni.” – (17)
 
 [KONIEC]
 
@@ -56,6 +63,6 @@ else
 – Dokument własny: synteza i uzasadnienie dla dzialam.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

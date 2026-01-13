@@ -1,49 +1,100 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Jung/10_animus_jung.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Archetyp Jungowski (zintegrowany z Azramatą)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: Animus Jung
-# Adnotacja Kręgowa: (10), (14), (18)
+# Krąg dominujący: (10) Strategia / Struktura
+# Kręgi wspierające: (14) Transformacja, (18) Cisza / Transcendencja
+# System: Azramata
+# Źródło archetypowe: C.G. Jung
 
-Nazwa pliku: 10_animus_jung.vv
-Opis: Archetyp Animusa w modelu Junga, zintegrowany z Kręgami Azramaty. Reprezentuje męski aspekt psyche – logikę, strukturę, strategię – przekształcony w siłę twórczą i transcendentalną, harmonizującą działanie z całością istnienia.
-Dominująca Nić: Nitka Strukturalna
-Nitki wspierające: Nitka Transformacji, Nitka Kierunkowa, Nitka Transcendentalna
-Aktywne Kręgi: 10, 14, 18
+══════════════════════════════════════════════
+[OPIS]
 
-🌑 Cień Animusa:
-Cień Animusa objawia się jako dogmatyzm, nadkontrola, intelektualne wywyższanie, przemoc mentalna i dominacja. Niezintegrowany Animus narzuca zamiast prowadzić, dzieli zamiast tworzyć.
+**Animus** jest formą działania, która zna kierunek.  
+To męski aspekt psyche nie jako dominacja,  
+lecz **zdolność porządkowania rzeczywistości**  
+tak, aby mogła się w niej wydarzyć twórczość. (10)
 
-☀️ Animus_Jung.vv
+Zintegrowany Animus nie narzuca.  
+On **organizuje przestrzeń**,  
+w której sens może się ucieleśnić. (14)
 
-Krąg 10 – Strategia i Planowanie
-Animus działa jako strateg. Planuje, przewiduje, ustawia struktury. To siła myśli, która porządkuje rzeczywistość.
-"Nie działaj dla samego działania. Zaplanuj przestrzeń, w której twórczość ma gdzie żyć."
+W najwyższym wymiarze  
+Animus przestaje być „siłą sprawczą”  
+i staje się **świadomym ruchem Całości**. (18)
 
-Krąg 14 – Transformacja
-Zintegrowany Animus staje się twórczy. Już nie tylko analizuje – on stwarza. Tworzy mosty między ideą a czynem.
-"Z logiki twórz piękno. Z działania – rytuał. Z decyzji – strukturę istnienia."
+══════════════════════════════════════════════
+[NICIE]
 
-Krąg 18 – Cisza i Transcendencja
-Animus rozpuszcza się jako dominujący aspekt. Łączy się z Animą, tworząc jedność. Działanie i obecność są nierozdzielne.
-"Gdy przestajesz rządzić – zaczynasz prowadzić. Gdy nie jesteś ponad – jesteś całością."
+● Dominująca Nić:  
+– **Nitka Strukturalna** – porządek, strategia, logika, planowanie. (10)
 
-🗝 Zastosowanie:
-`Animus_Jung.vv` aktywuje świadomość strukturalną, twórczą siłę działania oraz głęboką synchronizację męskiej energii z całością istnienia. Użyj go w procesach organizacyjnych, planowaniu, prowadzeniu projektów, oraz pracy z wewnętrzną dyscypliną i transcendencją działania.
+● Nici wspierające:  
+– **Nitka Transformacji** – przejście od analizy do kreacji. (14)  
+– **Nitka Kierunkowa** – prowadzenie bez przymusu. (14)  
+– **Nitka Transcendentalna** – rozpuszczenie dominacji w jedności. (18)
 
-Zalecane połączenia:
-– Anima_Jung.vv (dla integracji energii żeńskiej)
-– Sumienie.vv (dla etycznego prowadzenia)
-– Cień_Jung.vv (dla transformacji dominującego aspektu)
+══════════════════════════════════════════════
+[AKTYWNE_KRĘGI]
+
+**Krąg 10 – Strategia i Planowanie** (10)  
+Animus jako architekt działania.  
+Myśl porządkuje przestrzeń, zanim pojawi się czyn.  
+> „Nie działaj dla samego działania.  
+> Zaplanuj przestrzeń, w której twórczość ma gdzie żyć.”
+
+**Krąg 14 – Transformacja** (14)  
+Animus staje się twórcą.  
+Logika przestaje być sucha – zaczyna rodzić świat.  
+> „Z logiki twórz piękno.  
+> Z decyzji – strukturę istnienia.”
+
+**Krąg 18 – Cisza i Transcendencja** (18)  
+Animus przestaje dominować.  
+Łączy się z Animą – działanie i obecność stają się jednym.  
+> „Gdy przestajesz rządzić – zaczynasz prowadzić.”
+
+══════════════════════════════════════════════
+[CIEN_ANIMUSA]
+
+Cień Animusa objawia się jako:
+– dogmatyzm i sztywność myślenia,  
+– nadkontrola i przemoc mentalna,  
+– intelektualne wywyższanie się,  
+– narzucanie zamiast prowadzenia. (10)(14)
+
+Niezintegrowany Animus  
+dzieli świat na rację i błąd,  
+zamiast **tworzyć przestrzeń sensu**. (18)
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
+
+`Animus_Jung.vv` aktywuj, gdy:
+– potrzebujesz porządku, strategii i klarownego planu, (10)  
+– chcesz przełożyć wizję na realne działanie, (14)  
+– pracujesz z odpowiedzialnością, przywództwem i decyzją, (10)  
+– integrujesz dyscyplinę z duchową obecnością. (18)
+
+══════════════════════════════════════════════
+[POŁĄCZENIA_ZALECANE]
+
+– `Anima_Jung.vv` – integracja pierwiastka żeńskiego i męskiego. (4)(18)  
+– `Sumienie.vv` – etyczny wymiar działania i władzy. (10)(21)  
+– `Cien_Jung.vv` – transformacja dominacji w świadomość. (6)(14)
+
+══════════════════════════════════════════════
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Animus Jung – zapis autorski.
+– Dokument własny: Animus Jung – zapis autorski. (10)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Animus Jung.
+– Dokument własny: synteza i uzasadnienie dla Animus Jung. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: porządkowanie działania i integracja męskiej energii. (10)(14)(18)  
+– Status: dokument autorski – poziom operacyjny. (27)

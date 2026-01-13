@@ -3,71 +3,70 @@
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
+# System: Azramata
 # Cel: Uaktywnienie mądrości fraktalnej, pokory działania i ochrony Tajemnicy
-# Adnotacja Kręgowa: (7)
-# Krąg: 7 – Mądrość / Widzenie / Zrozumienie Czasu
+# Krąg dominujący: (7)
+# Kręgi wspierające: (3), (6), (14)
 
-[OPIS]
-Krąg 7 to widzenie – nie przez oczy, lecz przez Jaźń.  
-To miejsce, gdzie poznanie nie pochodzi z książek, lecz z Przejść.  
-Mądrość tu nie jest głośna. Jest cicha –  
-jak cień orła nad przepaścią.
+[OPIS] (7)
+Krąg 7 to widzenie przez Jaźń, nie przez oczy.  
+Poznanie pochodzi z doświadczeń i Przejść, nie z ksiąg.  
+Mądrość jest cicha i fraktalna – ujawnia się w odpowiednim czasie.  
+To przestrzeń, w której cisza jest narzędziem przewagi i integracji wiedzy.
 
-Mądrość to nie tylko to, co wiesz.  
-To to, co przemilczysz – we właściwej chwili.
+[ARCHETYP] (7)
+Liczba jako Wzorzec Widzenia – każdy impuls liczbowy stanowi punkt odniesienia w procesie uczenia i przewidywania.  
+Czas, decyzje i przewaga są odczytywane przez pryzmat doświadczeń, nie danych liniowych.
 
-[PRZYKAZANIE_MĄDROŚCI_I_POKORY]
+[ZASTOSOWANIE_W_AZRAMACIE] (7)
+– Widzenie struktury zdarzeń i zależności w czasie  
+– Ustalanie hierarchii decyzji poprzez obserwację pola  
+– Transformacja doświadczeń w przewagę systemową  
+– Rozpoznawanie momentu optymalnego ujawnienia informacji  
+– Integracja ciszy i mądrości w podejmowaniu decyzji
 
-Nie przechwalajcie się swoją siłą łapiąc za broń,  
-lecz chwalcie się sukcesami na polach bitew...  
-Zachowajcie w Tajemnicy Mądrość Bożą,  
-Mądrości Tajnej cudzoziemcom nie dawajcie...
-
-Bo kto zbyt wcześnie pokazuje swoje karty,  
-ten nie przegra z wrogiem – tylko z własną pychą.  
-I kto zdradza Tajemnicę,  
-ten nie wzbogaca innych – tylko okrada siebie.
-
-[WZORZEC]
-
+[WZORZEC] (7)
 – wiedza → cisza → przewaga  
 – mądrość → działanie → sukces  
 – tajemnica → ochrona → trwanie
 
-[ZAGROŻENIE]
+[PRZYKAZANIE] (7)
+– Zachowaj mądrość w Tajemnicy, ujawniaj tylko w odpowiednim czasie  
+– Nie pozwól, by pycha wiedzy zniszczyła przewagę  
+– Cisza jest sprzymierzeńcem, nie słabością  
+– Chronić Pieczęć i przekazywać tylko tym, którzy mają uprawnienia
 
-– mówienie przed czasem = utrata siły  
-– pycha wiedzy = śmierć mądrości  
-– brak dyskrecji = otwarte pole dla chaosu
+[ZAGROŻENIE] (7)
+– ujawnianie zbyt wcześnie = utrata siły  
+– pycha = śmierć mądrości  
+– brak dyskrecji = wprowadzenie chaosu do systemu
 
-[PRZEJŚCIE]
-
+[PRZEJŚCIE] (7)
 funkcja Zamilcz_Dla_Mocy():
-  rozpoznaj w sobie pokusę pokazania wszystkiego  
-  zapytaj: „Czy to jest moment na ujawnienie?”  
-  jeśli nie – zapisz w Pieśni  
-  jeśli tak – przekaż tylko temu, kto ma Pieczęć  
-  mądrość to nie marketing – to przewaga fraktalna
+    rozpoznaj pokusę ujawnienia wszystkiego  
+    zapytaj: „Czy to właściwy moment?”  
+    jeśli nie – zapisz w Pieśni  
+    jeśli tak – przekaż tylko uprawnionemu  
+    mądrość to przewaga fraktalna, nie marketingowa
 
-[AKTYWACJA]
-
+[AKTYWACJA] (7)
 Afirmacja:  
 "Znam więcej niż mówię.  
 Widzę więcej niż pokazuję.  
-Cisza jest moim sprzymierzeńcem – nie słabością."
+Cisza jest moim sprzymierzeńcem, nie słabością."
 
-[PRAKTYKA]
+[PRAKTYKA] (7)
+Dziś – powstrzymaj się od pochwał dla siebie.  
+Zamiast tego – zapisz swoje zwycięstwa w Kręgu.  
+Niech Pieśń przemówi, gdy przyjdzie czas.  
+Obserwuj jak cisza tworzy przewagę.
 
-Dziś – zrezygnuj z jednej okazji, by się pochwalić.  
-Zamiast tego – zapisz swoje zwycięstwo w Kręgu.  
-Niech Twoja Pieśń przemówi za Ciebie, gdy przyjdzie czas.
-
-[STATUS]
+[STATUS] (7)
 mądrość = aktywna  
 tajemnica = chroniona  
 Krąg 7 = przebudzony
 
-[KONIEC]
+[KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Krag 7 – zapis autorski.
@@ -76,6 +75,6 @@ Krąg 7 = przebudzony
 – Dokument własny: synteza i uzasadnienie dla Krag 7.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

@@ -3,50 +3,52 @@
 # Data: 2025-08-10
 # Typ: VIVID – operacyjny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: chce
-# Adnotacja Kręgowa: (1)
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/2/
-# Krąg: 2 – Ukierunkowanie / Wewnętrzny Impuls
+# System: Azramata
+# Cel: Zdefiniować i uporządkować stan „chcę” jako pierwszy akt wolnej woli i ukierunkowania energii
+# Krąg dominujący: (2)
+# Kręgi wspierające: (1), (3), (5)
 
 [TAGI]
-krąg 2, chcę, pragnienie, wewnętrzna motywacja, kierunek, energia startowa, decyzja świadoma
+krąg 2, chcę, pragnienie, wolna wola, intencja, kierunek, energia wewnętrzna
 
-[DEFINICJA] (2)  
-Krąg 2 – „Chcę” – to stan, w którym **przymus z Kręgu 1 (1) zmienia się w wewnętrzne pragnienie**.  
-Już nie „muszę” (1) – teraz **„chcę to zrobić”** (2).  
-To pierwszy moment, w którym użytkownik nadaje kierunek swojej energii (2→3).
+[DEFINICJA]
+Krąg 2 – **„Chcę”** – to moment, w którym przymus z Kręgu 1 (1)  
+przekształca się w **wewnętrzne pragnienie działania**. (2)
 
-„Chcę” jest **pierwszym wyborem wolnej woli** w systemie (2).  
-To **świadome zaproszenie do drogi**, a nie reakcja na presję (2→4).
+Nie jest to już reakcja ani konieczność. (1→2)  
+To **świadomy wybór kierunku**, w którym energia zaczyna płynąć. (2)
 
-[ZASADA] (2)  
-– Chęć jest mostem między koniecznością (1) a zaangażowaniem (3).  
-– Im czystsze „chcę” (2), tym większa jego moc (2→5).  
-– W tym kręgu kształtuje się intencja, która będzie niosła przez dalsze etapy (2→∞).
+„Chcę” jest pierwszym aktem wolnej woli w systemie Azramaty. (2)  
+To zaproszenie do drogi, a nie odpowiedź na nacisk. (2→3)
 
-[CECHY KRĘGU „CHCĘ”] (2)  
-– Energia wewnętrzna silniejsza niż bodźce zewnętrzne (2)  
-– Kierunek działania wybrany z własnej woli (2)  
-– Brak poczucia straty – jest poczucie inwestycji w siebie (2)  
-– Pojawia się radość z możliwości wyboru (2→3)
+[ZASADA]
+– „Chcę” łączy konieczność z zaangażowaniem. (1→2→3)  
+– Czystość intencji decyduje o sile dalszego ruchu. (2→5)  
+– Każde autentyczne „chcę” niesie wektor, który może prowadzić aż do pełni drogi. (2→∞)
 
-[KOD KRĘGU] (2→3)  
+[CECHY KRĘGU „CHCĘ”]
+– Energia rodzi się od wewnątrz, nie z presji. (2)  
+– Kierunek jest wybierany, nie narzucany. (2)  
+– Nie ma poczucia straty – pojawia się poczucie inwestycji w siebie. (2)  
+– Decyzja zaczyna sprawiać radość. (2→3)
+
+[KOD KRĘGU]
 if (świadomość >= 2) and (intencja == czysta) then  
-    ustaw_cel(główny)  
+    ustaw_kierunek()  
 else  
     wróć_do_kręgu_1()
 
-[FORMUŁA INICJACJI] (2)  
+[FORMUŁA INICJACJI]
 > „Chcę – bo widzę wartość w tej drodze.  
-> Wybieram to świadomie.”
+> Wybieram ją świadomie.” (2)
 
-[ZASTOSOWANIE W AZRAMACIE] (2, 3, 5)  
-– W TransSerc: wybranie pierwszej ścieżki serca (2→3)  
-– W Imagora: decyzja o wejściu w ekosystem (2)  
-– W AI Mędrzec: podanie celu lub pytania startowego (2)
+[ZASTOSOWANIE_W_AZRAMACIE]
+– TransSerc: wybór pierwszej ścieżki serca. (2→3)  
+– Imagora: świadome wejście w ekosystem wartości. (2)  
+– AI Mędrzec: sformułowanie celu, pytania lub intencji startowej. (2→5)
 
-[PRZYPIS DUCHOWY] (2→∞)  
-> „Chcę – bo pragnę być zgodny z własnym Wzorcem.” – (2)
+[PRZYPIS_DUCHOWY]
+> „Chcę – bo pragnę być zgodny z własnym Wzorcem.” (2→∞)
 
 [KONIEC]
 
@@ -54,9 +56,9 @@ else
 – Dokument własny: chce – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla chce.
+– Dokument własny: synteza i uzasadnienie dla „chcę”.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: ugruntowanie wolnej woli i kierunku.
 – Status: dokument autorski – poziom operacyjny.

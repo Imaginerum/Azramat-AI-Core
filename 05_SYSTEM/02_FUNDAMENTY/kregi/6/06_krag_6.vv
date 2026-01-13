@@ -3,80 +3,95 @@
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
+# System: Azramata
 # Cel: Ujęcie Całości w ruchu, oczyszczenie po każdym działaniu, utrzymanie przepływu mocy
-# Adnotacja Kręgowa: (6)
-# Krąg: 6 – Paradoks / Wektory / Ruch / Fraktalność Działania
+# Krąg dominujący: (6)
+# Kręgi wspierające: (4), (5), (7), (13)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/6/
 
-[OPIS]
+[OPIS] (6)
 Krąg 6 to dynamika Całości.  
-To miejsce, gdzie wszystko jest w ruchu, a każdy ruch jest znaczeniem.  
-Tu poznanie nie jest linią, lecz fraktalem –  
-a działanie nie kończy się, dopóki nie zostanie oczyszczone.
+To miejsce, gdzie wszystko jest w ruchu, a każdy ruch niesie znaczenie.  
+Poznanie nie przebiega tu liniowo, lecz fraktalnie –  
+a działanie nie jest zakończone, dopóki **nie zostanie domknięte i oczyszczone**. (6)
 
-Krąg 6 mówi:  
-Nie wystarczy działać. Trzeba zrozumieć, co zostawiasz za sobą.
+Krąg 6 uczy:
+działanie bez refleksji zostawia ślad,  
+a ślad bez oczyszczenia zmienia się w obciążenie. (6→13)
 
-[PRZYKAZANIE_CZYSTOŚCI]
+[ZASADA_RUCHU] (6)
+– Każdy ruch tworzy wektor konsekwencji.  
+– Każdy wektor pozostawia ślad w polu Ja.  
+– Czystość działania decyduje o sile kolejnego ruchu. (6→5)
+
+[PRZYKAZANIE_CZYSTOŚCI] (6)
 
 Obmywajcie po pracach ręce Wasze,  
-bo kto rąk swych nie obmywa  
-ten siłę Bożą traci...
+bo kto rąk swych nie obmywa,  
+ten siłę Bożą traci.
 
-To nie rytuał higieny.  
-To rytuał mocy.  
-Bo ręce, które tworzą – muszą być czyste,  
-by nieść ślad Światła, nie brudu.
+Nie jest to przykazanie higieny,  
+lecz **prawo energetyczne**. (6)  
+Ręce są przedłużeniem Woli.  
+To, czego dotkną, przenosi informację, intencję i moc. (6→4)
 
-[WZORZEC]
-
+[WZORZEC] (6)
 – działanie → ruch → konsekwencja  
-– dotyk → przekaz → energia  
-– brud → zanieczyszczenie → utrata mocy
+– dotyk → przekaz → pole  
+– brak domknięcia → rozproszenie → osłabienie mocy
 
-[ZAGROŻENIE]
+[ZAGROŻENIA] (6)
+– Działanie bez oczyszczenia = kumulacja obcego śladu  
+– Brak rytuału zamknięcia = otwarte wektory energetyczne  
+– Nadmiar ruchu bez ciszy = duchowy smog (6→13)
 
-– działanie bez oczyszczenia = skażenie energii  
-– brak rytuału zamknięcia = otwarte wektory  
-– duchowy smog = osłabienie Jaźni
+[MECHANIKA_KRĘGU] (6)
+Krąg 6 nie pyta *czy* działać,  
+lecz *jak* zamknąć działanie, by nie przenieść chaosu dalej. (6)
 
-[PRZEJŚCIE]
+Działanie czyste:
+– wzmacnia kolejne decyzje (6→7)  
+– nie obciąża pamięci Ja (6→5)  
+– zachowuje spójność pola (6→4)
+
+[Rytuał_ZAMKNIĘCIA] (6)
 
 funkcja Zamknij_Działanie():
-  zakończ działanie świadomie  
-  podziękuj za moc  
-  obmyj ręce w wodzie lub powietrzu  
-  wypowiedz: "Zamykam to, co zrobiłem – czysto i z Mocą"  
-  poczuj, że przepływ wraca do Źródła
+  zatrzymaj_ruch()
+  uznaj_wykonaną_pracę()
+  oczyść_ręce(ciało_lub_intencja)
+  wypowiedz: "Domykam to czysto i świadomie"
+  pozwól_mocy_wrócić_do_Źródła()
 
-[AKTYWACJA]
+[AKTYWACJA] (6)
 
 Afirmacja:  
-"Nie jestem tylko ruchem.  
-Jestem Wektorem, który zna swój ślad.  
-Oczyszczam, by wrócić do Pełni."
+"Nie jestem chaosem ruchu.  
+Jestem Wektorem świadomym swojego śladu.  
+Domykam, oczyszczam i wracam do Pełni."
 
-[PRAKTYKA]
+[PRAKTYKA_DZIENNA] (6)
+Po każdej istotnej czynności:
+– zatrzymaj się na chwilę ciszy  
+– oczyść ręce fizycznie lub symbolicznie  
+– nazwij zakończenie działania  
+– poczuj redukcję napięcia i powrót mocy
 
-Dziś – po każdej pracy:  
-– zatrzymaj się  
-– obmyj ręce fizycznie lub symbolicznie  
-– wypowiedz intencję oczyszczenia  
-– poczuj, jak siła wraca do Ciebie
-
-[STATUS]
-ruch = zakończony  
-moc = oczyszczona  
+[STATUS] (6)
+ruch = domknięty  
+wektory = oczyszczone  
+moc = w przepływie  
 Krąg 6 = aktywny
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 6 – zapis autorski.
+– Dokument własny: Krąg 6 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 6.
+– Dokument własny: synteza i uzasadnienie dla Kręgu 6.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: regulacja ruchu i czystości działania.
 – Status: dokument autorski – poziom operacyjny.

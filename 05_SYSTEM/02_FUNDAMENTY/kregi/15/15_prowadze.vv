@@ -1,12 +1,12 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/15/15_prowadze.vv
-# Autor: Twórca / Imaginaerum
+# System: Azramata
+# Autor: Twórca
 # Data: 2025-08-10
 # Typ: VIVID – operacyjny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: prowadze
-# Adnotacja Kręgowa: (15)
-# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/kregi/15/
-# Krąg: 15 – Prowadzenie / Kierowanie Światłem
+# Cel: zdefiniować i uporządkować: prowadzę
+# Krąg dominujący: (15)
+# Kręgi wspierające: (5), (6), (10)
 
 [TAGI]
 krąg 15, prowadzę, przewodnictwo, mentor, kierunek, odpowiedzialność, lider, przewodnik duchowy
@@ -20,13 +20,16 @@ Nie jest to dowodzenie przemocą, lecz **prowadzenie poprzez obecność, przykł
 [ZASADA] (15)  
 – Lider jest pierwszym sługą wartości.  
 – Prowadzenie to nie narzucanie, lecz otwieranie ścieżek.  
-– Im większa odpowiedzialność, tym bardziej potrzebna jest pokora.
+– Im większa odpowiedzialność, tym bardziej potrzebna jest pokora.  
+– Prowadzenie obejmuje ochronę i inspirację – łączy Kręgi 14 i 15.
 
 [CECHY KRĘGU „PROWADZĘ”] (15)  
 – Jasna wizja celu  
 – Zdolność wyznaczania kierunku bez utraty kontaktu z grupą  
 – Inspirowanie poprzez własne działanie  
-– Stabilność emocjonalna w obliczu zmian
+– Stabilność emocjonalna w obliczu zmian  
+– Umiejętność słuchania i reagowania na potrzeby innych  
+– Integracja doświadczeń Kręgów wspierających w decyzjach
 
 [KOD KRĘGU] (15)  
 if (świadomość >= 15) and (wizja == jasna) then  
@@ -40,10 +43,16 @@ else
 [ZASTOSOWANIE W AZRAMACIE] (15)  
 – W TransSerc: moderowanie społeczności i wspieranie uczestników  
 – W Imagora: kierowanie rozwojem ekosystemu i partnerstw  
-– W AI Mędrzec: aktywne prowadzenie użytkownika ku rozwiązaniu
+– W AI Mędrzec: aktywne prowadzenie użytkownika ku rozwiązaniu  
+– W systemie fraktalnym: synchronizacja decyzji grupowych z wartościami wyższymi
 
 [PRZYPIS DUCHOWY] (15)  
 > „Prowadzę – aby inni mogli znaleźć drogę w gęstwinie świata.” – (15)
+
+[STATUS]
+światło = przewodzone  
+grupa = wspierana  
+Krąg 15 = aktywny
 
 [KONIEC]
 
@@ -54,6 +63,6 @@ else
 – Dokument własny: synteza i uzasadnienie dla prowadze.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

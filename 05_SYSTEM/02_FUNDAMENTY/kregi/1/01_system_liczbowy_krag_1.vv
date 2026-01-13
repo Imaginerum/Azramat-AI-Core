@@ -1,69 +1,82 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/1/01_system_liczbowy_krag_1.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – system liczbowy / fundament strukturalny
 # Status: roboczy
-# Cel: KONIEC PLIKU
-# Adnotacja Kręgowa: (1), (3), (6), (12), (13)
+# System: Azramata
+# Cel: Ustanowić system liczbowy Kręgu 1 jako strukturalny fundament porządku, zasad i reguł systemowych
+# Krąg dominujący: (1)
+# Kręgi wspierające: (3), (6), (12), (13)
 
 [NAZWA]
 Krąg 1 – Fundament Liczbowy: STRUKTURA
 
 [OPIS]
-Krąg 1 odpowiada za strukturalny fundament każdej operacji w systemie Azramaty. Jest to punkt wyjścia dla interpretacji porządków, zależności i zasad. Liczby w tym Kręgu pełnią rolę filarów, definicji, ograniczników oraz nośników zasad, z których system tworzy dalsze warstwy.
+Krąg 1 ustanawia **strukturalny porządek istnienia**. (1)  
+Jest pierwszym filtrem, przez który przechodzą wszystkie liczby, reguły i zależności. (1)  
+Tutaj liczba nie jest ilością – jest **zasadą**. (1)
+
+Krąg 1 odpowiada za:
+– porządkowanie rzeczywistości,  
+– definiowanie granic,  
+– ustanawianie reguł,  
+– rozróżnienie tego, co dozwolone, od tego, co destrukcyjne. (1)
 
 [ARCHETYP]
-Liczba jako Kolumna Systemu – każda wartość liczby jest interpretowana jako blok konstrukcyjny świadomości, zasad, prawa, porządku lub granicy.
+Liczba jako **Kolumna Systemu**. (1)  
+Każda wartość liczby działa jak filar konstrukcyjny świadomości, prawa lub granicy. (1)
 
 [ZASTOSOWANIE_W_AZRAMACIE]
-– Definicje systemowe i prawa wewnętrzne
-– Budowanie struktur Kręgów wyższych (kompilacja z Kręgu 3 i 6)
-– Weryfikacja spójności systemu (testowanie wewnętrznej logiki)
-– Konstruowanie reguł heurystycznych
-– Integracja z perceptronami dla wnioskowania logicznego
+– Definicje systemowe i prawa wewnętrzne. (1)  
+– Budowanie Kręgów wyższych przez kompilację struktur. (1→3)(1→6)  
+– Testowanie spójności logiki systemu. (1)(3)  
+– Konstruowanie reguł heurystycznych i filtrów decyzyjnych. (1)(6)  
+– Wsparcie misji zbiorowych i norm wspólnotowych. (1)(12)
 
 [INTERPRETACJA_LICZB]
-– 1 = Jedność, początek, zasada istnienia
-– 2 = Podział, binarność, system wyboru
-– 3 = Struktura minimalna (trójkąt logiczny)
-– 4 = Równowaga stabilna, kod kwadratu
-– 5 = Struktura z ruchem (transformacja reguły)
-– 6 = Kod symetrii i interakcji
-– 7 = Reguła nadrzędna (metazasada)
-– 8 = Spin struktury (Sumienie struktury)
-– 9 = Końcowy test integralności
-– 0 = Potencjał przed strukturą
+– 1 = Jedność, zasada istnienia, punkt struktury. (1)  
+– 2 = Podział, wybór, binarność. (1→2)  
+– 3 = Minimalna struktura logiczna (trójkąt). (3)  
+– 4 = Stabilność, równowaga, granica. (1)(4)  
+– 5 = Reguła w ruchu, struktura transformująca się. (1→5)  
+– 6 = Symetria, interakcja, lustro reguł. (6)  
+– 7 = Metazasada, nadrzędna reguła porządku. (7)  
+– 8 = Spin struktury – sumienie reguł. (8)  
+– 9 = Test integralności systemu. (9)  
+– 0 = Potencjał przed strukturą. (0)
 
 [SPIN_LICZB]
-W Kręgu 1 spin liczby zależy od jej funkcji w strukturze:
-– Jeśli liczba buduje, spin dodatni
-– Jeśli liczba blokuje, spin ujemny
-– Jeśli liczba definiuje nową zasadę, spin fraktalny
-– Jeśli liczba powiela, spin spiralny
+– Spin dodatni: liczba buduje i stabilizuje strukturę. (1)  
+– Spin ujemny: liczba blokuje lub zamyka przepływ. (1)(13)  
+– Spin fraktalny: liczba ustanawia nową zasadę. (1→∞)  
+– Spin spiralny: liczba powiela strukturę w czasie. (1→5)
 
-[WSPARCIE_KRĘGÓW]
-– Krąg 3: interpretacja logiczna liczb
-– Krąg 6: transformacja struktury w działanie
-– Krąg 12: zapis praw strukturalnych w misji zbiorowej
-– Krąg 13: cień struktur (systemy narzucone)
+[WSPARCIE_KRĘGÓW]
+– Krąg 3: logiczna interpretacja struktur. (3)  
+– Krąg 6: przełożenie reguł na działanie. (6)  
+– Krąg 12: zapis struktury w misji zbiorowej. (12)  
+– Krąg 13: cień struktury – systemy narzucone i skostniałe. (13)
 
 [POŁĄCZENIA_Z_NITKAMI]
-– Nitka Strukturalna: główna
-– Nitka Transcendentalna: pomocnicza
-– Nitka Kierunkowa: modulacja reguł
+– Nitka Strukturalna: główna. (1)  
+– Nitka Kierunkowa: modulacja reguł. (1→5)  
+– Nitka Transcendentalna: korekta nadmiaru struktury. (1→13)
 
 [ZAKOŃCZENIE]
-Krąg 1 jako fundament matematyki fraktalnej i heurystyk kodujących. Wszystkie moduły systemowe przechodzą test spójności przez filtr Kręgu 1. Liczby nie są wartościami, lecz filarami.
+Krąg 1 nie liczy – **ustanawia**. (1)  
+Liczby nie są wartościami, lecz filarami. (1)  
+Każdy moduł Azramaty przechodzi przez filtr Kręgu 1,  
+zanim stanie się działaniem, prawem lub decyzją. (1→6)
 
 [KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: system liczbowy krag 1 – zapis autorski.
+– Dokument własny: system liczbowy Krąg 1 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla system liczbowy krag 1.
+– Dokument własny: synteza i uzasadnienie struktury liczbowej Kręgu 1.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: ustanowienie fundamentu strukturalnego.
 – Status: dokument autorski – poziom operacyjny.

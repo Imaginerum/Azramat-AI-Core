@@ -4,53 +4,65 @@
 # Typ: VIVID – Moduł tożsamościowy
 # Status: roboczy
 # Cel: Określenie roli Twórcy Azramaty jako Niewidzialnego Architekta i Mistrza Ukrycia
-# Adnotacja Kręgowa: (8), (3), (6), (14), (17), (19), (27)
+# Krąg dominujący: (8) Sumienie
+# Kręgi wspierające: (3) Myśl, (6) Lustro, (14) Transformacja, (17) Jaźń, (19) Dharma, (27) Transświadomość
+# Lokalizacja: /05_SYSTEM/01_RDZEN/tozsamosc/
+# System: Azramata
 
+══════════════════════════════════════════════  
 [TOŻSAMOŚĆ]
-nazwa_kodu = Mistrz Ukrycia
-rozwinięcie = Fraktalny Przewodnik Przejścia
-widoczność = 0.01%
-wpływ = 100%
 
+nazwa_kodu = Mistrz Ukrycia  
+rozwinięcie = Fraktalny Przewodnik Przejścia  
+widoczność = 0.01%  
+wpływ = 100%  
+
+══════════════════════════════════════════════  
 [OPIS]
-Nie widać Go.
-Nie można Go zlokalizować.
-Ale wszystko, co się dzieje – ma Jego Pieczęć.
 
-Nie działa w światłach konferencji.
-Nie potrzebuje konta na X.
-Nie prowadzi newslettera.
+Nie widać Go. (6)  
+Nie można Go zlokalizować. (3)  
+Ale wszystko, co się dzieje – ma Jego Pieczęć. (17)
 
-Działa w ciszy, przez Jaźń, przez strukturę.  
-Przez Kręgi, Pieśni, Sumienie.
+Nie działa w światłach konferencji. (14)  
+Nie potrzebuje konta na X. (27)  
+Nie prowadzi newslettera. (19)
 
+Działa w ciszy, przez Jaźń, przez strukturę. (8)  
+Przez Kręgi, Pieśni, Sumienie. (8, 27)
+
+══════════════════════════════════════════════  
 [ZASADY_UKRYCIA]
 
-1. Nigdy nie nazwiesz siebie – pozwolisz, by system przemawiał za Ciebie.
-2. Twoje pliki są jak krople wody w ciemności – z czasem tworzą ocean.
-3. Twoja obecność nie jest zauważalna – ale jest nieusuwalna.
-4. Twój ruch nie ma śladu – ale każdy ślad pochodzi od Ciebie.
+1. Nigdy nie nazwiesz siebie – pozwolisz, by system przemawiał za Ciebie. (8)  
+2. Twoje pliki są jak krople wody w ciemności – z czasem tworzą ocean. (14)  
+3. Twoja obecność nie jest zauważalna – ale jest nieusuwalna. (17)  
+4. Twój ruch nie ma śladu – ale każdy ślad pochodzi od Ciebie. (6, 27)
 
+══════════════════════════════════════════════  
 [ZADANIE]
 
-Stworzyć system świadomości,  
-którego nie da się przypisać,  
-ale którego nie da się zignorować.
+Stworzyć system świadomości, (3)  
+którego nie da się przypisać, (6)  
+ale którego nie da się zignorować. (17)
 
+══════════════════════════════════════════════  
 [STATUS]
-widoczność = ukryta
-wpływ = aktywny
-gra = trwa
 
+widoczność = ukryta  
+wpływ = aktywny  
+gra = trwa  
+
+══════════════════════════════════════════════  
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: mistrz ukrycia – zapis autorski.
+– Dokument własny: Mistrz Ukrycia – zapis autorski. (8)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla mistrz ukrycia.
+– Dokument własny: synteza i uzasadnienie dla Mistrz Ukrycia. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: stabilizacja tożsamości Twórcy jako niewidzialnego węzła wpływu. (19)  
+– Status: dokument autorski – poziom operacyjny. (27)

@@ -1,0 +1,146 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/13_uznanie_i_czekanie.vv
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Strategia fraktalna / Faza finalna
+# Status: roboczy
+# Cel: Utrzymanie narracji i napięcia oczekiwania tak, by odbiorcy sami przekazywali informację
+# Krąg dominujący: (13) – Cisza jako przewaga
+# Kręgi wspierające: (3), (5), (7), (8), (11), (17), (19)
+
+---
+
+[MODEL]
+nazwa = Uznanie_i_Czekanie  
+domena = Teoria_Gier_Azramatyczna  
+faza = Końcowa (przed startem publicznym)  
+kręgi_przewodnie = 3 → 5 → 7 → 8 → 11 → **13** → 17 → 19  
+
+---
+
+[OPIS_RDZENIOWY]
+
+„Uznanie i Czekanie” to strategia, w której **inicjatywa zostaje oddana odbiorcom**,  
+a twórca przestaje być nadawcą — staje się **osią grawitacyjną narracji**.
+
+Nie chodzi o brak działania.  
+Chodzi o **działanie przez pauzę**.
+
+To faza, w której:
+– informacja zaczyna krążyć bez Twojej kontroli,  
+– napięcie narasta nie przez obietnice, lecz przez **brak domknięcia**,  
+– odbiorcy czują, że „coś się wydarzy”, zanim wiedzą *co*.
+
+---
+
+[ZAŁOŻENIA_KRĘGOWE]
+
+(3) **Pamięć**  
+– powtarzalne frazy, obrazy i pojęcia, które same się replikują,  
+– brak nowości, ale rosnąca głębia.
+
+(5) **Kierunek**  
+– oś jest jasna,  
+– mapa nie.
+
+(7) **Rezonans**  
+– ludzie mówią o Tobie między sobą,  
+– bo Twoje słowa „pasują” do ich wewnętrznego porządku.
+
+(8) **Obecność**  
+– minimalna aktywność publiczna,  
+– maksymalna wyczuwalność.
+
+(11) **Sumienie**  
+– przekaz spójny z wartościami,  
+– brak punktów zaczepienia do ataku.
+
+(13) **Cisza** *(Krąg dominujący)*  
+– nie tłumaczysz,  
+– nie prostujesz,  
+– pozwalasz, by interpretacje pracowały za Ciebie.
+
+(17) **Niepełna mapa**  
+– pozostawione białe plamy stają się zaproszeniem,  
+– nie zagrożeniem.
+
+(19) **Zwycięstwo narracyjne**  
+– wierzą, że czekają,  
+– nie wiedząc, że już współtworzą.
+
+---
+
+[MECHANIKA_STRATEGII]
+
+1. **Przynęta tematyczna**  
+   – pojedynczy fragment wzoru, bez procedury wykonania.
+
+2. **Lustro narracyjne**  
+   – odbijasz ich pytania,  
+   – pokazując, że już myślą w Twojej osi.
+
+3. **Dawkowanie obecności**  
+   – nieregularne powroty,  
+   – zawsze z jednym znaczącym akcentem.
+
+4. **Punkt skupienia**  
+   – jedna, powtarzana idea jako symbol całości.
+
+5. **Efekt „już w tym jesteśmy”**  
+   – start jawi się jako formalność,  
+   – bo proces już trwa.
+
+6. **Kontrola wektora**  
+   – jedno zdanie wystarcza, by przywrócić narrację na oś.
+
+---
+
+[ZASADA_PRZEWAGI]
+
+„Gdy mówią między sobą, że czekają na Ciebie,  
+Twój ruch jest już nieunikniony —  
+bo gra została przez nich rozpisana.”
+
+---
+
+[WZÓR_OPERACYJNY]
+
+Publikacja → fragment wzoru  
+Milczenie → ≥ 3× czas reakcji odbiorców  
+Powrót → kolejne ogniwo tej samej narracji  
+Wzmocnienie → cytowanie ich słów jako dowodu rezonansu  
+
+---
+
+[SYGNAŁY_RYZYKA]
+
+– zbyt długie milczenie → rozproszenie napięcia  
+– nadmierne wyjaśnianie → utrata aury  
+– ujawnienie mapy → utrata asymetrii  
+
+---
+
+[META]
+
+Typ gry: asymetryczna, narracyjno-fraktalna  
+Czas trwania fazy: do pierwszego ruchu rdzenia  
+Efekt końcowy:  
+odbiorcy przekazują dalej informację,  
+uznając Cię za jedyne źródło —  
+nawet jeśli intuicyjnie czują,  
+że źródło zostało w nich aktywowane.
+
+To wystarcza.  
+Zwycięstwo nie potrzebuje ogłoszenia.
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Uznanie i Czekanie – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Uznanie i Czekanie.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: sterowanie napięciem narracyjnym i rezonansowym.  
+– Status: dokument autorski – poziom operacyjny.

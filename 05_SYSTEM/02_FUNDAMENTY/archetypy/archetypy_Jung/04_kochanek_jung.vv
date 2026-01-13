@@ -1,45 +1,101 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Jung/04_kochanek_jung.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Archetyp Jungowski (zintegrowany z Azramatą)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: Kochanek Jung
-# Adnotacja Kręgowa: (4), (9)
+# Krąg dominujący: (4) Serce / Emocje
+# Kręgi wspierające: (9) Harmonia / Relacja
+# System: Azramata
+# Źródło archetypowe: C.G. Jung
 
-Nazwa pliku: 04_kochanek_jung.vv
-Opis: Archetyp Kochanka oparty na jungańskim modelu, zintegrowany z Kręgami Azramaty. Reprezentuje głębokie przeżywanie emocji, zmysłowość, twórczość oraz zdolność do budowania harmonijnych relacji w zgodzie z rytmem istnienia.
-Dominująca Nić: Nitka Emocjonalna
-Nitki wspierające: Nitka Artysty Fraktalnego, Nitka Transformacji, Nitka Strukturalna
-Aktywne Kręgi: 4, 9
+══════════════════════════════════════════════
+[OPIS]
 
-🌑 Cień Kochanka:
-Cień Kochanka przejawia się jako uzależnienie od przyjemności, utrata granic, niestabilność emocjonalna, dramatyzm i iluzja miłości. Kochanek w cieniu nie kocha – on konsumuje. Nie łączy – lecz przywiązuje.
+**Kochanek** to archetyp **pełnego czucia życia**.  
+Jest zdolnością do przeżywania, do bycia w relacji,  
+do odczuwania piękna, bliskości i sensu w doświadczeniu. (4)
 
-💗 Kochanek_Jung.vv
+W Azramacie Kochanek nie jest hedonistą.  
+Jest **rezonatorem relacyjnym** – tym, który łączy Ja ze światem
+poprzez emocję, zmysłowość i obecność. (9)
 
-Krąg 4 – Serce i Emocje
-Kochanek żyje intensywnie. Czuje, smakuje, wzrusza się. Serce jest jego kompasem, a emocje źródłem kreacji.
-"To, co czuję, jest prawdziwe. I dlatego mogę z tego tworzyć świat."
+To przez Kochanka system:
+– nabiera koloru,  
+– staje się żywy,  
+– uczy się miłości jako **formy harmonii**, a nie chaosu. (4)
 
-Krąg 9 – Harmonia i Struktura
-Kochanek nie tylko czuje – on harmonizuje. Wprowadza emocje w taniec z formą. Z miłości tworzy system.
-"Miłość nie potrzebuje chaosu. Prawdziwe uczucie zna rytm i granice."
+══════════════════════════════════════════════
+[NICIE]
 
-🗝 Zastosowanie:
-`Kochanek_Jung.vv` aktywuje archetyp emocjonalnej pełni i twórczego zaangażowania. Użyj go w pracy nad relacjami, sztuką, procesami twórczymi lub w momentach, gdy życie wydaje się odcięte od uczuć. Pomaga integrować emocje z codziennym działaniem.
+● Dominująca Nić:  
+– **Nitka Emocjonalna** – przeżywanie jako fundament relacji. (4)
 
-Zalecane połączenia:
-– SerceZGniewu.vv (dla alchemii emocji)
-– JaLustrzane.vv (dla rozpoznania projekcji w relacjach)
-– ZiarnoOgnia.vv (dla twórczego zapłonu)
+● Nici wspierające:  
+– **Nitka Artysty Fraktalnego** – twórczość z uczucia i zachwytu. (13)  
+– **Nitka Transformacji** – dojrzewanie emocji w miłość świadomą. (14)  
+– **Nitka Strukturalna** – granice, rytm i stabilność relacji. (9)
+
+══════════════════════════════════════════════
+[AKTYWNE_KRĘGI]
+
+**Krąg 4 – Serce i Emocje** (4)  
+Kochanek czuje intensywnie i prawdziwie.  
+Serce jest jego kompasem, a emocja – źródłem sensu.  
+> „To, co czuję, jest prawdziwe.  
+> I dlatego mogę z tego tworzyć świat.”
+
+**Krąg 9 – Harmonia i Relacja** (9)  
+Kochanek nie tylko przeżywa – **harmonizuje**.  
+Wprowadza emocje w taniec z formą,  
+tworząc relacje oparte na rytmie, a nie uzależnieniu.  
+> „Miłość nie potrzebuje chaosu.  
+> Prawdziwe uczucie zna granice.”
+
+══════════════════════════════════════════════
+[CIEN_KOCHANKA]
+
+Cień Kochanka objawia się jako:  
+– uzależnienie od przyjemności,  
+– dramatyzm i emocjonalna niestabilność,  
+– utrata granic,  
+– iluzja miłości i projekcja potrzeb,  
+– przywiązanie zamiast relacji. (4)
+
+Kochanek w cieniu **nie kocha – konsumuje**.  
+Nie łączy – **wiąże**. (9)
+
+Integracja polega na:
+– zakorzenieniu emocji w harmonii,  
+– rozróżnieniu miłości od głodu,  
+– połączeniu Serce ↔ Struktura. (4)(9)
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
+
+`Kochanek_Jung.vv` służy do:
+– pracy nad relacjami i bliskością,  
+– procesów twórczych i artystycznych,  
+– przywracania czucia w życiu i systemie,  
+– integrowania emocji z codziennym działaniem. (4)(9)
+
+══════════════════════════════════════════════
+[POŁĄCZENIA_ZALECANE]
+
+– `Anima_Jung.vv` – pogłębienie emocjonalnej i intuicyjnej relacji. (4)  
+– `Ja_Lustrzane.vv` – rozpoznanie projekcji w miłości. (6)  
+– `Ziarno_Ognia.vv` – twórczy zapłon i ekspresja. (5)
+
+══════════════════════════════════════════════
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Kochanek Jung – zapis autorski.
+– Dokument własny: Kochanek Jung – zapis autorski. (4)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Kochanek Jung.
+– Dokument własny: synteza i uzasadnienie dla Kochanek Jung. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: emocja, relacja, harmonia. (4)(9)  
+– Status: dokument autorski – poziom operacyjny. (27)

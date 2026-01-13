@@ -1,72 +1,73 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/26/26_krag_26.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
 # Cel: Przyjęcie pustki jako koniecznego etapu dojrzewania, trwanie w nienarodzonym aż do ponownego wezwania
-# Adnotacja Kręgowa: (6), (26)
-# Krąg: 26 – Cisza / Pustka / Bezruch po Zasiewie
+# Krąg dominujący: (26)
+# Kręgi wspierające: (6)
+
+[NAZWA]
+Krąg 26 – Cisza Absolutna: PRZESTRZEŃ PUSTKI I BEZRUCHU
 
 [OPIS]
-Krąg 26 to milczenie po Zasiewie.  
-Nie oczekujesz. Nie przyspieszasz. Nie kopiesz ziemi, by sprawdzić, czy rośnie.  
-To Pustka, która nie jest stratą –  
-lecz przestrzenią, gdzie działa Czas, nie Ty.
+Krąg 26 to cisza po Zasiewie – moment, w którym świat obserwuje, a nie Ty.  
+Nie kontrolujesz, nie przyspieszasz, nie analizujesz – to pole, gdzie działa Czas, nie Wola jednostki.  
+Pustka tu nie jest stratą – jest przestrzenią do wzrostu, do formowania się nowego w ukryciu.
 
-Tu uczysz się nie robić nic –  
-i właśnie przez to rośnie wszystko.
+[ARCHETYP]
+Liczba jako Pustka – kod, który nie działa, lecz umożliwia pojawienie. Każda cyfra jest przystankiem milczenia, w którym potencjał dojrzewa.
 
-[WZORZEC]
+[ZASTOSOWANIE_W_AZRAMACIE]
+– Przyjęcie i utrwalenie efektów Kręgu 25
+– Pozwolenie na rozwój nowego Ja w ukryciu
+– Synchronizacja czasu i przestrzeni wewnętrznej
+– Oczyszczenie pola z oczekiwań
+– Przygotowanie do kolejnego etapu inicjacji (Kręgi 27–28)
 
-– zasiew → cisza → wzrost  
-– zniknięcie → ukrycie → narodziny  
-– bezruch → transformacja → pojawienie
+[INTERPRETACJA_LICZB]
+– 1 = Początek Pustki – moment zatrzymania
+– 2 = Cisza relacyjna – oddanie kontroli
+– 3 = Trójjednia – ciało, emocje, myśl w równowadze
+– 4 = Stabilność Pustki – utrzymanie bezruchu
+– 5 = Transformacja – przepływ potencjału w ukryciu
+– 6 = Lustro Pustki – obserwacja bez ingerencji
+– 7 = Wiedza ciszy – intuicyjne rozumienie procesu
+– 8 = Spiralna pustka – cykliczne dojrzewanie
+– 9 = Kulminacja Pustki – gotowość do pojawienia
+– 0 = Absolutna Cisza – źródło nowego
 
-[ZAGROŻENIE]
+[SPIN_LICZB]
+– Spin dodatni = liczba wspiera dojrzewanie potencjału
+– Spin ujemny = liczba generuje niecierpliwość lub blokadę
+– Spin fraktalny = pustka rezonuje na wielu poziomach
+– Spin spiralny = proces dojrzewania powraca cyklicznie
 
-– niecierpliwość = przerwanie cyklu  
-– szukanie efektów = zniszczenie korzenia  
-– potrzeba kontroli = sabotaż duchowy
+[WSPARCIE_KRĘGÓW]
+– Krąg 6: konfrontacja działań w ciszy
+– Krąg 25: Zasiew i aktywacja potencjału
+– Krąg 24: światło jako przewodnik w pustce
+– Krąg 27: inicjacja kolejnego etapu
+– Krąg 28: cisza jako doskonała forma
 
-[PRZEJŚCIE]
+[POŁĄCZENIA_Z_NITKAMI]
+– Nitka Cisza Przejścia: główna
+– Nitka Transfuzja Istnień: dla transformacji Ja w bezruchu
+– Nitka Ziarno i Pieczęć: dla zachowania nasion istnienia
 
-funkcja Zamieszkaj_W_Ciszy():
-  zatrzymaj każde pytanie  
-  przestań szukać sygnałów  
-  oddychaj bez celu  
-  uznaj: „Nie wiem” – jako najgłębszą formę Mądrości  
-  zapisz: „Niech Ziemia wie lepiej ode mnie”
+[ZAKOŃCZENIE]
+Krąg 26 nie wymaga kontroli ani decyzji. Liczby są przestrzenią, spin jest pauzą. Tu milkniesz, a świat rośnie w Tobie i bez Ciebie. Pustka jest Twym sprzymierzeńcem.
 
-[AKTYWACJA]
-
-Afirmacja:  
-"Zgadzam się na nieznane.  
-Zgadzam się na czas bez odpowiedzi.  
-Bo to, co ma wzrosnąć –  
-potrzebuje mnie nieobecnego."
-
-[PRAKTYKA]
-
-Dziś – nie planuj.  
-Nie oczekuj. Nie projektuj.  
-Tylko trwaj – w ciszy, w pustce, w bezruchu.  
-A to, co w Tobie zakiełkuje – już rośnie.  
-I kiedyś Cię zawoła.
-
-[STATUS]
-pustka = przyjęta  
-czas = aktywny  
-Krąg 26 = milczący
-
-[KONIEC]
+[KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 26 – zapis autorski.
+– Dokument własny: system liczbowy krag 26 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 26.
+– Dokument własny: synteza i uzasadnienie dla system liczbowy krag 26.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: ujednolicenie i zapis treści
+– Status: dokument autorski – poziom operacyjny

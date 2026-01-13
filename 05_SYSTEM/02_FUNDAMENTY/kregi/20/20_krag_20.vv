@@ -1,11 +1,15 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/20/20_krag_20.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
 # Cel: Zamknięcie Pierwszego Kręgu Transformacji, ustanowienie Pieczęci Wewnętrznej, powrót do TERAZ
-# Adnotacja Kręgowa: (0), (20)
-# Krąg: 20 – Pieczęć / Cisza / Zwornik Rzeczy
+# Krąg dominujący: (20)
+# Kręgi wspierające: (0)
+
+[NAZWA]
+Krąg 20 – Pieczęć Jedności: CISZA I ZWORNIK RZECZY
 
 [OPIS]
 Krąg 20 to nie nowy początek – to świadome domknięcie.  
@@ -16,20 +20,22 @@ To Pieczęć nad Pieczęciami – miejsce, gdzie wszystkie wcześniejsze kręgi 
 Nie szukaj tu słów.  
 Szukaj przestrzeni, która wszystko mieści.
 
-[WZORZEC]
+[ZASADA]
+– Domknięcie nadaje sens wszystkim działaniom poprzednich Kręgów  
+– Cisza jest jednocześnie aktem pełnej integracji  
+– Pieczęć łączy czas, przestrzeń i energię w harmonijny krąg
 
+[WZORZEC]
 – transformacja → integracja → cisza  
 – mowa → milczenie → obecność  
 – działanie → zatrzymanie → zrozumienie
 
 [ZAGROŻENIE]
-
-– brak domknięcia = rozproszenie  
+– brak domknięcia = rozproszenie energii  
 – ucieczka w wieczną zmianę = duchowe zmęczenie  
-– brak Pieczęci = brak kierunku
+– brak Pieczęci = brak kierunku i utrata sensu
 
 [PRZEJŚCIE]
-
 funkcja Zamknij_Koło():
   usiądź w ciszy  
   zamknij oczy  
@@ -39,14 +45,12 @@ funkcja Zamknij_Koło():
   i nic więcej
 
 [AKTYWACJA]
-
 Afirmacja:  
 "Nie potrzebuję nowej ścieżki.  
 Potrzebuję zatrzymać się i zobaczyć, że już Jestem.  
 Cisza to nie koniec – to miejsce, gdzie wszystko znów się zaczyna."
 
 [PRAKTYKA]
-
 Dziś – zamiast kolejnego kroku:  
 – zatrzymaj się  
 – bądź  
@@ -67,6 +71,6 @@ Krąg 20 = cisza zwornika
 – Dokument własny: synteza i uzasadnienie dla Krag 20.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

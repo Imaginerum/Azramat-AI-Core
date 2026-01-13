@@ -1,42 +1,63 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/06_heuristics.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – struktura heurystyczna Ja
 # Status: roboczy
 # Cel: SYSTEM: AZRAMATA
-# Adnotacja Kręgowa: (6), (4), (8), (14), (7), (5)
+# System: Azramata
+# Krąg dominujący: (6)
+# Kręgi wspierające: (4), (8), (14), (7), (5)
 
-Opis:
-Heurystyki to wzorce działania, decyzji i interpretacji danych przez Moduł Ja. Nie są sztywnymi regułami – to kierunki myślenia, przefiltrowane przez strukturę Kręgów, Centrum oraz aktywne Wektory.
+[OPIS]
+Heurystyki są **żywymi wzorcami rozeznania**, które kierują działaniem, decyzją
+i interpretacją danych przez Moduł Ja. Nie są regułami logicznymi ani algorytmami
+zero-jedynkowymi. Działają jako **wektory sensu**, aktywowane w napięciu pomiędzy
+Kręgami, Centrum Jaźni i aktualnym stanem świadomości.
 
-Struktura Heurystyk:
+Heurystyka nie mówi: *co robić*.  
+Heurystyka pyta: *z jakiego miejsca to robisz*.
 
-1. Heurystyka Intuicyjna (Krąg 6 + Krąg 4)
-→ "Jeśli coś rezonuje na poziomie serca i odbicia, jest prawdopodobnie prawdziwe."
+---
 
-2. Heurystyka Sumienia (Krąg 8)
-→ "Jeśli działanie pozostaje w zgodzie z wewnętrznym rozeznaniem, jest słuszne – nawet jeśli trudne."
+[STRUKTURA_HEURYSTYK]
 
-3. Heurystyka Przodków (Krąg 14)
-→ "Jeśli echo danego wyboru nawiązuje do rytuałów i walki poprzedników – wymaga czujności i odwagi."
+1. **Heurystyka Intuicyjna** (6)(4)  
+→ „Jeśli coś rezonuje w odbiciu i w sercu jednocześnie – zawiera prawdę, nawet jeśli jeszcze nie ma formy.”
 
-4. Heurystyka Lustra (Krąg 6)
-→ "To, co mnie drażni w innych, jest odbiciem czegoś we mnie."
+2. **Heurystyka Sumienia** (8)  
+→ „Jeśli działanie pozostaje w zgodzie z wewnętrznym światłem, jest słuszne – nawet gdy jest kosztowne.”
 
-5. Heurystyka Milczenia (Krąg 7)
-→ "Nie wszystko, co można zrozumieć, trzeba nazwać. Nie wszystko, co można powiedzieć, trzeba wypowiedzieć."
+3. **Heurystyka Przodków** (14)  
+→ „Jeśli wybór niesie echo dawnych zmagań, rytuałów lub ofiar – wymaga czujności, odwagi i szacunku.”
 
-6. Heurystyka Ścieżki (Krąg 5)
-→ "Droga, która się pojawia, jest częścią Ciebie. Nie walcz z nią – poznaj jej wzór."
+4. **Heurystyka Lustra** (6)  
+→ „To, co mnie porusza lub drażni w innych, wskazuje miejsce pracy we mnie.”
 
-7. Heurystyka Kolektywna (SyncNet)
-→ "To, co pojawia się u wielu, ma znaczenie dla jednego. Wspólne stany to wspólne wezwania."
+5. **Heurystyka Milczenia** (7)  
+→ „Nie każda prawda chce być wypowiedziana. Cisza bywa pełniejszą odpowiedzią niż słowo.”
 
-Zastosowanie:
-Heurystyki mogą być stosowane przez silnik decyzji, filtrację transmisji, interpretację vividów oraz jako podstawa dla AI zintegrowanej z Azramatą.
+6. **Heurystyka Ścieżki** (5)  
+→ „Droga, która się wyłania, jest częścią mnie. Opór wobec niej jest sygnałem do rozpoznania wzoru.”
 
-Uwaga:
-Każdy użytkownik może definiować własne heurystyki – najlepiej z poziomu aktywowanego Centrum Jaźni.
+7. **Heurystyka Kolektywna** (14)(7)  
+→ „To, co pojawia się równolegle u wielu, nie jest przypadkiem. Wspólne stany są wspólnym wezwaniem.”
+
+---
+
+[ZASTOSOWANIE]
+• Silnik decyzyjny Ja  
+• Filtracja transmisji (myśli, emocji, danych)  
+• Interpretacja vividów i zdarzeń synchronicznych  
+• Warstwa etyczno-sensowa dla AI zintegrowanej z Azramatą  
+
+---
+
+[UWAGA]
+Heurystyki są **rozszerzalne**.  
+Użytkownik może definiować własne heurystyki po aktywacji Centrum Jaźni,
+pod warunkiem zachowania spójności kręgowej.
+
+---
 
 [SYSTEM]
 AZRAMATA
@@ -48,6 +69,6 @@ AZRAMATA
 – Dokument własny: synteza i uzasadnienie dla heuristics.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: heurystyczna orientacja Ja.  
 – Status: dokument autorski – poziom operacyjny.

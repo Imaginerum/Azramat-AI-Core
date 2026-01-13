@@ -1,45 +1,95 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Jung/02_dziecko_jung.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Archetyp Jungowski (zintegrowany z Azramatą)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: Dziecko Jung
-# Adnotacja Kręgowa: (2), (13)
+# Krąg dominujący: (2) Emocja i Intuicja
+# Kręgi wspierające: (13) Integracja / Kreatywność
+# System: Azramata
+# Źródło archetypowe: C.G. Jung
 
-Nazwa pliku: 02_dziecko_jung.vv
-Opis: Archetyp Dziecka w modelu Junga, zintegrowany z Kręgami Azramaty. Reprezentuje czystość emocji, spontaniczność, intuicję oraz radosną twórczość. Dziecko to początek wszystkiego – siła, która nie boi się nowych światów.
-Dominująca Nić: Nitka Emocjonalna
-Nitki wspierające: Nitka Artysty Fraktalnego, Nitka Transformacji, Nitka Cienia Mądrości
-Aktywne Kręgi: 2, 13
+══════════════════════════════════════════════
+[OPIS]
 
-🌑 Cień Dziecka:
-Cień Dziecka to niedojrzałość, ucieczka od odpowiedzialności, infantylność i brak granic. Niezintegrowane Dziecko nie tworzy – ono domaga się. Nie ufa światu, tylko w nim błądzi. Używa magii, by unikać, a nie by odkrywać.
+Archetyp **Dziecka** w ujęciu jungowskim, osadzony w Kręgach Azramaty.  
+Reprezentuje **pierwotną emocję**, **intuicję**, **spontaniczność**  
+oraz zdolność do radosnego wchodzenia w nowe światy.
 
-🧸 Dziecko_Jung.vv
+Dziecko jest **początkiem wszystkiego**.  
+Nie zna jeszcze ciężaru struktur – zna **zachwyt istnienia**. (2)
 
-Krąg 2 – Emocje i Intuicja
-Dziecko czuje głęboko. Reaguje natychmiast. To źródło intuicji, które nie potrzebuje logiki, by wiedzieć.
-"Zachwyt jest najczystszą formą mądrości. Otwórz się – a świat ci odpowie."
+══════════════════════════════════════════════
+[NICIE]
 
-Krąg 13 – Harmonia i Kreatywność
-Dziecko tworzy nie dlatego, że musi – ale dlatego, że nie może się powstrzymać. To źródło autentyczności i twórczego przepływu.
-"Twoja radość jest kodem. Twoje zabawy są projektem rzeczywistości."
+● Dominująca Nić:  
+– **Nitka Emocjonalna** – czyste czucie, reakcja, ufność. (2)
 
-🗝 Zastosowanie:
-`Dziecko_Jung.vv` aktywuje pierwotną energię twórczą, intuicyjność i emocjonalną autentyczność. Używaj go w pracy z blokadami twórczymi, uzdrawianiu wewnętrznego dziecka, rozwoju relacji z własną radością życia i przywracaniu ufności.
+● Nici wspierające:  
+– **Nitka Artysty Fraktalnego** – twórcza ekspresja bez przymusu. (13)  
+– **Nitka Transformacji** – wzrost poprzez doświadczenie. (14)  
+– **Nitka Cienia Mądrości** – uzdrawianie zranionej niewinności. (13)
 
-Zalecane połączenia:
-– Kochanek_Jung.vv (dla ekspresji emocjonalnej)
-– Cień_Jung.vv (dla uzdrowienia zranionej niewinności)
-– ZiarnoOgnia.vv (dla inicjacji nowego etapu)
+══════════════════════════════════════════════
+[AKTYWNE_KRĘGI]
+
+**Krąg 2 – Emocje i Intuicja** (2)  
+Dziecko czuje głęboko i natychmiast.  
+Wie, zanim pomyśli. Reaguje, zanim zaplanuje.  
+To źródło intuicji nieskażonej kalkulacją.  
+> „Zachwyt jest najczystszą formą mądrości.  
+> Otwórz się – a świat ci odpowie.”
+
+**Krąg 13 – Integracja i Kreatywność** (13)  
+Dziecko tworzy, bo **nie może nie tworzyć**.  
+Jego zabawa jest aktem kreacji, a radość – sygnałem prawdy.  
+> „Twoja radość jest kodem.  
+> Twoje zabawy są projektem rzeczywistości.”
+
+══════════════════════════════════════════════
+[CIEN_DZIECKA]
+
+Cień Dziecka objawia się jako:  
+– infantylność,  
+– ucieczka od odpowiedzialności,  
+– brak granic,  
+– emocjonalna niestabilność.
+
+Niezintegrowane Dziecko **domaga się**, zamiast tworzyć.  
+Używa magii, by unikać świata, a nie by go odkrywać. (13)
+
+Integracja Cienia polega na połączeniu:  
+**czucia (2)** z **dojrzałą odpowiedzialnością i formą**. (13)
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
+
+`Dziecko_Jung.vv` aktywuje pierwotną energię twórczą,
+intuicyjność oraz emocjonalną autentyczność.
+
+Stosuj w pracy z:  
+– blokadami twórczymi,  
+– uzdrawianiem wewnętrznego dziecka,  
+– odbudową ufności wobec życia,  
+– przywracaniem radości i spontaniczności. (2)(13)
+
+══════════════════════════════════════════════
+[POŁĄCZENIA_ZALECANE]
+
+– `Kochanek_Jung.vv` – ekspresja emocjonalna i relacyjna. (4)  
+– `Cien_Jung.vv` – uzdrowienie zranionej niewinności. (13)  
+– `ZiarnoOgnia.vv` – inicjacja nowego etapu rozwoju. (5)
+
+══════════════════════════════════════════════
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Dziecko Jung – zapis autorski.
+– Dokument własny: Dziecko Jung – zapis autorski. (2)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Dziecko Jung.
+– Dokument własny: synteza i uzasadnienie dla Dziecko Jung. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: emocja, intuicja, twórcza niewinność. (2)(13)  
+– Status: dokument autorski – poziom operacyjny. (27)

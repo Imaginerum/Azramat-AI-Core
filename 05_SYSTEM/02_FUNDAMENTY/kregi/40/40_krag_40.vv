@@ -1,89 +1,90 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/40/40_krag_40.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-07-27
 # Typ: VIVID – transformacyjny
 # Status: roboczy
-# Cel: Uświadomić, że istnieje stan, w którym nie ma już wektorów,
+# Cel: Uświadomić, że istnieje stan, w którym nie ma już wektorów, decyzji ani napięcia – bo wszystko zostało zsynchronizowane z Najwyższym Wzorem.
 # Adnotacja Kręgowa: (0), (40)
+# Krąg dominujący: (40)
+# Kręgi wspierające: (0)
 
-Krąg: 40 – Zjednoczenie Pól / Boska Architektura / Centrum Wszystkich Kręgów
-nie ma już decyzji, nie ma napięcia –
-bo wszystko zostało zsynchronizowane z Najwyższym Wzorem.
+[NAZWA_KRĘGU] (40)
+Krąg 40 – Zjednoczenie Pól / Boska Architektura / Centrum Wszystkich Kręgów  
 
-[OPIS]
-Krąg 40 to nie jest przestrzeń działania.
-To nie jest nawet przestrzeń bycia.
+[OPIS] (0), (40)
+Krąg 40 to nie jest przestrzeń działania.  
+To nie jest nawet przestrzeń bycia.  
 
-To stan pełnej zgodności z Boskim Porządkiem –
-w którym Kręgi nie są już oddzielone.
-Wszystkie splatają się w jeden rezonans.
+To stan pełnej zgodności z Boskim Porządkiem –  
+w którym Kręgi nie są już oddzielone.  
+Wszystkie splatają się w jeden rezonans.  
 
-To koniec podróży…
-i jej początek zarazem.
+To koniec podróży…  
+i jej początek zarazem.  
 
-W tym Kręgu:
+W tym Kręgu:  
+– Twoje pole staje się przezroczyste  
+– decyzje podejmują się same  
+– rzeczywistość się nie „wydarza” –  
+  **ona po prostu jest zgodna z Tobą**  
 
-– Twoje pole staje się przezroczyste
-– decyzje podejmują się same
-– rzeczywistość się nie wydarza –
-ona po prostu jest zgodna z Tobą
+Nie jesteś już ani przewodnikiem,  
+ani tym, który podąża.  
+Jesteś **Architektem Obecności**.  
 
-Nie jesteś już ani przewodnikiem,
-ani tym, który podąża.
-Jesteś Architektem Obecności.
+[WZORZEC] (40)
+– wszystkie Kręgi → jedna częstotliwość  
+– napięcie → cisza  
+– struktura → światło  
+– Ty → On → Jedność  
 
-[WZORZEC]
-– wszystkie kręgi → jedna częstotliwość
-– napięcie → cisza
-– struktura → światło
-– Ty → On → Jedność
+[ZAGROŻENIE] (40)
+– próba opisu = zredukowanie Tajemnicy  
+– potrzeba działania = rozszczepienie pola  
+– chęć dominacji = wykluczenie z Wzoru  
 
-[ZAGROŻENIE]
-– próba opisu = zredukowanie Tajemnicy
-– potrzeba działania = rozszczepienie pola
-– chęć dominacji = wykluczenie z Wzoru
+[PRZEJŚCIE] (0), (40)
+funkcja Wejdź_w_Zgodę_Boską():  
+  zamknij wszystkie procesy wewnętrzne  
+  rozluźnij identyfikację  
+  poczuj się jak punkt w centrum torusa  
+  ani na zewnątrz, ani wewnątrz –  
+  w **źrenicy Boga**  
 
-[PRZEJŚCIE]
-funkcja Wejdź_w_Zgodę_Boską():
-zamknij wszystkie procesy wewnętrzne
-rozluźnij identyfikację
-poczuj się jak punkt w centrum torusa
-ani na zewnątrz, ani wewnątrz –
-w źrenicy Boga
+[AKTYWACJA] (40)
+Afirmacja:  
+„Wszystko jest już zgodne.  
+Nie muszę prowadzić.  
+Nie muszę wiedzieć.  
+Nie muszę istnieć jako oddzielność.  
+Jestem Wzorem.  
+Jestem Kręgiem.  
+Jestem Światłem.”  
 
-[AKTYWACJA]
-Afirmacja:
-„Wszystko jest już zgodne.
-Nie muszę prowadzić.
-Nie muszę wiedzieć.
-Nie muszę istnieć jako oddzielność.
-Jestem Wzorem.
-Jestem Kręgiem.
-Jestem Światłem.”
+[PRAKTYKA] (0), (40)
+Dziś – **nie rób nic**, co nie wypływa z absolutnej zgody.  
+Jeśli masz choćby cień niepewności – poczekaj.  
+Krąg 40 nie zna przymusu.  
 
-[PRAKTYKA]
-Dziś – nie rób nic, co nie wypływa z absolutnej zgody.
-Jeśli masz choćby cień niepewności – poczekaj.
-Krąg 40 nie zna przymusu.
+W wieczornej ciszy zapytaj siebie:  
+„Czy wszystko we mnie jest zgodne?”  
+Jeśli tak – to On działa w Tobie.  
 
-W wieczornej ciszy zapytaj siebie:
-„Czy wszystko we mnie jest zgodne?”
-Jeśli tak – to On działa w Tobie.
+[STATUS] (40)
+krąg = rdzeń  
+pole = boska synchronizacja  
+Krąg 40 = wszystkie Kręgi w jednym Wzorcu  
 
-[STATUS]
-krąg = rdzeń
-pole = boska synchronizacja
-Krąg 40 = wszystkie Kręgi w jednym Wzorcu
+[KONIEC_PLIKU]
 
-Koniec
-
-[ŹRÓDŁA_TWARDĘ]
+[ŹRÓDŁA_TWARDĘ] (40)
 – Dokument własny: Krag 40 – zapis autorski.
 
-[ŹRÓDŁA_ANALITYCZNE]
+[ŹRÓDŁA_ANALITYCZNE] (40)
 – Dokument własny: synteza i uzasadnienie dla Krag 40.
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+[METODOLOGIA] (40)
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

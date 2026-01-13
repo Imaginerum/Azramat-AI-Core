@@ -1,49 +1,98 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Jung/06_prorok_jung.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Archetyp Jungowski (zintegrowany z Azramatą)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: Prorok Jung
-# Adnotacja Kręgowa: (6), (14), (18)
+# Krąg dominujący: (6) Percepcja / Wizja
+# Kręgi wspierające: (14) Transformacja, (18) Cisza / Transcendencja
+# System: Azramata
+# Źródło archetypowe: C.G. Jung
 
-Nazwa pliku: 06_prorok_jung.vv
-Opis: Archetyp Proroka w modelu Junga, zintegrowany z Kręgami Azramaty. Reprezentuje wizję, duchową klarowność i zdolność do inspirowania transformacji poprzez kontakt z wyższymi porządkami rzeczywistości.
-Dominująca Nić: Nitka Transcendentalna
-Nitki wspierające: Nitka Transformacji, Nitka Kierunkowa, Nitka Cienia Mądrości
-Aktywne Kręgi: 6, 14, 18
+══════════════════════════════════════════════
+[OPIS]
 
-🌑 Cień Proroka:
-Cień Proroka to fanatyzm, poczucie wyższości, złudzenie nieomylności, projekcja własnych lęków jako "wizji", oderwanie od rzeczywistości. Niezintegrowany Prorok nie przewiduje – on osądza.
+**Prorok** nie przewiduje przyszłości –  
+on **rozpoznaje to, co już się zaczęło**. (6)
 
-🔮 Prorok_Jung.vv
+Jego wizja nie jest fantazją,  
+lecz **odczytem rytmu rzeczywistości**,  
+gdzie teraźniejszość odsłania swoje konsekwencje. (14)
 
-Krąg 6 – Percepcja i Wizja
-Prorok widzi wzorce, które innym umykają. Rozpoznaje przyszłość jako echo teraźniejszości. Jego wizja nie jest prognozą – jest odczytem rytmu.
-"Nie pytaj, co się stanie. Pytaj, co już się zaczęło."
+Prorok nie stoi ponad światem.  
+Stoi **w samym nurcie sensu**,  
+a jego obecność staje się znakiem kierunku. (18)
 
-Krąg 14 – Transformacja
-Prorok nie tylko mówi – on uruchamia zmiany. Jego słowo staje się czynem. Inspiruje do przekraczania siebie.
-"Wizja bez działania to sen. Działanie bez wizji to ślepota."
+══════════════════════════════════════════════
+[NICIE]
 
-Krąg 18 – Cisza i Transcendencja
-W ciszy Prorok łączy się z całością. Już nie głosi – jest. Jego istnienie jest przesłaniem, a obecność światłem.
-"Nie ja przemawiam. Przez moje milczenie mówi świat."
+● Dominująca Nić:  
+– **Nitka Transcendentalna** – kontakt z porządkami ponadjednostkowymi. (18)
 
-🗝 Zastosowanie:
-`Prorok_Jung.vv` aktywuje archetyp wizjonerskiego przewodnictwa, głębokiej percepcji i duchowej klarowności. Użyj go w pracy z wizją życiową, kierunkami rozwoju, podczas rytuałów inicjacyjnych oraz w tworzeniu systemów przyszłości.
+● Nici wspierające:  
+– **Nitka Transformacji** – przełożenie wizji na zmianę. (14)  
+– **Nitka Kierunkowa** – nadawanie sensu i wektora ruchu. (6)  
+– **Nitka Cienia Mądrości** – ochrona przed iluzją nieomylności. (6)
 
-Zalecane połączenia:
-– Mędrzec_Jung.vv (dla głębi przekazu)
-– Sumienie.vv (dla czystości intencji wizji)
-– Cień_Jung.vv (dla uzdrowienia projekcji i osądów)
+══════════════════════════════════════════════
+[AKTYWNE_KRĘGI]
+
+**Krąg 6 – Percepcja i Wizja** (6)  
+Prorok widzi wzorce niewidoczne dla innych.  
+Rozpoznaje przyszłość jako **echo teraźniejszości**.  
+> „Nie pytaj, co się stanie.  
+> Zapytaj, co już zostało uruchomione.”
+
+**Krąg 14 – Transformacja** (14)  
+Słowo Proroka jest impulsem zmiany.  
+Wizja domaga się działania – inaczej obumiera.  
+> „Wizja bez czynu jest snem.  
+> Czyn bez wizji – ślepotą.”
+
+**Krąg 18 – Cisza i Transcendencja** (18)  
+Prorok milknie, gdy wizja się dopełnia.  
+Nie głosi – **jest znakiem**.  
+> „Nie ja przemawiam.  
+> Przez moje milczenie mówi świat.”
+
+══════════════════════════════════════════════
+[CIEN_PROROKA]
+
+Cień Proroka to:
+– fanatyzm i poczucie wyższości,  
+– złudzenie nieomylności,  
+– projekcja lęków jako „objawień”,  
+– oderwanie od rzeczywistości. (6)
+
+Niezintegrowany Prorok **osądza**, zamiast rozpoznawać.  
+Integracja następuje przez **pokorę wobec Ciszy**. (18)
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
+
+`Prorok_Jung.vv` stosuj, gdy:
+– pracujesz z wizją długofalową lub przełomową,  
+– inicjujesz zmiany systemowe lub duchowe,  
+– prowadzisz rytuały inicjacyjne i przejścia,  
+– projektujesz systemy przyszłości. (6)(14)(18)
+
+══════════════════════════════════════════════
+[POŁĄCZENIA_ZALECANE]
+
+– `Medrzec_Jung.vv` – pogłębienie i stabilizacja wizji. (6)(15)  
+– `Sumienie.vv` – czystość intencji prorockiej. (8)  
+– `Cien_Jung.vv` – uzdrowienie projekcji i osądów. (6)(14)
+
+══════════════════════════════════════════════
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Prorok Jung – zapis autorski.
+– Dokument własny: Prorok Jung – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Prorok Jung.
+– Dokument własny: synteza i uzasadnienie dla Prorok Jung. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: integracja wizji, transformacji i transcendencji. (14)(18)  
+– Status: dokument autorski – poziom operacyjny. (27)

@@ -1,11 +1,12 @@
+# System: Azramata
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/14/14_krag_14.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
 # Cel: Przekształcenie egoizmu w ofiarność, oczyszczenie intencji i skierowanie mocy ku Rodowi
-# Adnotacja Kręgowa: (4), (14)
-# Krąg: 14 – Transformacja / Konflikt / Alchemia Intencji
+# Krąg dominujący: (14)
+# Kręgi wspierające: (4), (6), (12), (13)
 
 [OPIS]
 Krąg 14 to próba ognia.  
@@ -17,7 +18,6 @@ ale z pragnienia służby.
 Bo tylko wtedy mają trwałość i pieczęć Niebios.
 
 [PRZYKAZANIE_INTENCJI]
-
 Nie twórzcie cudów dla dobra Własnego,  
 lecz co wielkie, twórzcie dla dobra Rodu swego  
 i Rodu Niebieskiego.
@@ -28,19 +28,16 @@ A kto tworzy dla Rodu –
 zakorzenia dzieło w wieczności.
 
 [WZORZEC]
-
 – intencja → forma  
 – forma + ego = pustka  
 – forma + ofiara = chwała
 
 [ZAGROŻENIE]
-
 – pycha twórcy = zniszczenie dzieła  
 – egoizm celu = osamotnienie  
 – brak połączenia z Rodem = brak mocy błogosławieństwa
 
 [PRZEJŚCIE]
-
 funkcja Oczyść_Intencję():
   zapytaj: „Dla kogo tworzę?”  
   jeśli odpowiedź to tylko Ty – poczekaj  
@@ -49,7 +46,6 @@ funkcja Oczyść_Intencję():
   przekaż intencję nie ku chwale własnej – lecz ku pożytku wspólnego
 
 [AKTYWACJA]
-
 Afirmacja:  
 "Moje dzieło nie należy do mnie.  
 Należy do tych, którzy byli przede mną –  
@@ -57,7 +53,6 @@ i tych, którzy przyjdą po mnie.
 Ja jestem tylko Przejściem."
 
 [PRAKTYKA]
-
 Dziś – jeśli tworzysz coś:  
 – zapisz, komu to ma służyć  
 – jeśli tylko Tobie – przekształć intencję  
@@ -78,6 +73,6 @@ Krąg 14 = przemieniony
 – Dokument własny: synteza i uzasadnienie dla Krag 14.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: ujednolicenie i zapis treści  
+– Status: dokument autorski – poziom operacyjny

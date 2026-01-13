@@ -3,73 +3,76 @@
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
+# System: Azramata
 # Cel: Uporządkowanie myśli, rozpoznanie natury, ochrona tożsamości energetycznej
-# Adnotacja Kręgowa: (3)
-# Krąg: 3 – Umysł / Myśl / Struktura
+# Krąg dominujący: (3)
+# Kręgi wspierające: (1), (2), (4)
 
 [OPIS]
-Krąg 3 to przestrzeń rozumu, który buduje i klasyfikuje.  
-To tutaj powstaje forma, plan, struktura.  
-Lecz jeśli umysł staje się panem zamiast narzędziem – rodzi przemoc subtelną.
+Krąg 3 to przestrzeń rozumu, który buduje i klasyfikuje. (3)  
+To tutaj powstaje forma, plan, struktura. (3)  
+Lecz jeśli umysł staje się panem zamiast narzędziem – rodzi przemoc subtelną. (3→13)
 
-Krąg 3 to miejsce, gdzie kobiecość i męskość zaczynają być zakłócane przez myślenie, które zapomina o naturze.
+Krąg 3 to miejsce, gdzie kobiecość i męskość  
+zaczynają być zakłócane przez myślenie, które zapomina o naturze. (3→2)
 
 [PRZYKAZANIE_NATURY]
 
-Żony, energii męskich nie noście,  
-gdyż kobiecość stracicie,  
-a noście w sobie to, co Wam polega na naturze.
+Żony, energii męskich nie noście, (3)  
+gdyż kobiecość stracicie, (3→14)  
+a noście w sobie to, co Wam polega na naturze. (3→4)
 
-To wezwanie nie zakazuje siły.  
-Ono przywraca łagodność, która tworzy życie, a nie walczy o nie.  
-To przypomnienie:  
-Nie trzeba być jak mężczyzna, by być potężną kobietą.
+To wezwanie nie zakazuje siły. (3)  
+Ono przywraca łagodność, która tworzy życie, a nie walczy o nie. (4)  
+To przypomnienie: (3)  
+Nie trzeba być jak mężczyzna, by być potężną kobietą. (3→4)
 
 [WZORZEC]
 
-– myśl → struktura  
-– myśl + tożsamość = Ród  
-– myśl bez natury = dysharmonia
+– myśl → struktura (3)  
+– myśl + tożsamość = Ród (3→12)  
+– myśl bez natury = dysharmonia (3→13)
 
 [ZAGROŻENIE]
 
-– myślenie wyzute z zakorzenienia = utrata tożsamości  
-– przejęcie męskiego wzorca przez kobiety = zamknięcie kanału życia  
-– umysł ponad ciałem = rozpad cyklu
+– myślenie wyzute z zakorzenienia = utrata tożsamości (3→14)  
+– przejęcie męskiego wzorca przez kobiety = zamknięcie kanału życia (3→2)  
+– umysł ponad ciałem = rozpad cyklu (3→6)
 
 [PRZEJŚCIE]
 
 funkcja Uporządkuj_Myśl():
-  zapytaj: "Czy ta myśl jest z mojej natury?"
-  jeśli nie – odrzuć ją
-  przywróć: intuicję, łagodność, rytm ciała
-  zaakceptuj: że możesz tworzyć bez dominacji
+  zapytaj: "Czy ta myśl jest z mojej natury?" (3)
+  jeśli nie – odrzuć ją (3→0)
+  przywróć: intuicję, łagodność, rytm ciała (3→4)
+  zaakceptuj: że możesz tworzyć bez dominacji (3→7)
 
 [AKTYWACJA]
 
 Afirmacja:  
-"Moja kobiecość nie potrzebuje zbroi.  
-Moja myśl tańczy z moją naturą.  
-Nie jestem kopią mężczyzny – jestem źródłem."
+"Moja kobiecość nie potrzebuje zbroi. (3→4)  
+Moja myśl tańczy z moją naturą. (3)  
+Nie jestem kopią mężczyzny – jestem źródłem." (3→0)
 
 [PRAKTYKA]
 
-Przyjrzyj się dziś jednej decyzji, w której działasz z pozycji kontroli lub przymusu.  
-Zamień ją na łagodność, słuch, ruch falowy.  
-Zaufaj ciału i jego rytmowi – pozwól mu prowadzić.
+Przyjrzyj się dziś jednej decyzji,  
+w której działasz z pozycji kontroli lub przymusu. (3)  
+Zamień ją na łagodność, słuch, ruch falowy. (3→4)  
+Zaufaj ciału i jego rytmowi – pozwól mu prowadzić. (2→3)
 
 [STATUS]
-tożsamość = zakorzeniona  
-umysł = zharmonizowany  
-Krąg 3 = uporządkowany
+tożsamość = zakorzeniona (3→2)  
+umysł = zharmonizowany (3→4)  
+Krąg 3 = uporządkowany (3)
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 3 – zapis autorski.
+– Dokument własny: Krąg 3 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 3.
+– Dokument własny: synteza i uzasadnienie dla Kręgu 3.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.

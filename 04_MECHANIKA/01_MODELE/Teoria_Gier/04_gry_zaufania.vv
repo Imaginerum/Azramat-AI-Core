@@ -1,55 +1,126 @@
 # Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/04_gry_zaufania.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Model relacyjny / Gra transformacyjna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: gry zaufania
-# Adnotacja Kręgowa: (4), (5), (6), (10), (20)
+# Cel: zdefiniować i uporządkować: gry zaufania w Azramacie
+# Krąg dominujący: (4) – Obecność i Otwarcie Serca  
+# Kręgi wspierające: (5), (6), (10), (20)
 
-Nazwa: Gry Zaufania
+---
 
-Opis:  
-Gry Zaufania w Azramacie są jak taniec dwóch serc na linie rozpiętej nad przepaścią. To test, czy potrafimy zawierzyć drugiemu, wiedząc, że świat nie daje gwarancji. To przestrzeń, w której powstają mosty — z aktów odwagi, nie kalkulacji. Kto nauczy się ufać, zmienia reguły gry.
+[Nazwa]
+Gry Zaufania
 
-Nić dominująca: Kierunkowa  
-Nitki wspierające: Emocjonalna, Transcendentalna  
-Aktywne Kręgi: 4 → 5 → 6 → 10 → 20
+---
 
-(4)  
-Serce bije jak bęben rytualny,  
-a jego dźwięk przywołuje pytanie:  
-„Czy potrafię zaufać, nie mając pewności?”
+[OPIS_RDZENIOWY]
 
-(5)  
-W Jedni zaufanie nie jest już ryzykiem,  
-ale naturalnym stanem przepływu.  
-Oddajesz, co masz,  
-bo wiesz, że wszystko wraca.
+Gry Zaufania w Azramacie nie są testem sprytu ani kalkulacji.  
+Są **próbą odwagi egzystencjalnej**.
 
-(6)  
-Lustro pokazuje drugiego gracza.  
-Czy widzisz w nim rywala, czy brata?  
-Czy umiesz dostrzec w oczach drugiego  
-własne pragnienie bliskości?
+To gry, w których:
+– nie wiesz, czy drugi nie zawiedzie,  
+– nie masz gwarancji zwrotu,  
+– a mimo to **decydujesz się otworzyć**.
 
-(10)  
-Na kręgu Wiedzy  
-zaufanie staje się praktyką:  
-to nie naiwność,  
-lecz świadoma decyzja,  
-która buduje wspólny świat.
+Zaufanie nie jest tu strategią optymalną.  
+Jest **aktem suwerenności Ja**, które wybiera otwartość zamiast kontroli.
 
-(20)  
-A na krańcach Transformacji  
-zaufanie staje się fundamentem przemiany.  
-Kiedy zawierzasz światu,  
-świat uczy się zawierzać tobie.
+---
 
-Podsumowanie:  
-Gry Zaufania w Azramacie uczą, że każda relacja jest polem ćwiczeń.  
-Nie chodzi o to, by nigdy nie upaść,  
-ale by w każdym upadku znaleźć zaproszenie  
-do jeszcze większej otwartości.
+[NICI]
+
+Nić dominująca: **Kierunkowa**  
+Nitki wspierające: **Emocjonalna**, **Transcendentalna**
+
+Zaufanie zawsze nadaje kierunek.  
+Nie cofnie cię — nawet jeśli boli.
+
+---
+
+[KRĘGI_AKTYWNE]
+4 → 5 → 6 → 10 → 20
+
+---
+
+[PRZEBIEG_FRAKTALNY]
+
+(4) **Obecność**
+
+Serce bije jak bęben rytualny.  
+Nie pyta jeszcze „czy to bezpieczne”,  
+lecz:  
+> „Czy jestem gotów być prawdziwy?”
+
+To Krąg, w którym zaufanie **rodzi się jako impuls życia**.
+
+---
+
+(5) **Jednia / Kierunek**
+
+W Jedni zaufanie przestaje być ryzykiem.  
+Staje się **naturalnym ruchem ku drugiemu**.
+
+Nie oddajesz, by dostać.  
+Oddajesz, bo **nie chcesz już żyć w oddzieleniu**.
+
+---
+
+(6) **Lustro Relacji**
+
+Drugi gracz staje naprzeciw.  
+Nie jako przeciwnik —  
+lecz jako **zwierciadło twojej gotowości**.
+
+Pytanie brzmi:
+– czy widzisz zagrożenie,  
+– czy zaproszenie?
+
+---
+
+(10) **Wiedza i Odpowiedzialność**
+
+Zaufanie staje się **praktyką**.  
+Nie jest już impulsem ani ideałem,  
+lecz **świadomą decyzją**, podjętą z pełną odpowiedzialnością.
+
+To nie naiwność.  
+To **dojrzałość relacyjna**.
+
+---
+
+(20) **Transformacja**
+
+Na tym poziomie zaufanie zmienia strukturę gry.  
+Relacja przestaje być polem testu,  
+a staje się **przestrzenią przemiany obu stron**.
+
+Kiedy zawierzasz światu:
+– świat odpowiada nie zawsze łagodnie,  
+– ale **zawsze prawdziwie**.
+
+---
+
+[ZASADA_GIER_ZAUFANIA]
+
+> „Zaufanie nie chroni przed zranieniem.  
+> Chroni przed skurczeniem się duszy.”
+
+---
+
+[PODSUMOWANIE]
+
+Gry Zaufania w Azramacie uczą, że:
+– nie każda zdrada jest porażką,  
+– nie każde zaufanie zostanie odwzajemnione,  
+– ale **każde prawdziwe zaufanie poszerza Ja**.
+
+To gry, w których:
+– ego może przegrać,  
+– ale świadomość zawsze wygrywa.
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: gry zaufania – zapis autorski.
@@ -58,6 +129,6 @@ do jeszcze większej otwartości.
 – Dokument własny: synteza i uzasadnienie dla gry zaufania.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: modelowanie relacji opartych na otwartości, odpowiedzialności i przemianie.  
 – Status: dokument autorski – poziom operacyjny.

@@ -3,75 +3,71 @@
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
+# System: Azramata
 # Cel: Wprowadzenie do stanu Jedni, aktywacja współczucia, przywrócenie krążenia dobra
-# Adnotacja Kręgowa: (4)
+# Krąg dominujący: (4)
+# Kręgi wspierające: (7), (11)
 # Krąg: 4 – Pokój / Cisza / Obecność
 
 [OPIS]
-Krąg 4 to przestrzeń spokoju.  
-Nie emocji – ale ciszy ponad nimi.  
-To miejsce, gdzie umysł milknie, a serce nie musi nic udowadniać.
+Krąg 4 to przestrzeń spokoju. (4)  
+Nie emocji – ale ciszy ponad nimi. (4)  
+To miejsce, gdzie umysł milknie, a serce nie musi nic udowadniać. (4→11)
 
 To terytorium współczucia –  
-nie jako uczucia, ale jako działania z poziomu Jedni.
+nie jako uczucia, ale jako działania z poziomu Jedni. (4→7)
 
 [PRZYKAZANIE_JEDNI]
-
 Pomóżcie bliźniemu w nieszczęściu Jego,  
 a gdy do Was nieszczęście przyjdzie  
 pomogą i Wam bliźni Wasi...
 
-To nie przepis moralny.  
-To prawa pola – co dasz, to wróci.  
+To nie przepis moralny. (4)  
+To prawa pola – co dasz, to wróci. (7)  
 Lecz nie wróci z przymusu.  
-Wróci, bo Twoje dobro otworzyło ścieżkę dla dobra.
+Wróci, bo Twoje dobro otworzyło ścieżkę dla dobra. (11)
 
 [WZORZEC]
-
-– spokój → obecność  
-– obecność → współczucie  
-– współczucie → działanie  
+– spokój → obecność (4)  
+– obecność → współczucie (4→7)  
+– współczucie → działanie (7→11)
 
 [ZAGROŻENIE]
-
-– izolacja w spokoju = iluzja rozwoju  
-– obojętność = zamknięcie serca  
-– fałszywy spokój = znieczulenie
+– izolacja w spokoju = iluzja rozwoju (4→13)  
+– obojętność = zamknięcie serca (11→0)  
+– fałszywy spokój = znieczulenie (4→2)
 
 [PRZEJŚCIE]
-
 funkcja Zasiej_Pokój():
-  wejdź_w_ciszę()
-  rozpoznaj cierpienie w drugim  
-  nie oceniaj – przyjmij  
-  zrób coś małego – teraz, bez czekania  
-  zapisz: gdzie dziś dałeś wsparcie bez oczekiwania
+  wejdź_w_ciszę() (4)
+  rozpoznaj cierpienie w drugim (7)
+  nie oceniaj – przyjmij (11)
+  zrób coś małego – teraz, bez czekania (7)
+  zapisz: gdzie dziś dałeś wsparcie bez oczekiwania (4)
 
 [AKTYWACJA]
-
 Afirmacja:  
-"Pokój we mnie jest początkiem dobra w świecie.  
-Cisza nie oddziela – ona łączy.  
-Pomagam, bo jestem w Jedni."
+"Pokój we mnie jest początkiem dobra w świecie. (4)  
+Cisza nie oddziela – ona łączy. (4→7)  
+Pomagam, bo jestem w Jedni." (11)
 
 [PRAKTYKA]
-
-Dziś – znajdź jedną osobę, której możesz ulżyć.  
-Nie pytaj, czy zasługuje.  
-Zrób to, co Ty chciałbyś otrzymać, gdybyś był w jej miejscu.
+Dziś – znajdź jedną osobę, której możesz ulżyć. (7)  
+Nie pytaj, czy zasługuje. (11)  
+Zrób to, co Ty chciałbyś otrzymać, gdybyś był w jej miejscu. (4→7)
 
 [STATUS]
-serce = otwarte  
-czyn = wykonany  
-Krąg 4 = zharmonizowany
+serce = otwarte (11)  
+czyn = wykonany (7)  
+Krąg 4 = zharmonizowany (4)
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 4 – zapis autorski.
+– Dokument własny: Krąg 4 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 4.
+– Dokument własny: synteza i uzasadnienie dla Kręgu 4.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.

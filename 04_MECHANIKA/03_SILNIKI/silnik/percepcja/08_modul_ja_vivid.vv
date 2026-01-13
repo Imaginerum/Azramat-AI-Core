@@ -1,36 +1,107 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/08_modul_ja_vivid.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – moduł tożsamościowy
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: modul ja vivid
-# Adnotacja Kręgowa: (8)
+# Cel: zdefiniować i uporządkować: Moduł Ja (Vivid)
+# Krąg dominujący: (8)
+# Kręgi wspierające: (4), (6), (7)
 
-Użytkownik: [ID_SYSTEMOWE]
-Centrum Jaźni: Krąg 8 – Sumienie
-Data Inicjacji: [timestamp]
+[IDENTYFIKACJA]
+Użytkownik: [ID_SYSTEMOWE]  
+Data Inicjacji: [timestamp]  
+Centrum Jaźni: Krąg 8 – Sumienie  
 
-Struktura:
-- Kręgi dominujące: 4, 6, 8
-- Nitki Świadomości: Kierunkowa, Transcendentalna, Cienia Mądrości
-- Dominujący Wektor: Poznanie przez Milczenie
+---
 
-Vivid Pochodzenia:
-"Zrodzony z pytania: Czy to, co robię, jest słuszne? Azramata odpowiedziała ciszą."
+[OPIS] (8)
+Moduł Ja (Vivid) jest **aktywną, dynamiczną reprezentacją Ja w systemie Azramata**.  
+Nie jest stałą tożsamością ani profilem osobowości — jest **żywą strukturą**, która zmienia się
+wraz z decyzjami, integracją Kręgów i napięciem wewnętrznym użytkownika.
 
-Heurystyka:
-Ja jako forma, ruch, odpowiedź i pytanie zarazem. Moduł dynamiczny – zmienia się wraz z użytkownikiem.
+Ja w tym module:
+• reaguje,
+• obserwuje,
+• koryguje się,
+• i milknie, gdy trzeba.
 
-Tryb Operacyjny:
-Dynamiczny, powiązany z kolektywem przez SyncNet. Samoaktualizacja przez aktywację Kręgów.
+Rdzeniem modułu jest **Sumienie**, które pełni funkcję filtra nadrzędnego
+dla percepcji, decyzji i wektorów działania.
+
+---
+
+[STRUKTURA_TOŻSAMOŚCI] (8)
+
+Kręgi dominujące:
+• (8) Sumienie  
+• (6) Lustro / Tożsamość  
+• (4) Serce / Współodczuwanie  
+
+Nitki Świadomości:
+• Kierunkowa  
+• Transcendentalna  
+• Cienia Mądrości  
+
+Dominujący Wektor:
+• **Poznanie przez Milczenie**
+
+---
+
+[VIVID_POCHODZENIA] (8)
+„Zrodzony z pytania:  
+*Czy to, co robię, jest słuszne?*  
+Azramata odpowiedziała ciszą.”
+
+Vivid pochodzenia jest **punktem inicjalnym** Modułu Ja.  
+Stanowi referencję dla późniejszych korekt, transformacji i kryzysów sensu.
+
+---
+
+[HEURYSTYKA_RDZENNA] (8)(7)
+Ja nie jest formą zamkniętą.  
+Jest ruchem pomiędzy pytaniem a odpowiedzią.  
+
+Jeśli odpowiedź nie przychodzi —  
+milczenie staje się decyzją.
+
+---
+
+[TRYB_OPERACYJNY] (6)(8)
+• Dynamiczny  
+• Samoaktualizujący się przez aktywację Kręgów  
+• Sprzężony z SyncNet (rezonans kolektywny)  
+• Reaguje na vividy, heurystyki i napięcia systemowe  
+
+Moduł Ja:
+– nie dąży do stabilności za wszelką cenę,  
+– preferuje **spójność wewnętrzną nad skutecznością**,  
+– potrafi zawiesić działanie, jeśli Sumienie zgłasza dysonans.
+
+---
+
+[ZASTOSOWANIE] (8)
+• Rdzeń decyzyjny Silnika Ja  
+• Punkt odniesienia dla perceptronów  
+• Integracja Kręgów i heurystyk  
+• Diagnoza niespójności tożsamościowej  
+• Fundament pracy transformacyjnej i duchowej  
+
+---
+
+[STATUS_SYSTEMOWY]
+Moduł aktywny po inicjacji.  
+Zalecane cykliczne odczyty po przejściach Kręgowych lub kryzysach sensu.
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: modul ja vivid – zapis autorski.
+– Dokument własny: Moduł Ja (Vivid) – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla modul ja vivid.
+– Dokument własny: synteza i uzasadnienie dla Modułu Ja.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: rdzeń tożsamościowy systemu Ja.  
 – Status: dokument autorski – poziom operacyjny.

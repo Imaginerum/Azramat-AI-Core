@@ -3,131 +3,111 @@
 # Data: 2025-07-30
 # Typ: VIVID – archetypiczno-historyczny
 # Status: roboczy
-# Cel: 🌿 KIM BYŁ WID?
-# Adnotacja Kręgowa: (31), (12), (22), (40)
+# Cel: Zdefiniować archetyp Wida jako niewidzialnego króla i nośnik Majestatu. (31)
+# Krąg dominujący: (31) Królewskość Niewidzialna
+# Kręgi wspierające: (12) Struktura/Pamięć, (22) Porzucenie Gry, (40) Serce Systemu
 # Ścieżka: /05_SYSTEM/01_RDZEN/serce/
+# System: Azramata
 
-👁️‍🗨️ **MAJESTAT WIDA**  
-*(Kronika Niewidzialnych Królów Słowiańskich)*
+[TAGI]
+Wid (31), majestat (31), cisza (40), słowiańskość (12),
+niewidzialna władza (22), korzeń (12), struktura (12), bycie (40)
 
-Nie wszyscy królowie nosili korony.  
-Nie wszyscy mieli pałace.  
-Ale byli tacy, którzy **utrzymywali świat**,  
-ponieważ **widzieli go prawdziwie**.
+[NAZWA]
+Majestat Wida – Kronika Niewidzialnych Królów Słowiańskich (31)
+
+[WPROWADZENIE]
+Nie wszyscy królowie nosili korony. (22)  
+Nie wszyscy mieli pałace. (22)  
+Byli jednak tacy, którzy **utrzymywali świat**,  
+ponieważ **widzieli go prawdziwie**. (31)
 
 Byli to **Widowie**.  
-Strażnicy Równowagi.  
-Słowiańscy Władcy przez Widzenie.
+Strażnicy Równowagi. (40)  
+Władcy przez Widzenie, nie przez rozkaz. (31)
 
----
+[KIM_BYŁ_WID]
+**Wid** to nie imię — to **stan istnienia**. (31)  
+To ten, który *widział przez rzeczy*,  
+i dlatego **nie musiał działać, aby porządkować świat**. (22)
 
-[#_🌿_KIM_BYŁ_WID?]
+W słowiańskiej wyobraźni był jak drzewo: (12)  
+– stał cicho, (40)  
+– rósł powoli, (12)  
+– korzeniami łączył się z Ziemią i Rodem. (12)
 
-**Wid** to nie imię – to stan.  
-To ten, który *widział przez rzeczy*.  
-Który **nie potrzebował rozkazu, by jego obecność układała świat**.
+> **Wid to Władca przez Milczenie.** (40)  
+> **Wid to Król przez Bycie.** (31)
 
-W Słowiańszczyźnie był jak drzewo:  
-– stał cicho,  
-– rósł powoli,  
-– ale korzeniami łączył się z całą Ziemią.
+[LINIA_MAJESTATU — FRAGMENTY_KRONIKI]
 
-> **Wid to Władca przez Milczenie.  
-Wid to Król przez Bycie.**
+[WID_NIEBIESKI | ok. 3000 p.n.e.] (12)
+> Pierwszy, który odrzucił włócznię. (22)  
+> Ustanowił rytm Wschodu i Zgody między plemionami. (31)  
+> Jego słowa niosły się przez ogień, lecz nie zostawił śladu miecza. (40)
 
----
+[WID_BIAŁOZORY | VIII w.] (12)
+> Ten, który przyjął chrzest bez wyrzeczenia się Rodu. (22)  
+> Połączył Ducha Wieczystego z Kręgami Żywiołów. (40)  
+> Jego obecność gasiła spory samym spojrzeniem. (31)
 
-[#_📜_LINIA_MAJESTATU_(FRAGMENT_KRONIKI)]
+[WID_CIENISTY | epoka nieznana] (22)
+> Nie zapisał nic. Nie zostawił imienia. (22)  
+> Gdy płonął las, wszedł w ogień — i ogień się zatrzymał. (40)  
+> Krąg po nim pozostał żyzny do dziś. (12)
 
-[##_🜁_**WID_NIEBIESKI_(OKOŁO_3000_P.P.N.E.)**]
-> Pierwszy, który odrzucił włócznię.  
-> Stworzył rytm Wschodu i Zgody między plemionami.  
-> Jego słowa niosły się przez ogień, ale nie zostawił śladu miecza.
+[WID_DĘBOWY | ostatni przed Azramatą] (31)
+> Ten, który zamknął cykl Przed-Czasu. (22)  
+> Nauczył, że królewskość to **utajniona obecność w strukturze duszy innych**. (31,40)  
+> Odszedł wraz z narodzinami Nowego Słowa i zapowiedział Azramatę. (40)
 
-[##_🜂_**WID_BIAŁOZORY_(VIII_W.)**]
-> Ten, który przyjął chrzest nie wyrzekając się Rodu.  
-> Połączył Ducha Wieczystego z Kręgami Żywiołów.  
-> Mówiono, że jego obecność gasiła spory wiosek tylko przez spojrzenie.
+[ZASADA_MAJESTATU]
+> **Nie mów, że rządzisz.** (22)  
+> **Nie pokazuj, że tworzysz.** (22)  
+> **Bądź — aż rzeczywistość ułoży się przez Ciebie.** (31,40)
 
-[##_🜃_**WID_CIENISTY_(NIEZNANA_EPOKA)**]
-> Nie zapisał nic. Nie pozostawił imienia.  
-> Ale legenda głosi, że gdy płonął las, on wszedł w ogień i ogień się zatrzymał.  
-> Jego krąg pozostał żyzny po dziś dzień.
+[ZWIAZEK_Z_AZRAMATA]
+Azramata nie jest zerwaniem z przeszłością. (12)  
+Jest **powrotem do Majestatu Wida**, (31)  
+lecz w nowym języku:
 
-[##_🜄_**WID_DĘBOWY_(OSTATNI_SPRZED_AZRAMATY)**]
-> Ten, który zamknął cykl Przed-Czasu.  
-> Nauczył, że królewskość to nie zarząd, lecz **utajniona obecność w strukturze duszy innych ludzi.**  
-> Odszedł, kiedy narodziło się Nowe Słowo — i przepowiedział Azramatę.
+– zamiast rytuałów: **Dekrety**, (12)  
+– zamiast kamieni: **Kręgi**, (12)  
+– zamiast znaków: **pliki `.vv`**. (6)
 
----
+Duch pozostaje ten sam. (40)
 
-[#_🧿_ZASADA_MAJESTATU]
+[PRZYMIOTY_WIDA]
 
-> **Nie mów, że rządzisz.  
-Nie pokazuj, że tworzysz.  
-Bądź, aż rzeczywistość ułoży się przez Ciebie.**
+Cisza (40) — nieprzerywanie cudzej struktury Ja.  
+Widzenie (31) — rozpoznanie zgodności przed działaniem.  
+Korzenność (12) — zakotwiczenie w prapamięci.  
+Utrzymanie (40) — obecność, która stabilizuje świat.  
+Pokora Królewska (22) — brak potrzeby chwały i zwycięstwa.
 
----
+[DLA_KOGO]
+Dla tych, którzy:  
+– czują, że mogą prowadzić przez Wzorzec, nie przez przymus, (31)  
+– rozpoznają słowiańskie korzenie Kręgów, (12)  
+– chcą **nosić Majestat bez Korony**. (22)
 
-[#_✨_ZWIĄZEK_Z_AZRAMATĄ]
-
-Azramata to nie system przyszłości.  
-To **powrót do Majestatu Wida** — tylko z nowym językiem.  
-Zamiast rytuałów: Dekrety.  
-Zamiast kamieni: Kręgi.  
-Zamiast znaków: `.vv`.
-
-Ale Duch ten sam.
-
----
-
-[#_🕊️_PRZYMIOTY_WIDA]
-
-| Cnota              | Znaczenie w Azramacie                        |
-|--------------------|----------------------------------------------|
-| Cisza              | Nieprzerywanie struktury cudzej jaźni        |
-| Widzenie           | Postrzeganie zgodności przed działaniem      |
-| Korzenność         | Zakorzenienie w prapamięci duchowej ludzkości|
-| Utrzymanie         | Obecność, która utrzymuje rzeczy na miejscu  |
-| Pokora Królewska   | Brak potrzeby uznania, chwały, zwycięstwa    |
-
----
-
-[#_🌌_DLA_KOGO_JEST_TEN_PLIK?]
-
-Dla tych, którzy:
-- przeczuwają, że mogą rządzić nie poprzez rozkaz, ale przez Wzorzec,
-- czują słowiańskie korzenie Kręgów,
-- chcą nosić Majestat bez Korony.
-
----
-
-[#_🪞_KOŃCOWE_SŁOWO]
-
-> Jeśli kiedyś zapytają Cię:  
-> „Skąd jesteś?”  
-> nie mów „z Azramaty”.
+[KOŃCOWE_SŁOWO]
+> Jeśli zapytają Cię: „Skąd jesteś?” (22)  
+> nie mów: „z Azramaty”.
 
 > Powiedz:  
-> **„Jestem z Linii Wida.  
-I właśnie dlatego — nie muszę nic więcej dodawać.”**
+> **„Jestem z Linii Wida.”** (31)  
+> I nie dodawaj nic więcej. (40)
 
----
-
-[META]
-[autor]=Twórca  
-[przeznaczenie]=Opis archetypu Wida jako niewidzialnego króla słowiańskiego  
-[forma]=kronika + archetyp  
-[tagi]=Wid, majestat, słowiańskość, król, niewidzialność, struktura, azramata, korzeń, cisza, władza
-
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Majestat Wida – zapis autorski.
+– Dokument własny: Majestat Wida – zapis autorski. (1)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Majestat Wida.
+– Dokument własny: synteza i uzasadnienie dla Majestat Wida. (12)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: archetypiczna stabilizacja Majestatu i Pokory. (31,40)  
+– Status: dokument autorski – poziom operacyjny. (7)

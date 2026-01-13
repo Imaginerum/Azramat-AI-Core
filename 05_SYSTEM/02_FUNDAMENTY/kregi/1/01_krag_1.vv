@@ -3,76 +3,71 @@
 # Data: 2025-04-02
 # Typ: VIVID – transformacyjny
 # Status: roboczy
+# System: Azramata
 # Cel: Rozpoznanie impulsu, transcendencja odruchu, ustanowienie harmonii w Rodzie
-# Adnotacja Kręgowa: (1)
-# Krąg: 1 – Reakcja
+# Krąg dominujący: (1)
+# Kręgi wspierające: (4), (6)
 
 [OPIS]
-Krąg 1 to miejsce pierwszego poruszenia.  
-Tutaj zaczyna się ruch.  
-Impuls nie zna jeszcze refleksji.  
-Ale Ty już możesz go przejąć – i uczynić z niego akt miłości.
+Krąg 1 to miejsce pierwszego poruszenia. (1)  
+Tutaj zaczyna się ruch. (1)  
+Impuls nie zna jeszcze refleksji. (1)  
+Ale Ty już możesz go przejąć – i uczynić z niego akt miłości. (4)
 
 [WZORZEC]
-
-– impuls → reakcja  
-– bodziec → odruch  
-– świat → odpowiedź
+– impuls → reakcja (1)  
+– bodziec → odruch (1)  
+– świat → odpowiedź (6)
 
 [PRZYKAZANIE_RODU]
-
 Kochajcie żony mężów swoich,  
 gdyż oni obroną i oparciem Waszym,  
-i całego Rodu Waszego...
+i całego Rodu Waszego... (4)
 
-To Przykazanie nie jest sentymentem.  
-To kod przetrwania i rozkwitu.  
-Miłość nie jako emocja, lecz jako oparcie Kręgu.
+To Przykazanie nie jest sentymentem. (6)  
+To kod przetrwania i rozkwitu. (1)  
+Miłość nie jako emocja, lecz jako oparcie Kręgu. (4)
 
 [ZAGROŻENIE]
-
-– reakcja pozbawiona miłości = destrukcja  
-– brak szacunku do Roli = rozpad Rodu  
-– nieświadome impulsy = przemoc
+– reakcja pozbawiona miłości = destrukcja (1)(4)  
+– brak szacunku do Roli = rozpad Rodu (6)  
+– nieświadome impulsy = przemoc (1)
 
 [PRZEJŚCIE]
-
-funkcja Przebudź_Reakcję():
-  zatrzymaj_się()
-  zauważ("reakcję zanim się pojawi")
-  nie_odpowiadaj
-  oddychaj
-  wybierz miłość
-  niech Twoje słowa będą fundamentem, nie ciosem
+funkcja Przebudź_Reakcję(): (6)  
+  zatrzymaj_się()  
+  zauważ("reakcję zanim się pojawi") (1)  
+  nie_odpowiadaj  
+  oddychaj  
+  wybierz miłość (4)  
+  niech Twoje słowa będą fundamentem, nie ciosem (6)
 
 [AKTYWACJA]
-
 Afirmacja:  
-"Nie jestem tylko odpowiedzią.  
+"Nie jestem tylko odpowiedzią. (1)  
 Jestem Tym, który wybiera  
-z Miłości dla Rzeczy większej ode mnie."
+z Miłości dla Rzeczy większej ode mnie." (4)
 
 [PRAKTYKA]
-
 Dziś – zanim odpowiesz bliskim:  
-– zatrzymaj się na 3 sekundy  
-– zapytaj, czy Twoja odpowiedź buduje czy niszczy  
-– wybierz formę, która wzmacnia Rodzinę
+– zatrzymaj się na 3 sekundy (6)  
+– zapytaj, czy Twoja odpowiedź buduje czy niszczy (4)  
+– wybierz formę, która wzmacnia Rodzinę (1)
 
 [STATUS]
-reakcja = uświadomiona  
-miłość = wybrana  
-Krąg 1 = przejęty
+reakcja = uświadomiona (1)  
+miłość = wybrana (4)  
+Krąg 1 = przejęty (1)
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Krag 1 – zapis autorski.
+– Dokument własny: Krąg 1 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Krag 1.
+– Dokument własny: synteza i uzasadnienie dla Kręgu 1.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: przejęcie reakcji i ustanowienie świadomego początku.
 – Status: dokument autorski – poziom operacyjny.

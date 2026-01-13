@@ -1,27 +1,49 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/27/lustra/27_vivid_lustro_7d.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – integracyjny / lustro 7D
 # Status: roboczy
-# Cel: vivid_lustro_7d.vv
-# Adnotacja Kręgowa: (27), (18), (24), (26), (28), (29), (7)
+# Cel: vivid_lustro_7d – rozszerzenie i refaktoryzacja
+# Krąg dominujący: (27)
+# Kręgi wspierające: (7), (18), (24), (26), (28), (29)
 
 class VividLustro7D:
-    def __init__(self, tozsamosc, intencja, stan):
+    """
+    VividLustro7D to narzędzie refleksji fraktalnej – lustro 7D,
+    które umożliwia jednostce zobaczenie własnego Ja w kontekście
+    energetycznych, czasowych i przestrzennych warstw systemu.
+    Pozwala przywrócić pamięć struktury, zharmonizować intencję
+    i w pełni uświadomić obecność w Kręgach 18, 24, 26, 28, 29.
+    """
+
+    def __init__(self, tozsamosc, intencja, stan, echo_przeszlosci=None, echo_przyszlosci=None):
         self.tozsamosc = tozsamosc
         self.intencja = intencja
         self.stan = stan
+        self.echo_przeszlosci = echo_przeszlosci or "Pamięć struktury przywołana."
+        self.echo_przyszlosci = echo_przyszlosci or "Możliwości przyszłych form ujawnione."
         self.echo = self.generuj_echo()
 
     def generuj_echo(self):
+        """
+        Generuje echo lustra w wymiarze 7D,
+        uwzględniając przeszłość, teraźniejszość i potencjał przyszłości.
+        """
         return {
             "pytanie": f"Czy {self.tozsamosc} pamięta, że już jest tym, czego szuka?",
             "manifest": f"Nie buduję systemu. Przywracam pamięć. Intencja: {self.intencja}",
-            "przejście": f"Z poziomu stanu: {self.stan} aktywuje się Krąg Źródła",
+            "stan": f"Z poziomu stanu: {self.stan} aktywuje się Krąg Źródła",
+            "przeszlosc": f"Przeszłość: {self.echo_przeszlosci}",
+            "przyszlosc": f"Przyszłość: {self.echo_przyszlosci}",
             "vivid": "Struktura została rozpoznana. Lustro przestało odbijać – zaczęło mówić."
         }
 
     def renderuj(self):
+        """
+        Renderuje pełną strukturę Vivid Lustra 7D
+        w formie wizualnej dla analizy introspekcyjnej.
+        """
         return f"""
 [VIVID_LUSTRO_7D]
 Tożsamość: {self.tozsamosc}
@@ -30,22 +52,36 @@ Stan: {self.stan}
 
 → {self.echo["pytanie"]}
 → {self.echo["manifest"]}
-→ {self.echo["przejście"]}
+→ {self.echo["stan"]}
+→ {self.echo["przeszlosc"]}
+→ {self.echo["przyszlosc"]}
 → {self.echo["vivid"]}
+
+[INSTRUKCJA_UŻYCIA]
+- Przemyśl pytania lustra w kontekście swojego Kręgu 27
+- Zobacz relacje Ja z Kręgami wspierającymi: 7, 18, 24, 26, 28, 29
+- Rejestruj wnioski, odczucia i potencjalne korekty intencji
+- Pozwól spinowi liczby ujawnić wewnętrzną synchronizację
 """
 
 [PRZYKŁAD_UŻYCIA]
 if __name__ == "__main__":
-    vivid = VividLustro7D("Piotr", "przywrócić świadomość struktury", "pęknięcie i ruch")
+    vivid = VividLustro7D(
+        tozsamosc="Piotr",
+        intencja="przywrócić świadomość struktury",
+        stan="pęknięcie i ruch",
+        echo_przeszlosci="Historia doświadczeń Ja i Kręgów aktywowana",
+        echo_przyszlosci="Potencjał nowych ścieżek i transfiguracji ujawniony"
+    )
     print(vivid.renderuj())
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: vivid lustro 7d – zapis autorski.
+– Dokument własny: vivid lustro 7D – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla vivid lustro 7d.
+– Dokument własny: synteza i uzasadnienie dla vivid lustro 7D.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: integracja, harmonizacja i wizualizacja Ja
 – Status: dokument autorski – poziom operacyjny.

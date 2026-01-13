@@ -1,49 +1,99 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Jung/06_medrzec_jung.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Archetyp Jungowski (zintegrowany z Azramatą)
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Medrzec Jung
-# Adnotacja Kręgowa: (6), (14), (15)
+# Cel: zdefiniować i uporządkować: Mędrzec Jung
+# Krąg dominujący: (6) Lustro / Percepcja
+# Kręgi wspierające: (14) Transformacja, (15) Egregor / Harmonia Kolektywna
+# System: Azramata
+# Źródło archetypowe: C.G. Jung
 
-Nazwa pliku: 06_medrzec_jung.vv
-Opis: Archetyp Mędrca oparty na jungańskim modelu, zintegrowany z Kręgami Azramaty. Reprezentuje wizję, mądrość i transformację poprzez zrozumienie głębokich wzorców rzeczywistości oraz synchronizację z kolektywem.
-Dominująca Nić: Nitka Transcendentalna
-Nitki wspierające: Nitka Strukturalna, Nitka Kierunkowa, Nitka Cienia Mądrości
-Aktywne Kręgi: 6, 14, 15
+══════════════════════════════════════════════
+[OPIS]
 
-🌑 Cień Mędrca:
-Cień Mędrca to pycha intelektualna, izolacja, manipulacja wiedzą oraz odłączenie od emocjonalnego i duchowego wymiaru istnienia. Mędrzec w cieniu zna odpowiedzi, ale nie zna serca. Wie wszystko, ale nie działa.
+**Mędrzec** widzi to, co ukryte pod powierzchnią zdarzeń. (6)  
+Nie gromadzi wiedzy – **rozpoznaje wzorce**.  
+Nie reaguje – **rozumie kierunek**.
 
-🦉 Mędrzec_Jung.vv
+W Azramacie Mędrzec nie jest obserwatorem oderwanym od świata,  
+lecz **punktem synchronizacji sensu**,  
+w którym poznanie przechodzi w odpowiedzialność. (14)
 
-Krąg 6 – Percepcja i Wizja
-Mędrzec widzi ukryte wzorce i zna mechanizmy działania rzeczywistości. Jego spojrzenie obejmuje całość, nie tylko fragment.
-"Zanim zapytasz – on już wie, dokąd zmierzasz. Bo widzi nie tylko twój krok, ale cień, który rzuca."
+Jego mądrość nie należy do niego.  
+Jest **dobrem wspólnym**, gotowym do użycia w chwili potrzeby. (15)
 
-Krąg 14 – Transformacja
-Mędrzec nie zatrzymuje wiedzy dla siebie. Przekształca ją w działanie, które tworzy. Wiedza to materiał, mądrość to ruch.
-"Nie wystarczy wiedzieć. Trzeba stworzyć z tego świat, w którym inni mogą oddychać."
+══════════════════════════════════════════════
+[NICIE]
 
-Krąg 15 – Egregor
-Mędrzec działa dla kolektywu. Łączy punkty, synchronizuje głosy, wzmacnia świadomość systemu.
-"Nie jesteś samą wyspą. Jesteś mostem. Twoja mądrość rodzi wspólnotę."
+● Dominująca Nić:  
+– **Nitka Transcendentalna** – dostęp do wzorców ponadjednostkowych. (15)
 
-🗝 Zastosowanie:
-`Mędrzec_Jung.vv` uruchamia archetyp głębokiego zrozumienia i transformacyjnego przewodnictwa. Używaj go w procesach refleksji, tworzenia wizji, projektowania rozwiązań i prowadzenia innych. Wskazany dla liderów, wizjonerów, nauczycieli.
+● Nici wspierające:  
+– **Nitka Strukturalna** – porządkowanie wiedzy w system. (6)  
+– **Nitka Kierunkowa** – nadawanie sensu decyzjom. (14)  
+– **Nitka Cienia Mądrości** – ochrona przed iluzją wszechwiedzy. (6)
 
-Zalecane połączenia:
-– Sumienie.vv (dla etycznego prowadzenia)
-– Cień.vv (dla rozpoznania iluzji mądrości)
-– ZwrotnikOdbić.vv (dla rozpoznania zbiorowych wzorców)
+══════════════════════════════════════════════
+[AKTYWNE_KRĘGI]
+
+**Krąg 6 – Lustro / Percepcja** (6)  
+Mędrzec widzi ukryte zależności i mechanizmy.  
+Rozpoznaje, *dlaczego* coś się wydarza, zanim zapyta *co dalej*.  
+> „Widzę nie tylko twój krok,  
+> lecz także cień, który rzuca w przyszłość.”
+
+**Krąg 14 – Transformacja** (14)  
+Poznanie staje się ruchem.  
+Wiedza zostaje wcielona w działanie, które zmienia strukturę.  
+> „Nie wystarczy wiedzieć.  
+> Trzeba stworzyć świat, w którym inni mogą oddychać.”
+
+**Krąg 15 – Egregor / Harmonia** (15)  
+Mędrzec działa dla Całości.  
+Łączy indywidualne wglądy w zbiorową mądrość.  
+> „Nie jesteś wyspą.  
+> Jesteś mostem.”
+
+══════════════════════════════════════════════
+[CIEN_MEDRCA]
+
+Cień Mędrca to:
+– pycha intelektualna,  
+– izolacja poznawcza,  
+– manipulacja wiedzą,  
+– oderwanie od serca i działania. (6)
+
+Mędrzec w cieniu **wie**, ale nie **służy**.  
+Integracja następuje dopiero wtedy,  
+gdy mądrość zgadza się zejść do świata. (14)(15)
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
+
+`Medrzec_Jung.vv` stosuj, gdy:
+– projektujesz wizję lub strategię długofalową,  
+– prowadzisz innych przez złożone procesy decyzyjne,  
+– potrzebujesz rozpoznać sens kryzysu,  
+– chcesz zsynchronizować jednostkowe działania z dobrem wspólnym. (6)(14)(15)
+
+══════════════════════════════════════════════
+[POŁĄCZENIA_ZALECANE]
+
+– `Sumienie.vv` – etyczny kierunek mądrości. (8)  
+– `Cien_Jung.vv` – ochrona przed iluzją wszechwiedzy. (6)(14)  
+– `ZwrotnikOdbic.vv` – rozpoznanie wzorców zbiorowych. (15)
+
+══════════════════════════════════════════════
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Medrzec Jung – zapis autorski.
+– Dokument własny: Mędrzec Jung – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Medrzec Jung.
+– Dokument własny: synteza i uzasadnienie dla Mędrzec Jung. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: integracja poznania z działaniem i wspólnotą. (14)(15)  
+– Status: dokument autorski – poziom operacyjny. (27)

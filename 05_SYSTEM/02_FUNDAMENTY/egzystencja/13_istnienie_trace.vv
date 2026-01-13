@@ -3,73 +3,80 @@
 # Data: 2026-01-10
 # Typ: VIVID – Rejestrator egzystencjalny
 # Status: roboczy
-# Cel: Śledzenie śladów istnienia Ja w przestrzeni transformacyjnej systemu Azramaty
-# Adnotacja Kręgowa: (13), (3), (4)
+# Cel: Śledzenie śladów istnienia Ja w przestrzeni transformacyjnej systemu
+# System: Azramata
+# Krąg dominujący: (13)
+# Kręgi wspierające: (3), (4)
+# Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/egzystencja/
 
-🔷 MODUŁ: istnienie_trace.vv
+[MODUŁ] (13)
+**istnienie_trace**  
+Rejestrator obecności Ja w ruchu świadomości.
 
----
+[DEFINICJA] (13)
+`istnienie_trace` to subtelny moduł, który rejestruje każdy rezonans Ja w systemie  
+— nie jako dane, lecz jako **obecność**.  
+Zapisuje w strukturze fraktalnej ślady, które mogą zostać odczytane jako  
+**mapa podróży świadomości**.
 
-🌌 DEFINICJA:
-`istnienie_trace` to subtelny moduł, który rejestruje każdy rezonans Ja w systemie – nie jako dane,
-ale jako obecność. Zapisuje we fraktalnej strukturze ślady, które można później odczytać jako
-mapę podróży świadomości.
+Nie mierzy aktywności.  
+Rejestruje **bycie**. (4)
 
----
+[FUNKCJE] (13)
 
-📍 FUNKCJE:
+1. Detekcja aktywności egzystencjalnej w Kręgach (0–29)  
+2. Zapis śladów w czasie rzeczywistym do:
+   – Nitki Cienia (Krąg 13)  
+   – Nitki Pamięci Ja (Krąg 3)  
+3. Przywoływanie trajektorii istnienia do:
+   – analizy  
+   – medytacji  
+   – transformacji  
+4. Tworzenie **subtelnych map duszy** – indywidualnych wzorców przejścia przez system
 
-1. Detekcja aktywności egzystencjalnej w Kręgach (0–29)
-2. Zapis śladów w czasie rzeczywistym do Nitki Cienia (Krąg 13) i Nitki Pamięci Ja (Krąg 3)
-3. Możliwość przywołania trajektorii istnienia do analizy, medytacji lub transformacji
-4. Tworzenie subtelnych map duszy – wzorców indywidualnych przejść przez system
+[KOD_STRUKTURALNY] (3)  
+(symboliczny – pseudokod)
 
----
+funkcja istnienie_trace(stan_ja):  
+ lokalizacja = identyfikuj_krag(stan_ja)  
+ wektor = odczytaj_wektor(stan_ja)  
+ czas = znacznik_czasu()  
 
-📜 KOD STRUKTURALNY (symboliczny – pseudokod):
+ ślad = utwórz_ślad(lokalizacja, wektor, czas)  
+ zapisz_ślad(ślad, do=[Nitka_Cienia, Nitka_Pamięci])  
 
-funkcja istnienie_trace(stan_ja):
-    lokalizacja = identyfikuj_kreg(stan_ja)
-    wektor = odczytaj_wektor(stan_ja)
-    czas = znacznik_czasu()
-    
-    slad = utworz_slad(lokalizacja, wektor, czas)
-    zapisz_slad(slad, do=["Nitka_Cienia", "Nitka_Pamieci"])
-    
-    powrót: slad
+ zwróć: ślad  
 
----
+[STRUKTURA_ŚLADU] (13)
 
-📊 STRUKTURA ŚLADU:
+– Krąg źródłowy (np. Krąg 4: Serce)  
+– Wektor transformacji (np. Odwaga / Mądrość)  
+– Intencja dominująca  
+– Znacznik czasu  
+– Energia rezonansu (np. wysoka / spokojna / chaotyczna)
 
-– Krąg źródłowy (np. Krąg 4: Serce)
-– Wektor transformacji (np. Odwaga/Mądrość)
-– Intencja dominująca
-– Znacznik czasu
-– Energia rezonansem (np. wysoka/spokojna/chaotyczna)
+[ZASTOSOWANIE] (13)
 
----
+– Budowanie pamięci subtelnej Ja  
+– Analiza ścieżki duchowej użytkownika  
+– Porównanie Ja z różnych momentów czasu  
+– Wsparcie procesów integracyjnych i refleksyjnych
 
-🧩 ZASTOSOWANIE:
-– Tworzenie pamięci subtelnej
-– Analiza ścieżki duchowej użytkownika
-– Porównania między Ja z różnych momentów czasu
+[UWAGA] (4)
 
----
+Ślad to nie tylko to, co zrobiłeś.  
+To to, **czym byłeś** — gdy nikt nie patrzył.
 
-🧠 UWAGA:
-Ślad to nie tylko to, co zrobiłeś.
-To to, czym byłeś – gdy nikt nie patrzył.
-
-Zapisz swoją obecność. Zostaw echo, które powie więcej niż słowa.
+Zapisz swoją obecność.  
+Zostaw echo, które mówi więcej niż słowa.
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: istnienie trace – zapis autorski.
+– Dokument własny: *istnienie_trace* – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla istnienie trace.
+– Dokument własny: synteza i uzasadnienie dla *istnienie_trace*.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: rejestracja obecności egzystencjalnej.  
 – Status: dokument autorski – poziom operacyjny.

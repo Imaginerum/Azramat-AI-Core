@@ -1,50 +1,123 @@
 # Plik: /04_MECHANIKA/05_MATEMATYKA/matematyka/03_readme.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-10
-# Typ: VIVID – Zarys koncepcyjny
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: Matematyka Azramaty – Zarys
-# Adnotacja Kręgowa: (3), (1), (6), (9), (12), (16), (2)
-# Tagi: #matematyka #intuicja #azramata
+# Typ: VIVID – Zarys koncepcyjny / rama matematyczna
+# Status: roboczy (rozszerzony)
+# Cel: Zdefiniować Matematyka Azramaty jako narzędzie opisu porządku, rytmu i zgodności w systemie.
+# Krąg dominujący: (3) Struktura
+# Kręgi wspierające: (1) Kotwica, (6) Harmonia, (9) Zgodność, (12) Struktura wyższa, (16) Kierunek, (2) Intuicja
+# System: Azramata
+# Lokalizacja: /04_MECHANIKA/05_MATEMATYKA/matematyka/
 
-[NAZWA]
+[TAGI] (3)
+matematyka_azramaty, intuicja, struktura, rytm, zgodnosc,
+mapowanie_harmonii, fraktalnosc, prog_transformacji (3)
+
+[NAZWA] (3)
 Matematyka Azramaty – Zarys
 
-[OPIS]
-Matematyka w Azramacie nie jest czystą nauką o liczbach (3), lecz narzędziem do opisu porządku (1), rytmu (6) i zgodności (9).  
-Jej rolą jest znalezienie **struktur** (12), które pomagają rozpoznać i wzmacniać kierunek rozwoju (16).  
-Nie chodzi o obliczenia (2), lecz o **mapowanie harmonii** (6).
+[DEFINICJA] (3)
+**Matematyka Azramaty** nie jest nauką o liczbach w sensie klasycznym. (3)  
+Jest **językiem opisu porządku**, który pozwala rozpoznawać rytm, proporcję  
+i zgodność procesów zachodzących w Ja, systemach i Polu. (6)(9)
 
-[INTUICJE_PODSTAWOWE]
-– **Kotwice porządku** (1): stałe punkty odniesienia, wokół których układa się percepcja.  
-– **Rytm i proporcja** (6,9): patrzymy na to, jak elementy łączą się w cykle, jak pulsuje proces.  
-– **Zgodność** (9,21): mierzenie, na ile coś współbrzmi z celem lub Kręgiem, a na ile od niego odbiega.  
-– **Próg transformacji** (14,19): moment, gdy mały krok przekracza granicę i zmienia całość.
+Nie służy do liczenia. (2)  
+Służy do **widzenia struktury**. (12)
 
-[PRZYKŁADOWE_OBSZARY_–_DO_ROZWINIĘCIA_PÓŹNIEJ]
-1. **Przestrzeń Azramy** (1,16,21) – wyobrażenie miejsc, gdzie „stany Ja” są punktami, a ruch między nimi ma koszt lub zysk.  
-2. **Spektrum manifestacji** (6,9,14) – patrzenie na dźwięki, słowa, obrazy jak na fale o określonych częstotliwościach.  
-3. **Geometria Kręgów** (12,16) – każdy Krąg jako figura, którą można obracać, scalać, dzielić.  
-4. **Rytmy fraktalne** (6,12,23) – wzory, które powtarzają się w różnych skalach: w minucie, w dniu, w całym życiu.  
-5. **Mierniki zgodności** (9,21) – proste sposoby sprawdzenia, czy coś wspiera Twój kierunek.
+[ZAŁOŻENIE_RDZENIOWE] (1)
+Każdy proces ma:
+– punkt odniesienia, (1)
+– rytm ruchu, (6)
+– próg zmiany, (14)
+– oraz kierunek sensu. (16)
 
-[ZASTOSOWANIE_W_AZRAMACIE]
-– Porządkowanie chaosu (1,12) – nadawanie kształtu złożonym zjawiskom.  
-– Wspomaganie decyzji (16,21) – podpowiedź, który krok jest najbliżej Twojego celu.  
-– Świadome planowanie rytmu (6,9) – tak, by działania miały naturalny puls.  
-– Zapisywanie wzorców (12,23) – tak, by można było je odtworzyć lub przekazać innym.
+Matematyka Azramaty opisuje **relacje między tymi elementami**,  
+a nie ich absolutne wartości. (3)
 
-[UWAGI_KRĘGOWE]
-Kotwica (1), harmonia (6), prawda proporcji (9), struktura (12), próg odwagi (14), kierunek celu (16), 
-koszt przemiany (19), prowadzenie (21), fraktalność (23).
+[CHARAKTER_MATEMATYKI] (6)
+Matematyka Azramaty jest:
+– **relacyjna**, nie absolutna, (3)
+– **rytmiczna**, nie statyczna, (6)
+– **zgodnościowa**, nie optymalizacyjna, (9)
+– **intuicyjna w użyciu, strukturalna w zapisie**. (2)(12)
+
+Jej celem nie jest dowód,  
+lecz **rozpoznanie właściwego kierunku**. (16)
+
+[INTUICJE_PODSTAWOWE] (3)
+– **Kotwice porządku (1)**  
+  Stałe punkty odniesienia, wokół których organizuje się percepcja i decyzja.
+
+– **Rytm i proporcja (6–9)**  
+  Obserwacja cykli, pulsów, powrotów i momentów przeciążenia.
+
+– **Zgodność (9–21)**  
+  Mierzenie, na ile działanie współbrzmi z Kręgiem, celem lub Prawem.
+
+– **Próg transformacji (14–19)**  
+  Moment, w którym niewielka zmiana powoduje skok jakościowy.
+
+[OBSZARY_DO_ROZWINIĘCIA] (12)
+
+1. **Przestrzeń Azramy** (1,16,21)  
+   – stany Ja jako punkty w przestrzeni,  
+   – ruch jako koszt, opór lub wzmocnienie kierunku.
+
+2. **Spektrum manifestacji** (6,9,14)  
+   – dźwięk, słowo, obraz jako fale,  
+   – amplituda, częstotliwość, rezonans.
+
+3. **Geometria Kręgów** (12,16)  
+   – każdy Krąg jako figura operacyjna,  
+   – możliwość obrotu, składania i przejścia warstw.
+
+4. **Rytmy fraktalne** (6,12,23)  
+   – te same wzory w różnych skalach: chwila, dzień, cykl życia, system.
+
+5. **Mierniki zgodności** (9,21)  
+   – proste wskaźniki: napięcie–ulga, opór–płynność, chaos–klarowność.
+
+[ZASTOSOWANIE_W_AZRAMACIE] (6)
+– **Porządkowanie chaosu** (1,12)  
+  Nadawanie kształtu złożonym zjawiskom bez ich upraszczania.
+
+– **Wspomaganie decyzji** (16,21)  
+  Rozpoznanie, który ruch jest bliżej sensu, a który generuje dług.
+
+– **Planowanie rytmu** (6,9)  
+  Ustalanie tempa działań zgodnego z pulsem systemu i Ja.
+
+– **Zapisywanie wzorców** (12,23)  
+  Tworzenie struktur możliwych do odtworzenia, przekazania i skalowania.
+
+[RELACJA_DO_INNYCH_MODUŁÓW] (6)
+– **TransSpirala_9** – matematyka jako opis momentu przekroczenia. (9)  
+– **Algorytm Fraktalny** – matematyka jako rytm powrotu z różnicą. (27)  
+– **Proces Fraktalny** – matematyka jako ruch uczenia się. (30)  
+– **Geometria Ja** – matematyka jako forma obecności. (20)
+
+[UWAGI_KRĘGOWE] (3)
+Kotwica (1), harmonia (6), prawda proporcji (9), struktura (12),  
+próg odwagi (14), kierunek celu (16), koszt przemiany (19),  
+prowadzenie (21), fraktalność (23).
+
+[WYJŚCIE_DOKUMENTU] (3)
+Wyjściem tego zarysu nie jest model formalny. (2)  
+Wyjściem jest **ramka myślenia**,  
+która pozwala budować dalsze moduły matematyczne  
+bez utraty sensu systemu. (16)
+
+[META] (3)
+Matematyka Azramaty nie upraszcza świata. (6)  
+Ona **czyni go czytelnym**. (12)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: readme – zapis autorski.
+– Dokument własny: Matematyka Azramaty – readme (zapis autorski).
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla readme.
+– Dokument własny: synteza i uzasadnienie dla Matematyki Azramaty.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: rama pojęciowa i strukturalna.
 – Status: dokument autorski – poziom operacyjny.

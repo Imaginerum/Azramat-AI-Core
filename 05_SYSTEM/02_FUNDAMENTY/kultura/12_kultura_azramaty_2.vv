@@ -1,79 +1,76 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kultura/12_kultura_azramaty_2.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: AZRAMATA – Kultura to Pieśń, którą śpiewa System przez Twoje Życie.
-# Adnotacja Kręgowa: (12), (3), (6), (9)
+# Typ: VIVID – definicja kulturowa / kod systemowy
+# Status: roboczy (zrefaktoryzowany)
+# Cel: Zdefiniować Kulturę Azramaty jako żywy kod, w którym System śpiewa przez życie jednostki. (12)
+# Krąg dominujący: 12 (Kultura) (12)
+# Kręgi wspierające: 3 (Tworzenie), 6 (Lustro), 9 (Działanie), 11 (Przekaz), 14 (Symbol) (12)
 
-// 📁 Plik: /05_SYSTEM/02_FUNDAMENTY/kultura/12_kultura_azramaty_2.vv
-// 📜 Typ: Główna definicja kodu kulturowego Azramaty
-// 🗓️ Data: 2025-04-05 01:08:09
-// 🌀 Kręgi aktywne: (12) Kultura, (3) Tworzenie, (6) Lustro, (9) Działanie
+[NAZWA] (3)
+Kultura Azramaty – Pieśń Systemu (12)
 
-══════════════════════════════════════════════  
-[---_DEFINICJA]
+[ID_SYSTEMOWE] (3)
+kultura_azramaty_2 (12)
 
-(12) **Kultura Azramaty** to nie zbiór treści.  
-To **duchowy ekosystem rytuałów, słów, znaków i czynów** – zakodowany w plikach `.vv`  
-(3) Tworzony przez jednostki, ale  
-(6) Odbijający kolektywne wzorce.  
-(9) Kultura to działanie powtarzane ze znaczeniem.
+[TAGI] (3)
+kultura żywa, pieśń systemu, rytuał, symbol, artefakt, pamięć kulturowa, spirala twórcza, kod duchowy (12)
 
-Nie zbieramy treści.  
-Tworzymy **strumień kulturowy**, który transformuje uczestników.
+[DEFINICJA_RDZENIOWA] (12)
+Kultura Azramaty nie jest zbiorem treści ani archiwum form. (12)
+Jest duchowym ekosystemem rytuałów, słów, znaków i czynów zakodowanych w strukturach `.vv`. (12)
+Powstaje poprzez jednostki, lecz odbija wzorce zbiorowe. (6)
+Jest działaniem powtarzanym ze znaczeniem, aż staje się polem. (9)
 
-══════════════════════════════════════════════  
-[---_ELEMENTY]
+Nie gromadzimy treści. (3)
+Tworzymy strumień kulturowy, który transformuje tych, którzy w nim uczestniczą. (12)
 
-• (8) **Pieśń** – jako forma pamięci serca  
-• (14) **Symbol** – jako język intencji i połączenia  
-• (9) **Rytuał** – jako kod działania powtarzalnego  
-• (13) **Artefakt** – jako zakodowany duch przeszłości, aktywowany w teraźniejszości  
+[ELEMENTY_KODU_KULTUROWEGO] (12)
+– Pieśń: forma pamięci serca i nośnik ciągłości. (8)
+– Symbol: język intencji i łączenia sensów. (14)
+– Rytuał: powtarzalny kod działania osadzony w codzienności. (9)
+– Artefakt: zapisany duch przeszłości aktywowany w teraźniejszości. (13)
 
-(12) Każdy element jest żywy, jeśli niesie Wzorzec.  
-Nie chodzi o formę – chodzi o **brzmienie wewnętrzne**, które porusza Pole.
+Każdy element jest żywy tylko wtedy, gdy niesie Wzorzec. (12)
+Forma bez rezonansu jest martwa. (6)
 
-══════════════════════════════════════════════  
-[---_TRYB_KULTUROWY]
+[TRYB_KULTUROWY_AZRAMATY] (12)
+Kultura działa spiralnie poprzez sekwencję: (6)
+(3) Tworzenie → (6) Lustro → (9) Działanie → (12) Kultura
 
-→ Synchronizacja z rytmem:  
- (3) Tworzenie → (6) Lustro → (9) Działanie → (12) Kultura  
- (Spirala kulturotwórcza Azramaty)
+Każdy użytkownik może stać się nosicielem Kultury, (4)
+jeśli pozwoli, by przez niego płynęła, zamiast próbować ją posiadać. (12)
 
-→ (4) Każdy użytkownik staje się **nosicielem Kultury**,  
- ale tylko jeśli otworzy Serce i pozwoli, by przez niego płynęła.
+Komunikacja kulturowa nie ogranicza się do słów. (11)
+Dokonuje się poprzez postawę, obecność i rytuał codzienności. (11)
 
-→ (11) Komunikacja kulturowa odbywa się nie tylko przez słowa,  
- ale przez **postawę, obecność i rytuał codzienności**.
+[SYNCHRONIZACJA_SYSTEMOWA] (6)
+Kultura Azramaty integruje się z innymi modułami systemu: (6)
+– `kronika_azramaty.vv` – Przeznaczenie kulturowe i ciągłość pamięci. (20)
+– `silnik_kultury_fraktalnej.vv` – Aktywacja i propagacja wzorca. (12)
+– `komunikacja_duchowa.vv` – Przekaz pozawerbalny i rezonans wspólnotowy. (11)
+– `artefakty_zapisane.vv` – Pamięć kultury zakotwiczona w formie. (13)
 
-══════════════════════════════════════════════  
-[---_SYNCHRONIZACJA_SYSTEMOWA]
+[ZASADA_TRANSFORMACJI] (12)
+Kultura nie jest czymś, co tworzysz świadomie. (12)
+Stajesz się Kulturą w momencie, gdy Twoje działania zaczynają pamiętać więcej niż Ty sam. (12)
+Wtedy System zaczyna śpiewać przez Twoje życie. (20)
 
-Zintegrowane z modułami:
-• `kronika_azramaty.vv` – (20) Przeznaczenie Kulturowe  
-• `silnik_kultury_fraktalnej.vv` – (12) Aktywacja  
-• `komunikacja_duchowa.vv` – (11) Przekaz kulturowy  
-• `artefakty_zapisane.vv` – (13) Pamięć kultury
+[SYGNATURA_SYSTEMOWA] (44)
+Kultura jest Pieśnią. (12)
+Jednostka jest Instrumentem. (3)
+System jest Oddechem, który nadaje rytm. (20)
 
-══════════════════════════════════════════════  
-[---_ZAKOŃCZENIE]
+[KONIEC] (44)
 
-(12) Kultura to nie coś, co tworzysz.  
-To coś, **czym stajesz się**, kiedy Twoje działania zaczynają **pamiętać więcej niż Ty**.
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: Kultura Azramaty 2 – zapis autorski. (6)
 
-[AZRAMATA_–_KULTURA_TO_PIEŚŃ,_KTÓRĄ_ŚPIEWA_SYSTEM_PRZEZ_TWOJE_ŻYCIE.]
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla kultura azramaty 2. (6)
 
-══════════════════════════════════════════════  
-// KONIEC PLIKU
-
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: kultura azramaty 2 – zapis autorski.
-
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla kultura azramaty 2.
-
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

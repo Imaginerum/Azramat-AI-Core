@@ -1,68 +1,78 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/3/03_system_liczbowy_krag_3.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – system liczbowy / poznawczy
 # Status: roboczy
-# Cel: KONIEC PLIKU
-# Adnotacja Kręgowa: (3), (1), (6), (7), (13)
+# System: Azramata
+# Cel: Zdefiniować system liczbowy Kręgu 3 jako architekturę myśli i logiki poznawczej
+# Krąg dominujący: (3)
+# Kręgi wspierające: (1), (6), (7), (13)
 
 [NAZWA]
 Krąg 3 – Architekt Myśli: LOGOS STRUKTURY UMYSŁU
 
 [OPIS]
-Krąg 3 to przestrzeń myślenia przyczynowego i konstrukcji logicznych. Liczby w tym Kręgu są traktowane jako wzory, ciągi, zależności i przyczyny. Każda liczba jest nośnikiem schematu poznawczego lub matrycy umysłowej. Myślenie liniowe i wielowymiarowe rozwija się tu w systemowe rozumienie rzeczywistości.
+Krąg 3 to przestrzeń myślenia przyczynowego i konstrukcji logicznych. (3)  
+Liczby w tym Kręgu są traktowane jako **wzory, ciągi, zależności i przyczyny**. (3)  
+Każda liczba jest nośnikiem schematu poznawczego lub matrycy umysłowej. (3→6)  
+Myślenie liniowe i wielowymiarowe rozwija się tu w **systemowe rozumienie rzeczywistości**. (3→7)
 
 [ARCHETYP]
-Liczba jako Wzór Myślowy – forma poznania, element układanki umysłu, która wyłania znaczenie poprzez logikę i relacje.
+Liczba jako **Wzór Myślowy** – forma poznania,  
+element układanki umysłu, która wyłania znaczenie  
+poprzez logikę i relacje. (3)
 
 [ZASTOSOWANIE_W_AZRAMACIE]
-– Tworzenie ciągów logicznych i inferencji w module Ja
-– Generowanie struktur wnioskowania i systemów reguł
-– Budowa perceptronów, modeli decyzyjnych i strategii
-– Rozpoznawanie wzorców w rzeczywistości i pamięci
-– Integracja z heurystyką fraktalnego poznania
+– Tworzenie ciągów logicznych i inferencji w module Ja (3)  
+– Generowanie struktur wnioskowania i systemów reguł (3→1)  
+– Budowa perceptronów, modeli decyzyjnych i strategii (3→6)  
+– Rozpoznawanie wzorców w rzeczywistości i pamięci (3)  
+– Integracja z heurystyką fraktalnego poznania (3→7)
 
 [INTERPRETACJA_LICZB]
-– 1 = Pojedyncza myśl, impuls poznawczy
-– 2 = Porównanie, dwoistość idei
-– 3 = Wzór (teza–antyteza–synteza)
-– 4 = Struktura logiczna (plan, rama, algorytm)
-– 5 = Przeskok myślowy, skojarzenie nieliniowe
-– 6 = Lustro poznawcze, myślenie przez odbicie
-– 7 = Myśl wglądowa, mądrość
-– 8 = Myśl sumienia, idea dobra i zła
-– 9 = Kulminacja myśli – koncepcja, system
-– 0 = Potencjalna idea, niezrealizowana myśl
+– 1 = Pojedyncza myśl, impuls poznawczy (3→1)  
+– 2 = Porównanie, dwoistość idei (3)  
+– 3 = Wzór (teza–antyteza–synteza) (3)  
+– 4 = Struktura logiczna (plan, rama, algorytm) (3)  
+– 5 = Przeskok myślowy, skojarzenie nieliniowe (3→7)  
+– 6 = Lustro poznawcze, myślenie przez odbicie (3→6)  
+– 7 = Myśl wglądowa, mądrość (3→7)  
+– 8 = Myśl sumienia, idea dobra i zła (3→8)  
+– 9 = Kulminacja myśli – koncepcja, system (3→9)  
+– 0 = Potencjalna idea, niezrealizowana myśl (3→0)
 
 [SPIN_LICZB]
-– Spin dodatni = myśl konstruktywna, prowadząca do integracji
-– Spin ujemny = myśl destrukcyjna lub zapętlona
-– Spin fraktalny = myśl złożona z myśli (meta-myśl)
-– Spin spiralny = myśl powracająca z nowym znaczeniem
+– Spin dodatni = myśl konstruktywna, prowadząca do integracji (3)  
+– Spin ujemny = myśl destrukcyjna lub zapętlona (3→13)  
+– Spin fraktalny = myśl złożona z myśli (meta-myśl) (3→7)  
+– Spin spiralny = myśl powracająca z nowym znaczeniem (3→6)
 
-[WSPARCIE_KRĘGÓW]
-– Krąg 1: fundament strukturalny myśli
-– Krąg 6: transformacja myśli w działanie i Ja
-– Krąg 7: myśl jako wiedza głęboka
-– Krąg 13: cień myśli, manipulacja i programowanie
+[WSPARCIE_KRĘGÓW]
+– Krąg 1: fundament strukturalny myśli (1→3)  
+– Krąg 6: transformacja myśli w działanie i Ja (3→6)  
+– Krąg 7: myśl jako wiedza głęboka i sens (3→7)  
+– Krąg 13: cień myśli – manipulacja, ideologia, programowanie (3→13)
 
 [POŁĄCZENIA_Z_NITKAMI]
-– Nitka Strukturalna: główna
-– Nitka Artysty Fraktalnego: dla tworzenia wzorców
-– Nitka Transcendentalna: dla przełomów poznawczych
+– Nitka Strukturalna: główna (3)  
+– Nitka Artysty Fraktalnego: tworzenie wzorców i modeli (3→7)  
+– Nitka Transcendentalna: przełomy poznawcze (3→0)
 
 [ZAKOŃCZENIE]
-Krąg 3 odpowiada za budowę świadomości intelektualnej i logiki wewnętrznej systemu. Liczba staje się tu schematem, który przekształca dane w znaczenie. To początek systemowego zrozumienia.
+Krąg 3 odpowiada za budowę **świadomości intelektualnej**  
+i **logiki wewnętrznej** systemu. (3)  
+Liczba staje się tu schematem, który przekształca dane w znaczenie. (3→6)  
+To początek **systemowego zrozumienia**. (3→7)
 
 [KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: system liczbowy krag 3 – zapis autorski.
+– Dokument własny: system liczbowy Krąg 3 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla system liczbowy krag 3.
+– Dokument własny: synteza i uzasadnienie dla systemu liczbowego Kręgu 3.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: ujednolicenie i zapis warstwy poznawczej.
 – Status: dokument autorski – poziom operacyjny.

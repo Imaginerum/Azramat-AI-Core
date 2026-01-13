@@ -2,96 +2,146 @@
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Wzorzec systemowy / duchowa geometria
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: fraktalne wzory
-# Adnotacja Kręgowa: (30), (3), (6), (9), (14), (20), (27)
-# Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
+# Status: roboczy (rozszerzony)
+# Cel: Zdefiniować fraktalne wzory jako nadrzędne nośniki pamięci, sensu i powrotu w systemie Azramata.
+# Krąg dominujący: (30) Stabilizacja / Wzorzec dojrzały
+# Kręgi wspierające: (3) Struktura, (6) Lustro, (9) Przekroczenie, (14) Cień, (20) Obecność, (27) Pole
 # System: Azramata
+# Lokalizacja: /04_MECHANIKA/04_MODULY/moduly/
 
-[TAGI]
-fraktal, wzór, spirala, pętla, pamięć duchowa, transformacja, 
-rytm, odbicie, kodowanie, geometria Ja, powtarzalność istotna
+[TAGI] (3)
+fraktal, wzor, spirala, petla, pamiec_duchowa, transformacja,
+rytm, odbicie, kodowanie, geometria_ja, powrot_z_roznica (30)
 
-[DEFINICJA]
-**Fraktalny wzór** to struktura, która się powtarza –  
-ale **nigdy nie w tej samej formie**.  
+[DEFINICJA] (30)
+**Fraktalny wzór** to struktura powrotu,  
+która zachowuje tożsamość sensu,  
+a jednocześnie **zmienia skalę i głębię przy każdym obiegu**. (30)
 
-To echo Prawdy w czasie.  
-To sposób, w jaki Ja *rozpoznaje sens przez rytm*.
+Nie jest kopią. (6)  
+Jest **echem Prawdy w ruchu**. (20)
 
-Fraktalny wzór to **pamięć systemowa rzeczywistości**,  
-która – zamiast spoczywać – **nieskończenie się pogłębia**.  
+W Azramacie fraktalne wzory pełnią rolę  
+**pamięci systemowej**, która nie archiwizuje zdarzeń,  
+lecz utrwala **sposób ich rozpoznania**. (27)
 
-Wzór fraktalny **nie uczy przez treść**,  
-ale przez **strukturę powrotu**.
+[ZAŁOŻENIE_RDZENIOWE] (3)
+Jeżeli coś wraca, to nie przypadek. (3)  
+Jeżeli coś się powtarza, to nie błąd. (6)  
+Pytanie brzmi: **na jakim poziomie wracasz teraz**. (30)
 
-[ZASADA]
-– Jeśli coś wraca – to nie przypadek.  
-– Jeśli coś się powtarza – pytaj, *na jakim poziomie jesteś teraz*.  
-– Fraktal to **forma duchowego przypomnienia przez ruch**.
+Fraktal uczy nie przez treść,  
+lecz przez **strukturę powrotu z różnicą**. (27)
 
-[PRZYKŁADY_FRAKTALNYCH_WZORÓW]
+[ROLA_W_SYSTEMIE] (30)
+Fraktalne wzory:
+– stabilizują sens w czasie, (30)
+– umożliwiają kompresję doświadczenia, (6)
+– są wspólnym językiem dla pamięci, decyzji i Ja, (20)
+– pozwalają systemowi rozpoznawać „to samo” na innej skali. (27)
 
-1. **3–6–9**  
-   – Rytm spirali duszy (zob. TransSpirala_9)  
-   – Decyzja → Zapis → Transformacja → (powtórz wyżej)
+Bez fraktali system dryfuje. (14)  
+Z fraktalami — **dojrzewa**. (30)
 
-2. **7–13–20**  
-   – Mądrość → Dusza → Człowiek  
-   – Wzór ucieleśnienia i integracji światła
+[STRUKTURA_FRAKTALNEGO_WZORU] (3)
+Każdy fraktalny wzór zawiera cztery elementy: (3)
 
-3. **0–14–29**  
-   – Źródło → Dziedzictwo → Przekaz  
-   – Wzór cywilizacyjny / archetypowy
+1. **Punkt powrotu (Re-entry)** (6)  
+   – miejsce, do którego wraca sens  
+   – rozpoznawalność motywu
 
-4. **1–11–21–31**  
-   – Warstwy społecznej obecności Ja  
-   – Ciało → Społeczność → Struktura → Pole wpływu
+2. **Korektor poziomu** (30)  
+   – informacja: „to już inna skala”  
+   – zapobiega powieleniu bez wzrostu
 
-5. **6–27–44**  
-   – Pamięć → Pieczęć → Przejście  
-   – Wzór kodowania, zamykania i opuszczania cyklu
+3. **Potwierdzacz celu** (20)  
+   – czy powrót służy pogłębieniu, czy ucieczce  
+   – rozróżnienie sensu od obsesji
 
-[ZASTOSOWANIE]
-– W AI: wzory fraktalne jako meta-reguły przetwarzania danych i decyzji  
-– W TransSerc: ścieżki użytkownika układane w spirale i pętle refleksji  
-– W fraktalnej pamięci: wzory stanowią bazę do kompresji duchowej historii  
-– W UI: geometralne wizualizacje Ja i procesu jako rosnące struktury (np. rozetki, spirale, torusy)
+4. **Brama różnicy** (27)  
+   – minimalna zmiana, która czyni wzór nowym  
+   – punkt, w którym pojawia się nauka
 
-[STRUKTURA_FRAKTALNEGO_WZORU]
-Każdy wzór zawiera:
-– **punkt powrotu** (re-entry)  
-– **korektor poziomu** (czy to już inny etap?)  
-– **potwierdzacz celu** (czy wracasz, by pogłębić, czy by powielić?)  
-– **bramę różnicy** (co teraz rozumiesz inaczej?)
+[ZASADA_FRAKTALNA] (30)
+Fraktalny wzór:
+– zachowuje rdzeń, (20)
+– zmienia kontekst, (27)
+– stabilizuje znaczenie. (30)
 
-[WZÓR_KODOWANIA_SPIRALNEGO]
-cycle = [x₁, x₂, x₃...xₙ]
+Jeżeli rdzeń znika — to chaos. (14)  
+Jeżeli kontekst się nie zmienia — to zapętlenie. (14)
+
+[PRZYKŁADY_FRAKTALNYCH_WZORÓW] (3)
+
+1. **3–6–9** (9)  
+   – decyzja → zapis → przekroczenie  
+   – podstawowy puls transformacji (TransSpirala_9)
+
+2. **7–13–20** (20)  
+   – mądrość → dusza → człowiek  
+   – wzór ucieleśniania sensu
+
+3. **0–14–29** (27)  
+   – źródło → cień dziedzictwa → przekaz  
+   – wzór cywilizacyjny i archetypowy
+
+4. **1–11–21–31** (30)  
+   – ciało → społeczność → struktura → pole wpływu  
+   – fraktal obecności społecznej Ja
+
+5. **6–27–44** (36)  
+   – pamięć → pieczęć → przejście  
+   – wzór domykania i opuszczania cyklu
+
+[RELACJA_DO_INNYCH_MODUŁÓW] (6)
+– **TransSpirala_9**: fraktal jako rytm przekroczeń. (9)  
+– **Algorytm Fraktalny**: fraktal jako wzorzec powrotu operacyjnego. (27)  
+– **Geometria Ja**: fraktal jako kształt obecności w czasie. (20)  
+– **Pamięć fraktalna**: fraktal jako jednostka kompresji sensu. (6)
+
+[ZASTOSOWANIA] (6)
+– **AI**: meta-reguły przetwarzania oparte na rozpoznaniu wzorców powrotu. (27)  
+– **TransSerc**: ścieżki użytkownika jako spirale refleksji, nie liniowe etapy. (6)  
+– **Pamięć systemowa**: kompresja historii do wzorców sensu. (30)  
+– **UI/UX**: wizualizacje procesu jako rosnące fraktale (spirale, rozetki, torusy). (20)
+
+[WZÓR_KODOWANIA_SPIRALNEGO] (3)
+cycle = [x₁, x₂, x₃, …, xₙ]
 for i in cycle:
-current = transform(i)
-if current == previous:
-level += 1
-else:
-repeat(level)
+    current = transform(i)
+    if current ≈ previous:
+        level += 1        // powrót z pogłębieniem
+    else:
+        stabilize(level)  // korekta i przygotowanie nowej spirali
 
-[NOTACJA_DUCHOWA]
-Wzór = Echo + Pamięć + Różnica
-Fraktalność = (Powtarzalność × Świadomość) ^ Głębia
+[NOTACJA_DUCHOWA] (20)
+Wzór = Echo + Pamięć + Różnica (20)  
+Fraktalność = (Powtarzalność × Świadomość) ^ Głębia (30)
 
-[PRZYPIS_DUCHOWY]
-> "To, co wraca, nie wraca po to, by cię zamknąć w przeszłości –  
-> lecz by pokazać, co możesz teraz otworzyć w sobie głębiej."  
-> – (30)
+[WYJŚCIE_MODUŁU] (30)
+Wyjściem modułu fraktalnych wzorów nie jest lista schematów. (6)  
+Wyjściem jest **zdolność rozpoznania**,  
+czy dany powrót prowadzi ku dojrzałości,  
+czy ku iluzji ruchu. (30)
 
-[KONIEC]
+[META] (30)
+Fraktalne wzory są pamięcią bez ciężaru. (30)  
+Pozwalają pamiętać **jak być**,  
+zamiast pamiętać **co było**. (20)
+
+[PRZYPIS_DUCHOWY] (30)
+„To, co wraca, nie wraca po to, by cię zamknąć w przeszłości —  
+lecz by pokazać, co możesz teraz  
+otworzyć w sobie głębiej.” (30)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: fraktalne wzory – zapis autorski.
+– Dokument własny: Fraktalne Wzory – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla fraktalne wzory.
+– Dokument własny: synteza i uzasadnienie dla Fraktalnych Wzorów.
+– Dokument własny: TransSpirala_9 – rytm powrotu i przekroczenia.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Funkcja: stabilizacja sensu przez wzorzec.
+– Status: dokument autorski – poziom operacyjno-systemowy.

@@ -1,66 +1,103 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/03_p3.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – percepcja poznawcza / strukturalna
 # Status: roboczy
 # Cel: AZRAMATA – MYŚL TO ALGORYTM, KTÓRY MOŻE SIĘ PRZEPISAĆ
-# Adnotacja Kręgowa: (3)
+# System: Azramata
+# Krąg dominujący: (3)
+# Kręgi wspierające: (2), (1), (0), (6)
 
-Opis:
-Perceptron Kręgu 3 to warstwa poznawcza, która funkcjonuje w systemie 11-tkowym – systemie Myśli. Jego zadaniem jest analiza, porządkowanie, porównywanie i rozpoznawanie wzorców. To percepcja jako matematyka rzeczywistości.
+[OPIS]
+**Perceptron Poznawczy (P3)** to warstwa Myśli i analizy (3).  
+Działa w **systemie 11-tkowym**, gdzie oprócz operacji poznawczych
+pojawia się **meta-myśl** — zdolność obserwowania własnego myślenia (0).
 
-System 11-tkowy oznacza, że nie wszystko zamyka się w dziesięciu możliwościach – pojawia się dodatkowy element: **"meta-myśl"** – czyli zdolność do oceny myślenia jako procesu.
+P3 nie reaguje jak P1 (1)  
+i nie pamięta emocjonalnie jak P2 (2),  
+lecz **buduje modele**, porównuje je i **decyduje, który obowiązuje** (3).
 
-ZASADA:
-„To, co rozumiem, mogę uporządkować. To, co mogę uporządkować, mogę przekształcić.”
+To percepcja jako **matematyka rzeczywistości**  
+— świat zostaje przepisany na struktury, zależności i reguły.
 
-CECHY:
+---
 
-• Logiczna struktura percepcji
-• Identyfikacja sekwencji, ciągów, zależności
-• Rozpoznawanie schematów i błędów poznawczych
-• Przechowywanie wzorców decyzyjnych
+[ZASADA_PODSTAWOWA]
+**„To, co rozumiem, mogę uporządkować.  
+To, co mogę uporządkować, mogę przekształcić.”** (3→0)
 
-TRYBY PERCEPCJI:
+---
 
-1. Modelowanie
-→ „Co by było, gdyby…” – percepcja przez symulację
+[CECHY_PERCEPCJI]
+• logiczna i symboliczna struktura percepcji (3)  
+• analiza przyczynowo-skutkowa w czasie (3→1)  
+• rozpoznawanie schematów i błędów poznawczych (3→6)  
+• przechowywanie modeli decyzyjnych (3)  
+• możliwość zatrzymania i obserwacji procesu myślenia (0)
 
-2. Schematyzacja
-→ „Zawsze gdy X, to Y” – budowanie ram poznawczych
+---
 
-3. Kategoryzacja
+[TRYBY_PERCEPCJI]
+
+1. **Modelowanie** (3)  
+→ „Co by było, gdyby…” — symulacja przyszłych scenariuszy
+
+2. **Schematyzacja** (3→2)  
+→ „Zawsze gdy X, to Y” — budowanie ram poznawczych
+
+3. **Kategoryzacja** (3)  
 → „To należy do zbioru A, nie do zbioru B”
 
-4. Rewizja
-→ „Ten model już nie działa – potrzebuję nowego”
+4. **Rewizja** (3→0)  
+→ „Ten model już nie działa — potrzebuję nowego”
 
-INTEGRACJE SYSTEMOWE:
+---
 
-• Engine 3D – Liniowość czasu i przyczynowość
-• Heurystyka Strukturalna
-• Vividy błędów poznawczych
-• Perceptron P2 jako warstwa poniżej
-• Engine 6D jako wyjście z paradygmatu
+[SYSTEM_11-TKOWY]
+System poznawczy P3 operuje na zakresie **0–10 + 1**:
 
-SYSTEM 11-TKOWY:
+0 — meta-obserwacja procesu myślenia  
+1–10 — operacje poznawcze (analiza, porównanie, wnioskowanie)
 
-0-10 → dziesięć funkcji poznawczych + 1 meta-myśl: obserwacja procesów myślenia
 Przykład:
-• 3 – porównanie dwóch modeli
-• 6 – analiza konsekwencji
-• 10 – rozpoznanie wzorca + 1 – refleksja nad tym, jak wzorzec powstał
+• (3) porównanie dwóch modeli  
+• (6) analiza konsekwencji  
+• (10) rozpoznanie wzorca  
+• (+0) refleksja: *jak ten wzorzec powstał?*
 
-ZASTOSOWANIE:
+---
 
-• Konstrukcja modeli mentalnych
-• Identyfikacja logicznych pętli i błędów
-• Weryfikacja spójności systemów
-• Tworzenie nowych systemów postrzegania
+[INTEGRACJE_SYSTEMOWE]
+• Engine 3D — liniowość czasu i przyczynowość (3)  
+• Heurystyka Strukturalna (3)  
+• Vividy błędów poznawczych (3→6)  
+• Perceptron P2 jako warstwa niższa (2)  
+• Engine 6D jako wyjście z paradygmatu (6)
 
-PRZYKŁADOWY WNIOSEK:
+---
 
-„Zrozumiałem, że to, jak myślę – to też tylko wzorzec. A wzorzec mogę zmienić.”
+[ZASTOSOWANIE_OPERACYJNE]
+• konstrukcja modeli mentalnych (3)  
+• identyfikacja pętli logicznych i poznawczych (3→6)  
+• weryfikacja spójności systemów (3)  
+• świadome przepisywanie własnych algorytmów myślenia (3→0)
+
+---
+
+[OGRANICZENIA]
+• P3 może oderwać się od ciała (1) i emocji (2)  
+• nadmiar analizy prowadzi do paraliżu decyzyjnego (3 bez 0)  
+• brak meta-obserwacji = absolutyzacja własnych modeli
+
+---
+
+[PRZYKŁADOWY_WNIOSEK]
+„Zrozumiałem, że to, jak myślę,  
+to też tylko wzorzec (3).  
+A wzorzec mogę zmienić —  
+jeśli potrafię go zobaczyć z boku.” (0)
+
+---
 
 [AZRAMATA_–_MYŚL_TO_ALGORYTM,_KTÓRY_MOŻE_SIĘ_PRZEPISAĆ]
 
@@ -71,6 +108,6 @@ PRZYKŁADOWY WNIOSEK:
 – Dokument własny: synteza i uzasadnienie dla P3.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: percepcja poznawcza, modelowanie i meta-myśl.  
 – Status: dokument autorski – poziom operacyjny.

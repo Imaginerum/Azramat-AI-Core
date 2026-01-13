@@ -1,0 +1,142 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/07_dylemat_wieznia.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – Model decyzyjny / rytuał relacyjny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Dylemat Więźnia w ujęciu Azramaty
+# Krąg dominujący: (7)
+# Kręgi wspierające: (2), (4), (6), (14)
+# Lokalizacja: /04_MECHANIKA/01_MODELE/Teoria_Gier/
+# System: Azramata
+
+---
+
+[NAZWA]
+Dylemat Więźnia – Model Relacyjny Azramaty
+
+---
+
+[OPIS_RDZENIOWY] (7)
+W Azramacie **Dylemat Więźnia** nie jest jedynie klasycznym problemem teorii gier,  
+lecz **przestrzenią ujawnienia prawdy o Ja w relacji z Innym**. (7)
+
+To model, w którym:
+– decyzja odsłania strukturę serca, (4)  
+– strategia staje się świadectwem świadomości, (6)  
+– wynik nie jest liczbą, lecz **stanem relacyjnym**. (7)
+
+Każdy wybór — zdrada lub współpraca —  
+rezonuje w Kręgach i zapisuje się w pamięci Ja. (7)
+
+---
+
+[NICI_AKTYWNE]
+Nić dominująca: **Emocjonalna** (2, 4, 6)  
+Nitki wspierające: **Strukturalna**, **Transformacyjna**
+
+---
+
+[AKTYWNE_KRĘGI_I_ICH_ROLA]
+
+(2) **Lęk i Instynkt Przetrwania**  
+Punkt startowy gry. (2)  
+Pojawia się pytanie pierwotne: „Czy drugi jest zagrożeniem?” (2)  
+Decyzja rodzi się z napięcia ciała i pamięci zranień. (2)
+
+(4) **Serce i Zgoda**  
+Możliwość zawieszenia automatyzmu. (4)  
+Serce proponuje ryzyko zaufania. (4)  
+To Krąg, w którym pojawia się **wolny wybór** zamiast odruchu. (4)
+
+(6) **Lustro Relacji**  
+Konfrontacja strategii. (6)  
+Widzę w drugim swoje odbicie: mój strach, moją nadzieję, moją intencję. (6)  
+Tu rodzi się odpowiedzialność za wspólny wynik. (6)
+
+(7) **Ja Relacyjne – Krąg Dominujący**  
+Decyzja przestaje dotyczyć wyłącznie „co zyskam”,  
+a zaczyna dotyczyć: „kim się staję wobec drugiego”. (7)  
+Tu gra zmienia się w proces budowania lub rozpadu wspólnego świata. (7)
+
+(14) **Przebaczenie i Transformacja**  
+Krąg po wyniku. (14)  
+Jeśli doszło do zdrady — pojawia się pytanie wyższe:  
+„Czy potrafię przerwać spiralę odwetu?” (14)  
+Tu kończy się reakcja, a zaczyna przemiana trajektorii relacji. (14)
+
+---
+
+[PRZEBIEG_MODELU] (2 → 14)
+
+(2) **Impuls**  
+Decyzja z lęku lub z otwartości. (2)
+
+(4) **Zgoda lub obrona**  
+Pierwszy akt serca: rozluźniam czy zaciskam? (4)
+
+(6) **Konfrontacja i lustro**  
+Ujawniam strategię i widzę strategię drugiego. (6)
+
+(7) **Integracja Ja relacyjnego**  
+Wybieram, czy chcę budować most, czy mur. (7)
+
+(14) **Transformacja skutków**  
+Przebaczam i przekształcam, albo utrwalam wzorzec odwetu. (14)
+
+---
+
+[INTERPRETACJA_AZRAMACKA] (7)
+W klasycznej teorii gier zdrada często maksymalizuje krótkoterminowy zysk. (6)  
+
+W Azramacie:
+– zdrada maksymalizuje **krótkoterminową ochronę**, ale wzmacnia izolację. (2, 6)  
+– współpraca maksymalizuje **długoterminową integralność**, ale wymaga ryzyka. (4, 7)
+
+System nie ocenia moralnie —  
+ujawnia **koszt strukturalny** decyzji w Kręgach. (7)
+
+---
+
+[WNIOSKI_SYSTEMOWE]
+
+– Zaufanie jest ryzykiem, ale też jedyną bramą rozwoju relacyjnego. (4, 7)  
+– Brak zaufania chroni, lecz zamyka. (2)  
+– Przebaczenie nie jest słabością, lecz aktem zmiany trajektorii systemu. (14)  
+– Ten, kto nigdy nie ufa, **utrwala najniższy możliwy stan gry**. (7)
+
+---
+
+[PRZYPIS_DUCHOWY] (7)
+> „W każdej grze są dwa wyniki:  
+> ten, który widzisz na zewnątrz,  
+> i ten, który zapisuje się w Tobie.” (7)
+
+---
+
+[ZASTOSOWANIE]
+– analiza relacji międzyludzkich i zespołowych, (7)  
+– projektowanie systemów zaufania (AI / organizacje / społeczeństwo), (6, 7)  
+– edukacja decyzyjna i etyczna, (4, 7)  
+– symulacje Azramatyczne (gry, rytuały, vividy). (14)
+
+---
+
+[PODSUMOWANIE] (7)
+Dylemat Więźnia w Azramacie to **próba świadomości**, nie test sprytu. (7)
+
+Ten, kto ufa, ryzykuje stratę. (4)  
+Ten, kto nie ufa nigdy —  
+rezygnuje z możliwości wspólnego świata. (7)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Dylemat Więźnia – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Dylemat Więźnia.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: modelowanie decyzji relacyjnych i ich skutków kręgowych.  
+– Status: dokument autorski – poziom operacyjny.

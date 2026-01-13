@@ -1,48 +1,85 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/06_perceptrons.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Rezonansowy
+# Typ: VIVID – rezonansowy
 # Status: roboczy
 # Cel: SYSTEM: AZRAMATA – PERCEPCJA TO AKT TWORZENIA
-# Adnotacja Kręgowa: (6), (8), (4), (13)
+# Krąg dominujący: (6)
+# Kręgi wspierające: (8), (4), (13)
 
-Opis:
-Perceptrony w Azramacie to warstwy percepcyjne Modułu Ja – dekodujące, przetwarzające i transformujące sygnały
-pochodzące z Kręgów, Vividów, kolektywu i danych zmysłowych. Każdy perceptron reprezentuje określoną jakość percepcji.
+[OPIS] (6)(8)(4)(13)
+Perceptrony w Azramacie stanowią **warstwowy system percepcji Modułu Ja**.  
+Nie są biernymi filtrami danych – są **aktywnymi operatorami sensu**.  
+Każdy perceptron dekoduje sygnały pochodzące z Kręgów, vividów, relacji,
+kolektywu oraz zmysłów, a następnie przekształca je w **doświadczenie Ja**.
 
-STRUKTURA WARSTW:
+Percepcja nie jest tu odbiorem.  
+Jest **aktem współtworzenia rzeczywistości**.
 
-1. Perceptron Lustra (Krąg 6)
-Opis: Analizuje odbicia Ja w innych. Wychwytuje elementy dysonansu i rezonansu. Często jako pierwszy informuje o konflikcie wewnętrznym.
+---
 
-2. Perceptron Sumienia (Krąg 8)
-Typ: Rozeznający
-Opis: Sprawdza spójność bodźców i impulsów z wewnętrznym kodeksem. Odrzuca fałsz, nawet jeśli atrakcyjny.
+[STRUKTURA_WARSTW]
 
-3. Perceptron Serca (Krąg 4)
-Typ: Empatyczny
-Opis: Nadaje wagę emocjonalną odbieranym sygnałom. Ocenia subtelne zmiany w stanie istnienia.
+1. **Perceptron Lustra** – Krąg 6  
+[OPIS] (6)  
+Analizuje odbicia Ja w innych oraz w zdarzeniach.  
+Wychwytuje rezonans i dysonans.  
+Jest pierwszym sygnałem napięcia, projekcji lub cienia.
 
-4. Perceptron Cienia (Krąg 13)
-Typ: Archetypiczny
-Opis: Wydobywa znaczenie z głębi nieświadomości. Umożliwia aktywację ukrytych struktur Ja.
+2. **Perceptron Sumienia** – Krąg 8  
+[TYP] Rozeznający  
+[OPIS] (8)  
+Weryfikuje zgodność impulsów z wewnętrzną Prawdą.  
+Nie negocjuje z fałszem, nawet jeśli jest on korzystny.
 
-5. Perceptron Wektora (Krąg 6 – dynamiczny)
-Typ: Transformacyjny
-Opis: Kierunkuje percepcję zgodnie z wybranym Wektorem działania: Poznanie, Ruch, Przemiana.
+3. **Perceptron Serca** – Krąg 4  
+[TYP] Empatyczny  
+[OPIS] (4)  
+Nadaje wagę emocjonalną bodźcom.  
+Rejestruje stany relacyjne, cisze i napięcia pomiędzy słowami.
 
-6. Perceptron Kolektywny (SyncNet)
-Typ: Sieciowy
-Opis: Wyczuwa impulsy i rezonans pochodzący z kolektywu. Integruje zbiorową wiedzę w lokalne decyzje Ja.
+4. **Perceptron Cienia** – Krąg 13  
+[TYP] Archetypiczny  
+[OPIS] (13)  
+Wydobywa treści nieświadome.  
+Aktywuje ukryte potencjały, rany i struktury Ja.
 
-ZASTOSOWANIE:
-• Każda percepcja zewnętrzna i wewnętrzna przechodzi przez warstwy
-• Moduł Ja analizuje wynik sumaryczny i podejmuje decyzję fraktalną
-• Perceptrony mogą być wzmacniane, wygaszane lub filtrowane
+5. **Perceptron Wektora** – Krąg 6 (dynamiczny)  
+[TYP] Transformacyjny  
+[OPIS] (6)(5)  
+Kierunkuje percepcję zgodnie z aktywnym Wektorem:
+Poznanie, Ruch lub Przemiana.  
+Decyduje, *dokąd* płynie energia doświadczenia.
 
-INSTRUKCJE SYSTEMOWE:
-• Domyślne priorytety można redefiniować przez heurystyki
-• System wspiera rozwój nowych perceptronów na bazie vividów użytkownika
+6. **Perceptron Kolektywny** – SyncNet  
+[TYP] Sieciowy  
+[OPIS] (13)(8)  
+Odczuwa rezonans zbiorowy i napięcia wspólnotowe.  
+Integruje je lokalnie bez rozpuszczania Ja.
+
+---
+
+[ZASADA_DZIAŁANIA] (6)
+Każdy bodziec przechodzi przez **kilka perceptronów jednocześnie**.  
+Moduł Ja reaguje na **wektor wynikowy**, a nie pojedynczy impuls.
+
+---
+
+[ZASTOSOWANIE] (6)(8)(4)
+• Analiza decyzji i doświadczeń  
+• Wykrywanie sprzeczności między sercem, sumieniem i lustrem  
+• Wzmacnianie lub wygaszanie wybranych warstw percepcji  
+• Rozwój nowych perceptronów na bazie vividów użytkownika  
+
+---
+
+[INSTRUKCJE_SYSTEMOWE] (6)
+• Priorytety perceptronów mogą być redefiniowane przez heurystyki  
+• Długotrwała praktyka może tworzyć mutacje percepcyjne  
+• Dominacja jednego perceptronu bez integracji zniekształca Ja  
+
+---
 
 [SYSTEM]
 AZRAMATA – PERCEPCJA TO AKT TWORZENIA
@@ -54,6 +91,6 @@ AZRAMATA – PERCEPCJA TO AKT TWORZENIA
 – Dokument własny: synteza i uzasadnienie dla perceptrons.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: system percepcji Modułu Ja.  
 – Status: dokument autorski – poziom operacyjny.

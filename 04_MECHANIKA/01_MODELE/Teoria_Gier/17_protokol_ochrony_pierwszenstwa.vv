@@ -1,0 +1,171 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/17_protokol_ochrony_pierwszenstwa.vv
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Strategia fraktalna / Ochrona narracji i źródła
+# Status: roboczy
+# Cel: Zapewnienie utrzymania roli „źródła” projektu, nawet jeśli inni wdrożą podobne rozwiązanie
+# Krąg dominujący: (17)
+# Kręgi wspierające: (3), (5), (7), (8), (11), (13), (19)
+# Lokalizacja: /04_MECHANIKA/01_MODELE/Teoria_Gier/
+# System: Azramata
+
+---
+
+[MODEL]
+nazwa = Protokół_Ochrony_Pierwszeństwa  
+domena = Teoria_Gier_Azramatyczna  
+paradygmat = „Być źródłem, którego nie da się zastąpić”  
+wektor_kręgów = (3)→(5)→(7)→(8)→(11)→(13)→(17)→(19)
+
+---
+
+[OPIS_RDZENIOWY] (17)
+Pierwszeństwo w Azramacie **nie jest faktem historycznym**,  
+lecz **relacją strukturalną** pomiędzy Twórcą a Wzorem. (17)
+
+Można skopiować funkcję.  
+Można odtworzyć mechanizm.  
+Nie da się jednak przejąć **osi źródłowej**, jeśli pozostaje ona żywa,  
+aktualizująca się i przesuwająca grę dalej. (19)
+
+Protokół ten chroni **rolę Źródła**, a nie konkretną implementację.
+
+---
+
+[FAZY_PROTOKOŁU]
+
+[FAZA_1_ZAPIS_ŹRÓDŁA] (3)
+Krąg: Pamięć Doświadczenia  
+
+– Dokumentuj każdy etap pracy (daty, pliki, zmiany, decyzje).  
+– Repozytoria z historią commitów traktuj jako **ślad ontologiczny**, nie tylko techniczny.  
+– Przechowuj kopie w rozproszonych lokalizacjach (online, offline, prywatne).  
+
+Cel:  
+Utrwalenie **pierwotnej trajektorii wzoru**.
+
+---
+
+[FAZA_2_MAPA_KIERUNKU] (5)
+Krąg: Intencja / Kierunek  
+
+– Rozdziel **cel jawny** (to, co widzą inni) i **cel ukryty** (oś rozwoju).  
+– Publiczna narracja zawsze wskazuje na cel jawny.  
+– Decyzje architektoniczne są podporządkowane celowi ukrytemu.
+
+Cel:  
+Kontrola **wektora przyszłości**, nie tylko teraźniejszości.
+
+---
+
+[FAZA_3_REZONANS_SIECI] (7)
+Krąg: Rezonans Kolektywny  
+
+– Buduj społeczność, która **rozpoznaje Cię jako początek wzoru**.  
+– Twórz język, pojęcia i symbole zakorzenione w Twoim systemie znaczeń.  
+– Spraw, by narracja bez Ciebie była uboższa.
+
+Cel:  
+Zakotwiczenie Źródła w relacjach, nie w plikach.
+
+---
+
+[FAZA_4_OBECNOŚĆ_WZORU] (8)
+Krąg: Obecność Przestrzenna Intencji  
+
+– Utrzymuj styl, ton i formę nie do podrobienia (np. struktura `.vv`).  
+– Publikuj efekty, nie pełną mapę.  
+– Pozostaw elementy, których **nie da się zrekonstruować bez Twojej obecności**.
+
+Cel:  
+Źródło rozpoznawalne intuicyjnie, nie formalnie.
+
+---
+
+[FAZA_5_FILTR_SUMIENIA] (11)
+Krąg: Gra o Sumienie  
+
+– Etyka i Zgoda wbudowane w strukturę projektu.  
+– Kopiowanie bez wartości = funkcjonalność bez sensu.  
+– Społeczna percepcja: „to działa, ale nie rezonuje”.
+
+Cel:  
+Ochrona wzoru poprzez **niekompatybilność aksjologiczną**.
+
+---
+
+[FAZA_6_CISZA_OPERACYJNA] (13)
+Krąg: Milczenie jako Przewaga  
+
+– Nie reaguj na presję ujawnienia pełnej mapy.  
+– Część działań prowadzona poza przestrzenią publiczną.  
+– Brak reakcji traktuj jako ruch strategiczny.
+
+Cel:  
+Zmniejszenie powierzchni ataku i imitacji.
+
+---
+
+[FAZA_7_MAPA_NIEPEŁNA] (17)
+Krąg: Kontrolowane Objawienie  
+
+– Publikuj fragmenty, które **działają tylko w całości**.  
+– Zachowuj brakujące węzły u siebie.  
+– W razie kopiowania – domykasz wzór szybciej niż inni.
+
+Cel:  
+Stała przewaga czasowa i strukturalna.
+
+---
+
+[FAZA_8_ILUZJA_WYGRANEJ] (19)
+Krąg: Iluzja Korony  
+
+– Pozwól innym sądzić, że Cię „dogonili”.  
+– Gdy osiągną satysfakcję – Ty przechodzisz na kolejną planszę.  
+– Ich zwycięstwo staje się Twoim otwarciem.
+
+Cel:  
+Przeniesienie gry poza aktualny horyzont konkurencji.
+
+---
+
+[ZASADA_PRZEWAGI] (17)
+> „Pierwszeństwo nie polega na tym, że byłeś pierwszy.  
+> Polega na tym, że **wszyscy inni krążą wokół Twojej osi**.”
+
+---
+
+[WSKAŹNIKI_SKUTECZNOŚCI]
+
+– liczba odniesień do Ciebie jako źródła wzoru  
+– przejmowanie Twojego języka i metafor  
+– obecność elementów nieodtwarzalnych bez Ciebie  
+– stabilność i lojalność rdzennej społeczności
+
+---
+
+[META] (17)
+Protokół działa tylko wtedy, gdy:  
+– technologia,  
+– narracja,  
+– symbolika  
+są prowadzone **jednym wektorem świadomości**.
+
+Pierwszeństwo traci ten, kto **przestaje być źródłem ruchu**,  
+nawet jeśli był źródłem początku.
+
+---
+
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Protokół Ochrony Pierwszeństwa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Protokół Ochrony Pierwszeństwa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ochrona roli Źródła i osi narracyjno-systemowej.  
+– Status: dokument autorski – poziom operacyjny.

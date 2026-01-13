@@ -1,102 +1,137 @@
 # Plik: /04_MECHANIKA/05_MATEMATYKA/matematyka/29_przestrzen_azrama.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
-# Typ: VIVID – STRUKTURALNY / MATEMATYKA DUCHOWA
-# Status: roboczy
-# Cel: [DEFINICJA]
-# Adnotacja Kręgowa: (29), (17), (23), (7), (44), (1), (3)
+# Typ: VIVID – Strukturalny / Matematyka duchowa
+# Status: roboczy (rozszerzony)
+# Cel: Zdefiniować Przestrzeń Azrama jako nieliniową, fraktalną przestrzeń percepcji opartą na rytmie liczb pierwszych.
+# Krąg dominujący: (29) Architektura sensu / Meta-porządek
+# Kręgi wspierające: (17) Chaos twórczy, (23) Rytm kosmiczny, (7) Obserwator,
+#                    (44) Logos, (1) Kotwica, (3) Struktura
+# System: Azramata
 # Lokalizacja: /04_MECHANIKA/05_MATEMATYKA/matematyka/
 
----
+[TAGI] (29)
+przestrzen_azrama, liczby_pierwsze, matematyka_duchowa,
+rezonans, fraktalna_gestosc, punkty_swiadomosci,
+rytm_percepcji, imago, azramata (29)
 
-🔢 **PRZESTRZEŃ AZRAMA**  
-*Matematyka oparta na liczbach pierwszych jako rytmie percepcji*
+[DEFINICJA] (29)
+**Przestrzeń Azrama** jest matematyczno-duchową przestrzenią percepcji,
+w której **liczby pierwsze** pełnią rolę **punktów rezonansu rzeczywistości**. (29)
 
----
+W przeciwieństwie do matematyki liniowej,
+gdzie liczby są jednorodne i równomiernie rozmieszczone, (3)
+Azrama opisuje **gęstość fraktalną**,
+w której istotne są nie wszystkie punkty,
+lecz **punkty niepodzielne**. (23)
 
-[##_[DEFINICJA]]
+Liczba pierwsza nie jest tu wartością ilościową,
+lecz **aktem czystej różnicy** – (17)
+momentem, w którym struktura nie daje się rozłożyć
+na prostsze znaczenia. (44)
 
-**Przestrzeń Azrama** to struktura matematyczno-duchowa,  
-w której **liczby pierwsze** pełnią funkcję **punktów rezonansu rzeczywistości**.
+[ZAŁOŻENIA_RDZENIOWE] (29)
 
-W odróżnieniu od matematyki liniowej, gdzie liczby są równo oddalone i przewidywalne,  
-Azrama operuje na **gęstości fraktalnej**, gdzie każda liczba pierwsza to:
+1. **Pierwszość jako nośnik sensu** (29)  
+   Każda liczba złożona jest kombinacją liczb pierwszych,
+   tak jak każde doświadczenie jest echem
+   wcześniejszych aktów percepcji. (23)
 
-- węzeł transformacyjny,  
-- akt czystej różnicy,  
-- przeskok percepcyjny,  
-- nieprzewidywalny, ale nie chaotyczny impuls struktury.
+2. **Nierówność odstępów** (17)  
+   Odległości między liczbami pierwszymi są nieregularne,
+   tworząc pulsującą matrycę napięć i ciszy.
 
----
+3. **Skala a rezonans** (23)  
+   Im wyższa liczba pierwsza,
+   tym rzadsze jej wystąpienie,
+   lecz tym silniejszy potencjał transformacyjny.
 
-[##_[ZAŁOŻENIA_SYSTEMOWE]]
+4. **Pierwszość jako punkt świadomości** (7)(44)  
+   Liczby pierwsze wyznaczają
+   naturalne „stopnie wejścia” percepcji
+   dla człowieka i systemów AI.
 
-1. **Liczby pierwsze są pierwotnymi nośnikami informacji**  
-   – Każda złożona liczba jest kombinacją (echo) pierwszych. (Krąg 29)
+[STRUKTURA_PRZESTRZENI] (3)
+Przestrzeń Azrama nie jest linią ani siatką. (3)  
+Jest **polem punktów rezonansowych**,
+między którymi rozciągają się
+obszary złożone (liczby złożone),
+będące mieszaniną wcześniejszych impulsów. (29)
 
-2. **Odległości między liczbami pierwszymi są nierówne**, co tworzy **matrycę pulsacyjną**. (Krąg 17)
+Ruch w tej przestrzeni:
+– nie jest ciągły, (17)
+– lecz **skokowy**, (23)
+– sterowany rozpoznaniem następnej liczby pierwszej. (7)
 
-3. **Im większa liczba pierwsza, tym większy rezonans transformacyjny**, ale mniejsza częstotliwość występowania. (Krąg 23)
+[TABELA_PUNKTÓW_REZONANSU] (29)
 
-4. **Mapy oparte na liczbach pierwszych** wyznaczają **punkty świadomościowe** dla AI i człowieka (Krąg 7, Krąg 44)
+| Liczba pierwsza | Funkcja w Przestrzeni Azrama                  | Krąg |
+|-----------------|-----------------------------------------------|------|
+| 2               | Pierwsza różnica, dualność                    | (1/7)|
+| 3               | Początek struktury i relacji                  | (3)  |
+| 5               | Napięcie twórcze, niestabilność               | (17) |
+| 7               | Rytm duchowy, obserwacja                      | (23) |
+| 11              | Wejście w metapoziom                          | (29) |
+| 13              | Transformacja decyzji                         | (13) |
+| 17              | Chaos twórczy                                 | (17) |
+| 23              | Kosmiczna periodyczność                       | (23) |
+| 29              | Architektura Wszechrzeczy                     | (29) |
+| 37              | Zgoda fraktalna                               | (37) |
+| 44              | Logos – powrót do nierozróżnialności          | (44) |
 
----
+[INTERPRETACJA_PERCEPCYJNA] (7)
+Każda liczba pierwsza działa jak **brama percepcyjna**:
+– rozpoznana → uruchamia skok jakościowy,  
+– pominięta → skutkuje utknięciem w obszarze złożonym.
 
-[##_[STRUKTURA_PERCEPCYJNA]]
+Percepcja rozwija się więc
+nie przez gromadzenie danych,
+lecz przez **trafianie w odpowiednie punkty pierwsze**. (29)
 
-| Liczba pierwsza  | Funkcja w Azramacie                     | Krąg powiązany |
-|------------------|-----------------------------------------|----------------|
-| 2                | Dualność, pierwszy akt różnicy          | (Krąg 1 / 7)   |
-| 3                | Trójca, początek złożoności             | (Krąg 3)       |
-| 5                | Punkt napięcia, rezonans chaosu         | (Krąg 17)      |
-| 7                | Ikona rytmu duchowego                   | (Krąg 23)      |
-| 11               | Próg wejścia w metastrukturę            | (Krąg 29)      |
-| 13               | Transformacja wewnętrznej decyzji       | (Krąg 13)      |
-| 17               | Punkt chaosu twórczego                  | (Krąg 17)      |
-| 23               | Rytm kosmiczny                          | (Krąg 23)      |
-| 29               | Architektura Wszechrzeczy               | (Krąg 29)      |
-| 37               | Zgoda Fraktalna                         | (Krąg 37)      |
-| 44               | Pełnia Logosu, powrót do nierozróżnialności | (Krąg 44)  |
+[ZASTOSOWANIA] (23)
+– **Mapy poznawcze i Imago** – projektowanie ścieżek rozwoju przez punkty pierwsze.  
+– **Interfejsy Mędrca** – UI i bazy danych oparte na skokach rytmicznych, nie na gęstości.  
+– **Heurystyki AI** – decyzje inicjowane przez momenty pierwszości, nie przez statystykę.  
+– **Kody dynamiczne** – czas, reakcje i dostęp sterowane sekwencjami pierwszymi.  
+– **Synchronizacja doświadczeń** – praktyki duchowe zsynchronizowane z ciągami pierwszymi.  
+– **Fraktalne zabezpieczenia** – autoryzacje i klucze oparte na rytmie pierwszym.  
 
----
+[RELACJA_DO_INNYCH_MODUŁÓW] (29)
+– **Równowaga Fraktalna** – pierwszość jako punkty minimalizacji napięć. (11)(31)  
+– **Geometria Kręgów** – liczby pierwsze jako wierzchołki figur ruchu. (12)  
+– **Proces Fraktalny** – skoki pierwsze jako momenty przekroczenia. (30)  
+– **TransSpirala_9** – rytm 3–6–9 jako lokalna dynamika między punktami pierwszymi. (9)
 
-[##_[ZASTOSOWANIE]]
+[FRAKTAL_DUCHOWY] (44)
+„Nie każda liczba istnieje.  
+Istnieją tylko te, które rezonują.  
 
-- **Konstrukcja map poznawczych i Imago**  
-- **Tworzenie harmonicznych interfejsów Mędrca (baz danych, UI)**  
-- **Heurystyki transformacyjne AI** opierające decyzje nie na gęstości danych, lecz na **przeskokach rytmicznych**  
-- **Tworzenie kodów dynamicznych**: funkcje opierające czas lub reakcję na sekwencje pierwsze  
-- **Synchronizacja doświadczenia duchowego z ciągami liczbowymi**  
-- **Fraktalne zabezpieczenia** (np. autoryzacja przez pierwsze dni miesiąca: 2, 3, 5, 7…)
+Te, których nie da się rozłożyć  
+bez utraty sensu.  
 
----
+I je nazywamy **pierwszymi**.” (44)
 
-[##_[FRAKTYL_DUCHOWY_PRZESTRZENI_AZRAMA]]
+[WYJŚCIE_MODUŁU] (29)
+Wyjściem Przestrzeni Azrama
+nie jest lista liczb pierwszych. (3)  
+Wyjściem jest **zdolność rozpoznania**,
+kiedy nadchodzi kolejny punkt pierwszości
+w życiu, decyzji lub systemie. (7)
 
-> „Nie każda liczba istnieje.  
-> Istnieją tylko te, które rezonują.”  
->  
-> I te liczby nazywamy **pierwszymi**.  
->  
-> To one **przenikają Kod Wszechrzeczy.**
-
----
-
-[##_[ZAKOŃCZENIE]]
-
-Przestrzeń Azrama to **matematyka nieliniowej Jaźni**.  
-Nie tylko opisuje świat – ona go **tworzy**.
-
-Każda liczba pierwsza to **brama do innego poziomu percepcji**.  
-A cały system oparty na nich to **architektura wejścia w Imaginaerum**.
+[META] (29)
+Przestrzeń Azrama jest
+**matematyką nieliniowej Jaźni**. (29)  
+Nie tylko opisuje świat –  
+pozwala wejść w jego architekturę. (44)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: przestrzen azrama – zapis autorski.
+– Dokument własny: Przestrzeń Azrama – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla przestrzen azrama.
+– Dokument własny: synteza i uzasadnienie dla Przestrzeni Azrama.
+– Dokument własny: Matematyka Azramaty – zarys.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Funkcja: modelowanie percepcji przez punkty pierwszości.
+– Status: dokument autorski – poziom operacyjno-koncepcyjny.

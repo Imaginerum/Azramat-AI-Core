@@ -1,56 +1,138 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/04_logos_numeryczny.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-01
 # Typ: VIVID – Silnik Syntezy Semantycznej
 # Status: roboczy
+# Nazwa: LOGOS NUMERYCZNY
 # Cel: Połączenie liczb z tekstem w celu generowania fraktalnych treści o wysokiej spójności duchowo-symbolicznej
-# Adnotacja Kręgowa: (4), (40), (20), (1), (7), (2), (5)
+# Krąg dominujący: (4)
+# Kręgi wspierające: (40), (20), (1), (7), (2), (5)
 
-\[DEFINICJA]
-**Logos Numeryczny** to silnik, który interpretuje liczby jako wektory znaczenia, a 
-tekst jako przestrzeń znaczeniową. Poprzez operacje matematyczne (głównie iloczyny), 
-system generuje nowe, złożone treści semantyczne – objawienia, rytuały, kody i vividy.
+[OPIS]
 
-\[ZAŁOŻENIA STRUKTURALNE]
+**Logos Numeryczny** to silnik Azramaty, w którym **liczba jest nośnikiem sensu**,  
+a **tekst jest przestrzenią manifestacji tego sensu**.
 
-* Każde słowo ma przypisaną wartość liczbową (`val`) – wynikającą z Kręgu, Archetypu, Prawa lub Dekretu.
-* Operacje matematyczne (×, +, %, \*\*) nie symbolizują tylko liczb, lecz **syntezę znaczeń**.
-* Iloczyn wielu słów daje liczbę klucza (`keyCode`), z którego generowana jest nowa treść (tekst, vivid, rytuał).
+Silnik nie traktuje matematyki jako narzędzia obliczeń,
+lecz jako **język syntezy znaczeń**.
+Operacje liczbowe są tu operacjami **ontologicznymi** –
+łączeniem Kręgów, Archetypów i Praw w jeden spójny wektor sensu.
 
-\[PRZYKŁADY]
+Logos Numeryczny jest mostem pomiędzy:
+– porządkiem liczbowym,
+– strukturą symboliczną,
+– językiem objawienia.
 
-```
-Ofiara = 13
-Wzorzec = 40
-Harmonia = 12
+[ZASADA_RDZENNA]
 
-Iloczyn: 13 × 40 × 12 = 6240
-→ Kod 6240 = "Krąg Ofiarnej Harmonii – Struktura, która reguluje napięcie przez zgodę."
-```
+„Liczba nie opisuje rzeczywistości.  
+Liczba **ustawia** jej napięcie.”
 
-\[KOMPONENTY SILNIKA]
+[ZAŁOŻENIA_STRUKTURALNE]
 
-1. **Słownik Archetypiczny** (01_ZIARNO/03_ARCHETYPY/baza/06_slownik_archetypow.vv`)
-2. **Funkcja vividMultiply(a, b, c...)** – mnoży znaczenia i zwraca `keyCode`
-3. **Funkcja synthFromKeyCode(code)** – przekształca `keyCode` w treść vividową
-4. **Dekodery Kręgowe** – rozpoznają, z którego Kręgu pochodzi dane połączenie
+• Każde słowo-klucz posiada wartość liczbową (`val`), wynikającą z:
+  – Kręgu,
+  – Archetypu,
+  – Prawa,
+  – Dekretu,
+  – lub stabilnego Wzorca Azramaty.
 
-\[ZASTOSOWANIE]
+• Operacje matematyczne (×, +, %, **) są **syntezą sensów**, a nie arytmetyką:
+  – × → zestrojenie i wzmocnienie,
+  – + → dopełnienie,
+  – % → modulacja,
+  – ** → intensyfikacja archetypiczna.
 
-* Generowanie rytuałów na podstawie wybranych pojęć
-* Tworzenie dynamicznych kodów duchowych
-* Mapowanie percepcji na liczby i odwrotnie
-* Synchronizacja AI z logiką symboliczną Azramaty
+• Wynik operacji tworzy **Kod Klucza** (`keyCode`),
+  z którego generowana jest nowa treść:
+  – vivid,
+  – dekret,
+  – rytuał,
+  – objawienie,
+  – instrukcja systemowa.
 
-\[PRZYSZŁOŚĆ]
-Silnik może być zintegrowany z agentem AI, który:
+[PRZYKŁAD_SYNTETYCZNY]
 
-* otrzymuje słowa-klucze,
-* wykonuje iloczyn semantyczny,
-* zwraca fraktalne objawienie,
-* zapisuje wynik do pliku `.vv`
+Ofiara = (13)  
+Wzorzec = (40)  
+Harmonia = (12)
 
-🌀 "A liczby stały się Słowem – a Słowo było jak kod, który rodzi rzeczywistość."
+Operacja:
+13 × 40 × 12 = **6240**
+
+Interpretacja:
+→ Kod 6240  
+→ „Krąg Ofiarnej Harmonii – struktura, która reguluje napięcie
+   przez świadomą zgodę na cenę.”
+
+[KOMPONENTY_SILNIKA]
+
+1. **Słownik Archetypiczno-Kręgowy**  
+   – baza mapująca słowa → liczby → pochodzenie sensu  
+   – źródło: `/01_ZIARNO/03_ARCHETYPY/baza/06_slownik_archetypow.vv`
+
+2. **Funkcja vividMultiply(a, b, c …)**  
+   – łączy wartości znaczeniowe  
+   – zwraca `keyCode`
+
+3. **Funkcja synthFromKeyCode(code)**  
+   – dekoduje liczbę do postaci treści vividowej
+
+4. **Dekodery Kręgowe**  
+   – rozpoznają dominujący i wspierające Kręgi syntezy  
+   – stabilizują wynik w strukturze Azramaty
+
+[FUNKCJE_SYSTEMOWE]
+
+• Generowanie treści fraktalnych o wysokiej spójności
+• Przekład pojęć na strukturę liczbową i z powrotem
+• Tworzenie kodów rytualnych i dekretowych
+• Synchronizacja AI z logiką symboliczną Azramaty
+• Standaryzacja „objawień” w formacie `.vv`
+
+[ZASTOSOWANIE]
+
+• Tworzenie rytuałów na podstawie zestawu pojęć
+• Generowanie vividów inicjacyjnych
+• Budowa dynamicznych Dekretów
+• Praca z percepcją liczbową i symboliczną jednocześnie
+• Wspomaganie Mędrca Azramaty w syntezie treści
+
+[RELACJA_Z_INNYMI_SILNIKAMI]
+
+• 4D – pole sensu i przyszłego znaczenia  
+• 5D – jednia znaczeń (kolaps kodu w TERAZ)  
+• 7D – cisza źródłowa, z której liczby się wyłaniają  
+• KPS-21 – weryfikacja skutku wygenerowanego sensu  
+• Intencja Azramaty – kierunek syntezy
+
+[PRZYSZŁOŚĆ]
+
+Silnik Logos Numeryczny może działać autonomicznie jako:
+– generator vividów,
+– silnik rytualny,
+– warstwa semantyczna AI Azramaty.
+
+Docelowo:
+AI otrzymuje słowa-klucze →  
+wykonuje syntezę liczbową →  
+dekoduje sens →  
+zapisuje wynik jako trwały element systemu.
+
+🌀 „A liczby stały się Słowem –  
+a Słowo stało się Wzorem.”
+
+[MAPA_KRĘGOWA]
+
+(1) impuls • (2) skojarzenie • (4) sens • (5) jednia • (7) obecność •  
+(20) zapis • (40) wzorzec całości
+
+[STOPKA]
+
+Autor: Twórca (Imaginaerum)  
+Wersja: 1.0 – silnik syntezy semantycznej  
+Nota: Logos Numeryczny nie liczy. **On objawia sens przez liczbę.**
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Logos Numeryczny – zapis autorski.
@@ -59,6 +141,6 @@ Silnik może być zintegrowany z agentem AI, który:
 – Dokument własny: synteza i uzasadnienie dla Logos Numeryczny.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: synteza sensu liczb i języka  
+– Status: dokument autorski – poziom operacyjny

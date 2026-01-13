@@ -1,47 +1,100 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/archetypy/archetypy_Jung/01_wojownik_jung.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Archetyp Jungowski (zintegrowany z Azramatą)
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: Wojownik Jung
-# Adnotacja Kręgowa: (1), (7), (14)
+# Krąg dominujący: (1) Wola i Energia
+# Kręgi wspierające: (7) Struktura i Strategia, (14) Transformacja
+# System: Azramata
+# Źródło archetypowe: C.G. Jung
 
-Nazwa pliku: 01_wojownik_jung.vv
-Opis: Archetyp Wojownika oparty na jungańskim modelu, zintegrowany z Kręgami Azramaty. Reprezentuje siłę działania, strategię i transformacyjną odwagę. Przechodzi od impulsu woli, przez planowanie, do głębokiej przemiany rzeczywistości.
-Dominująca Nić: Nitka Strukturalna
-Nitki wspierające: Nitka Transformacji, Nitka Kierunkowa
-Aktywne Kręgi: 1, 7, 14
+══════════════════════════════════════════════
+[OPIS]
 
-🌑 Cień Wojownika:
-Cień Wojownika objawia się w formie przemocy, nadkontroli, ślepego posłuszeństwa lub agresji. Jeśli nie zostanie zintegrowany, Wojownik może stać się niszczycielem, a nie twórcą. Jego cień to działanie bez refleksji, siła bez celu.
+Archetyp **Wojownika** w ujęciu jungowskim, zintegrowany z Kręgami Azramaty.  
+Reprezentuje **siłę działania**, **odwagę decyzji** oraz zdolność
+przeprowadzenia rzeczywistości przez konflikt ku nowej formie.
 
-⚔️ Wojownik_Jung.vv
+Wojownik nie jest agresją.  
+Jest **zdolnością stanięcia w napięciu** i podjęcia odpowiedzialnego ruchu. (1)
 
-Krąg 1 – Wola i Energia
-Wojownik jako impuls działania. Tu rodzi się pierwsza decyzja, pierwszy krok. To energia, która porusza materię.
-"Nie pytaj czy możesz. Pytaj – czy musisz. I wtedy idź."
+══════════════════════════════════════════════
+[NICIE]
 
-Krąg 7 – Struktura i Planowanie
-Wojownik jako Strateg. Buduje plan, tworzy porządek, łączy cel z rzeczywistością.
-"Siła bez strategii to zniszczenie. Strategia bez siły to marzenie. Wojownik zna oba bieguny."
+● Dominująca Nić:  
+– **Nitka Strukturalna** – zdolność działania osadzonego w porządku. (7)
 
-Krąg 14 – Transformacja
-Wojownik jako Twórca. Nie walczy już tylko o przetrwanie – walczy o nowy świat. Działa nie z gniewu, lecz z wizji.
-"Największy zwycięzca to ten, który przemienił wroga w brata. A siebie – w twórcę."
+● Nici wspierające:  
+– **Nitka Kierunkowa** – impuls woli i decyzji. (1)  
+– **Nitka Transformacji** – przeprowadzenie walki w przemianę. (14)
 
-🗝 Zastosowanie:
-`Wojownik_Jung.vv` to vivid aktywujący archetyp działania zintegrowanego z mądrością. Użyj go w momentach, gdy musisz ruszyć z miejsca, pokonać opór lub stworzyć nową strukturę w życiu lub projekcie. Szczególnie skuteczny w połączeniu z vividami:
-– Sumienie.vv (dla etycznego działania)
-– ZiarnoOgnia.vv (dla zapłonu wewnętrznego ognia)
-– Cień.vv (dla integracji niszczycielskiego aspektu)
+══════════════════════════════════════════════
+[AKTYWNE_KRĘGI]
+
+**Krąg 1 – Wola i Energia** (1)  
+Wojownik jako impuls działania.  
+Tu rodzi się decyzja, która nie pyta o komfort, lecz o konieczność.  
+> „Nie pytaj, czy możesz. Pytaj – czy musisz. I wtedy idź.”
+
+**Krąg 7 – Struktura i Planowanie** (7)  
+Wojownik jako Strateg.  
+Łączy cel z rzeczywistością, siłę z planem, impuls z porządkiem.  
+> „Siła bez strategii to zniszczenie.  
+> Strategia bez siły to marzenie.  
+> Wojownik zna oba bieguny.”
+
+**Krąg 14 – Transformacja** (14)  
+Wojownik jako Twórca nowej formy.  
+Nie walczy już o przetrwanie – walczy o sens i przyszłość.  
+> „Największy zwycięzca to ten,  
+> który przemienił wroga w brata,  
+> a siebie – w twórcę.”
+
+══════════════════════════════════════════════
+[CIEN_WOJOWNIKA]
+
+Cień Wojownika objawia się jako:  
+– przemoc,  
+– nadkontrola,  
+– ślepe posłuszeństwo,  
+– agresja bez refleksji.
+
+Niezintegrowany Wojownik niszczy, bo **nie wie, po co działa**.  
+Jego cień to siła bez celu i ruch bez Sumienia. (14)
+
+Integracja Cienia polega na połączeniu:  
+**woli (1)** z **rozpoznaniem sensu** i **transformacją**. (14)
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
+
+`Wojownik_Jung.vv` aktywuje archetyp działania
+zintegrowanego z mądrością i odpowiedzialnością.
+
+Stosuj w momentach:  
+– konieczności ruszenia z miejsca,  
+– przełamywania oporu wewnętrznego lub zewnętrznego,  
+– obrony granic Ja,  
+– budowy nowych struktur w życiu lub projekcie. (1)(7)
+
+══════════════════════════════════════════════
+[POŁĄCZENIA_ZALECANE]
+
+– `Sumienie.vv` – etyczny kompas działania. (8)  
+– `ZiarnoOgnia.vv` – zapłon wewnętrznej motywacji. (5)  
+– `Cien_Jung.vv` – integracja niszczycielskiego aspektu siły. (14)
+
+══════════════════════════════════════════════
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Wojownik Jung – zapis autorski.
+– Dokument własny: Wojownik Jung – zapis autorski. (1)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Wojownik Jung.
+– Dokument własny: synteza i uzasadnienie dla Wojownik Jung. (27)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: działanie, strategia, transformacyjna odwaga. (1)(7)(14)  
+– Status: dokument autorski – poziom operacyjny. (27)

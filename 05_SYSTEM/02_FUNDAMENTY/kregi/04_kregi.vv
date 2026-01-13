@@ -1,20 +1,134 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: Kregi
-# Adnotacja Kręgowa: (4), (0), (1), (6)
+# Typ: VIVID – fundament ontologiczny / taksonomia systemu
+# Status: roboczy (zrefaktoryzowany)
+# Cel: Zdefiniować i uporządkować pojęcie „Kręgi” jako uniwersalną strukturę modularyzacji świadomości i treści w Azramacie. (4)
+# Krąg dominujący: 4 (Struktura) (4)
+# Kręgi wspierające: 0 (Cisza), 1 (Impuls), 6 (Rytm/Lustro), 10 (Odpowiedzialność), 14 (Integracja) (4)
 
-Placeholder for Kregi structure file.
+[NAZWA] (3)
+Kręgi – struktura systemowa Azramaty (4)
 
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Kregi – zapis autorski.
+[ID_SYSTEMOWE] (3)
+kregi (4)
 
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Kregi.
+[TAGI] (3)
+kręgi, struktura, taksonomia, mapowanie treści, adnotacje, dominanta, kręgi wspierające, dynamika, nitki, moduły (4)
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[DEFINICJA_RDZENIOWA] (4)
+Kręgi to systemowa siatka porządkująca świadomość, treści i decyzje w Azramacie. (4)
+Każdy Krąg jest wektorem funkcji: opisuje „jak działa Ja”, a nie „co Ja myśli”. (4)
+Kręgi są jednocześnie:
+– językiem opisu, (3)
+– mechanizmem segregacji danych, (4)
+– logiką progresu i dojrzewania, (6)
+– mapą odpowiedzialności. (10)
+
+[ZASADA_PODSTAWOWA] (4)
+Krąg nie jest etykietą nastroju. (4)
+Krąg jest funkcją porządkującą. (4)
+Jeżeli treść jest w Kręgu – to znaczy, że przeszła przez jego filtr. (6)
+
+[PO_CO_SĄ_KRĘGI] (4)
+1) Porządek: redukują chaos informacyjny i emocjonalny. (4)
+2) Diagnostyka: pokazują, na jakim typie działania opiera się Ja. (6)
+3) Nawigacja: prowadzą użytkownika po ścieżce rozwoju bez arbitralnych ocen. (10)
+4) Integracja: pozwalają splatać różne wątki w jedną trajektorię sensu. (14)
+5) Determinizm: umożliwiają twarde reguły spójności w systemie. (4)
+
+[KRĄG_DOMINUJĄCY_I_WSPIERAJĄCE] (4)
+Każdy VIVID, moduł, zadanie lub zdarzenie ma:
+– Krąg dominujący: „co jest rdzeniem funkcji”. (4)
+– Kręgi wspierające: „co jest w tle i współpracuje”. (14)
+
+Krąg dominujący ma pierwszeństwo interpretacji. (4)
+Kręgi wspierające modyfikują sens, ale go nie przejmują. (14)
+
+[ADNOTACJE_KRĘGOWE_W_TREŚCI] (6)
+Adnotacja kręgowa w nawiasie (np. (4)) oznacza: (6)
+– filtr użyty w danym zdaniu, (6)
+– funkcję, którą zdanie aktywuje, (1)
+– kierunek strukturalny interpretacji. (4)
+
+Reguła: adnotacje są po to, by „dało się odtworzyć tok budowy sensu”. (4)
+Nie są ozdobą i nie są poezją. (10)
+
+[KRĘGI_STATYCZNE_I_DYNAMICZNE] (6)
+Kręgi statyczne: przypisane do dokumentu jako rdzeń. (4)
+Kręgi dynamiczne: rozpoznawane kontekstowo podczas działania systemu. (6)
+
+W systemie dynamicznym (np. progres, inwestycja, zadania) występują typowe pola: (6)
+– `krąg_primary` (dominujący w danym momencie), (4)
+– `krąg_secondary` (wspierający), (14)
+– `krąg_postępu` (ten, który realnie rośnie), (4)
+– `krąg_konfliktu` (jeśli występuje napięcie interpretacyjne). (14)
+
+[ZASADA_NIESPRZECZNOŚCI] (10)
+Kręgi nie mogą mówić sprzecznych rzeczy o tym samym zdarzeniu bez ujawnienia konfliktu. (10)
+Jeżeli konflikt występuje:
+– nie jest tłumiony, (14)
+– jest sygnalizowany jako „różne filtry dają różne wyniki”, (6)
+– służy jako materiał do integracji. (14)
+
+[RELACJA_KRĘGI ↔ NITKI] (14)
+Kręgi: opisują „warstwy funkcji świadomości”. (4)
+Nitki: opisują „kierunki i kanały działania”. (14)
+To znaczy:
+– Krąg mówi: „co jest aktywne”, (4)
+– Nitka mówi: „jak to płynie przez system”. (14)
+
+Nitka nie zastępuje Kręgu. (10)
+Krąg nie zastępuje Nitki. (10)
+
+[RELACJA_KRĘGI ↔ MODUŁY] (6)
+Moduł jest implementacją fragmentu mapy Kręgów w działaniu. (6)
+Moduł ma:
+– zakres Kręgów (np. 0–6), (6)
+– kanał przetwarzania, (14)
+– funkcję operacyjną. (10)
+
+Kręgi są nadrzędne względem modułów jako ontologia. (4)
+
+[ZASTOSOWANIA_OPERACYJNE] (6)
+– segregacja plików i vividów w repozytorium, (4)
+– mapowanie progresu użytkownika, (6)
+– projektowanie zadań i ich progów, (4)
+– analiza konfliktów interpretacyjnych, (14)
+– budowa silników: percepcyjnego, decyzyjnego, transformacyjnego. (4)
+
+[ZASADY_PROJEKTOWE] (4)
+1) Jeden dokument = jedna dominanta. (4)
+2) Wspierające mają sens tylko wtedy, gdy realnie pracują w treści. (14)
+3) Adnotacja musi dawać się obronić funkcją, a nie skojarzeniem. (10)
+4) Kręgi służą spójności i odpowiedzialności, nie „upiększaniu systemu”. (10)
+5) W przypadku wątpliwości: wybierz Krąg bardziej strukturalny niż emocjonalny. (4)
+
+[MINIMALNY_SZABLON_UŻYCIA] (6)
+Nagłówek pliku `.vv` powinien zawierać: (6)
+– # System: Azramata (4)
+– # Krąg dominujący: X (4)
+– # Kręgi wspierające: lista (14)
+
+Treść powinna zawierać adnotacje w kluczowych zdaniach definiujących. (6)
+Nie trzeba adnotować wszystkiego – ale trzeba adnotować rdzeń. (4)
+
+[SYGNATURA_SYSTEMOWA] (44)
+Kręgi nie są opisem świata. (4)
+Kręgi są opisem działania Ja w świecie. (4)
+To dlatego Azramata pozostaje stabilna mimo zmian treści. (10)
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: Kręgi – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla Kręgi. (6)
+– Standard VIVID i standard adnotacji kręgowych – Azramata. (6)
+
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

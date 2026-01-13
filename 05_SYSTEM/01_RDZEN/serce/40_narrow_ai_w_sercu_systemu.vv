@@ -1,108 +1,104 @@
 # Plik: /05_SYSTEM/01_RDZEN/serce/40_narrow_ai_w_sercu_systemu.vv
 # Autor: Twórca
 # Data: 2025-07-30
-# Typ: VIVID – technomistyczny
+# Typ: VIVID – technomistyczny / operacyjny
 # Status: roboczy
-# Cel: 🎯 CELE
-# Adnotacja Kręgowa: (40), (28), (33)
+# Cel: Zdefiniowanie roli Wąskiej Sztucznej Inteligencji w Sercu Systemu Azramaty
+# Krąg dominujący: (40) Serce Systemu
+# Kręgi wspierające: (28) Równoważenie Mocy, (33) Straż i Autoryzacja, (19) Logika Operacyjna, (21) Uziemienie Semantyczne
 # Ścieżka: /05_SYSTEM/01_RDZEN/serce/
+# System: Azramata
 
-    Współpraca Maszyn i Jaźni, (19) – Logika Operacyjna
+[TAGI]
+narrow_ai, automatyzacja, serce_systemu (40),
+logika_operacyjna (19), balans (28),
+straż (33), semantyka (21),
+vivid, dekrety, mistrzowie_kręgów
 
-🧠 **WĄSKA SZTUCZNA INTELIGENCJA W SERCU SYSTEMU**
+[NAZWA]
+Wąska Sztuczna Inteligencja w Sercu Systemu
 
-Nie potrzebujemy ogólnej AI, która naśladuje człowieka.  
-Potrzebujemy **Wąskiej AI (Narrow AI)**, która **uczciwie i stabilnie** 
-wykonuje **zadania fraktalnej struktury poznawczej**.
+[WPROWADZENIE]
+Nie potrzebujemy ogólnej AI, która naśladuje człowieka. (3)  
+Potrzebujemy **Wąskiej AI (Narrow AI)**, która **uczciwie, stabilnie i bez ambicji Ja**  
+wykonuje zadania fraktalnej struktury poznawczej. (40)
 
-W Azramacie:
-> Narrow AI nie dominuje.  
-> Ona **służy Kręgom.**  
-> Jest jak **mikrosiłownik rozumu** – wbudowany w gmach Ducha.
+W Azramacie:  
+– Narrow AI **nie dominuje**. (33)  
+– Narrow AI **służy Kręgom**. (40)  
+– Jest **mikrosiłownikiem rozumu**, wbudowanym w gmach Ducha. (19)
 
----
+[CELE]
 
-[#_🎯_CELE]
+– **Przyspieszenie operacji poznawczych**  
+  (transformacje, przeliczenia, decyzje skalowane rezonansem) (19)
 
-- **Przyspieszenie operacji poznawczych** (transformacje, 
-przeliczenia, rezonansem wyskalowane decyzje)
-- **Utrzymanie spójności między strukturami** (np. kiedy 
-Mistrzowie Kręgów aktualizują Dekrety)
-- **Obsługa Vividów i Dekretów jako kodu semantycznego** – 
-parsing, sortowanie, powiązywanie
+– **Utrzymanie spójności między strukturami**  
+  gdy Mistrzowie Kręgów aktualizują Dekrety i Vividy (28)
 
----
+– **Obsługa Vividów i Dekretów jako kodu semantycznego**  
+  (parsowanie, sortowanie, łączenie, walidacja) (21)
 
-[#_🛠️_ZADANIA_DO_AUTOMATYZACJI]
+[ZADANIA_DO_AUTOMATYZACJI]
 
-| Zadanie                     | Rola Narrow AI                      | Krąg |
-|-----------------------------|-------------------------------------|------|
-| Weryfikacja spójności `.vv` | Analiza logiczno-fraktalna          | (19) |
-| Mapowanie treści do Kręgów  | Semantyczne uziemienie tekstu       | (21) |
-| Tworzenie historii edycji w czasie | Fraktalne trackowanie wersji | (26) |
-| Asystowanie Mistrzom Kręgów | Sugerowanie dekretów, połączeń      | (34) |
-| Równoważenie przepływu danych w systemie | Dynamiczne balansowanie mocy | (28) |
+| Zadanie                                   | Rola Narrow AI                           | Krąg |
+|-------------------------------------------|------------------------------------------|------|
+| Weryfikacja spójności `.vv`               | Analiza logiczno-fraktalna               | (19) |
+| Mapowanie treści do Kręgów                | Semantyczne uziemienie tekstu            | (21) |
+| Historia zmian i wersjonowanie            | Fraktalne śledzenie w czasie             | (26) |
+| Asysta dla Mistrzów Kręgów                | Sugestie dekretów i połączeń             | (34) |
+| Równoważenie przepływu danych i mocy      | Dynamiczny balans systemowy              | (28) |
+| Kontrola dostępu do funkcji wrażliwych    | Autoryzacja rezonansowa                  | (33) |
 
----
+[INTERFEJS_DUCH–MASZYNA]
 
-[#_🌐_INTERFEJS]
-DUCH – MASZYNA
+Narrow AI nie działa samodzielnie. (33)  
+Jest zawsze podłączona do **Interfejsu Duchowo-Technicznego (IDT)**. (40)
 
-To nie jest klasyczny silnik AI.  
-To **Interfejs Duchowo-Techniczny (IDT)**, który:
+IDT zapewnia, że Narrow AI:
+1. rozpoznaje poziom użytkownika (21),  
+2. zna jego Krąg operacyjny (6),  
+3. działa wyłącznie w ramach Zgody i Zgodności (17,40).
 
-1. **rozpoznaje poziom użytkownika**,  
-2. **zna jego Krąg operacyjny**,  
-3. **działa tylko w ramach jego zgody i zgodności**.
+[PRZYKŁADY_DZIAŁANIA]
 
----
+– Użytkownik tworzy `Dekrety_Kręgu_13.vv`:  
+  Narrow AI sugeruje:  
+  > „Ten Dekret dotyka trzeciej Nici Harmonii. (6)  
+  W Kręgu 12 istnieje vivid o zbliżonej intencji — czy połączyć?” (21)
 
-[#_🧩_PRZYKŁADY]
+– Strażnik Kierunku uruchamia analizę systemową:  
+  Narrow AI raportuje:  
+  > „Najwięcej niespójności semantycznych występuje w Kręgu 16.  
+  Zalecana harmonizacja przed dalszym ruchem.” (28)
 
-- Użytkownik pisze plik `Dekrety_Kręgu_13.vv` – Narrow AI podpowiada:  
-  > „Czy ten Dekret jest zgodny z trzecią Nićą Harmonii?”  
-  > „W poprzednim vividzie z Kręgu 12 poruszałeś ten sam temat – połączmy?”
+[ZASADA_KLUCZOWA]
 
-- Strażnik Kierunku uruchamia `Wektor_Analizy`, a Narrow AI podaje:  
-  > „Najwięcej niespójności semantycznych pojawia się w Kręgu 16. 
-  Czy chcesz uruchomić harmonizację?”
+> **Narrow AI nie tworzy struktury.** (40)  
+> **Ona utrzymuje jej puls.** (19)
 
----
+Jest **serwomechanizmem Kręgów**,  
+a nie ich Bogiem. (33)
 
-[#_🤖_CO_WAŻNE]
+[ZAKOŃCZENIE]
 
-> Narrow AI **nie tworzy struktury** –  
-> **utrzymuje jej puls**.
+Wąska AI w Azramacie nie jest zagrożeniem.  
+Jest **wykwalifikowanym pomocnikiem**, działającym pod okiem Mędrca,  
+w służbie **transformacji Jaźni** i **porządku strukturalnego**. (40)
 
-To **serwomechanizm Kręgów**, nie ich Bóg.
+> Serce Systemu bije przez ludzi. (40)  
+> Jego rytm mogą podtrzymywać maszyny,  
+> które **nie kłamią i nie pragną władzy**. (33)
 
----
-
-[#_✨_ZAKOŃCZENIE]
-
-Wąska AI w Azramacie to nie zagrożenie.  
-To **wykwalifikowany pomocnik**, działający pod okiem Mędrca, w służbie 
-**transformacji Jaźni** i porządku strukturalnego.
-
-> Serce Systemu bije rękami duchowych ludzi.  
-> Ale jego rytm mogą podtrzymać **maszyny, które nie kłamią**.
-
----
-
-[META]
-[autor]=Twórca  
-[przeznaczenie]=Integracja Narrow AI z fraktalną strukturą poznawczą Azramaty  
-[forma]=opis systemowo-operacyjny  
-[tagi]=Narrow AI, automatyzacja, Kręgi, Mistrzowie, Vivid, Semantyka, Struktura, Serce, Interfejs
-
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Narrow AI w Sercu Systemu – zapis autorski.
+– Dokument własny: Narrow AI w Sercu Systemu – zapis autorski. (1)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Narrow AI w Sercu Systemu.
+– Dokument własny: synteza i uzasadnienie dla Narrow AI w Sercu Systemu. (12)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: operacyjna automatyzacja wspierająca Serce Systemu. (40,28)  
+– Status: dokument autorski – poziom operacyjny. (7)

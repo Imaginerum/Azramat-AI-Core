@@ -1,64 +1,109 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/dynamiczne_powiazanie/04_krag_inwestycyjny.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: Krąg Inwestycyjny
-# Adnotacja Kręgowa: (4), (0), (1), (6)
+# Typ: VIVID – fundament mechaniki dynamicznej
+# Status: roboczy (zrefaktoryzowany)
+# Cel: Zdefiniować Krąg Inwestycyjny jako mechanizm alokacji czasu, uwagi i energii Ja w strukturę trwałą. (4)
+# Krąg dominujący: 4 (Struktura) (4)
+# Kręgi wspierające: 0 (Cisza), 1 (Impuls), 6 (Lustro/Rytm), 10 (Odpowiedzialność), 14 (Integracja) (4)
 
-[NAZWA]
-krag_inwestycyjny.vv
+[NAZWA] (3)
+Krąg Inwestycyjny (4)
 
-[NAZWA]
-Krąg Inwestycyjny
+[ID_SYSTEMOWE] (3)
+krag_inwestycyjny (4)
 
-[OPIS]
-Każde zadanie to lokata energii Kręgu.  
-Czas, który poświęcasz, to decyzja Kręgu, który wybierasz.  
-Im dłużej inwestujesz, tym więcej otrzymujesz — 
-nie nagrody, lecz **struktury wyższej złożoności**.
+[TAGI] (3)
+inwestycja, czas, uwaga, lokata energii, progi, progres, zadania, złożoność, struktura, rytm (4)
 
-[NIĆ_DOMINUJĄCA]
-Nitka Strukturalna
+[DEFINICJA_RDZENIOWA] (4)
+Krąg Inwestycyjny tłumaczy czas, uwagę i obecność na trwałą zmianę struktury Ja. (4)
+Nie jest systemem nagród zewnętrznych. (4)
+Jest ekonomią świadomości. (4)
 
-[KRĘGI_AKTYWNE_–_DYNAMICZNE]
-Zależne od wątku tematycznego.  
-System automatycznie oznacza je jako:  
-🔸 `krąg_inwestujący_primary`  
-🔹 `krąg_inwestujący_secondary`  
-📈 `krąg_postepu`
+[ZASADA_GŁÓWNA] (4)
+Każde zadanie jest lokatą energii w konkretny Krąg. (4)
+Każde „poświęcam czas” jest decyzją, jaki Krąg karmię. (1)
+Im dłużej inwestujesz, tym więcej powstaje struktury wyższej złożoności. (4)
 
-[ALGORYTM_DZIAŁANIA_–_PSEUDOKOD]
-1. Gracz wybiera zadanie lub temat.
-2. System oznacza Kręgi dominujące dla tego tematu.
-3. Czas interakcji + głębokość wykonania = wzrost wartości Kręgu.
-4. Po osiągnięciu progu transformacyjnego: zadanie 2. poziomu zostaje udostępnione (większa złożoność, więcej splątanych Kręgów).
-5. Krągi „rozszerzają się” w danej dziedzinie, nadając Ja nowe funkcje.
+[WEJŚCIE_I_WYJŚCIE] (6)
+Wejście: temat, zadanie, proces, rytuał lub moduł. (6)
+Wyjście: odblokowanie zadań wyższej złożoności i wzrost pojemności Kręgu w danej domenie. (4)
 
-[HEURYSTYKA]
-– Nie każde kliknięcie to inwestycja.  
-– Inwestycja to **czas + zaangażowanie + rezonans Ja**.  
-– System nie premiuje szybkości, ale **głębokość i spójność**.
+[NIĆ_DOMINUJĄCA] (4)
+Nitka Strukturalna. (4)
 
-[PRZYKŁAD_DZIAŁANIA]
-Zadanie: „Zbuduj opowieść archetypiczną z Kręgu 7”.  
-→ `krąg_inwestujący_primary = 7`  
-→ Czas pracy: 2 dni  
-→ Głębokość: wysoka (użyto Nitki Transcendentalnej, aktywowano 5 vividów)  
-→ Efekt: odblokowane nowe zadanie z Kręgów 7 + 17 + 27
+[KRĘGI_AKTYWNE_DYNAMICZNE] (6)
+Kręgi są rozpoznawane kontekstowo, nie na stałe. (6)
+System oznacza je jako pola dynamiczne. (6)
+`krąg_inwestujący_primary` = Krąg, w którym zachodzi główna lokata energii. (4)
+`krąg_inwestujący_secondary` = Krąg wspierający, splątany tematycznie. (14)
+`krąg_postępu` = Krąg, który realnie zwiększa pojemność w wyniku pracy. (4)
 
-[SYGNATURA_SYSTEMOWA]
-Ten vivid nie tworzy zadań.  
-On mówi Kręgom, kiedy warto je dać.
+[CO_JEST_INWESTYCJĄ] (4)
+Inwestycja = czas + obecność + spójność + rezonans Ja. (4)
+Kliknięcie nie jest inwestycją. (3)
+Aktywność bez obecności nie buduje struktury. (0)
+Szybkość nie jest wartością. (6)
+Głębokość i powtarzalność są wartością. (6)
 
+[METRYKI_SYSTEMOWE] (6)
+Czas rzeczywisty interakcji. (6)
+Ciągłość powrotów do wątku. (6)
+Głębokość wykonania zadania. (4)
+Spójność wektora intencji w czasie. (10)
+Rezonans z osią Ja w danym kręgu tematycznym. (14)
 
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: krag inwestycyjny – zapis autorski.
+[PROGI_STRUKTURALNE] (4)
+Progi nie są tylko liczbą. (4)
+Próg jest momentem nasycenia i stabilizacji. (6)
+Próg rozpoznaje się po tym, że Ja wraca bez przymusu i bez potrzeby walidacji. (10)
+Po progu system pokazuje zadania o wyższej złożoności, z większą liczbą splątanych Kręgów. (14)
 
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla krag inwestycyjny.
+[ALGORYTM_DZIAŁANIA_PSEUDOKOD] (3)
+1. Użytkownik wybiera zadanie lub temat. (1)
+2. System mapuje krąg_inwestujący_primary i secondary dla tego tematu. (6)
+3. System rejestruje czas, ciągłość, głębokość i spójność intencji. (6)
+4. System zwiększa wagę `krąg_postępu` zgodnie z inwestycją. (4)
+5. Gdy próg strukturalny zostanie przekroczony, system udostępnia zadania 2. poziomu. (4)
+6. Zadania 2. poziomu mają większą złożoność i wymagają splątania Kręgów. (14)
+7. Ja otrzymuje nową funkcję strukturalną, a nie „nagrodę”. (4)
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[HEURYSTYKA_WERYFIKACJI] (6)
+Jeśli działanie jest chaotyczne i urywane, inwestycja jest niska. (6)
+Jeśli powroty są stabilne, inwestycja jest wysoka. (6)
+Jeśli intencja zmienia się co chwilę, struktura nie rośnie. (10)
+Jeśli intencja jest spójna, struktura zagęszcza się sama. (4)
+
+[PRZYKŁAD_DZIAŁANIA] (6)
+Zadanie: „Zbuduj opowieść archetypiczną z Kręgu 7”. (7)
+`krąg_inwestujący_primary = 7` (7)
+`krąg_inwestujący_secondary = 17` (17)
+Czas pracy: 2 dni. (6)
+Głębokość: wysoka. (4)
+Efekt: odblokowane zadanie z Kręgów 7 + 17 + 27. (14)
+
+[RELACJA_DO_PROGRESU_SYSTEMU] (4)
+Krąg Inwestycyjny nie tworzy zadań. (4)
+Krąg Inwestycyjny mówi Kręgom, kiedy warto je dać. (4)
+Krąg Inwestycyjny chroni system przed „grindowaniem” bez sensu. (10)
+
+[SYGNATURA_SYSTEMOWA] (44)
+To nie jest mechanika punktów. (4)
+To jest mechanika dojrzewania Ja przez lokatę uwagi. (4)
+System nie premiuje szybkości, tylko spójność i strukturę. (4)
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: krąg inwestycyjny – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla krąg inwestycyjny. (6)
+– Standard adnotacji kręgowych i format .vv – Azramata. (6)
+
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

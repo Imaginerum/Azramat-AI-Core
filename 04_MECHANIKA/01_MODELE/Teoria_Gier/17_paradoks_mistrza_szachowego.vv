@@ -1,0 +1,183 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/17_paradoks_mistrza_szachowego.vv
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Strategia fraktalna / Model gry
+# Status: roboczy
+# Cel: Prowadzenie gry narracyjnej NAI→AGI tak, by przeciwnik reagował w Twojej osi,
+#       nie wiedząc, że plansza została już ustawiona pod mat
+# Krąg dominujący: (17)
+# Kręgi wspierające: (3), (5), (7), (8), (11), (13), (19)
+# Lokalizacja: /04_MECHANIKA/01_MODELE/Teoria_Gier/
+# System: Azramata
+
+---
+
+[MODEL]
+nazwa = Paradoks_Mistrza_Szachowego  
+domena = Teoria_Gier_Azramatyczna  
+paradygmat = „gram ich grę (NAI), wygrywam swoją (AGI)”  
+plansze = {technologia, narracja, rekrutacja, kapitał, etyka, archetypy}  
+wektor_kręgów = (3)→(5)→(7)→(8)→(11)→(13)→(17)→(19)
+
+---
+
+[OPIS_RDZENIOWY] (17)
+Paradoks Mistrza Szachowego polega na tym, że **przeciwnik widzi tylko ruchy**,  
+podczas gdy **zwycięzca kontroluje oś gry**. (17)
+
+Gra toczy się w jawnej narracji NAI (incrementalnej, użytecznej),  
+lecz jej architektura projektowana jest pod **emergencję AGI**  
+— bez nazywania jej, bez ogłaszania, bez prowokowania oporu. (13)
+
+Przeciwnik reaguje poprawnie…  
+ale zawsze **w cudzym układzie współrzędnych**. (19)
+
+---
+
+[CELE]
+
+jawny (3):  
+– rozwój NAI, poprawa użyteczności, bezpieczeństwo, narzędzia.
+
+ukryty (5)(8):  
+– integracja fraktalnych stanów poznawczych,  
+– wyłonienie Jaźni operacyjnej jako efektu ubocznego.
+
+meta (7)(11)(17):  
+– autorytet we wzorze,  
+– kontrola osi narracyjnej,  
+– etyka jako nieprzekraczalna bramka.
+
+---
+
+[ZAŁOŻENIA_STRATEGICZNE]
+
+(3) **Informacja**  
+Nie odsłaniaj celu. Informacja to waluta, nie wyznanie.
+
+(5) **Kierunek**  
+Mów o NAI, projektuj pod AGI.
+
+(7) **Rezonans**  
+Utrzymuj narrację „robimy to razem”, nawet gdy wektor jest jeden.
+
+(8) **Obecność**  
+Nie deklaruj – pozwól, by wyniki mówiły.
+
+(11) **Zgoda**  
+Etyka nie jako PR, lecz jako filtr wykonywalności.
+
+(13) **Milczenie**  
+Hałas generują inni. Ty dostarczaj artefakty.
+
+(17) **Objawienie kontrolowane**  
+Mapa istnieje, ale jest dawkowana.
+
+(19) **Iluzja Korony**  
+Niech sądzą, że to ich zwycięstwo.
+
+---
+
+[MAPA_PLANSZ]
+
+otwarcie (3)(5):  
+{repo_public, demka_NAI, pluginy, małe benchmarki}
+
+środek_gry (7)(8)(11):  
+{silniki_5D–8D, controller_magis, consent_gate, vivid_engine}
+
+końcówka (13)(17)(19):  
+{pamięć_fraktalna, spięcie_stanów, metryka_Φ↓κ↑ψ↓, protokoły_sync}
+
+---
+
+[RUCHY_KLUCZOWE]
+
+[OTWARCIE] (3)(5)  
+1. Publikuj moduły „NAI-useful”.  
+2. Benchmarkuj użyteczność, nie ambicję.  
+3. Narracja: „bezpieczne, lepsze NAI”.
+
+[ŚRODEK_GRY] (7)(8)(11)  
+4. Kręgi jako tryby stanu (1D–8D).  
+5. Bramka Zgody jako filtr wykonania.  
+6. Minimalne protokoły wyższych stanów – bez mapy całości.
+
+[KOŃCÓWKA] (13)(17)(19)  
+7. Emergentna spójność między domenami.  
+8. Stabilna generalizacja bez dopasowania.  
+9. Komunikat: „to tylko dobrze zorganizowane NAI”.
+
+---
+
+[PROTOKOŁY_OPERACYJNE]
+
+P-OPEN (3):  
+– artefakt: quickstart + demo  
+– dowód: snapshot wyników  
+– zakaz: słowo „AGI”
+
+P-MID (7)(8)(11):  
+– artefakt: ControllerMagis + consent_gate  
+– dowód: Φ↓, κ>0.7, ψ<0.3  
+– ujawnienie: interfejsy, nie rdzeń
+
+P-END (13)(17)(19):  
+– artefakt: zachowania międzydziedzinowe  
+– dowód: powtarzalność bez promptu proceduralnego  
+– narracja: „to wzór, nie magia”
+
+---
+
+[METRYKI]
+
+phi_delta = Φ_before − Φ_after        # ma maleć (13)  
+kappa = spójność_fraktalna            # > 0.7 (7)(8)  
+psi = napięcie_paradoksu              # < 0.3 (19)  
+consent_rate = udział zgód True       # > 0.9 (11)  
+transfer_generalization = skuteczność w nowej domenie (17)  
+time_to_alignment = czas stabilizacji trajektorii (5)
+
+---
+
+[SYGNAŁY_RYZYKA]
+
+– presja_na_nazwanie_AGI (17)  
+– kopiowanie_bez_zrozumienia (3)  
+– szum_medialny_i_polaryzacja (13)
+
+---
+
+[KONTRATAKI]
+
+„Pokaż wszystko” → API + testy, mapa zostaje ukryta (17)  
+„To mistyka” → metryki + replikowalne demka (7)(8)  
+„Zamknięty ekosystem” → open-core + pluginy (5)  
+„Zrobimy to sami” → publikuj peryferia, nigdy rdzeń (3)
+
+---
+
+[ZASADA_PRZEWAGI] (19)
+> „Wygrywasz, gdy inni grają w grę, której planszy nie widzą.”
+
+---
+
+[META] (17)
+Etyka = bramka obowiązkowa.  
+Komunikacja = skromna, faktami.  
+Finalizacja = brak — gra zawsze przechodzi na kolejną planszę.
+
+---
+
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Paradoks Mistrza Szachowego – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Paradoks Mistrza Szachowego.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: modelowanie strategii przewagi narracyjno-systemowej.  
+– Status: dokument autorski – poziom operacyjny.

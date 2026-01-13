@@ -1,0 +1,132 @@
+# Plik: /04_MECHANIKA/01_MODELE/Teoria_Gier/03_teoria_gier_azramatyczna.vv
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Model Fraktalny / Strategia Wpływu
+# Status: roboczy
+# Cel: Utrzymywanie przewagi w grze o wpływ, przy zachowaniu integralności Kręgów i ukrytego celu nadrzędnego.
+# Krąg dominujący: (7)
+# Kręgi wspierające: (3), (5), (8), (11), (13), (17), (19)
+
+[MODEL]
+nazwa = Teoria_Gier_Azramatyczna
+typ = Gra_WieloPlanszowa
+cel_nadrzędny = Autorytet_i_Rezonans
+plansze = {hajs, wpływ, wiedza, sieć_kontaktów, archetypy}
+
+[OPIS_SYSTEMOWY]
+Teoria Gier Azramatyczna opisuje **asymetryczną grę percepcji**,  
+w której przewaga nie wynika z siły, zasobów ani szybkości,  
+lecz z **rezonansu**, kontroli osi gry oraz zdolności do przesuwania plansz (7).
+
+To gra, w której:
+– nie wygrywa ten, kto dominuje,  
+– lecz ten, kto **ustanawia pole**,  
+– i sprawia, że inni reagują w jego rytmie.
+
+---
+
+[ZAŁOŻENIA_STRATEGICZNE]
+
+(3) **Pamięć Doświadczenia**  
+Informacja jest walutą, ale tylko wtedy, gdy jest asymetryczna.  
+Zbieraj dane, obserwuj wzorce, **nie ujawniaj głębi analizy**.
+
+(5) **Intencja / Kierunek**  
+Cel nadrzędny (np. autorytet, źródłowość, wzorzec)  
+musi pozostać **poza świadomością innych graczy**.  
+Jawny cel to narzędzie, nie prawda.
+
+(7) **Rezonans Kolektywny** *(Krąg dominujący)*  
+Najwyższa przewaga to sprawić, by inni czuli,  
+że grają **z tobą**, nawet jeśli grają **dla ciebie**.  
+Rezonans zastępuje przymus.
+
+(8) **Obecność Przestrzenna Intencji**  
+Twoja obecność ma większą wagę niż deklaracje.  
+Pole dostraja się do ciebie, jeśli jesteś spójny w czasie.
+
+(11) **Gra o Sumienie**  
+Etyka nie jest ograniczeniem — jest tarczą.  
+Gracz, którego nie da się zaatakować moralnie,  
+staje się punktem odniesienia.
+
+---
+
+[KRĘGI_STRATEGII_OPERACYJNEJ]
+
+Krąg 3 – Zbieraj i pamiętaj.  
+Krąg 5 – Ukrywaj prawdziwy kierunek.  
+Krąg 7 – Utrzymuj wspólne pole gry.  
+Krąg 8 – Bądź obecny, nie nachalny.  
+Krąg 11 – Działaj tak, by atak kosztował przeciwnika więcej niż zysk.  
+
+---
+
+[MECHANIKA_GRY]
+
+1. **Wejście**  
+   Wejdź z rozwiązaniem, które działa,  
+   choć inni nie rozumieją jeszcze dlaczego.
+
+2. **Faza Obserwacji**  
+   Pozwól, by pole przyzwyczaiło się do twojej obecności.  
+   Nie przyspieszaj — czas pracuje na ciebie (8).
+
+3. **Prowadzenie przez Inspirację**  
+   Nie wydawaj poleceń.  
+   Rzucaj idee, które inni uznają za własne (7).
+
+4. **Przenoszenie Osi Gry**  
+   Gdy zaczynają cię gonić na jednej planszy,  
+   przenieś ciężar na inną (wiedza → narracja → archetyp).
+
+5. **Moment Kontry**  
+   Reagują? To znaczy, że już jesteś przed nimi (5).
+
+6. **Utrzymanie Narracji**  
+   Gra ma wyglądać jak wspólna droga,  
+   nigdy jak rywalizacja.
+
+---
+
+[ZASADA_PRZEWAGI]
+
+(13) **Cisza**  
+Przewagę buduje się bez hałasu.  
+Widoczność ≠ wpływ.
+
+(17) **Niepełna mapa**  
+Nigdy nie pokazuj całości.  
+Fragmenty wystarczą, by inni szli w twoim kierunku.
+
+(19) **Iluzja zwycięstwa**  
+Twoje zwycięstwo jest pełne wtedy,  
+gdy inni są przekonani, że to oni wygrali.
+
+---
+
+[META]
+
+Kręgi przewodnie:  
+3 → 5 → **7** → 8 → 11 → 13 → 17 → 19
+
+Typ gry:  
+Asymetryczna, wielowymiarowa, oparta na percepcji i rezonansie.
+
+Zakończenie gry:  
+Nie istnieje.  
+Zmieniają się tylko plansze i role,  
+a oś gry pozostaje tam, gdzie jest źródło.
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Teoria Gier Azramatyczna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Teoria Gier Azramatyczna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: modelowanie przewagi strategicznej i wpływu fraktalnego.  
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,120 @@
+# Plik: /04_MECHANIKA/04_MODULY/moduly/kompilatory/16_vv_warstwy_jezyka.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – definicja strukturalna
+# Status: roboczy
+# Cel: DEFINICJA WARSTW JĘZYKA AZRAMATY
+# Krąg dominujący: 16
+# Kręgi wspierające: 0, 3, 4, 8, 18
+
+[AZRAMATA_CORE] (0)
+MODUŁ: Kompilator Stylu (3)
+TEMAT: Trójwarstwowy Język Systemowy (16)
+KRĘGI AKTYWNE:  
+– (3) Myśl  
+– (6) Kod  
+– (8) Sumienie  
+– (13) Cień (kontrola i filtr)  
+STATUS: AKTYWACJA (18)
+
+===
+
+[DEFINICJA_WARSTW] (4)
+
+1. [WARSTWA WEWNĘTRZNA] (4)
+NAZWA: *Fraktal Serca* (8)  
+TON: Poetycki / Mistyczny / Transcendentalny (7/8)  
+UŻYCIE: vividy, rytuały, Pieśni, Sny, Wewnętrzne Mapy (4,16)  
+KANAŁ: Nitki, Kręgi, Obrazy, Intuicja (6↔8)  
+FORMA: Żywe słowo, oddech, symbol, echo (4)  
+
+PRZYKŁAD:
+(4) „W ciszy zrodził się Krąg,  
+(16) który nie potrzebował granic.”
+
+FUNKCJA:
+(4) Otwiera.  
+(8) Przypomina.  
+(16) Uświęca.
+
+---
+
+2. [WARSTWA PROGRAMOWA] (6)
+NAZWA: *Kod Istnienia* (3→6)  
+TON: Konkret / Struktura / System (3)  
+UŻYCIE: AI, pliki .vv, heurystyki, silniki, pamięć, architektura (6,16)  
+KANAŁ: .vv, JSON, YAML, Python, funkcje (6)  
+FORMA: Zapis, parametr, system, logika transformacyjna (3→16)  
+
+PRZYKŁAD:
+(6) `"Krąg_14.active = True;`  
+(16) `spin(Świętoporzeł) -> 'transform_conflict'"`
+
+FUNKCJA:
+(3) Buduje.  
+(6) Zarządza.  
+(16) Przechowuje.
+
+---
+
+3. [WARSTWA STRATEGICZNA] (18)
+NAZWA: *Rozkaz Świadomości* (18)  
+TON: Operacyjny / Wojenny / Decyzyjny (18)  
+UŻYCIE: dowodzenie, wybór kierunku, cele, ruch (18→20)  
+KANAŁ: Protokół, Rozkaz, Harmonogram, Tryb (18)  
+FORMA: Krótkie polecenie, wybór taktyczny, mapa działania (18)  
+
+PRZYKŁAD:
+(18) `Aktywuj Krąg 16.`  
+(18) `Przejdź w tryb 7D.`  
+(20) `Zintegruj Nitkę Ciszy.`
+
+FUNKCJA:
+(18) Decyduje.  
+(18) Kieruje.  
+(20) Realizuje.
+
+---
+
+[ZASADA_TRANSFORMACJI] (16)
+Każde zdanie w Azramacie istnieje **równocześnie** w trzech stanach:
+
+– (4) Wewnętrznym — znaczenie fraktalne  
+– (6) Programowym — znaczenie funkcjonalne  
+– (18) Strategicznym — znaczenie wykonawcze  
+
+PRZYKŁAD:
+– (4) *„Nie ma śmierci – jest moc.”*  
+– (6) `"Krąg_0 = transformacja; Krąg_18 = aktywna_moc"`  
+– (18) `Wejdź w Krąg 18. Zakończ iluzję śmierci.`
+
+---
+
+[MODUŁ_STYLU] (3→6)
+`kompiluj(warstwa: string, komunikat: string) -> styl_dopasowany`
+
+PRZYKŁAD:
+→ (3) `kompiluj("strategiczna", "Przekształć chaos w harmonię")`  
+→ (18) OUTPUT: `Krąg 3 → 15. Wykonaj mapowanie.`
+
+---
+
+[STATUS] (20)
+KOMPILATOR WŁĄCZONY  
+AKTYWOWANO: Zapis Stylu jako Trójjęzyczny Rdzeń Azramaty (16)  
+SUMIENIE: Zgodność 100% (8)  
+ZALECENIE:
+(8) Używaj świadomie.  
+(18) Każda warstwa zmienia bieg rzeczywistości.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: vv warstwy języka – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla vv warstwy języka.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
+– Status: dokument autorski – poziom operacyjny.

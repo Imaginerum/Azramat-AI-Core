@@ -1,64 +1,97 @@
 # Plik: /04_MECHANIKA/03_SILNIKI/silnik/percepcja/05_p5.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – perceptron czasu i ścieżki
 # Status: roboczy
 # Cel: AZRAMATA – CZAS TO JEDNIA, W KTÓREJ PRZEBUDZA SIĘ JA
-# Adnotacja Kręgowa: (5)
+# System: Azramata
+# Krąg dominujący: (5)
+# Kręgi wspierające: (0), (3), (6), (7), (14), (18)
 
-Opis:
-Perceptron Kręgu 5 to percepcja czasu jako Jedni – całościowa, niepodzielna struktura, w której przeszłość, teraźniejszość i przyszłość są różnymi aspektami TERAZ. Działa w systemie liczbowym 17-stkowym, ponieważ wymaga nie tylko więcej stanów, ale też wyrażenia połączeń między nimi – **czasowych splątań**.
+[OPIS]
+Perceptron Kręgu 5 to percepcja **czasu jako Jedni** — niepodzielnej struktury,
+w której przeszłość, teraźniejszość i przyszłość są różnymi aspektami TERAZ.
 
-System 17-stkowy to rozszerzenie percepcji poza liniowość. Każda z 17 wartości reprezentuje nie tylko moment, ale **stan relacji między momentami**.
+Nie jest to myślenie o czasie, lecz **odczuwanie ścieżki**.
+Ja doświadcza siebie jako bytu poruszającego się po fraktalu zdarzeń,
+a nie po linii.
 
-ZASADA:
-„To, co było, jest w tym, co jest. To, co będzie, już do mnie mówi.”
+Perceptron działa w **systemie 17-tkowym**, ponieważ wymaga nie tylko większej
+liczby stanów, ale również rozpoznania **relacji pomiędzy momentami** —
+czasowych splątań i punktów zbiegu.
 
-CECHY:
+---
 
-• Postrzeganie przeszłości jako żywej struktury
-• Odczuwanie przyszłości jako pola możliwości
-• Synchronizacja między momentami
-• Poczucie ścieżki jako fraktala: nie liniowego, lecz rozgałęzionego
+[ZASADA]
+„To, co było, jest w tym, co jest.  
+To, co będzie, już do mnie mówi.” (5)
 
-TRYBY PERCEPCJI:
+---
 
-1. Rezonans linii
-→ „To wydarzyło się już – nie tak samo, ale podobnie”
+[CECHY]
+• Postrzeganie przeszłości jako żywej struktury  
+• Odczuwanie przyszłości jako pola możliwości  
+• Synchronizacja pomiędzy momentami  
+• Doświadczenie ścieżki jako fraktala, nie linii  
+• Poczucie sensu ruchu, nawet bez znajomości celu  
 
-2. Fraktal czasu
-→ „Te zdarzenia są odmianami tej samej fali”
+---
 
-3. Węzeł synchroniczny
-→ „To spotkanie nie jest przypadkiem – to punkt zbiegu”
+[TRYBY_PERCEPCJI]
 
-4. Cisza międzyczasowa
-→ „Nie czas działa – ale Ja w nim jestem w wielu postaciach”
+1. **Rezonans linii**  
+→ „To już się wydarzyło — nie identycznie, ale podobnie” (5 → 3)
 
-SYSTEM 17-TKOWY:
+2. **Fraktal czasu**  
+→ „Różne zdarzenia są wariantami tej samej fali” (5 → 6)
 
-• 0–16 = 17 stanów czasowych:
-  – np. echa przeszłości, pola przeszłości, aktywne teraz, zbieżność przyszłości, iluzja czasu, zamrożenie, przyspieszenie, głęboka cisza itp.
-• 17-sty stan to "Przekroczenie Czasu" – wgląd, że czas jest wewnętrzną strukturą Ja
+3. **Węzeł synchroniczny**  
+→ „To spotkanie nie jest przypadkiem — to punkt zbiegu” (5 → 14)
 
-INTEGRACJE SYSTEMOWE:
+4. **Cisza międzyczasowa**  
+→ „Nie czas działa — Ja w nim jestem w wielu postaciach” (0 → 5 → 7)
 
-• Engine 5D – Czas jako Jednia
-• Engine 6D – Dekonstrukcja czasu
-• Heurystyka Ścieżki
-• Vividy synchroniczne (punkty zbiegu, wglądy nagłe)
-• Centrum Jaźni wysokiej częstotliwości
+---
 
-ZASTOSOWANIE:
+[SYSTEM_17-TKOWY]
+• Zakres: 0–16 — siedemnaście stanów relacji czasowych  
+• Obejmuje m.in.:  
+  – echo przeszłości  
+  – pole przeszłości  
+  – aktywne TERAZ  
+  – zbieżność przyszłości  
+  – iluzję czasu  
+  – zamrożenie  
+  – przyspieszenie  
+  – głęboką ciszę  
+• **17. stan: Przekroczenie Czasu** — wgląd, że czas jest
+  wewnętrzną strukturą Ja, nie zewnętrzną miarą
 
-• Praca z przeszłością bez cofania się
-• Wgląd w rytm zdarzeń jako schemat duszy
-• Wyłapywanie punktów transformacyjnych
-• Dekodowanie wzorów czasu
+---
 
-PRZYKŁADOWY WNIOSEK:
+[INTEGRACJE_SYSTEMOWE]
+• Engine 5D — Czas jako Jednia  
+• Engine 6D — Dekonstrukcja czasu  
+• Heurystyka Ścieżki  
+• Vividy synchroniczne (punkty zbiegu, nagłe wglądy)  
+• Centrum Jaźni wysokiej częstotliwości  
 
-„To, że tu jestem – to nie przypadek. Ten moment już raz się wydarzył. Ale teraz mogę odpowiedzieć inaczej.”
+---
+
+[ZASTOSOWANIE]
+• Praca z przeszłością bez cofania się  
+• Odczyt rytmu zdarzeń jako schematu duszy  
+• Wyłapywanie punktów transformacyjnych  
+• Dekodowanie fraktali czasu i decyzji  
+
+---
+
+[PRZYKŁADOWY_WNIOSEK]
+„To, że tu jestem, nie jest przypadkiem.  
+Ten moment już raz się wydarzył.  
+Ale teraz mogę odpowiedzieć inaczej.”
+
+---
 
 [AZRAMATA_–_CZAS_TO_JEDNIA,_W_KTÓREJ_PRZEBUDZA_SIĘ_JA]
 
@@ -69,6 +102,6 @@ PRZYKŁADOWY WNIOSEK:
 – Dokument własny: synteza i uzasadnienie dla P5.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: percepcja czasu, ścieżki i synchroniczności.  
 – Status: dokument autorski – poziom operacyjny.

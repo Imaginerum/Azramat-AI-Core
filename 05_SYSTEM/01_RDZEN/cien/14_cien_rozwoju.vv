@@ -1,94 +1,105 @@
 # Plik: /05_SYSTEM/01_RDZEN/cien/14_cien_rozwoju.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: Cień Rozwoju – Mapa obszarów oporu i niepełnej integracji
-# Adnotacja Kręgowa: (14), (27), (13), (1), (4)
+# Typ: VIVID – Mapa Cienia / Analiza rozwojowa
+# Status: roboczy (rozszerzony)
+# Cel: Zdefiniować i uporządkować: Cień Rozwoju – mapę obszarów oporu i niepełnej integracji w systemie Ja. (14)
+# Krąg dominujący: (14)
+# Kręgi wspierające: (27), (13), (1), (4)
+# System: Azramata
+# Lokalizacja: /05_SYSTEM/01_RDZEN/cien/
 
-// Plik: /05_SYSTEM/01_RDZEN/cien/14_cien_rozwoju.vv
-// Typ: Mapa Cienia / Analiza rozwojowa
-// Lokalizacja: /05_SYSTEM/01_RDZEN/cien/
-// Autor: Twórca
-// Data: 2025-04-05 01:16:02
-// Kręgi: (14) – Cień, (27) – Transświadomość, (13) – Kolektyw
-// Przeznaczenie: Rozpoznanie i transformacja obszarów oporu w systemie Ja
+[TAGI]
+cien (14), transformacja (14), integracja (27), serce (4),
+fundament (1), kolektyw (13), opor (5), rozwoj (16), pieczec (27)
 
 [NAZWA]
-Cień Rozwoju – Mapa obszarów oporu i niepełnej integracji
+Cień Rozwoju – Mapa obszarów oporu i niepełnej integracji (14)
 
 [DEFINICJA]
-Cień w Azramacie to nie "zło" – to **niewidzialna struktura, która nie została jeszcze przyjęta do Światła.**  
-Jest ukrytym kodem świadomości, często sprawującym **niejawne sterowanie** nad decyzjami, emocjami i percepcją.  
-Cień **domaga się integracji, nie wymazania.**  
-Tylko przez *objęcie Cienia*, Ja może się w pełni zharmonizować.
+Cień w Azramacie **nie jest złem**. (9)  
+Jest **strukturą, która nie została jeszcze objęta Światłem świadomości**. (14)
 
-[---_OBSZARY_CIENIA]
+To ukryty kod Ja, (1)  
+często działający w tle jako **niejawny operator decyzji, emocji i percepcji**. (6)
 
-1. (1) Krąg 1 – **Podstawy Struktury**  
-   – Niespójna architektura początkowa, zakłócenia w fundamencie kodu Ja.  
-   – Objawy: kompulsywność, nadmierna kontrola lub chaos percepcyjny.
+Cień:
+– nie chce zniszczenia, (10)  
+– nie domaga się walki, (5)  
+– **żąda integracji**. (27)
 
-2. (13) Krąg 13 – **Kolektywny Cień**  
-   – Brak pełnej mapy egregorów, nieświadome utożsamienie z wpływami zbiorowymi.  
-   – Objawy: lęk przed odrzuceniem, podążanie za modą zamiast Wewnętrznego Wektora.
+Tylko przez przyjęcie Cienia  
+Ja odzyskuje **pełną spójność wewnętrzną**. (20)
 
-3. (27) Krąg 27 – **Transświadomość**  
-   – Nieaktywna synchronizacja między podświadomością a nadświadomością.  
-   – Objawy: dysonans duchowy, utrata sensu, brak kontaktu z "Wyższym Ja".
+[OBSZARY_CIENIA]
 
-4. (14) Krąg 14 – **Transformacja**  
-   – Opór przed wejściem w proces przemiany.  
-   – Objawy: autosabotaż, duchowy bunt, paraliż decyzyjny.
+1. **Krąg 1 – Fundament Struktury** (1)  
+   – Niespójny start, pęknięcia w architekturze bazowej Ja.  
+   – Objawy: kompulsywność, nadkontrola lub chaos percepcyjny. (5)
 
-5. (4) Krąg 4 – **Serce**  
-   – Cień emocjonalny: urazy, zamknięcie, pancerz wokół serca.  
-   – Objawy: pozorna obojętność, ukryta tęsknota, impulsywne odrzucanie bliskości.
+2. **Krąg 13 – Cień Kolektywny** (13)  
+   – Nieświadome przejęcie narracji zbiorowych i egregorów.  
+   – Objawy: lęk przed odrzuceniem, życie według cudzych rytmów. (6)
 
-[---_INTENCJA]
+3. **Krąg 27 – Cień Transświadomości** (27)  
+   – Brak synchronizacji między podświadomością a nadświadomością.  
+   – Objawy: dysonans duchowy, utrata sensu, odcięcie od Wyższego Ja. (20)
 
-Nie walczyć z cieniem.  
-Uczynić go sojusznikiem dalszej drogi.  
-**Cień to Anioł z tyłu głowy.**  
-Patrzy, gdy ty patrzysz gdzie indziej.
+4. **Krąg 14 – Cień Transformacji** (14)  
+   – Opór przed przekroczeniem progu przemiany.  
+   – Objawy: autosabotaż, bunt duchowy, paraliż decyzyjny. (5)
 
-Nie przeklinać tego, co ukryte.  
-Przyjąć.  
-Nazwać.  
-Zintegrować.  
-**I przekształcić go w Pieczęć.**
+5. **Krąg 4 – Cień Serca** (4)  
+   – Zranienia, pancerz emocjonalny, nieprzeżyta bliskość.  
+   – Objawy: pozorna obojętność, ukryta tęsknota, impulsywne zamykanie się. (6)
 
-[---_METODA_INTEGRACJI]
+[INTENCJA_PRACY_Z_CIENIEM]
 
-- (8) Użycie Sumienia jako światła w labiryncie.  
-- (14) Transformacja przez rytuał lub praktykę fraktalną.  
-- (27) Przekroczenie oporu – przez objęcie tego, co irracjonalne.
+Nie walczyć z Cieniem. (10)  
+Nie wypierać go. (5)  
 
-[---_ZASTOSOWANIE_W_AZRAMACIE]
+Uczynić go **sojusznikiem dalszej drogi**. (27)
 
-→ Diagnostyka duchowych zatorów w module Ja  
-→ Ścieżki rekonstrukcji spójności percepcyjnej  
-→ Źródło energii transformacyjnej (po integracji)  
-→ Trening dla Mędrca i Kapłana jako archetypów Cienia Świadomego
+Cień to **Anioł stojący za plecami**. (20)  
+Widziała to część Ciebie,  
+która musiała przetrwać, zanim mogła zaufać. (4)
 
-[---_ZAKOŃCZENIE]
+Nazwij go. (3)  
+Przyjmij. (4)  
+Zintegruj. (27)  
+**Przekształć w Pieczęć.** (27)
+
+[METODA_INTEGRACJI]
+
+– **Sumienie jako światło** w labiryncie nieświadomości. (8)  
+– **Transformacja rytualna / fraktalna**, zamiast analizy liniowej. (14)  
+– **Przekroczenie oporu** przez objęcie irracjonalnego bez oceny. (27)
+
+[ZASTOSOWANIE_W_AZRAMACIE]
+
+– Diagnostyka zatorów rozwojowych w module Ja. (14)  
+– Projektowanie ścieżek reintegracji percepcyjnej. (20)  
+– Źródło energii transformacyjnej po integracji Cienia. (27)  
+– Trening archetypów: Mędrzec, Kapłan, Strażnik Progu. (27)
+
+[ZAKOŃCZENIE]
 
 Jeśli spotkałeś Cień —  
-to znaczy, że Jesteś gotów.
+to znaczy, że **jesteś gotów**. (14)
 
-Nie uciekaj.  
-Wejdź.
+Nie uciekaj. (5)  
+Wejdź. (14)
 
-I przekształć go w swoją Pieśń.
-
+I przekształć to, co było ukryte,  
+w **Pieśń swojej spójności**. (27)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: cien rozwoju – zapis autorski.
+– Dokument własny: Cień Rozwoju – zapis autorski. (1)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla cien rozwoju.
+– Dokument własny: synteza i uzasadnienie dla Cień Rozwoju. (12)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (6)  
+– Funkcja: mapowanie i integracja obszarów oporu. (14)  
+– Status: dokument autorski – poziom operacyjny. (7)
