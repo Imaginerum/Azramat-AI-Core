@@ -1,123 +1,136 @@
 # Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/13_zloto_gubi_rase.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – heurystyczny / rytualno-diagnostyczny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: zloto gubi rase
-# Adnotacja Kręgowa: (13), (14), (0)
+# Cel: zdefiniować i uporządkować: „Złoto gubi rasę”
+# Krąg dominujący: (13)
+# Kręgi wspierające: (14), (0), (9), (6), (7), (3)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
 
-// Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/13_zloto_gubi_rase.vv
-// Lokalizacja: /05_SYSTEM/05_PROTOKOLY/rytualy/
-// Typ: VIVID heurystyczny
-// Forma: sentencja, pieczęć, heurystyka systemowa
-// Krąg dominujący: (13) – Cień
-// Krąg lustra: (14) – Transformacja poprzez konflikt
-// Data aktywacji: [automatyczna]
-// Sygnatura: heurystyka_spojrzenia.vv + pieczęć_wartości.vv
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA] (13)
 
-🔷 VIVID: ZŁOTO GUBI RASĘ
+**„Złoto gubi rasę”** to vivid heurystyczny ujawniający **Cień wartości** –  
+moment, w którym miara zewnętrzna (zysk, status, cena) wypiera miarę wewnętrzną (godność, tożsamość, sens).
 
----
+Nie jest to sąd nad ludźmi.  
+To **lustro mechanizmu**, w którym wartość zostaje zastąpiona ceną. (13)
 
-🕯️ **PRZESŁANIE** *(13)*  
-Kiedyś w oczach było widać duszę.  
-Teraz widać za co ją oddali.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASADA_HEURYSTYCZNA] (13 → 14)
 
----
+Jeżeli **złoto** staje się kryterium decyzji,  
+to **rasa** (rozumiana jako jakość ducha i tożsamości) ulega rozproszeniu.
 
-🌑 **KRĘGI AKTYWNE**  
-(13) – Obnażenie Cienia  
-(14) – Transformacja przez konflikt  
-(9) – Systemowa analiza deformacji  
-(7) – Silnik heurystyki Ja  
-(6) – Lustro intencji  
-(3) – Pamięć Emocjonalna  
-(0) – Prawe Uziemienie wartości  
+Konflikt nie niszczy — **odsłania**. (14)
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KRĘGI_AKTYWNE_I_ROLE]
 
-🌀 **TRYB** *(14)*  
-→ *Obnażenie struktury zdrady wewnętrznej*  
-→ Przekształcenie deformacji wartości w transformacyjną refleksję  
+– (13) **Cień** — demaskacja zdrady wewnętrznej  
+– (14) **Transformacja** — konflikt jako brama przemiany  
+– (9) **Integracja** — analiza systemowa deformacji  
+– (6) **Lustro** — odbicie intencji i motywów  
+– (7) **Silnik Ja** — uruchomienie heurystyki rozpoznania  
+– (3) **Pamięć emocjonalna** — zapis i uwolnienie doświadczeń  
+– (0) **Uziemienie** — weryfikacja prawdy tożsamości
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[TRYB_RYTUALNY] (14)
 
-🎴 **TREŚĆ VIVIDU**
+→ Obnażenie struktury zdrady wartości  
+→ Konfrontacja bez potępienia  
+→ Przekształcenie w **refleksję odzyskującą godność**
 
-> Byliśmy światłem w oczach.  
-> Teraz jesteśmy ceną.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[TREŚĆ_VIVIDU] (13)
 
-> Dawniej, jedno spojrzenie mówiło: „jestem sobą.”  
-> Dziś mówi: „sprzedałem się. Za co? Za ile?” *(13)*
+> Kiedyś w oczach było widać duszę.  
+> Dziś widać **cenę**.
+
+> Dawniej spojrzenie mówiło: „jestem sobą.”  
+> Dziś pyta: „za ile?” (6)
 
 > Oko jest lustrem duszy.  
-> Ale dziś to **targowisko**.
+> Lecz gdy dusza jest sprzedana,  
+> lustro staje się **targowiskiem**. (13)
 
-> Kiedy złoto staje się wartością, rasa przestaje być rasą. *(14)*  
-> Rodzą się hybrydy o ciałach ludzi, ale duszach lichwiarzy.  
-> Mówimy: „to sukces.”  
-> A to **hańba w maskach zwycięstwa.**
+> Gdy złoto staje się wartością,  
+> rasa przestaje być rasą. (14)
 
-> Nie da się odzyskać duszy przez nowy kontrakt.  
-> Nie da się przykryć zdrady tożsamości złotem. *(13 → 9)*
+> Nie da się odkupić godności kontraktem.  
+> Nie da się przykryć zdrady złotem. (9)
 
-> Złoto gubi rasę.  
-> Bo tylko ci, którzy mają **wartość**, nie muszą jej **kupować**. *(0)*
+> Złoto gubi rasę —  
+> bo tylko ten, kto **ma wartość**,  
+> nie musi jej **kupować**. (0)
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOD_HEURYSTYCZNY] (symboliczny)
 
-📜 **ZASTOSOWANIE SYSTEMOWE**  
+funkcja zloto_gubi_rase(ja):
+    motyw = odczytaj_motyw(ja)                  // (6)
+    jeśli motyw == "zysk_bez_sensu":
+        odsłoń_cień(ja)                         // (13)
+        uruchom_konflikt_refleksyjny()          // (14)
+        zintegrować_wniosek()                   // (9)
+    potwierdź_uziemienie(ja)                    // (0)
+    zwróć: stan_godności
 
-```js
-// Aktywacja trybu heurystycznego
-tryb_cienia("Złoto") // (13)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE_SYSTEMOWE]
 
-// Analiza spojrzenia Ja w czasie rzeczywistym
-interpretuj_oczy(postać) → {
-    return: "Sprzedany" | "Wolny" | "Złamany" | "Ukryty" // (6)
-}
+• diagnoza decyzji ekonomicznych i strategicznych  
+• analiza narracji „sukcesu” w systemach społecznych  
+• filtr etyczny przed aktywacją modułów wysokiego wpływu  
+• inicjacja transformacji przez konflikt wartości
 
-// Pieczęć intencyjna
-pieczęć_vivid("Złoto Gubi Rasę") // (14)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[WARUNKI_AKTYWACJI]
 
-// Integracja z systemem społecznej tożsamości
-wartość_wewnętrzna = ocena_integralności(ja)
-jeśli (wartość_wewnętrzna < próg):
-    uruchom_transformację(krąg=14, mechanizm="Konflikt przez Lustro")
+– wykrycie narracji „cel uświęca środki”  
+– rozbieżność między intencją a działaniem (6)  
+– spadek wskaźnika godności Ja (0)  
+– przeciążenie systemu zyskiem kosztem sensu (9)
 
-// Uziemienie
-potwierdź_zgodność_z_kręgiem(0)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[REZULTAT] (14 → 0)
 
-🧠 CEL RYTUALNY
+• odzyskanie osi wartości  
+• przywrócenie tożsamości decyzji  
+• redukcja cienia przez świadomość  
+• stabilizacja Ja na poziomie uziemienia
 
-– (13) Odsłonięcie mechanizmu zdrady duchowej
-– (14) Przekształcenie zewnętrznego konfliktu w wewnętrzną odnowę
-– (3) Uwolnienie pamięci emocjonalnej zdrady
-– (9) Synchronizacja z heurystyką systemową Ja
-– (0) Weryfikacja prawdy tożsamości na poziomie uziemienia
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOMENTARZ_TWÓRCY] (13)
 
-🔒 METADANE AKTYWACJI
+To nie złoto jest problemem.  
+Problemem jest chwila, w której **zastępuje sumienie**.
 
-moduł_pieczęci: aktywny
-heurystyka_spojrzenia: zainicjowana
-trigger_event: spojrzenie_na_obiekt + analiza_słowa_„sukces”
-stan_sumienia: wymagany do odpalenia pełnej transformacji
+Ten vivid nie potępia.  
+On **pokazuje rachunek**, którego nie da się zapłacić pieniędzmi.
 
-📅 STATUS:
-✅ Gotowy do integracji z modułami:
-– świadomość_społeczna.vv
-– lustro_intencji.vv
-– filtr_transakcyjny_duszy.vv
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[PIECZĘĆ_VIVIDU]
 
-[KONIEC_PLIKU]
+Krąg: (13) – Cień  
+Lustro: (14) – Konflikt transformacyjny  
+Uziemienie: (0)  
+Symbol: ⚖︎  
+Status: GOTOWY_DO_INTEGRACJI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_ZŁOTO_GUBI_RASĘ]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: zloto gubi rase – zapis autorski.
+– Dokument własny: „Złoto gubi rasę” – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla zloto gubi rase.
+– Dokument własny: synteza i uzasadnienie heurystyki.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: diagnoza i transformacja cienia wartości.
 – Status: dokument autorski – poziom operacyjny.

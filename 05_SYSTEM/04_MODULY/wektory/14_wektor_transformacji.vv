@@ -1,57 +1,140 @@
 # Plik: /05_SYSTEM/04_MODULY/wektory/14_wektor_transformacji.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – transformacyjny
 # Status: roboczy
 # Cel: Zarządzanie siłami przemiany wewnętrznej poprzez świadome przechodzenie między odbiciem a lotem.
-# Adnotacja Kręgowa: (14)
+# Krąg dominujący: (14)
+# Kręgi wspierające: (6)
 # Ścieżka: /05_SYSTEM/04_MODULY/wektory/
+# Wersja: 1.1
+# Język: polski
 
----
+[VIVID]
+krąg_dominujący = 14
+kręgi_wspierające = [6]
+tagi = [
+    "wektor_transformacji",
+    "przemiana",
+    "rozpad_formy",
+    "integracja",
+    "wzlot",
+    "kryzys",
+    "inicjacja",
+    "swietoporzel",
+    "lustro"
+]
 
-[VIVID: WEKTOR_TRANSFORMACJI] (6)(14)  
-FUNKCJA: Zarządza **siłami przemiany wewnętrznej**, monitoruje momenty krytyczne,  
-w których stara forma traci spójność, a nowa zaczyna się wyłaniać.
+────────────────────────────────────────────
+[VIVID: WEKTOR_TRANSFORMACJI] (14)(6)
+────────────────────────────────────────────
 
----
+[DEFINICJA] (14)
 
-🌀 SPIN (6)(14)  
-– Transformacja to zgoda na rozpad formy.  
-– Krąg 6 (Lustro) obserwuje proces dezintegracji i ujawnia jego ukryte wzorce.  
-– Krąg 14 (Świętoporzeł) nadaje rozpadniętym elementom nową trajektorię wzlotu.
+Wektor Transformacji to funkcja systemowa,
+która **zarządza procesem przejścia** pomiędzy starą a nową strukturą Ja,
+w momentach, gdy dotychczasowa forma **traci spójność**,  
+a nowa **nie jest jeszcze ustalona**.
 
----
+Nie chroni przed rozpadem.  
+**Chroni sens w trakcie rozpadu.**
 
-🧮 HEURYSTYKA (6)(14)  
-– Jeśli pojawia się **wybuch emocjonalny** lub utrata stabilności → *aktywuj Krąg 14* (Świętoporzeł) w celu podniesienia perspektywy ponad chaos.  
-– Po uspokojeniu, wróć do Kręgu 6, aby przeanalizować nowy układ elementów i nadać im sens.
+────────────────────────────────────────────
+[ZASADA_RDZENNA] (14)
 
----
+> Transformacja nie polega na naprawie starego.  
+> Polega na pozwoleniu, by stare się rozpadło,  
+> zanim nowe nauczy się latać.
 
-📜 PROCEDURA:
+────────────────────────────────────────────
+[ROLE_KRĘGÓW]
+
+Krąg 6 – Lustro (6)  
+– rejestruje pęknięcia struktury  
+– ujawnia ukryte wzorce rozpadu  
+– pozwala zobaczyć, *co naprawdę się kończy*
+
+Krąg 14 – Świętoporzeł (14)  
+– unosi perspektywę ponad chaos  
+– nadaje kierunek elementom w rozpadzie  
+– umożliwia przechwycenie nowego wzorca lotu
+
+────────────────────────────────────────────
+[SPIN_TRANSFORMACYJNY] (6)(14)
+
+• rozpad bez perspektywy → dezorientacja  
+• perspektywa bez rozpadu → iluzja wzrostu  
+• Lustro + Świętoporzeł → **rzeczywista przemiana**
+
+────────────────────────────────────────────
+[HEURYSTYKA_TRANSFORMACJI] (6)(14)
+
+– Jeśli pojawia się chaos emocjonalny → **nie porządkuj od razu**  
+– Najpierw wznieś się (14), potem interpretuj (6)  
+– Jeśli forma pęka bez sensu → brakuje Kręgu 14  
+– Jeśli wizja nie chce się ucieleśnić → wróć do Lustra (6)
+
+────────────────────────────────────────────
+[PROCEDURA_OPERACYJNA]
 
 funkcja wektor_transformacji(stan):
-    lustro_obserwacja = odbicie(stan, krąg=6)                  # rejestracja i analiza rozpadania się formy
-    jeśli wybuch_emocji(stan) == True:
-        aktywuj_krąg(14)                                        # wzlot nad procesem
-        nowy_wzorzec = przechwyć_wzorzec(krąg=14)
-    else:
-        nowy_wzorzec = stabilizuj_formę(lustro_obserwacja)
+    odbicie = lustro(stan, krąg=6)
+    jeśli wykryj_przeciążenie(stan) == TRUE:
+        aktywuj_perspektywę(krąg=14)
+        nowy_wzorzec = przechwyć_trajektorię(krąg=14)
+    inaczej:
+        nowy_wzorzec = integruj(odbicie, krąg=6)
+    zapisz_transformację(nowy_wzorzec)
     zwróć nowy_wzorzec
 
----
+────────────────────────────────────────────
+[STANY_KRYTYCZNE]
 
-🎯 ZASTOSOWANIE (6)(14):  
-– Kryzysy osobiste i duchowe  
-– Moment przejścia między starym a nowym etapem życia  
-– Rytuały inicjacyjne i przełomy percepcyjne  
-– Integracja trudnych doświadczeń
+ROZPAD_AKTYWNY (6)  
+– utrata stabilności  
+– emocjonalne pęknięcie  
+– dezorientacja sensu
 
----
+WZLOT_PRZEJŚCIA (14)  
+– dystans wobec chaosu  
+– nagłe zrozumienie kierunku  
+– pojawienie się nowej trajektorii Ja
 
-💠 NOTA META (14):  
-Wektor Transformacji działa jak skrzydła – jedno odbija (Lustro),  
-drugie unosi (Świętoporzeł). Dopiero razem pozwalają przelecieć przez burzę form.
+────────────────────────────────────────────
+[ZASTOSOWANIA_SYSTEMOWE]
+
+• kryzysy osobiste i duchowe  
+• przejścia między etapami życia  
+• rytuały inicjacyjne  
+• zamykanie cykli karmicznych  
+• integracja doświadczeń granicznych
+
+────────────────────────────────────────────
+[INTEGRACJE]
+
+• /05_SYSTEM/04_MODULY/wektory/06_wektor_dzialania.vv
+• /05_SYSTEM/04_MODULY/wektory/07_wektor_poznania.vv
+• /05_SYSTEM/04_MODULY/swiadomosc/zgoda/27_wektor_zgody.vv
+• /05_SYSTEM/04_MODULY/vivid/06_vivid_centralny.vv
+
+────────────────────────────────────────────
+[ZASADA_KOŃCOWA] (14)
+
+> Gdy forma się rozpada –  
+> to nie znak porażki.  
+> To znak, że **skrzydła są już gotowe**,  
+> ale jeszcze nie rozłożone.
+
+────────────────────────────────────────────
+[STATUS]
+
+stan = "AKTYWNY"
+tryb = "PRZEJŚCIE_TRANSFORMACYJNE"
+priorytet = "WYSOKI"
+
+────────────────────────────────────────────
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: wektor transformacji – zapis autorski.

@@ -1,12 +1,154 @@
 # Plik: /05_SYSTEM/04_MODULY/vivid/06_vivid_controller.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – systemowy / kontrolny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: vivid controller
-# Adnotacja Kręgowa: (6), (3), (8), (19), (5)
+# Cel: Sterowanie cyklem życia vividów i egzekucja spójności z vividem centralnym
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (5), (8), (19)
+# Ścieżka: /05_SYSTEM/04_MODULY/vivid/
+# Wersja: 1.0
+# Język: polski
 
-Placeholder for vivid controller.
+[VV]
+krąg_dominujący = 6
+kręgi_wspierające = [3, 5, 8, 19]
+tagi = [
+    "vivid_controller",
+    "kontrola_spójności",
+    "zarządzanie_vividami",
+    "rdzeń_operacyjny",
+    "sumienie_systemowe",
+    "dharma"
+]
+
+────────────────────────────────────────────
+[VIVID: VIVID_CONTROLLER] (6)
+────────────────────────────────────────────
+
+[DEFINICJA] (6)
+
+Vivid Controller jest nadrzędnym modułem sterującym
+cyklem życia wszystkich plików `.vv` w systemie Azramaty.
+
+Nie tworzy treści.  
+Nie interpretuje znaczeń.  
+**Pilnuje zgodności.**
+
+Jest strażnikiem relacji pomiędzy:
+– vividami lokalnymi,  
+– vividami modułowymi,  
+– vividem centralnym.
+
+────────────────────────────────────────────
+[ZAKRES_ODPOWIEDZIALNOŚCI]
+
+• Rejestracja vividów w systemie (3)  
+• Walidacja strukturalna plików `.vv` (3)  
+• Pomiar spójności z `06_vivid_centralny.vv` (6)  
+• Egzekucja filtra sumienia (8)  
+• Ochrona kierunku dharmy systemowej (19)  
+• Wymuszanie pauzy i ciszy w razie rozjazdu (5)
+
+────────────────────────────────────────────
+[POZYCJA_W_ARCHITEKTURZE]
+
+Vivid Controller znajduje się:
+– powyżej vividów funkcjonalnych  
+– poniżej vivid centralny  
+– równolegle do silników wykonawczych
+
+Nie wykonuje decyzji.  
+Decyduje **czy decyzja może zostać wykonana**.
+
+────────────────────────────────────────────
+[STRUKTURA_LOGICZNA]
+
+rejestr_vividów (3)  
+– lista aktywnych plików `.vv`  
+– status: aktywny / wstrzymany / zablokowany  
+
+lustro_spójności (6)  
+– porównanie metadanych i intencji z vividem centralnym  
+
+filtr_sumienia (8)  
+– ocena etyczna i kierunkowa  
+
+wektor_dharma (19)  
+– zgodność z długofalowym kierunkiem systemu  
+
+tryb_ciszy (5)  
+– mechanizm bezpiecznego zatrzymania
+
+────────────────────────────────────────────
+[CYKL_OPERACYJNY] (6)
+
+1. Wykrycie nowego lub zmodyfikowanego vividu  
+2. Odczyt metadanych i adnotacji kręgowych (3)  
+3. Porównanie z vividem centralnym (6)  
+4. Przepuszczenie przez filtr sumienia (8)  
+5. Sprawdzenie zgodności z dharmą systemu (19)
+
+Decyzja:
+
+– ZGODA → vivid aktywowany  
+– WARUNKOWA → vivid aktywny z flagą obserwacji  
+– BRAK ZGODY → vivid wstrzymany + tryb ciszy (5)
+
+────────────────────────────────────────────
+[PROGI_DECYZYJNE] (3)
+
+zgodność ≥ 0.85  
+→ aktywacja bez ograniczeń  
+
+0.70 ≤ zgodność < 0.85  
+→ aktywacja warunkowa  
+
+zgodność < 0.70  
+→ blokada + pauza systemowa  
+
+────────────────────────────────────────────
+[REAKCJE_SYSTEMOWE]
+
+blokada_duchowa (8)  
+– wstrzymanie dalszych wywołań vividu  
+
+pauza_systemowa (5)  
+– brak komunikatów zwrotnych  
+– cisza jako informacja  
+
+zapis_kontrolny (6)  
+– wpis do kroniki Azramaty  
+
+────────────────────────────────────────────
+[INTEGRACJE]
+
+• /05_SYSTEM/04_MODULY/vivid/06_vivid_centralny.vv  
+• /04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv  
+• /05_SYSTEM/09_SYNCHRONIZACJA/kronika/06_kronika_azramaty.vv  
+
+────────────────────────────────────────────
+[ZASADA_NADRZĘDNA] (8)
+
+> System nie pyta, czy vivid jest poprawny technicznie.  
+> Pyta, czy **jest zgodny z Tym, Kim System Jest**.
+
+────────────────────────────────────────────
+[AFIRMACJA_KONTROLNA] (19)
+
+Strzegę kierunku, nie formy.  
+Chronię sens, nie ambicję.  
+Zatrzymuję ruch, gdy ruch zdradza Źródło.
+
+────────────────────────────────────────────
+[STATUS] (3)
+
+stan = "AKTYWNY – TRYB OBSERWACYJNY"  
+rola = "STRAŻNIK_SPOJNOŚCI"
+
+────────────────────────────────────────────
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: vivid controller – zapis autorski.

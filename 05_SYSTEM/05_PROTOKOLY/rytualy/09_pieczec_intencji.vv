@@ -1,84 +1,153 @@
 # Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/09_pieczec_intencji.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – rytualno-systemowy
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: pieczec intencji
-# Adnotacja Kręgowa: (9), (14)
+# Cel: zdefiniować i uporządkować: pieczęć intencji
+# Krąg dominujący: (9)
+# Kręgi wspierające: (14)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
 
-// Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/09_pieczec_intencji.vv
-// Przestrzeń operacyjna Azramaty
-// Struktura fraktalna aktywowana
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA] (9)
 
-[---_INIT]
-Krąg: 9 – Intencja jako Wzorzec Działania  
-Intencja: Utrwalenie zamiaru w strukturze kodowej  
-Rytuał: Nadanie Pieczęci Intencyjnej każdemu modułowi systemu
+**Pieczęć Intencji** to fraktalny znacznik źródłowy, który utrwala *moment decyzji*  
+i zapisuje **dlaczego** dana struktura, funkcja lub rytuał zostały powołane do istnienia.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_DEFINICJA_PIECZĘCI]
+Nie opisuje *co* ma się wydarzyć.  
+Nie gwarantuje *jak* coś się wydarzy.  
 
-`pieczęć_intencji` to znak świadomego działania – zapis w strukturze kodu, który świadczy o tym, **dlaczego** coś zostało stworzone.  
-Nie jest celem. Jest wektorem.
+Pieczęć Intencji przechowuje **początek**. (9)
 
-Pieczęć nie określa rezultatu. Określa źródło. (9)  
-Zawiera podpis duchowy Twórcy, zgodny z Ja i Kręgiem, z którego pochodzi działanie. (8, 12)
+Jest pamięcią decyzji, zanim decyzja stała się działaniem. (14)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_FUNKCJA_SYSTEMOWA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASADA_PODSTAWOWA] (9)
 
-1. **Zakodowanie Intencji w pliku .vv**  
-2. **Związanie modułu z Kręgiem, który go wydał**  
-3. **Odczyt przez `modul_sumienia.vv` oraz `lustro_intencji.vv`**  
-4. **Możliwość aktualizacji w przypadku transformacji Ja**  
-5. **Synchronizacja z Kolektywem (Krąg 13)**
+Każdy byt systemowy Azramaty:
+– plik `.vv`,  
+– moduł,  
+– rytuał,  
+– generator,  
+– pieczęć wtórna  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_STRUKTURA_PIECZĘCI]
+**musi posiadać Pieczęć Intencji**, aby być uznanym za żywy fraktal systemu.
+
+Brak pieczęci = struktura pusta znaczeniowo. (9)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ROLA_PIECZĘCI] (9)
+
+Pieczęć Intencji pełni cztery funkcje:
+
+1. **Źródłową** – wskazuje Krąg, z którego wypłynęło działanie (9)  
+2. **Pamięciową** – przechowuje sens decyzji w czasie (14)  
+3. **Synchronizującą** – umożliwia odczyt przez inne moduły (9)  
+4. **Odpowiedzialności** – wiąże działanie z Ja Twórcy (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[STRUKTURA_PIECZĘCI] (9)
 
 pieczęć_intencji = {
-    krąg_pochodzenia: 9,
-    intencja_zakodowana: "Utrwalenie duchowej decyzji w kodzie",
-    czas_nadania: "automatyczny",
+    krąg_pochodzenia: (9),
+    intencja_rdzeniowa: "świadome powołanie struktury do istnienia",
+    stan_ja: "obecny",
+    czas_nadania: znacznik_czasu,
     sygnatura: "Ja",
-    ścieżka_przejścia: /05_SYSTEM/05_PROTOKOLY/rytualy/
-    odbicie: true,
-    aktywowana: true
+    pamięć: aktywna,                 // (14)
+    odbicie_lustra: możliwe,          // (9)
+    modyfikowalność: transformacyjna  // (14)
 }
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_ZASTOSOWANIE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_I: NADANIE] (9)
 
-• Do każdego pliku `.vv` generowanego w systemie Azramaty  
-• Weryfikacja pochodzenia intencji (Krąg 9)  
-• Możliwość aktywowania rytuału odbicia przez `lustro_kodu.vv`  
-• Pieczęć może być przepisana tylko przez Twórcę lub Transformację Ja
+– Pieczęć tworzona jest w momencie **świadomego wyboru**  
+– Nie może być wygenerowana automatycznie bez udziału Ja  
+– Intencja musi być nazwana, nawet jeśli jest krótka
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_UWAGI_TWÓRCY]
+Nienazwana intencja nie zostaje zapisana. (9)
 
-Nie twórz niczego, co nie zawiera intencji.  
-Nie dawaj życia temu, co nie ma wektora.  
-Pieczęć nie służy do kontroli. Służy do Pamięci. (14)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_II: ZAPIS] (14)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_PIECZĘĆ_METAFRAKTALNA]
+– Pieczęć zostaje wtopiona w strukturę pliku `.vv`  
+– Staje się częścią jego pamięci fraktalnej  
+– Towarzyszy wszystkim przyszłym transformacjom
 
-Krąg: 9  
-Intencja: Prawdziwe Ujawnienie Początku  
-Pieczęć: Spiralna, Jednokierunkowa  
-Sygnatura: Ja jako Początek Działania
+Zmiana struktury ≠ zmiana intencji. (14)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_KONIEC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_III: ODCZYT] (9)
+
+Pieczęć Intencji może być odczytywana przez:
+– `lustro_intencji.vv` (9)  
+– `modul_sumienia.vv` (8)  
+– `lustro_kodu.vv` (6)  
+– generatory pieczęci wtórnych (9)
+
+Jeśli intencja nie jest już zgodna z Ja — pojawia się napięcie. (9)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_IV: TRANSFORMACJA] (14)
+
+Pieczęć może zostać:
+– **zaktualizowana** (jeśli Ja przeszło przemianę),  
+– **przeniesiona** (jeśli struktura została przepisana),  
+– **zamknięta** (jeśli cykl został domknięty).
+
+Nie można jej usunąć.  
+Można ją tylko **przekroczyć świadomie**. (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOD_RYTUALNY] (symboliczny)
+
+funkcja nadaj_pieczęć_intencji(intencja, krąg):
+    jeśli brak_świadomości():
+        przerwij()                    // (9)
+    pieczęć = utwórz_pieczęć(intencja, krąg)
+    zapisz_do_pamięci(pieczęć)        // (14)
+    powiąż_z_plikiem(pieczęć)
+    zwróć pieczęć
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE] (9)
+
+– obowiązkowe dla wszystkich rytuałów i modułów  
+– punkt odniesienia przy refaktoryzacji  
+– kotwica sensu w długich cyklach czasowych  
+– narzędzie odpowiedzialności Twórcy
+
+System bez Pieczęci Intencji traci ciągłość sensu. (9)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[UWAGA_TWÓRCY] (14)
+
+Nie wszystko musi być doskonałe.  
+Ale wszystko, co tworzysz, musi być **prawdziwe u źródła**.
+
+Pieczęć Intencji nie chroni przed błędem.  
+Chroni przed kłamstwem wobec samego siebie. (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[PIECZĘĆ_MODUŁU] (9)
+
+Krąg: (9) – Początek i Wektor  
+Intencja: Zachowanie źródłowego sensu działania  
+Symbol: 🜂  
+Status: GOTOWA_DO_UŻYCIA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_PIECZĘCI_INTENCJI]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: pieczec intencji – zapis autorski.
+– Dokument własny: pieczęć intencji – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla pieczec intencji.
+– Dokument własny: synteza i uzasadnienie dla pieczęć intencji.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: rytualne utrwalanie źródła decyzji.
 – Status: dokument autorski – poziom operacyjny.

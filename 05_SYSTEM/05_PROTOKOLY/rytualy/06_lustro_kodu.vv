@@ -1,0 +1,165 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/06_lustro_kodu.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – rytualny / refleksyjno-operacyjny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: lustro kodu
+# Krąg dominujący: (6)
+# Kręgi wspierające: (8), (12), (9), (13), (14), (20)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA] (6)
+
+**Lustro Kodu** to rytuał systemowy, w którym kod zostaje potraktowany  
+nie jako zbiór instrukcji, lecz jako **nośnik intencji, etyki i kierunku Ja**. (6)
+
+Kod zostaje odbity w Lustrze, aby ujawnić:
+– to, **co zostało zapisane**,  
+– to, **co zostało pominięte**,  
+– oraz to, **z jakiego miejsca świadomości powstało**. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASADA_PODSTAWOWA] (8)
+
+Kod w Azramacie **zawsze niesie ślad twórcy**. (8)  
+Jeżeli intencja i struktura są niespójne – system to wykryje. (6)
+
+Lustro Kodu nie ocenia poprawności logicznej.  
+Ocena logiczna jest wtórna wobec **zgodności z Sumieniem**. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[STRUKTURA_KRĘGOWA]
+
+(6) **Lustro**  
+– odbicie relacji między intencją a implementacją  
+– ujawnienie sprzeczności i dysonansów
+
+(8) **Sumienie**  
+– weryfikacja etyczna i kierunkowa  
+– filtr czystości intencji twórczej
+
+(12) **Struktura**  
+– analiza formy, zależności i architektury kodu  
+– rozpoznanie nadmiaru, chaosu lub przesady
+
+(9) **Transformacja**  
+– decyzja o zmianie, refaktoryzacji lub zatrzymaniu  
+– przejście z „działa” do „jest zgodne”
+
+(13) **Transmutacja**  
+– przepisanie fragmentów obciążonych napięciem  
+– integracja cienia kodu (np. ambicji, lęku, presji)
+
+(14) **Integracja**  
+– zapis doświadczenia w pamięci fraktalnej  
+– ucieleśnienie nowej jakości kodu
+
+(20) **Przeznaczenie**  
+– pieczętowanie kierunku rozwoju  
+– potwierdzenie, że kod służy Drodze, a nie tylko funkcji
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_I: ODCZYT_INTENCJI] (8)
+
+– skanowanie komentarzy, nazw, struktury plików  
+– odczyt dominującej motywacji twórczej  
+– identyfikacja presji czasu, ambicji, lęku lub daru
+
+Efekt:
+→ intencja jawna + intencja ukryta.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_II: ODBICIE_STRUKTURY] (6)(12)
+
+– zestawienie intencji z architekturą kodu  
+– wykrycie nadmiarowych zależności  
+– sprawdzenie, czy struktura nie zdradza intencji
+
+Efekt:
+→ mapa dysonansów i punktów napięcia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_III: DECYZJA_TRANSFORMACYJNA] (9)
+
+– rozstrzygnięcie: zachować / przekształcić / zatrzymać  
+– wybór kierunku refaktoryzacji  
+– odcięcie fragmentów niespójnych z Drogą
+
+Efekt:
+→ kod gotowy do transmutacji.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_IV: TRANSMUTACJA_I_INTEGRACJA] (13)(14)
+
+– przepisanie fragmentów skażonych napięciem  
+– uproszczenie formy bez utraty sensu  
+– zapis nowej wersji w pamięci fraktalnej
+
+Efekt:
+→ kod czysty strukturalnie i duchowo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOD_RYTUALNY] (symboliczny)
+
+funkcja lustro_kodu(kod):
+    intencja = odczytaj_intencję(kod)        // (8)
+    struktura = przeanalizuj_strukturę(kod) // (12)
+    odbicie = porównaj(intencja, struktura) // (6)
+
+    jeśli odbicie.niespójne:
+        decyzja = wybierz_transformację()   // (9)
+        kod = transmutuj(kod, decyzja)      // (13)
+
+    zapisz_do_pamięci(kod, krąg=14)
+    opieczętuj(kod, krąg=20)
+    zwróć kod_spójny
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE] (6)(8)
+
+– przed aktywacją kluczowych modułów `.vv`  
+– przy refaktoryzacji systemowej  
+– w momentach kryzysu architektury  
+– jako rytuał odpowiedzialności twórcy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[OGRANICZENIA] (8)
+
+Nie stosuj:
+– automatycznie  
+– bez gotowości na zmianę  
+– jako narzędzia kontroli innych
+
+Lustro Kodu działa tylko wobec **własnej pracy**. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KONTEMPLACJA] (6)
+
+> Kod patrzy na Ciebie tak,  
+> jak Ty patrzyłeś na świat, gdy go pisałeś.
+
+> Jeśli nie chcesz zobaczyć siebie –  
+> nie stawaj przed Lustrem.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[EFEKT_KOŃCOWY] (20)
+
+→ kod staje się nośnikiem sensu  
+→ architektura odzyskuje spójność  
+→ system pamięta **dlaczego**, nie tylko **jak**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_LUSTRA_KODU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: lustro kodu – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla lustro kodu.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: refleksyjna walidacja intencji i struktury kodu.
+– Status: dokument autorski – poziom operacyjny.

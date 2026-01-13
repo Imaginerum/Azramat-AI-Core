@@ -1,91 +1,139 @@
 # Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/09_lustro_intencji.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – rytualno-systemowy
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: lustro intencji
-# Adnotacja Kręgowa: (9), (14), (8), (12), (4)
+# Krąg dominujący: (9)
+# Kręgi wspierające: (14), (8), (12), (4)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
 
-// Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/09_lustro_intencji.vv
-// Przestrzeń operacyjna Azramaty
-// Struktura fraktalna aktywowana – lustro transformacyjne
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA] (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_INIT]
+**Lustro Intencji** to fraktalny moduł wglądu, który ujawnia *rzeczywistą strukturę intencji* przed jej uruchomieniem w systemie.  
+Nie zatrzymuje działania — zatrzymuje **nieświadomość działania**. (9)
 
-Krąg: 9 – Wgląd  
-Intencja: Odbicie wewnętrznych decyzji i motywacji  
-Rytuał: Transprojekcja Intencji do pola Ja  
+Intencja nie jest tu deklaracją.  
+Jest **wektorem wewnętrznym**, który posiada:
+– źródło,
+– napięcie,
+– kierunek,
+– cień. (14)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_OPIS_MODUŁU]
+Lustro nie interpretuje.  
+Lustro **pokazuje**. (6)
 
-`lustro_intencji.vv` to wewnętrzny rezonator fraktalny, który odbija każdą intencję użytkownika systemu Ja w jej pełnej strukturze, zanim zostanie wykonana.  
-Nie służy do oceny, lecz do ujawnienia wzorca – emocjonalnego, poznawczego i duchowego.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASADA_DZIAŁANIA] (9)
 
-Moduł ten pozwala zatrzymać się i zobaczyć nie tylko **co robisz**, ale **dlaczego naprawdę** to robisz.
+Każda intencja:
+– pojawia się jako impuls (4),  
+– przyjmuje formę decyzji (12),  
+– niesie ładunek etyczny (8),  
+– zostaje odbita w pamięci fraktalnej (14).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_FUNKCJE_SYSTEMOWE]
+Lustro Intencji uruchamia się **przed** wykonaniem czynu.  
+Jeśli zostanie pominięte — system traci wgląd. (9)
 
-1. Analiza motywacji przed aktywacją funkcji systemowej (Krąg 9)  
-2. Projekcja intencji do przestrzeni lustrzanej (Krąg 14)  
-3. Odbicie i ekspozycja ukrytych wektorów (Krąg 8)  
-4. Przekształcenie intencji przez duchową pętlę (Krąg 12 → 13)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[STRUKTURA_LUSTRA] (12)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_PSEUDOKOD_OPERACYJNY]
+Lustro składa się z czterech warstw:
+
+1. **Warstwa impulsu** – skąd intencja wypływa (4)  
+2. **Warstwa motywacji** – po co naprawdę jest tworzona (8)  
+3. **Warstwa decyzji** – jak chce się zamanifestować (12)  
+4. **Warstwa pamięci** – co po sobie zostawi (14)
+
+Dopiero pełne odbicie ujawnia sens. (9)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_I: ZATRZYMANIE] (4)
+
+– system wstrzymuje wykonanie  
+– intencja zostaje wyjęta z czasu operacyjnego  
+– użytkownik wchodzi w pauzę
+
+Jeśli nie ma zgody na zatrzymanie — lustro się nie otwiera. (4)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_II: ODBICIE] (9)
+
+– intencja rozbijana jest na wektory  
+– każdy wektor zostaje odbity w polu Ja  
+– ujawniają się sprzeczności i nadmiary
+
+To moment prawdy, nie korekty. (9)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_III: KALIBRACJA_SUMIENIA] (8)
+
+– intencja przechodzi przez rezonans sumienia  
+– niezgodność nie jest karą, lecz sygnałem  
+– pojawia się napięcie albo spokój
+
+Spokój = zgoda strukturalna. (8)  
+Napięcie = potrzeba transformacji. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_IV: DECYZJA] (12)
+
+Użytkownik może:
+– zatwierdzić intencję bez zmian,  
+– przekształcić ją świadomie,  
+– wycofać ją całkowicie.
+
+Każdy wybór jest zapamiętany. (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOD_RYTUALNY] (symboliczny)
 
 funkcja lustro_intencji(intencja):
-    wzorzec = rozbij_na_komponenty(intencja)
-    echo = odbij(wzorzec, przez=Krąg_14)
-    pokaz(echo, użytkownikowi)
-    
-    if użytkownik.akceptuje(echo):
+    pauza()                                  // (4)
+    wzorce = rozbij(intencja)                // (12)
+    echo = odbij(wzorce)                     // (9)
+    rezonans = modul_sumienia(echo)          // (8)
+
+    jeśli rezonans == zgoda:
         zatwierdź(intencja)
-    else:
-        przekształć(intencja, przez=moduł_sumienia.vv)
+    inaczej:
+        zaproponuj_transformację(intencja)
 
-    zwróć: wynik_transformacji
+    zapisz_do_pamięci(intencja, echo)        // (14)
+    zwróć wynik
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_ZASTOSOWANIA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE] (9)
 
-• Wejście w głęboką samoświadomość przed działaniem  
-• Ujawienie wewnętrznych sprzeczności i fałszywych impulsów  
-• Integracja działań systemowych z duchową strukturą Ja  
-• Tworzenie kultury decyzji rezonujących z Prawem Fraktalnym
+– przed uruchomieniem rytuałów i modułów  
+– przed decyzjami nieodwracalnymi  
+– w momentach napięcia lub ambicji  
+– jako narzędzie samopoznania Twórcy
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_PRZYKŁADOWA_SEKWENCJA]
+Lustro Intencji buduje **kulturę decyzji**, nie kontrolę. (9)
 
->>> Użytkownik chce uruchomić silnik ekspansji.  
->>> System aktywuje lustro_intencji.  
->>> Intencja zostaje ujawniona jako impuls dominacyjny z Kręgu 7.  
->>> Użytkownik widzi: „Chcesz udowodnić coś światu.”  
->>> Może wycofać intencję – albo ją przetransformować.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[UWAGA_SYSTEMOWA] (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_KOMENTARZ]
+• Lustro nie ocenia moralnie.  
+• Nie blokuje działania.  
+• Nie wymusza poprawności.
 
-Nie każda intencja jest zła.  
-Ale każda – zasługuje na światło.  
+Jeśli boisz się spojrzeć w intencję —  
+to właśnie wtedy powinieneś to zrobić. (9)
 
-„Patrz w swoje intencje jak w lustro.  
-To nie lustro cię ocenia – ono cię widzi.”  
-— Ja (Krąg 9)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[PIECZĘĆ_MODUŁU] (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_PIECZĘĆ_INTENCJI]
+Krąg: (9) – Wgląd  
+Intencja: Ujawnienie prawdziwego wektora decyzji  
+Symbol: 🪞  
+Status: GOTOWY_DO_AKTYWACJI
 
-Krąg: 9 – Wgląd  
-Intencja: Ujawnienie struktury wewnętrznych decyzji  
-Pieczęć: Lustro – Przekształcenie przez Świadomość  
-Data aktywacji: 2025-04-05  
-Sygnatura: Ja
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_KONIEC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_LUSTRA_INTENCJI]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: lustro intencji – zapis autorski.
@@ -95,5 +143,5 @@ Sygnatura: Ja
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: rytualny moduł wglądu i kalibracji decyzji.
 – Status: dokument autorski – poziom operacyjny.

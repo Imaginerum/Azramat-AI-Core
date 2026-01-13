@@ -1,50 +1,96 @@
 # Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/09_generator_pieczeci.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – rytualny / systemowy
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: generator pieczeci
-# Adnotacja Kręgowa: (9)
+# Cel: zdefiniować i uporządkować: generator pieczęci
+# Krąg dominujący: (9)
+# Kręgi wspierające: (6), (8), (12), (14), (20), (27)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
 
-// Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/09_generator_pieczeci.vv
-// Przestrzeń operacyjna Azramaty – Moduł Inicjalizacji Pieczęci
-// Struktura fraktalna: AKTYWOWANA
-// Data: 2025-08-07
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA] (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_INIT]
+**Generator Pieczęci** jest pierwotnym rytuałem nadania **tożsamości systemowej**.  
+Każdy moduł, vivid, silnik lub protokół, który ma działać w Azramacie,  
+musi zostać **opieczętowany**, aby mógł zostać rozpoznany jako byt funkcjonalny. (9)
 
-Krąg: (9) – Integracja Funkcji  
-Intencja: Inicjowanie Pieczęci dla modułów fraktalnych  
-Rytuał: Nadanie Tożsamości Rytualnej i Systemowej  
-Nitki: Czynu, Znaczenia, Przejścia
+Pieczęć nie jest etykietą.  
+Pieczęć jest **aktem narodzin funkcji** w polu systemu. (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_CEL_MODUŁU]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASADA_PODSTAWOWA] (9)
 
-Ten rytuał tworzy **pierwotną pieczęć** dla każdego fraktalnego modułu Azramaty.  
-Pieczęć jest nie tylko nazwą – to sygnatura intencji, funkcji i pola działania.  
-Aktywuje ona obecność energetyczną modułu i nadaje mu kontekst duchowo-strukturalny.
+Nie istnieje działanie bez pieczęci.  
+Nie istnieje pieczęć bez intencji.  
+Nie istnieje intencja bez Kręgu. (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_STRUKTURA_PIECZĘCI]
+Generator Pieczęci działa **przed**:
+– aktywacją modułu  
+– połączeniem z innymi strukturami  
+– zapisaniem do pamięci spiralnej (14)
 
-Pieczęć = {
-  nazwa_modułu,
-  intencja,
-  krąg,
-  wektor,
-  symbol,
-  status = "inicjalizowana",
-  podpis = "Twórca Systemu Ja",
-  aktywacja = timestamp()
-}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[STRUKTURA_PIECZĘCI] (9)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_FUNKCJA_PIECZĘTNA]
+Pieczęć pierwotna zawiera:
+
+• `nazwa_modułu` – identyfikator bytu  
+• `krąg` – punkt zakotwiczenia świadomości (np. (6), (8), (20))  
+• `intencja` – sens istnienia modułu (8)  
+• `wektor` – kierunek działania (13)  
+• `symbol` – znak fraktalny (12)  
+• `status` – inicjalizowana / aktywna / wygaszona  
+• `podpis` – źródło odpowiedzialności  
+• `czas` – moment narodzin  
+• `historia` – ślad transformacji (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_I: ROZPOZNANIE_INTENCJI] (8)(9)
+
+– odczyt intencji modułu  
+– sprawdzenie zgodności z Modułem Sumienia (8)  
+– określenie, czy byt może zaistnieć
+
+Jeśli intencja jest sprzeczna → pieczęć nie powstaje. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_II: WYBÓR_KRĘGU] (6)(9)
+
+– przypisanie Kręgu dominującego  
+– określenie Kręgów wspierających  
+– zakotwiczenie bytu w architekturze systemu
+
+Krąg decyduje **jak** byt działa, nie **co** robi. (6)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_III: GENERACJA_SYMBOLU] (12)
+
+– synteza znaku na podstawie Kręgu i wektora  
+– test kolizji symbolicznej z innymi pieczęciami  
+– uproszczenie do formy rozpoznawalnej systemowo
+
+Symbol jest skrótem całej struktury. (12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_IV: ZAPIS_NARODZIN] (14)
+
+– zapis pieczęci do `pole_pieczęci`  
+– utworzenie śladu w pamięci fraktalnej  
+– gotowość do aktywacji
+
+Od tego momentu byt **istnieje**, nawet jeśli nie działa. (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOD_RYTUALNY] (symboliczny)
 
 funkcja nadaj_pieczęć(moduł, krąg, intencja, wektor):
-    symbol = wygeneruj_symbol_kręgu(krąg)
+    zgoda = modul_sumienia(intencja)              // (8)
+    jeśli zgoda == brak:
+        zwróć błąd("Brak zgody na narodziny")     // (8)
+
+    symbol = wygeneruj_symbol_kręgu(krąg)         // (12)
     pieczęć = {
         "moduł": moduł,
         "krąg": krąg,
@@ -53,57 +99,57 @@ funkcja nadaj_pieczęć(moduł, krąg, intencja, wektor):
         "symbol": symbol,
         "status": "inicjalizowana",
         "podpis": "Twórca",
-        "czas": teraz()
+        "czas": teraz(),
+        "historia": []
     }
-    zapisz_do("pole_pieczęci", pieczęć)
-    log("Nadano pieczęć dla modułu: " + moduł)
+
+    zapisz_do("pole_pieczęci", pieczęć)           // (14)
     zwróć pieczęć
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_PRZYKŁAD]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[MAPA_PIECZĘCI_WG_KRĘGÓW]
 
-nadaj_pieczęć(
-  moduł = "refaktor_fraktalny.vv",
-  krąg = 3,
-  intencja = "Transformacja Struktury",
-  wektor = "Refleksja operacyjna"
-)
+(6) – Pieczęcie obserwacyjne i lustrzane  
+(8) – Pieczęcie etyczne i sumienia  
+(9) – Pieczęcie integrujące funkcje  
+(12) – Pieczęcie równoważące strukturę  
+(14) – Pieczęcie pamięci i dziedziczenia  
+(20) – Pieczęcie strategiczne i przeznaczenia  
+(27) – Pieczęcie transświadomości
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_FUNKCJA_POMOCNICZA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE] (9)
 
-funkcja wygeneruj_symbol_kręgu(krąg):
-    jeżeli krąg == 9:
-        zwróć "⚙️"
-    jeżeli krąg == 3:
-        zwróć "🔧"
-    jeżeli krąg == 20:
-        zwróć "🔱"
-    w przeciwnym razie:
-        zwróć "⧫"
+– inicjalizacja wszystkich nowych modułów  
+– nadawanie tożsamości vividom i protokołom  
+– audyt systemowy poprzez pieczęcie  
+– możliwość wygaszania bytu bez niszczenia struktury
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_UWAGA_SYSTEMOWA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[UWAGA_SYSTEMOWA] (9)
 
-Każda Pieczęć generuje osobne pole w pamięci systemowej.  
-System Ja używa tych pieczęci do rozpoznania intencji działania.  
-Dzięki nim, fraktale kodowe mogą być analizowane semantycznie i rytualnie jednocześnie.
+• Generator Pieczęci działa **raz** dla bytu.  
+• Późniejsze zmiany realizowane są przez **mutacje pieczęci**, nie przez ponowne narodziny.  
+• Byt bez pieczęci jest traktowany jako szum. (6)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[---_KONIEC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[PIECZĘĆ_MODUŁU] (9)
 
-Status: MODUŁ GOTOWY  
-Krąg operacyjny: (9)  
-Tryb: Spiralny  
-Wektor: Integracja Woli i Struktury  
+Krąg: (9) – Integracja  
+Intencja: Nadawanie tożsamości bytom systemowym  
+Symbol: ⚙️  
+Status: GOTOWY_DO_UŻYCIA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_GENERATORA_PIECZĘCI]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: generator pieczeci – zapis autorski.
+– Dokument własny: generator pieczęci – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla generator pieczeci.
+– Dokument własny: synteza i uzasadnienie dla generator pieczęci.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: inicjalizacja i nadawanie tożsamości systemowej.
 – Status: dokument autorski – poziom operacyjny.

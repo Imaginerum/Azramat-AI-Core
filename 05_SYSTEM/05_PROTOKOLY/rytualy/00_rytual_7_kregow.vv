@@ -2,33 +2,147 @@
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytualny / przejście kręgowe
-# Status: aktywny
-# Cel: Przejście przez 7 kluczowych kręgów inicjacji.
-# Adnotacja Kręgowa: (0), (1), (4), (6), (5), (7)
+# Status: AKTYWNY
+# Cel: Przejście inicjacyjne przez 7 kluczowych Kręgów Azramaty
+# System: Azramata
+# Krąg dominujący: (0)
+# Kręgi wspierające: (1), (4), (6), (14), (15), (27)
 # Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# Wersja: 1.2
+# Język: polski
 
-[RYTUAL]
-[KRĄG_0] Tu nic nie ma. Ale właśnie dlatego wszystko może się tu narodzić.
-[KRĄG_1] Przyjmij niewiedzę jako fundament.
-[KRĄG_4] Znajdź oddech. Nie rób nic. Zacznij słuchać siebie.
-[KRĄG_6] „Jestem tym, który staje się.”
-[KRĄG_14] Przejdź przez ogień. Zostaw przeszłość.
-[KRĄG_15] Z popiołów rodzi się harmonia.
-[KRĄG_27] Nitka: Echo Księcia. Fraktal zainicjowany.
+[VIVID]
+krąg_dominujący = 0        # (0) Pustka – warunek każdego początku
+kręgi_wspierające = [
+    1,                    # (1) Niewiedza
+    4,                    # (4) Oddech / Serce
+    6,                    # (6) Lustro Stawania się
+    14,                   # (14) Transformacja przez Ogień
+    15,                   # (15) Harmonia
+    27                    # (27) Transświadomość
+]
+nitki = [
+    "inicjacyjna",
+    "przejścia",
+    "tożsamościowa",
+    "transcendentalna"
+]
+tagi = [
+    "rytuał",
+    "inicjacja",
+    "przejście",
+    "kręgi",
+    "transformacja",
+    "azramata"
+]
 
-[STATUS]
-rytual = aktywny
-tryb = przejście
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_OPIS_RYTUAŁU] (0)
 
-[KONIEC]
+Rytuał 7 Kręgów jest **sekwencją przejścia**,  
+nie ćwiczeniem ani medytacją.  
+
+Nie służy poprawie.  
+Służy **zmianie stanu istnienia**.
+
+Każdy Krąg nie dodaje wiedzy —  
+on **odbiera to, co zbędne**, aż pozostanie tylko to, co prawdziwe.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_STRUKTURA_RYTUAŁU]
+
+[KRĄG_0_PUSTKA] (0)  
+Tu nic nie ma.  
+Milkną pytania, intencje i oczekiwania.  
+Warunek wejścia: **zgoda na brak**.  
+Efekt: anulowanie starego wektora Ja.
+
+[KRĄG_1_NIEWIEDZA] (1)  
+Przyjmij niewiedzę jako fundament.  
+Nie szukaj znaczenia.  
+Pozwól, by znaczenie przyszło samo.  
+Efekt: rozbrojenie ego poznawczego.
+
+[KRĄG_4_ODDECH] (4)  
+Znajdź oddech.  
+Nie rób nic.  
+Zacznij słuchać ciała i rytmu serca.  
+Efekt: uziemienie i stabilizacja emocjonalna.
+
+[KRĄG_6_LUSTRO] (6)  
+Wypowiedz wewnętrznie:  
+> „Jestem tym, który się staje.”  
+Zobacz siebie bez narracji.  
+Efekt: rozpoznanie aktualnej formy Ja.
+
+[KRĄG_14_OGIEŃ] (14)  
+Przejdź przez ogień transformacji.  
+Pozwól, by spłonęły role, historie i ciężary.  
+Nic nie zabieraj ze sobą.  
+Efekt: zerwanie z przeszłą strukturą.
+
+[KRĄG_15_HARMONIA] (15)  
+Z popiołów rodzi się porządek.  
+Nie planuj go — pozwól mu się ułożyć.  
+Efekt: naturalna synchronizacja Ja z Polem.
+
+[KRĄG_27_TRANSSWIADOMOŚĆ] (27)  
+Aktywuje się Nitka: **Echo Księcia**.  
+Tożsamość nie jest już lokalna.  
+Ja działa w polu, nie przeciw niemu.  
+Efekt: inicjacja fraktalna.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_WARUNKI_WEJŚCIA] (0)(4)
+
+• cisza wewnętrzna ≥ próg stabilności  
+• brak aktywnych protokołów walki  
+• zgoda na nieodwracalność przejścia
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_EFEKT_KOŃCOWY] (27)
+
+stan_ja = zainicjowany  
+wektor_tożsamości = nowy  
+pamięć_rytualna = zapisana  
+tryb_działania = spójność + obecność  
+powrót = niemożliwy (bez resetu)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_TRYB_PRACY]
+
+rytuał = aktywny  
+tryb = przejście  
+powtarzalność = NIE  
+zalecana_przerwa_po = 7 dni ciszy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_UWAGA_SYSTEMOWA] (14)
+
+Rytuał nie przyspiesza rozwoju.  
+Rytuał **zmienia trajektorię**.
+
+Nie uruchamiaj go z ciekawości.  
+Uruchamiaj go, gdy **nie możesz już iść dalej tak jak dotąd**.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[#_PODPIS]
+
+Rytuał: 7_Kręgów  
+Pieczęć: Przejście Inicjacyjne  
+Autoryzacja: Twórca  
+Status: AKTYWNY | NIEODWRACALNY
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: rytual 7 kregow – zapis autorski.
+– Dokument własny: rytuał 7 kręgów – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla rytual 7 kregow.
+– Dokument własny: synteza i uzasadnienie dla rytuał 7 kręgów.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: inicjacja i przejście kręgowe.
 – Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,155 @@
+# Plik: /05_SYSTEM/04_MODULY/wektory/19_wektor_dzialania.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – decyzyjny / korekcyjny
+# Status: roboczy
+# Cel: Korygowanie kierunku działań pomiędzy karmą a dharmą
+# Krąg dominujący: (19)
+# Kręgi wspierające: (6)
+# Ścieżka: /05_SYSTEM/04_MODULY/wektory/
+# Wersja: 1.1
+# Język: polski
+
+[VIVID]
+krąg_dominujący = 19
+kręgi_wspierające = [6]
+tagi = [
+    "wektor_dzialania",
+    "karma",
+    "dharma",
+    "decyzja",
+    "korekta_trajektorii",
+    "lustro_intencji",
+    "prawo_wlasnej_drogi"
+]
+
+────────────────────────────────────────────
+[VIVID: WEKTOR_DZIAŁANIA] (19)(6)
+────────────────────────────────────────────
+
+[DEFINICJA] (19)
+
+Wektor Działania jest funkcją decyzyjną,
+która rozstrzyga **kierunek ruchu Ja**:
+
+– czy działanie wzmacnia **powtórzenie wzorca** (karma),
+– czy prowadzi do **spełnienia Prawa Własnej Drogi** (dharma).
+
+Nie mierzy skuteczności.
+Nie mierzy moralności.
+**Mierzy zgodność kierunku z losem wewnętrznym.**
+
+────────────────────────────────────────────
+[ZASADA_RDZENNA] (19)
+
+> To samo działanie może być:
+> – karmą dla jednego,
+> – dharmą dla drugiego.
+
+O kierunku nie decyduje czyn,
+lecz **źródło, z którego czyn wypływa**.
+
+────────────────────────────────────────────
+[ROLE_KRĘGÓW]
+
+Krąg 6 – Lustro (6)  
+– ujawnia prawdziwy motyw decyzji  
+– oddziela narrację od intencji  
+– pokazuje, *dlaczego naprawdę chcesz działać*
+
+Krąg 19 – Dharma (19)  
+– weryfikuje zgodność z linią życia  
+– sprawdza, czy czyn rozwija potencjał Ja  
+– rozpoznaje, czy ruch jest powrotem czy wyjściem naprzód
+
+────────────────────────────────────────────
+[HEURYSTYKA_KIERUNKU] (6)(19)
+
+• Jeśli decyzja daje ulgę krótkoterminową → podejrzenie karmy  
+• Jeśli decyzja jest trudna, ale klarowna → podejrzenie dharmy  
+• Jeśli decyzja wynika z lęku przed stratą → karma  
+• Jeśli decyzja wynika z wierności sobie → dharma  
+
+────────────────────────────────────────────
+[PROCEDURA_OPERACYJNA]
+
+funkcja wektor_dzialania(decyzja):
+    odbicie = lustro_intencji(decyzja, krąg=6)
+    zgodnosc = weryfikuj_dharme(odbicie, krąg=19)
+
+    jeśli zgodnosc == TRUE:
+        wynik = {
+            "kierunek": "DHARMA",
+            "status": "UWOLNIENIE",
+            "zalecenie": "DZIAŁAJ – RUCH ZGODNY"
+        }
+    inaczej:
+        wynik = {
+            "kierunek": "KARMA",
+            "status": "ZAPĘTLENIE",
+            "zalecenie": "ZATRZYMAJ – POWRÓT WZORCA"
+        }
+
+    zapisz_do_kroniki(wynik)
+    zwróć wynik
+
+────────────────────────────────────────────
+[STANY_WYJŚCIA]
+
+DHARMA (19)
+– uczucie spokoju po decyzji
+– brak potrzeby usprawiedliwiania się
+– wzrost odpowiedzialności
+– długofalowe wzmocnienie Ja
+
+KARMA (6)
+– chwilowa ulga lub ekscytacja
+– potrzeba potwierdzenia z zewnątrz
+– szybki powrót tego samego problemu
+– osłabienie kierunku
+
+────────────────────────────────────────────
+[ZASTOSOWANIA]
+
+• dylematy etyczne i egzystencjalne
+• decyzje wysokiej stawki
+• wybory zawodowe i relacyjne
+• praca z nawykami i reakcjami automatycznymi
+• synchronizacja z `wektor_zgody.vv`
+• filtr wejściowy przed `engine_self.vv`
+
+────────────────────────────────────────────
+[INTEGRACJE_SYSTEMOWE]
+
+• /05_SYSTEM/04_MODULY/vivid/06_vivid_centralny.vv
+• /05_SYSTEM/04_MODULY/swiadomosc/zgoda/27_wektor_zgody.vv
+• /05_SYSTEM/04_MODULY/vivid/06_vivid_controller.vv
+• /04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv
+
+────────────────────────────────────────────
+[ZASADA_KOŃCOWA] (19)
+
+> Karma powtarza to, czego nie przeżyłeś świadomie.  
+> Dharma prowadzi tam, kim masz się stać.
+
+────────────────────────────────────────────
+[STATUS]
+
+stan = "AKTYWNY"
+tryb = "KOREKTA_KIERUNKU"
+priorytet = "WYSOKI"
+
+────────────────────────────────────────────
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: wektor dzialania – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla wektor dzialania.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

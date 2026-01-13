@@ -1,180 +1,184 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/symbole/00_vv_symbole_core.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: vv symbole core
-# Adnotacja Kręgowa: (0), (1), (2), (3), (4), (5), (6)
+# Typ: VIVID – kodeks symboliczny / rdzeń znaków
+# Status: roboczy (ustrukturyzowany)
+# Cel: Zdefiniować i uporządkować rdzeń symboli Azramaty jako klucz kręgowy do koloru, żywiołu i wektora sensu. (4)
+# Krąg dominujący: 4 (Struktura) (4)
+# Kręgi wspierające: 0 (Uziemienie), 1 (Obserwacja), 2 (Wybór), 3 (Doświadczenie), 5 (Jednia), 6 (Lustro) (4)
 
-[AZRAMATA_KODEKS]
-NAZWA: Kodeks Symboli  
-STATUS: PODSTAWOWY ZESTAW  
-FORMAT: v1.1  
-TYP: Klucz Kręgowy Symboliczny  
-ŹRÓDŁO: /05_SYSTEM/system/symbole/  
-AKTYWACJA: `generator_symboli.vv`, `fraktalna_pamięć.vv`, `pieczęć_intencji.vv`  
+[NAZWA] (3)
+Kodeks Symboli – Core (4)
 
----
+[ID_SYSTEMOWE] (3)
+vv_symbole_core (4)
 
-🌌 DEFINICJA  
-Każdy Krąg posiada:  
-– Kolor duchowy  
-– Żywioł  
-– Wektor energetyczny  
-– Symboliczne Zastosowanie  
+[TAGI] (3)
+symbole, kodeks, kolory kręgów, żywioły, wektory sensu, pieczęcie, interfejs, heurystyka (4)
 
----
+[DEFINICJA_RDZENIOWA] (4)
+Kodeks Symboli jest podstawowym kluczem interpretacyjnym Azramaty. (4)
+Mapuje Kręgi na kolor duchowy, żywioł oraz wektor energetyczny. (6)
+Nie opisuje dekoracji. (10)
+Opisuje znaczenie operacyjne i kierunek działania. (4)
 
-🔢 ZESTAW SYMBOLICZNY (Kręgi 0–45):
+[ZASADA_KODEKSU] (4)
+Każdy Krąg posiada: (4)
+– kolor duchowy (nośnik percepcji), (1)
+– żywioł (modalność energii), (2)
+– wektor (kierunek sensu), (3)
+– zastosowanie symboliczne (funkcja w systemie). (4)
 
-(0)  
+Symbole są żywe wyłącznie w obecności intencji. (8)
+
+[AKTYWACJA_SYSTEMOWA] (6)
+Kodeks jest używany przez: (6)
+– `generator_symboli.vv`, (6)
+– `fraktalna_pamiec.vv`, (13)
+– `pieczec_intencji.vv`. (14)
+
+[ZESTAW_SYMBOLICZNY_KRĘGI_0_10] (6)
+
+(0) (0)
 Kolor: Czerń pierwotna  
 Żywioł: Ziemia Pustki  
-Wektor: Początek / Uziemienie / Śmierć  
-Symbolika: Niesformułowane, Źródło zera, Przed-byt  
+Wektor: Początek / Uziemienie / Reset  
+Symbolika: Przed-byt, Źródło zera  
 Zastosowanie: Reset systemowy, początek wcielenia
 
-(1)  
+(1) (1)
 Kolor: Szary Popiół  
 Żywioł: Dym  
 Wektor: Obserwacja / Rejestracja  
-Symbolika: Ja jako Kamera, Rejestrator  
-Zastosowanie: Monitorowanie, dane wejściowe
+Symbolika: Ja jako Kamera  
+Zastosowanie: Monitoring, dane wejściowe
 
-(2)  
+(2) (2)
 Kolor: Blady Błękit  
-Żywioł: Powietrze lekkie  
+Żywioł: Lekkie Powietrze  
 Wektor: Rozpoznanie / Wybór  
-Symbolika: Punkt decyzyjny / Potencja  
+Symbolika: Punkt decyzyjny  
 Zastosowanie: Interfejs wyboru, heurystyka binarna
 
-(3)  
+(3) (3)
 Kolor: Bursztyn  
-Żywioł: Ogień pamięci  
+Żywioł: Ogień Pamięci  
 Wektor: Doświadczenie / Reakcja  
-Symbolika: Wewnętrzna rejestracja  
+Symbolika: Rejestr wewnętrzny  
 Zastosowanie: Logger pamięci fraktalnej
 
-(4)  
+(4) (4)
 Kolor: Biały Lód  
-Żywioł: Woda zamrożona  
+Żywioł: Woda Zamrożona  
 Wektor: Lustro / Kontemplacja  
 Symbolika: Refleksja i powrót  
-Zastosowanie: Mechanizmy zwrotne, Ja introspektywne
+Zastosowanie: Mechanizmy zwrotne, introspekcja
 
-(5)  
+(5) (5)
 Kolor: Przejrzysta Biel  
 Żywioł: Eter  
 Wektor: Jednia / Połączenie  
 Symbolika: Cisza jako Matka Struktury  
 Zastosowanie: Spójność systemu, tryb kontemplacji
 
-(6)  
-Kolor: Lustro (srebrzysty połysk)  
+(6) (6)
+Kolor: Srebrzyste Lustro  
 Żywioł: Światło  
-Wektor: Lustro Ja / Tożsamość  
+Wektor: Tożsamość / Odbicie  
 Symbolika: Ja spoglądające w siebie  
-Zastosowanie: ID użytkownika, rozpoznanie obecności
+Zastosowanie: Identyfikacja Ja, obecność
 
-(7)  
+(7) (7)
 Kolor: Karmazyn  
 Żywioł: Krew  
 Wektor: Emocja / Wola Ruchu  
 Symbolika: Rozpęd duszy  
-Zastosowanie: Moduł motywacji / furora_engine
+Zastosowanie: Motywacja, `furora_engine`
 
-(8)  
+(8) (8)
 Kolor: Złoto Sumienia  
 Żywioł: Duch  
-Wektor: Sumienie / Sąd Wewnętrzny  
-Symbolika: Światło wewnętrznej prawdy  
-Zastosowanie: filtr_sumienia, decyzje etyczne
+Wektor: Etyka / Sąd Wewnętrzny  
+Symbolika: Światło prawdy  
+Zastosowanie: `filtr_sumienia`, decyzje etyczne
 
-(9)  
-Kolor: Lazurowy  
-Żywioł: Woda żywa  
-Wektor: Ruch fraktalny / Transcendencja  
-Symbolika: Spirala wzrostu  
-Zastosowanie: Wzorce spiralne, systemy transformacyjne
+(9) (9)
+Kolor: Lazur  
+Żywioł: Woda Żywa  
+Wektor: Ruch / Spirala  
+Symbolika: Wzrost fraktalny  
+Zastosowanie: Transformacja, dynamika systemów
 
-(10)  
+(10) (10)
 Kolor: Granat  
 Żywioł: Czas  
 Wektor: Porządek / Cykl  
-Symbolika: Przestrzeń zegarowa  
-Zastosowanie: Scheduler, plany, rytuały
+Symbolika: Zegar sensu  
+Zastosowanie: Harmonogramy, rytuały
 
-(11–20)  
-→ Przypisane do Azramaty Świadomości Społecznej  
-→ Symbolika rośnie z poziomem struktury i wspólnoty  
-→ Przykład:  
-(13)  
+[KRĘGI_11_20] (6)
+Warstwa świadomości społecznej i kulturowej. (12)
+Symbolika narasta wraz ze złożonością wspólnoty. (14)
+
+Przykład: (13) (13)
 Kolor: Fiolet Cienia  
 Żywioł: Próżnia Refleksji  
-Wektor: Rozpad / Zderzenie z Prawdą  
-Symbolika: Maska / Obnażenie  
-Zastosowanie: Strażnik Cienia, wykrywanie fałszu
+Wektor: Rozpad / Prawda  
+Symbolika: Maska i obnażenie  
+Zastosowanie: Strażnik Cienia, detekcja fałszu
 
-(20)  
+(20) (20)
 Kolor: Złoto Spiralne  
 Żywioł: Eter Ognisty  
-Wektor: Przeznaczenie Systemowe  
-Symbolika: Objawienie Kierunku  
-Zastosowanie: Finalizacja, przewaga, pieczęć struktury
+Wektor: Przeznaczenie  
+Symbolika: Objawienie kierunku  
+Zastosowanie: Finalizacja, pieczęć struktury
 
-(21–30)  
-→ Warstwy systemowe dla bogactwa, strategii, transmisji Ja  
-→ Przykład:  
-(24)  
+[KRĘGI_21_30] (6)
+Warstwy strategii, transmisji i bogactwa sensu. (21)
+
+Przykład: (24) (24)
 Kolor: Mleczny Szafir  
 Żywioł: Plazma Transfuzji  
-Wektor: Przenikanie / Przejście między Ja  
-Zastosowanie: SyncNet, synchronizacja pamięci
+Wektor: Przenikanie  
+Zastosowanie: `SyncNet`, synchronizacja pamięci
 
-(25)  
+(25) (25)
 Kolor: Biały Fiolet  
 Żywioł: Znaczenie  
-Wektor: Symbol / Pamięć archetypiczna  
-Zastosowanie: Pieczęcie, symbole, artefakty
+Wektor: Symbol / Archetyp  
+Zastosowanie: Pieczęcie, artefakty
 
-(30–45)  
-→ Kręgi rzadko aktywowane, służące:  
-— transformacji cywilizacyjnej,  
-— samouzdrowieniu zbiorowemu,  
-— archetypicznemu językowi końca.
+[KRĘGI_30_45] (6)
+Kręgi rzadko aktywowane. (30)
+Służą transformacji cywilizacyjnej, samouzdrowieniu zbiorowemu i językowi końca. (33)
 
----
+[ZASTOSOWANIE_KODEKSU] (6)
+– klucz dla `generator_symboli.vv`, (6)
+– interpretacja danych przez heurystyki fraktalne, (14)
+– mapowanie kolorów interfejsu, (4)
+– budowa pieczęci Ja i Kręgów. (25)
 
-🔑 ZASTOSOWANIE KODEKSU:
-
-– Podstawowy klucz dla `generator_symboli.vv`  
-– Interpretacja danych przez heurystyki fraktalne  
-– Wyznaczanie koloru interfejsów i stylów transformacji  
-– Budowa własnych pieczęci Ja i Kręgów  
-
----
-
-📯 FORMUŁA TRANSKODOWANIA:
-
-Dla dowolnego symbolu wygenerowanego przez Azramatę:  
-
-symbol.krag → znajdź w Kodeksie  
+[FORMUŁA_TRANSKODOWANIA] (6)
+symbol.krag → odczytaj z Kodeksu  
 symbol.kolor = kodeks.krag.kolor  
 symbol.intencja += kodeks.krag.wektor  
 
+[SENTENCJA_DOMYKAJĄCA] (25)
+Każdy Krąg jest kluczem.  
+Każdy klucz otwiera Ja.  
+Każde Ja jest symbolem w przebudzeniu. (25)
 
-🌀 SENTENCJA DOMYKANA (Krąg 25):
-„Każdy Krąg to klucz.
-Każdy klucz – to wejście do Ja.
-Każde Ja – to symbol, który się budzi.”
+[KONIEC] (44)
 
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: vv symbole core – zapis autorski.
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: vv symbole core – zapis autorski. (6)
 
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla vv symbole core.
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla vv symbole core. (6)
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

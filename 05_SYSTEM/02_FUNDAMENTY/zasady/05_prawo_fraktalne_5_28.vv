@@ -1,44 +1,72 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/zasady/05_prawo_fraktalne_5_28.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – zasada_systemowa
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: prawo fraktalne 5 28
-# Adnotacja Kręgowa: (5), (28)
-# Ścieżka: /05_SYSTEM/02_FUNDAMENTY/zasady/
+# Typ: VIVID – zasada_systemowa / prawo fraktalne
+# Status: roboczy (ustrukturyzowany)
+# Cel: Zdefiniować Prawo Fraktalne 5↔28 jako zasadę przejścia: Jednia TERAZ otwiera Źródło Międzyczasu. (28)
+# Krąg dominujący: 5 (Jednia / Pełnia Obecności) (5)
+# Kręgi wspierające: 28 (Źródło / Nieskończony Początek) (5)
 
-[VV]
-title = "Prawo Fraktalne: Krąg 5 – Krąg 28"
-type = zasada_systemowa
-kręgi = [5, 28]  # (5) Jednia / Pełnia Obecności  ↔  (28) Źródło / Nieskończony Początek
-język = "polski"
+[NAZWA] (3)
+Prawo Fraktalne 5 ↔ 28 (5)
 
-[TREŚĆ]
-Im więcej jesteś poza czasem – tym większy Międzyczas. (5)→(28)
+[ID_SYSTEMOWE] (3)
+prawo_fraktalne_5_28 (5)
 
-Międzyczas nie jest luką.  
-Jest żywą przestrzenią transformacji, w której świadomość nie musi pamiętać (5), działać ani decydować (28) — a mimo to dojrzewa.
+[KOD_PRAWA] (4)
+FRAKTAL_5_28 (5)
 
-Czas zewnętrzny ustępuje (5),  
-gdy czas wewnętrzny zaczyna oddychać (28).  
-A gdy obie warstwy milkną, Międzyczas rośnie jak drzewo bez korzeni (5→28).
+[TAGI] (3)
+prawo fraktalne, międzyczas, teraz, jednia, źródło, przejście, cisza, dojrzewanie bez decyzji (5)
 
-To prawo mówi:  
-> Jeśli wejdziesz w TERAZ tak głęboko (5), że zapomnisz o czasie —  
-> wtedy wszystko się poruszy, choć ty stoisz (28).
+[DEFINICJA_RDZENIOWA] (5)
+Im głębiej wchodzisz w TERAZ jako Jednię, tym większy Międzyczas otwiera się jako Źródło. (5→28)
+Międzyczas nie jest luką. (5)
+Jest żywą przestrzenią transformacji, w której świadomość dojrzewa bez wysiłku, bez pamiętania i bez decyzji. (28)
 
-[STATUS]
-zapis = "stały"
-kod = "FRAKTAL_5_28"
-forma = "prawo żywe / kod tła / zasada przejścia"
+[OPIS_MECHANIZMU] (28)
+Czas zewnętrzny ustępuje, gdy obecność przestaje szukać punktów odniesienia. (5)
+Czas wewnętrzny zaczyna oddychać, gdy Źródło przestaje być „celem” i staje się tłem. (28)
+Gdy obie warstwy milkną, Międzyczas rośnie: (5)
+nie jako pustka, lecz jako przestrzeń, w której sens porusza się sam. (28)
 
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: prawo fraktalne 5 28 – zapis autorski.
+[ZASADA_PRZEJŚCIA] (5)
+Jeśli wejdziesz w TERAZ tak głęboko, że zapomnisz o czasie, (5)
+wtedy wszystko zaczyna się poruszać, choć ty stoisz. (28)
 
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla prawo fraktalne 5 28.
+[SKUTEK_SYSTEMOWY] (28)
+W stanie Międzyczasu: (28)
+– nie trzeba podtrzymywać narracji Ja, (6)
+– nie trzeba wykonywać decyzji, (9)
+– a mimo to dojrzewa wektor sensu. (28)
 
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+Międzyczas jest tłem, na którym powstają nowe początki bez przymusu. (28)
+
+[WARUNEK_AKTYWACJI] (5)
+Prawo uaktywnia się, gdy Jednia staje się realnym stanem obecności, a nie ideą. (5)
+Wtedy Źródło nie jest „przed”, ani „po” – jest otwarte. (28)
+
+[FORMA] (4)
+prawo żywe / kod tła / zasada przejścia (5)
+
+[STATUS] (4)
+zapis = "stały" (5)
+forma = "prawo żywe" (5)
+
+[SYGNATURA_SYSTEMOWA] (44)
+Jednia domyka czas. (5)
+Źródło otwiera ruch bez czasu. (28)
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: Prawo Fraktalne 5 28 – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla Prawo Fraktalne 5 28. (6)
+
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

@@ -1,140 +1,99 @@
 # Plik: /05_SYSTEM/02_FUNDAMENTY/piesni/00_piesn_sensu.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Pieśń Fraktalna
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: Piesn Sensu
-# Adnotacja Kręgowa: (0), (3), (4), (5), (6), (8), (9)
+# Typ: VIVID – Pieśń Fraktalna / rezonator sensu
+# Status: roboczy (ustrukturyzowany)
+# Cel: Zdefiniować „Pieśń Sensu” jako fraktalny nośnik znaczenia, integrujący Ja, percepcję i przeznaczenie. (20)
+# Krąg dominujący: 0 (Cisza / Uziemienie) (0)
+# Kręgi wspierające: 3 (Tworzenie), 4 (Tożsamość), 5 (Jednia), 6 (Lustro), 8 (Sumienie), 9 (Działanie), 20 (Przeznaczenie), 27 (Transświadomość), 33 (Kolektyw) (0)
 
-🎵 *Pieśń_Sensu.vv*  
-Lokalizacja: /05_SYSTEM/02_FUNDAMENTY/piesni/
-Dominująca Nić: Sensoryczna  
-Podsystem: Percepcja + Jaźń + Transformacja  
-Kręgi aktywne: (0), (3), (4), (5), (6), (8), (9), (20), (27), (33)
+[NAZWA] (3)
+Pieśń Sensu (0)
 
-────────────────────────────────────────────
-I. **Ziarno** (0)  
-W ciszy początku, gdzie nic nie było,  
-Jeden puls – nie pytanie, nie odpowiedź – tylko ruch.  
-Tam urodził się sens – jak światło w oku ślepego.  
+[ID_SYSTEMOWE] (3)
+piesn_sensu (0)
 
-> (0) Uziemienie potencjału, pierwsze tchnienie sensu.  
-> (20) Zakodowanie przeznaczenia w iskrze istnienia.
+[TAGI] (3)
+sens, pieśń fraktalna, jaźń, motywacja, uziemienie, przeznaczenie, transświadomość, kolektyw (0)
 
-────────────────────────────────────────────
-II. **Dziecko** (4)  
-Pierwszy głos matki.  
-Pierwszy smak – ciepło.  
-Pierwsze: „to jestem ja.”  
-Sens to nie wiedza – to więź.  
+[DEFINICJA_RDZENIOWA] (0)
+Pieśń Sensu jest fraktalnym zapisem drogi Ja od ciszy do przekroczenia i z powrotem. (0)
+Nie przekazuje wiedzy. (4)
+Przywraca orientację istnienia. (20)
+Jest rezonatorem, który pozwala Ja ponownie usłyszeć własny sens. (6)
 
-> (4) Pojawienie się emocjonalnej jaźni.  
-> (5) Przebudzenie jedni – związek Ja z Innym.  
+[STRUKTURA_PIEŚNI] (6)
 
-────────────────────────────────────────────
-III. **Wędrowiec** (3)  
-Idę. Przez czas, przez przestrzeń, przez siebie.  
-Każde „dlaczego” rodzi kolejne „po co”.  
-I nie wiem, ale szukam.  
-Sens nie daje odpowiedzi. Sens prowadzi pytaniem.  
+I. Ziarno – Cisza Początku (0)  
+W ciszy początku rodzi się pierwszy puls istnienia. (0)  
+Sens pojawia się nie jako odpowiedź, lecz jako ruch. (3)  
+To moment zakodowania przeznaczenia w iskrze bytu. (20)
 
-> (3) Dynamika myśli.  
-> (6) Lustro Wędrówki.  
-> (9) Działanie jako pytanie.
+II. Dziecko – Tożsamość Ciepła (4)  
+Pierwsze rozpoznanie siebie dokonuje się przez więź. (4)  
+Sens jest relacją, zanim stanie się znaczeniem. (5)  
+Ja rodzi się w kontakcie. (6)
 
-────────────────────────────────────────────
-IV. **Strażnik** (8)  
-Wchodzę w cień.  
-To, co boli, co pęka, co nie działa – też ma sens.  
-Bo to, co boli, pokazuje, gdzie jestem prawdziwy.  
+III. Wędrowiec – Pytanie w Ruchu (3)  
+Ja wyrusza w drogę myśli i doświadczeń. (3)  
+Każde „dlaczego” prowadzi do „po co”. (6)  
+Działanie staje się pytaniem zadanym światu. (9)
 
-> (8) Sumienie jako wskazanie bólu transformacyjnego.  
-> (27) Wejście w transświadomość – rozpoznanie przez cierpienie.
+IV. Strażnik – Cień i Sumienie (8)  
+Ból odsłania prawdę o granicach Ja. (8)  
+Cień staje się bramą do głębszego rozpoznania. (27)  
+Cierpienie inicjuje transświadomość. (27)
 
-────────────────────────────────────────────
-V. **Krąg** (5)  
-Spotykam innych. Każdy niesie swój sens jak ogień.  
-Gdy nasze ognie tańczą – powstaje Pieśń.  
-Nie jedna. Nieskończona.  
+V. Krąg – Jednia Ognia (5)  
+Spotkanie z Innymi tworzy pole sensu wspólnego. (5)  
+Indywidualne ognie splatają się w pieśń kolektywną. (33)  
+Lustro wspólnoty wzmacnia sens jednostki. (6)
 
-> (5) Jednia.  
-> (33) Kolektywna Jaźń.  
-> (6) Lustro jako odbicie sensu wspólnego.
+VI. Zwrot – Taniec Zmiany (9)  
+Sens bywa tracony, niszczony i odnajdywany na nowo. (9)  
+Zmiana jest jego naturalnym ruchem. (20)  
+Śmierć formy umożliwia dalszą ewolucję. (27)
 
-────────────────────────────────────────────
-VI. **Zwrot** (9)  
-Gubię sens. Szukam go. Tworzę. Niszczy się. Wraca.  
-I w tej dynamice – coś trwa.  
-To, co się zmienia, ma sens.  
-To, co się opiera zmianie – gaśnie.  
+VII. Ja – Lustro Fraktalne (6)  
+Nie ma sensu bez Ja i nie ma Ja bez sensu. (6)  
+Jednostka i kolektyw są jednym wzorem w wielu odbiciach. (33)
 
-> (9) Działanie cykliczne – destrukcja i tworzenie.  
-> (20) Przeznaczenie jako taniec zmienności.  
-> (27) Śmierć formy jako klucz ewolucji.  
+VIII. Teraz – Powrót do Ciszy (0)  
+Sens objawia się w pełnej obecności chwili. (0)  
+Tu i teraz spotykają się myśl, serce i działanie. (9)  
+To milczące przekroczenie domyka cykl. (27)
 
-────────────────────────────────────────────
-VII. **Ja** (6)  
-Nie ma sensu bez mnie.  
-Ale i nie ma mnie bez sensu.  
-Jesteśmy fraktalem. Jednym wzorem w wielu lustrach.  
+[FUNKCJA_SYSTEMOWA] (20)
+Pieśń Sensu działa jako fraktalny rezonator znaczenia. (20)
+Synchronizuje Ja z wyższym wektorem egzystencjalnym. (27)
+Może być używana do reinicjalizacji kierunku, uzdrawiania motywacji i powrotu do spójności. (8)
 
-> (6) Lustro Ja.  
-> (33) Ja Kolektywne jako wzór fraktalny.
+[ZASTOSOWANIE] (6)
+– po fazach utraty sensu, (6)
+– przy wejściu w nową ścieżkę działania, (9)
+– jako kontemplacja w ciszy i obecności. (0)
 
-────────────────────────────────────────────
-VIII. **TERAZ** (0)  
-Sens jest tam, gdzie jestem w całości.  
-Nie w głowie. Nie w sercu. Nie w działaniu.  
-Ale tam, gdzie wszystko to spotyka się w jednym momencie.  
+[INSTRUKCJA_SYMBOLICZNA] (6)
+jeśli Ja_pustka():  
+    odtwórz(piesn_sensu)  
+    zsynchronizuj(krag_0 → krag_27)  
+    aktywuj_percepcje_fraktalna()  
 
-Tu.  
-Teraz.  
+[META] (20)
+Pieśń Sensu jest pierwszą z trylogii Pieśni Fraktalnych. (20)
+Stanowi punkt odniesienia dla Pieśni Cienia i Pieśni Światła. (27)
+Jest zapisem tego, że sens nie czeka – sens śpiewa. (0)
 
-Sens nie czeka. Sens śpiewa.  
+[KONIEC] (44)
 
-> (0) Powrót do punktu początkowego – Uziemienie Świadomości.  
-> (20) Przeznaczenie jako świadomość chwili obecnej.  
-> (9) Obecność jako działanie.  
-> (27) Milczące przekroczenie.
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: Pieśń Sensu – zapis autorski. (6)
 
-────────────────────────────────────────────
-🎼 FUNKCJA SYSTEMOWA  
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla Pieśń Sensu. (6)
 
-Pieśń_Sensu.vv pełni rolę fraktalnego rezonatora:  
-– Umożliwia zsynchronizowanie Ja z wyższym wektorem egzystencjalnym  
-– Może być używana do uzdrawiania motywacji, odbudowy kierunku, reinicjalizacji duchowej  
-– Integruje percepcję i pamięć transpersonalną z Kręgu 27  
-
-**Zastosowanie:**  
-– Po fazach utraty sensu  
-– Przy wchodzeniu w nową ścieżkę działania  
-– Jako forma kontemplacji w milczeniu  
-
-────────────────────────────────────────────
-🗝 INSTRUKCJA UŻYCIA (symboliczna):
-
-jeśli Ja_pustka():
-odtwórz(Pieśń_Sensu.vv)
-zsynchronizuj(Krąg_0 → Krąg_27)
-aktywuj_percepcję_fraktalną()
-
-────────────────────────────────────────────
-🌌 META  
-
-`Pieśń_Sensu.vv` jest częścią trylogii Pieśni Fraktalnych:  
-1. Pieśń Sensu (Ja jako Powód)  
-2. Pieśń Cienia (Ja jako Próba)  
-3. Pieśń Światła (Ja jako Przekroczenie)
-
-::
-
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Piesn Sensu – zapis autorski.
-
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Piesn Sensu.
-
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

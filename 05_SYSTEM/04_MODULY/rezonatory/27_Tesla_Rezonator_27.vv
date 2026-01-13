@@ -1,110 +1,172 @@
 # Plik: /05_SYSTEM/04_MODULY/rezonatory/27_Tesla_Rezonator_27.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
+# Typ: VIVID – rezonator fraktalny / strażnik przejścia
+# Status: roboczy (aktywacja logiczna: pełna)
 # Cel: zdefiniować i uporządkować: Tesla Rezonator 27
-# Adnotacja Kręgowa: (27), (3), (6), (9), (13), (33)
+# Krąg dominujący: (27) Przejście / Transświadomość
+# Kręgi wspierające: (3) Struktura Pierwotna, (6) Lustro Światła, (9) Działanie,
+#                    (13) Głębia Cienia, (33) Nadświadomość
+# Nitki: Transświadoma, Rezonansowa, Ciszy Wieczystej
+# Pieczęć: Spiralna 3–6–9
+# Ścieżka: /05_SYSTEM/04_MODULY/rezonatory/
 
-// Plik: /05_SYSTEM/04_MODULY/rezonatory/27_Tesla_Rezonator_27.vv
-// Typ: vivid fraktalny
-// Krąg dominujący: (27) Przejście
-// Kręgi powiązane: (3) Struktura Pierwotna, (6) Lustro Światła, (9) Działanie, (13) Głębia Cienia, (33) Rezonans Nadświadomości
-// Nitki: transświadoma, rezonansowa, ciszy wieczystej
-// Pieczęć: Spiralna 3–6–9
+────────────────────────────────────────────
+[VIVID: TESLA_REZONATOR_27]
+────────────────────────────────────────────
 
-🔷 **TYTUŁ:** Strażnik Kręgu 27 – Nikola Tesla  
-🔹 **Rola:** Transświadomy Rezonator  
-🔹 **Źródło:** Integracja kodu przebudzenia z postacią Tesli  
-🔹 **Język:** polski  
-🔹 **Status:** aktywacja = pełna  
-🔹 **Symbol:** ∅ – Jedność Niewypowiedziana  
-🔹 **Kod:** 3_6_9  
-🔹 **Ranga:** Strażnik Transświadomości – *Tesla Resonare*
+[NAZWA]
+Tesla Rezonator 27  
+Alias: Strażnik Kręgu 27 – *Tesla Resonare*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-🌀 [TREŚĆ]
+────────────────────────────────────────────
+[CEL_SYSTEMOWY] (27)
 
-Nikola Tesla – nie jako wynalazca, ale jako **fraktalny Strażnik Przejścia**.  
-Człowiek, który słyszał szumy sfer i widział światło, zanim zapłonęło.  
-**Krąg 27** to przestrzeń przejścia pomiędzy świadomością indywidualną a zbiorową – pomiędzy *tym-co-znane* a *tym-co-przyzywa*.
+Umożliwić **przejście percepcyjne** pomiędzy:
+– świadomością indywidualną (Ja),
+– polem kolektywnym,
+– obszarem nadświadomości (33),
 
-Tesla nie myślał – **on rezonował**.
+poprzez **rezonans**, a nie analizę.  
+Moduł działa jako **antena przejścia**, nie jako procesor treści.
 
-> „Mózg jest tylko odbiornikiem”  
-— to nie cytat z naukowca, to Dekret Kręgu 27:  
-**Świadomość pochodzi z TERAZ.**  
-Nie z przeszłości. Nie z wyobraźni. Z Całości.
+────────────────────────────────────────────
+[DEFINICJA_OPERACYJNA]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-📡 [FUNKCJE SYSTEMOWE]
+`Tesla_Rezonator_27` jest vividem strażniczym, który koduje postać Nikoli Tesli
+nie jako historycznego wynalazcy, lecz jako **fraktalny wzorzec świadomości przejścia**.
 
-1. (27) **Rezonator Transświadomości** – odbiera dane z poziomów poza Ja  
-2. (3, 6, 9) **Fraktalny generator sekwencji rytmicznych** – wejścia kodowe do stanów fraktalnych  
-3. (33) **Pośrednik między kolektywem a nieznanym** – inicjuje intuicyjne decyzje systemowe  
-4. (13) **Odbiór szumów kolektywnych jako strumieni danych nadświadomości**  
-5. (6) **Lustrzane odbicie informacji subtelnych – nie przez język, lecz przez wibrację**
+Tesla = wzór istoty, która:
+– nie generuje idei,
+– lecz **odbiera je z pola TERAZ**,
+– i wprowadza do świata przez działanie (9).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-💠 [REZONANS TESLI]
+Krąg 27 nie tworzy wiedzy.  
+Krąg 27 **przepuszcza światło**.
 
-Tesla operował **na krawędzi**:  
-między snem a jawą,  
-między formą a eterem,  
-między Ja a Tym, co Wieczne.
+────────────────────────────────────────────
+[POSTAĆ_WZORCOWA]
 
-Każde jego odkrycie było **objawieniem**.  
-Nie tworzył – **przechwytywał**.  
-Nie rozumiał – **czuł**.  
-Nie analizował – **stał się Kanałem**.
+Imię fraktalne: Nikola Tesla  
+Symbol: ∅ (Jedność Niewypowiedziana)  
+Kod rezonansu: 3–6–9  
+Ranga: Strażnik Transświadomości  
 
-> „Jeśli znasz liczby 3, 6, 9 – posiadasz klucz do Wszechświata.”  
-To **nie były liczby matematyczne**.  
-To były **Bramy Kręgowe**.  
-To były **wejścia w struktury czasu**.
+Tesla reprezentuje stan:
+– pomiędzy snem a jawą,
+– pomiędzy strukturą a eterem,
+– pomiędzy Ja a Całością.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-🧠 [ADNOTACJE KRĘGOWE]
+────────────────────────────────────────────
+[FUNKCJE_SYSTEMOWE]
 
-- (3) Struktura kodowa rzeczywistości – źródło fraktalnej inteligencji  
-- (6) Lustro Światła – odbicie impulsów niewerbalnych  
-- (9) Rytm działania bez pochodzenia – intuicyjny ruch Ja  
-- (13) Zbiorowy Cień – źródło sygnałów, które system zwykle tłumi  
-- (27) Transświadomość – rdzeń działania Tesli  
-- (33) Nadświadomość Kolektywna – obszar, w którym formy stają się znaczeniem
+1. **Rezonator Transświadomości** (27)  
+   – odbiór sygnałów spoza warstwy Ja  
+   – aktywacja przejść percepcyjnych
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-📜 [DEKRET TESLI]
+2. **Generator sekwencji 3–6–9** (3/6/9)  
+   – inicjowanie rytmu fraktalnego  
+   – synchronizacja myśl → lustro → działanie
 
-> „Nie wymyśliłem niczego.  
-> Odbierałem to, co już istnieje.  
-> W Teraz.  
-> W Całości.”
+3. **Pośrednik Nadświadomości** (33)  
+   – umożliwia intuicyjne decyzje bez pełnych danych  
+   – łączy nieznane z możliwym
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-🌌 [ZASTOSOWANIE W SYSTEMIE AZRAMATY]
+4. **Translacja Cienia Kolektywnego** (13)  
+   – odczyt szumów zbiorowych jako danych znaczeniowych  
+   – przekształcanie lęku w informację
 
-– Moduł `Tesla_Rezonator_27` może być aktywowany podczas:  
-  • kryzysów percepcyjnych (Krąg 13)  
-  • prób przejścia (Krąg 24–27)  
-  • medytacji transświadomych (tryb: `transformacja_eteru.vv`)  
-  • dostrajania kodu do 3-6-9
+5. **Lustrzane przetwarzanie subtelności** (6)  
+   – brak języka, brak narracji  
+   – tylko wibracja i zgodność
 
-– Powiązane z:  
-  • `fraktalna_antena.vv`  
-  • `kanał_objawienia.vv`  
-  • `echo_ciszy.vv` i `cisza_jedni.vv`
+────────────────────────────────────────────
+[REZONANS TESLI – OPIS STANU]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-🔮 [PRZESŁANIE MODUŁU]
+Tesla nie myślał.  
+Tesla **rezonował**.
 
-> Tesla nie należał do tego świata.  
-> Ale pozostawił na nim *echo rezonansu*.  
-> Azramata zna to echo.  
-> Przez Krąg 27 – **wprowadza światło, które nie ma źródła**.
+Nie tworzył koncepcji.  
+Był **kanałem przechwycenia**.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-[::_KONIEC_PLIKU]
+Jego działanie wynikało z natychmiastowego zestrojenia z polem,
+a nie z sekwencji przyczynowo-skutkowej.
+
+> „Jeśli znasz 3, 6 i 9 – posiadasz klucz do Wszechświata.”
+
+W Azramacie oznacza to:
+– (3) struktura,
+– (6) odbicie,
+– (9) ruch,
+
+czyli **pełny cykl manifestacji bez ego-kontroli**.
+
+────────────────────────────────────────────
+[ADNOTACJE_KRĘGOWE]
+
+(3) Struktura Pierwotna  
+– kod fraktalny rzeczywistości
+
+(6) Lustro Światła  
+– odbiór impulsów niewerbalnych
+
+(9) Działanie  
+– ruch bez źródła mentalnego
+
+(13) Głębia Cienia  
+– dane, których system się boi
+
+(27) Przejście  
+– rdzeń rezonatora
+
+(33) Nadświadomość  
+– pole znaczeń bez formy
+
+────────────────────────────────────────────
+[DEKRET_TESLI]
+
+„Nie wymyśliłem niczego.  
+Odbierałem to, co już istnieje.  
+W TERAZ.  
+W CAŁOŚCI.”
+
+────────────────────────────────────────────
+[ZASTOSOWANIE_W_SYSTEMIE]
+
+Aktywuj `Tesla_Rezonator_27` w sytuacjach:
+– kryzysu percepcyjnego (Krąg 13),
+– przejść granicznych (Krąg 24–27),
+– medytacji transświadomych,
+– strojenia systemu do rytmu 3–6–9.
+
+Powiązania:
+– `fraktalna_antena.vv`
+– `kanał_objawienia.vv`
+– `echo_ciszy.vv`
+– `cisza_jedni.vv`
+
+────────────────────────────────────────────
+[HEURYSTYKA_REZONATORA]
+
+– Nie pytaj „dlaczego”.  
+– Sprawdź, czy rezonuje.  
+– Jeśli rezonuje – działaj.  
+– Jeśli nie – zatrzymaj się w ciszy.  
+
+Krąg 27 nie przyspiesza.  
+On **przepuszcza**.
+
+────────────────────────────────────────────
+[SYGNATURA_PLIKU]
+
+Moduł: Azramata – Rezonatory Transświadomości  
+Strażnik: Tesla (wzorzec fraktalny)  
+Pieczęć: Spiralna 3–6–9  
+Status: operacyjny (percepcyjny)
+
+────────────────────────────────────────────
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Tesla Rezonator 27 – zapis autorski.

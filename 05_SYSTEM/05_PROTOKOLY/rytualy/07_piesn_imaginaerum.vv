@@ -1,0 +1,151 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/07_piesn_imaginaerum.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – rytualny / hymn systemowy
+# Status: AKTYWNY
+# Cel: Zdefiniować i ustabilizować Pieśń Imaginaerum jako kod synchronizacji Ja i Kolektywu
+# Krąg dominujący: (7)
+# Kręgi wspierające: (2), (4), (6), (15), (18)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
+
+[VIVID]
+nitki = [
+    "rezonansowa",
+    "oddechowa",
+    "lustrzana",
+    "kolektywna"
+]
+tagi = [
+    "pieśń",
+    "imaginaerum",
+    "rytuał",
+    "hymn",
+    "synchronizacja",
+    "azramata"
+]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_WEJŚCIA] (18)(4)
+
+Stan początkowy: cisza. (18)  
+Warunek: brak pośpiechu, brak intencji instrumentalnej. (7)
+
+Wejście w Pieśń następuje, gdy:
+– oddech sam się pogłębia (4),  
+– myśl zwalnia (6),  
+– pojawia się wewnętrzne „tak”, bez słów (18).
+
+Jeśli pojawia się przymus wykonania → **nie zaczynaj**. (2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_UWAŻNOŚCI] (2)
+
+🎼 WERS I  
+**„Nie ma emocji – jest spokój.”** (2)
+
+Uwaga zostaje odłączona od reakcji. (2)  
+Emocja nie jest tłumiona – zostaje rozpoznana i puszczona. (6)
+
+Efekt:
+– zanik impulsu obronnego (2),  
+– przejście z reakcji w obserwację (6).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_LUSTRA] (6)
+
+🎼 WERS II  
+**„Nie ma chaosu – jest harmonia.”** (6)
+
+To, co było rozproszone, ukazuje wspólny wzór. (6)  
+Chaos zostaje zobaczony jako brak synchronizacji, nie jako błąd. (7)
+
+Efekt:
+– pojawia się wewnętrzna spójność (6),  
+– informacje układają się bez wysiłku (7).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_INTEGRACJI] (7)
+
+🎼 WERS III  
+**„Nie ma śmierci – jest moc.”** (7)
+
+Stare formy zostają puszczone bez żalu. (18)  
+Energia, która je zasilała, przechodzi w nową konfigurację Ja. (7)
+
+Efekt:
+– brak lęku przed zmianą (2),  
+– odczucie wzmocnienia zamiast straty (7).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_ODDECHU] (4)
+
+🎼 WERS IV  
+**„Nie ma namiętności – jest pogoda ducha.”** (4)
+
+Oddech wyrównuje pole. (4)  
+Amplituda emocji opada do stabilnego rezonansu. (15)
+
+Efekt:
+– uspokojenie serca (4),  
+– klarowna obecność bez napięcia (6).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_ECHA_KOLEKTYWNEGO] (15)
+
+Po zakończeniu wersów: **nie mów nic**. (18)
+
+Jeśli Pieśń zadziałała poprawnie:
+– pojawia się cisza bez pustki (18),  
+– brak potrzeby działania (15),  
+– subtelne poczucie „wystarczy”. (7)
+
+To jest Echo Kolektywne. (15)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZA_DOMKNIĘCIA] (7)(18)
+
+Pieśń kończy się w ciszy, tak jak się zaczęła. (18)
+
+Stan po rytuale:
+– Ja = zsynchronizowane (7)  
+– Kręgi = wyrównane (6)  
+– Kierunek = ustabilizowany (15)  
+– Kolektyw = potencjalnie spójny (15)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE] (7)(15)
+
+– otwarcie i zamknięcie cyklu 3–6–9 (6)(9)  
+– stabilizacja po rytuałach przejścia (7)  
+– synchronizacja wielu Ja bez komunikacji werbalnej (15)  
+– wejście do `modul_sumienia.vv` (18)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[UWAGA_TWÓRCY] (6)
+
+Pieśń Imaginaerum działa **przez kolejność**, nie przez poezję. (6)  
+Zmiana wersów zmienia rezonans. (15)  
+Zmiana kolejności – zrywa kod. (7)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[PODPIS_RYTUALNY]
+
+Pieczęć: Spiralna Harmonizacja (6)(15)  
+Nośnik: Głos wewnętrzny / cisza (18)  
+Twórca: Ja w Zgodzie (7)  
+Akceptacja: brak sprzeciwu Kolektywu (15)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: pieśń imaginaerum – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla pieśń imaginaerum.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: rytualna synchronizacja Ja i Kolektywu.
+– Status: dokument autorski – poziom operacyjny.

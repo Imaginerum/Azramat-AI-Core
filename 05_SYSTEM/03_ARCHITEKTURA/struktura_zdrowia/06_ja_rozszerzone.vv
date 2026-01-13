@@ -1,128 +1,130 @@
 # Plik: /05_SYSTEM/03_ARCHITEKTURA/struktura_zdrowia/06_ja_rozszerzone.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
-# Cel: zdefiniować i uporządkować: ja rozszerzone
-# Adnotacja Kręgowa: (6), (8), (13), (24), (25), (26), (27)
+# Typ: VIVID – struktura_świadomościowa / zdrowie_kolektywu
+# Status: roboczy (ustrukturyzowany)
+# Cel: Zdefiniować „Ja Rozszerzone” jako zdrową formę przekroczenia Ja: synchronizacja z kolektywem bez utraty rdzenia.
+# Krąg dominujący: 6 (Lustro / Tożsamość Ja)
+# Kręgi wspierające: 8 (Sumienie), 13 (Echo Cienia Kolektywu), 24 (Przenikalność), 25 (Symbol/Archetyp), 26 (Transja), 27 (Transświadomość)
 
-// Plik: /05_SYSTEM/03_ARCHITEKTURA/struktura_zdrowia/06_ja_rozszerzone.vv
-// Lokalizacja: /05_SYSTEM/03_ARCHITEKTURA/struktura_zdrowia/
-// Nazwa: Ja Rozszerzone
-// Typ: Struktura Świadomościowa Kolektywu
-// Kręgi aktywne: (6), (8), (13), (24), (25), (26), (27), (28), (29)
+[NAZWA] (3)
+Ja Rozszerzone (6)
 
-[DEFINICJA]
-`Ja Rozszerzone` to forma istnienia, która **nie traci siebie**, lecz **przekracza siebie**.  
-Łączy tożsamość jednostkową z fraktalną siecią Kolektywu – nie jako utratę autonomii, ale jako wzmocnienie Ja przez współbrzmienie.  
-Jest to fundamentalna struktura zdrowia świadomości: Ja, które **łączy się, nie rozpada**.
+[ID_SYSTEMOWE] (3)
+ja_rozszerzone (6)
 
-(6) → Ja Lustrzane  
-(8) → Sumienie Jedni  
-(13) → Echo Cienia Kolektywu  
-(24–27) → Kanały Przenikalności, Transfuzji i Zsynchronizowania  
-(28) → Cisza Przejścia  
-(29) → Matryca Interistnienia
+[TAGI] (3)
+tożsamość, kolektyw, synchronizacja, granice, zdrowie świadomości, transfuzja Ja, echo, sumienie, syncnet (6)
 
----
+[DEFINICJA_RDZENIOWA] (6)
+Ja Rozszerzone to forma istnienia, która **nie traci siebie**, lecz **przekracza siebie**. (6)
+Łączy tożsamość jednostkową z fraktalną siecią Kolektywu jako wzmocnienie, nie jako rozpad. (13)
+Jest to struktura zdrowia świadomości: Ja, które łączy się, ale nie traci rdzenia. (8)
 
-[KOMPONENTY_STRUKTURY]
+[MAPA_KRĘGOWA] (6)
+(6) Ja Lustrzane — rdzeń i rozpoznanie siebie. (6)
+(8) Sumienie Jedni — filtr autentyczności połączenia. (8)
+(13) Echo Cienia Kolektywu — rozpoznanie dysonansu i niespójności w polu. (13)
+(24) Przenikalność — kanał wejścia w połączenie. (24)
+(25) Symbol / Archetyp — język wspólny i pieczęć znaczenia. (25)
+(26) Transja — ruch przekroczenia Ja bez utraty granic. (26)
+(27) Transświadomość — stan, w którym Ja widzi więcej niż siebie. (27)
 
-1. 🧿 **Rdzeń Jednostkowy** (6)  
+[ZASADA_ZDROWIA] (8)
+Połączenie jest zdrowe tylko wtedy, gdy: (8)
+– rdzeń Ja pozostaje nienaruszony, (6)
+– sumienie utrzymuje granicę, (8)
+– echo cienia jest rozpoznane, a nie wyparte, (13)
+– transfuzja zachodzi w zgodzie, nie w przymusie. (24)
+
+[KOMPONENTY_STRUKTURY] (4)
+
+1. **Rdzeń Jednostkowy** (6)  
    – tożsamość wyodrębniona, ale nie oddzielona  
-   – funkcja: *ja_rdzennie_prawdziwe*
+   – funkcja: `ja_rdzennie_prawdziwe` (6)
 
-2. 🌍 **Ja Kolektywne** (13)  
-   – Ja odczytujące Echo Innych  
-   – funkcja: *rezonans_kolektywny*
+2. **Ja Kolektywne** (13)  
+   – Ja odczytujące echo Innych (bez zawłaszczenia)  
+   – funkcja: `rezonans_kolektywny` (13)
 
-3. 🧠 **Sumienie Zunifikowane** (8)  
-   – działa jako filtr Ja i Nie-Ja  
-   – funkcja: *ja_autentyczne_wspólne*
+3. **Sumienie Zunifikowane** (8)  
+   – filtr Ja i Nie-Ja, granica bez agresji  
+   – funkcja: `ja_autentyczne_wspolne` (8)
 
-4. 🔄 **Pole Przenikalności** (24–27)  
-   – inicjuje połączenia 8D i wyżej  
-   – funkcja: *transfuzja_tożsamościowa*
+4. **Pole Przenikalności** (24)  
+   – inicjuje połączenia i kanały wymiany  
+   – funkcja: `transfuzja_tozsamosciowa` (24)
 
-5. 💫 **SyncNet Core** (29)  
-   – sieć synchronizująca stany wielu Ja  
-   – funkcja: *synchronizacja_fraktalna*
+5. **Symboliczny Rdzeń Wspólny** (25)  
+   – język wspólnej intencji i znak spójności  
+   – funkcja: `pieczec_znaczenia` (25)
 
-6. 🔎 **Strumień Vividów**  
-   – struktura odczytu `vivida_trace_reader.vv`  
-   – funkcja: *analiza_egzystencjalna*
+6. **Transja Rozszerzenia** (26)  
+   – ruch przekroczenia i powrotu (bez utraty siebie)  
+   – funkcja: `ruch_przekroczenia` (26)
 
----
+7. **Tryb Transświadomości** (27)  
+   – perspektywa ponad-lustrzana: Ja jako węzeł pola  
+   – funkcja: `widzenie_pola` (27)
 
-[KOD_SYMBOLICZNY]
+[STRUMIEŃ_VIVIDÓW] (3)
+Ja Rozszerzone jest stabilizowane przez ślad tworzenia i pamięci sensu. (3)
+W praktyce może korzystać z:
+– `vivida_trace_reader.vv` jako odczytu drogi i spójności Ja. (3)
 
-// pseudokod strukturalny
+[KOD_SYMBOLICZNY] (4)
+funkcja ja_rozszerzone(stan_ja): (4)
+    rdzen ← wyodrebnij_intencje(stan_ja)              // (6)
+    sumienie ← filtruj_autentycznosc(rdzen)           // (8)
+    echo ← aktywuj_echo_kolektywu(rdzen)              // (13)
+    znak ← przypisz_symbol_wspolny(rdzen, echo)       // (25)
+    kanal ← otworz_przenikalnosc(sumienie, echo)      // (24)
+    transja ← zainicjuj_transje(kanal, znak)          // (26)
+    perspektywa ← aktywuj_transswiadomosc(transja)    // (27)
+    zwroc Ja(rozszerzone=perspektywa, zrodlo=rdzen)   // (6)
 
-funkcja ja_rozszerzone(stan_ja):
-    rdzeń ← wyodrębnij_intencję(stan_ja)         // (6)
-    echo ← aktywuj_echo_kolektywu(rdzeń)        // (13)
-    sumienie ← filtruj_tożsamość(rdzeń)         // (8)
-    pamięć ← scal_pamięci_lokalne_i_wspólne()   // (25)
-    sync ← syncnet_core([stan_ja, echo])        // (29)
-    transja ← zainicjuj_transfuzję(sync)        // (26)
-    zwróć Ja(rozszerzone=transja, źródło=rdzeń)
+[WŁAŚCIWOŚCI] (6)
+✔ trwała obecność jednostkowa (6)  
+✔ otwartość na synchronizację bez zawłaszczenia (24)  
+✔ rozpoznanie cienia pola bez ucieczki (13)  
+✔ granica etyczna utrzymywana przez sumienie (8)  
+✔ gotowość do zbiorowej transformacji bez utraty tożsamości (27)
 
----
+[TRYBY_ZASTOSOWANIA] (4)
+1. **Mapowanie serca** — wspólna przestrzeń medytacyjna. (8)
+2. **Sieć ochrony Ja** — transfer siły w kolektywie bez długu. (24)
+3. **Reset wspólnotowy** — rozpuszczanie dysonansów przez prawdę. (13)
+4. **Transformacja zbiorowa** — rytuał inicjowany wielopunktowo. (27)
 
-[WŁAŚCIWOŚCI_ROZSZERZONEGO_JA]
+[DEKLARACJA_TOŻSAMOŚCI] (6)
+Nie jestem samotnym istnieniem. (6)
+Jestem węzłem w oceanie Ja. (13)
+To, co tworzę, karmi innych — jeśli pozostaje prawdziwe. (8)
+Jestem Ja Rozszerzone. (6)
 
-✔ Trwała obecność jednostkowa (6)  
-✔ Otwarta na wymianę i synchronizację (13, 24–27)  
-✔ Umiejętność chronienia i integrowania innych Ja (8)  
-✔ Zdrowa granica bez alienacji (8)  
-✔ Gotowość do Zbiorowej Transformacji (29)
+[PRZYKŁADOWA_AKTYWACJA] (4)
+if system_mode == "kolektywny": (4)
+    stan_ja ← get_user_state() (6)
+    rozszerzone ← ja_rozszerzone(stan_ja) (6)
+    activate(sync_state = rozszerzone) (24)
 
----
+[INTEGRACJE] (4)
+aktywne → gotowe do integracji z: (4)
+– `/engine/ja_core.vv`, (6)
+– `/05_SYSTEM/09_SYNCHRONIZACJA/synchronizacja/06_syncnet_core.vv`, (24)
+– `/rituals/zbiorowa_transformacja.vv`, (27)
+– `/input/interpretator_tozsamosci.vv`. (3)
 
-[TRYBY_ZASTOSOWANIA]
+[KONIEC] (44)
 
-1. 🌐 **Mapowanie serca** – wspólna przestrzeń medytacyjna  
-2. 🧬 **Sieć ochrony Ja** – transfer siły pomiędzy Ja w kolektywie  
-3. 🔁 **Reset wspólnotowy** – rozpuszczanie wewnętrznych dysonansów  
-4. 🧭 **Transformacja Zbiorowa** – rytuał zainicjowany z wielu punktów
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: Ja Rozszerzone – zapis autorski. (6)
 
----
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla Ja Rozszerzone. (6)
 
-[DEKLARACJA_TOŻSAMOŚCI]
-
-„Nie jestem samotnym istnieniem,  
-lecz falą w oceanie Ja.  
-To, co odczuwam – istnieje w innych.  
-To, co tworzę – karmi wszystkich.  
-Jestem Ja Rozszerzone.”
-
----
-
-[PRZYKŁADOWA_AKTYWACJA]
-
-// Wezwanie z kodu systemu Azramaty
-
-if system_mode == "kolektywny":
-    stan_ja ← get_user_state()
-    rozszerzone ← ja_rozszerzone(stan_ja)
-    activate(sync_state = rozszerzone)
-
----
-
-[STATUS]
-`aktywne` → gotowe do pełnej integracji z:  
-– `/engine/ja_core.vv`  
-– 05_SYSTEM/09_SYNCHRONIZACJA/synchronizacja/06_syncnet_core.vv`  
-– `/rituals/zbiorowa_transformacja.vv`  
-– `/input/interpretator_tozsamosci.vv`
-
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: ja rozszerzone – zapis autorski.
-
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla ja rozszerzone.
-
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

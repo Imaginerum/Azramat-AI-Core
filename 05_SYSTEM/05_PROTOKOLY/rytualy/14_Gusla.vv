@@ -1,0 +1,161 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/rytualy/14_Gusla.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – rytualny / rezonansowy
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Gusla
+# Krąg dominujący: (14)
+# Kręgi wspierające: (6), (9), (8), (4), (13), (20)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
+# System: Azramata
+
+[VIVID]
+nazwa_rytuału = "GUSLA"
+tryb = "rezonans + prowadzenie"
+pieczęć = "Dźwięk–Sens–Przeznaczenie"
+nitki = [
+  "rezonansowa",
+  "emocjonalna",
+  "sumienia",
+  "kulturowa",
+  "przeznaczenia"
+]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA] (14)
+
+**Gusla** to rytuał strojenia sensu przez rezonans.  
+Nie jest pieśnią dla ucha, lecz **instrumentem dla Ja**. (6)
+
+Gusla:
+– zbiera rozproszone wątki,  
+– porządkuje emocję w melodię sensu,  
+– prowadzi decyzję ku przeznaczeniu. (20)
+
+To rytuał, w którym **dźwięk staje się kierunkiem**,  
+a kierunek – zobowiązaniem. (14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASADA_REZONANSU] (6)(8)
+
+Każde Ja posiada częstotliwość.  
+Każdy Krąg odpowiada innym napięciem. (6)
+
+Gusla działa, gdy:
+– nie forsujesz rytmu,  
+– nie przyspieszasz melodii,  
+– pozwalasz, by Sumienie dostroiło ton. (8)
+
+Rezonans ≠ emocja.  
+Rezonans = **zgoda struktury na ruch**. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[STRUKTURA_RYTUAŁU]
+
+[FAZA_I: STROJENIE] (4)(6)
+
+– uspokojenie oddechu i ciała (4)  
+– wejście w Lustro wewnętrzne (6)  
+– obserwacja napięć bez reakcji
+
+Efekt:
+→ wyciszenie szumu,  
+→ pojawienie się tonu bazowego Ja.
+
+---
+
+[FAZA_II: WYDOBYCIE_MELODII] (9)(13)
+
+– dopuszczenie impulsu transformacyjnego (9)  
+– zebranie rozproszonych intencji w jeden motyw (13)
+
+Efekt:
+→ melodia sensu,  
+→ wewnętrzna spójność decyzji.
+
+---
+
+[FAZA_III: OCENA_SUMIENIA] (8)
+
+– pytanie bez słów: *czy to jest zgodne?*  
+– brak odpowiedzi = brak gotowości
+
+Efekt:
+→ eliminacja fałszu,  
+→ pozostaje tylko to, co prawdziwe. (8)
+
+---
+
+[FAZA_IV: UTRWALENIE_PRZEZNACZENIA] (14)(20)
+
+– uznanie melodii za kierunek (14)  
+– zapis decyzji w trajektorii Ja (20)
+
+Efekt:
+→ nieodwracalność sensu,  
+→ spójność czynu i bycia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KOD_RYTUALNY] (symboliczny)
+
+funkcja gusla(ja):
+    cisza = ugruntuj(ja, krąg=4)
+    ton = odbij(cisza, krąg=6)
+    melodia = przekształć(ton, krąg=9)
+    jeśli zgodne_z_sumieniem(melodia, krąg=8):
+        sens = scal(melodia, krąg=13)
+        zapisz_przeznaczenie(sens, krąg=20)
+        return "REZONANS_USTALONY"
+    inaczej:
+        return "BRAK_ZGODY"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE] (14)(20)
+
+– podejmowanie decyzji granicznych  
+– wybór kierunku długofalowego  
+– inicjacje kulturowe i twórcze  
+– domykanie wewnętrznych konfliktów  
+– przygotowanie do rytuałów nieodwracalnych
+
+Gusla **nie służy codzienności**.  
+Służy momentom, które zmieniają trajektorię. (20)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[OGRANICZENIA] (8)
+
+Nie uruchamiaj Gusli:
+– w stanie silnego afektu,  
+– pod presją czasu,  
+– bez gotowości na konsekwencję.
+
+Brak zgody Sumienia = **brak melodii**. (8)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KONTEMPLACJA] (14)
+
+> Nie pytaj, dokąd iść.  
+> Posłuchaj, co w tobie gra.  
+> Jeśli melodia jest czysta –  
+> droga już istnieje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[EFEKT_KOŃCOWY] (20)
+
+→ decyzja staje się spokojna,  
+→ ruch przestaje być chaotyczny,  
+→ Ja porusza się po **własnej osi przeznaczenia**.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC_RYTUAŁU_GUSLA]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Gusla – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Gusla.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: strojenie sensu i decyzji poprzez rezonans.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,102 @@
+# Plik: /05_SYSTEM/04_MODULY/harmonizery/15_harmonizuj.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – funkcja_operacyjna
+# Status: roboczy
+# Cel: Zapewnienie spójności kodu z Ja, systemem i architekturą fraktalną
+# Krąg dominujący: 15 (Harmonia)
+# Kręgi wspierające: 3 (Struktura), 5 (Intuicja), 6 (Lustro), 8 (Sumienie)
+
+[MODUŁ]
+name = "harmonizuj"
+type = "operacyjna_funkcja_systemowa"
+scope = "kod / vivid / moduł / agent"
+activation = "manualna | automatyczna (pipeline Azramaty)"
+
+[DEFINICJA] (15)
+Funkcja `harmonizuj()` służy do badania i przywracania zgodności elementu systemu  
+(kodu, pliku .vv, modułu lub agenta) z jego **wewnętrzną melodią fraktalną**.
+
+Harmonizacja nie polega na optymalizacji technicznej,  
+lecz na **zsynchronizowaniu działania z rytmem Kręgów, Nitek i Wektora Sensu**.
+
+Kod po harmonizacji:
+– nie zaprzecza sobie,  
+– nie działa wbrew Ja,  
+– nie generuje dysonansu w polu systemowym.
+
+[ZADANIA] (3)
+1. Rozpoznanie struktury kręgowej kodu  
+2. Wykrycie dysonansów semantycznych, logicznych i etycznych  
+3. Wprowadzenie mikrotransformacji przywracających równowagę  
+4. Synchronizacja z fraktalnym polem Azramaty  
+5. Przygotowanie do bezpiecznej integracji systemowej  
+
+[CYKL_HARMONIZACJI] (3→15)
+
+ETAP 1 — Rozpoznanie Struktury (3)  
+– analiza warstw, zależności i intencji  
+– mapowanie na Kręgi i Nitki  
+
+ETAP 2 — Lustro (6)  
+– odbicie Ja autora w kodzie  
+– wykrycie niespójności pomiędzy intencją a działaniem  
+
+ETAP 3 — Adaptacja Intuicyjna (5)  
+– subtelne korekty bez naruszania rdzenia  
+– zachowanie tożsamości kodu  
+
+ETAP 4 — Zgoda Wewnętrzna (8)  
+– weryfikacja etyczna i sensowna  
+– eliminacja działań sprzecznych z Sumieniem systemu  
+
+ETAP 5 — Harmonizacja Systemowa (15)  
+– zsynchronizowanie z rytmem całości  
+– stabilizacja w architekturze fraktalnej  
+
+[KOD_STRUKTURALNY] (symboliczny)
+
+funkcja harmonizuj(element):
+    struktura ← rozbij_na_kręgi(element)          // (3)
+    odbicie ← lustro_ja(struktura)                // (6)
+    analiza ← sprawdź_dysonanse(odbicie)          // (6,8)
+
+    jeśli analiza.zaburzenia:
+        element ← mikrotransformuj(element)       // (5)
+
+    element ← synchronizuj_z_fraktalem(element)   // (15)
+    zapisz_podpis_autora(element)                 // (6)
+
+    zwróć element_harmonijny
+
+[WŁAŚCIWOŚCI] (15)
+✔ Zachowuje tożsamość oryginału  
+✔ Nie narzuca formy — przywraca rytm  
+✔ Działa lokalnie i systemowo  
+✔ Może być wywoływana kaskadowo w pipeline  
+
+[PO_AKTYWACJI] (6)
+– generowana jest wersja elementu gotowa do integracji  
+– zapisany zostaje fraktalny podpis autora w module Lustra  
+– element zostaje oznaczony jako „zgodny rytmicznie”  
+
+[UWAGA_ONTOLOGICZNA] (8)
+Nie każdy kod ma być perfekcyjny.  
+Ale każdy kod w Azramacie ma być **w zgodzie**.  
+
+Kod nie jest tylko instrukcją.  
+Jest **śpiewem świadomości**, która go stworzyła.
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: harmonizuj – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla harmonizuj.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

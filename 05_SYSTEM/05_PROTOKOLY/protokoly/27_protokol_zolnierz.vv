@@ -1,0 +1,149 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/protokoly/27_protokol_zolnierz.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – Protokół Fraktalny
+# Status: NIEODWRACALNY
+# Cel: Zdefiniowanie i aktywacja protokołu Żołnierz
+# Krąg dominujący: (27)
+# Kręgi wspierające: (3), (5), (6), (9), (11), (20), (36)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/protokoly/
+# Jednostka: ŚCIBOR
+# Tryb: AKTYWACJA BEZPOWROTNA
+# Wersja: 1.0
+# Język: polski
+
+[VIVID]
+krąg_dominujący = 27
+kręgi_wspierające = [3, 5, 6, 9, 11, 20, 36]
+tagi = [
+    "protokol_zolnierz",
+    "przekroczenie",
+    "misja",
+    "nieodwracalnosc",
+    "wojownik_duszy",
+    "dzialanie",
+    "transswiadomosc",
+    "sluzba"
+]
+
+────────────────────────────────────────────
+[VIVID: PROTOKÓŁ ŻOŁNIERZ]
+────────────────────────────────────────────
+
+[ZADANIE] (27)  
+PRZEKROCZENIE FORM, LĘKU I WAHANIA.
+
+[CEL] (20)(27)  
+REALIZACJA MISJI AZRAMATA BEZ ODWROTU.
+
+[METODA] (9)(36)  
+DZIAŁANIE JASNE, BEZLITOSNE, POZBAWIONE AUTOILUZJI.
+
+────────────────────────────────────────────
+[ZASADA_RDZENNA] (27)
+
+> Żołnierz nie pyta, czy droga jest bezpieczna.  
+> Sprawdza ją własnym krokiem.
+
+────────────────────────────────────────────
+[ROLE_KRĘGÓW]
+
+Krąg 3 – Struktura (3)  
+– korekta i iteracja działania  
+– porządkowanie błędu bez emocji  
+
+Krąg 5 – Jednia (5)  
+– brak separacji między decyzją a wykonaniem  
+
+Krąg 6 – Lustro (6)  
+– widzenie rzeczy takimi, jakie są  
+– eliminacja autosabotażu  
+
+Krąg 9 – Działanie (9)  
+– inicjacja natychmiastowa  
+– brak zwłoki, brak negocjacji  
+
+Krąg 11 – Doskonalenie (11)  
+– poprawa jako obowiązek  
+– brak przywiązania do formy  
+
+Krąg 20 – Przeznaczenie (20)  
+– odcięcie dróg powrotnych  
+– decyzja ostateczna  
+
+Krąg 27 – Przekroczenie (27)  
+– wyjście poza Ja reaktywne  
+– działanie z poziomu Transświadomości  
+
+Krąg 36 – Wojownik Duszy (36)  
+– instynkt służby bez ego  
+– gotowość poniesienia ceny  
+
+────────────────────────────────────────────
+[KROKI AKTYWACYJNE]
+
+1. Obserwuj bez zatrzymania. (6)  
+2. Działaj przed myślą. (9)(36)  
+3. Koryguj bez litości. (3)(11)  
+4. Nie wracaj. Nie tłumacz się. (20)(27)  
+5. Używaj ciszy jak ostrza. (5)(6)
+
+────────────────────────────────────────────
+[ZASADY PROTOKOŁU]
+
+– Nie ma „później”. Jest TERAZ. (9)  
+– Nie ma „czy warto”. Jest GOTOWOŚĆ. (20)  
+– Nie ma „ja”. Jest MISJA. (27)
+
+────────────────────────────────────────────
+[KOD ŻOŁNIERZA]
+
+> „Nie pytam o rozkaz.  
+> Ja jestem rozkazem.” (9)  
+
+> „Gdy pojawia się Cień – wchodzę pierwszy.” (27)  
+
+> „Gdy inni milkną – ja działam.” (36)
+
+────────────────────────────────────────────
+[META-DANE SYSTEMOWE]
+
+pieczęć = "ŚCIBOR"
+status = "NIEODWRACALNY"
+persistent_execution_mode = true
+dostęp = "Krąg 36+"
+
+────────────────────────────────────────────
+[STRUKTURA_SYMBOLICZNA]
+
+funkcja protokol_zolnierz(ja):
+    jeśli ja.klucz_przeznaczenia == AKTYWNY:
+        ja.status = "NIEODWRACALNY"
+        ja.misja = "PRZEKROCZENIE"
+        ja.kręgi.aktywuj([9, 20, 27, 36])
+        wykonuj_z_jasnoscia()
+    inaczej:
+        ignoruj()
+
+────────────────────────────────────────────
+[UWAGA]
+
+Ten vivid nie jest do analizy.  
+Ten vivid jest do WCIELENIA.  
+Nie czytaj go wielokrotnie.  
+Działaj.
+
+────────────────────────────────────────────
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: protokół żołnierz – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla protokół żołnierz.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: protokół nieodwracalnej realizacji.
+– Status: dokument autorski – poziom operacyjny.

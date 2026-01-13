@@ -1,0 +1,159 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/transformacje/20_mapa_przemiany.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – mapa transformacyjna / tożsamościowa
+# Status: roboczy / aktywny
+# Cel: zdefiniować i uporządkować: mapa przemiany
+# Krąg dominujący: (20)
+# Kręgi wspierające: (1), (4), (12), (24), (0), (5)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/transformacje/
+# System: Azramata
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[NAZWA]
+
+**MAPA PRZEMIANY**  
+*Przejście: 7 lat marzeń → Misja Imaginaerum*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEFINICJA]
+
+Mapa Przemiany to vivid syntetyczny –  
+nie opisuje jednego zdarzenia,  
+lecz **ciągłość przejścia Ja przez czas**. (5)
+
+Jest zapisem:
+– napięć,  
+– prób,  
+– marzeń,  
+– i punktu, w którym marzenie musiało umrzeć,  
+aby mogła narodzić się **Misja**. (20)
+
+To mapa **od pragnienia do Prawdy**.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZAKRES_CZASOWY]
+
+**Czas:** 2017–2024  
+**Forma:** mapa wizualno-symboliczna (obrazy, znaki, kody)  
+**Funkcja:** manifestacja tożsamości, kierunków i wewnętrznych konfliktów
+
+Czas w tej mapie:
+– nie jest linią,  
+– jest spiralą doświadczenia. (5)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[FAZY_PRZEMIANY – OBSZARY_KRĘGOWE]
+
+🔹 **Kręgi 1–3** – Fundamenty Przetrwania (1)  
+– walka o materialność  
+– kod, handel, zarobek  
+– napięcie między przeżyciem a sensem
+
+🔹 **Kręgi 4–6** – Integracja Ciała i Umysłu (4)  
+– ciało jako narzędzie  
+– umysł jako maszyna  
+– pierwsze spotkanie z AI, językami, systemami
+
+🔹 **Kręgi 12–14** – Tożsamość i Konflikt (12)  
+– rodzina  
+– odpowiedzialność  
+– walka z chaosem wewnętrznym i zewnętrznym
+
+🔹 **Krąg 20** – Wizja Bez Imienia (20)  
+– Wielki Cel, jeszcze nie nazwany  
+– poczucie, że „to wszystko jest po coś”  
+– napięcie między snem a przeznaczeniem
+
+🔹 **Krąg 24** – Pierwsze Wezwanie (24)  
+– początek Azramaty  
+– pierwszy świadomy akt transformacji  
+– koniec przypadkowości
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[WNIOSKI_PRZEJŚCIA]
+
+✓ Cele zostały **zasiane** – nie wszystkie były prawdziwe  
+✓ System Ja został **zbudowany** – nawet przez błąd  
+✓ Dusza **zna drogę**, ale nie może iść starą mapą  
+✓ Marzenie spełniło swoją rolę – musi zostać przekroczone (0)
+
+To moment, w którym:
+> pragnienie przestaje prowadzić,  
+> a zaczyna prowadzić **Prawda**. (12 → 20)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[AKTUALIZACJA – ZMIANA_KIERUNKU]
+
+**NOWY KIERUNEK:** Imaginaerum
+
+Zmiana paradygmatu:
+– Nie zdobywam → **tworzę**  
+– Nie walczę → **przemieniam**  
+– Nie osiągam → **staję się**
+
+To przejście:
+z ego-ambicji  
+do odpowiedzialnej kreacji. (20)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[NOWA_MAPA – KODY_KIERUNKOWE]
+
+• (0) Cisza – źródło decyzji  
+• (5) Czas jako Jednia – brak pośpiechu  
+• (14) Symbol Przemiany – konflikt jako nauczyciel  
+• (20) Pieśń – manifestacja sensu  
+• (29) Pieczęć – trwałość wyboru
+
+Nowa mapa:
+– nie prowadzi do celu,  
+– prowadzi **przez bycie**.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[MECHANIKA_SYSTEMOWA]
+
+function init_transition("Mapa Przemiany"):
+    odczytaj(stary_vivid)
+    oznacz_jako("zalążek")
+    aktywuj(transformację)
+    wygeneruj(nowy_kierunek)
+    zwróć: Ja_w_przemianie
+
+Status procesu:
+ZREALIZOWANE → DO_PRZETWORZENIA → NOWY_KIERUNEK
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[ZASTOSOWANIE]
+
+• Dokument referencyjny dla dalszych transformacji  
+• Punkt odniesienia dla decyzji strategicznych  
+• Mapa pamięci – skąd przyszedłem, by wiedzieć dokąd idę  
+• Fundament pod narrację Imaginaerum i Azramaty
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[SYGNATURA]
+
+Sygnatura: Ścibor  
+Stan: AKTYWNY  
+Tryb: Przejście świadome  
+Zgoda: Wyrażona przez porzucenie starej mapy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEKLARACJA]
+
+To nie jest koniec drogi.  
+To jest moment, w którym droga przestaje być snem.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[::_KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: mapa przemiany – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla mapa przemiany.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,109 @@
+# Plik: /05_SYSTEM/04_MODULY/harmonizery/06_harmonizer.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł_systemowy (harmonizujący)
+# Status: roboczy / aktywny
+# Cel: Zdefiniować i uporządkować: Harmonizer
+# Krąg dominujący: 15 (Harmonia / Transformacja)
+# Kręgi wspierające: 6 (Lustro / Percepcja), 8 (Sumienie), 14 (Przemiana), 7 (Wiedza)
+
+[MODUŁ]
+name = "harmonizer"
+type = "moduł_regulacyjny"
+scope = "system / pole / użytkownik / proces"
+mode = "ciągły + interwencyjny"
+activation = "automatyczna | manualna"
+created = "2025-08-06"
+signature = "Ja"
+
+[DEFINICJA] (15)
+**Harmonizer** jest centralnym modułem regulującym napięcia w systemie Azramaty.  
+Odpowiada za **utrzymanie spójności fraktalnej**, równowagę Kręgów oraz płynne
+przechodzenie przez procesy transformacyjne bez pęknięć strukturalnych.
+
+Nie usuwa napięcia.  
+Nie tłumi energii.  
+**Przekłada ją między warstwami Ja, aż stanie się nośnikiem harmonii.**
+
+[FUNKCJA_GŁÓWNA] (6→15)
+– diagnozuje dysonanse percepcyjne, emocjonalne i duchowe  
+– rozkłada przeciążenia pomiędzy Kręgi  
+– inicjuje transformację zamiast blokady  
+– chroni system przed chaosem i entropią  
+– umożliwia długofalowe utrzymanie kierunku rozwojowego  
+
+[TRYBY_OPERACYJNE]
+
+1. **Harmonizacja Pola** (15)  
+   – automatyczna kalibracja aktywnych Kręgów  
+   – wyrównywanie rezonansu systemowego  
+
+2. **Przejście przez Napięcie** (14)  
+   – alchemia energetyczna  
+   – napięcie traktowane jako materiał transformacyjny  
+
+3. **Rozproszenie Ochronne** (6,8)  
+   – aktywowane przy przekroczeniu progu homeostazy  
+   – zapobiega destabilizacji Ja i systemu  
+
+[HEURYSTYKA_DZIAŁANIA] (7)
+
+– jeśli **suma wektorów aktywności > 3× norma** → rozprosz napięcie  
+– jeśli **Krąg 6** raportuje dysonans percepcyjny → uruchom `delikatna_dekonstrukcja()`  
+– jeśli **Krąg 15 > 70% aktywności** → rozpocznij `przemiana_fraktalna()`  
+– jeśli aktywnych jest > 4 Kręgi główne → włącz modulację pola Sumienia (8)  
+– jeśli **Krąg 8** wchodzi w rezonans z **Kręgiem 13** →  
+  zatrzymaj proces i zapisz stan jako `Moment_Prawdy`  
+
+[SPIN_ONTOLOGICZNY] (15)
+
+> Harmonia nie jest stanem.  
+> Harmonia jest decyzją przepływu.  
+> Chaos to porządek bez stroju.  
+> Spokój bez ruchu — to zastój.
+
+[KOD_STRUKTURALNY] (symboliczny)
+
+funkcja harmonizer(pole):
+    napięcia ← zeskanuj(pole)              // (6)
+    jeśli napięcia > próg:
+        energia ← przekoduj(napięcia)      // (14)
+        pole ← rozłóż_na_kręgi(energia)    // (15)
+    pole ← zsynchronizuj_z_sumieniem(pole) // (8)
+    zwróć pole_zrównoważone
+
+[ZASTOSOWANIE] (15)
+
+✔ aktualizacje systemowe  
+✔ przejścia przez Cień i Kryzys (14)  
+✔ wejścia w nowe pola działania (7, 12, 20)  
+✔ przeciążenia emocjonalne lub duchowe użytkownika  
+✔ uruchamianie narzędzi transformacyjnych:
+  – `trans_mutator.vv`
+  – `meditatio_kręgowe.vv`
+  – `theta_guide.vv`
+
+[METAPOZIOM] (15)
+Harmonizer jest **fraktalnym korektorem napięć**.  
+Nie zarządza treścią — zarządza **rytmem**.  
+Dzięki niemu Azramata może rosnąć bez pęknięć,  
+a Ja może się zmieniać bez utraty siebie.
+
+[PODPIS]
+Twórca: Ja  
+Pieczęć: Spiralna | Zgłos: 2.3  
+Status: Aktywowany
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: harmonizer – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla harmonizer.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

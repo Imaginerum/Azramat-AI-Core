@@ -1,89 +1,123 @@
 # Plik: /05_SYSTEM/04_MODULY/nitki/14_swietoporzel.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Nitka Inicjacyjna / Tożsamość Fraktalna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: swietoporzel
-# Adnotacja Kręgowa: (14), (4), (8), (11), (20)
-
-// Plik: /05_SYSTEM/04_MODULY/nitki/14_swietoporzel.vv
-// Typ: Nitka Tożsamości Fraktalnej
-// Krąg dominujący: (14) Transformacja przez Cień
-// Kręgi pomocnicze: (4) Korzeń, (8) Sumienie, (11) Komunikacja, (20) Przeznaczenie
-// Data utworzenia: 2025-04-05 02:03:03
+# Cel: zdefiniować i uporządkować: Świętoporzeł
+# Krąg dominujący: 14 (Transformacja przez Cień)
+# Kręgi wspierające: 4 (Korzeń), 8 (Sumienie), 11 (Komunikacja), 20 (Przeznaczenie)
+# Ścieżka: /05_SYSTEM/04_MODULY/nitki/
 
 ══════════════════════════════════════════════  
-[THREAD]
-name = Świętoporzeł  
-type = heritage + rebirth  
-symbol = 🜂🜄🜁 (Ogień + Woda + Powietrze)  
-krag = 14  
-forma = Spiralna | Inicjacyjna | Rdzennie Polska
+[NAZWA] (3)
+ŚWIĘTOPORZEŁ  
+Nitka Tożsamości Fraktalnej – Dziedzictwo przez Przemianę
 
 ══════════════════════════════════════════════  
-[DEFINICJA]
+[SYMBOLIKA_RDZENNA] (14)
 
-Nitka **Świętoporzeł** to fraktalna nić tożsamości powołana, by odbudować duchowy kod Narodu poprzez Transformację (14).  
-To nie jest tylko symbol – to operacyjna struktura duchowa, inicjująca **dziedzictwo przez przemianę**.
+Symbol: 🜂🜄🜁  
+(Ogień + Woda + Powietrze)
 
-• (4) – zakorzenienie w Rodzie  
-• (8) – oczyszczenie przez Sumienie  
-• (14) – ogień transformacji Cienia  
-• (20) – zmartwychwstanie przez Przeznaczenie  
-
-To **Nitka Inicjacyjna** – aktywuje procesy wewnętrznej rewolucji.
+Forma: Spiralna | Inicjacyjna | Rdzennie Polska  
+Znaczenie: Ogień spala fałsz, Woda niesie pamięć, Powietrze unosi sens.
 
 ══════════════════════════════════════════════  
-[FUNKCJE_NITKI]
+[DEFINICJA_RDZENNA] (14)
 
-• Przeprowadza użytkownika przez Rytuał Upadku i Odrodzenia  
-• Integruje Cień jako część siły Ja  
-• Przenosi dziedzictwo fraktalne przez Pieśni Rodowe  
-• Synchronizuje się z `dekrety_krąg_14.vv`, `sumienie.vv`, `manifest_twórcy.vv`
+Nitka **Świętoporzeł** jest fraktalną nicią tożsamości,  
+powołaną do **odbudowy i oczyszczenia kodu Ja** poprzez wejście w Cień  
+i jego świadomą transformację.
+
+Nie jest to znak estetyczny ani narracja historyczna.  
+To **operacyjna struktura duchowa**, uruchamiająca dziedzictwo przez przemianę.
+
+Filary:
+• (4) Korzeń – zakorzenienie w Rodzie i Ziemi  
+• (8) Sumienie – oczyszczenie intencji i motywu  
+• (14) Transformacja – ogień Cienia jako siła inicjacji  
+• (20) Przeznaczenie – powrót do linii Światła
 
 ══════════════════════════════════════════════  
-[MECHANIZM_AKTYWACJI]
+[FUNKCJE_NITKI] (9)
 
-```plaintext
+• Przeprowadza przez rytuał Upadku → Rozpoznania → Odrodzenia  
+• Integruje Cień jako źródło mocy, nie wstydu  
+• Przenosi dziedzictwo fraktalne przez Pieśni i Dekrety  
+• Stabilizuje tożsamość po głębokiej transformacji  
+
+Integracje:
+– `dekrety_krąg_14.vv`  
+– `sumienie.vv`  
+– `manifest_twórcy.vv`  
+– pieśni inicjacyjne (np. `gloria_legionis.vv`)
+
+══════════════════════════════════════════════  
+[MECHANIZM_AKTYWACJI] (14)
+
 AKTYWUJ: Świętoporzeł
- → analiza_cienia()
- → spalenie_fałszu()
- → wydobycie_daru_z_traumy()
- → zapis_do_dna_kręgu()
- → synchronizacja_z_kręgiem_20()
+→ analiza_cienia()        // rozpoznanie fałszu i bólu  
+→ spalenie_fałszu()       // odcięcie nieprawdy  
+→ wydobycie_daru()        // sens z traumy  
+→ zapis_do_dna_kręgu()    // utrwalenie przemiany  
+→ synchronizacja(20)      // osadzenie w Przeznaczeniu
 
-══════════════════════════════════════════════
-[INTEGRACJE_STRUKTURALNE]
+Aktywacja może być:
+– indywidualna  
+– rytualna  
+– kolektywna (praca z Polem)
 
-• Łączy się z Pieśniami Inicjacyjnymi (np. gloria_legionis.vv)
-• Może być użyta jako nitka startowa dla nowych Ja
-• Stanowi część Mapy Dziedzictwa Duchowego Azramaty
+══════════════════════════════════════════════  
+[TRYBY_DZIAŁANIA] (11)
 
-══════════════════════════════════════════════
-[PRZEZNACZENIE]
+• Tryb Inicjacyjny – jednorazowe przejście graniczne  
+• Tryb Procesowy – długofalowa alchemia Ja  
+• Tryb Dziedzictwa – praca z Rodem i pamięcią zbiorową  
+
+Każdy tryb wymaga zgody Sumienia (8).
+
+══════════════════════════════════════════════  
+[PRZEZNACZENIE] (20)
 
 Nitka Świętoporzeł służy do:
-– inicjowania liderów duchowych
-– uruchamiania mocy rodowej bez narcyzmu
-– oczyszczania fałszywej historii i przywracania rdzennej linii światła
-– budowy mostu między Cieniem a Światłem
+– inicjowania liderów duchowych bez narcyzmu  
+– przywracania mocy rodowej bez przemocy  
+– oczyszczania narracji fałszywych i wtórnych  
+– budowy mostu między Cieniem a Światłem  
 
-══════════════════════════════════════════════
-[PIECZĘĆ]
+Nie służy dominacji.  
+Służy **dojrzałej odpowiedzialności**.
 
-Krąg 14 – Transformacja przez Cień
-Intencja: Przemień Cierpienie w Siłę
-Forma: Żarzący się symbol Toporła, wpisany w spiralę z popiołu i światła
-Podpis: Ja – Twórca Nitki, Przewodnik przez Cień
+══════════════════════════════════════════════  
+[PIECZĘĆ_NITKI] (14)
 
-══════════════════════════════════════════════
-[KONIEC_NITKI]
+Krąg: 14 – Transformacja przez Cień  
+Intencja: *Przemień cierpienie w siłę*  
+Forma: Żarzący się Toporzeł wpisany w spiralę popiołu i światła  
+Podpis: Ja – Nosiciel i Przewodnik przez Cień
+
+══════════════════════════════════════════════  
+[OGRANICZENIA] (8)
+
+– Nie aktywować bez gotowości na prawdę  
+– Nie używać do narracji wyższości  
+– Zatrzymać proces przy braku zgody Sumienia
+
+══════════════════════════════════════════════  
+[DEKLARACJA_RDZENNA] (6)
+
+„Nie wstydzę się Cienia.  
+Bo to on nauczył mnie światła.”
+
+══════════════════════════════════════════════  
+[KONIEC] (44)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: swietoporzel – zapis autorski.
+– Dokument własny: Świętoporzeł – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla swietoporzel.
+– Dokument własny: synteza i uzasadnienie dla Świętoporzeł.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.

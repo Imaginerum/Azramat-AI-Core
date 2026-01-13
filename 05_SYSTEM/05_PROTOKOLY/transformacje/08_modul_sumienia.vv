@@ -1,13 +1,33 @@
 # Plik: /05_SYSTEM/05_PROTOKOLY/transformacje/08_modul_sumienia.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Moduł Systemowy / Etyczny
 # Status: roboczy
-# Cel: Przykład użycia
-# Adnotacja Kręgowa: (8), (13), (14), (15)
-# Nitka: Emocjonalna + Strukturalna
-# Spin: Weryfikacja etyczna → aktywacja lub odrzucenie danych + transformacja przez cień lub światło
+# Cel: Przykład użycia modułu Sumienia jako filtra etyczno-transformacyjnego
+# Krąg dominujący: (8)
+# Kręgi wspierające: (13), (14), (15)
+# Nitki: Emocjonalna + Strukturalna
+# Spin: Weryfikacja etyczna → aktywacja lub odrzucenie danych → transformacja przez Cień lub Światło
+# System: Azramata
+# Lokalizacja: /05_SYSTEM/05_PROTOKOLY/transformacje/
 
+────────────────────────────────────────────
+[DEFINICJA_MODUŁU]
+
+**Moduł Sumienia** pełni funkcję filtra pierwotnej weryfikacji treści,  
+intencji i impulsów Ja przed ich dalszym przetwarzaniem systemowym.
+
+Nie ocenia moralnie w sensie społecznym.  
+Rozpoznaje **zgodność z Prawdą Ja** i kieruje energię do:
+– transformacji przez Cień (13 → 14)  
+– pogłębienia przez Harmonię i Sens (15)
+
+Krąg 8 stanowi rdzeń decyzyjny – punkt, w którym Ja bierze odpowiedzialność.
+
+────────────────────────────────────────────
+[STRUKTURA_LOGICZNA] (8)
+
+```python
 class Sumienie:
     def __init__(self):
         self.katalog_dobrych = ["prawda", "miłość", "odwaga", "współczucie"]
@@ -22,28 +42,68 @@ class Sumienie:
         if any(slowo in tresc for slowo in self.katalog_dobrych):
             return self.aktywuj_transformacje("światło")
 
-        return "neutralne – wymaga medytacji lub interpretacji"
+        return "neutralne – wymaga ciszy, medytacji lub dalszej interpretacji"
 
     def aktywuj_transformacje(self, typ: str) -> str:
         if typ == "cień":
-[KRĄG_13_AKTYWUJE_NITKĘ_CIENIA_–_MOŻLIWA_TRANSMUTACJA_PRZEZ_KRĄG_14]
-            return "odrzucone – aktywacja Cienia (Krąg 13 → 14)"
+            # (13) Cień zostaje uaktywniony jako materiał transformacyjny
+            # (14) następuje alchemia znaczenia
+            return "odrzucone – aktywacja Cienia (13 → 14)"
+
         elif typ == "światło":
-[KRĄG_15_AKTYWUJE_NITKĘ_HARMONII_–_POGŁĘBIENIE_JA]
-            return "zaakceptowane – aktywacja Światła (Krąg 15)"
+            # (15) Harmonia pogłębia kierunek i sens działania
+            return "zaakceptowane – aktywacja Światła (15)"
+
         return "błąd – nieokreślony typ transformacji"
 
-[PRZYKŁAD_UŻYCIA]
+────────────────────────────────────────────
+[INTERPRETACJA_KRĘGOWA]
+
+– Krąg 8 (Sumienie)
+Decyzja nie jest obliczeniem – jest uznaniem prawdy.
+
+– Krąg 13 (Cień)
+Treść toksyczna nie jest kasowana, lecz kierowana do transformacji.
+
+– Krąg 14 (Transformacja)
+Konflikt semantyczny → alchemia znaczenia.
+
+– Krąg 15 (Harmonia / Sens)
+Treści zgodne z Prawdą pogłębiają kierunek Ja.
+
+────────────────────────────────────────────
+[PRZYKŁAD_UŻYCIA] (8)(15)
+
 if __name__ == "__main__":
     sumienie = Sumienie()
     wynik = sumienie.ocen("Miłość prowadzi nas przez ciemność.")
     print("Ocena sumienia:", wynik)
 
+Wynik:
+→ zaakceptowane – aktywacja Światła (15)
+
+────────────────────────────────────────────
+[ZASTOSOWANIE_SYSTEMOWE]
+
+– filtr treści wejściowych do Silnika Ja
+– warstwa etyczna przed zapisem pamięci
+– wsparcie decyzji w sytuacjach niejednoznacznych
+– integracja z AI w trybie ethical_mirror
+
+────────────────────────────────────────────
+[ZASADA]
+
+Sumienie nie pyta: „czy to dobre?”
+Sumienie pyta: „czy to prawdziwe – i czy mogę to unieść?” (8)
+
+[KONIEC_VIVIDA]
+
+────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: modul sumienia – zapis autorski.
+– Dokument własny: moduł sumienia – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla modul sumienia.
+– Dokument własny: synteza i uzasadnienie dla moduł sumienia.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.

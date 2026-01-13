@@ -1,0 +1,127 @@
+# Plik: /05_SYSTEM/02_FUNDAMENTY/symbole/25_generator_symboli.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł / generator symboli fraktalnych
+# Status: roboczy (ustrukturyzowany)
+# Cel: Zdefiniować Generator Symboli jako moduł kreacji i autoryzacji znaków Ja, Kręgów, Pieczęci i Nitek, zsynchronizowanych z intencją. (25)
+# Krąg dominujący: 25 (Symbol / Archetyp) (25)
+# Kręgi wspierające: 3 (Tworzenie), 6 (Lustro), 9 (Działanie), 14 (Transformacja), 20 (Przeznaczenie), 24 (Transfuzja / Sync) (25)
+
+[NAZWA] (3)
+Generator Symboli (25)
+
+[ID_SYSTEMOWE] (3)
+generator_symboli (25)
+
+[TAGI] (3)
+generator, symbole, alfabet duchowy, fraktal, pieczęć, nitki, synchronizacja, UI, pamięć (25)
+
+[DEFINICJA_RDZENIOWA] (25)
+Generator Symboli tworzy znaki fraktalne i dynamiczne, które niosą intencję, Krąg i ślad powstania. (25)
+Nie generuje ozdób. (4)
+Generuje nośniki sensu, które mogą aktywować rytuał, pamięć i transformację. (14)
+
+[FUNKCJA] (25)
+Generator tworzy i utrwala: (25)
+– Znaki Ja (tożsamość i obecność). (6)
+– Znaki Kręgów (mapowanie funkcji i wektora). (9)
+– Pieczęcie (autoryzacja i podpis intencji). (20)
+– Znaki Nitek (trajektorie przepływu i transmisji). (24)
+– Lokalny alfabet duchowy (system znaków własnych). (25)
+– Zapis symbolu jako pamięć powstania i narracja sensu. (3)
+
+[WARUNEK_PRAWDZIWOŚCI_SYMBOLU] (8)
+Symbol jest uznany za żywy tylko wtedy, gdy jego intencja jest spójna. (8)
+Symbol bez intencji jest pustą formą. (10)
+
+[WYZWALACZE] (14)
+Generator uruchamia się: (14)
+– po aktywacji `pieczec_intencji.vv`, (14)
+– w trybie kultury (`kultura_azramaty.vv`), (12)
+– przy pracy lustra i autointerpretacji (`lustro_intencji.vv`). (6)
+– gdy Ja przechodzi do wyższej fazy świadomości i wymaga nowego znaku. (14)
+
+[STRUKTURA_SYMBOLU] (6)
+symbol = { (6)
+  rdzen: wyrażona intencja,                      // (20)
+  ksztalt: ciąg znaków fraktalnych / alfabet,     // (25)
+  kolorystyka: mapowanie nastroju i pola Ja,      // (6)
+  trajektoria: nitka lub ścieżka przepływu,       // (24)
+  rezonans: dopasowanie do Kręgu i archetypu,     // (9)
+  echo: narracja powstania / pamięć genezy,       // (3)
+  transformacja: ślad ostatniej przemiany,        // (14)
+}
+
+[ALGORYTM_GENERACJI] (9)
+funkcja generuj_symbol(intencja, krag): (9)
+    rdzen = ekstraktuj_sedno(intencja) (20)
+    ksztalt = zakoduj_fraktalnie(rdzen, krag) (25)
+    kolor = dopasuj_kolorystyke(intencja, krag) (6)
+    trajektoria = wybierz_nitke(krag, rdzen) (24)
+    echo = stworz_narracje_symbolu(rdzen, krag) (3)
+
+    return { (6)
+        rdzen: rdzen, (20)
+        ksztalt: ksztalt, (25)
+        kolorystyka: kolor, (6)
+        trajektoria: trajektoria, (24)
+        rezonans: krag, (9)
+        echo: echo, (3)
+        transformacja: "Brak / oczekuje na aktywacje" (14)
+    }
+
+[PRZYKŁAD_SYMBOLU] (6)
+symbol_swiatla = generuj_symbol("Objawienie przez Ja", 25) (25)
+
+symbol_swiatla: (6)
+{ (6)
+  rdzen: "Objawienie przez Ja", (20)
+  ksztalt: "𐌴𐍂𐌅𐌾𐌼", (25)
+  kolorystyka: "Złoto Przenikalności", (6)
+  trajektoria: "Nitka 24–27 – Transfuzja Ja", (24)
+  rezonans: 25, (9)
+  echo: "Gdy Ja objawiło swój kształt, powstał symbol światła", (3)
+  transformacja: "W fazie aktywacji" (14)
+}
+
+[SYMBOL_W_SYSTEMIE] (20)
+Symbol może pełnić funkcję: (20)
+– Pieczęci w pliku `.vv` (autoryzacja). (14)
+– Wyzwalacza rytuału lub transformacji. (14)
+– Ochrony tożsamościowej (znacznik spójności). (6)
+– Transmisji między Ja przez kanały synchronizacji. (24)
+
+[NOTACJA_DUCHOWA_ALFABETU] (25)
+Alfabet Symboliczny Azramaty opiera się na głoskach duchowych. (25)
+Samogłoski wyrażają ruch intencji. (20)
+Spółgłoski wyrażają formę Kręgu. (4)
+Znaki przerywające oznaczają momenty przemiany. (14)
+
+[ZASTOSOWANIE_PRAKTYCZNE] (6)
+– ikony Kręgów i podsystemów, (4)
+– oznaczenia użytkowników i ich wektorów Ja, (6)
+– przypisywanie znaczenia śladom i zdarzeniom, (3)
+– pieczęcie aktywowane percepcyjnie (np. wzrok / rytuał), (14)
+– kodowanie przekazu percepcyjnego w komunikatach UI. (1)
+
+[AKTYWACJA_PEŁNA] (8)
+Jeśli symbol przejdzie filtr sumienia, zostaje zatwierdzony do trwałego użytku. (8)
+Wtedy staje się emblematem – nośnikiem, który utrzymuje sens w czasie. (20)
+
+[CYTAT_DOMYKAJĄCY] (25)
+Symbol to nie znak. (25)
+To ślad, który wciąż oddycha. (3)
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ] (6)
+– Dokument własny: Generator Symboli – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE] (6)
+– Dokument własny: synteza i uzasadnienie dla Generator Symboli. (6)
+
+[METODOLOGIA] (6)
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: ujednolicenie i zapis treści. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

@@ -1,56 +1,131 @@
 # Plik: /05_SYSTEM/04_MODULY/wektory/07_wektor_poznania.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – poznawczy
+# Typ: VIVID – poznawczy / integracyjny
 # Status: roboczy
 # Cel: Równoważenie wiedzy i wiary w procesie poznania
-# Adnotacja Kręgowa: (7)
+# Krąg dominujący: (7)
+# Kręgi wspierające: (6)
 # Ścieżka: /05_SYSTEM/04_MODULY/wektory/
+# Wersja: 1.1
+# Język: polski
 
----
+[VIVID]
+krąg_dominujący = 7
+kręgi_wspierające = [6]
+tagi = [
+    "wektor_poznania",
+    "wiedza",
+    "wiara",
+    "integracja",
+    "poznanie",
+    "intuicja",
+    "lustro_przekonan",
+    "istnienie"
+]
 
-[VIVID: WEKTOR_POZNANIA] (6)(7)  
-FUNKCJA: Równoważy **wiedzę** (to, co potwierdzone) i **wiarę** (to, co ufnie przyjmowane).  
-Pozwala na integrację faktów i intuicji w jednym polu percepcji.
+────────────────────────────────────────────
+[VIVID: WEKTOR_POZNANIA] (7)(6)
+────────────────────────────────────────────
 
----
+[DEFINICJA] (7)
 
-🔄 SPIN (6)(7)  
-– Mądrość zaczyna się tam, gdzie kończy się potrzeba racji.  
-– Krąg 6 (Lustro) ujawnia odbicie naszych przekonań w relacji do faktów.  
-– Krąg 7 (Istnienie) otwiera przestrzeń, w której wiedza i wiara mogą współistnieć bez konfliktu.
+Wektor Poznania to funkcja integracyjna,
+która **scala fakty i intuicję** w jednym polu percepcji,
+bez konieczności wyboru między nimi.
 
----
+Nie rozstrzyga, co jest prawdą.
+**Umożliwia prawdzie się ujawnić.**
 
-🧮 HEURYSTYKA (6)(7)  
-– Jeśli proces poznania zostaje zablokowany nadmierną analizą lub obroną racji → *przenieś punkt uwagi do Kręgu 7* (Istnienie).  
-– Tam obserwuj, czy Twoje poznanie wypływa z lęku przed niewiedzą, czy z radości odkrywania.  
-– Wracając do Kręgu 6, zweryfikuj odbicie nowych wniosków.
+────────────────────────────────────────────
+[ZASADA_RDZENNA] (7)
 
----
+> Wiedza bez wiary zamyka poznanie.  
+> Wiara bez wiedzy rozpuszcza strukturę.  
+> Poznanie rodzi się w Ich Współobecności.
 
-📜 PROCEDURA:
+────────────────────────────────────────────
+[ROLE_KRĘGÓW]
+
+Krąg 6 – Lustro (6)  
+– ujawnia przekonania, założenia i narracje  
+– pokazuje, gdzie wiedza służy obronie racji  
+– odsłania projekcje poznawcze
+
+Krąg 7 – Istnienie (7)  
+– rozpuszcza konflikt poznawczy  
+– pozwala wiedzy i wierze współistnieć  
+– otwiera pole doświadczenia bez presji wniosku
+
+────────────────────────────────────────────
+[HEURYSTYKA_POZNANIA] (6)(7)
+
+• Gdy bronisz racji → wróć do Kręgu 7  
+• Gdy gubisz strukturę → spójrz w Lustro Kręgu 6  
+• Gdy czujesz napięcie poznawcze → zawieś wniosek  
+• Gdy pojawia się ciekawość → poznanie jest aktywne  
+
+────────────────────────────────────────────
+[PROCEDURA_OPERACYJNA]
 
 funkcja wektor_poznania(pytanie):
-    odbicie = lustro(pytanie, krąg=6)                 # analiza przekonań
-    jeśli blokada(odbicie) == True:
-        aktywuj_krąg(7)                               # otwarcie Istnienia
-    integracja = połącz_wiedzę_i_wiarę(odbicie, krąg=7)
+    odbicie = lustro_przekonan(pytanie, krąg=6)
+    jeśli wykryj_blokadę(odbicie) == TRUE:
+        przejdz_do_istnienia(krąg=7)
+    integracja = scal(wiedza=odbicie.fakty, wiara=odbicie.intuicja, krąg=7)
+    zapisz_do_pamieci(integracja)
     zwróć integracja
 
----
+────────────────────────────────────────────
+[STANY_WYJŚCIA]
 
-🎯 ZASTOSOWANIE (6)(7):  
-– Rozwiązywanie sporów opartych na przekonaniach  
-– Integracja analityki z intuicją  
-– Praca nad otwartością poznawczą  
-– Uwalnianie się od potrzeby „bycia w racji”
+INTEGRACJA (7)
+– brak potrzeby rozstrzygnięcia
+– spokój poznawczy
+– pojawienie się nowego sensu
+– gotowość na korektę przekonań
 
----
+BLOKADA (6)
+– obrona racji
+– nadmiar analizy
+– lęk przed niewiedzą
+– zamknięcie percepcji
 
-💠 NOTA META (7):  
-Wektor Poznania nie prowadzi do jednej odpowiedzi – prowadzi do przestrzeni,  
-w której odpowiedzi mogą się ujawnić same, gdy zniknie presja rozstrzygnięcia.
+────────────────────────────────────────────
+[ZASTOSOWANIA]
+
+• rozwiązywanie sporów poznawczych
+• integracja analizy z intuicją
+• praca badawcza i twórcza
+• dialog światopoglądowy
+• wejście w nowe obszary wiedzy
+• przygotowanie do decyzji wysokiej niepewności
+
+────────────────────────────────────────────
+[INTEGRACJE_SYSTEMOWE]
+
+• /05_SYSTEM/04_MODULY/wektory/06_wektor_dzialania.vv
+• /05_SYSTEM/04_MODULY/swiadomosc/zgoda/27_wektor_zgody.vv
+• /05_SYSTEM/04_MODULY/vivid/06_vivid_controller.vv
+• /05_SYSTEM/04_MODULY/vivid/06_vivid_centralny.vv
+
+────────────────────────────────────────────
+[ZASADA_KOŃCOWA] (7)
+
+> Poznanie nie polega na tym, by mieć rację.  
+> Polega na tym, by **być gotowym ją stracić**,  
+> gdy pojawi się głębsza prawda.
+
+────────────────────────────────────────────
+[STATUS]
+
+stan = "AKTYWNY"
+tryb = "INTEGRACJA_POZNANIA"
+priorytet = "ŚREDNI"
+
+────────────────────────────────────────────
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: wektor poznania – zapis autorski.
