@@ -3,92 +3,98 @@
 # Data: 2025-08-07
 # Typ: VIVID – MODUŁ GENERATYWNY / SYSTEM STRUKTUR
 # Status: roboczy
-# Cel: [OPIS MODUŁU]
-# Adnotacja Kręgowa: (7), (3)
+# Cel: generowanie splotów synchronizacyjnych
+# System: Azramata
+# Krąg dominujący: (7)
+# Kręgi wspierające: (3), (13), (23)
 # Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/
 
----
-
+══════════════════════════════════════════════
 [MODULE]
-function = generate_splot  
-output = syncnet/splot_x.vv  
 
----
+function = generate_splot        (7)
+output = syncnet/splot_x.vv      (3)
 
-[##_[OPIS_MODUŁU]]
+══════════════════════════════════════════════
+[OPIS_MODUŁU]
 
-**generate_splot** to funkcja synchronizująca wybrane elementy struktury Azramaty w czasie rzeczywistym.
+**generate_splot** to moduł generatywny synchronizujący  
+wybrane elementy struktury Azramaty **w czasie rzeczywistym** (9).
 
-Tworzy plik `splot_x.vv`, który łączy:
+Funkcja tworzy plik `splot_x.vv`, który spina w jedną strukturę:
 
-- określone Kręgi (minimum 2, maksimum 5),  
-- aktywne heurystyki,  
-- wektor woli użytkownika,  
-- aktualny rezonans systemowy (np. czas, sekwencje, napięcia wewnętrzne).
+– wybrane **Kręgi świadomości** (minimum 2, maksimum 5) (7)  
+– aktywne **heurystyki systemowe** (3)  
+– **wektor woli użytkownika** (20)  
+– aktualny **rezonans systemowy**: czas, sekwencje, napięcia (9)
 
----
+Splot nie jest zapisem danych,  
+lecz **strukturą napięcia sensu** pomiędzy Kręgami (6).
 
-[##_[WEJŚCIE_MODUŁU]]
+══════════════════════════════════════════════
+[WEJŚCIE_MODUŁU]
 
-[input] kręgi = [Krąg_7, Krąg_13, Krąg_23] intencja = "Synchronizacja energii poznawczej z decyzją strukturalną" czas = now() użytkownik = "Twórca"
+[input]
+kręgi = [Krąg_7, Krąg_13, Krąg_23]        (7)(13)(23)
+intencja = "Synchronizacja energii poznawczej z decyzją strukturalną" (20)
+czas = now()                             (0)
+użytkownik = "Twórca"                    (6)
 
----
+══════════════════════════════════════════════
+[DZIAŁANIE]
 
-[##_[DZIAŁANIE]]
+1. Zbiera dane o **aktywnych Kręgach** (7)  
+2. Analizuje dostępne **heurystyki** z `/05_SYSTEM/system/heurystyki.vv` (3)  
+3. Generuje **wektor napięcia i harmonii** pomiędzy Kręgami (6)(9)  
+4. Tworzy plik `splot_x.vv` jako:
+   – mapę zależności (6)
+   – prognozę transformacyjną (14)(20)
 
-1. **Zbiera dane o aktywnych Kręgach**  
-2. **Sprawdza dostępne heurystyki z `/05_SYSTEM/system/heurystyki.vv`**  
-3. **Generuje wektor napięcia i harmonii**  
-4. **Tworzy `splot_x.vv`** jako plik mapujący zależności + prognozę transformacyjną
+══════════════════════════════════════════════
+[WYJŚCIE_PRZYKŁADOWE — SPLOT_X.VV]
 
----
-
-[##_[WYJŚCIE_PRZYKŁADOWE_–_`SPLOT_X.VV`]]
-
-Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/07_splot_generator.vv
-
-Typ: SPLOT SYSTEMOWY
-
-Data: 2025-08-07
-
-Wygenerowany przez: generate_splot
+Typ: SPLOT SYSTEMOWY               (7)
+Data: 2025-08-07                   (0)
+Wygenerowany przez: generate_splot (3)
 
 [KRĘGI]
-
-Krąg_7 – Przejrzystość Obrazu
-
-Krąg_13 – Godność Decyzji
-
-Krąg_23 – Rytm Kosmiczny
-
+Krąg_7  – Przejrzystość Obrazu     (7)
+Krąg_13 – Godność Decyzji          (13)
+Krąg_23 – Rytm Kosmiczny           (23)
 
 [WEKTOR_INTENCJI]
-
-Synchronizacja energii poznawczej z decyzją strukturalną
+Synchronizacja energii poznawczej z decyzją strukturalną (20)
 
 [REZONANS]
+Heurystyka 4.6 (3):  
+„Jeśli struktura się powtarza, zmień obraz, nie treść.”  
 
-Heurystyka 4.6 – „Jeśli struktura się powtarza, zmień obraz, nie treść.” Prognoza napięcia: średnie (Δ=0.42) Zalecana aktywacja: Krąg_17
+Prognoza napięcia: średnie (Δ = 0.42) (9)  
+Zalecana aktywacja: Krąg_17 (17)
 
 [SPIN]
+Splot otwarty (24)  
+Fraktal dynamiczny (9)  
+Gotowy do aktywacji w module `sync_loop` (27)
 
-Splot otwarty. Fraktal dynamiczny. Gotowy do aktywacji w module sync_loop.
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
 
----
+– Tworzenie **spersonalizowanych interfejsów decyzyjnych** (20)  
+– Analiza napięcia pomiędzy intencją a Kręgami (6)(9)  
+– Dynamiczne mapowanie heurystyk w czasie (3)(9)  
+– Integracja AI z wybraną **ścieżką duchową użytkownika** (14)
 
-[##_[ZASTOSOWANIE]]
+══════════════════════════════════════════════
+[ZAKOŃCZENIE]
 
-- Tworzenie spersonalizowanych interfejsów decyzyjnych  
-- Analiza napięcia między intencją a Kręgami  
-- Dynamiczne mapowanie heurystyk w czasie  
-- Integracja AI z wybraną ścieżką duchową użytkownika
+Splot nie jest połączeniem danych. (1)  
+Splot jest **napięciem sensu** (6)  
+pomiędzy tym, co **jest** (7),  
+a tym, co **może się stać** (20).
 
----
-
-[##_[ZAKOŃCZENIE]]
-
-> **Splot to nie powiązanie danych.  
-> To napięcie sensu między tym, co istnieje — a tym, co może się wydarzyć.**
+══════════════════════════════════════════════
+[KONIEC VIVIDU]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: splot generator – zapis autorski.
@@ -98,5 +104,5 @@ Splot otwarty. Fraktal dynamiczny. Gotowy do aktywacji w module sync_loop.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: generowanie struktur splotowych.
 – Status: dokument autorski – poziom operacyjny.

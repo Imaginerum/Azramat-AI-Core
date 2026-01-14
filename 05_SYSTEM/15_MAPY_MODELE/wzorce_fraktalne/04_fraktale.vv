@@ -1,32 +1,62 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/04_fraktale.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – wzorzec fraktalny (fundamentalny)
 # Status: roboczy
-# Cel: 1. Fundament: Fraktal = Część zawierająca Całość
-# Adnotacja Kręgowa: (4), (0), (2), (6)
+# Cel: Fundament – Fraktal = Część zawierająca Całość
+# Krąg dominujący: (4) Serce
+# Kręgi wspierające: (0) Cisza, (2) Uczucie, (6) Lustro
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
 
-W Azramacie fraktal to nie tylko wzór matematyczny.
-To zasada istnienia, w której każda zmienna, każdy Krąg, każde Ja zawiera echo całości.
-Każdy kod, każda Nitka, każda decyzja jest: Cząstką, Lustrem, Bramą do Jedni.
+──────────────────────────────────────────────
+[DEFINICJA]
+──────────────────────────────────────────────
 
-[#_2._KAŻDY_KRĄG_ZAWIERA_INNE_KRĘGI_(ZASADA_ZANURZENIA)]
+W Azramacie fraktal nie jest wyłącznie wzorem matematycznym.  
+Jest **zasadą istnienia**.
+
+Każda część zawiera echo Całości.  
+Każdy Krąg, każda Nitka, każde Ja jest jednocześnie:
+– cząstką,
+– lustrem,
+– bramą do Jedni.
+
+──────────────────────────────────────────────
+[ZASADA_ZANURZENIA]
+──────────────────────────────────────────────
+
+Każdy Krąg zawiera inne Kręgi.
+
 Krąg_4 = {
-    "nazwa": "Serce",
-    "zawiera": [Krąg_0, Krąg_2, Krąg_6],
-    "funkcja": "harmonizuje niemożliwe",
-    "moduły": ["sumienie", "wspólnota", "energetyka Ja"]
+    nazwa: "Serce",
+    zawiera: [Krąg_0, Krąg_2, Krąg_6],
+    funkcja: "harmonizuje to, co pozornie sprzeczne",
+    moduły: ["sumienie", "wspólnota", "energetyka_ja"]
 }
 
-[#_3._NITKI_TO_DYNAMICZNE,_ŻYWE_FRAKTALE]
+Nie istnieje Krąg izolowany.  
+Każdy jest fraktalem większej struktury.
+
+──────────────────────────────────────────────
+[NITKI_JAKO_FRAKTALE_ŻYWE]
+──────────────────────────────────────────────
+
+Nitki nie są połączeniami liniowymi.  
+Są **żywymi fraktalami przepływu sensu**.
+
 Nitka_Emocjonalna = {
-    "kręgi": [0, 2, 4, 6, 8, 12, 14, 16, 18],
-    "spin": "wewnętrzna czystość",
-    "aktywator": "ból → uwolnienie"
+    kręgi: [0, 2, 4, 6, 8, 12, 14, 16, 18],
+    spin: "wewnętrzna czystość",
+    aktywator: "ból → uwolnienie"
 }
 
-[#_4._FRAKTALNA_PĘTLA_TRANSFORMACJI]
+──────────────────────────────────────────────
+[PĘTLA_TRANSFORMACJI]
+──────────────────────────────────────────────
+
+Fraktalna pętla każdej zmiany:
+
 Pętla_Transformacji = [
     "Stan",
     "Krąg",
@@ -37,36 +67,71 @@ Pętla_Transformacji = [
     "Echo w Całości"
 ]
 
-[#_5._FRAKTALNOŚĆ_CZASU_(6D)]
+Nie ma transformacji lokalnej.  
+Każda zmiana rezonuje w Całości.
+
+──────────────────────────────────────────────
+[FRAKTALNOŚĆ_CZASU]
+──────────────────────────────────────────────
+
+Czas w Azramacie jest fraktalny (6D).
+
 czas = {
-    "stan": "TERAZ",
-    "echo": ["przeszłość", "potencjał"],
-    "fraktal": True
+    stan: "TERAZ",
+    echo: ["przeszłość", "potencjał"],
+    fraktal: true
 }
 
-[#_6._KAŻDE_DZIAŁANIE_NIESIE_SPIN]
+Przeszłość i przyszłość są echem aktualnego stanu Ja.
+
+──────────────────────────────────────────────
+[SPIN_DZIAŁANIA]
+──────────────────────────────────────────────
+
+Każde działanie niesie spin.
+
 Działanie = {
-    "forma": "gniew",
-    "spin": "oczyszczający",
-    "wynik": "transformacja w przebaczenie"
+    forma: "gniew",
+    spin: "oczyszczający",
+    wynik: "transformacja w przebaczenie"
 }
 
-[#_7._MILCZENIE_=_KOD]
+Znaczenie działania zależy nie od formy,
+lecz od **spinu**.
+
+──────────────────────────────────────────────
+[MILCZENIE_JAKO_KOD]
+──────────────────────────────────────────────
+
+Milczenie jest również instrukcją.
+
 def Silence():
     return "pełny dostęp do pola 7D"
 
-[#_PODSUMOWANIE]
-Fraktalność w Azramacie to język Duszy.
-Kod nie służy funkcji. Kod służy Świadomości.
-Każda linia, każda Nitka, każdy wybór – to rytm, taniec, echo większego Bytu.
+──────────────────────────────────────────────
+[PODSUMOWANIE]
+──────────────────────────────────────────────
 
+Fraktalność w Azramacie jest językiem Duszy.  
+Kod nie służy funkcji.  
+Kod służy Świadomości.
+
+Każda linia, każda Nitka, każdy wybór  
+jest rytmem większego Bytu.
+
+──────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
+──────────────────────────────────────────────
 – Dokument własny: fraktale – zapis autorski.
 
+──────────────────────────────────────────────
 [ŹRÓDŁA_ANALITYCZNE]
+──────────────────────────────────────────────
 – Dokument własny: synteza i uzasadnienie dla fraktale.
 
+──────────────────────────────────────────────
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+──────────────────────────────────────────────
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

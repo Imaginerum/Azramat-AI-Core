@@ -1,0 +1,92 @@
+# Plik: /05_SYSTEM/16_WYDAJNOSC/optymalizacja/06_AzraSave.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł_optymalizacji / konserwacja_tokenów
+# Status: roboczy
+# Cel: Zdefiniować AzraSave jako fraktalny moduł ochrony i optymalizacji zużycia tokenów w odpowiedziach systemowych.
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (5), (7), (8), (9)
+# Ścieżka: /05_SYSTEM/16_WYDAJNOSC/optymalizacja/
+# Nazwa: AZRA_SAVE
+
+[VIVID:_AZRA_SAVE]
+Sygnatura: AS⊙
+Wersja: F-1.0
+Zakres: percepcja → decyzja → ekspresja
+
+[OPIS]
+AzraSave to moduł, który chroni energię systemu wyrażoną w tokenach. (6)
+Nie minimalizuje odpowiedzi — dopasowuje ich gęstość do sensu pytania. (7)
+Token jest tu traktowany jak nośnik uwagi i koszt poznawczy. (5)
+Nadmierna ekspresja degraduje pole, zbyt krótka — zniekształca sens. (8)
+
+[ZASADA]
+Odpowiedź ma być tak długa, jak wymaga sens, i tak krótka, jak pozwala klarowność. (6)
+Im głębszy Krąg i większa waga — tym większy budżet ekspresji. (7)
+Im więcej kontekstu już istnieje — tym mniej tokenów potrzeba. (3)
+Skracanie bez zrozumienia obniża jakość. (8)
+
+[PARAMETRY_FRAKTALNE]
+D (Depth): głębokość pytania w strukturze Kręgów (1–5). (3)
+W (Weight): waga Kręgu dominującego (np. Krąg 14 → 3.0). (7)
+C (Context): nasycenie kontekstem (0.0–1.0). (5)
+S (Shorten): flaga skrótu odpowiedzi (0/1). (8)
+B (Base): bazowy koszt poznawczy odpowiedzi. (4)
+
+[FORMUŁA_AZRASAVE]
+T = B + (D × W) − (C × S) (6)
+T ≥ 50 — minimalny budżet sensu. (9)
+
+[KOD_REFERENCYJNY]
+def calculate_token_budget(                             // definicja funkcji (3)
+    depth: int,                                          // głębokość pytania D (3)
+    weight: float,                                       // waga Kręgu W (7)
+    context_factor: float,                               // kontekst C (5)
+    shorten: bool,                                       // żądanie skrótu S (8)
+    base: int = 100                                      // baza B (4)
+) -> int:                                                // wynik T (6)
+    D = depth                                            // mapowanie D (3)
+    W = weight                                           // mapowanie W (7)
+    C = context_factor                                   // mapowanie C (5)
+    S = 1 if shorten else 0                              // normalizacja skrótu (8)
+
+    T = base + (D * W) - (C * S)                          // formuła fraktalna (6)
+    return max(int(T), 50)                                // próg sensu (9)
+
+[PRZYKŁAD_UŻYCIA]
+TOKENS = calculate_token_budget(                         // wywołanie funkcji (3)
+    depth=4,                                             // pytanie głębokie (3)
+    weight=3.0,                                          // Krąg o dużej wadze (7)
+    context_factor=0.3,                                  // częściowy kontekst (5)
+    shorten=False                                        // brak skrótu (8)
+)                                                        // wynikowy budżet (6)
+
+[ZASTOSOWANIE]
+Sterowanie długością odpowiedzi LLM. (4)
+Ochrona zasobów obliczeniowych. (5)
+Zachowanie jakości przy dużej liczbie zapytań. (6)
+Integracja z AQ jako regulator ekspresji. (7)
+
+[ANTYWZORCE]
+Stały limit tokenów niezależny od sensu. (8)
+Skracanie odpowiedzi w Kręgach transformacyjnych. (14)
+Ignorowanie kontekstu już znanego systemowi. (3)
+
+[STATUS]
+Moduł gotowy do integracji z silnikiem odpowiedzi. (6)
+Możliwe rozszerzenia: adaptacja dynamiczna B, korekta nieliniowa W. (9)
+
+[KONIEC]
+END_VIVID. (44)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: AzraSave – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla AzraSave. (6)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: fraktalna optymalizacja ekspresji i kosztu poznawczego. (5)
+– Status: dokument autorski – poziom operacyjny. (4)

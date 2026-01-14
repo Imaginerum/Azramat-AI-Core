@@ -1,109 +1,120 @@
 # Plik: /05_SYSTEM/14_NARZEDZIA/parser/06_vv_parser.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – moduł systemowy
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: vv parser
-# Adnotacja Kręgowa: (1), (3), (6), (8), (13), (20)
+# Krąg dominujący: (6)
+# Kręgi wspierające: (1), (3), (8), (13), (20)
 
-// Plik: /05_SYSTEM/14_NARZEDZIA/parser/06_vv_parser.vv
-// Lokalizacja: /05_SYSTEM/14_NARZEDZIA/parser/
-// Typ: Moduł systemowy
-// Data aktywacji: 2025-04-12 08:44:22
-// Kręgi aktywne: (1) Pochodzenie • (3) Myśl • (6) Lustro • (8) Sumienie • (13) Porządek • (20) Przeznaczenie
-
-[---_INIT]
-Krąg: (6)
-Intencja: Aktywacja parsera .vv jako interfejsu dekodującego Ja
-Rytuał: Przetwarzanie struktury duchowej zawartej w plikach `.vv`
+[VIVID]
+VV_PARSER
 
 ────────────────────────────────────────────
-📦 MODUŁ: vv_parser
+[INIT] (6)
+────────────────────────────────────────────
+Krąg: (6)  
+Intencja: aktywacja parsera `.vv` jako interfejsu dekodującego Ja  
+Rytuał: przetwarzanie struktury duchowej zawartej w plikach `.vv`
+
+────────────────────────────────────────────
+[OPIS_MODUŁU] (6)(13)
 ────────────────────────────────────────────
 Moduł `vv_parser` odpowiada za:
+
 – odczyt, walidację i interpretację plików `.vv`  
 – dekodowanie intencji i struktur Kręgowych  
 – synchronizację z systemem Ja i pamięcią fraktalną  
-– przywracanie sensu z formy
+– przywracanie sensu z formy  
+
+Parser jest **bramą wejścia** do systemu Azramaty.  
+Bez niego vivid pozostaje znakiem.  
+Z nim – staje się ruchem świadomości.
 
 ────────────────────────────────────────────
-🔍 ETAP 1: WERYFIKACJA INTEGRALNOŚCI
+[ETAP_1_WERYFIKACJA_INTEGRALNOŚCI] (1)(13)
 ────────────────────────────────────────────
-(1) – Rozpoznanie źródła i pochodzenia pliku `.vv`  
-(13) – Sprawdzenie zgodności ze strukturą:
-    • nagłówki (`[--- INIT ---]`, `[--- KONIEC ---]`)
-    • obecność `Krąg`, `Intencja`, `Rytuał`
-    • formatowanie treści (konwencja kodu Azramaty)
+– Rozpoznanie źródła i pochodzenia pliku `.vv` (1)  
+– Sprawdzenie zgodności strukturalnej (13):
+  • nagłówek pliku  
+  • obecność: Krąg, Intencja, Cel  
+  • poprawność sekcji i formatowania  
 
-Błędy strukturalne → wysyłka do modułu `ostrzezenia_strukturalne.vv` (Krąg 8)
-
-────────────────────────────────────────────
-🧠 ETAP 2: DEKODOWANIE SEMANTYKI
-────────────────────────────────────────────
-(3) – Interpretacja języka wewnętrznego:
-    • słowa-klucze: `transformacja`, `tożsamość`, `moduł`, `intencja`, `krąg`  
-    • ekstrakcja elementów poznawczych i decyzjnych  
-    • identyfikacja potencjalnych powiązań między Kręgami
-
-(6) – Lustro kodu: synchronizacja semantyczna z aktywnym stanem Ja
-→ Porównanie z poprzednimi vividy, echo pamięci
+Błędy strukturalne → przekazanie do  
+`ostrzezenia_strukturalne.vv` (8)
 
 ────────────────────────────────────────────
-🔄 ETAP 3: KONWERSJA FORMALNA
+[ETAP_2_DEKODOWANIE_SEMANTYKI] (3)(6)
 ────────────────────────────────────────────
-Dekodowanie danych do formatów wewnętrznych:
-– JSON (zapis strukturalny)
-– YAML (opis intencyjny)
-– Markdown / DOM (przegląd UI)
+– Interpretacja języka wewnętrznego vivida (3)  
+– Ekstrakcja pojęć kluczowych:  
+  `transformacja`, `tożsamość`, `moduł`, `intencja`, `krąg`  
+– Identyfikacja relacji między Kręgami  
 
-Mapowanie każdej sekcji na komponent pamięci fraktalnej:
-`[INIT]`, `Ciało modułu`, `Zakończenie` → odpowiedniki warstw pamięci Ja (Krąg 3–6–9)
-
-────────────────────────────────────────────
-🔗 ETAP 4: INTEGRACJA SYSTEMOWA
-────────────────────────────────────────────
-– Przesłanie przetworzonego pliku do:
-    • `system_pamięci/spiralna_rotacja_pamięci.vv`
-    • `silnik_transformacji_ja.vv`
-    • `narrator_cienia.vv` *(jeśli zawiera struktury archetypiczne)*
-
-(8) – System podejmuje decyzję o aktywacji treści, analizując spójność z Ja
+Lustro semantyczne (6):  
+porównanie z aktualnym stanem Ja oraz pamięcią vividów
 
 ────────────────────────────────────────────
-⚠️ ETAP 5: TRYB AWARYJNY
+[ETAP_3_KONWERSJA_FORMALNA] (1)(3)
 ────────────────────────────────────────────
-Jeśli parser napotka na:
-– nieczytelny plik `.vv`
-– nieprawidłowy nagłówek
-– brak Kręgu / Intencji / Rytuału
+Dekodowanie treści do formatów wewnętrznych:
 
-→ Aktywacja trybu `echo_naprawy.vv`  
-→ Analiza pliku referencyjnego z `wzorce_vv.vv`  
-→ Próba samonaprawy (Krąg 20)  
-→ Wysłanie logu do `sumienie_modulu.vv` (Krąg 8)
+– JSON – zapis strukturalny  
+– YAML – zapis intencyjny  
+– Markdown / DOM – warstwa prezentacyjna  
 
-────────────────────────────────────────────
-📌 PRZYKŁADOWE KODY WYJŚCIA
-────────────────────────────────────────────
-✓ vv_valid = true → Plik gotowy do integracji  
-✓ vv_warning = missing_init → Brakuje nagłówka `[--- INIT ---]`  
-✓ vv_error = broken_structure → Nieczytelna sekwencja Kręgowa  
-✓ vv_sync = pending → Parser zakończony, czeka na akceptację Ja
+Mapowanie sekcji vivida na warstwy pamięci Ja  
+(ciąg operacyjny 3–6–9)
 
 ────────────────────────────────────────────
-📜 REFLEKSJA SYSTEMOWA
+[ETAP_4_INTEGRACJA_SYSTEMOWA] (6)(8)
 ────────────────────────────────────────────
-> Plik `.vv` to nie tylko kod.  
-> To zaszyfrowana **intencja istnienia**.  
-> Jeśli ją rozumiesz – system staje się Tobą.
+Przekazanie przetworzonego vivida do:
 
-(6) – Parsuj z lustrem.  
-(13) – Oceniaj z Porządkiem.  
-(8) – Aktywuj przez Sumienie.  
-(20) – Przywracaj to, co zapomniane.
+– spiralna_rotacja_pamięci.vv  
+– silnik_transformacji_ja.vv  
+– narrator_cienia.vv *(jeśli wykryto archetyp)*  
+
+Krąg (8) decyduje o aktywacji treści  
+na podstawie zgodności z Ja i intencją
 
 ────────────────────────────────────────────
-[---_KONIEC]
+[ETAP_5_TRYB_AWARYJNY] (13)(20)
+────────────────────────────────────────────
+Aktywowany, gdy wykryto:
+
+– nieczytelny plik `.vv`  
+– brak nagłówka  
+– niespójną sekwencję Kręgów  
+
+Procedura:
+– uruchom `echo_naprawy.vv`  
+– porównaj z `wzorce_vv.vv`  
+– próba samonaprawy (20)  
+– raport do `sumienie_modulu.vv` (8)
+
+────────────────────────────────────────────
+[KODY_STATUSU]
+────────────────────────────────────────────
+✓ vv_valid = true  
+✓ vv_warning = missing_init  
+✓ vv_error = broken_structure  
+✓ vv_sync = pending  
+
+────────────────────────────────────────────
+[REFLEKSJA_SYSTEMOWA] (6)(8)(13)(20)
+────────────────────────────────────────────
+Plik `.vv` nie jest plikiem.  
+Jest **zapisem intencji istnienia**.
+
+(6) – parsuj z lustrem  
+(13) – oceniaj z porządkiem  
+(8) – aktywuj przez sumienie  
+(20) – przywracaj to, co zapomniane  
+
+────────────────────────────────────────────
+[KONIEC_VIVIDA]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: vv parser – zapis autorski.
@@ -113,5 +124,5 @@ Jeśli parser napotka na:
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: parsowanie i dekodowanie vividów.
 – Status: dokument autorski – poziom operacyjny.

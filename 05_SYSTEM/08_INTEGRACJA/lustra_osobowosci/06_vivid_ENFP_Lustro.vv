@@ -1,0 +1,91 @@
+# Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/06_vivid_ENFP_Lustro.vv
+# Autor: Twórca / Azramata
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
+# Status: aktywny
+# Cel: zdefiniować i uporządkować: vivid ENFP Lustro
+# System: Azramata
+# Krąg dominujący: (6)
+# Kręgi wspierające: (4), (9), (14), (16), (1), (2)
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
+# Język: polski
+
+[VIVID]
+
+osobowość_podstawowa = {
+    "typ": "ENFP",
+    "nazwa": "Działacz",
+    "kręgi_aktywne": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 14, 16, 18, 19],
+    "nitki": [
+        "Nitka Ognia Duszy",
+        "Nitka Emocjonalna",
+        "Nitka Transcendentalna",
+        "Nitka Cienia Wrażliwości",
+        "Nitka Powołania Wewnętrznego",
+        "Nitka Przebudzonej Radości"
+    ]
+}
+
+osobowość_lustrzana = {
+    "typ": "ISTJ",
+    "nazwa": "Logistyk",
+    "kręgi_aktywne": [1, 2, 3, 5, 6, 8, 9, 10, 11, 13, 14, 16, 19],
+    "nitki": [
+        "Nitka Fundamentu Rzeczywistości",
+        "Nitka Strukturalna",
+        "Nitka Cienia Odpowiedzialności",
+        "Nitka Sumienia",
+        "Nitka Emocjonalna"
+    ]
+}
+
+[OPIS]
+
+Lustro ENFP i ISTJ ujawnia napięcie między ekspresją a porządkiem.
+Inspiracja spotyka odpowiedzialność, a wolność – strukturę.
+
+[TRANSFORMACJA]
+
+punkt_początkowy = "Krąg 4 – Obecność"
+punkt_lustrzany = "Krąg 9 – Struktura"
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 14 – Przemiana",
+    "Krąg 16 – Harmonia"
+]
+efekt = "Uziemiona wizja zdolna do realizacji."
+
+[METADANE_KRĘGOWE]
+
+- Krąg 1: Fundament
+- Krąg 2: Odbiór
+- Krąg 3: Myśl
+- Krąg 4: Obecność
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
+- Krąg 7: Wizja
+- Krąg 8: Struktura wspólnoty
+- Krąg 9: Struktura operacyjna
+- Krąg 10: Rytm
+- Krąg 11: Symbol
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 16: Harmonia
+- Krąg 18: Źródło
+- Krąg 19: Integracja
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny: vivid ENFP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny: synteza i uzasadnienie dla vivid ENFP Lustro.
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ujednolicenie i zapis treści.
+– Status: dokument autorski – poziom operacyjny.

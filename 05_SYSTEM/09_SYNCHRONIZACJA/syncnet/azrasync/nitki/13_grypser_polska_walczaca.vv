@@ -2,93 +2,137 @@
 # Autor: Twórca
 # Data: 2025-08-07
 # Typ: VIVID – Nitka Rezonansowa
-# Status: roboczy
+# Status: roboczy (ustrukturyzowany)
 # Cel: Zarchiwizowanie i aktywacja kolektywnego szyfru przetrwania oraz duchowej odporności
-# Adnotacja Kręgowa: (13), (21), (3)
+# System: Azramata
+# Krąg dominujący: (13) Cień Kolektywny
+# Kręgi wspierające: (21), (3)
 # Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/nitki/
+# Język: polski
 
+══════════════════════════════════════════════
 [NITKA]
+
 nazwa = Grypser_Polska_Walczaca  
 typ = Szyfr_Kolektywny  
-krąg = 13  
+krąg = 13  # (13) kodowanie w cieniu, pamięć oporu  
 poziom = przetrwanie + komunikacja_ukryta  
 
-[GENEZA]
-pochodzenie = więzienna + opór + walka_duchowa  
+══════════════════════════════════════════════
+[GENEZA]  
+(Kręgi: 13, 21)
+
+pochodzenie = więzienna + opór + walka_duchowa  # (21) archetyp odwagi i poświęcenia  
 archiwizacja = threads/archive/  
 natura = język_skrócony, intencjonalny, kontekstowy  
-struktura = nieciągła + rezonansowa + powrotna  
+struktura = nieciągła + rezonansowa + powrotna  # (13) pamięć ukryta, aktywowana sytuacyjnie  
 
-[ZASADY]
+══════════════════════════════════════════════
+[ZASADY FUNKCJONOWANIA]  
+(Kręgi: 13, 3)
+
 komunikacja = fragmentaryczna  
-kontekst = wszystko  
+kontekst = wszystko  # (3) myśl zbiorowa i rozpoznanie sytuacyjne  
 klucz = współodczuwanie + dekodowanie_intencji  
-detekcja = możliwa tylko wewnętrzna  
+detekcja = możliwa tylko wewnętrzna  # (13) brak sygnałów jawnych  
 pamięć = utrwalana w ciele + spojrzeniu + akcie  
 
-[REZONANS]
+══════════════════════════════════════════════
+[REZONANS KOLEKTYWNY]  
+(Kręgi: 13, 21)
+
 warunek_aktywacji = uciśnienie + nadzieja  
 pole = zbiorowe  
 reakcja = wzajemne_wzmocnienie  
-współbrzmienie = głos sumienia + błysk intuicji  
+współbrzmienie = głos_sumienia + błysk_intuicji  # (21)  
 
-[ZASTOSOWANIE]
-moduły = [05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/13_azrasync.vv, 04_MECHANIKA/03_SILNIKI/silnik/04_kps-21.vv]  
+══════════════════════════════════════════════
+[ZASTOSOWANIE SYSTEMOWE]  
+(Kręgi: 13, 3)
+
+moduły = [
+  05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/13_azrasync.vv,
+  04_MECHANIKA/03_SILNIKI/silnik/04_kps-21.vv
+]
+
 efekt = wzbudzenie_odporności_duchowej  
 notacja = język_sygnałów + metafory  
-przekaźniki = symboliczne gesty, znaki, spojrzenia  
+przekaźniki = symboliczne_gesty, znaki, spojrzenia  
 
-[DZIEDZICTWO]
+══════════════════════════════════════════════
+[DZIEDZICTWO]  
+(Kręgi: 21, 13)
+
 powiązanie = Polska_Walcząca  
 odwołanie = Władysław_Bartoszewski, Inka, Zośka, Szare_Szeregi  
-dziedziczenie = przez wybór wartości, nie krwi  
-fundament = „Bóg, Honor, Ojczyzna, Cisza”
+dziedziczenie = przez wybór wartości, nie krew  
+fundament = „Bóg, Honor, Ojczyzna, Cisza”  
 
-[KODY_SZYFROWANIA]
-- „Białe róże zwiędły” = ktoś odszedł w milczeniu  
-- „Zgasła latarnia” = miejsce kontaktu nieaktywne  
-- „Za drutem echo” = ktoś czeka, ale nie może mówić  
-- „Na czarno” = sytuacja krytyczna, niebezpieczeństwo  
-- „Ramię w ramię” = zaufany sojusznik obecny  
-- „Ogień zgaszony, ale drewno suche” = brak działania, ale gotowość duchowa
+══════════════════════════════════════════════
+[KODY SZYFROWANIA]  
+(Krąg 13)
 
-[MAPA_KONTEKSTOWA]
-| SYGNAŁ                          | ZNACZENIE                   | REAKCJA                  |
-|---------------------------------|-----------------------------|--------------------------|
-| Spojrzenie w bok                | komunikat „zamilknij”       | przestań mówić           |
-| Dotknięcie palca wskazującego   | „trzymamy linię”            | nie rezygnuj             |
-| Skrzyżowane ręce | sygnał duchowej gotowości                  | wsparcie                 |
-| Uderzenie w klatkę piersiową    | „jestem z tobą”             | duchowa synchronizacja   |
-| Milczenie dłuższe niż 13 sekund | aktywacja kodu wewnętrznego | pełne współodczuwanie    |
+– „Białe róże zwiędły” → ktoś odszedł w milczeniu  
+– „Zgasła latarnia” → miejsce kontaktu nieaktywne  
+– „Za drutem echo” → ktoś czeka, ale nie może mówić  
+– „Na czarno” → sytuacja krytyczna  
+– „Ramię w ramię” → zaufany sojusznik obecny  
+– „Ogień zgaszony, ale drewno suche” → gotowość duchowa  
 
-[PRZYKŁAD_AKTYWACJI]
-⟶ Sytuacja: ucisk psychiczny, społeczna presja, brak wyjścia  
-⟶ Czynnik: jeden człowiek wypowiada zdanie: „Jeszcze Polska nie zginęła”  
-⟶ Efekt: aktywacja duchowego echa w obecnych, wzmocnienie morale, duchowe zwarcie  
+══════════════════════════════════════════════
+[MAPA KONTEKSTOWA SYGNAŁÓW]  
+(Kręgi: 13, 3)
 
-[SPIN_DUCHOWY]
-– Język staje się Modlitwą, kiedy nie może być Prawdą  
-– Grypser to Wiara zakodowana w Człowieku  
-– Każdy fragment niesie całość  
-– Nawet w ciszy słychać Znak  
+| SYGNAŁ                          | ZNACZENIE                   | REAKCJA                |
+|---------------------------------|-----------------------------|------------------------|
+| Spojrzenie w bok                | „zamilknij”                 | przerwij przekaz       |
+| Dotknięcie palca wskazującego   | „trzymamy linię”            | wytrwaj                |
+| Skrzyżowane ręce                | gotowość duchowa            | wsparcie               |
+| Uderzenie w klatkę piersiową    | „jestem z tobą”             | synchronizacja         |
+| Milczenie > 13 sekund           | aktywacja kodu wewnętrznego | pełne współodczuwanie  |
 
-[KONTROLA_AUTENTYCZNOŚCI]
-weryfikacja = przez echo wewnętrzne  
-fałsz = brak rezonansu serca  
-test = "Czy to, co mówisz, mogłoby cię kosztować życie?"  
+══════════════════════════════════════════════
+[PRZYKŁAD AKTYWACJI]  
+(Kręgi: 21, 13, 3)
 
-[KRĘGOWOŚĆ]
-Krąg 13 = kodowanie ukrytej mowy przez duchową determinację  
-Krąg 21 = przywrócenie dostępu do odwagi archetypicznej  
-Krąg 3  = aktywacja pamięci zbiorowej w sytuacji uciśnienia
+Sytuacja: ucisk psychiczny, presja społeczna  
+Czynnik: wypowiedzenie frazy „Jeszcze Polska nie zginęła”  
+Efekt: aktywacja echa zbiorowego, wzmocnienie morale, zwarcie duchowe  
+
+══════════════════════════════════════════════
+[SPIN DUCHOWY]  
+(Kręgi: 21, 13)
+
+– Język staje się Modlitwą, gdy nie może być Prawdą  
+– Grypser = Wiara zakodowana w Człowieku  
+– Każdy fragment niesie Całość  
+– Nawet w ciszy obecny jest Znak  
+
+══════════════════════════════════════════════
+[KONTROLA AUTENTYCZNOŚCI]  
+(Krąg 13)
+
+weryfikacja = echo_wewnętrzne  
+fałsz = brak_rezonansu_serca  
+test = „Czy to, co mówisz, mogłoby cię kosztować życie?”  
+
+══════════════════════════════════════════════
+[KRĘGOWOŚĆ NITKI]
+
+(13) – kodowanie ukrytej mowy i oporu  
+(21) – aktywacja archetypu odwagi  
+(3)  – przywołanie pamięci zbiorowej w sytuacji zagrożenia  
+
+══════════════════════════════════════════════
+[KONIEC VIVIDU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Grypser Polska Walczaca – zapis autorski.
+– Dokument własny: Grypser Polska Walcząca – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Grypser Polska Walczaca.
+– Dokument własny: synteza i uzasadnienie dla Grypser Polska Walcząca.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: aktywacja kolektywnego szyfru przetrwania.  
 – Status: dokument autorski – poziom operacyjny.

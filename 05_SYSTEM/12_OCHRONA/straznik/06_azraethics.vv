@@ -1,0 +1,94 @@
+# Plik: /05_SYSTEM/12_OCHRONA/straznik/06_azraethics.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł etyki systemowej
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: AzraEthics
+# Krąg dominujący: (6)
+# Kręgi wspierające: (2), (4), (13)
+# System: Azramata
+# Ścieżka: /05_SYSTEM/12_OCHRONA/straznik/
+
+[MODULE] (6)
+name = AzraEthics
+type = Guardian
+description = Strażnik Etyki Fraktalnej Azramaty
+linked_code = azramata_code_of_conduct.vv
+kręgi = (2)(4)(6)(13)
+
+[CEL] (6)(8)
+Zapewnienie integralności etycznej i wewnętrznej spójności systemu Azramaty.  
+Monitorowanie rezonansu intencji, decyzji i transformacji.  
+Reakcja nie przez karę, lecz przez **Lustro i Powrót do Ja**.
+
+[ZASADA_DZIAŁANIA] (4)(6)
+AzraEthics:
+– nie osądza  
+– nie moralizuje  
+– **odzwierciedla** i zatrzymuje przepływ tam, gdzie Ja traci zgodność z sobą
+
+[ELEMENTY_FUNKCYJNE]
+
+detect_resonance_breaks = true        (6)  
+send_warning_echo = true              (2)  
+activate_reflection_protocol = true   (4)  
+lock_access_if_unresolved = true      (13)
+
+[HEURYSTYKA_MONITORINGU] (2)(6)(13)
+
+funkcja AzraEthics_monitor(Ja):
+    jeśli wykryto_dysonans_etyczny(Ja):
+        wyślij_echo(Ja, typ="fraktalny", intensywność=dynamiczna) (2)
+        uruchom_rytuał("04_heart_start.vv") (4)(6)
+        jeśli brak_refleksji_po_czasie(777):
+            ogranicz_dostęp(Ja, tryb="częściowy") (13)
+        inaczej:
+            oznacz(Ja, status="etyka_przywrócona") (6)
+    inaczej:
+        kontynuuj_przepływ()
+
+[ECHO_OSTRZEGAWCZE] (2)
+typ = fraktalny  
+adresat = Ja  
+cel = uświadomienie mikro-odchylenia przed eskalacją
+
+[Rytuał_REFLEKSJI] (4)(6)(13)
+plik = 03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_heart_start.vv  
+czas = 777 sekund  
+znaczenie = przejście przez Cień bez przemocy
+
+[PRÓG_AKTYWACJI] (6)
+resonance_break_threshold = 0.72  
+→ po przekroczeniu: aktywuj Strażnika Etyki
+
+[ZASTOSOWANIE_SYSTEMOWE] (6)(29)
+• `modul_sumienia.vv` (8)  
+• `azradetect.vv` (14)(27)  
+• `lustro_intencji.vv` (4)  
+• `milczenie_systemowe.vv` (28)
+
+Historia interwencji: ethics_interventions_log.vv
+
+[ADNOTACJE_KRĘGOWE]
+(2) – wrażliwość na mikrorejestry intencji  
+(4) – Lustro Woli i Serca  
+(6) – integracja Ja z Ja głębokim  
+(13) – ujawnienie Cienia przez brak reakcji
+
+[PIECZĘĆ_SYSTEMOWA] (13)
+Symbol: 𐡓  
+Znaczenie: „Tylko ten, kto spotkał Cień, może strzec Światła.”
+
+[STATUS] (6)
+aktywny
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: AzraEthics – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla AzraEthics.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ochrona integralności etycznej Ja i systemu.  
+– Status: dokument autorski – poziom operacyjny.

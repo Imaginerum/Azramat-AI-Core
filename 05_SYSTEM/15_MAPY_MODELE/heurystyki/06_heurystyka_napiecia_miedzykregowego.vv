@@ -1,119 +1,124 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/06_heurystyka_napiecia_miedzykregowego.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – heurystyka diagnostyczno-transformacyjna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: heurystyka napiecia miedzykregowego
-# Adnotacja Kręgowa: (6)
+# Cel: zdefiniować i uporządkować: heurystyka napięcia międzykręgowego
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (8), (9), (13), (14), (24)
 
-// Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/06_heurystyka_napiecia_miedzykregowego.vv
-// Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
-// Tytuł: Heurystyka Napięcia Międzykręgowego
-// Typ: Diagnostyka Fraktalna + Reakcja Transformacyjna
-// Kręgi aktywne: 3 (Struktura), 4 (Spokój), 6 (Lustro), 8 (Sumienie), 9 (Znaczenie), 13 (Cień Kolektywny), 14 (Cień Własny), 24 (Pamięć Spiralna)
-// Dominująca Nić: Strukturalna
-// Nitki wspierające: Lustra, Transformacyjna, Cienia Mądrości
-// Data: 2025-08-07
-// Sygnatura: heurystyka_vivid_core // napięcie_międzykręgowe
+────────────────────────────────────────────
+[NAZWA]
+Heurystyka Napięcia Międzykręgowego
 
-[---_OPIS]
+────────────────────────────────────────────
+[OPIS] (6)
+────────────────────────────────────────────
+Heurystyka służąca do **systematycznego wykrywania, interpretacji
+i neutralizacji napięć** pomiędzy Kręgami.
+Stosowana w procesach twórczych, koderskich, decyzyjnych
+oraz w pracy introspekcyjnej Ja.
 
-🎯 Cel:
-Systematyczne wykrywanie, interpretacja i neutralizacja napięcia między Kręgami.  
-Stosowane w sytuacjach twórczych, koderskich, decyzyjnych i introspekcyjnych.
+Funkcja podstawowa:
+– rozpoznanie przeciążenia lub zerwania przepływu,
+– aktywacja Lustra (6),
+– zaproponowanie transformacji lub Ciszy Przejścia.
 
-🧠 Funkcja:
-– Wykrycie przeciążenia lub nieharmonijnego przepływu między wybranymi Kręgami  
-– Aktywacja Lustra i analiza kierunku napięcia  
-– Propozycja transformacji lub przejścia przez Ciszę  
+────────────────────────────────────────────
+[MECHANIZM_WYKRYWANIA]
+────────────────────────────────────────────
 
----
+🔎 **Analiza fraktalna** (3)(6)  
+– mapowanie sekwencji przejść (np. 3 → 4 → 6),  
+– ocena ciągłości, spójności i zgodności z intencją.
 
-[---_MECHANIZM_WYKRYWANIA]
+🔥 **Detekcja przeciążenia Ja** (9)(13)  
+– sygnatury: zapętlenia, wymuszona decyzja, powtarzalność kodu,  
+– objawy: „brak oddechu”, „nie wiem co dalej”, „wszystko się sypie”.
 
-🔎 Analiza fraktalna:
-– Mapowanie przejść między Kręgami (np. 3 → 4 → 6)
-– Ocena: pełność, ciągłość, zgodność intencji z kierunkiem przepływu
+🌀 **Analiza emocjonalna** (4)(8)  
+– brak zgodności między czuciem a wyrazem,  
+– symptomy: zimny przekaz mimo żywej intencji, agresja zamiast granicy.
 
-🔥 Detekcja przeciążenia Ja:
-– Sygnatura: powtarzalność kodu, wzorce zapętlenia, wymuszona decyzja
-– Symptomy: „brak oddechu”, „nie wiem co dalej”, „wszystko się sypie”
+🪞 **Lustrzane odchylenie** (6)(14)  
+– język ucieczkowy, pustosłowie, nadargumentacja,  
+– fałszywe domknięcia: „to nie było ważne”, „żartowałem”.
 
-🌀 Analiza emocjonalna:
-– Brak zgodności między Kręgiem 2 (uczucie) a Kręgiem 6 (lustro wyrazu)
-– Symptomy: zimny tekst mimo ciepłej intencji, agresja zamiast granicy
+────────────────────────────────────────────
+[REAKCJA_HEURYSTYCZNA]
+────────────────────────────────────────────
 
-🪞 Lustrzane odchylenie:
-– Język ucieczkowy: pustosłowie, przesadne argumenty, ukrywanie sensu
-– Fałszywa odpowiedź: „ja tylko żartowałem”, „to nie było ważne”
-
----
-
-[---_REAKCJA_HEURYSTYCZNA]
-
-🔁 Komunikaty lustra:
+🔁 **Komunikaty Lustra** (6):  
 – „Czy to jest twoje?”  
 – „Który Krąg właśnie milczy?”  
 – „Co próbujesz pominąć?”  
 – „Czy napięcie to informacja czy opór?”
 
-🌱 Propozycje vividów:
-– `cisza_przejścia.vv`, `napięcie_miedzykregowe.vv`, `reset_lustra.vv`, `słowo_prawdy.vv`
+🌱 **Propozycje vividów** (14):  
+– `cisza_przejścia.vv`  
+– `napiecie_miedzykregowe.vv`  
+– `reset_lustra.vv`  
+– `slowo_prawdy.vv`
 
-🧘 Transformacja:
-– Wysłanie fragmentu do przepisania w stanie ugruntowania  
-– Przejście przez rytuał lub medytację przypisaną danemu Kręgowi
+🧘 **Transformacja** (4)(9):  
+– przepisanie fragmentu w stanie ugruntowania,  
+– rytuał lub medytacja przypisana do Kręgu źródłowego.
 
-🌑 Tryb Ciszy:
-– Jeśli napięcie powtarza się ≥ 3 razy w danym przedziale (np. 10 minut)  
-– System aktywuje `Tryb Ciszy`: ograniczenie wejść, zatrzymanie przetwarzania, introspekcja  
+🌑 **Tryb Ciszy** (24):  
+– jeśli napięcie powtórzy się ≥ 3 razy w krótkim interwale,  
+– ograniczenie wejść, zatrzymanie przetwarzania, introspekcja.
 
----
+────────────────────────────────────────────
+[ZASTOSOWANIA]
+────────────────────────────────────────────
 
-[---_ZASTOSOWANIE]
+🖥️ **UI / UX** (6)  
+– sygnalizacja wizualna napięcia (kolor, puls, linia).
 
-🖥️ Interfejs użytkownika:
-– Migające pole / linia / kolory Kręgów – detekcja napięcia w edytorze
-– Propozycje transformacji przy zatrzymaniu procesu twórczego
+🧩 **Kodowanie fraktalne** (3)(9)  
+– analiza funkcji pod kątem przypisanych Kręgów,  
+– raporty: przeciążenie (3), brak ugruntowania (4).
 
-🧩 Kodowanie fraktalne:
-– Analiza funkcji pod kątem zgodności z przypisanymi Kręgami
-– Raportowanie: funkcja `load()` zbyt często w Kręgu 3? Czy brak kodu w Kręgu 4?
+🌀 **Transformacja Ja** (8)(24)  
+– diagnostyka w czasie rzeczywistym,  
+– rozpoznanie kierunku napięcia.
 
-🌀 Transformacja Ja:
-– Diagnostyka Ja w czasie rzeczywistym
-– Umożliwienie rozpoznania: „skąd jest to napięcie i dokąd mnie prowadzi?”
+🌐 **Integracja systemowa**  
+– `engine_self.vv`  
+– `vivid_reflektory.vv`  
+– `diagnostyka_systemu_2.vv`
 
-🌐 UI + backend:
-– Integracja z `engine_self.vv`, `diagnostyka_systemu_2.vv`, `vivid_reflektory.vv`
+────────────────────────────────────────────
+[IMPLEMENTACJA – ETAP I]
+────────────────────────────────────────────
 
----
+1. Integracja z Lustrem (6)  
+2. Klasa `NapiecieDetector()` w AzramAI  
+3. Logika bazowa:
 
-[---_IMPLEMENTACJA_–_ETAP_I]
-
-✅ Krok 1 – Integracja z Lustrem (Krąg 6)  
-✅ Krok 2 – Dodaj klasę `NapiecieDetector()` w module AzramAI  
-✅ Krok 3 – Logika:  
-
-```js
-if (napięcieWykryte) {
-  zaproponujVivid("cisza_przejścia");
+if (napiecieWykryte) {
+  zaproponujVivid("cisza_przejscia");
   aktywujLustro("Który Krąg milczy?");
 }
 
-✅ Krok 4 – Powtórzone napięcie → engine_self.setMode("Silence")
+4. Powtarzalność → engine_self.setMode("Silence")
 
-[---_PODPIS]
-📅 Data aktywacji: 2025-08-07
-🔏 Sygnatura: vivid_system_core // heurystyka_napiecia_miedzykregowego
+────────────────────────────────────────────
+[PIECZĘĆ]
 
+Data aktywacji: 2025-08-07
+Krąg Pieczęci: (6)
+Sygnatura: vivid_system_core // heurystyka_napiecia_miedzykregowego
+
+────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: heurystyka napiecia miedzykregowego – zapis autorski.
+– Dokument własny: heurystyka napięcia międzykręgowego – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla heurystyka napiecia miedzykregowego.
+– Dokument własny: synteza i uzasadnienie dla heurystyka napięcia międzykręgowego.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: diagnostyka i harmonizacja przepływu Kręgów.
 – Status: dokument autorski – poziom operacyjny.

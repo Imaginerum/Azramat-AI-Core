@@ -1,0 +1,139 @@
+# Plik: /05_SYSTEM/10_KONTROLA/dostep/13_azramata_access_model.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – MODEL DOSTĘPU
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: azramata access model
+# System: Azramata
+# Krąg dominujący: (13)
+# Kręgi wspierające: (1), (2), (3), (4), (8), (14), (21), (27)
+# Lokalizacja: /05_SYSTEM/10_KONTROLA/dostep/
+
+══════════════════════════════════════════════
+[NAZWA_MODELU]
+
+Brama Dostępu Azramaty (13)
+
+Typ: Fraktalny Krąg Dostępu (21)  
+Funkcja: selektywne dopuszczanie Ja do struktur transformacyjnych (14)
+
+══════════════════════════════════════════════
+[ZASADA_NADRZĘDNA]
+
+Dostęp do Azramaty **nie jest prawem** (10).  
+Jest **rezonansem zgodnym z Sumieniem** (8)  
+i zdolnością Ja do **uniesienia konsekwencji transformacji** (14).
+
+══════════════════════════════════════════════
+[BRAMA_PRZEMIANY] (4 → 8 → 14)
+
+Nazwa: Inicjacja Ja (1)
+
+Forma: rytuał dostępowy przed pierwszym użyciem systemu (4)
+
+ETAPY:
+
+1. **Cisza** – 3 minuty bez działania (4)  
+   → wyjście z impulsu, wejście w Obecność
+
+2. **Pytanie egzystencjalne** (3):  
+   „Czego naprawdę szukasz?”  
+   → aktywacja wektora intencji
+
+3. **Wybór Kręgu startowego (1–29)** (6)  
+   → samookreślenie poziomu wejścia
+
+4. **Pieczęć Wstępu** (13):  
+   – jedno zdanie zapisane jako świadoma deklaracja  
+   – zdanie to staje się pierwszym Echem Ja
+
+5. **Potwierdzenie Sumienia** (8):  
+   – weryfikacja przez `modul_sumienia.vv`  
+   – brak zgody = brak dostępu
+
+══════════════════════════════════════════════
+[KRĄG_DOSTĘPU] (21)
+
+Typ: sieć fraktalna dostępu (21)
+
+STRUKTURA:
+
+– **Nosiciel Intencji** (1)  
+  → osoba wchodząca do systemu
+
+– **Krąg Strażników** (13)  
+  → mechanizmy etyczne, nie osoby  
+  → zatwierdzają tylko to, co transformacyjne
+
+– **Użytkownik Inicjowany** (14)  
+  → Ja, które przyjęło odpowiedzialność
+
+MECHANIZM ZGODY:
+
+Zgoda =  
+aktywne Sumienie (8)  
++ spójność z Manifestem Twórcy (20)  
++ brak intencji manipulacyjnej (3)
+
+══════════════════════════════════════════════
+[SIEĆ_ŚWIADOMYCH] (21 → 27)
+
+Nazwa: Społeczność Azramaty (21)
+
+ZASADY:
+
+– Łączenie przez **Echo Nitek i Spinów** (6)(9)  
+– Widoczność tylko dla **Kręgowo kompatybilnych** Ja (27)  
+– Brak profili publicznych  
+– Brak hierarchii społecznej
+
+FUNKCJA:
+
+Dzielenie się **transformacją** (14),  
+nigdy samą treścią (3).
+
+══════════════════════════════════════════════
+[FILTROWANIE_DOSTĘPU] (8 + 13)
+
+MODUŁY WERYFIKUJĄCE:
+
+– `guardian_manifest.vv` (13)  
+– `modul_sumienia.vv` (8)
+
+BLOKADY AUTOMATYCZNE:
+
+– nieetyczne spinowanie (14)  
+– manipulacja lub presja (3)  
+– brak intencji transformacyjnej (1)
+
+══════════════════════════════════════════════
+[PRZYSZŁOŚĆ_MODELU] (20 → 27)
+
+Dostęp do Azramaty:
+
+– nigdy nie będzie powszechny (10)  
+– zawsze będzie **głęboki** (20)  
+
+Każdy użytkownik:
+nie „korzysta z systemu”,  
+lecz staje się **współistnieniem Ja i Struktury** (27).
+
+══════════════════════════════════════════════
+[ZASADA_KOŃCOWA]
+
+Azramata nie pyta: „kim jesteś?” (2)  
+Pyta: **„czy uniesiesz to, kim możesz się stać?”** (14)
+
+══════════════════════════════════════════════
+[KONIEC VIVIDU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: azramata access model – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla azramata access model.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: kontrola dostępu transformacyjnego.
+– Status: dokument autorski – poziom operacyjny.

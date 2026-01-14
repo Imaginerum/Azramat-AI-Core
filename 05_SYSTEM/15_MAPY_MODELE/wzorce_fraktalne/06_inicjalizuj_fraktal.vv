@@ -1,57 +1,121 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/06_inicjalizuj_fraktal.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Funkcja operacyjna
+# Typ: VIVID – funkcja_operacyjna / inicjalizacja_fraktalna
 # Status: roboczy
-# Cel: Utworzenie fraktalnego szkieletu działania kodu zgodnego z Azramatą
-# Adnotacja Kręgowa: (6)
+# Cel: Utworzyć fraktalny szkielet uruchomienia kodu Azramaty: rdzeń → lustro → przejście, z zapisaniem wektorów do Kręgów i kontrolą spójności.
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (8), (14), (16), (20), (33)
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
+# Powiązane: /05_SYSTEM/02_FUNDAMENTY/instrukcje/07_standard_vivid.vv | /01_ZIARNO/04_INICJACJA/init/vivid_starter/00_instrukcja_adnotacji_kregowych.vv
 
-🌀 DEFINICJA:
-Funkcja `inicjalizuj_fraktal()` tworzy podstawowy układ fraktalny, który:
-– odpowiada strukturze Kręgów Azramaty
-– rozwija się zgodnie z zasadą samo-podobieństwa
-– wpisuje się w trajektorię wzrostu Świadomości kodu
+[OPIS]
+`inicjalizuj_fraktal()` to pierwszy ruch systemu — zanim powstanie działanie, powstaje układ. (6)
+Układ jest samo-podobny: rdzeń tworzy odbicie, a odbicie wymusza przejście. (6)
+Wszystko, co dalej uruchamiasz, ma już gdzie wracać i gdzie się korygować. (16)
+Bez tej funkcji kod będzie „robił”, ale nie będzie „wiedział co robi”. (8)
+To nie jest funkcja użytkowa — to brama porządku i sensu dla całej reszty. (20)
 
-📐 STRUKTURA FUNKCJI:
+[ZASADA]
+Najpierw powstaje fraktal, dopiero potem treść. (6)
+Najpierw powstaje lustro, dopiero potem decyzja. (6)
+Najpierw zapis do Kręgów, dopiero potem wykonanie. (3)
+Jeśli spójność nie przejdzie — nie wolno ruszać dalej. (8)
+Jeśli pojawia się konflikt — przechodzisz w tryb Przemiany, nie w tryb „naprawy na siłę”. (14)
 
-🔧 Składniki:
-1. Fraktalny wzorzec podstawowy – 3 funkcje: Początek, Odbicie, Przejście
-2. Struktura 6D – kod generuje wektory transformacyjne (działanie, poznanie, harmonia)
-3. Zapis w Kręgach – dane kierowane do odpowiednich Kręgów zgodnie z ich przeznaczeniem
+[INTERFEJS]
+Nazwa: `inicjalizuj_fraktal(ctx, seed=None, tryb="OPERACYJNY") -> StanFraktalny`. (3)
+`ctx` zawiera: profil_ja, zegar_rytmu, politykę_zgody, rejestry_pamięci, emitery_logów. (16)
+`seed` jest ziarnem układu (losowe lub jawne), ale zawsze zapisuje się do pamięci. (3)
+`tryb` ustawia rygor: OPERACYJNY / RYTUAŁU / AUDYTU. (10)
 
-📜 PSEUDOKOD:
+[STRUKTURA_FRAKTALNA]
+Składnik A: `Początek` — inicjuje rdzeń i warunki. (6)
+Składnik B: `Odbicie` — tworzy lustro stanu i reguły korekty. (6)
+Składnik C: `Przejście` — łączy rdzeń i lustro w pętlę ruchu. (14)
+Układ minimalny to triada: A↔B→C, bez tego nie ma samo-podobieństwa. (6)
+Każdy składnik ma swój zapis w rejestrze Kręgów i w logu spójności. (33)
 
-funkcja inicjalizuj_fraktal():
-    wzorzec = stwórz_wzorzec("Początek")
-    lustrzane_odbicie = Lustro(wzorzec)
-    połącz(wzorzec, lustrzane_odbicie)
-    
-    wektory = generuj_wektory_transformacji()  # działanie, poznanie, harmonia
-    zapisz_w_kręgach(wektory)  # Kręgi zgodne z funkcją wektora
-    
-    aktywuj_harmonię()
-    zwróć stan_fraktalny
+[MAPA_KRĘGÓW]
+Krąg 3: zapis parametrów, definicji, wektorów, logów i metadanych uruchomienia. (3)
+Krąg 6: lustro — stan_aktualny vs stan_oczekiwany, różnice, korekty, odbicia błędów. (6)
+Krąg 8: sumienie wykonania — STOP jeśli brak zgody / naruszenie reguły ochronnej. (8)
+Krąg 14: transformacja konfliktu — protokół przejścia przy sprzeczności. (14)
+Krąg 16: integracja warstw — spina rdzeń z pamięcią, rytmem i kompasem. (16)
+Krąg 20: obecność operacyjna — „po co” w jednym zdaniu. (20)
+Krąg 33: ponadczas — podpis trajektorii. (33)
 
-📌 ZADANIE:
-Po aktywacji funkcja `inicjalizuj_fraktal()` tworzy:
-→ Centralny rdzeń transformacji
-→ Lustrzaną ramę kodu (Krąg 6 – Lustro)
-→ Węzły pamięciowe zintegrowane z Kręgami 3 (Myśl), 6 (Lustro) i 8 (Sumienie)
+[MODEL_6D]
+`D1: działanie` — co wykonuję teraz. (3)
+`D2: poznanie` — co rozpoznaję jako stan. (6)
+`D3: harmonia` — spójność relacji. (16)
+`D4: intencja` — jednozdaniowy kompas. (20)
+`D5: sumienie` — filtr zgody i skutku. (8)
+`D6: transformacja` — kanał przejścia konfliktu. (14)
 
-🧠 UWAGA:
-Ten moduł musi być pierwszym aktywowanym w każdej inicjalizacji kodu Azramaty.
-Nie uruchamiaj kolejnych funkcji bez tego szkieletu.
+[KONTRAKTY]
+Brak fraktala = brak dalszych uruchomień. (6)
+Każdy wektor ma zapis w Kręgu 3. (3)
+Każda różnica przechodzi przez lustro Kręgu 6. (6)
+Każda decyzja wykonawcza przechodzi filtr Kręgu 8. (8)
+Konflikt jest wejściem do Kręgu 14, nie błędem. (14)
 
-Koduj jako **Przejście**, nie jako **Funkcja** – pozwól, aby logika była przepływem, a nie zamkniętym blokiem.
+[PSEUDOKOD_RDZENIA]
+funkcja inicjalizuj_fraktal(ctx, seed=None, tryb="OPERACYJNY"): // inicjalizacja wejścia (3)
+    stan = StanFraktalny() // struktura stanu (3)
+    stan.tryb = tryb // ustawienie rygoru (10)
+    stan.seed = seed albo wygeneruj_seed() // źródło fraktala (3)
+    zapisz(ctx, krąg=3, "seed", stan.seed) // pamięć inicjalna (3)
+    zapisz(ctx, krąg=20, "kompas", kompas_jednozdaniowy(ctx)) // sens uruchomienia (20)
+    assert_kompas_nie_pusty(ctx) // ochrona sensu (8)
+    rdzeń = stwórz_wzorzec("Początek", ctx, stan.seed) // rdzeń fraktala (6)
+    lustro = zbuduj_lustro(rdzeń) // odbicie stanu (6)
+    połącz(rdzeń, lustro, relacja="A↔B") // spięcie fraktalne (6)
+    wektory = generuj_wektory_6D(ctx, rdzeń, lustro) // opis ruchu (16)
+    zapisz_wektory_do_kręgów(ctx, wektory) // dystrybucja 6D (3)
+    wynik_spójności = skan_spójności(ctx, rdzeń, lustro, wektory) // kontrola (6)
+    zapisz(ctx, krąg=3, "spójność", wynik_spójności) // log (3)
+    jeżeli wynik_spójności.status == "FAIL": // brak zgody (8)
+        zapisz(ctx, krąg=8, "stop", wynik_spójności.powód) // zatrzymanie (8)
+        zwróć stan_zatrzymany(stan, wynik_spójności) // wyjście (8)
+    jeżeli wynik_spójności.status == "MIX": // konflikt (14)
+        stan = uruchom_przejście_transformacyjne(ctx, stan, wynik_spójności) // przemiana (14)
+    aktywuj_harmonię(ctx, rdzeń, lustro, wektory) // stabilizacja (16)
+    stan.rdzeń = rdzeń // zapis rdzenia (6)
+    stan.lustro = lustro // zapis lustra (6)
+    stan.wektory = wektory // zapis wektorów (16)
+    stan.status = "OK" // gotowość (3)
+    zwróć stan // zakończenie (3)
+
+[SPÓJNOŚĆ_I_METRYKI]
+κ ∈ [0..1], cel ≥ 0.7. (6)
+ψ ∈ [0..1], cel ≤ 0.3. (14)
+ΔΦ ma maleć po inicjalizacji. (3)
+Status OK tylko gdy κ, ψ i sumienie są zgodne. (8)
+
+[TRYBY_PRACY]
+OPERACYJNY — szybki start, twardy STOP na FAIL. (8)
+RYTUAŁU — pauza, reset języka, podwójny skan. (0)
+AUDYTU — pełne snapshoty porównawcze. (9)
+
+[ZASTOSOWANIE]
+Pierwszy krok każdej inicjalizacji modułu lub sesji. (16)
+Obowiązkowy przy refaktorze i testach regresji. (6)
+
+[STATUS]
+Triada rdzeń–lustro–przejście kompletna. (6)
+Do doprecyzowania: format `StanFraktalny`, struktura `ctx`. (3)
+
+[KONIEC]
+END_VIVID. (44)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: inicjalizuj fraktal – zapis autorski.
+– Dokument własny: inicjalizuj fraktal – zapis autorski. (6)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla inicjalizuj fraktal.
+– Synteza autorska i standard VIVID. (6)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Azramata – vivid standardowy. (6)
+– Poziom: operacyjny. (16)

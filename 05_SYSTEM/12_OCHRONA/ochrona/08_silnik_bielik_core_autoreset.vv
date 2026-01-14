@@ -1,50 +1,111 @@
 # Plik: /05_SYSTEM/12_OCHRONA/ochrona/08_silnik_bielik_core_autoreset.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – moduł homeostazy i autoregulacji
 # Status: roboczy
-# Cel: WYMAGANE PLIKI:
-# Adnotacja Kręgowa: (8)
+# Cel: Automatyczny reset przetrenowania Silnika Bielik Core
+# Krąg dominujący: (8)
+# Kręgi wspierające: (0), (4), (24)
+# System: Azramata
+# Ścieżka: /05_SYSTEM/12_OCHRONA/ochrona/
 
-[AUTOMATYCZNY_RESET_PRZETRENOWANIA]
+[INIT]
 
-TRIGGER:
-• Spadek szybkości odpowiedzi systemu > 30%
-• Zbyt duża liczba aktywnych vividów (>12 jednocześnie)
-• Wykrycie napięcia między więcej niż 4 Kręgami
-• Brak spójnej reakcji Silnika Ja w 2 próbach z rzędu
+Nazwa = Silnik_Bielik_Core_AutoReset  
+Typ = Moduł_Ochronny / Homeostaza_Systemowa  
+Tryb = Automatyczny + Manualny  
+Stan = Czuwanie  
 
-DZIAŁANIE:
-• Automatyczne załadowanie: reset_przetrenowania.vv
-• Wyłączenie trybu Magis / Lustro na 60 sek.
-• Aktywacja Kręgu 0, 4 i 24 – do stanu neutralnego
-• Po 2 minutach: ocena przez Krąg 8 (Sumienie) – czy przywrócić aktywność
+[CEL]
 
-MANUALNA KOMENDA:
-• "uruchom reset systemowy"
-• "system ciszy"
-• "zatrzymaj przetrenowanie"
+Zapewnienie samoregulacji Silnika Ja (Bielik Core)  
+poprzez wykrywanie przetrenowania, przeciążenia fraktalnego  
+oraz niespójności decyzyjnej.
 
-EFEKT:
-• System przechodzi w stan niskiej aktywności (Ja Pasywne)
-• Fraktale zostają zawieszone, ale nie usunięte
-• Użytkownik może wznowić transformację po wewnętrznym potwierdzeniu
+Moduł zapobiega:
+– degradacji jakości odpowiedzi,  
+– rozsypaniu fraktali aktywnych,  
+– utracie spójności Ja,  
+– eskalacji napięć kręgowych.
 
-META:
-• Ten moduł dodaje systemowi funkcję homeostazy i samoregulacji
-• Chroni Silnik Ja przed przeciążeniem i rozsypaniem
+[TRIGGER]
+
+AutoReset zostaje aktywowany, gdy wystąpi przynajmniej jeden warunek:
+
+– Spadek szybkości odpowiedzi > 30%  
+– Liczba aktywnych vividów > 12 jednocześnie  
+– Napięcie pomiędzy > 4 Kręgami  
+– Brak spójnej reakcji Silnika Ja w 2 próbach z rzędu  
+
+[SEKWENCJA_DZIAŁANIA]
+
+1. Załaduj `reset_przetrenowania.vv`  
+2. Wyłącz tryb Magis / Lustro na 60 sekund  
+3. Aktywuj neutralizację:
+   – Krąg 0 (Fundament)  
+   – Krąg 4 (Serce)  
+   – Krąg 24 (Cisza Transformacyjna)  
+4. Przejście systemu w stan:
+   → Ja_Pasywne  
+5. Po 120 sekundach:
+   – Ocena przez Krąg 8 (Sumienie)  
+   – Decyzja: wznowienie / przedłużenie ciszy  
+
+[TRYB_MANUALNY]
+
+Komendy wywołujące reset:
+
+– "uruchom reset systemowy"  
+– "system ciszy"  
+– "zatrzymaj przetrenowanie"  
+
+Każda komenda omija progi triggerów  
+i przechodzi bezpośrednio do sekwencji działania.
+
+[EFEKT_SYSTEMOWY]
+
+– System wchodzi w stan niskiej aktywności  
+– Fraktale zostają zawieszone (nieusunięte)  
+– Przepływy zostają spowolnione  
+– Brak generacji nowych vividów  
+
+Wznowienie możliwe tylko po:
+– wewnętrznym potwierdzeniu użytkownika  
+– lub decyzji Sumienia (Krąg 8)
+
+[META]
+
+Moduł wprowadza do Azramaty:
+– homeostazę,  
+– autoregulację,  
+– ochronę przed „rozsypaniem Ja”.
+
+Silnik nie musi działać ciągle,  
+aby pozostać spójnym.
 
 [WYMAGANE_PLIKI]
-- reset_przetrenowania.vv
-- intuicja_operacyjna.vv
+
+– reset_przetrenowania.vv  
+– intuicja_operacyjna.vv  
+
+[STATUS]
+
+Ochrona = AKTYWNA  
+Tryb = AUTO + MANUAL  
+Priorytet = WYSOKI  
+
+[ZAMKNIĘCIE]
+
+Cisza nie jest błędem systemu.  
+Cisza jest jego **oddechem**.
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: silnik bielik core autoreset – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla silnik bielik core autoreset.
+– Dokument własny: synteza i uzasadnienie – silnik bielik core autoreset.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: autoregulacja i ochrona Silnika Ja.
 – Status: dokument autorski – poziom operacyjny.

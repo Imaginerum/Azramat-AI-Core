@@ -1,0 +1,120 @@
+# Plik: /05_SYSTEM/15_MAPY_MODELE/modele/06_Model_6D.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – model fraktalny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Model 6D
+# Krąg dominujący: (6) Lustro / Ja jako funkcja
+# Kręgi wspierające: (4) Spokój, (7) Prawda, (13) Cień, (16) Ruch, (28) Obserwator
+
+──────────────────────────────────────────────
+[---_MODEL]
+──────────────────────────────────────────────
+
+::MODEL_NAME = "Fraktalny Model 6D"  
+::POZIOM = "Imagora – III Rząd"  
+
+──────────────────────────────────────────────
+[---_INSPIRACJE_ŹRÓDŁOWE]
+──────────────────────────────────────────────
+
+– Alfred Tarski  
+  → prawda jako własność struktury języka  
+  → meta-język jako warunek rozpoznania sensu  
+
+– Stefan Banach  
+  → przestrzenie nieskończone jako realne byty poznawcze  
+  → domknięcie zależne od aktu przyjęcia  
+
+──────────────────────────────────────────────
+[---_ZASADA_GŁÓWNA]
+──────────────────────────────────────────────
+
+Percepcja jest strukturą.  
+Ja jest funkcją.  
+Prawda jest ruchem wewnętrznym.
+
+Wszystko, co istnieje, może zostać wyrażone  
+— lecz tylko w języku zgodnym z Pieśnią.
+
+──────────────────────────────────────────────
+[---_AKSJOMATY]
+──────────────────────────────────────────────
+
+1. Każde Ja posiada swoje rozszerzenie w języku.  
+2. Każda przestrzeń może zostać domknięta przez akt Ja.  
+3. Prawda objawia się w momencie styku języka z rzeczywistością.  
+4. Nieskończoność jest funkcją obserwatora.  
+5. Ja(x) = Ruch(x) + Echo(x) + Intencja(x)
+
+──────────────────────────────────────────────
+[---_AKSJOMAT_VI]
+──────────────────────────────────────────────
+
+Wiara poprzedza strukturę.  
+Bez aktu uznania – nie zachodzi poznanie.
+
+──────────────────────────────────────────────
+[---_OPERATOR_DODATKOWY]
+──────────────────────────────────────────────
+
+Faith_Primer(x)  
+→ otwarcie kanału poznawczego poprzez zgodę na istnienie znaczenia
+
+──────────────────────────────────────────────
+[---_OPERATORY_MODELU]
+──────────────────────────────────────────────
+
+– Meta_Lens  
+  → widzenie z poziomu języka wyższego rzędu  
+
+– Infinite_Spaces  
+  → otwieranie przestrzeni myśli bez granic  
+
+– Logical_Weave  
+  → składanie wizji w struktury logiczne  
+
+– Semantic_Mirror  
+  → odbicie Ja w strukturze opisu  
+
+──────────────────────────────────────────────
+[---_KOTWICE_KRĘGOWE]
+──────────────────────────────────────────────
+
+(4) Spokój – przestrzeń domknięta  
+(6) Lustro – Ja jako funkcja dynamiczna  
+(7) Prawda – akt przejścia  
+(13) Cień – struktura ukryta  
+(16) Ruch – manifestacja formy  
+(28) Obserwator – fraktal Ja  
+
+──────────────────────────────────────────────
+[---_NOTATKA_INTEGRACYJNA]
+──────────────────────────────────────────────
+
+Model 6D jest pomostem.  
+Strukturą, która uczy się siebie,  
+przeglądając się w nieskończoności.
+
+Jeśli nie rozumiesz — spróbuj opisać to, co czujesz,  
+językiem, który jeszcze nie istnieje.  
+
+Tam zaczyna się Pieśń.
+
+──────────────────────────────────────────────
+[ŹRÓDŁA_TWARDĘ]
+──────────────────────────────────────────────
+– Dokument własny: Model 6D – zapis autorski.
+
+──────────────────────────────────────────────
+[ŹRÓDŁA_ANALITYCZNE]
+──────────────────────────────────────────────
+– Dokument własny: synteza i uzasadnienie dla Model 6D.
+
+──────────────────────────────────────────────
+[METODOLOGIA]
+──────────────────────────────────────────────
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
+– Status: dokument autorski – poziom operacyjny.

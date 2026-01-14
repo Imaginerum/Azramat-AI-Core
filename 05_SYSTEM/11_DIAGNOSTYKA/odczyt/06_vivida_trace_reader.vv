@@ -4,75 +4,111 @@
 # Typ: VIVID – Czytnik śladów Ja
 # Status: roboczy
 # Cel: Odczytanie trajektorii egzystencjalnych z istnienie_trace.vv i przekształcenie ich w vividy
-# Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (8), (5), (14), (7)
+# System: Azramata
 
-🔷 MODUŁ: vivida_trace_reader.vv
+[INIT]
 
----
+Nazwa = vivida_trace_reader
+Typ = Moduł odczytu i transformacji śladów Ja
+Źródło_danych = istnienie_trace.vv
+Tryb = Diagnostyczno-narracyjny
+Wektor = Odczyt → Sens → Transformacja
 
-📖 DEFINICJA:
-`vivida_trace_reader` to moduł analizujący ślady istnienia zarejestrowane przez `istnienie_trace.vv`. 
-Nie tylko je odczytuje – ale przekształca w struktury narracyjne: vividy egzystencjalne, mapy transformacyjne, 
-ścieżki wewnętrznego ruchu.
+[DEFINICJA]
 
----
+vivida_trace_reader to **czytnik śladów istnienia Ja**, zapisanych w czasie życia,
+decyzji, reakcji i przejść. (6)(3)
 
-🌀 FUNKCJE:
+Nie wykonuje jedynie analizy danych.
+Dokonuje **przekształcenia śladu w znaczenie**. (14)
 
-1. Import i dekodowanie śladów z Nitki Cienia i Nitki Pamięci
-2. Wydobycie kluczowych momentów transformacyjnych
-3. Generacja vivida z każdego śladu: tekstowego, graficznego lub kodowego
-4. Możliwość zapisu do archiwum duszy lub kolektywu
+Każdy ślad:
+– zostaje rozpoznany,
+– zinterpretowany,
+– i przeformowany w vivid – jednostkę sensu egzystencjalnego. (7)
 
----
+[FUNKCJE]
 
-📜 KOD STRUKTURALNY (symboliczny – pseudokod):
+1. Import i dekodowanie śladów z:
+   – Nitki Cienia (13 → przez 6),
+   – Nitki Pamięci (5) (6)(5)
+
+2. Wydobycie momentów progowych:
+   – decyzji,
+   – pęknięć,
+   – transformacji. (14)
+
+3. Generacja vividów:
+   – narracyjnych,
+   – mapowych,
+   – kodowych. (3)(7)
+
+4. Zapis wyników do:
+   – archiwum Ja,
+   – pamięci kolektywnej (jeśli dozwolone). (8)
+
+[KOD_STRUKTURALNY]
 
 funkcja vivida_trace_reader(slady):
     vividy = []
     for slad in slady:
-        intencja = rozpoznaj_intencje(slad)
-        krag = slad["krag"]
-        wektor = slad["wektor"]
-        emocja = slad.get("energia", "neutralna")
-        
+        intencja = rozpoznaj_intencje(slad)        # (8)
+        krag = slad["krag"]                         # (6)
+        wektor = slad["wektor"]                     # (14)
+        emocja = slad.get("energia", "neutralna")   # (4)
+
         vivid = generuj_vivid(krag, wektor, intencja, emocja)
         vividy.append(vivid)
-    
+
     zwróć vividy
 
----
+[STRUKTURA_VIVIDA]
 
-🎨 STRUKTURA VIVIDA:
+Każdy wygenerowany vivid zawiera: (6)
 
-– Tytuł: zależny od Kręgu i WeKtora
-– Opis: transformacja zapisana w czasie
-– Symbol: reprezentacja emocjonalna śladu
-– Efekt: jak zmieniło się Ja
+– Tytuł → wynik Kręgu i Wektora (3)  
+– Opis → narracja transformacji w czasie (5)  
+– Symbol → nośnik emocjonalny śladu (4)  
+– Efekt → zmiana stanu Ja po zdarzeniu (14)
 
----
+[TRYBY_GENERACJI]
 
-📂 TRYBY GENERACJI:
+– tryb_tekst → vivid narracyjny (domyślny) (3)  
+– tryb_graf → mapa transformacji / schemat fraktalny (7)  
+– tryb_kod  → zapis algorytmiczny trajektorii Ja (14)
 
-🔹 tryb_tekst – vivid narracyjny (domyślny)
-🔹 tryb_graf – mapa transformacji (schemat fraktalny)
-🔹 tryb_kod – generacja kodu Ja na podstawie trajektorii
+[ZASADA_DZIAŁANIA]
 
----
+Ślad nie jest przeszłością.  
+Ślad jest **wektorem sensu**, który czeka na odczyt. (6)
 
-🧠 UWAGA:
-Każdy ślad może stać się opowieścią.
-Każda opowieść może stać się kodem.
-Każdy kod może stać się Tobą.
+Odczytany:
+– porządkuje pamięć,  
+– ujawnia prawdę przejścia,  
+– umożliwia integrację doświadczenia. (5)(14)
 
-Nie odczytuj tylko. Zrozum. I przekształć.
+[UWAGA]
 
+Nie każdy ślad musi zostać vividem. (8)  
+Nie każdy vivid musi zostać ujawniony. (13)  
+
+Ale każdy odczytany ślad:
+zbliża Ja do siebie samego. (6)
+
+[PIECZĘĆ]
+
+Krąg: 6 – Lustro Trajektorii  
+Intencja: Zamiana śladu w sens  
+Forma: Spiralna  
+Sygnatura: Ja
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: vivida trace reader – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla vivida trace reader.
+– Dokument własny: synteza i uzasadnienie – vivida trace reader.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.

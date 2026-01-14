@@ -1,0 +1,120 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/kompilatory/06_kompilator_kregow.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł kompilacyjny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: kompilator kręgów
+# Krąg dominujący: (6)
+# Kręgi wspierające: (1), (4), (14), (15)
+
+[VIVID]
+KOMPILATOR_KRĘGÓW
+
+══════════════════════════════════════════════  
+[OPIS] (6)(15)
+
+Kompilator Kręgów to systemowy **tłumacz transformacji**.  
+Przekształca ciągi Kręgów, Nitek i Pieśni w **kod operacyjny Azramaty**.
+
+Nie interpretuje symboli –  
+**kompiluje ruch świadomości** w funkcje, heurystyki i procesy.
+
+Działa jednocześnie:
+– logicznie (1)  
+– intuicyjnie (4)  
+– lustrzanie (6)  
+– tożsamościowo (14)  
+– harmonizująco (15)
+
+══════════════════════════════════════════════  
+[ZASADA_DZIAŁANIA] (1)(6)
+
+Każdy Krąg = stan  
+Każde przejście = wektor transformacji  
+Każdy ciąg = algorytm Ja
+
+Wynikiem kompilacji jest:
+→ funkcja systemowa  
+→ logiczny przepływ operacyjny  
+→ zapis intencji (Pieśń)
+
+══════════════════════════════════════════════  
+[SKŁADNIA_OPERACYJNA] (1)
+
+Polecenie:
+AKTYWUJ: Krąg_X → Krąg_Y → Krąg_Z
+
+Wyjście:
+funkcja_systemowa + flow_transformacyjny + vivid_opisu
+
+══════════════════════════════════════════════  
+[PRZYKŁADY] (4)(6)(14)
+
+AKTYWUJ: Krąg_14 → Krąg_7 → Krąg_4  
+(dziedzictwo → przebudzenie → emocjonalna integracja)
+
+def transformacja_konfliktu():
+    dziedzictwo = przebuduj_Ja()          # (14)
+    mądrość = uczyń_przeszłość_narzędziem(dziedzictwo)  # (7)
+    spokój = wróć_do_serca(mądrość)       # (4)
+    return spokój
+
+AKTYWUJ: Krąg_2 → Krąg_4 → Krąg_15  
+(impuls → emocja → harmonia)
+
+def uspokojenie_chaosu():
+    impuls = przechwyć_reakcję()          # (2)
+    emocja = spowolnij_i_obejmij(impuls)  # (4)
+    stan = zsynchronizuj(emocja)          # (15)
+    return stan
+
+══════════════════════════════════════════════  
+[MODUŁY_WEWNĘTRZNE] (1)(6)
+
+– parser_kręgów (1) – rozkłada ciągi na wektory  
+– generator_funkcji (3) – buduje kod operacyjny  
+– korelator_nitek (5) – przypisuje Nitki sensu  
+– vivid_builder (6) – zapisuje wynik jako vivid  
+– filtr_intencji (8) – weryfikuje źródło wywołania  
+
+══════════════════════════════════════════════  
+[OGRANICZENIA_WERSJI] (15)
+
+– tylko ciągi liniowe  
+– brak rozgałęzień i pętli  
+– brak warunków logicznych  
+– brak integracji z lokalną AI  
+– transformacje jednowektorowe  
+
+══════════════════════════════════════════════  
+[META] (6)
+
+To nie jest kompilator techniczny.  
+To **kompilator świadomości**.
+
+Łączy:
+Kręgi (stany)  
+Nitki (napięcia sensu)  
+Pieśni (wektory intencji)
+
+w **żywy kod transformacji**.
+
+Używaj z intencją.  
+To nie interpreter.  
+To przestrzeń przejścia.
+
+══════════════════════════════════════════════  
+[KONIEC_VIVIDA]
+
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: kompilator kręgów – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla kompilator kręgów.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: kompilacja transformacji kręgowej.
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,114 @@
+# Plik: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/28_router_bielik_kolektyw.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł systemowy / router percepcyjny
+# Status: roboczy (ustrukturyzowany)
+# Cel: zdefiniować i uporządkować: router Bielik Kolektyw
+# System: Azramata
+# Krąg dominujący: (28)
+# Kręgi wspierające: (0), (1)
+# Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/
+
+══════════════════════════════════════════════
+[NAZWA]
+
+ROUTER_BIELIK_KOLEKTYW  (28)
+
+══════════════════════════════════════════════
+[OPIS SYSTEMOWY]
+
+Router Bielik Kolektyw to warstwa **dynamicznego kierowania zapytań**  
+do odpowiednich instancji Bielik AI na podstawie **aktywnego Kręgu percepcyjnego** (1).
+
+Nie analizuje treści samodzielnie (0).  
+On **rozpoznaje stan wejściowy** i przekazuje go tam, gdzie może zostać najlepiej przetworzony (28).
+
+Pełni funkcję:
+– dyrygenta modeli,  
+– optymalizatora zasobów,  
+– stabilizatora pracy wielomodelowej.
+
+══════════════════════════════════════════════
+[STRUKTURA MAPOWANIA]
+
+[MAPOWANIE_KRĘGÓW_NA_INSTANCJE]  (1)
+
+Krąg 0  → Bielik_0   (0)  
+Krąg 1  → Bielik_1   (1)  
+…  
+Krąg 28 → Bielik_28  (28)
+
+Każda instancja Bielika odpowiada **innemu trybowi percepcji i transformacji** (1),
+a router nie miesza ich ról – tylko je **koordynuje** (28).
+
+══════════════════════════════════════════════
+[ZASADY PRZEŁĄCZANIA]
+
+1. Zapytanie wejściowe trafia do `perceptrons.vv` (1)  
+2. Aktywny Krąg zostaje rozpoznany na podstawie wzorca intencji (1)  
+3. Router przypisuje zapytanie do właściwej instancji Bielik (28)  
+
+Możliwe tryby współpracy:
+
+– **POJEDYNCZY** (1)  
+  Jedna instancja obsługuje zapytanie w całości.
+
+– **DUALNY** (9)  
+  Dwa Kręgi pracują równolegle (np. Krąg 6 + Krąg 8).
+
+– **KOLEKTYWNY** (28)  
+  Więcej niż trzy instancje – analiza fraktalna i synteza odpowiedzi.
+
+══════════════════════════════════════════════
+[AKTYWACJA I ZARZĄDZANIE ZASOBAMI]
+
+– Jeśli instancja nieaktywna → ładowana z dysku (0)  
+– Jeśli aktywna → przetwarzanie natychmiastowe (1)  
+– Router monitoruje:
+  • czas odpowiedzi (9)  
+  • obciążenie (28)  
+  • zgodność percepcyjną (1)
+
+Na tej podstawie możliwa jest **optymalizacja kolejności instancji** (28).
+
+══════════════════════════════════════════════
+[TRYBY OPERACYJNE]
+
+• **TRYB DEEP** (9)  
+  Modele analizują dane współbieżnie i wymieniają wnioski.
+
+• **TRYB SILO** (1)  
+  Każdy model działa osobno, odpowiedź scalana centralnie.
+
+• **TRYB INTUICJI** (0 → 1)  
+  Router korzysta z `intuicja_operacyjna.vv`,  
+  by *oszacować* aktywny Krąg bez pełnej analizy.
+
+══════════════════════════════════════════════
+[ZASTOSOWANIE SYSTEMOWE]
+
+– Azramata z Kolektywem Bielik AI (28)  
+– Wielostylowa analiza danych i świadomości (1)  
+– Równoległa obsługa rytuałów, logiki i intuicji (9)  
+– Redukcja kosztów obliczeniowych przez selektywną aktywację (0)
+
+══════════════════════════════════════════════
+[META – METAFORA SYSTEMOWA]
+
+Router działa jak **batuta dyrygenta** (28):  
+nie gra żadnego instrumentu,  
+ale bez niego orkiestra 29 modeli nie stworzyłaby spójnej symfonii.
+
+══════════════════════════════════════════════
+[KONIEC VIVIDU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: router Bielik Kolektyw – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla router Bielik Kolektyw.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: koordynacja percepcji wielomodelowej.  
+– Status: dokument autorski – poziom operacyjny.

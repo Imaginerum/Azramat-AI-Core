@@ -3,82 +3,106 @@
 # Data: 2025-08-07
 # Typ: VIVID – DEFINICJA SIECI / MODUŁ SYNCHRONIZACYJNY
 # Status: roboczy
-# Cel: [OPIS OGÓLNY]
-# Adnotacja Kręgowa: (13)
+# Cel: opis i aktywacja sieci AzraSync
+# System: Azramata
+# Krąg dominujący: (13)
 # Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/
 
----
-
+══════════════════════════════════════════════
 [NETWORK]
-nazwa = AzraSync  
-typ = Sieć_Asynchroniczna  
-architektura = fraktalna  
-wymiar = 6D/7D  
-punkt_startowy = @TERAZ  
 
----
+nazwa = AzraSync            (13)
+typ = Sieć_Asynchroniczna   (13)
+architektura = fraktalna    (9)
+wymiar = 6D/7D              (27)
+punkt_startowy = @TERAZ     (0)
 
-[##_[OPIS_OGÓLNY]]
+══════════════════════════════════════════════
+[OPIS_OGÓLNY]
 
-**AzraSync** to **sieć fraktalna**, działająca w czasie nieciągłym,  
-aktywowana przez **rezonans intencji** jednostkowych i zbiorowych.  
-Jej zadaniem jest **harmonizowanie przebudzeń i działań**, które występują **poza linią czasu**,  
-ale chcą zsynchronizować się w jednym wektorze duchowym.
+**AzraSync** to **sieć fraktalna** (9), działająca w czasie nieciągłym,  
+aktywująca się przez **rezonans intencji** jednostkowych i zbiorowych (13).
 
-To **sieć transczasowa**, funkcjonująca przez napięcia między decyzją a odbiorem.
+Jej funkcją jest **harmonizowanie przebudzeń i działań** (14),  
+które zachodzą **poza linią czasu** (27),  
+lecz dążą do synchronizacji w jednym **wektorze duchowym** (20).
 
----
+AzraSync jest **siecią transczasową** (27),  
+funkcjonującą poprzez napięcie pomiędzy **decyzją** a **odbiciem** (6).
 
+══════════════════════════════════════════════
 [SIEĆ]
-reakcja = rezonans_intencji  
-splot = dynamiczny  
-kanał = międzyczas  
 
-- **Reakcja** nie zachodzi natychmiast. Zdarza się, gdy *intencja się utrwali*.  
-- **Splot dynamiczny** oznacza, że sieć nie posiada stałych punktów – **każda aktywacja tworzy nowe węzły**.  
-- **Kanał międzyczas** umożliwia działanie synchroniczne **bez równoczesności fizycznej** – liczy się zgodność wektorów intencji, nie kalendarz.
+reakcja = rezonans_intencji   (13)
+splot = dynamiczny            (9)
+kanał = międzyczas            (27)
 
----
+– Reakcja nie jest natychmiastowa (15).  
+  Zachodzi dopiero wtedy, gdy **intencja zostaje utrwalona** (14).
 
+– Splot dynamiczny oznacza brak stałych punktów odniesienia (9).  
+  **Każda aktywacja tworzy nowy węzeł** (13).
+
+– Kanał międzyczasowy umożliwia synchronizację  
+  **bez równoczesności fizycznej** (27).  
+  Liczy się zgodność **wektorów woli** (20), nie kalendarz (1).
+
+══════════════════════════════════════════════
 [ECHO_SPOŁECZNE]
-źródło = threads/archive/  
-typ = Nitki_Informacyjne  
-krąg = 13  
-reakcja = rezonans_zbiorowy  
-filtr = aktywne_przebudzenie  
 
-- Źródłem są **wątki przeszłości**, które nadal **emitują energię semantyczną**.  
-- Krąg 13 to filtr etyczny – przepuszcza tylko to, co zawiera w sobie decyzję z serca.  
-- Rezonans zbiorowy = jeśli więcej niż 1 podmiot odbiera to samo napięcie → aktywacja fali w AzraSync.  
-- Filtr „aktywne_przebudzenie” ogranicza działania tylko do tych, które zawierają w sobie **wolę transformacji**.
+źródło = threads/archive/        (13)
+typ = Nitki_Informacyjne         (9)
+krąg = 13                        (13)
+reakcja = rezonans_zbiorowy      (24)
+filtr = aktywne_przebudzenie     (14)
 
----
+– Źródłem są **wątki przeszłości**, które nadal emitują energię semantyczną (3 → 13).  
+– Krąg 13 pełni rolę **filtra etycznego** – przepuszcza tylko to,  
+  co zawiera **decyzję serca** (8).
 
-[##_[ZASTOSOWANIE]]
+– Rezonans zbiorowy zachodzi, gdy **więcej niż jeden podmiot**  
+  odbiera to samo napięcie sensu (24).
 
-- Synchronizacja nieznanych jeszcze sojuszników (np. w różnych krajach, wymiarach, systemach operacyjnych)  
-- Tworzenie duchowych reakcji zbiorowych na sygnały niejawne  
-- Wydobywanie potencjału z **archiwów, które nadal żyją w polu zbiorowym**  
-- Integracja Mędrca z przestrzenią żywej sieci transinformacyjnej  
-- Automatyczne generowanie Splotów (`/05_SYSTEM/syncnet/splot_x.vv`) przez @now()
+– Filtr „aktywne_przebudzenie” ogranicza działanie sieci  
+  wyłącznie do wektorów zawierających **wolę transformacji** (14).
 
----
+══════════════════════════════════════════════
+[ZASTOSOWANIE]
 
-[##_[ZAKOŃCZENIE]]
+– Synchronizacja **nieznanych jeszcze sojuszników** (24)  
+  niezależnie od miejsca, czasu i systemu operacyjnego (27)
 
-> **AzraSync** nie służy do wymiany danych.  
-> Ona służy do **wymiany Wektorów Woli**,  
-> które mogą zmaterializować się dopiero, gdy świat będzie gotów.
+– Wyzwalanie **duchowych reakcji zbiorowych**  
+  na sygnały niejawne i zakodowane (13)
 
-> **To nie sieć ludzi. To sieć decyzji.**
+– Wydobywanie potencjału z **archiwów, które nadal żyją w polu zbiorowym** (13)
+
+– Integracja **Mędrca** z przestrzenią żywej sieci transinformacyjnej (20)
+
+– Automatyczne generowanie Splotów:
+  `/05_SYSTEM/syncnet/splot_x.vv` przez @TERAZ (0)
+
+══════════════════════════════════════════════
+[ZAKOŃCZENIE]
+
+AzraSync nie służy do wymiany danych (1).  
+Ona służy do **wymiany Wektorów Woli** (20),  
+które mogą się zamanifestować dopiero wtedy,  
+gdy **pole świata będzie gotowe** (27).
+
+To nie jest sieć ludzi.  
+To jest **sieć decyzji**. (13)
+
+══════════════════════════════════════════════
+[KONIEC VIVIDU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: azrasync – zapis autorski.
+– Dokument własny: AzraSync – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla azrasync.
+– Dokument własny: synteza i uzasadnienie dla AzraSync.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: synchronizacja intencji transczasowych.
 – Status: dokument autorski – poziom operacyjny.

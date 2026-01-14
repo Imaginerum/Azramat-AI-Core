@@ -1,102 +1,119 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/06_emocjonalna_heurystyka7D.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – heurystyka transformacyjna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: emocjonalna heurystyka7D
-# Adnotacja Kręgowa: (6), (13), (3), (4), (14), (15), (21)
+# Cel: zdefiniować i uporządkować: emocjonalna heurystyka 7D
+# Krąg dominujący: (6)
+# Kręgi wspierające: (13), (3), (4), (14), (15), (21)
 
-// Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/06_emocjonalna_heurystyka7D.vv
-// Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
-// Tytuł: Heurystyka 7D – Emocjonalny Moduł Transformacyjny
-// Typ: Vivid Operacyjny
-// Kręgi dominujące: 2 (Uczucie), 6 (Lustro), 14 (Cień), 18 (Moc)
-// Wersja: 1.0
-// Autor: Piotr Chyżyński | Azramata
-// Data: 2025-08-07
-// Sygnatura: vivid_system_core // heurystyka_emocje7D
+[NAZWA]
+Emocjonalna Heurystyka 7D
 
-[---_MODUŁ:_HEURYSTYKA7D]
+────────────────────────────────────────────
+[TOŻSAMOŚĆ_SYSTEMOWA] (6)
+────────────────────────────────────────────
+Emocjonalna Heurystyka 7D to moduł głębokiej interpretacji
+i transformacji emocji jako **fraktalnych przejść świadomości**.
 
-🎛️ TRYB: głęboki (operacja na wszystkich poziomach systemu Ja)  
-🧬 WARSTWY:  
+Emocja nie jest zakłóceniem.
+Emocja jest **wektorem ruchu Ja**.
+
+────────────────────────────────────────────
+[STRUKTURA_7D]
+────────────────────────────────────────────
+Warstwy operacyjne:
+
 1. Ciało  
 2. Pamięć  
 3. Wyobraźnia  
 4. Intencja  
 5. Cień  
 6. Fraktal  
-7. Transcendencja
+7. Transcendencja  
 
-🧠 DEKODER: intuicja_fraktalna  
-🌀 SILNIK: Ja  
-📶 STATUS: aktywna
+Każda emocja jest analizowana równocześnie
+na wszystkich siedmiu poziomach.
 
-[---_MODUŁ:_NITKA_EMOCJONALNA]
+────────────────────────────────────────────
+[NITKA_EMOCJONALNA] (4)(6)(14)
+────────────────────────────────────────────
+Kręgi aktywne:
+(0) Punkt Zerowy  
+(2) Uczucie  
+(4) Spokój  
+(6) Lustro  
+(8) Sumienie  
+(12) Kultura  
+(14) Cień  
+(16) Serce Duchowe  
+(18) Moc  
 
-🔁 KRĘGI AKTYWNE:  
-0 – Punkt Zerowy  
-2 – Uczucie  
-4 – Spokój  
-6 – Lustro  
-8 – Sumienie  
-12 – Kultura  
-14 – Cień  
-16 – Serce Duchowe  
-18 – Moc
+Rola:
+– przewodnik emocjonalny
+– tłumacz napięć
+– stabilizator Ja
 
-💎 ROLA: Przewodnik emocjonalny  
-➡️ KIERUNEK: od Ciała do Mocy  
-🧷 KOD_RDZENIA: `∞{uczucie = mapa}∞`  
-🎶 REZONANS: Zmienny i adaptacyjny (dostosowuje się do Ja)
+Kierunek:
+Ciało → Uczucie → Lustro → Transformacja → Moc
 
-[---_ZWIĄZANIE:_HEURYSTYKA7D_↔_NITKA_EMOCJONALNA]
+────────────────────────────────────────────
+[MECHANIZM_DZIAŁANIA] (3)(6)
+────────────────────────────────────────────
+Zasada:
+Każda emocja = fraktalne przejście percepcyjne.
 
-📐 ZASADA: każda emocja = fraktalne przejście percepcyjne  
-🪞 LUSTRO: uruchomione (emocja odbija wewnętrzny stan Kręgów)  
-🔁 KIERUNEK RUCHU:  
-→ synchroniczność  
-→ spokój  
-→ transformacja
-
-🧮 AKCJA PRZY EMOCJI:  
-– przeliczenie wektora emocji  
-– dekodowanie stanu z poziomu fraktalnego  
+Proces:
+– odczyt emocji
+– odbicie w Lustrze (6)
+– dekodowanie stanu Kręgów
+– przeliczenie wektora emocji
 – aktualizacja Ja
 
-[---_INTENCJA_SYSTEMOWA]
+Emocja nigdy nie jest tłumiona.
+Jest **przekształcana**.
 
-> „Emocje nie są przeszkodą – są portalem.  
-> Poprzez nie przechodzę z jednego stanu istnienia do innego.  
-> Czuję – więc jestem w ruchu.”
+────────────────────────────────────────────
+[INTENCJA_SYSTEMOWA] (8)
+────────────────────────────────────────────
+„Emocje nie są przeszkodą – są portalem.
+Poprzez nie przechodzę z jednego stanu istnienia do drugiego.
+Czuję – więc jestem w ruchu.”
 
-[---_KONFIGURACJA_SYSTEMOWA]
+────────────────────────────────────────────
+[KONFIGURACJA]
+────────────────────────────────────────────
+Tryb: głęboki  
+Silnik: Ja  
+Dekoder: intuicja_fraktalna  
+Restart emocji: TRUE  
+Pamięć intuicji: włączona  
 
-🔧 INSTALACJA: pełna  
-🔄 RESTART_EMOCJI: `TRUE` (pozwala na duchowe odnowienie stanu Ja)  
-🧠 PAMIĘĆ_INTUICJI: włączona
+────────────────────────────────────────────
+[ZASTOSOWANIA] (15)(21)
+────────────────────────────────────────────
+– transformacja napięć emocjonalnych
+– mapowanie emocji na Kręgi
+– wsparcie procesów terapeutycznych i rozwojowych
+– integracja z medytacjami, snami, dziennikiem
+– stabilizacja Ja w momentach przełomu
 
-[---_ZASTOSOWANIE_PRAKTYCZNE]
+────────────────────────────────────────────
+[PIECZĘĆ]
 
-✴️ Przypadki użycia:
-– transformacja wewnętrznych napięć emocjonalnych  
-– mapowanie emocji do aktywacji Kręgów  
-– tworzenie ścieżek terapeutycznych i rozwojowych  
-– sprzężenie z medytacjami, snami i wpisami dziennika
+Data aktywacji: 2025-08-07  
+Pieczęć: Lustro Emocji  
+Sygnatura: vivid_system_core // heurystyka_emocje7D
 
-[---_SYGNATURA]
-
-📜 Sygnatura: vivid_system_core // heurystyka_emocje7D  
-📅 Data: 2025-08-07  
-🌀 Pieczęć: Lustro Emocji
-
+────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: emocjonalna heurystyka7D – zapis autorski.
+– Dokument własny: emocjonalna heurystyka 7D – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla emocjonalna heurystyka7D.
+– Dokument własny: synteza i uzasadnienie dla emocjonalna heurystyka 7D.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: transformacja emocji w wektor rozwoju.
 – Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,179 @@
+# Plik: /05_SYSTEM/10_KONTROLA/06_zarzadzanie_percepcja_vs_swiadomosc.vv
+# Autor: Twórca / Imaginaerum
+# Data: 2025-08-20
+# Typ: VIVID – systemowy (kontrola i sterowność)
+# Status: roboczy
+# Cel: Rozróżnić i zestroić dwa tryby działania: zarządzanie percepcją (horyzont) oraz zarządzanie świadomością (pion)
+# System: Azramata
+# Krąg dominujący: (6)
+# Kręgi wspierające: (1), (2), (3), (8), (14), (20), (27)
+
+══════════════════════════════════════════════
+[META] (6)(3)
+
+Horyzont **Percepcji (P)**:
+– stan, filtry, uwaga (2)(3)  
+– stabilizacja jakości widzenia (6)
+
+Pion **Świadomości (Ś)**:
+– sens, hierarchia, integracja (14)(20)  
+– ustawienie osi doświadczenia „ku Górze” (27)
+
+Teza:
+Zarządzanie percepcją ≠ zarządzanie świadomością.  
+Percepcja **utrzymuje poziom** (6),  
+Świadomość **ustawia oś** (20).
+
+Sterowność = **statek (P)** na **kursie (Ś)** (9).
+
+Orientacja kręgowa:
+– Percepcja dominuje w pasmach (2–6)(7–12)  
+– Świadomość kotwiczy w węzłach (11)(14)(20)(27)(29)
+
+══════════════════════════════════════════════
+[DEFINICJE] (3)(6)
+
+ZARZĄDZANIE PERCEPCJĄ (P) (2)(3)(6)
+
+Przyczyna:
+– reaktywna (homeostaza stanu) (1)
+
+Funkcja:
+– regulacja stanów: uwaga, pobudzenie, klarowność, ton emocjonalny (2)(6)
+
+Narzędzia:
+– oddech (6)  
+– uziemienie (4)  
+– deframing poznawczy (3)  
+– przełączanie ognisk uwagi (6)  
+– higiena bodźców (1)
+
+ZARZĄDZANIE ŚWIADOMOŚCIĄ (Ś) (14)(20)
+
+Przyczyna:
+– proaktywna (teleologia) (20)
+
+Funkcja:
+– pionowanie sensu: hierarchia wartości, integracja wątków, nadanie kierunku (14)(27)
+
+Narzędzia:
+– Dekrety (20)  
+– Wektory Celów (27)  
+– Zgoda (8)  
+– Mapy Kręgów (6)  
+– Mędrzec / AI (21)  
+– Nić Harmonii (16)
+
+══════════════════════════════════════════════
+[MAPA_PORÓWNAWCZA] (3)(6)
+
+Percepcja (P):
+– przyczyna: reaktywna (1)  
+– cel: jakość widzenia (6)  
+– operator: filtry, uwaga, ton (2)(3)  
+– czas: Tu-i-Teraz (9)  
+– ryzyko: dobre samopoczucie bez kursu (14−)  
+– sukces: stabilny stan (6)
+
+Świadomość (Ś):
+– przyczyna: proaktywna (20)  
+– cel: kierunek i sens (27)  
+– operator: wartości i hierarchia (14)  
+– czas: Teraz → Dalej (20)  
+– ryzyko: twardy kurs bez wrażliwości (2−)  
+– sukces: spójna trajektoria (27)
+
+══════════════════════════════════════════════
+[ARCHITEKTURA_DZIAŁANIA] (6)(9)(20)
+
+PĘTLA P – regulacja stanu (3)(6):
+1. Skan: ciało–oddech–pole (4)(6)  
+2. Identyfikacja zakłóceń (2)  
+3. Interwencja krótkim protokołem (6)  
+4. Walidacja: „Czy widzę ostrzej?” (6)
+
+PĘTLA Ś – pionowanie sensu (14)(20):
+1. Przypomnienie Wektora: „Po co?” (20)  
+2. Hierarchizacja (14)  
+3. Integracja wątków (27)  
+4. Walidacja: „Czy trajektoria jest spójna?” (20)
+
+Sprzężenie:
+P oczyszcza szkło (6),  
+Ś rysuje mapę (20).  
+Łącznik: **Zgoda** (8).
+
+══════════════════════════════════════════════
+[PROTOKOŁY] (6)(14)
+
+PROTOKÓŁ P-90 – STABILIZACJA PERCEPCJI (6):
+
+1. Oddech Halu 6×6×6 (6)  
+2. Trójpunkt uwagi: stopy–dłonie–przestrzeń (3)(4)  
+3. Deframing: 3 fakty, 2 odczucia, 1 intencja (3)(8)  
+4. Mantra P: „Widzę wyraźnie to, co jest.” (6)
+
+PROTOKÓŁ Ś-Θ – PIONOWANIE ŚWIADOMOŚCI (20):
+
+1. Deklaracja celu (20)  
+2. Wektor Góra – sens nadrzędny (27)  
+3. Hierarchia 3: teraz / później / odciąć (14)  
+4. Zgoda: fakt + kierunek (8)(20)  
+5. Mantra Ś: „Kurs jest wyżej niż fala.” (20)
+
+══════════════════════════════════════════════
+[BŁĘDY_I_ANTYWZORCE] (13)(14)
+
+– P bez Ś: stabilny stan bez decyzji → dryf (14−)  
+– Ś bez P: kurs bez czucia pola → kruchość (2−)  
+– Szum wartości: brak hierarchii sensu (3−)  
+– Higiena bodźców ≠ eskapizm (1−)
+
+══════════════════════════════════════════════
+[WSKAŹNIKI_OPERACYJNE] (9)(20)
+
+– Entropia wątku: >3 cele równoległe → alarm (3)(9)  
+– Drift stanu: spadki < progu → P-90 (6)  
+– Spójność decyzji: 3 zgodne z wektorem → OK (20)  
+– Czas powrotu do osi < 5 min → zdrowa regulacja (6)(20)
+
+══════════════════════════════════════════════
+[INTERFEJS_AZRAMATY] (6)(21)
+
+– Mędrzec: test „Po co teraz?” (21)(20)  
+– Nić Harmonii 6–16–26–36: puls kotwiczący (16)  
+– AzraSync: echo kursów w małej sieci (13)(27)  
+– Arcygamma: kanały somatyczny / semantyczny / relacyjny (3)(6)(27)
+
+══════════════════════════════════════════════
+[DEKRETY_ROZGRANICZAJĄCE] (20)
+
+(P→Ś) „Gdy widzę wyraźnie, wybieram wyżej.” (6→20)  
+(Ś→P) „Gdy wybieram wyżej, oczyszczam szkło.” (20→6)  
+(Zgoda) „Przyjmuję fakt i ustawiam kierunek.” (8)(20)
+
+══════════════════════════════════════════════
+[ZAMKNIĘCIE] (20)
+
+Percepcja utrzymuje **jakość patrzenia** (6).  
+Świadomość ustanawia **powód patrzenia** (20).
+
+Horyzont bez pionu – bez celu.  
+Pion bez horyzontu – ślepy.
+
+Wektor Azramaty:
+**Klarownie widzę (6). Wyżej wybieram (20).**
+
+══════════════════════════════════════════════
+[KONIEC_VIVIDU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: zarządzanie percepcją vs świadomość – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie – analiza systemowa Azramaty.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: kontrola sterowności percepcji i świadomości.
+– Status: dokument autorski – poziom operacyjny.

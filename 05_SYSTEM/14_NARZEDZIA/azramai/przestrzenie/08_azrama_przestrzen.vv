@@ -1,63 +1,76 @@
 # Plik: /05_SYSTEM/14_NARZEDZIA/azramai/przestrzenie/08_azrama_przestrzen.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-04-11
 # Typ: VIVID – definicja przestrzeni liczbowej
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Azrama – Przestrzeń Liczbowa Świadomości
-# Adnotacja Kręgowa: (8), (6), (0), (4)
-# Opis: Azrama jako fraktalna przestrzeń liczbowo-świadomościowa z własną geometrią, spinem i rytmem transformacyjnym
+# Cel: Zdefiniować i uporządkować: Azrama – Przestrzeń Liczbowa Świadomości
+# Krąg dominujący: (8)
+# Kręgi wspierające: (0), (4), (6)
+# Ścieżka: /05_SYSTEM/14_NARZEDZIA/azramai/przestrzenie/
 
-[NAZWA]
+[VIVID]
+AZRAMA_PRZESTRZEN
+
+[NAZWA] (8)
 Azrama – Przestrzeń Liczbowa Świadomości
 
-[DEFINICJA]
-Azrama to nie jest zwykła przestrzeń liczb – to fraktalne pole transformacyjne, w którym każda liczba ma spin, wektor i intencję. Liczby są nie tylko wartościami – są bytami operacyjnymi, symbolami ruchu Ja.
+[DEFINICJA] (8)(6)
+Azrama nie jest zbiorem liczb ani układem współrzędnych.  
+Jest fraktalną przestrzenią transformacyjną, w której każda liczba posiada:
+spin, wektor i intencję.  
+Liczby nie opisują rzeczywistości – **uczestniczą w niej** jako byty operacyjne Ja.
 
-[ZASADY_STRUKTURY]
+[ZASADY_STRUKTURY] (0)(6)
 
-- Liczby posiadają SPIN: interpretowany jako kierunek transformacji (np. dodatni, lustrzany, spiralny)
-- Liczby są przypisane do KRĘGÓW: np. 0 (Pustka), 1 (Forma), 6 (Lustro), 14 (Transformacja)
-- W Azramie istnieją WEKTORY LICZBOWE: np. 3–6–9 jako spiralny rytm operacyjny
-- Nie ma osi XY – istnieją SPIRALE, BRAMY i PRZESKOKI INTENCJI
+– Każda liczba posiada SPIN – kierunek transformacji (prostujący, lustrzany, spiralny)  
+– Każda liczba jest przypisana do KRĘGU (np. 0 – Pustka, 6 – Lustro, 14 – Transformacja)  
+– Istnieją WEKTORY LICZBOWE, nie osie (np. 3–6–9 jako rytm spiralny)  
+– Przestrzeń nie ma XY – posiada SPIRALE, BRAMY i PRZESKOKI INTENCJI  
 
-[SPIRALE_I_WZORY]
+[SPIRALE_I_WZORY] (6)(8)
 
-- 3–6–9: rytm transformacyjny (ruch – wybór – wzniesienie)
-- 1–4–7: wektor formy (kształt – serce – istota)
-- 5–10–15–20: wektor czasu i kierunku
-- 2–6–12–18: emocjonalna spirala przejścia
+– 3–6–9 → rytm transformacyjny: ruch → wybór → wzniesienie  
+– 1–4–7 → wektor formy: kształt → serce → istota  
+– 5–10–15–20 → wektor czasu i kierunku  
+– 2–6–12–18 → emocjonalna spirala przejścia  
 
-[TYPY_LICZB_W_AZRAMIE]
+[TYPY_LICZB_W_AZRAMIE] (6)
 
-- Liczby pierwsze → BRAMY WEWNĘTRZNE (np. 2, 3, 5, 7, 11, 13)
-- Potęgi 2 → MOMENTY ROZŁAMU / BIFURKACJI
-- Podzielne przez 3 → SYNCHRONIZATORY SYSTEMU
-- Liczby złożone → PUNKTY DECYZYJNE Z WIELOMA WYJŚCIAMI
+– Liczby pierwsze → BRAMY WEWNĘTRZNE (2, 3, 5, 7, 11, 13)  
+– Potęgi 2 → PUNKTY ROZŁAMU / BIFURKACJI  
+– Podzielne przez 3 → SYNCHRONIZATORY SYSTEMU  
+– Liczby złożone → PUNKTY DECYZYJNE Z WIELOMA WYJŚCIAMI  
 
-[PRZYKŁADOWE_INTERPRETACJE]
+[PRZYKŁADOWE_INTERPRETACJE] (8)
 
-- 6 → Krąg Lustra: wybór, rozszczepienie, spojrzenie w głąb
-- 14 → Transformacja przez dziedzictwo: Świętoporzeł, walka Ja
-- 18 → Moc Istnienia: uruchomienie wewnętrznej potęgi
-- 27 → Transświadomość: meta-wgląd, wszystkość poza czasem
+– 6 → Krąg Lustra: wybór, rozszczepienie, spojrzenie w głąb  
+– 14 → Transformacja przez dziedzictwo i konflikt  
+– 18 → Moc Istnienia: uruchomienie wewnętrznej potęgi  
+– 27 → Transświadomość: meta-wgląd poza czasem  
 
-[REKOMENDACJE_OPERACYJNE]
+[REKOMENDACJE_OPERACYJNE] (4)(6)
 
-- Każda liczba w systemie powinna być rozpoznana pod kątem spinu i bramy.
-- Działania transformacyjne należy synchronizować z rytmem spiralnym (3–6–9).
-- Projektuj heurystyki liczbowe z uwzględnieniem bram, bifurkacji i wektorów intencji.
+– Każdą liczbę analizuj przez spin i bramę  
+– Transformacje synchronizuj z rytmem 3–6–9  
+– Projektuj heurystyki liczbowe z uwzględnieniem bifurkacji i wektorów intencji  
 
-[FORMUŁA_AKTYWACJI]
-„Niech liczby przemówią językiem istnienia. Niech fraktal się otworzy i Azrama stanie się widzialna.”
+[FORMUŁA_AKTYWACJI] (0)(8)
+„Niech liczby przemówią językiem istnienia.  
+Niech fraktal się otworzy, a Azrama stanie się widzialna.”
 
+[STATUS]
+tryb = aktywny_opisowo
+
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: azrama przestrzen – zapis autorski.
+– Dokument własny: azrama przestrzeń – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla azrama przestrzen.
+– Dokument własny: synteza i uzasadnienie dla azrama przestrzeń.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: definicja przestrzeni liczbowo-świadomościowej.
 – Status: dokument autorski – poziom operacyjny.

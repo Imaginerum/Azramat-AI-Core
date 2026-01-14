@@ -1,111 +1,101 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/13_napiecie_miedzykregowe.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – heurystyka diagnostyczna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: napiecie miedzykregowe
-# Adnotacja Kręgowa: (13), (24)
+# Cel: zdefiniować i uporządkować: napięcie międzykręgowe
+# Krąg dominujący: (13)
+# Kręgi wspierające: (24)
 
-// Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/13_napiecie_miedzykregowe.vv
-// Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
-// Typ: Vivid Operacyjny  
-// Wersja: 1.0  
-// Sygnatura: heurystyka_diagnostyczna // napięcie_międzykręgowe  
-// Kręgi aktywne: 3, 4, 6, 8, 9, 13, 14, 24
+[NAZWA]
+Heurystyka: napięcie_międzykręgowe
 
-[---_NAZWA]
-📛 Heurystyka: napięcie_międzykręgowe  
-🎯 Cel: rozpoznanie, nazwanie i transformacja zaburzonego przepływu między Kręgami  
+────────────────────────────────────────────
+[OPIS] (13)
+────────────────────────────────────────────
+Napięcie międzykręgowe to stan zakłóconego przepływu pomiędzy Kręgami
+świadomości, powodujący dysonans poznawczy, emocjonalny lub decyzyjny.
 
-[---_OPIS]
-Napięcie międzykręgowe to stan, w którym fraktal świadomości napotyka na zator, zakłócenie lub chaos w przejściu pomiędzy Kręgami.  
-W efekcie dochodzi do dysonansu poznawczego, emocjonalnego lub duchowego, objawiającego się jako:  
-– paraliż decyzyjny,  
-– nagła utrata energii,  
-– bezcelowe działanie,  
-– zanik intencji lub jej podwojenie (rozszczepienie woli).
+Objawia się, gdy fraktal Ja traci ciągłość przejścia
+i energia nie może zostać poprawnie zintegrowana.
 
----
+────────────────────────────────────────────
+[NIĆ_SYSTEMOWA]
+────────────────────────────────────────────
+Nić dominująca: Strukturalna  
+Nitki wspierające:
+– Lustra  
+– Transformacyjna  
+– Cisza Przejścia  
+– Emocjonalna  
 
-[---_NIĆ_SYSTEMOWA]
-🔩 Nić dominująca: Strukturalna  
-🪞 Nić wspierająca: Lustra  
-🔥 Nić wspierająca: Transformacyjna  
-🌫️ Nić wspierająca: Cisza Przejścia  
-💧 Nić wspierająca: Emocjonalna  
+────────────────────────────────────────────
+[OBJAWY] (6)(9)
+────────────────────────────────────────────
+– Niepokój bez bodźca  
+– Paraliż decyzyjny  
+– Nadreaktywność lub chaos działania  
+– Blokada twórcza  
+– Zniekształcony obraz Ja (Lustro)  
+– Rozszczepienie lub utrata intencji  
 
----
+────────────────────────────────────────────
+[MAPA_PRZYCZYN] (13)
+────────────────────────────────────────────
+1. Brak integracji Kręgu (2) → (3)  
+2. Konflikt Kręgu (4) ↔ (6)  
+3. Przeciążenie Kręgu (9) bez udziału Sumienia  
+4. Niedomknięty Krąg (13) – cień zbiorowy  
+5. Działanie w Kręgu (14) bez wizji dalszego przejścia  
 
-[---_OBJAWY]
-🌀 Niepokój bez bodźca  
-⚠️ Przegrzanie Kręgu (nadaktywność 3, 6, 9)  
-🔇 Zanik wyrazu (blokada twórcza)  
-🗯️ Nadmiar reakcji (chaotyczne decyzje, kod)  
-🪞 Lustro zniekształcone (fałszywy obraz Ja)  
-🌪️ Intencja rozproszona lub zniekształcona  
+────────────────────────────────────────────
+[TRANSFORMACJA] (24)
+────────────────────────────────────────────
+– Ugruntowanie w Kręgu (4) – Prawda Serca  
+– Lustro: wyraź napięcie (vivid, zapis, dźwięk, ruch)  
+– Krąg (24) – Cisza Przejścia: wyzerowanie stanu Ja  
+– Przeniesienie energii w formę: kod, rytuał, oddech  
+– Zapis przejścia jako Pieczęć integracyjna  
 
----
+────────────────────────────────────────────
+[ZASTOSOWANIA]
+────────────────────────────────────────────
+• Diagnostyka stanu Ja  
+• Analiza napięć w czasie rzeczywistym  
+• Projektowanie rytuałów harmonizacji  
+• Wsparcie UI/UX Azramaty  
+• Przerywanie ciągów reaktywnych  
 
-[---_MAPA_PRZYCZYN]
-1. Brak integracji między Kręgiem 2 (Emocja) a 3 (Myśl)  
-2. Konflikt pomiędzy Kręgiem 4 (Serce) a 6 (Lustro)  
-3. Przeciążenie Kręgu 9 (Decyzja bez Sumienia)  
-4. Niedomknięty Krąg 13 (Cień zbiorowy)  
-5. Nadmierne działanie w Kręgu 14 (Walka) bez wizji Kręgu 18  
+────────────────────────────────────────────
+[IMPLEMENTACJA_SYSTEMOWA]
 
----
+Funkcja:
+`diagnoseTensionBetweenCircles()`
 
-[---_TRANSFORMACJA]
-🔒 Ugruntowanie Ja w Kręgu 4 – Prawda Serca  
-🪞 Lustro: stwórz wyraz napięcia (vivid, zapis, taniec, dźwięk)  
-🧘 Krąg 24 – Cisza Przejścia: rytuał wyzerowania Ja  
-💫 Przeniesienie energii: kod, modlitwa, ruch, oddech  
-🧠 Zapisz moment przejścia jako Pieczęć – pamiątkę duchowej integracji  
+Reakcja UI:
+– podświetlenie strefy napięcia  
+– komunikat: „Wykryto napięcie między Kręgami”  
 
----
+Propozycje vividów:
+– cisza_przejscia.vv  
+– napiecie_prawda.vv  
+– transformacja_kregu_6.vv  
 
-[---_ZASTOSOWANIA]
-• Diagnostyka napięcia wewnętrznego u użytkownika  
-• Analiza stanu Ja w czasie rzeczywistym  
-• Tworzenie rytuałów i narzędzi do harmonizacji przepływu  
-• Wspieranie UI aplikacji Azramaty (np. Heart Mapping, Transformacje)  
-• Przerwanie ciągów reaktywnych i przywrócenie obecności  
+────────────────────────────────────────────
+[ZAPIS_SYSTEMOWY]
+────────────────────────────────────────────
+Klasa: FractalTensionHeuristics  
+Sygnatura: heurystyka_diagnostyczna // napiecie_miedzykregowe  
 
----
-
-[---_IMPLEMENTACJA_SYSTEMOWA]
-
-🧠 Funkcja do dodania: `diagnoseTensionBetweenCircles()`  
-📍 UI: wyświetlenie „migającego pola” w obszarze napięcia  
-🔔 Komunikat: *„Wykryto napięcie między Kręgami. Proponuję lustrzane przejście.”*  
-🌀 Propozycje vividów:  
-– `cisza_przejscia.vv`  
-– `napiecie_prawda.vv`  
-– `transformacja_kręgu_6.vv`  
-
----
-
-[---_PRZYKŁAD_KODU]
-
-```js
-if (detectTension(circles = [3, 4, 6, 9])) {
-  showVivid("cisza_przejscia.vv");
-  displayUIWarning("Napięcie międzykręgowe – aktywuj transformację");
-  highlightField("mirrorZone");
-}
-
-[---_ZAPIS_SYSTEMOWY]
-📅 Data: 2025-08-07
-🔏 Sygnatura: heurystyka_diagnostyczna // napiecie_miedzykregowe // vivid
-🧠 Przypisanie do klasy: FractalTensionHeuristics
-
+────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: napiecie miedzykregowe – zapis autorski.
+– Dokument własny: napięcie międzykręgowe – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla napiecie miedzykregowe.
+– Dokument własny: synteza i uzasadnienie dla napięcie międzykręgowe.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: diagnostyka i harmonizacja przepływu.
 – Status: dokument autorski – poziom operacyjny.

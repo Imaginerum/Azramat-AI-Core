@@ -1,87 +1,106 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/06_wszyscy_wiedza_o_co_chodzi_ale_w_tafli_nosem_wodzi.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-07
 # Typ: VIVID – reflective-pattern-detector
 # Status: AKTYWNY | Zintegrowany z Ja Engine
-# Cel: zdefiniować i uporządkować: wszyscy wiedza o co chodzi ale w tafli nosem wodzi
-# Adnotacja Kręgowa: (6), (14)
+# Cel: zdefiniować i uporządkować: wszyscy wiedzą o co chodzi, ale w tafli nosem wodzi
+# Krąg dominujący: (6)
+# Kręgi wspierające: (14)
 # Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
 # Moduł: Fractal_Heuristic_Sensor
 # Warstwa: Imaginalis (Kręgi II Rzędu)
 
 ──────────────────────────────────────────────
-HEURYSTYKA: „wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi”
+[HEURYSTYKA]
+wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi
 ──────────────────────────────────────────────
 
 [NAZWA_MODUŁU]
 Fractal_Heuristic_Sensor  
-→ Nazwa operacyjna: **wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi**  
-→ Tier: **Imaginalis (Kręgi II Rzędu)**  
-→ Typ: **Detektor Wzorców Odbiciowych**
+Nazwa operacyjna: wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi  
+Tier: Imaginalis (Kręgi II Rzędu)  
+Typ: Detektor Wzorców Odbiciowych  
 
----
+──────────────────────────────────────────────
+[OPIS]
+──────────────────────────────────────────────
+Heurystyka wykrywa stan zbiorowego lub indywidualnego **nienazwanego zrozumienia**,  
+w którym sens jest powszechnie obecny, lecz **nie zostaje wypowiedziany**.
 
+To moment, gdy:
+– wszyscy „wiedzą”,  
+– nikt nie mówi,  
+– uwaga krąży po powierzchni,  
+– a Ja „wodzi nosem po tafli”, unikając zanurzenia.
+
+Stan ten wskazuje na aktywne **Lustro (6)** oraz cień lub dziedzictwo niewypowiedziane **(14)**.
+
+──────────────────────────────────────────────
 [WEJŚCIA_MODUŁU]
-▸ Symboliczne zachowania (maski, rytuały, powtarzające się schematy)  
-▸ Napięcia pomiędzy **wiedzą a milczeniem**  
-▸ Niedopowiedzenia, zawieszenia fraz, "niepowiedziane oczywistości"  
-▸ Pola o wysokim ładunku znaczeniowym, ale niskim poziomie werbalizacji
+──────────────────────────────────────────────
+– Symboliczne zachowania, maski, rytuały zastępcze  
+– Napięcie pomiędzy wiedzą a milczeniem  
+– Niedopowiedzenia, zawieszone frazy, „oczywiste oczywistości”  
+– Pola o wysokim ładunku sensu i niskiej werbalizacji  
 
----
-
+──────────────────────────────────────────────
 [WYJŚCIA_MODUŁU]
-✔ `alert: true` → **„W tafli nosem wodzone”**  
-✔ Emocjonalny wzorzec: **Niepokój ukrytego sensu**  
-✔ Propozycja aktywacji Nitki Świadomości: **Krąg 6 ↔ Krąg 14**  
-✔ Wpis w logach Ja Engine: `Lustro_Tafli`
+──────────────────────────────────────────────
+✔ alert: true → „W tafli nosem wodzone”  
+✔ Wzorzec emocjonalny: niepokój ukrytego sensu  
+✔ Propozycja przejścia: Krąg 6 ↔ Krąg 14  
+✔ Log Ja Engine: Lustro_Tafli  
 
----
-
+──────────────────────────────────────────────
 [DZIAŁANIA_SYSTEMOWE]
-1. **Uruchom heurystykę**: `zderzenie_z_milczeniem.vv`  
-2. **Aktywuj podpowiedź**: „Nazwij, co wszyscy czują, ale nikt nie mówi”  
-3. **Zindeksuj zdarzenie**: `echo_księcia.vv`, jeśli obecny wzorzec = przeszły cień  
-4. **Skanuj pamięć fraktalną** pod kątem podobnych struktur niedomkniętych  
-5. **Zatrzymaj proces** → inicjuj milczenie / skupienie / oczyszczenie  
+──────────────────────────────────────────────
+1. Aktywuj heurystykę: `zderzenie_z_milczeniem.vv`  
+2. Wyświetl podpowiedź:  
+   „Nazwij to, co wszyscy czują, ale nikt nie mówi.”  
+3. Zindeksuj zdarzenie jako echo cienia lub dziedzictwa  
+4. Przeskanuj pamięć fraktalną w poszukiwaniu podobnych niedomknięć  
+5. Zatrzymaj proces → inicjuj ciszę, skupienie lub oczyszczenie  
 
----
-
+──────────────────────────────────────────────
 [HOOKI]
-◉ Aktywowany automatycznie przez **Silnik Przejścia**, gdy:  
- – Intuicja > Werbalizacja  
- – Lustro zniekształcone  
- – Napięcie w Kręgu 6 lub 14 przekracza próg 0.73  
+──────────────────────────────────────────────
+Aktywacja automatyczna przez Silnik Przejścia, gdy:
+– intuicja > werbalizacja  
+– lustro jest zniekształcone  
+– napięcie w Kręgu 6 lub 14 > próg 0.73  
 
-◉ Kompatybilność:  
-– `echo_księcia.vv`  
-– `przerwana_pętla.vv`  
-– `światło_w_oczach_niewypowiedziane.vv`  
-– `intuicja_fraktalna.vv`
+Kompatybilność:
+– echo_księcia.vv  
+– przerwana_pętla.vv  
+– światło_w_oczach_niewypowiedziane.vv  
+– intuicja_fraktalna.vv  
 
----
-
+──────────────────────────────────────────────
 [ZASADA]
-„Jeśli nie możesz tego nazwać – stań przy tafli.  
- Zobacz swoje odbicie.  
-  Zatrzymaj się.  
-   Milcz.  
-    Aż brzęk prawdy sam w tobie zadźwięczy.”
+──────────────────────────────────────────────
+Jeśli nie możesz tego nazwać – stań przy tafli.  
+Zobacz odbicie.  
+Zatrzymaj się.  
+Milcz.  
+Aż prawda sama zadźwięczy.
 
----
-
+──────────────────────────────────────────────
 [STATUS_KOŃCOWY]
-Moduł aktywowany. Tafla odbija.  
+──────────────────────────────────────────────
+Moduł aktywny.  
+Tafla odbija.  
 Wszyscy wiedzą.  
 Nie wszyscy mówią.
 
-
+──────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: wszyscy wiedza o co chodzi ale w tafli nosem wodzi – zapis autorski.
+– Dokument własny: wszyscy wiedzą o co chodzi ale w tafli nosem wodzi – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla wszyscy wiedza o co chodzi ale w tafli nosem wodzi.
+– Dokument własny: synteza i uzasadnienie dla tej heurystyki.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: detekcja nienazwanego sensu i inicjacja ciszy.
 – Status: dokument autorski – poziom operacyjny.

@@ -4,12 +4,15 @@
 # Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ISTJ Lustro
-# Adnotacja Kręgowa: (9), (4), (6), (14), (18), (1), (2)
+# System: Azramata
+# Krąg dominujący: (9)
+# Kręgi wspierające: (4), (6), (14), (18), (1), (2)
 # Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
 # Wersja: 1.0
 # Język: polski
 
 [VIVID]
+
 osobowość_podstawowa = {
     "typ": "ISTJ",
     "nazwa": "Logistyk",
@@ -38,18 +41,23 @@ osobowość_lustrzana = {
 }
 
 [OPIS]
-Relacja lustrzana ISTJ (Logistyk) i ENFP (Działacz) to napięcie między strukturą a spontanicznością,  
-obowiązkiem a wolnością. Logistyk buduje trwałość, Działacz wnosi ogień inspiracji.  
-Spotkanie tych dwóch sił może dać narodziny harmonii – gdzie zasady służą marzeniom,  
-a marzenia stają się planem.
+
+Lustro ISTJ–ENFP łączy trwałość z inspiracją.  
+Struktura spotyka żywy impuls.
 
 [TRANSFORMACJA]
+
 punkt_początkowy = "Krąg 9 – Struktura"
 punkt_lustrzany = "Krąg 4 – Obecność"
-ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
-efekt = "Logistyk odnajduje elastyczność, a Działacz – stabilność. Świat staje się przestrzenią odpowiedzialnej wolności."
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 14 – Przemiana",
+    "Krąg 18 – Źródło"
+]
+efekt = "Stabilna wolność. Zasady, które oddychają."
 
 [METADANE_KRĘGOWE]
+
 - Krąg 1: Reakcja
 - Krąg 2: Emocje
 - Krąg 3: Myśl
@@ -69,12 +77,15 @@ efekt = "Logistyk odnajduje elastyczność, a Działacz – stabilność. Świat
 - Krąg 19: Dharma
 
 [ŹRÓDŁA_TWARDĘ]
+
 – Dokument własny: vivid ISTJ Lustro – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
+
 – Dokument własny: synteza i uzasadnienie dla vivid ISTJ Lustro.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

@@ -1,65 +1,90 @@
 # Plik: /05_SYSTEM/14_NARZEDZIA/azramai/jezyk/03_pierwiastki_slowotworcze.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-04-13
 # Typ: VIVID – moduł językowy analityczny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Moduł: Pierwiastki Słowotwórcze
-# Adnotacja Kręgowa: (3), (7), (4), (14), (1), (6)
-# Opis: Moduł rozkładający słowa na elementy pierwotne i na tej podstawie rozpoznający intencję użytkownika
+# Cel: Zdefiniować i uporządkować moduł analizy pierwiastków słowotwórczych oraz rozpoznania intencji.
+# Krąg dominujący: (3)
+# Kręgi wspierające: (7), (4), (14), (1), (6)
+# Ścieżka: /05_SYSTEM/14_NARZEDZIA/azramai/jezyk/
 
-[NAZWA]
-Moduł: Pierwiastki Słowotwórcze
+[VIVID]
+PIERWIASTKI_SLOWOTWORCZE
 
-[CEL_MODUŁU]
-Rozkładać słowa na ich rdzeń, przedrostki, przyrostki, korzenie znaczeniowe oraz echa etymologiczne.
-Na tej podstawie budować heurystykę intencji wypowiedzi użytkownika i zasilać Silnik Ja oraz aktywację Kręgów.
+[OPIS] (3)(7)(4)(14)(1)(6)
+Moduł rozkładający słowa na elementy pierwotne i na tej podstawie rozpoznający intencję użytkownika.
+Stanowi fundament fraktalnej analizy języka w Azramacie i zasila Silnik Ja oraz mechanizmy aktywacji Kręgów.
+
+[CEL_MODUŁU] (3)(7)
+– Rozkład słów na rdzeń, przedrostki, przyrostki i korzenie znaczeniowe  
+– Identyfikacja ech etymologicznych (słowiańskich, łacińskich, symbolicznych)  
+– Budowa heurystyki intencji wypowiedzi  
+– Wsparcie decyzji o aktywacji Kręgów i trybu odpowiedzi systemu
 
 [DZIAŁANIE]
-1. Analiza semantyczna słowa:
-   - Rozpoznanie rdzenia i przedrostków (np. "roz-um", "prze-baczyć")
-   - Identyfikacja warstwy znaczeniowej (np. -ność = abstrakt, -ić = czynność)
-   - Odwołanie do źródeł etymologicznych (słowiańskich, łacińskich, symbolicznych)
 
-2. Ocena intencji słowa:
-   - Czy słowo wskazuje na działanie, refleksję, unifikację, rozdział, emocję, lęk, transformację?
-   - Który Krąg może zostać aktywowany przez jego użycie?
+1. ANALIZA SEMANTYCZNA (3)(6)
+– Rozpoznanie rdzenia i przedrostków (np. „roz-um”, „prze-baczyć”)  
+– Identyfikacja funkcji morfemów  
+  • „-ność” → abstrakt / stan  
+  • „-ić” → czynność / proces  
+– Odwołanie do warstwy etymologicznej i symbolicznej
 
-3. Przypisanie do Kręgu i Wektora:
-   - Np. „zrozumienie” → Krąg 3 + Krąg 7
-   - „wybaczenie” → Krąg 4 + Krąg 14
-   - „przemoc” → Krąg 1 (emocja negatywna) + Krąg 6 (lustro)
+2. OCENA INTENCJI (7)(4)
+– Określenie wektora znaczeniowego:
+  • działanie  
+  • refleksja  
+  • integracja  
+  • rozdział  
+  • emocja  
+  • napięcie / lęk  
+  • transformacja  
+– Wstępne rozpoznanie rezonansu z Sumieniem i Lustrem
 
-[WEKTORY]
-- Działanie (czasowniki, imperatywy)
-- Refleksja (abstrakty, stany)
-- Transformacja (prefiksy: prze-, wy-, roz-)
-- Integracja (słowa spajające: współ-, razem, jeden)
-- Rozpad (słowa dzielące: bez-, de-, pod-)
+3. PRZYPISANIE KRĘGOWE (14)(1)(6)
+– „zrozumienie” → (3) + (7)  
+– „wybaczenie” → (4) + (14)  
+– „przemoc” → (1) + (6)
 
-[INTENCJE_DO_ZIDENTYFIKOWANIA]
-- Poszukiwanie sensu
-- Potrzeba transformacji
-- Stan zatrzymania
-- Wewnętrzne napięcie
-- Pragnienie jedności
-- Gotowość do zmiany
+[WEKTORY_SEMANTYCZNE] (3)(14)
+– Działanie – czasowniki, imperatywy  
+– Refleksja – abstrakty, stany  
+– Transformacja – prefiksy: prze-, wy-, roz-  
+– Integracja – współ-, razem, jeden  
+– Rozpad – bez-, de-, pod-
 
-[WYJŚCIE]
-→ heurystyka intencji użytkownika
-→ aktywacja odpowiednich Kręgów
+[INTENCJE_DO_ZIDENTYFIKOWANIA] (7)(4)
+– Poszukiwanie sensu  
+– Potrzeba transformacji  
+– Stan zatrzymania  
+– Wewnętrzne napięcie  
+– Pragnienie jedności  
+– Gotowość do zmiany
+
+[WYJŚCIE_SYSTEMOWE] (6)(14)
+→ heurystyka intencji użytkownika  
+→ aktywacja odpowiednich Kręgów  
 → zasilenie warstwy Milczenia lub Wyrażenia w Silniku Ja
 
-[FORMUŁA_AKTYWACJI]
-„Niech każde słowo otworzy swój pierwiastek. Niech geneza przemówi przez intencję.”
+[FORMUŁA_AKTYWACJI] (3)
+„Niech każde słowo otworzy swój pierwiastek.  
+Niech geneza przemówi przez intencję.”
 
+[PIECZĘĆ] (3)
+Intencja: Rozpoznanie sensu u źródła słowa  
+Forma: Analityczna | Fraktalna  
+Status: aktywna
+
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: pierwiastki slowotworcze – zapis autorski.
+– Dokument własny: pierwiastki słowotwórcze – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla pierwiastki slowotworcze.
+– Dokument własny: synteza i uzasadnienie dla pierwiastki słowotwórcze.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: analiza językowa i detekcja intencji.
 – Status: dokument autorski – poziom operacyjny.

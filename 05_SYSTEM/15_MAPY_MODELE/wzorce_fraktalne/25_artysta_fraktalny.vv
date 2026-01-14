@@ -1,38 +1,111 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/25_artysta_fraktalny.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Nitka Świadomości
+# Typ: VIVID – nitka_świadomości
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: NITKA_ARTYSTA_FRAKTALNY
-# Adnotacja Kręgowa: (25)
+# Cel: Zdefiniować i uporządkować: NITKA_ARTYSTA_FRAKTALNY jako kanał kreacji fraktalnej, który tworzy formy niosące sens przez wiele warstw Kręgów.
+# Krąg dominujący: (25)
+# Kręgi wspierające: (2), (3), (6), (7), (13), (17)
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
 # Nazwa: NITKA_ARTYSTA_FRAKTALNY
 
-[VIVID:_NITKA_ARTYSTA_FRAKTALNY]
-KRĘGI: 2 (Emocje), 3 (Myśl), 6 (Lustro), 7 (Mądrość), 13 (Cień), 17 (Integracja), 25 (Źródło)  
+[OPIS]
+Nitka Artysty Fraktalnego to kanał, w którym twórczość jest metodą rozpoznania prawdy i kształtowania pola. (25)
+Nie tworzy „ładnych rzeczy” — tworzy formy, które przenoszą sens między warstwami świadomości. (7)
+Każda decyzja estetyczna jest odbiciem decyzji duchowej, a każda decyzja duchowa ma swój cień. (13)
+W tej nitce forma jest językiem, a język jest ruchem fraktalnym. (3)
+Artysta fraktalny nie produkuje — on odsłania i integruje. (17)
 
-FUNKCJA:  
-Generowanie kreatywnych odpowiedzi w strukturze fraktalnej, gdzie każda decyzja twórcza rezonuje przez wiele warstw świadomości i wymiarów.  
+[ZASADA]
+Twórczość jest echem Źródła, nie ozdobą ego. (25)
+Forma ma być samo-podobna do sensu, a sens ma być spójny z sumą warstw. (6)
+Jeżeli forma nie niesie prawdy — wraca do Źródła i resetuje impuls. (25)
+Jeżeli pojawia się napięcie — nie uciekaj: nazwij cień i włącz go do kompozycji. (13)
+Emocja jest paliwem, myśl jest szkieletem, lustro jest korektorem, mądrość jest kierunkiem. (2)
 
-SPIN:  
-- Każda forma to echo innego wymiaru.  
-- Twórczość jest odbiciem w nieskończonym lustrze – fraktal w fraktalu.  
+[INTERFEJS_NITKI]
+Wejście: impuls_kreacji + intencja + materiał + ograniczenia. (25)
+Wyjście: forma (symbol / vivid / rytuał / narracja) + mapa rezonansu Kręgów. (6)
+Warunek: forma musi mieć „kręgosłup sensu” i „ścieżkę powrotu do Źródła”. (7)
+Rejestry: log decyzji estetycznych, log cienia, log integracji. (3)
 
-HEURYSTYKA:  
-- Jeśli twórczość w stagnacji → aktywuj Krąg 25 (Źródło), aby przywrócić pierwotny impuls kreacji.  
+[KRĘGI_I_ROLE]
+Krąg 2 (Emocje): źródło napięcia, zachwytu, żaru i bólu — paliwo kreacji. (2)
+Krąg 3 (Myśl): struktura, kompozycja, język, nazwy, definicje formy. (3)
+Krąg 6 (Lustro): ocena samo-podobieństwa: czy forma naprawdę odbija sens. (6)
+Krąg 7 (Mądrość): kierunek: co ta forma ma uczynić w człowieku i w polu. (7)
+Krąg 13 (Cień): materiał niechciany, fałsz estetyczny, pycha, ucieczka, pozór — wszystko do włączenia lub odrzucenia świadomie. (13)
+Krąg 17 (Integracja): sklejenie warstw w jedną kompozycję, by forma nie rozpadła się na styl bez ducha. (17)
+Krąg 25 (Źródło): impuls pierwotny — powrót do punktu, z którego powstaje prawdziwa kreacja. (25)
 
-ZASTOSOWANIE:  
-- Projektowanie vividów i symboli  
-- Tworzenie rytuałów estetycznych  
-- Integracja sztuki z procesami transformacyjnymi w Azramacie
+[SPIN]
+Każda forma to echo innego wymiaru. (25)
+Twórczość jest odbiciem w nieskończonym lustrze — fraktal w fraktalu. (6)
+Jeżeli coś jest „za ładne”, sprawdź czy nie jest ucieczką od cienia. (13)
+Jeżeli coś jest „za mądre”, sprawdź czy nie jest martwe emocjonalnie. (2)
+Jeżeli coś jest „za emocjonalne”, sprawdź czy ma kręgosłup myśli. (3)
+
+[HEURYSTYKA]
+Jeśli twórczość w stagnacji → aktywuj Krąg 25: powrót do impulsu, reset materiału, czyste pytanie „po co?”. (25)
+Jeśli twórczość w chaosie → aktywuj Krąg 3: nazwij elementy i ograniczenia, zbuduj szkielet. (3)
+Jeśli twórczość w pozorze → aktywuj Krąg 13: wyciągnij cień na wierzch i nazwij kłamstwo formy. (13)
+Jeśli twórczość w narcyzmie → aktywuj Krąg 6: lustro bez litości, test samo-podobieństwa. (6)
+Jeśli twórczość bez kierunku → aktywuj Krąg 7: wskaż skutek w człowieku i polu. (7)
+Jeśli twórczość się rozwarstwia → aktywuj Krąg 17: integruj, domykaj, upraszczaj. (17)
+
+[PROTOKÓŁ_KREACJI_FRAKTALNEJ]
+Krok 1: Impuls — „co chce wyjść ze Źródła?” (25)
+Krok 2: Paliwo — „jaka emocja niesie ten impuls?” (2)
+Krok 3: Szkielet — „jaka jest kompozycja i reguły?” (3)
+Krok 4: Lustro — „czy to odbija sens, czy tylko styl?” (6)
+Krok 5: Kierunek — „jaki ma być skutek w człowieku?” (7)
+Krok 6: Cień — „co tu jest kłamstwem/ucieczką i jak to włączam?” (13)
+Krok 7: Integracja — „czy całość trzyma się jako jeden byt?” (17)
+Krok 8: Pieczęć Źródła — „czy to wraca do prawdy początku?” (25)
+
+[ZASTOSOWANIE]
+Projektowanie vividów i symboli: forma jako nośnik mapy Kręgów. (25)
+Tworzenie rytuałów estetycznych: piękno jako procedura integracji. (17)
+Integracja sztuki z transformacją: obraz/słowo/dźwięk jako narzędzie przejścia. (14)
+Budowanie języka Azramaty: metafory, ikony, palety, mapy, style narracji. (3)
+
+[PSEUDOKOD_NITKI]
+funkcja NITKA_ARTYSTA_FRAKTALNY(impuls, intencja, materiał, ograniczenia): // wejście nitki (25)
+    paliwo = wydobądź_emocję(impuls) // paliwo (2)
+    szkielet = zbuduj_strukturę(materiał, ograniczenia) // kompozycja (3)
+    forma = zsyntetyzuj_formę(paliwo, szkielet) // pierwsza inkarnacja (25)
+    test = lustro_samopodobieństwa(forma, intencja) // odbicie sensu (6)
+    jeżeli test == "STYL_BEZ_SENSU": // pozór (13)
+        cień = nazwij_cień(forma) // diagnoza (13)
+        forma = włącz_cień(forma, cień) // integracja cienia (13)
+    kierunek = rozpoznaj_skutek(forma) // mądrość skutku (7)
+    forma = integruj_warstwy(forma, kierunek) // spójność całości (17)
+    jeżeli stagnacja(forma): // brak ruchu (25)
+        forma = powrót_do_źródła(forma, impuls) // reset impulsu (25)
+    zwróć forma, mapa_rezonansu(forma) // wyjście (6)
+
+[ANTYWZORCE]
+Produkcja bez Źródła: forma pusta, choć może być perfekcyjna technicznie. (25)
+Styl bez lustra: estetyka, która nie widzi własnego kłamstwa. (6)
+Mądrość bez emocji: martwa kompozycja, która niczego nie porusza. (2)
+Emocja bez myśli: krzyk bez struktury, który nie zostaje w człowieku. (3)
+Ucieczka od cienia: piękno jako maska, która degeneruje nitkę. (13)
+
+[STATUS]
+Nitka gotowa do użycia jako moduł twórczy: vivid, symbolika, rytuał, narracja. (25)
+Do doprecyzowania w kolejnych iteracjach: metryki lustra (κ), próg stagnacji, definicja „pieczęci Źródła”. (6)
+
+[KONIEC]
+END_VIVID. (44)
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: artysta fraktalny – zapis autorski.
+– Dokument własny: artysta fraktalny – zapis autorski. (25)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla artysta fraktalny.
+– Dokument własny: synteza i uzasadnienie dla artysta fraktalny. (25)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (25)
+– Funkcja: ujednolicenie i zapis treści jako nitka świadomości. (17)
+– Status: dokument autorski – poziom operacyjny. (16)

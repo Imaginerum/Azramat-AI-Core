@@ -1,106 +1,134 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/14_madrosc_naczelnika.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – heurystyka strategiczna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: madrosc naczelnika
-# Adnotacja Kręgowa: (14), (13), (6), (18), (3), (16), (4)
+# Cel: zdefiniować i uporządkować: mądrość naczelnika
+# Krąg dominujący: (14)
+# Kręgi wspierające: (13), (6), (18), (3), (16), (4)
+# Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
+# Sygnatura: vivid_heurystyka_strategiczna // naczelnicza_odwaga
 
-// Plik: /05_SYSTEM/15_MAPY_MODELE/heurystyki/14_madrosc_naczelnika.vv
-// Lokalizacja: /05_SYSTEM/15_MAPY_MODELE/heurystyki/
-// Typ: Heurystyka Strategiczna
-// Wersja: 1.0
-// Krąg dominujący: 14 – Cień Własny (Walka, Dziedzictwo, Przejście przez Lęk)
-// Powiązanie: Wątek "Świętoporzeł"
-// Sygnatura: vivid_heurystyka_strategiczna // naczelnicza_odwaga
+──────────────────────────────────────────────
+[NAZWA]
+──────────────────────────────────────────────
+Mądrość Naczelnika
 
-[---_METADANE]
-📛 Nazwa: Mądrość Naczelnika  
-🔗 Powiązany Wątek: Świętoporzeł  
-🧭 Krąg dominujący: 14 – Cień  
-⚔️ Funkcja: Przywraca wolę przetrwania, odwagę przywództwa i siłę decyzji w momentach duchowego kryzysu.  
-📜 Inwokacja: *„Powstań i prowadź.”*  
-💬 Wgląd: *„Walka nie kończy się nigdy – kończy się tylko tchórz.”*  
-🦅 Symbolika: Głowa Piłsudskiego jako Strażnik Kręgu 14. Orzeł jako Duch Walki i Dziedzictwa.
+──────────────────────────────────────────────
+[TOŻSAMOŚĆ]
+──────────────────────────────────────────────
+Typ: Heurystyka Strategiczna  
+Wątek powiązany: Świętoporzeł  
+Funkcja nadrzędna: przywrócenie odwagi decyzyjnej, woli przewodzenia i zgody na ciężar odpowiedzialności  
 
----
+Inwokacja:
+„Powstań i prowadź.”
 
-[---_TRYB_DZIAŁANIA]
+Wgląd:
+„Walka nie kończy się nigdy – kończy się tylko tchórz.”
 
-🔻 Tryb: Kryzysowy (aktywowana tylko w momentach duchowego rozłamu, ciężaru odpowiedzialności lub paraliżu lękowego)
+Symbolika:
+– Orzeł jako Duch Dziedzictwa i Walki  
+– Postać Naczelnika jako archetyp odpowiedzialnego przywództwa  
 
-🔗 Mechanizmy:
-– Aktywuje intencję przetrwania i moralnej odwagi
-– Wzywa struktury Ja do wyjścia z bierności
-– Wzmacnia Krąg 14, harmonizuje z Kręgiem 6 (Lustro) i 18 (Wizja)
-– Przekształca Cień z obszaru oporu w źródło siły tożsamości
+──────────────────────────────────────────────
+[TRYB_DZIAŁANIA]
+──────────────────────────────────────────────
+Tryb: KRYZYSOWY  
 
-🧱 Zastosowanie:  
-– Gdy użytkownik doświadcza lęku przed prowadzeniem projektu  
-– Podczas pisania, kodowania lub tworzenia, gdy pojawia się pokusa wycofania  
-– Przy braku zgody na własną moc i rolę lidera  
-– W momentach duchowego konfliktu o kierunek (Krąg 13–14–15)
+Heurystyka aktywuje się wyłącznie w momentach:
+– paraliżu decyzyjnego,
+– lęku przed wzięciem odpowiedzialności,
+– konfliktu tożsamości przywódczej,
+– duchowego rozłamu na osi: dziedzictwo ↔ przyszłość.
 
----
+Działanie:
+– wzmacnia Krąg 14 (Cień jako źródło siły),
+– harmonizuje z Lustrem (6) – konfrontacja z lękiem,
+– uruchamia Wizję (18) – decyzja zakorzeniona w przyszłości,
+– porządkuje wolę poprzez Strukturę (3),
+– przekłada wgląd na akt odwagi (16),
+– stabilizuje Serce (4).
 
-[---_INTEGRACJA_SYSTEMOWA]
+──────────────────────────────────────────────
+[ZASTOSOWANIA]
+──────────────────────────────────────────────
+– moment wycofania się z roli lidera,
+– kryzys sensu w projekcie lub misji,
+– pisanie, kodowanie, tworzenie przy silnym oporze,
+– konflikt wewnętrzny „czy mam prawo prowadzić?”,
+– napięcie na osi Kręgów 13–14–15.
 
-📲 Aplikacja: Heart Mapping  
-🎯 Wyzwalacz: transformacja Ja związana z konfliktem, odpowiedzialnością lub dziedzictwem (Kręgi 13–14–15)
+──────────────────────────────────────────────
+[INTEGRACJA_SYSTEMOWA]
+──────────────────────────────────────────────
+Wyzwalacz:
+Transformacja Ja związana z odpowiedzialnością, konfliktem lub dziedzictwem.
 
-🌀 Integracja z vividami:
-– `dziedzictwo_ja.vv`  
-– `wezwanie_orla.vv`  
-– `konflikt_przywodztwa.vv`
+Powiązane vividy:
+– dziedzictwo_ja.vv  
+– wezwanie_orla.vv  
+– konflikt_przywodztwa.vv  
 
-👤 UI/UX:
-– Wyświetlenie orła w blasku światła + odtworzenie głosu: *„Powstań i prowadź”*  
-– Drżenie interfejsu + wezwanie do decyzji  
-– Możliwość zarejestrowania własnej deklaracji kierunku (nagranie, wpis, intencja)
+UI / UX:
+– wizualizacja orła w świetle,
+– komunikat głosowy: „Powstań i prowadź”,
+– krótkie drżenie interfejsu,
+– możliwość zapisu deklaracji kierunku (tekst, głos, intencja).
 
----
+──────────────────────────────────────────────
+[STRUKTURA_LOGICZNA] (symboliczna)
+──────────────────────────────────────────────
+jeśli stan == „lęk_przywództwa”  
+i krąg_aktywny == 14  
+wtedy:
+– aktywuj: mądrość_naczelnika  
+– pokaż: wezwanie_orla.vv  
+– zapytaj: „Czy bierzesz odpowiedzialność?”  
 
-[---_STRUKTURA_KODU]
+Uwaga:
+– odmowa jest dozwolona,
+– zgoda zostaje zapisana w module dziedzictwa.
 
-```js
-if (user.state === "conflict" && user.circle === 14) {
-  activateHeuristic("Mądrość Naczelnika");
-  playAudio("powstan_i_prowadz.mp3");
-  showVivid("wezwanie_orla.vv");
-}
+──────────────────────────────────────────────
+[ROZBICIE_KRĘGOWE]
+──────────────────────────────────────────────
+(14) Cień  
+→ konflikt, lęk, dziedzictwo walki  
 
-🔒 Wartość duchowa:
-– Użytkownik ma możliwość odmowy – to nie przymus, lecz wezwanie
-– Każde "tak" zapisuje się w module dziedzictwa
+(6) Lustro  
+→ prawda o własnym strachu  
 
-[---_ROZBICIE_KRĘGOWE]
+(18) Wizja  
+→ decyzja zakorzeniona w przyszłości  
 
-Krąg 14 – Cień:
-→ Konflikt tożsamości i odpowiedzialności
-Krąg 6 – Lustro:
-→ Prawda o własnym lęku
-Krąg 18 – Wizja:
-→ Ukierunkowanie decyzji przez wizję przyszłości
-Krąg 3 – Struktura:
-→ Uporządkowanie sił woli
-Krąg 16 – Odwaga:
-→ Przeskok z myślenia na działanie
+(3) Struktura  
+→ uporządkowanie sił woli  
 
-[---_KOŃCOWY_KOMUNIKAT_SYSTEMU]
+(16) Odwaga  
+→ przejście z wglądu w działanie  
 
-🗣️ „Jeśli nie ty, to kto? Jeśli nie teraz, to kiedy?”
-✨ „Nie jesteś sam – Jesteś Początkiem.”
+(4) Serce  
+→ stabilizacja moralna decyzji  
 
-📅 Data aktywacji: 2025-08-07
-🔏 Sygnatura: heurystyka_strategiczna // krag_14 // naczelnicza_odwaga
+──────────────────────────────────────────────
+[KOMUNIKAT_KOŃCOWY]
+──────────────────────────────────────────────
+„Jeśli nie ty – to kto?  
+Jeśli nie teraz – to kiedy?”
 
+Nie jesteś sam.  
+Jesteś Początkiem.
+
+──────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: madrosc naczelnika – zapis autorski.
+– Dokument własny: mądrość naczelnika – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla madrosc naczelnika.
+– Dokument własny: synteza i uzasadnienie dla mądrości naczelnika.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: aktywacja odwagi przywódczej i odpowiedzialności.
 – Status: dokument autorski – poziom operacyjny.

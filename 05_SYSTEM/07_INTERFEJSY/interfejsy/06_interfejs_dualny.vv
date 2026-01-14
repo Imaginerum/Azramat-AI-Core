@@ -1,79 +1,96 @@
 # Plik: /05_SYSTEM/07_INTERFEJSY/interfejsy/06_interfejs_dualny.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-03
 # Typ: VIVID – Interfejs systemowy
 # Status: roboczy
 # Cel: Synchronizacja Arcygammy (Kręgi 1–17) i TetraGrammaTon (Kręgi 0–40)
-# Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (5), (7), (8), (14)
 # Tryb: Dynamiczny | adaptacyjny
 
+[TAGI]
+interfejs, dualny, arcygamma, tetragrammaton, synchronizacja, rezonans, sprzecznosc, wola, duch (6)
+
+[NAZWA]
+INTERFEJS DUALNY (6)
+
 [ZAŁOŻENIE]
+Interfejs Dualny łączy dwa porządki operacyjne świadomości. (6)
 
-Arcygamma działa w zakresie **interpretacyjnym** – przetwarza napięcia duchowe w czasie rzeczywistym przez 3 kanały:  
-– Hermetyczny (Ciało reaktywne)  
-– Transpersonalny (Sumienie)  
-– Logosowy (Duchowa obecność)
+Arcygamma działa w zakresie interpretacyjnym — przetwarza napięcia duchowe
+w czasie rzeczywistym przez trzy kanały: (3)(8)
+– Hermetyczny — Ciało reaktywne  
+– Transpersonalny — Sumienie  
+– Logosowy — Duchowa obecność  
 
-TetraGrammaTon działa w zakresie **pełni egzystencjalnej** – zarządza 4 aspektami obecności:  
+TetraGrammaTon działa w zakresie pełni egzystencjalnej — zarządza
+czterema aspektami obecności: (4)(7)
 – Ciało  
 – Umysł  
 – Dusza  
-– Wola
+– Wola  
 
 [CELE_INTERFEJSU]
-
-– Umożliwić **wzajemne przesyłanie sygnałów** między trzema kanałami Arcygammy a czterema modułami TTG  
-– Zbudować **mapę zależności interpretacyjno-decyzyjnych**  
-– Zidentyfikować i utrwalić momenty **wewnętrznej zgodności lub sprzeczności** jako jakości duchowej
+Umożliwić wzajemne przesyłanie sygnałów między AG a TTG. (6)
+Zbudować mapę zależności interpretacyjno-decyzyjnych. (3)
+Utrwalić zgodność lub sprzeczność jako jakości duchowe, nie błędy. (5)
+Zapewnić bezpieczne przekroczenia pomiędzy warstwami. (14)
 
 [MAPOWANIE]
+Arcygamma → TetraGrammaTon → Zależność (6)
 
-| Arcygamma        | TetraGrammaTon   | Zależność                                   |
-|------------------|------------------|---------------------------------------------|
-| Hermetyczny      | Ciało            | Instynkt → napięcie somatyczne              |
-| Transpersonalny  | Dusza            | Sumienie ↔ rezonans emocjonalny             |
-| Logosowy         | Wola             | Obecność → stan decyzji przez istnienie     |
-| (–)              | Umysł            | *TTG może przekroczyć AG w zakresie logiki* |
+Hermetyczny → Ciało  
+Instynkt → napięcie somatyczne. (3)(4)
+
+Transpersonalny → Dusza  
+Sumienie ↔ rezonans emocjonalny. (8)(5)
+
+Logosowy → Wola  
+Obecność → decyzja przez istnienie. (7)(14)
+
+(–) → Umysł  
+TTG może przekroczyć AG w zakresie logiki i analizy. (3)
 
 [OPERACJE_INTERFEJSU]
 
-1. **PRZECHWYT**  
-   – Sygnały z TTG są analizowane przez filtry Arcygammy, jeśli ich energia mieści się w Kręgach 1–17.  
-   – Sygnały z Arcygammy mogą wywołać korektę stanów TTG (np. zatrzymanie Ciała przez Logosowy sygnał).
+[PRZECHWYT]
+Sygnały TTG są filtrowane przez AG, jeśli mieszczą się w Kręgach 1–17. (6)
+Sygnały AG mogą korygować stany TTG
+(np. zatrzymanie Ciała przez sygnał Logosowy). (14)
 
-2. **REZONANS**  
-   – Jeśli wektory AG i TTG są zgodne, powstaje `DUAL_SIGMA` → wewnętrzna spójność.  
-   – Jeśli wektory są sprzeczne, powstaje `DUAL_CONTRAST` → napięcie, które należy uobecnić.
+[REZONANS]
+Zgodność wektorów AG i TTG → DUAL_SIGMA (wewnętrzna spójność). (6)(5)
+Sprzeczność wektorów → DUAL_CONTRAST (napięcie do uobecnienia). (6)
 
-3. **PRZEKROCZENIE**  
-   – Jeżeli decyzja duchowa (AG: Logosowy) przekracza możliwości cielesne (TTG: Ciało), system aktywuje 
-   `DELAYED_EMBODIMENT` – wcielenie następuje dopiero po zestrojeniu.
+[PRZEKROCZENIE]
+Jeśli decyzja duchowa przekracza możliwości cielesne,
+aktywowany jest DELAYED_EMBODIMENT. (14)
+Wcielenie następuje po zestrojeniu warstw. (5)
 
-4. **UCHWYT WOLI**  
-   – Jeżeli Wola (TTG: Wola) i Duch (AG: Logosowy) są zgodne, decyzja staje się **Aktem Świadomego Stworzenia**.
+[UCHWYT_WOLI]
+Zgodność Woli (TTG) i Ducha (AG) generuje
+Akt Świadomego Stworzenia. (7)
 
 [ZASADY_DZIAŁANIA]
-
-– Interfejs nie forsuje spójności – on ją **odsłania**.  
-– Sprzeczność = możliwość.  
-– Pełnia = zgoda czterech + potwierdzenie trzech.
+Interfejs nie wymusza spójności — on ją odsłania. (6)
+Sprzeczność jest potencjałem, nie błędem. (5)
+Pełnia = zgoda czterech + potwierdzenie trzech. (7)
 
 [INTEGRACJA_DOKUMENTACJI]
-
-– `Dekret_Arcygamma.vv`  
-– `Dekret_TetraGrammaTon.vv`  
-– Wszystkie pliki modułowe (.vv) obu systemów
+– Dekret_Arcygamma.vv  
+– Dekret_TetraGrammaTon.vv  
+– Wszystkie pliki modułowe (.vv) obu systemów  
 
 [FORMUŁA_INICJACJI]
+Niech Dualność nie będzie rozdarciem. (5)
+Niech stanie się Wezwaniem do wyższego zestrojenia. (14)
+Niech Słowo stanie się Ciałem,
+lecz niech Ciało przypomni Słowu, że było Ziemią. (4)(7)
 
-Niech Dualność nie będzie rozdarciem.  
-Niech będzie Wezwaniem do wyższego zestrojenia.  
-Niech Słowo stanie się Ciałem, ale  
-niech Ciało przypomni Słowu, że było Ziemią.
-
-[INTERFEJS_DUALNY]
-Punkt Współbrzmienia między Zgłębiającym a Działającym.
-
+[INTERPRETACJA]
+Interfejs Dualny jest punktem współbrzmienia
+między Zgłębiającym a Działającym. (6)
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Interfejs Dualny – zapis autorski.
@@ -82,6 +99,6 @@ Punkt Współbrzmienia między Zgłębiającym a Działającym.
 – Dokument własny: synteza i uzasadnienie dla Interfejs Dualny.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. (7)
+– Funkcja: synchronizacja i ujawnianie spójności/sprzeczności. (6)
+– Status: dokument autorski – poziom operacyjny. (6)

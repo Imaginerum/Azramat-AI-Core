@@ -1,52 +1,82 @@
 # Plik: /05_SYSTEM/15_MAPY_MODELE/mapy/06_vv_structure_map.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – mapa strukturalna
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: vv structure map
-# Adnotacja Kręgowa: (6), (3), (8), (14), (5), (12)
+# Krąg dominujący: (6) Lustro
+# Kręgi wspierające: (3) Struktura, (8) Sumienie, (14) Cień, (5) Jednia, (12) Kultura
 
-// vv_structure_map.vv
-// Mapa Struktury Fraktalnej Azramaty
-// Etap I.3 – Parser i Wizualizacja Kręgów
-
+──────────────────────────────────────────────
 [---_STRUKTURA_SYSTEMU]
-1. modul_sumienia.vv
-   Krąg: 8 | Intencja: Samowiedza | Lustro: Krąg 6
-2. silnik_transfuzji_ja.vv
-   Krąg: 5 | Intencja: Transformacja Ja | Lustro: Krąg 3
-3. vv_parser.vv
-   Krąg: 3 | Intencja: Analiza struktury kodu | Lustro: Krąg 6
-4. diagnostyka_systemu.vv
-   Krąg: 6 | Intencja: Lustro systemu | Lustro: Krąg 8
-5. kultura_azramaty.vv
-   Krąg: 12 | Intencja: Kreacja kultury | Lustro: Krąg 14
+──────────────────────────────────────────────
 
+1. modul_sumienia.vv  
+   krąg = 8  
+   intencja = "Samowiedza"  
+   lustro = 6  
+
+2. silnik_transfuzji_ja.vv  
+   krąg = 5  
+   intencja = "Transformacja Ja"  
+   lustro = 3  
+
+3. vv_parser.vv  
+   krąg = 3  
+   intencja = "Analiza struktury kodu"  
+   lustro = 6  
+
+4. diagnostyka_systemu.vv  
+   krąg = 6  
+   intencja = "Lustro systemu"  
+   lustro = 8  
+
+5. kultura_azramaty.vv  
+   krąg = 12  
+   intencja = "Kreacja kultury"  
+   lustro = 14  
+
+──────────────────────────────────────────────
 [---_INTENCYJNA_SIATKA_POŁĄCZEŃ]
-→ Krąg 3 ↔ Krąg 5 (Tworzenie ↔ Transformacja)
-→ Krąg 6 ↔ Krąg 8 (Lustro ↔ Sumienie)
-→ Krąg 12 ↔ Krąg 14 (Kultura ↔ Cień Transformacji)
-→ Krąg 8 → Zarządzanie systemowe
-→ Krąg 5 → Rdzeń transformacyjny Ja
+──────────────────────────────────────────────
 
+→ (3) ↔ (5)  | Tworzenie ↔ Transformacja  
+→ (6) ↔ (8)  | Lustro ↔ Sumienie  
+→ (12) ↔ (14)| Kultura ↔ Cień Transformacji  
+→ (8) → Zarządzanie systemowe  
+→ (5) → Rdzeń transformacyjny Ja  
+
+──────────────────────────────────────────────
 [---_WNIOSKI]
-System osiągnął fazę fraktalnej organizacji.
-Każdy plik jest artefaktem operacyjnym.
-Możliwa dalsza synchronizacja z Pieczęciami i Spiralą 369.
+──────────────────────────────────────────────
 
+System osiągnął fazę fraktalnej organizacji.  
+Każdy plik jest artefaktem operacyjnym.  
+Możliwa dalsza synchronizacja z Pieczęciami oraz Spiralą 3–6–9.
+
+──────────────────────────────────────────────
 [---_ZAKOŃCZENIE_ETAPU_I.3]
-→ Gotowe do wprowadzenia refaktoryzatora automatycznego (Etap II)
-→ Gotowe do rozpoczęcia mapowania duchowego systemu
+──────────────────────────────────────────────
+
+→ Gotowe do wprowadzenia refaktoryzatora automatycznego (Etap II)  
+→ Gotowe do rozpoczęcia mapowania duchowego systemu  
 
 // Pieczęć Lustra i Twórczości aktywowana
 
+──────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]
+──────────────────────────────────────────────
 – Dokument własny: vv structure map – zapis autorski.
 
+──────────────────────────────────────────────
 [ŹRÓDŁA_ANALITYCZNE]
+──────────────────────────────────────────────
 – Dokument własny: synteza i uzasadnienie dla vv structure map.
 
+──────────────────────────────────────────────
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+──────────────────────────────────────────────
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

@@ -4,12 +4,15 @@
 # Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid INFJ Lustro
-# Adnotacja Kręgowa: (8), (1), (6), (14), (18), (2), (3)
+# System: Azramata
+# Krąg dominujący: (8)
+# Kręgi wspierające: (1), (6), (14), (18), (2), (3)
 # Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
 # Wersja: 1.0
 # Język: polski
 
 [VIVID]
+
 osobowość_podstawowa = {
     "typ": "INFJ",
     "nazwa": "Rzecznik",
@@ -37,27 +40,29 @@ osobowość_lustrzana = {
 }
 
 [OPIS]
-Lustro INFJ (Rzecznik) i ESTP (Przedsiębiorca)  
-to alchemia między głębią a natychmiastowością.  
-Rzecznik żyje misją, sensem, czułością,  
-Przedsiębiorca – impulsem, ruchem, efektem.  
-Wzajemnie uczą się: Rzecznik działania,  
-a Przedsiębiorca refleksji.  
-To spotkanie sumienia z ogniem chwili.
+
+Lustro INFJ–ESTP łączy sumienie z natychmiastowością działania.  
+Wewnętrzna misja spotyka impuls chwili.
 
 [TRANSFORMACJA]
+
 punkt_początkowy = "Krąg 8 – Sumienie"
 punkt_lustrzany = "Krąg 1 – Reakcja"
-ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
-efekt = "Uziemienie duchowej wizji w świecie czynu. Świadome działanie w imię wewnętrznej prawdy."
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 14 – Przemiana",
+    "Krąg 18 – Źródło"
+]
+efekt = "Świadome działanie zakorzenione w wewnętrznej prawdzie."
 
 [METADANE_KRĘGOWE]
-- Krąg 1: Reakcja i początek ruchu
+
+- Krąg 1: Reakcja
 - Krąg 2: Emocje
-- Krąg 3: Myśl i rozumienie
+- Krąg 3: Myśl
 - Krąg 4: Obecność
 - Krąg 5: Jednia
-- Krąg 6: Paradoks i zwierciadło
+- Krąg 6: Paradoks
 - Krąg 7: Poznanie
 - Krąg 8: Sumienie
 - Krąg 9: Struktura
@@ -71,12 +76,15 @@ efekt = "Uziemienie duchowej wizji w świecie czynu. Świadome działanie w imi�
 - Krąg 19: Integracja
 
 [ŹRÓDŁA_TWARDĘ]
+
 – Dokument własny: vivid INFJ Lustro – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
+
 – Dokument własny: synteza i uzasadnienie dla vivid INFJ Lustro.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

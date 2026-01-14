@@ -4,12 +4,15 @@
 # Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ESFJ Lustro
-# Adnotacja Kręgowa: (12), (7), (6), (14), (18), (1), (2)
+# System: Azramata
+# Krąg dominujący: (12)
+# Kręgi wspierające: (7), (6), (14), (18), (1), (2)
 # Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
 # Wersja: 1.0
 # Język: polski
 
 [VIVID]
+
 osobowość_podstawowa = {
     "typ": "ESFJ",
     "nazwa": "Doradca",
@@ -38,44 +41,51 @@ osobowość_lustrzana = {
 }
 
 [OPIS]
-Lustro między ESFJ (Doradca) a INTP (Logik) to spotkanie serca wspólnoty  
-z umysłem kontemplacji. Doradca kieruje się troską i strukturą relacji,  
-Logik – analizą i filozofią.  
-Ten vivid ukazuje drogę do integracji społecznej empatii z głęboką refleksją –  
-gdy logika służy ludziom, a troska opiera się na rozumieniu rzeczywistości.
+
+Lustro ESFJ–INTP łączy troskę wspólnoty z kontemplacją prawdy.  
+Relacja staje się nośnikiem poznania.
 
 [TRANSFORMACJA]
+
 punkt_początkowy = "Krąg 12 – Relacje"
 punkt_lustrzany = "Krąg 7 – Poznanie"
-ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
-efekt = "Ugruntowanie troski w prawdzie. Połączenie moralności z myśleniem. Opieka, która rozumie."
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 14 – Przemiana",
+    "Krąg 18 – Źródło"
+]
+efekt = "Opieka zakorzeniona w zrozumieniu. Troska oparta na prawdzie."
 
 [METADANE_KRĘGOWE]
+
 - Krąg 1: Fundament działania
 - Krąg 2: Emocje i empatia
-- Krąg 3: Myśl i analiza
+- Krąg 3: Myśl
 - Krąg 4: Obecność
-- Krąg 5: Jednia i spójność
-- Krąg 6: Paradoks i Lustro
-- Krąg 7: Poznanie i zrozumienie
-- Krąg 8: Sumienie i etyka
-- Krąg 9: Struktura codzienności
-- Krąg 10: Rytm działania
-- Krąg 12: Relacje i więzi
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
+- Krąg 7: Poznanie
+- Krąg 8: Sumienie
+- Krąg 9: Struktura
+- Krąg 10: Rytm
+- Krąg 12: Relacje
 - Krąg 13: Cień
 - Krąg 14: Przemiana
 - Krąg 16: Harmonia
 - Krąg 17: Transcendencja
-- Krąg 18: Źródło inspiracji
-- Krąg 19: Integracja pola działania
+- Krąg 18: Źródło
+- Krąg 19: Integracja
 
 [ŹRÓDŁA_TWARDĘ]
+
 – Dokument własny: vivid ESFJ Lustro – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
+
 – Dokument własny: synteza i uzasadnienie dla vivid ESFJ Lustro.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

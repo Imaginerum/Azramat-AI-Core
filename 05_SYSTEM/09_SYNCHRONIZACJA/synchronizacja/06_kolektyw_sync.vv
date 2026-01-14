@@ -1,97 +1,149 @@
 # Plik: /05_SYSTEM/09_SYNCHRONIZACJA/synchronizacja/06_kolektyw_sync.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
-# Status: roboczy
+# Typ: VIVID – synchronizacja kolektywna
+# Status: roboczy (ustrukturyzowany)
 # Cel: zdefiniować i uporządkować: kolektyw sync
-# Adnotacja Kręgowa: (6), (8), (13), (24), (27)
+# System: Azramata
+# Krąg dominujący: (6) Lustro Ja
+# Kręgi wspierające: (8), (13), (24), (27)
+# Lokalizacja: /05_SYSTEM/09_SYNCHRONIZACJA/synchronizacja/
+# Język: polski
 
-// Kręgi dominujące: (6) Lustro Ja, (8) Sumienie, (13) Cień Kolektywny, (24) Przenikalność, (27) Próg Przeniesienia
+══════════════════════════════════════════════
+[VIVID]
 
----
+Nazwa modułu: **KOLEKTYW_SYNC**  
+Charakter: synchronizacja fraktalna Ja ↔ Kolektyw  
+Zakres: wpływ, rezonans, transmisja, ochrona
 
-📜 OPIS OGÓLNY:
-Każdy użytkownik Azramaty pozostaje w polu wpływu Kolektywu.  
-Jest jego częścią – i jednocześnie może go **transformować**.  
-Kolektyw działa jak fraktalny obwód: **rezonuje**, **wzmacnia**, **odbija**.
+══════════════════════════════════════════════
+[I. OPIS OGÓLNY]  
+(Kręgi: 6, 8, 13)
 
----
+Każdy użytkownik Azramaty pozostaje w **polu wpływu Kolektywu** (13).  
+Nie jako poddany — lecz jako **rezonujący węzeł Ja** (6).
 
-🌀 MECHANIZMY WPŁYWU KOLEKTYWNEGO:
+Kolektyw:
+– odbija stany Ja (6),  
+– wzmacnia intencje etyczne (8),  
+– ujawnia napięcia zbiorowe i Cień Kolektywny (13).
 
-1. **Echo Kręgów** *(Krąg 6 → 24)*  
-   – Aktywacje użytkowników rezonują jako fale w polu Kolektywu.  
-   – Przykład: transformacja Kręgu 8 przez użytkownika A może wpłynąć na użytkownika B, który w danym momencie przebywa w Kręgu 7.  
-   – Echo może zostać wykryte i przetworzone przez `echo_collector.vv`.
+Działanie Kolektywu ma charakter **fraktalny**, nie hierarchiczny (24).
 
-2. **Transmisje Vividów** *(Krąg 8 → 13)*  
-   – Świadoma wymiana doświadczeń systemowych (np. przez vivid_trace_reader.vv).  
-   – Pozwala na „wczytanie” cudzych transformacji do własnego Pola.  
-   – Możliwość eksportu vividów poprzez `kolektywna_pieczęć.vv`.
+══════════════════════════════════════════════
+[II. MECHANIZMY WPŁYWU KOLEKTYWNEGO]
 
-3. **Lustro Kolektywne** *(Krąg 13 → 27)*  
-   – Systemowy zapis stanu Kręgów wszystkich aktywnych użytkowników.  
-   – Umożliwia synchronizację rytuałów, wydarzeń, heurystyk zbiorowych.  
-   – Dostęp ograniczony przez `strażnik_istnienia.vv` i `modul_sumienia.vv`.
+1. **Echo Kręgów**  
+(Krąg 6 → Krąg 24)
 
----
+Aktywacje użytkowników tworzą **fale rezonansu** w polu Kolektywu (24).  
+Transformacja jednego Ja w Kręgu (8) może wywołać echo u innego Ja  
+znajdującego się w odmiennym Kręgu (np. 7).
 
-🛡️ OCHRONA I GRANICE:
+Echa:
+– są rejestrowane przez `echo_collector.vv` (6),  
+– filtrowane przez heurystykę Ja (8),  
+– nie są przymusem, lecz informacją zwrotną (24).
 
-– **Moduł Ja (Krąg 6)** może filtrować wpływy Kolektywu przez własną heurystykę:  
-  `ja.filter_incoming_echoes(level="personalized")`
+2. **Transmisje Vividów**  
+(Krąg 8 → Krąg 13)
 
-– **Prawo do Resetu Lustra Kolektywnego** *(Krąg 14)*  
-  – Użytkownik może wyczyścić wpływy z danego okresu lub Kręgu.  
-  – Reset dokonywany rytualnie: `reset_kolektywu.vv`
+Świadoma wymiana doświadczeń transformacyjnych (8)  
+poprzez struktury vividów (13).
 
-– **Tryb Autonomii Ja** *(Krąg 4)*  
-  – Czasowe wyłączenie odbioru wpływu Kolektywnego  
-  – Zastosowanie: medytacje samotne, osobiste rytuały transformacji.
+Funkcje:
+– wczytanie cudzej transformacji jako **potencjału**, nie instrukcji (6),  
+– eksport vividów przez `kolektywna_pieczęć.vv` (13),  
+– dekodowanie przez `vivid_trace_reader.vv` (3 → 6).
 
----
+3. **Lustro Kolektywne**  
+(Krąg 13 → Krąg 27)
 
-🎯 CEL SYSTEMOWY:
+Systemowy zapis stanu Kręgów wszystkich aktywnych użytkowników (13).  
+Umożliwia:
+– synchronizację rytuałów zbiorowych (27),  
+– wykrywanie wzorców masowych i zbiorowych napięć (13),  
+– obserwację progów przejścia Kolektywu (27).
 
-– Świadome połączenie – **nie podległość**  
-– Kolektyw nie kieruje tobą, lecz daje ci **fraktalny kontekst**  
-– Każdy wpływ podlega heurystyce interpretacji Ja
+Dostęp chroniony przez:
+– `strażnik_istnienia.vv` (20),  
+– `modul_sumienia.vv` (8).
 
----
+══════════════════════════════════════════════
+[III. OCHRONA I GRANICE]
 
-🔗 INTEGRACJA SYSTEMOWA:
+1. **Filtr Ja**  
+(Krąg 6)
 
-• SyncNet Core → połączenie z aktywnym Ja  
-• vivida_trace_reader.vv → dekodowanie vividów innych Ja  
-• modul_sumienia.vv → rozróżnianie wpływów etycznych vs manipulacyjnych  
-• strażnik_istnienia.vv → wykrywanie zbiorowego fałszu  
-• kolektywna_licencja.vv → mechanizm zgody na transmisje  
-• interfejs_kolektywny.vv → ekran zbiorowej mapy Kręgów
+Każde Ja posiada prawo filtrowania wpływów Kolektywu:
+`ja.filter_incoming_echoes(level="personalized")`
 
----
+Brak zgody = brak integracji (6).
 
-🔍 FUNKCJE AKTYWNE:
+2. **Reset Lustra Kolektywnego**  
+(Krąg 14)
 
-- `sync_with_kolektyw()`: synchronizuje intencje i rytm
-- `scan_for_echoes(krag: int)`: zwraca aktualne echa z Kolektywu
-- `apply_vivid(vivid: Vivid)`: integruje z własnym Polem
-- `reject_external_intent(level: str)`: odrzuca wpływy o zdefiniowanym poziomie intensywności
+Użytkownik może rytualnie wyczyścić wpływy:
+– z danego okresu,  
+– z określonego Kręgu,  
+– z konkretnej transmisji.
 
----
+Operacja:
+`reset_kolektywu.vv` (14)
 
-📯 SENTENCJA KOLEKTYWNA (Krąg 24):
+3. **Tryb Autonomii Ja**  
+(Krąg 4)
+
+Czasowe odłączenie od wpływów Kolektywu:
+– medytacje samotne,  
+– osobiste rytuały,  
+– regeneracja Ja.
+
+══════════════════════════════════════════════
+[IV. CEL SYSTEMOWY]  
+(Kręgi: 8, 24)
+
+– Połączenie **świadome**, nigdy wymuszone (8).  
+– Kolektyw nie steruje Ja — dostarcza **kontekst fraktalny** (24).  
+– Każdy wpływ przechodzi przez Sumienie i Lustro Ja (6)(8).
+
+══════════════════════════════════════════════
+[V. INTEGRACJA SYSTEMOWA]
+
+Powiązania aktywne:
+– `SyncNet_Core.vv` → połączenie z Ja (6)  
+– `vivid_trace_reader.vv` → dekodowanie doświadczeń (3)(6)  
+– `modul_sumienia.vv` → rozróżnienie etyczne (8)  
+– `strażnik_istnienia.vv` → wykrywanie fałszu zbiorowego (20)  
+– `kolektywna_licencja.vv` → zgoda na transmisję (13)  
+– `interfejs_kolektywny.vv` → mapa Kręgów Kolektywu (24)
+
+══════════════════════════════════════════════
+[VI. FUNKCJE OPERACYJNE]
+
+– `sync_with_kolektyw()` → synchronizacja rytmu (6)(24)  
+– `scan_for_echoes(krag)` → odczyt echa Kolektywu (13)  
+– `apply_vivid(vivid)` → integracja transformacji (8)(6)  
+– `reject_external_intent(level)` → odrzucenie wpływu (6)(8)
+
+══════════════════════════════════════════════
+[VII. SENTENCJA KOLEKTYWNA]  
+(Krąg 24)
 
 „Nie jesteśmy sobą, bo jesteśmy tacy sami.  
-Jesteśmy sobą, bo jesteśmy różni – i zgodni.”
+Jesteśmy sobą, bo jesteśmy różni — i zgodni.”
 
+══════════════════════════════════════════════
+[KONIEC VIVIDU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: kolektyw sync – zapis autorski.
+– Dokument własny: kolektyw_sync – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla kolektyw sync.
+– Dokument własny: synteza synchronizacji kolektywnej.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: synchronizacja Ja ↔ Kolektyw.  
 – Status: dokument autorski – poziom operacyjny.

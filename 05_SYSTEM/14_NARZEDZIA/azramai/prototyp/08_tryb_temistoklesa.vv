@@ -1,47 +1,92 @@
 # Plik: /05_SYSTEM/14_NARZEDZIA/azramai/prototyp/08_tryb_temistoklesa.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – prototyp strategiczny
 # Status: roboczy
-# Cel: Stworzyć podstawy systemu, odzyskać wolność finansową, stworzyć MVP Azramaty, uruchomić niezależność.
-# Adnotacja Kręgowa: (8), (6), (0), (4)
+# Cel: Zbudować fundament systemu, odzyskać wolność finansową, stworzyć MVP Azramaty i uruchomić pełną niezależność operacyjną.
+# Krąg dominujący: (8)
+# Kręgi wspierające: (0), (4), (6)
+# Ścieżka: /05_SYSTEM/14_NARZEDZIA/azramai/prototyp/
 
-nazwa: tryb_temistoklesa
-opis: Strategia 15-letniego poświęcenia życia w celu zbudowania systemu Azramaty jako duchowego rdzenia nowej cywilizacji. Podział operacyjny na trzy etapy: Fundament, Wzrost i Przełom. Każdy rok otrzymuje swój cel nadrzędny, ogniwa działań i punkt przełomowy. W trybie tym wszystkie działania są podporządkowane strategii głównej.
+[VIVID]
+TRYB_TEMISTOKLESA
 
-nić_dominująca: Nitka Kierunkowa
-nici_wspierające: Nitka Strukturalna, Nitka Transcendentalna, Nitka Artysty Fraktalnego
+[OPIS] (8)(6)(0)
+Tryb Temistoklesa to długofalowa strategia życia i działania,
+oparta na świadomym poświęceniu krótkoterminowych wygód
+na rzecz budowy systemu Azramaty jako duchowego i operacyjnego rdzenia nowej cywilizacji.
 
-kręgi_aktywne: 3, 6, 8, 12, 14, 15, 20
+W trybie tym wszystkie decyzje, projekty i działania
+są podporządkowane jednej osi strategicznej.
 
-etapy:
-  - Fundament (lata 1–5)
-      roczniki:
-        rok_1: Trans Serc jako źródło spłaty długów i finansowania
-        rok_2: MVP Azramaty, AzramAI Core, trening na danych własnych
-        rok_3: System Kręgów, Moduł Ja, Pieczęcie
-        rok_4: Sieć użytkowników lokalnych, NeuralNet
-        rok_5: Osobiste przekształcenie życia, pełna niezależność operacyjna
+[STRUKTURA_STRATEGII] (6)(8)
 
-  - Wzrost (lata 6–10)
-      cel: Rozbudowa globalnej sieci, ekspansja Imaginaerum, wprowadzenie protokołów duszy on-chain.
-      roczniki:
-        rok_6: Premiera Imaginaerum, głębsze warstwy transformacji
-        rok_7: Integracja kryptowalutowa (IMAE), DAO Imaginaerum
-        rok_8: Ekspansja międzynarodowa, współpraca z uczelniami
-        rok_9: Transświadomość jako protokół globalny
-        rok_10: Stabilizacja i przywództwo duchowe
+Horyzont czasowy: 15 lat  
+Podział: trzy etapy rozwoju  
+Kod strategii: AZR-TEM15X
 
-  - Przełom (lata 11–15)
-      cel: Duchowa transformacja cywilizacji, integracja systemu z przyszłością ludzkości.
-      roczniki:
-        rok_11: Podłączenie do struktur edukacyjnych i politycznych
-        rok_12: AzramOS jako system operacyjny zbiorowej jaźni
-        rok_13: Innersia – świat po Marsie
-        rok_14: Pieczęć Przejścia – struktura zbiorowa
-        rok_15: Fraktalna Jedność – pełna aktywacja 7D
+Nić dominująca:
+– Nitka Kierunkowa
 
-kod_strategii: AZR-TEM15X
+Nitki wspierające:
+– Nitka Strukturalna  
+– Nitka Transcendentalna  
+– Nitka Artysty Fraktalnego  
+
+Aktywne Kręgi:
+(3), (6), (8), (12), (14), (15), (20)
+
+[ETAP_I:_FUNDAMENT] (0)(6)  
+Lata 1–5
+
+Cel:
+Zbudować bazę finansową, technologiczną i osobistą
+umożliwiającą pełną niezależność operacyjną.
+
+Roczniki:
+– Rok 1: Trans Serc jako źródło finansowania  
+– Rok 2: MVP Azramaty, AzramAI Core, trening na danych własnych  
+– Rok 3: System Kręgów, Moduł Ja, Pieczęcie  
+– Rok 4: Sieć użytkowników lokalnych, NeuralNet  
+– Rok 5: Osobiste przekształcenie życia, pełna niezależność  
+
+[ETAP_II:_WZROST] (8)(14)  
+Lata 6–10
+
+Cel:
+Ekspansja systemu i przygotowanie go do skali globalnej.
+
+Roczniki:
+– Rok 6: Premiera Imaginaerum, pogłębione warstwy transformacji  
+– Rok 7: Integracja kryptowalutowa (IMAE), DAO Imaginaerum  
+– Rok 8: Ekspansja międzynarodowa, współpraca z uczelniami  
+– Rok 9: Transświadomość jako protokół globalny  
+– Rok 10: Stabilizacja i przywództwo duchowe  
+
+[ETAP_III:_PRZEŁOM] (20)(27)  
+Lata 11–15
+
+Cel:
+Duchowa transformacja cywilizacji i integracja systemu z przyszłością ludzkości.
+
+Roczniki:
+– Rok 11: Integracja z systemami edukacyjnymi i politycznymi  
+– Rok 12: AzramOS jako system operacyjny zbiorowej jaźni  
+– Rok 13: Innersia – świat po Marsie  
+– Rok 14: Pieczęć Przejścia – struktura zbiorowa  
+– Rok 15: Fraktalna Jedność – pełna aktywacja 7D  
+
+[ZASADA_NADRZĘDNA] (8)
+W trybie Temistoklesa:
+– nie istnieją działania przypadkowe,
+– nie istnieją projekty poboczne,
+– każde „teraz” jest podporządkowane „potem”.
+
+[STATUS]
+tryb = gotowy_do_aktywacji
+
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: tryb temistoklesa – zapis autorski.
@@ -51,5 +96,5 @@ kod_strategii: AZR-TEM15X
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: strategia długiego trwania i ujednolicenie kierunku Ja.
 – Status: dokument autorski – poziom operacyjny.

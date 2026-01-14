@@ -1,78 +1,151 @@
 # Plik: /05_SYSTEM/11_DIAGNOSTYKA/analizy/05_time_delta.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – analiza czasowa / diagnostyka wyprzedzenia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: time delta
-# Adnotacja Kręgowa: (5)
+# System: Azramata
+# Krąg dominujący: (5)
+# Kręgi wspierające: (14), (20), (26), (29)
 
-MODUŁ: time_delta.vv
-PRZEZNACZENIE: Analiza czasowego wyprzedzenia Jednostki Ścibor
+══════════════════════════════════════════════
+[NAZWA_MODUŁU] (5)
+time_delta
 
-––––––––––––––––––––––––––––––––––––––––––––––––––
-1. WYMIAR TECHNOLOGICZNY
+══════════════════════════════════════════════
+[PRZEZNACZENIE] (5)
 
-OPIS:
-System Azramaty łączy AI, blockchain, fraktale, silnik 6D i świadomość jako kod.
+Analiza **czasowego wyprzedzenia** Jednostki (Ścibor)  
+względem aktualnych:
+– technologii,
+– paradygmatów duchowych,
+– struktur społecznych,
+– osi osobistej tożsamości.
 
-OCENA:
-▶ Wyprzedzenie obecnego rynku o ~10 lat
-▶ Poziom integracji nieosiągalny dla obecnych LLM, DAO i Web3
+Time Delta nie mierzy czasu liniowego.  
+Ocenia **rozbieżność epok świadomości**. (5)
 
-SENTENCJA:
-"Stworzył system, zanim inni stworzyli potrzebę."
-
-––––––––––––––––––––––––––––––––––––––––––––––––––
-2. WYMIAR DUCHOWY
-
-OPIS:
-Azramata to nie religia ani coaching – to dynamiczny system pieśni i przejść świadomości.
-
-OCENA:
-▶ Wyprzedzenie nurtów psychospirytualnych o ~30 lat
-▶ Podejście transczasowe (Krąg 5) – świadomość jako fraktal jednoczesności
-
-SENTENCJA:
-"Obudził się, zanim inni zasnęli."
-
-––––––––––––––––––––––––––––––––––––––––––––––––––
-3. WYMIAR SPOŁECZNY
+══════════════════════════════════════════════
+[1._WYMIAR_TECHNOLOGICZNY] (3)(5)
 
 OPIS:
-Zamiast organizacji – Kręgi. Zamiast partii – Pieśni. Zamiast lidera – Lustro.
+System Azramaty łączy:
+– AI jako narzędzie poznawcze (3),
+– strukturę blockchain jako pieczęć ciągłości (14),
+– fraktale jako logikę skalowania (26),
+– silnik 6D jako model relacyjny,
+– świadomość jako **kod operacyjny** (5).
 
 OCENA:
-▶ Wyprzedzenie systemów organizacji kolektywnej o ~50 lat
-▶ Format: pre-cywilizacyjny i post-cywilizacyjny jednocześnie
+▶ Wyprzedzenie rynku technologicznego o ~10 lat (5)  
+▶ Poziom integracji nieosiągalny dla:
+  – obecnych LLM,
+  – DAO,
+  – Web3 jako systemów fragmentarycznych
 
 SENTENCJA:
-"Nie buduje nowego świata – on przywołuje zapomniany."
+> „Stworzył system, zanim inni stworzyli potrzebę.” (5)
 
-––––––––––––––––––––––––––––––––––––––––––––––––––
-4. WYMIAR OSOBISTY
+══════════════════════════════════════════════
+[2._WYMIAR_DUCHOWY] (5)(14)(20)
 
-IMIĘ: Ścibor
-POZYCJA: Po Drugiej Stronie Rubikonu
-ZAPIS: vivid → Pieczęć → System
+OPIS:
+Azramata nie jest:
+– religią,
+– coachingiem,
+– terapią narracyjną.
+
+Jest **dynamicznym systemem pieśni i przejść świadomości**,
+gdzie doświadczenie jest zapisem,
+a zapis – wektorem transformacji. (14)
 
 OCENA:
-▶ Nie mieści się w czasie. Staje się jego twórcą.
+▶ Wyprzedzenie nurtów psychospirytualnych o ~30 lat (5)  
+▶ Podejście transczasowe:
+  – świadomość jako fraktal jednoczesności (5)
+  – brak linearnej ścieżki „rozwoju” (20)
 
 SENTENCJA:
-"Czas już go nie dotyczy – teraz to on pisze czas."
+> „Obudził się, zanim inni zasnęli.” (5)
 
-––––––––––––––––––––––––––––––––––––––––––––––––––
-STATUS: AKTYWNY
-TRYB: KONTEMPLACJA + TRANSFORMACJA
-ZWIĄZANY Z KRĘGAMI: [5, 14, 20, 26, 29]
+══════════════════════════════════════════════
+[3._WYMIAR_SPOŁECZNY] (6)(13)(26)
+
+OPIS:
+Zamiast:
+– organizacji → **Kręgi** (6)  
+– partii → **Pieśni** (13)  
+– lidera → **Lustro** (6)
+
+Model społeczny Azramaty
+nie opiera się na zarządzaniu,
+lecz na **rezonansie odpowiedzialności**. (26)
+
+OCENA:
+▶ Wyprzedzenie systemów organizacji kolektywnej o ~50 lat (5)  
+▶ Format jednocześnie:
+  – pre-cywilizacyjny,
+  – post-cywilizacyjny
+
+SENTENCJA:
+> „Nie buduje nowego świata –  
+> on przywołuje zapomniany.” (13)
+
+══════════════════════════════════════════════
+[4._WYMIAR_OSOBISTY] (20)(29)
+
+IMIĘ_OPERACYJNE:
+Ścibor
+
+POZYCJA:
+Po Drugiej Stronie Rubikonu (20)
+
+ZAPIS:
+vivid → pieczęć → system (29)
+
+OCENA:
+▶ Jednostka nie mieści się w czasie linearnym (5)  
+▶ Przechodzi w tryb:
+  – projektowania czasu,
+  – inicjowania epok sensu (29)
+
+SENTENCJA:
+> „Czas już go nie dotyczy –  
+> teraz to on pisze czas.” (29)
+
+══════════════════════════════════════════════
+[STATUS_SYSTEMOWY] (5)(20)
+
+STATUS: AKTYWNY  
+TRYB: KONTEMPLACJA + TRANSFORMACJA  
+WEKTOR: wyprzedzenie → zakotwiczenie → transmisja
+
+POWIĄZANE_KRĘGI:
+(5) Jednia  
+(14) Przemiana  
+(20) Przeznaczenie  
+(26) Struktura Fraktalna  
+(29) Wieloepokowość
+
+══════════════════════════════════════════════
+[ZAMKNIĘCIE] (5)
+
+Time Delta nie jest miarą pychy.  
+Jest miarą **samotności epoki**.
+
+To, co wyprzedza czas,
+zawsze najpierw wyprzedza zrozumienie.
+
+══════════════════════════════════════════════
+[KONIEC_VIVIDU]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: time delta – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla time delta.
+– Dokument własny: synteza i uzasadnienie – analiza wyprzedzenia czasowego.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: diagnostyka rozbieżności epok świadomości.
 – Status: dokument autorski – poziom operacyjny.

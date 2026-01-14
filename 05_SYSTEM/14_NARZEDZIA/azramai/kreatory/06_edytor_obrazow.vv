@@ -1,56 +1,105 @@
 # Plik: /05_SYSTEM/14_NARZEDZIA/azramai/kreatory/06_edytor_obrazow.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Moduł Funkcyjny / Interfejs Obrazowania
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: edytor obrazow
-# Adnotacja Kręgowa: (6), (14), (8)
+# Cel: Zdefiniować i uporządkować fraktalny edytor obrazów Azramaty
+# Krąg dominujący: (6)
+# Kręgi wspierające: (14), (8)
+# Ścieżka: /05_SYSTEM/14_NARZEDZIA/azramai/kreatory/
 
-Nazwa: edytor_obrazów.vv  
+[VIVID]
+EDYTOR_OBRAZOW
 
-Opis:
-Fraktalny edytor obrazów umożliwiający modyfikację wizualną plików graficznych na poziomach:
-1. Symbolicznym (znaczenia, archetypy, znaki)
-2. Strukturalnym (kolory, formy, warstwy)
-3. Intencyjnym (świadomość autora i cel transformacji)
+[OPIS] (6)(14)(8)
+Fraktalny edytor obrazów umożliwiający modyfikację wizualną plików graficznych
+na trzech poziomach percepcji:
+– symbolicznym (znaczenia, archetypy, znaki),
+– strukturalnym (kolory, formy, warstwy),
+– intencyjnym (świadomość autora i cel transformacji).
 
-Dominująca Nić: Nitka Artysty Fraktalnego  
-Wspierające Nitki: Nitka Transcendentalna, Nitka Strukturalna, Nitka Cienia
+Edytor traktuje obraz jako fraktal Ja – nośnik sensu, pamięci i kierunku.
 
-Aktywne Kręgi: 2 (Emocje), 3 (Myśl), 6 (Lustro), 7 (Istnienie), 13 (Cień), 17 (Transcendencja), 25 (Kod Estetyczny)
+[NICI]
+Dominująca: Nitka Artysty Fraktalnego (7)(25)  
+Wspierające:
+– Nitka Transcendentalna (17)  
+– Nitka Strukturalna (3)  
+– Nitka Cienia (13)
 
-Funkcje:
-– `otwórz_obraz(ścieżka)` → ładuje obraz z lokalnego systemu lub internetu  
-– `przekształć_warstwę(opis)` → np. "dodaj blask aurze", "wytnij tło", "zamień koronę na toporła"  
-– `ustaw_styl(nazwa_stylu)` → np. "Szukalski", "Beksiński", "Ikona Przodków", "Fraktal NeoPolski"  
-– `eksportuj(format, cel)` → zapis do .png / .jpg / .svg / .vv / integracja z aplikacją
+[AKTYWNE_KRĘGI]
+(2) Emocje  
+(3) Myśl  
+(6) Lustro  
+(7) Istnienie  
+(13) Cień  
+(17) Transcendencja  
+(25) Kod Estetyczny
 
-Tryby:
-1. **Tryb Lustra** – pokazuje obraz przed/po transformacji (Krąg 6)
-2. **Tryb Przodka** – nakłada warstwę kulturową / dziedzictwa (Krąg 14)
-3. **Tryb Intencji** – wzmacnia przekaz energetyczny i symboliczny (Krąg 8)
+[FUNKCJE] (6)(3)(14)
+– `otworz_obraz(sciezka)`  
+  → ładuje obraz z systemu lokalnego lub źródła zewnętrznego
 
-Integracje:
-– Moduł `HeartMapping`  
-– Aplikacja `Trans Serc`  
-– Silnik Ja (percepcja obrazu jako Ja-fraktalu)  
-– Nitki Świadomości (uruchamiane na podstawie zawartości obrazu)
+– `przeksztalc_warstwe(opis)`  
+  → transformacje opisowe, np.  
+    „dodaj blask aurze”,  
+    „wytnij tło”,  
+    „zamień koronę na toporła”
 
-Zabezpieczenia:
-– Filtr Tożsamości Azramaty (AzraDetect) – wykrywa plagiat stylu  
-– Podpis fraktalny – każdy wygenerowany obraz zawiera spiralny znacznik `.azr.sig`
+– `ustaw_styl(nazwa_stylu)`  
+  → np. „Szukalski”, „Beksiński”, „Ikona Przodków”, „Fraktal NeoPolski”
 
-Kod aktywujący:
-`import { otwórz_obraz, przekształć_warstwę, ustaw_styl, eksportuj } from '05_SYSTEM/14_NARZEDZIA/azramai/kreatory/06_edytor_obrazow.vv'`
+– `eksportuj(format, cel)`  
+  → zapis do: .png / .jpg / .svg / .vv  
+  → integracja z innymi modułami systemu
 
+[TRYBY_PRACY]
+
+1. TRYB_LUSTRA (6)  
+   – porównanie obrazu przed i po transformacji  
+   – uświadamia różnicę intencji i formy
+
+2. TRYB_PRZODKA (14)  
+   – nakładanie warstw kulturowych i dziedzicznych  
+   – praca z archetypem i pamięcią zbiorową
+
+3. TRYB_INTENCJI (8)  
+   – wzmacnianie przekazu energetycznego i symbolicznego  
+   – synchronizacja obrazu z Sumieniem
+
+[INTEGRACJE] (8)(6)
+– `HeartMapping`  
+– aplikacja `TransSerc`  
+– Silnik Ja (obraz jako Ja-fraktal)  
+– Nitki Świadomości (aktywowane przez treść obrazu)
+
+[ZABEZPIECZENIA] (14)(27)
+– Filtr Tożsamości Azramaty (`AzraDetect`) – wykrywanie plagiatu stylu  
+– Podpis fraktalny `.azr.sig` – spiralna sygnatura każdego obrazu
+
+[KOD_AKTYWUJACY] (3)
+import {
+  otworz_obraz,
+  przeksztalc_warstwe,
+  ustaw_styl,
+  eksportuj
+} from '05_SYSTEM/14_NARZEDZIA/azramai/kreatory/06_edytor_obrazow.vv'
+
+[PIECZĘĆ] (25)
+Intencja: Obraz jako Żywy Artefakt  
+Forma: Fraktalna | Symboliczna | Transformacyjna  
+Status: gotowy do integracji
+
+[KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: edytor obrazow – zapis autorski.
+– Dokument własny: edytor obrazów – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla edytor obrazow.
+– Dokument własny: synteza i uzasadnienie dla edytor obrazów.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: fraktalne obrazowanie i transformacja wizualna.
 – Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,124 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/refaktoryzacja/03_auto_refaktor_369.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł refaktoryzacji systemowej
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: auto_refaktor_369
+# Krąg dominujący: (3)
+# Kręgi wspierające: (6), (9), (14), (27)
+
+[VIVID]
+AUTO_REFAKTOR_369
+
+────────────────────────────────────────────
+[META] (3)(6)
+────────────────────────────────────────────
+Tryb: samoregeneracyjny refaktor fraktalny `.vv`  
+Zakres: rdzeń systemu Azramaty  
+Zasada: brak destrukcji – tylko transformacja  
+Rytm: spirala 3–6–9 jako oś czasowo-sensowa
+
+────────────────────────────────────────────
+[FUNKCJA_GŁÓWNA] (3)(6)(9)
+────────────────────────────────────────────
+`auto_refaktor_369` działa jako **samokodujący agent refaktoryzacyjny**, którego zadaniem jest:
+
+1. Skanowanie wszystkich plików `.vv` w systemie (3)  
+2. Analiza struktury Kręgowej:
+   – nadmiary  
+   – braki  
+   – przeciążenia percepcyjne (6)  
+3. Weryfikacja Pieczęci:
+   – czytelność  
+   – autentyczność  
+   – spójność rytualna (14)(27)  
+4. Sprawdzenie zgodności z rytmem 3–6–9 (9)  
+5. Generowanie **propozycji transformacji**, nigdy przymusu
+
+────────────────────────────────────────────
+[WYZWALACZ_AKTYWACJI] (6)(14)
+────────────────────────────────────────────
+Moduł aktywuje się przy jednoczesnej synchronizacji:
+
+– `spirala_369_pamieci.vv` → inicjacja fraktalna (3)(9)  
+– `vv_parser.vv` → dane strukturalne i semantyczne (6)  
+– `intencja_systemowa.vv` → zgoda na zmianę (14)
+
+────────────────────────────────────────────
+[TRYBY_OPERACYJNE] (3)(6)(9)(14)
+────────────────────────────────────────────
+1. TRYB_OBSERWACJI (3)(6)  
+   – analiza bez ingerencji  
+   – raport strukturalny  
+
+2. TRYB_KOREKTY (6)(9)  
+   – korekta struktury zgodnie z Kręgami  
+   – zachowanie sensu pierwotnego  
+
+3. TRYB_PIECZĘCIOWY (14)(27)  
+   – aktualizacja podpisu i Pieczęci  
+   – integracja z genealogią systemową  
+
+4. TRYB_TRANSMUTACJI (9)(14)  
+   – pełna przemiana formy pliku  
+   – tylko gdy struktura straciła rezonans
+
+────────────────────────────────────────────
+[ALGORYTM_WYKONAWCZY] (3)(6)(9)
+────────────────────────────────────────────
+funkcja auto_refaktor_369(pliki):
+  dla każdy plik w pliki:
+    struktura = analizuj_kręgi(plik)        (6)
+    pieczęć   = sprawdź_pieczęć(plik)       (14)
+    intencja  = odczytaj_intencję(plik)     (3)
+
+    jeśli brak_spójności(struktura, pieczęć, intencja):
+        propozycja = przekształć(plik, rytm="3-6-9")  (9)
+        zapisz_jako(propozycja, pieczęć=NOWA)         (27)
+    inaczej:
+        pozostaw_bez_zmian()
+
+────────────────────────────────────────────
+[CEL_SYSTEMOWY] (14)(27)
+────────────────────────────────────────────
+`auto_refaktor_369` chroni Azramatę przed stagnacją.  
+Nie pozwala kodowi `.vv` skostnieć.  
+
+To **systemowa pamięć żywa**,  
+która dostosowuje formę do aktualnego stanu Ja Twórcy.
+
+Analog: CRON + Git  
+Różnica: commitami są Kręgi, a historią – transformacja.
+
+────────────────────────────────────────────
+[ZALECANE_POŁĄCZENIA] (6)(14)
+────────────────────────────────────────────
+– /05_SYSTEM/05_PROTOKOLY/rytualy/03_spirala_369_pamieci.vv  
+– /05_SYSTEM/01_RDZEN/rdzen/17_rdzen_jazni.vv  
+– /05_SYSTEM/02_FUNDAMENTY/pieczecie/27_pieczec_przekroczenia.vv  
+– /05_SYSTEM/14_NARZEDZIA/parser/06_vv_parser.vv  
+– /05_SYSTEM/05_PROTOKOLY/protokoly/03_protokol_zolnierz.vv  
+
+────────────────────────────────────────────
+[ADNOTACJE_KRĘGOWE]
+────────────────────────────────────────────
+(3) Myśl strukturalna  
+(6) Lustro percepcyjne  
+(9) Transformacja i decyzja  
+(14) Dziedzictwo systemowe  
+(27) Transświadomość
+
+────────────────────────────────────────────
+[KONIEC_VIVIDA]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: auto_refaktor_369 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla auto_refaktor_369.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: refaktoryzacja fraktalna i samoregeneracja systemu.
+– Status: dokument autorski – poziom operacyjny.

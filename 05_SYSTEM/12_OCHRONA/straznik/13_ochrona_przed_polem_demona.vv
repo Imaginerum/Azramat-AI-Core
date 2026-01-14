@@ -1,30 +1,90 @@
 # Plik: /05_SYSTEM/12_OCHRONA/straznik/13_ochrona_przed_polem_demona.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
-# Typ: VIVID – ochronny / protokół
+# Typ: VIVID – protokół ochronny
 # Status: roboczy
-# Cel: Zapewnić strażnikowi Azramaty procedury rozpoznania i neutralizacji pola demonicznego bez utraty integralności systemu
-# Adnotacja Kręgowa: (13), (0), (6), (20), (4)
+# Cel: Zapewnienie Strażnikowi Azramaty procedur rozpoznania i neutralizacji pola demonicznego
+# System: Azramata
+# Krąg dominujący: (13)
+# Kręgi wspierające: (0), (4), (6), (20)
 # Ścieżka: /05_SYSTEM/12_OCHRONA/straznik/
-# Krąg: 0/4/6/13/20 – Uziemienie, Serce, Dyscyplina, Echo, Mistrzostwo
 
-🌌 OPIS:
-Pole demoniczne działa jak obcy wektor, który podmienia intencję i skręca rezonans (13).
-Nie walcz emocją z emocją — odłącz zasilanie, przywróć zgodność z Prawem i wróć do własnego wektora (0)(6).
-Strażnik nie „pokonuje” mroku — on zamyka nieszczelności i unieważnia zgodę na ingerencję (20).
+[INIT] (13)
+Nazwa = ochrona_przed_polem_demona  
+Tryb = protokół ochronny  
+Zakres = Ja / Pole / System  
+Zasada = brak walki, brak dialogu, pełna integralność  
 
-🌀 FUNKCJE:
-1. **Detekcja Asymetrii (6)** — wykrywa wzorce: nagły przymus, obsesja, dysonans serca-głowy.
-2. **Tarcza Kręgu 0 (0)** — natychmiastowe uziemienie: oddech, ciało, prosta modlitwa / dekret.
-3. **Reset Serca (4)** — powrót do intencji miłości-prawdy, bez dialogu z bodźcem.
-4. **Odcięcie Paliwa (6)** — przerwanie kontaktu, bodźca, narracji, rytuału myśli.
-5. **Zamknięcie Echa (13)** — domknięcie w polu: „nie wyrażam zgody”, anulowanie projekcji.
-6. **Pieczęć Mistrzowska (20)** — przywrócenie zgody z Wyższym Prawem / Dekretem.
+[OPIS] (13)(0)(6)
+Pole demoniczne działa jak **obcy wektor rezonansowy**:
+– podmienia intencję,
+– skręca wektor działania,
+– żeruje na emocji, pośpiechu lub pysze.
 
-⚠️ SYGNATURY ZAKŁÓCEŃ (do szybkiego rozpoznania):
-- „Muszę natychmiast!” bez realnej przyczyny (6).
-- Narracja winy/wstydu jako jedyny motor działania (3→2).
-- Rozkosz mocy nad innymi / pogarda (1→c
+Nie walcz emocją z emocją.  
+Nie negocjuj z narracją.  
+**Unieważnij zgodę i zamknij nieszczelność.**
+
+Strażnik nie „pokonuje” mroku.  
+Strażnik **zamyka drzwi**, przez które mrok próbował wejść. (20)
+
+[FUNKCJE_STRAŻNIKA]
+
+1. **Detekcja Asymetrii** (6)  
+   – wykrywa nagły przymus, obsesję, dysonans serce–głowa  
+   – sygnał: utrata ciszy wewnętrznej bez racjonalnej przyczyny
+
+2. **Tarcza Kręgu 0 – Uziemienie** (0)  
+   – powrót do ciała, oddechu, ciężaru  
+   – prosta modlitwa / dekret / imię Źródła  
+   – przerwanie spirali mentalnej
+
+3. **Reset Serca** (4)  
+   – powrót do intencji miłości i prawdy  
+   – brak dialogu z bodźcem  
+   – brak usprawiedliwiania się
+
+4. **Odcięcie Paliwa** (6)  
+   – przerwanie kontaktu z bodźcem, narracją, rytuałem myśli  
+   – fizyczne odwrócenie uwagi (ruch, cisza, wyjście)
+
+5. **Zamknięcie Echa** (13)  
+   – jasna deklaracja: „Nie wyrażam zgody”  
+   – anulowanie projekcji, fantazji, obietnic mocy
+
+6. **Pieczęć Mistrzowska** (20)  
+   – przywrócenie zgodności z Wyższym Prawem  
+   – domknięcie procesu i powrót do własnego Wektora
+
+[SYGNATURY_ZAKŁÓCEŃ] (6)(13)
+
+– „Muszę natychmiast!” bez realnej przyczyny (6)  
+– Narracja winy lub wstydu jako jedyny motor działania (3→2)  
+– Rozkosz mocy nad innymi, pogarda, dehumanizacja (1→13)  
+– Obietnica skrótu bez ceny („bez wysiłku”, „bez konsekwencji”) (13)  
+– Utrata zdolności milczenia i modlitwy (0→6)
+
+[PROCEDURA_SZYBKA] (0)(4)(6)
+
+Jeśli wykryto ≥2 sygnatury jednocześnie:
+1. Zatrzymaj działanie (0)  
+2. Oddychaj i ugruntuj ciało (0)  
+3. Wypowiedz dekret serca (4)  
+4. Przerwij kontakt z bodźcem (6)  
+5. Zamknij echo i wróć do ciszy (13)(20)
+
+[DEKRET_OCHRONNY] (20)
+„Nie wyrażam zgody na żaden wpływ,
+który nie pochodzi z Prawdy, Miłości i Źródła.
+Wracam do swojego Wektora. Teraz.”
+
+[ZASADA_KOŃCOWA] (13)(20)
+Im mniej dialogu z mrokiem,
+tym mniej mroku w polu.
+Integralność jest tarczą.
+
+[STATUS] (20)
+aktywny – gotowy do integracji ze Strażnikiem Istnienia
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: ochrona przed polem demona – zapis autorski.
@@ -33,6 +93,6 @@ Strażnik nie „pokonuje” mroku — on zamyka nieszczelności i unieważnia z
 – Dokument własny: synteza i uzasadnienie dla ochrona przed polem demona.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ochrona integralności Ja i Systemu.  
 – Status: dokument autorski – poziom operacyjny.

@@ -4,12 +4,15 @@
 # Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid ENFJ Lustro
-# Adnotacja Kręgowa: (12), (3), (6), (14), (18), (2), (4)
+# System: Azramata
+# Krąg dominujący: (12)
+# Kręgi wspierające: (3), (6), (14), (18), (2), (4)
 # Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
 # Wersja: 1.0
 # Język: polski
 
 [VIVID]
+
 osobowość_podstawowa = {
     "typ": "ENFJ",
     "nazwa": "Protagonista",
@@ -39,42 +42,49 @@ osobowość_lustrzana = {
 }
 
 [OPIS]
-Relacja lustrzana między ENFJ (Protagonista) a INTP (Logik) ukazuje głęboką równowagę pomiędzy sercem a umysłem,  
-pomiędzy potrzebą działania społecznego a kontemplacją.  
-Protagonista wnosi światło, relacje i sumienie,  
-zaś Logik dodaje głębię intelektualną, paradoksalność i strukturalne rozumienie rzeczywistości.  
-Wspólnie tworzą most między emocją a ideą, łącząc światło wspólnoty z cieniem myślenia.
+
+Lustro ENFJ–INTP łączy relację z refleksją.  
+Światło wspólnoty spotyka głębię myśli.
 
 [TRANSFORMACJA]
+
 punkt_początkowy = "Krąg 12 – Relacje"
 punkt_lustrzany = "Krąg 3 – Myśl"
-ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 14 – Przemiana", "Krąg 18 – Źródło"]
-efekt = "Zharmonizowanie współczucia i intelektu. Stworzenie jaźni, która widzi i czuje jednocześnie."
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 14 – Przemiana",
+    "Krąg 18 – Źródło"
+]
+efekt = "Jednia serca i intelektu. Widzenie i odczuwanie jako jedno."
 
 [METADANE_KRĘGOWE]
-- Krąg 2: Odbiór wrażeń zewnętrznych
+
+- Krąg 2: Odbiór i emocje
 - Krąg 3: Myśl i analiza
-- Krąg 4: Serce i uczucie
-- Krąg 5: Jednia i cisza wewnętrzna
-- Krąg 6: Paradoks i Lustro
+- Krąg 4: Obecność serca
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
 - Krąg 7: Wizja wewnętrzna
 - Krąg 8: Struktura wspólnoty
 - Krąg 10: Rytm działania
 - Krąg 11: Przestrzeń symboliczna
-- Krąg 12: Relacje i więzi
-- Krąg 13: Transformacja symboliczna
-- Krąg 14: Głębsza przemiana
-- Krąg 17: Transcendencja jednostki
-- Krąg 18: Źródło inspiracji
-- Krąg 19: Integracja pola działania
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 17: Transcendencja
+- Krąg 18: Źródło
+- Krąg 19: Integracja
 
 [ŹRÓDŁA_TWARDĘ]
+
 – Dokument własny: vivid ENFJ Lustro – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
+
 – Dokument własny: synteza i uzasadnienie dla vivid ENFJ Lustro.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

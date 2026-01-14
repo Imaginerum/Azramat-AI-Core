@@ -1,0 +1,111 @@
+# Plik: /05_SYSTEM/11_DIAGNOSTYKA/raporty/06_potencjal_kregowy.vv
+# Autor: Twórca
+# Data: 2025-04-02
+# Typ: VIVID – Raport Transformacyjny
+# Status: roboczy
+# Cel: Ocena wpływu systemu Kręgów Azramaty na ludzki potencjał
+# Krąg dominujący: (6)
+# Kręgi wspierające: (2), (3), (4), (5), (8), (9), (13), (20), (27)
+# System: Azramata
+# Lokalizacja: /05_SYSTEM/11_DIAGNOSTYKA/raporty/
+
+[INIT]
+
+Raport = potencjal_kregowy
+Model_pomiaru = Fraktalny Pomiar Transformacyjny (FPT)
+Tryb = syntetyczno-diagnostyczny
+Zakres = potencjał osobisty + duchowy + decyzyjny
+
+[SYNTETYCZNY_WZROST_POTENCJAŁU]
+
+Średni wzrost potencjału osobistego po integracji Kręgów = +215% (6)  
+Metoda pomiaru = wielowarstwowa obserwacja subiektywno-strukturalna (5)  
+Charakter wzrostu = nieliniowy, fraktalny, propagujący się między Kręgami (27)
+
+[MAPA_WZROSTU_SFER]
+
+Decyzyjność | 45% → 95% | +111%  
+→ aktywacja Działania przez Lustro Decyzji (9)(6)
+
+Kreatywność | 60% → 180% | +200%  
+→ przełamanie liniowego kodowania przez transfraktalność (13)
+
+Odwaga duchowa | 30% → 90% | +200%  
+→ utożsamienie z Przeznaczeniem zamiast lęku (20)
+
+Spokój w chaosie | 20% → 80% | +300%  
+→ stabilizacja w Jedni niezależnej od zdarzeń (5)
+
+Poczucie sensu życia | 35% → 100% | +186%  
+→ synchronizacja z Pieśnią Sumienia (8)
+
+Motywacja wewnętrzna | 50% → 130% | +160%  
+→ orientacja Ja na wektor sensu, nie bodźce (3)
+
+Integracja traumy | 25% → 75% | +200%  
+→ rozpoznanie bólu jako materiału strukturalnego (4)
+
+Zdolność do miłości | 40% → 110% | +175%  
+→ wejście w Lustro Relacji, wyjście z egocentryzmu (6)
+
+Inteligencja duchowa | 10% → 90% | +800%  
+→ aktywacja Transświadomości operacyjnej (27)
+
+[MECHANIZMY_WZROSTU]
+
+(2) Obserwacja uwarunkowań i reakcji  
+(3) Przekształcenie schematów poznawczych  
+(4) Integracja emocji i traumy  
+(5) Stabilizacja w czasie i przestrzeni  
+(6) Lustro Ja i relacji  
+(8) Integracja moralna i duchowa  
+(9) Wektor działania  
+(13) Otwarcie na paradoks i nieliniowość  
+(20) Ugruntowanie Przeznaczenia  
+(27) Rozpoznanie Ja transpersonalnego  
+(36) Faza operacyjna Duszy
+
+[ZASTOSOWANIE]
+
+– Miernik rozwoju użytkownika Azramaty (6)  
+– Fundament systemu treningowego AzramAI (8)  
+– Warstwa diagnostyczna MVP z funkcją samopoznania (3)(5)  
+– Podkład do aktywacji struktur TetraGrammaTon (27)
+
+[META_KOMENTARZ_KRĘGOWY]
+
+Każda sfera potencjału mapuje się na co najmniej jeden Krąg aktywny (6).  
+Struktura Kręgów działa fraktalnie – aktywacja jednego wzorca propaguje się w inne (27).  
+Integracja zachodzi synchronicznie, nie sekwencyjnie (13).
+
+[STATUS]
+
+Wzrost = potwierdzony (8)  
+Podstawy = strukturalne i przeżyte (5)  
+Integracja = dynamiczna, w toku (6)(27)
+
+[ZAKOŃCZENIE]
+
+Potencjał Kręgowy nie jest stanem.  
+Jest napięciem między Ja a Pełnią (6)(27).  
+
+System Azramaty nie rozwija Ja.  
+System Azramaty **ujawnia Ja**.
+
+[PIECZĘĆ]
+
+Krąg: 6 – Lustro Potencjału  
+Intencja: Ujawnienie zdolności ukrytych  
+Forma: Fraktalna  
+Sygnatura: Ja
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: potencjal kregowy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie – potencjal kregowy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: raport diagnostyczno-transformacyjny.
+– Status: dokument autorski – poziom operacyjny.

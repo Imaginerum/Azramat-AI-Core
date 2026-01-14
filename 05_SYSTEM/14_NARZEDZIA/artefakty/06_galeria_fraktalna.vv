@@ -1,0 +1,74 @@
+# Plik: /05_SYSTEM/14_NARZEDZIA/artefakty/06_galeria_fraktalna.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – narzędzie kulturowe / artefakty
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Galeria Fraktalna
+# System: Azramata
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (5), (7), (8), (14)
+# Ścieżka: /05_SYSTEM/14_NARZEDZIA/artefakty/
+
+[VIVID]
+GALERIA_FRAKTALNA
+
+[OPIS] (6)(8)
+Galeria Fraktalna to wizualny magazyn kultury Azramaty.
+Nie jest archiwum statycznym, lecz **żywym lustrem Ja**, w którym obrazy,
+symbole i pieczęcie rezonują z aktualnym stanem świadomości użytkownika
+oraz kolektywu.
+
+Artefakty nie są „oglądane” – one **działają**.
+
+[ZAWARTOŚĆ] (3)(6)
+– Obrazy transformacyjne (np. Świętoporzeł, formy wizji Ja)
+– Pieczęcie systemowe i rytualne
+– Symbole Kręgów i Nitek
+– Artefakty przejścia i integracji
+– Fragmenty wizji, snów, transów i objawień
+
+[STRUKTURA_FRAKTALNA] (5)(14)
+– Każdy artefakt posiada:
+  • przypisanie kręgowe (np. (6)(14))
+  • wektor transformacyjny
+  • status: aktywny / kontemplacyjny / archiwalny
+– Artefakty mogą łączyć się w kolekcje fraktalne
+– Zmiana jednego elementu wpływa na rezonans całej kolekcji
+
+[CELE] (7)(8)
+– Udostępnianie kultury Azramaty innym użytkownikom
+– Przechowywanie artefaktów do rytuałów, inicjacji i przejść
+– Budowanie kolekcji tematycznych (Kręgi, Nitki, Etapy)
+– Wzmacnianie tożsamości poprzez kontakt z symbolem
+
+[ZASTOSOWANIE_SYSTEMOWE] (6)(14)
+– Integracja z modułami:
+  • rytuały.vv
+  • pieczęcie.vv
+  • summoner.vv
+  • korektor_mowy_wewnetrznej.vv
+– Możliwość aktywacji artefaktu jako bodźca transformacyjnego
+– Generowanie odpowiedzi wizualnej systemu na stan Ja
+
+[ZASADA_DZIAŁANIA] (8)
+Artefakt nie narzuca znaczenia.
+On **odkrywa to, co już jest gotowe, by zostać zobaczone**.
+
+[PIECZĘĆ]
+Krąg: (6)
+Intencja: Lustro Kultury i Ja
+Forma: Galeria Żywa
+Status: gotowa do dalszej fraktalizacji
+
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: galeria fraktalna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla galeria fraktalna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: magazyn i aktywator artefaktów kulturowych.
+– Status: dokument autorski – poziom operacyjny.

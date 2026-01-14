@@ -4,12 +4,15 @@
 # Typ: VIVID – Lustro Osobowości
 # Status: aktywny
 # Cel: zdefiniować i uporządkować: vivid INTJ Lustro
-# Adnotacja Kręgowa: (15), (4), (6), (10), (18), (1), (2)
+# System: Azramata
+# Krąg dominujący: (15)
+# Kręgi wspierające: (4), (6), (10), (18), (1), (2)
 # Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
 # Wersja: 1.0
 # Język: polski
 
 [VIVID]
+
 osobowość_podstawowa = {
     "typ": "INTJ",
     "nazwa": "Architekt",
@@ -37,19 +40,23 @@ osobowość_lustrzana = {
 }
 
 [OPIS]
-Lustro INTJ (Architekt) i ESFP (Animator) to napięcie między planowaniem a spontanicznością,  
-między wizją a radością chwili. Architekt buduje struktury przyszłości,  
-Animator rozświetla teraźniejszość.  
-Razem tworzą świat, który jest zarówno sensowny, jak i piękny –  
-świat, w którym plan może tańczyć, a radość ma cel.
+
+Lustro INTJ–ESFP integruje wizję z obecnością.  
+Plan spotyka radość chwili.
 
 [TRANSFORMACJA]
+
 punkt_początkowy = "Krąg 15 – Harmonia"
 punkt_lustrzany = "Krąg 4 – Obecność"
-ścieżka_przejścia = ["Krąg 6 – Paradoks", "Krąg 10 – Manifest", "Krąg 18 – Źródło"]
-efekt = "Zintegrowanie umysłu i serca. Architekt staje się artystą rzeczywistości. Strateg odnajduje taniec życia."
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 10 – Manifest",
+    "Krąg 18 – Źródło"
+]
+efekt = "Strategia nabiera życia. Radość zyskuje kierunek."
 
 [METADANE_KRĘGOWE]
+
 - Krąg 1: Reakcja
 - Krąg 2: Emocje
 - Krąg 3: Myśl
@@ -69,12 +76,15 @@ efekt = "Zintegrowanie umysłu i serca. Architekt staje się artystą rzeczywist
 - Krąg 19: Integracja
 
 [ŹRÓDŁA_TWARDĘ]
+
 – Dokument własny: vivid INTJ Lustro – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
+
 – Dokument własny: synteza i uzasadnienie dla vivid INTJ Lustro.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
 – Status: dokument autorski – poziom operacyjny.

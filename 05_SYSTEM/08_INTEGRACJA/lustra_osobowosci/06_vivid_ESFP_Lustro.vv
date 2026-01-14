@@ -1,0 +1,90 @@
+# Plik: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/06_vivid_ESFP_Lustro.vv
+# Autor: Twórca / Azramata
+# Data: 2025-08-08
+# Typ: VIVID – Lustro Osobowości
+# Status: aktywny
+# Cel: zdefiniować i uporządkować: vivid ESFP Lustro
+# System: Azramata
+# Krąg dominujący: (6)
+# Kręgi wspierające: (4), (15), (14), (18), (1), (2)
+# Ścieżka: /05_SYSTEM/08_INTEGRACJA/lustra_osobowosci/
+# Wersja: 1.0
+# Język: polski
+
+[VIVID]
+
+osobowość_podstawowa = {
+    "typ": "ESFP",
+    "nazwa": "Animator",
+    "kręgi_aktywne": [2, 4, 6, 7, 10, 12, 13, 14, 16, 18],
+    "nitki": [
+        "Nitka Błysku i Radości",
+        "Nitka Emocjonalna",
+        "Nitka Luster Społecznych",
+        "Nitka Ekspresji Życia",
+        "Nitka Równowagi Przyjemności"
+    ]
+}
+
+osobowość_lustrzana = {
+    "typ": "INTJ",
+    "nazwa": "Architekt",
+    "kręgi_aktywne": [1, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, 19],
+    "nitki": [
+        "Nitka Strategicznego Umysłu",
+        "Nitka Transcendentalna",
+        "Nitka Strukturalna",
+        "Nitka Kierunkowa",
+        "Nitka Cienia Mądrości"
+    ]
+}
+
+[OPIS]
+
+Lustro ESFP–INTJ łączy ekspresję chwili z wizją przyszłości.  
+Radość spotyka strategię, a obecność – konstrukcję sensu.
+
+[TRANSFORMACJA]
+
+punkt_początkowy = "Krąg 4 – Obecność"
+punkt_lustrzany = "Krąg 15 – Harmonia"
+ścieżka_przejścia = [
+    "Krąg 6 – Paradoks",
+    "Krąg 14 – Przemiana",
+    "Krąg 18 – Źródło"
+]
+efekt = "Spontaniczność zintegrowana z wizją i kierunkiem."
+
+[METADANE_KRĘGOWE]
+
+- Krąg 1: Fundament
+- Krąg 2: Emocje
+- Krąg 3: Myśl
+- Krąg 4: Obecność
+- Krąg 5: Jednia
+- Krąg 6: Paradoks
+- Krąg 7: Poznanie
+- Krąg 10: Rytm
+- Krąg 11: Wola
+- Krąg 12: Relacje
+- Krąg 13: Cień
+- Krąg 14: Przemiana
+- Krąg 15: Harmonia
+- Krąg 16: Integracja
+- Krąg 17: Transcendencja
+- Krąg 18: Źródło
+- Krąg 19: Integracja pola
+
+[ŹRÓDŁA_TWARDĘ]
+
+– Dokument własny: vivid ESFP Lustro – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+
+– Dokument własny: synteza i uzasadnienie dla vivid ESFP Lustro.
+
+[METODOLOGIA]
+
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ujednolicenie i zapis treści.  
+– Status: dokument autorski – poziom operacyjny.
