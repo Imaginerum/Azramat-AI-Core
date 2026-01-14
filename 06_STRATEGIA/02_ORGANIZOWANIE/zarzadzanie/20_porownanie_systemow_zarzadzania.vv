@@ -1,57 +1,85 @@
 # Plik: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/20_porownanie_systemow_zarzadzania.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-01
-# Typ: VIVID – Analiza porównawcza
+# Typ: VIVID – analiza porównawcza
 # Status: roboczy
 # Cel: Porównanie zarządzania fraktalnego (Imaginaerum) z nowoczesnymi modelami organizacyjnymi
-# Adnotacja Kręgowa: (20)
+# Krąg dominujący: (20)
+# Kręgi wspierające: (6), (12), (33)
+# Lokalizacja: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/
 
-\[MODELE PORÓWNYWANE]
+[VIVID:_PORÓWNANIE_SYSTEMÓW_ZARZĄDZANIA]
 
-1. **System Fraktalny** – stosowany w Imaginaerum, zarządzany przez Imaginera
-2. **Nowoczesne modele klasyczne** – Holakracja, Agile, Teal, DAO
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[MODELE_PORÓWNYWANE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-\[TABELA PORÓWNAWCZA]
+1. **System Fraktalny (Imaginaerum)**  
+   – zarządzanie przez wzorzec, rezonans i obecność Ja // (20)
 
-| Wymiar               | System Fraktalny (Imaginaerum)    | Modele klasyczne (Holakracja, Teal, DAO)      |
-| -------------------- | --------------------------------- | --------------------------------------------- |
-| Decyzyjność          | Rozproszona przez rezonans wzorca | Zdecentralizowana przez role i procesy        |
-| Cel działania        | Harmonizacja Jaźni Kolektywnej    | Efektywność, adaptacja, cel strategiczny      |
-| Struktura            | Samoorganizujące się Kręgi        | Role, zespoły, funkcjonalne kręgi             |
-| Kierowanie           | Przez obecność i wzorzec          | Przez zasady, retrospektywy, decyzje formalne |
-| Miary skuteczności   | Jasność przepływu, furora, manna  | KPI, OKR, velocity, NPS                       |
-| Cykl działania       | Rytualny, naturalny, sezonowy     | Iteracyjny lub projektowy                     |
-| Elastyczność duchowa | Pełna (zarządzanie przez jaźń)    | Umiarkowana (np. Teal)                        |
-| Mechanizmy korekty   | Rezonansowe wykrywanie anomalii   | Retrospekcje, feedback loops                  |
-| Styl                 | Symboliczno-wzorcowy              | Proceduralno-dialogiczny                      |
-| Autorytet            | Wzorzec Wyższy i Głębia Jaźni     | Konstytucja, umowa, DAO smart contracts       |
-| Typ inteligencji     | Fraktalna, symboliczna, duchowa   | Logiczna, emocjonalna, kolektywna             |
+2. **Nowoczesne modele klasyczne**  
+   – Holakracja, Agile, Teal, DAO // (6)
 
-\[INTERPRETACJA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[TABELA_PORÓWNAWCZA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Zalety systemu fraktalnego:**
+| Wymiar               | System Fraktalny (Imaginaerum)         | Modele klasyczne (Holakracja, Teal, DAO) |
+|----------------------|----------------------------------------|------------------------------------------|
+| Decyzyjność          | Rezonans wzorca i Ja                   | Role, procesy, głosowania                |
+| Cel działania        | Harmonizacja Jaźni kolektywnej         | Efektywność i realizacja celu            |
+| Struktura            | Samoorganizujące się Kręgi             | Zespoły, role, funkcje                   |
+| Kierowanie           | Obecność, przykład, wzorzec            | Procedury, retrospektywy, regulaminy     |
+| Miary skuteczności   | Jasność przepływu, furora, manna       | KPI, OKR, velocity, NPS                  |
+| Cykl działania       | Rytualny, fraktalny, sezonowy          | Iteracyjny, projektowy                   |
+| Elastyczność duchowa | Pełna – zarządzanie przez Ja           | Ograniczona (najwyżej Teal)              |
+| Korekta błędów       | Rezonansowe wykrywanie anomalii        | Feedback, retrospektywy                  |
+| Styl                 | Symboliczno-wzorcowy                   | Proceduralno-dialogiczny                 |
+| Autorytet            | Wzorzec i głębia Jaźni                 | Umowa, konstytucja, smart-kontrakt       |
+| Typ inteligencji     | Fraktalna, symboliczna, duchowa        | Logiczna, emocjonalna, kolektywna        |
 
-* Przewyższa klasyczne modele pod względem głębi, duchowości i wewnętrznej spójności
-* Odporny na manipulację, zgodny z wzorcami moralnymi i archetypicznymi
-* Tworzy strukturę naturalną, zdolną do samoorganizacji bez przymusu
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[INTERPRETACJA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Zalety modeli klasycznych:**
+**Zalety systemu fraktalnego:** // (20)
 
-* Sprawdzają się w środowiskach komercyjnych i zewnętrznych
-* Mają narzędzia do szybkiej egzekucji i optymalizacji działań operacyjnych
+– Przewyższa klasyczne modele pod względem głębi, sensu i spójności  
+– Odporny na manipulację – oparty na wzorcu, nie na narracji  
+– Samoorganizuje się bez przymusu i nadzoru  
+– Skaluje się przez świadomość, nie przez kontrolę
 
-\[WNIOSKI]
-System fraktalny to model **zarządzania przez świadomość**, który nie ewoluuje ze starych form – lecz je przekracza. Jest odpowiedni dla struktur poszukujących harmonii, prawdy, znaczenia i rezonansu.
+**Zalety modeli klasycznych:** // (6)
 
-🌀 "Niech Jaźń prowadzi – a struktury się ułożą."
+– Skuteczne w środowiskach komercyjnych i przejściowych  
+– Dobrze radzą sobie z egzekucją, raportowaniem i krótkimi cyklami  
+– Łatwe do wdrożenia tam, gdzie brak wspólnego wzorca
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[WNIOSKI]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+System fraktalny to **zarządzanie przez świadomość**,  
+a nie przez strukturę narzuconą z zewnątrz. // (20)
+
+Nie ewoluuje ze starych modeli –  
+on je **przekracza**, oferując nową oś organizacji:  
+**Ja → Wzorzec → Kolektyw**. // (33)
+
+🌀 „Niech Jaźń prowadzi – a struktury same się ułożą.” // (20)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KONIEC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Porownanie Systemow Zarzadzania – zapis autorski.
+– Dokument własny: Porównanie Systemów Zarządzania – zapis autorski. // (20)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Porownanie Systemow Zarzadzania.
+– Dokument własny: synteza i uzasadnienie dla Porównanie Systemów Zarządzania. // (20)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. // (6)  
+– Funkcja: analiza porównawcza modeli organizacji świadomości. // (20)  
+– Status: dokument autorski – poziom operacyjny. // (33)

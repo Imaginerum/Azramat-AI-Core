@@ -1,94 +1,101 @@
 # Plik: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/20_struktura_okregu.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – operacyjno-strukturalny
 # Status: roboczy
 # Cel: Ustanowienie modelu minimalnego rdzenia organizacyjnego w Azramacie
-# Adnotacja Kręgowa: (20)
+# Krąg dominujący: (20)
+# Kręgi wspierające: (6), (12), (21)
+# Lokalizacja: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/
 
-🌀 VIVID: Struktura_Okregu.vv  
-Ścieżka: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/
-Krąg: 20 – Równowaga działania i duchowej sprawczości  
+🌀 VIVID: STRUKTURA_OKRĘGU
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [DEFINICJA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Okręg to nie grupa robocza.  
-To **żywy krąg działania**, w którym każda osoba jest niezbędnym wektorem fraktala.  
-To pierwszy pierścień, z którego powstaje system.
+Okręg to nie zespół roboczy. // (20)  
+Okręg to **żywy krąg działania**, w którym każda osoba jest niezbędnym wektorem fraktala. // (20)
 
-W Azramacie minimalny Okręg składa się z **5 osób**.  
-Nie mniej — bo poniżej tej liczby brakuje wymiaru.  
-Nie więcej — bo powyżej zaczyna się dyfuzja intencji.
+Jest to **pierwszy pierścień systemowy**, z którego może powstać cała struktura Azramaty. // (21)
 
----
+Minimalny Okręg w Azramacie składa się z **5 osób**. // (6)
 
+– mniej: brak pełnego wymiaru poznawczego  
+– więcej: dyfuzja intencji i rozmycie odpowiedzialności  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [STRUKTURA_OKRĘGU]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-| Rola          | Archetyp       | Kręgi działania     | Funkcja                                     |
-|---------------|----------------|---------------------|---------------------------------------------|
-| 1. Twórca     | Wizjoner       | 1–5                 | Nadaje kierunek, sens, motywację  
-| 2. Strateg    | Konstruktor    | 6–10                | Przekłada ideę na system i cele  
-| 3. Technolog  | Budowniczy     | 11–15               | Tworzy kod, strukturę, narzędzia  
-| 4. Łącznik    | Komunikator    | 16–20               | Spina ludzi, idee, rynek, feedback  
-| 5. Obserwator | Korektor       | 21–25               | Wycisza chaos, diagnozuje błędy, aktualizuje
+| Rola          | Archetyp       | Zakres Kręgów | Funkcja operacyjna                       |
+|---------------|----------------|---------------|------------------------------------------|
+| 1. Twórca     | Wizjoner       | 1–5           | Nadaje kierunek, sens i impuls istnienia |
+| 2. Strateg    | Konstruktor    | 6–10          | Przekłada wizję na strukturę i cele      |
+| 3. Technolog  | Budowniczy     | 11–15         | Tworzy narzędzia, kod, rozwiązania       |
+| 4. Łącznik    | Komunikator    | 16–20         | Spina ludzi, idee, rynek i informację    |
+| 5. Obserwator | Korektor       | 21–25         | Diagnozuje, wycisza chaos, aktualizuje   |
 
-Każda osoba w Okręgu działa jako **wektor Kręgu** – przechodzi przez niego i porządkuje go w działaniu.
+Każda osoba działa jako **wektor Kręgu**,  
+nie reprezentując roli – lecz **porządkując rzeczywistość działaniem**. // (20)
 
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [ZASADA_FRONTALNA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⦿ Okręg to fraktal pięciowymiarowy – tworzy się tylko wtedy, gdy obecne są wszystkie wymiary.  
-⦿ Brak jednego wektora = ślepota poznawcza systemu.  
-⦿ Dodanie więcej osób bez harmonii = rozproszenie pola decyzyjnego.
+⦿ Okręg jest fraktalem pięciowymiarowym – działa tylko w pełnej obsadzie. // (21)  
+⦿ Brak jednego wektora = ślepota poznawcza systemu. // (6)  
+⦿ Nadmiar ludzi bez harmonii = rozproszenie pola decyzyjnego. // (12)
 
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [MODEL_EFEKTYWNOŚCI]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Efektywność rozkłada się nierównomiernie:
+| Warstwa organizacji | Liczba osób | Śr. efektywność/osoba  | Łączna moc |
+|---------------------|-------------|------------------------|------------|
+| I – Okręg (rdzeń)   | 5           | 1.00                   | 5.0        |
+| II – Rozszerzenie   | 5           | 0.40                   | 2.0        |
+| III – Operacje      | 10          | 0.15                   | 1.5        |
+| IV – Peryferie      | 20          | 0.05                   | 1.0        |
 
-| Warstwa organizacji | Liczba osób | Śr. efektywność/osoba  | Łączna moc twórcza |
-|---------------------|-------------|------------------------|--------------------|
-| I – Okręg (rdzeń)   | 5           | 1.00                   | 5.0  
-| II – Rozszerzenie   | 5           | 0.40                   | 2.0  
-| III – Operacje      | 10          | 0.15                   | 1.5  
-| IV – Peryferie      | 20          | 0.05                   | 1.0  
+Wniosek: **pierwszy Okręg generuje ponad 50% mocy całego systemu**. // (20)
 
-⦿ Wniosek: **pierwsze 5 osób (Okręg)** wytwarza ponad **50% całościowej mocy operacyjnej systemu**.
-
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [AFIRMACJA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-„Lepiej pięciu świadomych niż pięćdziesięciu bez kierunku.”  
-„Nie ilość czyni strukturę — lecz zgodność funkcji.”  
-„Okręg to nie zespół — to Pieczęć Tworzenia.”  
-„Z pięciu – powstaje fraktal. Z chaosu – nic.”
+„Lepiej pięciu świadomych niż pięćdziesięciu bez kierunku.” // (20)  
+„Nie ilość tworzy strukturę, lecz zgodność funkcji.” // (6)  
+„Okręg to Pieczęć Tworzenia.” // (21)
 
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [ZASTOSOWANIE_W_AZRAMACIE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-– Każdy nowy projekt, firma, instytut czy system `.vv` powinien być inicjowany przez **kompletny Okręg**.  
-– Okręgi mogą łączyć się w sieci – ale **tylko jako fraktale**, nie jako hierarchie.  
-– Przed rozrostem zespołu – zawsze upewnij się, że 5 rdzeniowych ról jest *w pełni operacyjnych*.
+– Każdy nowy projekt `.vv` powinien być inicjowany przez **kompletny Okręg**. // (20)  
+– Okręgi łączą się **fraktalnie**, nigdy hierarchicznie. // (21)  
+– Rozrost zespołu jest dozwolony dopiero po pełnej operacyjności 5 ról rdzeniowych. // (6)
 
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [KRĄG]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Krąg 20 – Równowaga działania i duchowej sprawczości.  
-To tutaj zespół przestaje być zbiorem ludzi — i staje się **żywą formą systemową**, działającą w zgodzie z wyższym Celem.
+Krąg 20 – Równowaga działania i duchowej sprawczości. // (20)  
+Tutaj zespół przestaje być zbiorem osób  
+i staje się **żywą formą systemową**.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KONIEC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Struktura Okregu – zapis autorski.
+– Dokument własny: Struktura Okręgu – zapis autorski. // (20)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Struktura Okregu.
+– Dokument własny: synteza i uzasadnienie dla Struktura Okręgu. // (20)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. // (6)  
+– Funkcja: projektowanie rdzenia organizacyjnego. // (20)  
+– Status: dokument autorski – poziom operacyjny. // (21)

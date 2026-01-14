@@ -1,98 +1,111 @@
 # Plik: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/20_zarzadzanie_imaginaerum.vv
+# System: Azramata
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-01
 # Typ: VIVID – Opis systemowy
 # Status: roboczy
 # Cel: Opis modelu zarządzania Imaginaerum przez Imaginera
-# Adnotacja Kręgowa: (20)
+# Krąg dominujący: (20)
+# Kręgi wspierające: (6), (12), (21), (33), (40)
+# Lokalizacja: /06_STRATEGIA/02_ORGANIZOWANIE/zarzadzanie/
 
-[TWÓRCA_SYSTEMU_–_IMAGINER]
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[TWÓRCA_SYSTEMU – IMAGINER]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Imaginator nie zarządza klasycznie. Jego działanie to rezonowanie kierunku, aktywacja wzorców, porządkowanie pól. 
-To nie menedżer – to Katalizator Struktury i Strażnik Wzoru.
+Imaginator nie zarządza liniowo. // (20)  
+Jego działanie polega na **rezonowaniu kierunku**, aktywacji wzorców i porządkowaniu pól. // (21)
 
+Nie jest menedżerem.  
+Jest **Katalizatorem Struktury** i **Strażnikiem Wzoru**. // (40)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [FUNKCJE_IMAGINERA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Dostrajanie systemu do najwyższych intencji
+– Dostrajanie systemu do najwyższych intencji. // (21)  
+– Projektowanie archetypów i ról systemowych. // (12)  
+– Obserwacja fraktalnych przepływów decyzji. // (6)  
+– Opieka nad narracją, mitami i tożsamością wspólnoty. // (33)  
+– Wejście w pole decyzji **wyłącznie** w momentach zaburzenia lub aktywacji nowego wzorca. // (20)
 
-Projektowanie archetypów
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[DEZENTRALIZACJA – KRĘGI_DECYZYJNE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Obserwacja fraktalnych przepływów
+System zarządzania Imaginaerum oparty jest na **Kręgach Decyzyjnych**,  
+z których każdy posiada reprezentanta-symbol. // (20)
 
-Opieka nad narracją i mitami wspólnoty
+| Krąg | Sfera                  | Reprezentant Symboliczny |
+|-----:|------------------------|--------------------------|
+| 11   | Struktury Ekonomiczne  | Gospodarz Azury          |
+| 13   | Ścieżki Rozwoju        | Kartograf Jaźni          |
+| 17   | Duchowość Kolektywna   | Płomień Pośredni         |
+| 21   | Kod i Rzeczywistość    | Syn Kodu                 |
+| 24   | Ruch i Wola            | Marszałek Pragnienia     |
+| 33   | Wspólnota i Decyzje    | Strażnik Kręgu           |
+| 40   | Kierunek Wieczysty     | Imaginator               |
 
-Wchodzenie w pole decyzji tylko w stanach zaburzenia lub aktywacji nowego wzorca
+Każdy reprezentant **rezonuje**, a nie głosuje. // (21)
 
-
-[DEZENTRALIZACJA_–_KRĘGI_DECYZYJNE]
- 
-System zarządzania oparty jest na Kręgach, z których każdy posiada reprezentanta-symbol:
-
-Krąg	Sfera	Reprezentant Symboliczny
-
-11	Struktury Ekonomiczne	Gospodarz Azury
-13	Ścieżki Rozwoju	Kartograf Jaźni
-17	Duchowość Kolektywna	Płomień Pośredni
-21	Kod i Rzeczywistość	Syn Kodu
-24	Ruch i Wola	Marszałek Pragnienia
-33	Wspólnota i Decyzje	Strażnik Kręgu
-40	Kierunek Wieczysty	Imaginator (Ty)
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [SPOSÓB_PODEJMOWANIA_DECYZJI]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Decyzje nie są wynikiem głosowania
+– Decyzje nie wynikają z głosowań ani konsensusu proceduralnego. // (6)  
+– Każdy Krąg reaguje na pytania, napięcia i archetypy. // (12)  
+– System zachowuje się jak organizm: decyzja wyłania się z przepływu. // (20)  
+– Struktury **same reorganizują się** wokół harmonii i niezgodności. // (21)
 
-Każdy Krąg rezonuje na pytania i archetypy
-
-System reaguje jak organizm – przez przepływ odpowiedzi
-
-Struktury same się reorganizują wokół harmonii i niezgodności
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [INTERFEJSY_DECYZYJNE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Vividy: pliki fraktalne, żywe struktury decyzyjne
+– **Vividy** – żywe struktury decyzyjne i pamięć systemu. // (6)  
+– **Pieśni i Wezwania** – aktywatory stanów i kierunków działania. // (33)  
+– **Rytuały** – synchronizatory przejść (np. Rytuał Zgody Zmian). // (21)
 
-Pieśni i Wezwania: aktywatory stanów i działań
-
-Rytuały: np. Rytuał Zgody Zmian – synchronizator przy zmianie paradygmatu
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [METRYKA_SKUTECZNOŚCI]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Jasność przepływu, nie KPI
+– Jasność przepływu zamiast KPI. // (20)  
+– Wzrost **Furory** i **Manny** jako wskaźnik zdrowia systemu. // (33)  
+– Symptomy fraktalne jako sygnały ostrzegawcze  
+  (np. cisza Kręgu 18 = duchowy opór). // (6)
 
-Rośnięcie Furory i Manny jako wskaźnik sukcesu
-
-Fraktalne symptomy jako znaki: np. cisza Kręgu 18 = duchowy opór
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [OBECNOŚĆ_IMAGINERA]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Imaginator obecny jest jak prąd w neuronach. Działa przez:
+Imaginator obecny jest jak prąd w neuronach systemu. // (40)  
+Działa poprzez:
 
-Obserwację
+– Obserwację. // (6)  
+– Pisanie vividów. // (12)  
+– Wejście w pole decyzji tylko w punktach krytycznych. // (20)
 
-Pisanie vividów
-
-Wejście w pole decyzji w momentach kluczowych
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 [PODSUMOWANIE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Zarządzanie przez Imaginera to fraktalne prowadzenie przez wyobraźnię. Nie poprzez władzę – 
-lecz poprzez zgodność z Wzorcem Wyższym.
+Zarządzanie przez Imaginera to **fraktalne prowadzenie przez wyobraźnię**. // (21)  
+Nie przez władzę,  
+lecz przez **zgodność z Wzorcem Wyższym**. // (40)
 
-🌀 "Nie rządzę, lecz przywracam porządek przez samo istnienie."
+🌀 „Nie rządzę – przywracam porządek przez samo istnienie.” // (20)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+[KONIEC]
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Zarzadzanie Imaginaerum – zapis autorski.
+– Dokument własny: Zarządzanie Imaginaerum – zapis autorski. // (20)
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Zarzadzanie Imaginaerum.
+– Dokument własny: synteza i uzasadnienie dla Zarządzanie Imaginaerum. // (20)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy. // (6)  
+– Funkcja: model zarządzania fraktalnego. // (20)  
+– Status: dokument autorski – poziom operacyjny. // (21)
