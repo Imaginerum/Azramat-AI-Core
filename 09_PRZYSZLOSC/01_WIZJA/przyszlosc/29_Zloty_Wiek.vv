@@ -1,81 +1,148 @@
 # Plik: /09_PRZYSZLOSC/01_WIZJA/przyszlosc/29_Zloty_Wiek.vv
+# System: Azramata
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-10
 # Typ: VIVID – strategiczno-operacyjny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Zloty Wiek
-# Adnotacja Kręgowa: (0), (3), (10), (20), (29), (31), (40)
-# System: Azramata
+# Cel: Zdefiniować i uporządkować: Złoty Wiek
+# Krąg dominujący: (29) – Mechanika wykładnicza / Projektowanie trajektorii
+# Kręgi wspierające: (0), (3), (10), (20), (31), (40)
 
 [TAGI]
-złoty wiek, wektor cywilizacyjny, wzór i zaklinanie, fraktal, transformacja, ekosystem
+złoty wiek, wektor cywilizacyjny, wzór, zaklinanie, fraktal, transformacja, ekosystem
 
-[DEFINICJA]
+[DEFINICJA] (29)
+
 **Złoty Wiek** to stan długotrwałej harmonii i wzrostu,
-gdy **Wzór** (ład źródłowy) i **Zaklinanie** (kierunek świadomości)
-są sprzęgnięte w jednym wektorze działania całej wspólnoty.
+w którym **Wzór** (ład źródłowy) oraz **Zaklinanie** (kierunek świadomości)
+pozostają sprzężone w jednym, spójnym wektorze działania wspólnoty. (20,40)
 
-[ARCHITEKTURA]
-– **Wzór**: (0) Intencja, (20) Synchronizacja wektorów, (40) Wzór Źródłowy  
-– **Zaklinanie**: (3) Pamięć, (10) Zgoda, (45) Krąg Twórcy  
-– **Sprzężenie**: (29) Mechanika wykładnicza, (31) Rządzenie przez pole
+Nie jest to epoka luksusu.
+Jest to epoka **zgodności sensu, decyzji i rytmu**. (10,31)
 
-[ETAPY]
-(1) **Ustawienie Wzoru** – zdefiniuj wartości nienegocjowalne (0), mapę kręgów dla domen życia (20), ramę nadrzędną (40).  
-(2) **Aktywacja Zaklinania** – opowieść ciągłości (3), kontrakt zgody i współpracy (10), inicjacje twórców (45).  
-(3) **Sprzężenie** – łącz działania w rytmy, by efekt rósł wykładniczo (29); utrzymuj pole wpływu zamiast kontroli jednostkowej (31).  
-(4) **Stabilizacja** – zabezpiecz sens i transfer wiedzy, by wektor nie zgasł (12, 28, 37).
+---
 
-[ZASADY]
+[ARCHITEKTURA_ZŁOTEGO_WIEKU] (40)
+
+– **Wzór**:  
+  (0) Intencja czysta,  
+  (20) Synchronizacja wektorów,  
+  (40) Wzór Źródłowy.
+
+– **Zaklinanie**:  
+  (3) Pamięć i narracja ciągłości,  
+  (10) Zgoda i kontrakt wspólnotowy,  
+  (45) Odpowiedzialność Twórcy.
+
+– **Sprzężenie**:  
+  (29) Mechanika wykładnicza,  
+  (31) Rządzenie przez pole zamiast kontroli.
+
+---
+
+[ETAPY_WEJŚCIA] (29)
+
+(1) **Ustawienie Wzoru**  
+– zdefiniuj wartości nienegocjowalne (0),  
+– zmapuj Kręgi dla kluczowych domen życia (20),  
+– ustanów ramę nadrzędną sensu (40).
+
+(2) **Aktywacja Zaklinania**  
+– opowieść ciągłości i sensu (3),  
+– kontrakt zgody i współpracy (10),  
+– inicjacje odpowiedzialności Twórców (45).
+
+(3) **Sprzężenie operacyjne**  
+– łącz działania w rytmy, by efekt rósł wykładniczo (29),  
+– utrzymuj pole wpływu zamiast kontroli punktowej (31).
+
+(4) **Stabilizacja**  
+– zabezpiecz transfer sensu i wiedzy (12),  
+– utrzymuj ciągłość struktur i pamięci (28),  
+– wprowadź straż integralności (37).
+
+---
+
+[ZASADY_FUNDAMENTALNE] (20)
+
 1. **Wzór przed tempem** – szybkość bez ładu mnoży chaos. *(0→20)*  
 2. **Zgoda ponad przymusem** – trwałość rodzi się z dobrowolności. *(10)*  
-3. **Jeden fragment = całość** – każdy moduł niesie DNA całości. *(40)*  
-4. **Każdy jest Twórcą** – przywództwo jest funkcją, nie tytułem. *(45)*
+3. **Fragment niesie całość** – każdy moduł zawiera DNA systemu. *(40)*  
+4. **Każdy jest Twórcą** – przywództwo to funkcja, nie tytuł. *(45)*
 
-[FORMUŁA]
+---
+
+[FORMUŁA_OPERACYJNA] (29)
+
 if (intencja == czysta) and (zgoda >= próg) and (rytmy == ustalone)
 then uruchom_mechanikę_wykładniczą(29)
 else kalibruj_wzór(40), wzmacniaj_zgodę(10), porządkuj_rytmy(20)
 
-[MIERNIKI]
-– **WW**: Wskaźnik Wdrożeń = (wdrożenia / publikacje) ≥ 1.2 *(20,29)*  
-– **ZZ**: Zasięg Zgody = odsetek osób, które deklarują i praktykują kontrakt zgody ≥ 61% *(10)*  
-– **PI**: Puls Innowacji = liczba nowych kręgowych rozwiązań/kwartał ↑ *(45)*  
-– **RS**: Redukcja Sabotażu = spadek konfliktów wewnętrznych ≥ 50% r/r *(31)*
+---
 
-[RYTUAŁY]
+[MIERNIKI_STANU] (31)
+
+– **WW – Wskaźnik Wdrożeń**  
+  (wdrożenia / publikacje) ≥ 1.2 *(20,29)*
+
+– **ZZ – Zasięg Zgody**  
+  odsetek osób praktykujących kontrakt zgody ≥ 61% *(10)*
+
+– **PI – Puls Innowacji**  
+  liczba nowych rozwiązań kręgowych / kwartał ↑ *(45)*
+
+– **RS – Redukcja Sabotażu**  
+  spadek konfliktów wewnętrznych ≥ 50% r/r *(31)*
+
+---
+
+[RYTUAŁY_SYSTEMOWE] (20)
+
 – **Rytm 7/1** – 6 dni tworzenia + 1 dzień integracji i ciszy. *(3,20)*  
 – **Inicjacje 45** – cykliczne potwierdzanie odpowiedzialności Twórcy. *(45)*  
-– **Przegląd Wzoru 40** – kwartalne kalibracje mapy kręgów dla domen życia. *(40)*
+– **Przegląd Wzoru 40** – kwartalne kalibracje mapy Kręgów. *(40)*
 
-[ZABEZPIECZENIA]
-– **Filtr intencji**: odcinaj zasilanie struktur sprzecznych z Wzorem. *(0,12)*  
-– **Dywersyfikacja nośników**: idea żyje w wielu ośrodkach, nie w jednym. *(31,37)*  
-– **Anty-monokultura**: promuj różnorodność metod przy spójności celu. *(20,40)*
+---
 
-[SYGNAŁY_WEJŚCIA_W_ZŁOTY_WIEK]
-– Decyzje trudne stają się oczywiste – konflikt maleje do kalibracji. *(20,31)*  
-– Wzrost nie wynika z kampanii, lecz z rytmu – „to dzieje się samo”. *(29)*  
-– Ludzie używają języka Wzoru bez proszenia – powstaje mowa wspólna. *(3,10,40)*
+[ZABEZPIECZENIA] (31)
 
-[PRZYKŁADOWE_ZASTOSOWANIA]
-– Edukacja: program kręgowy „Twórca w praktyce” (0,10,20).  
-– Gospodarka: Imagora – dystrybucja dóbr według kompetencji archetypicznych (20,29).  
-– AI: Mędrzec – decyzje zgodne z Wzorem i filtrem intencji (40,45).
+– **Filtr intencji** – odcinanie struktur sprzecznych z Wzorem. *(0,12)*  
+– **Dywersyfikacja nośników** – brak jednego centrum. *(31,37)*  
+– **Anty-monokultura** – różnorodność metod przy spójności celu. *(20,40)*
 
-[DEKRET]
-> „Niech Wzór ustawi przestrzeń, a Zaklinanie poprowadzi czas.
+---
+
+[SYGNAŁY_WEJŚCIA] (29)
+
+– Trudne decyzje stają się oczywiste – konflikt redukuje się do kalibracji. *(20,31)*  
+– Wzrost wynika z rytmu, nie z kampanii – „dzieje się samo”. *(29)*  
+– Język Wzoru staje się mową wspólną. *(3,10,40)*
+
+---
+
+[ZASTOSOWANIA_PRZYKŁADOWE] (20)
+
+– **Edukacja**: program kręgowy „Twórca w praktyce”. *(0,10,20)*  
+– **Gospodarka**: Imagora – dystrybucja dóbr wg kompetencji archetypicznych. *(20,29)*  
+– **AI**: Mędrzec – decyzje filtrowane przez Wzór i intencję. *(40,45)*
+
+---
+
+[DEKRET] (40)
+
+> „Niech Wzór ustawi przestrzeń,  
+> a Zaklinanie poprowadzi czas.  
 > Gdzie jest Zgoda, tam wzrost jest nieuchronny.” *(0,10,20,40,45)*
 
-[KONIEC]
+[KONIEC_PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Zloty Wiek – zapis autorski.
+– Dokument własny: Złoty Wiek – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Zloty Wiek.
+– Dokument własny: synteza i uzasadnienie dla Złoty Wiek.
 
 [METODOLOGIA]
 – Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Funkcja: strukturalne prowadzenie epoki wzrostu.
 – Status: dokument autorski – poziom operacyjny.

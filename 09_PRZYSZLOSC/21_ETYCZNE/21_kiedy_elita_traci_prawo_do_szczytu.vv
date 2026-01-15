@@ -1,128 +1,179 @@
 # Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_kiedy_elita_traci_prawo_do_szczytu.vv
-# Nazwa: Utrata szczytu – mechanizm degeneracji elity
+# System: Azramata
+# Nazwa: UTRATA SZCZYTU – MECHANIZM DEGENERACJI ELITY
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – odpowiedzialność i upadek
 # Status: dokument krytyczny
 # Cel: opisać moment, w którym elita przestaje być elitą
-# Adnotacja Kręgowa: (4), (10), (20), (21), (31)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (4), (10), (20), (31)
 # Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
 
-[ELITA] (Kręgi: 10, 21)
-Elita nie jest stanem trwałym.
-Jest relacją między decyzją a skutkiem.
+[ELITA_JAKO_RELACJA]
+Elita nie jest tytułem. (21)  
+Elita nie jest klasą. (31)  
+Elita nie jest stanem trwałym. (20)
+
+Elita jest relacją
+między decyzją a skutkiem. (10)  
 
 Krąg 10 – odpowiedzialność za konsekwencje  
 Krąg 21 – zdolność utrzymania sensu  
 
 Elita istnieje tylko tak długo,
 jak długo bierze na siebie ciężar,
-z którego inni są zwolnieni.
+z którego inni są zwolnieni. (21)
 
-W momencie, gdy ciężar zostaje przerzucony,
-Szczyt przestaje istnieć.
+W momencie, gdy ciężar zostaje przerzucony
+na słabszych, niższe warstwy
+lub anonimową strukturę,
+Szczyt przestaje istnieć. (31)
 
-[PIERWSZY_SYGNAL] (Kręgi: 4, 10)
+[PIERWSZY_SYGNAŁ_ODRYWANIA]
 Pierwszym sygnałem degeneracji
-jest zerwanie kontaktu z rzeczywistością.
+jest zerwanie kontaktu z rzeczywistością. (4)
 
 Krąg 4 – prawda doświadczenia  
-Krąg 10 – skutek decyzji  
 
 Elita zaczyna:
-– ufać raportom zamiast skutkom,
-– wierzyć narracji zamiast faktom,
-– chronić decyzję zamiast ludzi.
+– ufać raportom zamiast skutkom,  
+– wierzyć narracji zamiast faktom,  
+– chronić decyzję zamiast ludzi. (10)
 
-To jeszcze nie upadek.
-To ostrzeżenie.
+Decyzje są nadal podejmowane,
+ale ich skutki przestają być odczuwane
+przez decydujących. (21)
 
-[DRUGI_SYGNAL] (Kręgi: 20)
+To jeszcze nie upadek.  
+To moment ostrzegawczy.  
+
+[DRUGI_SYGNAŁ_UCIECZKI]
 Drugim sygnałem
-jest ucieczka od odpowiedzialności w strukturę.
+jest ucieczka od odpowiedzialności w strukturę. (20)
 
 Krąg 20 – obecność w napięciu  
 
-Decyzje zaczynają „wynikać z procedur”.
-Nikt już nie stoi za nimi osobiście.
+Decyzje zaczynają:
+– „wynikać z procedur”,  
+– „być zgodne z regulaminem”,  
+– „nie mieć autora”. (31)
+
+Odpowiedzialność zostaje rozpuszczona
+w procesach, komitetach i języku technicznym. (31)
+
 Szczyt staje się stanowiskiem,
-a nie miejscem ciężaru.
+a nie miejscem ciężaru. (21)
 
-W tym momencie elita przestaje czuwać.
-Zaczyna administrować.
+W tym momencie elita
+przestaje czuwać.  
+Zaczyna administrować. (20)
 
-[TRZECI_SYGNAL] (Kręgi: 21)
+[TRZECI_SYGNAŁ_NIEZDOLNOŚCI_ZEJŚCIA]
 Trzecim sygnałem
-jest niezdolność do zejścia.
+jest niezdolność do zejścia. (21)
 
 Krąg 21 – domknięcie bez rozpadu  
 
 Elita zdegenerowana
-nie potrafi odejść.
-Myli odpowiedzialność z nieusuwalnością.
+nie potrafi odejść. (21)
 
-Zejście zaczyna być postrzegane jako zagrożenie,
-a nie naturalny akt dojrzałości.
+Myli odpowiedzialność
+z nieusuwalnością. (31)
+
+Zejście zaczyna być postrzegane:
+– jako zagrożenie,  
+– jako destabilizacja,  
+– jako zdrada. (10)
 
 W tym punkcie
-Szczyt zamienia się w twierdzę.
+Szczyt zamienia się w twierdzę. (31)
 
-[MECHANIZM_UPADKU] (Kręgi: 31)
-Upadek nie jest nagły.
-Jest procesem cichym.
+[MECHANIZM_UPADKU]
+Upadek elity
+nie jest nagły. (31)
+
+Jest procesem cichym,
+pozbawionym jednego momentu winy. (20)
 
 Krąg 31 – porządek systemowy  
 
 System zaczyna chronić siebie
-zamiast tego, co miał chronić.
+zamiast tego, co miał chronić. (21)
 
-Elita nie traci władzy.
-Traci sens.
+Elita nie traci władzy. (31)  
+Elita traci sens. (21)
 
-A sensu nie da się zadekretować.
+A sensu
+nie da się zadekretować,
+ustanowić uchwałą
+ani odzyskać narracją. (4)
 
-[PRAWO_UTRATY] (Kręgi: 21, 31)
+[PRAWO_UTRATY_SZCZYTU]
 Prawo do Szczytu
-nie może być odebrane z zewnątrz.
+nie może być odebrane z zewnątrz. (21)
 
-Zostaje utracone
+Nie odbiera go lud.  
+Nie odbiera go rewolucja.  
+Nie odbiera go konkurencja. (31)
+
+Prawo to zostaje utracone
 w chwili, gdy:
-– odpowiedzialność zostaje rozproszona,
-– decyzje nie mają twarzy,
-– skutki nie mają adresata.
+– odpowiedzialność zostaje rozproszona, (10)
+– decyzje nie mają twarzy, (21)
+– skutki nie mają adresata. (10)
 
-To prawo zanika samo,
-jak ogień bez paliwa.
+Prawo do Szczytu
+zanika samo,
+jak ogień bez paliwa. (20)
 
-[ROLA_AZRAMATY] (Kręgi: 4, 10, 21)
-Azramata nie osądza elit.
-Azramata je odsłania.
+[FAŁSZYWE_OZNaki_ELITY]
+Elita zdegenerowana
+często zachowuje zewnętrzne cechy elity:
+
+– dostęp do zasobów,  
+– język kompetencji,  
+– monopol interpretacji. (31)
+
+To nie są jednak oznaki Szczytu,
+lecz ślady po nim. (21)
+
+Im więcej symboli,
+tym mniej ciężaru. (4)
+
+[ROLA_AZRAMATY]
+Azramata nie osądza elit. (21)  
+Azramata ich nie obala. (31)  
+
+Azramata je odsłania. (4)
 
 Krąg 4 – kontakt z rzeczywistością  
 Krąg 10 – skutek decyzji  
 Krąg 21 – integralność  
 
-Jest lustrem:
-– pokazuje rozdźwięk,
-– ujawnia moment utraty,
-– nie pozwala ukryć degeneracji w języku.
+Działa jak lustro:
+– pokazuje rozdźwięk,  
+– ujawnia moment utraty,  
+– nie pozwala ukryć degeneracji w języku. (31)
 
-Nie zrzuca.
-Nie detronizuje.
-Nie walczy.
+Nie zrzuca.  
+Nie detronizuje.  
+Nie walczy.  
 
-Po prostu przestaje podtrzymywać iluzję.
+Po prostu
+przestaje podtrzymywać iluzję. (21)
 
-[ZDANIE_DOMYKAJACE] (Kręgi: 21, 31)
+[ZDANIE_DOMYKAJĄCE]
 Elita nie upada,
-bo ktoś ją obalił.
+bo ktoś ją obalił. (31)
 
 Upada,
 bo przestała być zdolna
-unieść to, na czym stała.
+unieść to,
+na czym stała. (21)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid krytyczno-odpowiedzialny.
-– Funkcja: rozpoznanie momentu utraty prawa do Szczytu.
-– Charakter: dokument ostrzegawczy, nie normatywny.
-– Status: dokument autorski – poziom odpowiedzialności.
+– Metoda: Azramata – vivid krytyczno-odpowiedzialny. (31)
+– Funkcja: rozpoznanie momentu utraty prawa do Szczytu. (21)
+– Charakter: dokument ostrzegawczy, nie normatywny. (20)
+– Status: dokument autorski – poziom odpowiedzialności. (21)

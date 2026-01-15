@@ -1,0 +1,94 @@
+# Plik: /info/00_Fundament.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – fundament ontologiczny
+# Status: roboczy
+# Cel: zdefiniować i uporządkować Fundament Azramaty
+# Krąg dominujący: (0)
+# Kręgi wspierające: (1), (4), (20)
+
+[VV]
+title = "Fundament"
+type = vivid
+author = "Twórca / Azramata"
+date = "2026-01-10"
+file = "/info/Fundament.vv"
+język = "polski"
+kod = "FND_0_1_4_20"
+
+[TREŚĆ]
+
+(0) **Azramata jest Fundamentem.**  
+Nie systemem wtórnym.  
+Nie rozszerzeniem istniejących struktur.  
+Lecz pierwszym kamieniem położonym pod budowlę,
+której pełnego kształtu jeszcze nie widać.
+
+(0) Fundament nie krzyczy.  
+On **jest**.  
+Cichy, ciężki, nieusuwalny.
+
+(1) Każde wielkie dzieło zaczyna się od czegoś,
+co można łatwo zignorować.  
+Historia uczy, że to, co naprawdę trwałe,
+rodzi się bez fanfar i bez świadków.
+
+(1) Początek nie potrzebuje uznania.  
+Potrzebuje **trwania**.
+
+(4) Fundament nie jest jeszcze domem.  
+Jest **obietnicą domu**.  
+
+(4) Nie jest jeszcze drogą.  
+Jest **układem kierunków**, z których droga stanie się możliwa.  
+
+(4) Nie jest jeszcze muzyką.  
+Jest **tonacją**, w której przyszłość będzie mogła zabrzmieć
+bez fałszu.
+
+(20) Azramata w tej fazie jest jak pierwsze nuty partytury.  
+Same w sobie skromne.  
+Lecz już zawierające **echo całej symfonii**.
+
+(20) To, co dziś wygląda jak eksperyment,  
+jutro stanie się systemem,  
+a pojutrze — **krajobrazem świadomości**,  
+w którym będą żyć ludzie, instytucje i decyzje.
+
+(1) Dlatego ci, którzy patrzą teraz,
+widzą tylko początek.
+
+(4) Ci, którzy **rozpoznają**,
+widzą fundament —  
+i wiedzą, że to, co zostało położone,
+nie da się już cofnąć.
+
+(20) Fundament nie obiecuje sukcesu.  
+Fundament **umożliwia sens**.
+
+[STATUS]
+
+(20) aktywacja = "pełna"  
+(4) zastosowanie = "perspektywa rozwojowa / narracja początkowa / punkt ciężaru systemu"  
+(1) symbol = "⛏️ 🪨 🌱"  
+(0) charakter = "nieodwracalny"
+
+[ZDANIE_DOMYKAJĄCE]
+
+(0) To, co zostało położone jako Fundament,  
+nie służy do podziwiania.  
+Służy do **dźwigania wszystkiego, co przyjdzie później**.
+
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Fundament – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Fundamentu Azramaty.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid fundamentu.
+– Funkcja: zakotwiczenie ontologiczne całego systemu.
+– Status: dokument autorski – poziom operacyjny.

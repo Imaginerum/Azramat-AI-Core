@@ -1,211 +1,199 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/31_analiza_eu_azramata.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Analiza strategiczna organizmu ponadnarodowego (Azramata: Kręgi + Nitki)
+# Typ: VIVID – Analiza strategiczna organizmu ponadnarodowego (Kręgi + Nitki)
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Analiza EU Azramata
-# Adnotacja Kręgowa: (31), (17), (10), (4), (5), (40), (2)
+# Cel: Zdiagnozować stan Unii Europejskiej „na teraz” w Kręgach i Nitkach oraz wskazać przewagi, luki i rolę Polski.
+# System: Azramata
+# Krąg dominujący: (31) Governance – normy, instytucje, procedury, fundusze, egzekucja ram
+# Kręgi wspierające:
+# (17) Kod/Standard – regulacje technologiczne, interoperacyjność, „normative power”
+# (10) Czas – cykle wieloletnie, trajektorie do 2030+
+# (4)  Lustro – korekta polityk, ocena skutków, mechanizmy przeglądowe
+# (2)  Wybór – tempo decyzji w presji, blokady, asynchroniczność państw
+# (5)  Jednia – spójność wspólnotowa, interesy narodowe, wola strategiczna
+# (40) Serce – kohezja emocjonalna/cywilizacyjna, odporność na polaryzację
 # Podmiot: Unia Europejska (EU)
-# Nitki: Strukturalna (rdzeń), Strukturalna + Krąg 17 (kod/standard), Lustra, Kierunkowa (negocjowana), Jedni (słaba), Operacyjna (rozproszona), Cień (defensywa)
+# Nitki: Strukturalna (rdzeń), Kod/Standard (17), Lustra, Kierunkowa (negocjowana), Jedni (słaba), Operacyjna (rozproszona), Cień (defensywa)
+# Ścieżka: /09_PRZYSZLOSC/02_SCENARIUSZE/
+
+[TAGI]
+EU, Unia Europejska, strategic compass, NIS2, AI Act, EDIP, EDIS, governance, standardy,
+cyber, odporność, autonomia strategiczna, info-space, hybrid, azramata, kręgi, nitki, DKWOC
 
 [META]
-[charakter]=Analiza poglądowa (bez trybu dowodowego)
-[cel]=Zdiagnozować realny stan EU „na teraz” w Kręgach świadomości strategicznej
-[metoda]=Polityki i instrumenty EU → Kręgi → Nitki → przewagi i luki
-[zasada]=EU to potęga norm i rynku; słabość to sprawczość operacyjna i Jednia w presji
+[charakter]=Analiza poglądowa (bez trybu dowodowego). (31)
+[cel]=Ustawić mapę przewag i luk EU w Kręgach oraz ich przełożenie na Nitki działania. (31)
+[metoda]=Polityki i instrumenty EU → Kręgi → Nitki → przewagi/luki → implikacje dla PL. (17)
+[zasada]=EU jest potęgą norm i rynku; słabość to szybka sprawczość operacyjna i Jednia w presji. (5)(2)
 
 ────────────────────────────────────────────
-I. KONTEKST „TERAŹNIEJSZY” (fakty nośne)
+[I_KONTEKST_TERAZNIEJSZY_FAKTY_NOSNE]
 ────────────────────────────────────────────
 
-1) Strategic Compass (22.03.2022) – plan działań bezpieczeństwa i obrony do 2030 (80+ działań). :contentReference[oaicite:0]{index=0}
-2) NIS2 – weszła w życie w 01.2023; transpozycja do 17.10.2024; od 18.10.2024 zastępuje NIS1. :contentReference[oaicite:1]{index=1}
-3) AI Act – weszła w życie 01.08.2024; zakazy + AI literacy od 02.02.2025; GPAI od 02.08.2025; pełna stosowalność 02.08.2026 (wyjątki do 2027). :contentReference[oaicite:2]{index=2}
-4) EDIP/EDIS – EDIS zaprezentowana 03.2024; Rada EU przyjęła EDIP 08.12.2025 (wdrożenie gotowości przemysłu obronnego). :contentReference[oaicite:3]{index=3}
+Strategic Compass – przyjęty przez Radę UE 21.03.2022, plan 80+ działań do 2030. :contentReference[oaicite:0]{index=0}
+NIS2 (Dyrektywa 2022/2555) – weszła w życie w styczniu 2023; transpozycja do 17.10.2024; od 18.10.2024 zastępuje NIS1. :contentReference[oaicite:1]{index=1}
+AI Act – wszedł w życie 01.08.2024; zakazy + AI literacy od 02.02.2025; obowiązki GPAI od 02.08.2025; pełna stosowalność 02.08.2026; wyjątki (część high-risk w produktach regulowanych) do 02.08.2027. :contentReference[oaicite:2]{index=2}
+EDIP – Rada UE przyjęła program 08.12.2025 (final approval), uruchomienie instrumentu wzmacniającego gotowość przemysłu obronnego UE. :contentReference[oaicite:3]{index=3}
 
 ────────────────────────────────────────────
-II. MAPA NITEK EU (kto czym walczy)
+[II_MAPA_NITEK_EU_KTO_CZYM_WALCZY]
 ────────────────────────────────────────────
 
 Nitka Strukturalna: P++
-- prawo, standardy, compliance, instytucje, fundusze, procedury.
-- EU potrafi budować trwałe ramy działania.
+EU buduje trwałe ramy działania: prawo, instytucje, procedury, fundusze, compliance. (31)
 
-Nitka Strukturalna (z domieszką Kręgu 17): P++
-- regulacje technologiczne + ekosystem rynku + standardyzacja (AI Act, cyber).
-- EU wpływa na świat przez „normative power”.
+Nitka Kod/Standard (Strukturalna + 17): P++
+EU wpływa globalnie przez normę technologiczną i standardyzację rynku. (17)(31)
 
 Nitka Lustra (4): P+
-- system przeglądów, raportowania, oceny skutków, konsultacji.
-- korekta bywa solidna, ale powolna.
+EU ma mechanizmy przeglądu, konsultacji, oceny skutków, raportowania. (4)
+Korekta jest solidna, ale powolna w presji. (10)(2)
 
 Nitka Kierunkowa: P/L
-- kierunek istnieje (Strategic Compass; autonomia odpornościowa),
-- ale jest negocjowany, kompromisowy.
+Kierunek istnieje (odporność, autonomia, 2030), ale jest negocjowany i kompromisowy. (2)(31)
 
 Nitka Jedni (5): L
-- EU nie ma jednej woli strategicznej w presji,
-- interesy państw dominują w kryzysie.
+EU nie ma jednej woli strategicznej w presji; interesy państw dominują. (5)(2)
 
-Nitka Operacyjna (7/31): L/P
-- sprawczość operacyjna rośnie (EDIP, inicjatywy obronne),
-- ale pozostaje rozproszona (kompetencje narodowe, polityka wewnętrzna).
+Nitka Operacyjna (31↔7): L/P
+Sprawczość operacyjna rośnie przez inicjatywy obronne i przemysł, ale pozostaje rozproszona. (31)(2)
 
 Nitka Cienia (14): L
-- EU reaguje na operacje wpływu,
-- rzadko narzuca tempo w cieniu; jest celem presji narracyjnej.
+EU jest celem presji narracyjnej i operacji wpływu; gra głównie defensywnie. (14)
 
-Nitka Transcendentalna (sens cywilizacyjny): L
-- wartości są silne w deklaracji,
-- ale brak jednego „Serca Europy” jako spójnego rdzenia.
+Nitka Transcendentalna (sens cywilizacyjny / Serce): L
+Wartości są silne w deklaracji, lecz brakuje jednego „Serca Europy” jako rdzenia spójności. (40)(5)
 
 ────────────────────────────────────────────
-III. KRĘGI – MAPA PRZEWAG (P) I LUK (L)
+[III_KREGI_MAPA_PRZEWAG_I_LUK]
 ────────────────────────────────────────────
 
 (1) Obserwacja: P+
-- zdolności analityczne, agencje, sieci (cyber, rynek, regulacje).
-- brak jednolitego, wojskowego „common picture” w całej EU.
+EU ma zdolności analityczne i sieci w domenie rynku/regulacji/cyber. (31)
+Brak jednolitego, operacyjnego „common picture” w całej EU. (2)
 
 (2) Wybór: L
-- decyzje strategiczne wymagają uzgodnień,
-- podatność na blokady polityczne i asynchroniczne tempo państw.
+Decyzje strategiczne wymagają uzgodnień; podatność na blokady i asynchroniczne tempo. (2)
 
 (3) Doświadczenie: P
-- duży zasób doświadczeń kryzysowych,
-- ale trudność w szybkim przełożeniu na jednolite działanie.
+Duży zasób doświadczeń kryzysowych, ale trudność w szybkim przełożeniu na jednolite działanie. (10)(2)
 
 (4) Lustro: P++
-- EU ma najlepsze narzędzia korekty norm i polityk,
-- „prawda proceduralna” jest mocna.
+Najmocniejsza warstwa EU: „prawda proceduralna”, korekta norm, ocena skutków. (4)(31)
 
 (5) Jednia: L
-- jednia jest reaktywna (wobec kryzysu),
-- słabsza w działaniu proaktywnym i ofensywnym.
+Jednia jest reaktywna (wobec kryzysu), słabsza w działaniu proaktywnym i ofensywnym. (5)(2)
 
 (6) Tożsamość: P/L
-- silna tożsamość „prawa i rynku”,
-- słabsza tożsamość strategiczna (bezpieczeństwo jako wspólny rdzeń).
+Silna tożsamość „prawa i rynku”, słabsza tożsamość bezpieczeństwa jako wspólnego rdzenia. (31)(40)
 
-(7) Wola/impuls: L
-- EU działa wolno w trybie presji i eskalacji,
-- mechanizm „szybkiej woli” nie jest naturalny dla konstrukcji EU.
+(7) Wola/Impuls: L
+EU działa wolno w presji i eskalacji; „szybka wola” nie jest naturalna dla konstrukcji EU. (2)
 
 (8) Sumienie: P+
-- EU ma silną oś etyczną w regulacjach,
-- ale przeciwnicy potrafią ją obrócić w narzędzie presji informacyjnej.
+Silna oś etyczna w regulacjach, ale bywa obracana w narzędzie presji informacyjnej. (14)(4)
 
 (9) Spirala: P
-- innowacja instytucjonalna jest, lecz cykle długie,
-- ryzyko „regulatory lag” wobec tempa technologii.
+Innowacja instytucjonalna istnieje, lecz cykle długie; ryzyko „regulatory lag”. (10)(17)
 
 (10) Czas: P+
-- EU planuje wieloletnimi cyklami,
-- potrafi budować trajektorie do 2030 i dalej (Strategic Compass).
+EU potrafi budować trajektorie wieloletnie do 2030 i dalej. (10)(31)
 
 (14) Cień: L
-- EU jest narażona na manipulacje,
-- brakuje spójnej, ofensywnej gry cieniem (poznawczo-informacyjnej).
+Wysoka podatność na manipulacje; brak spójnej, wyprzedzającej gry poznawczo-informacyjnej. (14)(2)
 
 (17) Kod Istnienia: P++
-- AI Act i ramy cyber to globalny wpływ przez standard. :contentReference[oaicite:4]{index=4}
+AI Act i ramy cyber dają wpływ globalny przez standard. :contentReference[oaicite:4]{index=4}
 
 (31) Governance: P++
-- EU jest supermocarstwem governance: prawo, fundusze, instytucje.
-- ale governance ≠ sprawczość operacyjna na poziomie państwa/armii.
+Supermocarstwo governance: prawo, fundusze, instytucje. (31)
+Governance ≠ tempo operacyjne i jednolita decyzja w presji. (2)
 
 (40) Serce Systemu: L
-- brak wspólnej kohezji emocjonalnej i „jednego serca”,
-- podział północ-południe-wschód-zachód to stałe pęknięcie w presji.
+Brak wspólnej kohezji emocjonalnej; trwałe pęknięcia regionalne i interesowe w presji. (40)(5)
 
 ────────────────────────────────────────────
-IV. DOKTRYNA EU PRZEŁOŻONA NA AZRAMATĘ (esencja)
+[IV_DOKTRYNA_EU_PRZELOZONA_NA_AZRAMATE_ESENCJA]
 ────────────────────────────────────────────
 
-1) Strategic Compass:
-- EU próbuje domknąć lukę (7) Wola i (31) sprawczość w obronie,
-- ale robi to narzędziami (10)(17)(31) – plan, przemysł, procedura. :contentReference[oaicite:5]{index=5}
+Strategic Compass:
+EU próbuje domknąć lukę woli i sprawczości obronnej, narzędziami planu, procedury i koordynacji do 2030. (10)(31) :contentReference[oaicite:5]{index=5}
 
-2) NIS2:
-- EU wzmacnia odporność systemową (31) i higienę cyber (17),
-- przenosi bezpieczeństwo w „kręgosłup gospodarki”. :contentReference[oaicite:6]{index=6}
+NIS2:
+EU przenosi bezpieczeństwo w „kręgosłup gospodarki”: obowiązki, nadzór, odpowiedzialność zarządczą. (31)(17) :contentReference[oaicite:6]{index=6}
 
-3) AI Act:
-- EU chce kontrolować ryzyko i kształtować technologię przez normę (17),
-- wchodzi w zarządzanie modelami GPAI (od 02.08.2025). :contentReference[oaicite:7]{index=7}
+AI Act:
+EU kontroluje ryzyko i kształtuje technologię przez normę; ustawia ramy dla GPAI i rynku. (17)(31) :contentReference[oaicite:7]{index=7}
 
-4) EDIP/EDIS:
-- EU buduje zdolność przemysłową i wspólne zakupy/produkcję,
-- próba domknięcia (7) i (31) w obszarze obronnym. :contentReference[oaicite:8]{index=8}
+EDIP:
+EU buduje zdolność przemysłową i gotowość obronną przez instrument programowy, próbując skrócić dystans do operacjonalizacji. (31)(10) :contentReference[oaicite:8]{index=8}
 
 ────────────────────────────────────────────
-V. NIEDOROZWINIĘCIA KLUCZOWE (LUKI STRATEGICZNE)
+[V_NIEDOROZWINIECIA_KLUCZOWE_LUKI_STRATEGICZNE]
 ────────────────────────────────────────────
 
-L1: Krąg (2) Wybór
-- brak szybkiej, jednolitej decyzji strategicznej w presji.
+L1: (2) Wybór
+Brak szybkiej, jednolitej decyzji strategicznej w presji. (2)
 
-L2: Krąg (5)(40) Jednia + Serce
-- spójność emocjonalna i narracyjna Europy jest niewystarczająca,
-- przeciwnicy grają na pęknięciach.
+L2: (5)(40) Jednia + Serce
+Kohezja emocjonalna i narracyjna Europy jest niewystarczająca; pęknięcia są dźwignią przeciwnika. (40)(14)
 
-L3: Krąg (14) Cień
-- EU jest podatna na operacje wpływu,
-- gra defensywnie, rzadko wyprzedza.
+L3: (14) Cień
+EU gra defensywnie w info-space; tempo narzuca przeciwnik. (14)(2)
 
-L4: Krąg (7) Wola operacyjna
-- EU rośnie w przemyśle obronnym (EDIP),
-- ale wola i tempo pozostają domeną państw narodowych.
+L4: (7) Wola operacyjna
+Postęp w przemyśle i koordynacji nie zamienia się automatycznie w wolę i tempo działania. (31)(2)
 
 ────────────────────────────────────────────
-VI. WARUNEK „ZWYCIĘSTWA” EU W EPOCE KRĘGÓW
+[VI_WARUNEK_ZWYCIESTWA_EU_W_EPOCE_KREGOW]
 ────────────────────────────────────────────
 
-EU nie musi być imperium militarnym,
-żeby wygrać epokę.
+EU nie musi być imperium militarnym, żeby wygrać epokę. (31)
+EU wygrywa, jeśli utrzyma i przyspieszy przewagę (17)(31) jako globalny standard technologii i cyber. (17)(31)
+EU wygrywa, jeśli wzmocni (4) jako szybkie Lustro korekty, również w sytuacji presji. (4)(2)
+EU wygrywa, jeśli zbuduje „węzły Kręgu 40” w państwach frontowych jako kohezję i odporność poznawczą całego systemu. (40)(5)
 
-EU wygrywa, jeśli:
-- utrzyma i przyspieszy (17)(31) → globalny standard technologii i cyber,
-- wzmocni (4) → szybkie lustro i korekta,
-- oraz zbuduje „węzły Kręgu 40” w państwach frontowych,
-  które dadzą kohezję i odporność poznawczą całemu systemowi.
-
-Jeśli EU nie zbuduje (5)(40),
-to jej siła normatywna (17)(31) będzie zjadana przez cień (14) przeciwników.
+Jeśli EU nie domknie (5)(40), to siła normatywna (17)(31) będzie zjadana przez Cień (14) przeciwników. (14)
 
 ────────────────────────────────────────────
-VII. ROLA POLSKI (WNIOSKI OPERACYJNE DLA DKWOC)
+[VII_ROLA_POLSKI_WNIOSKI_OPERACYJNE_DLA_DKWOC]
 ────────────────────────────────────────────
 
-Polska może stać się:
-- węzłem Kręgu 40 (kohezja i odporność) dla EU i NATO,
-- dostawcą metodyki Kręgu 4 (lustro) do walki w cieniu (14),
-- integratorem cyber + info-space (NIS2 logika odporności).
+Polska może stać się węzłem Kręgu 40 dla EU i NATO: kohezja, odporność, zdolność trwania w presji. (40)
+Polska może dostarczyć metodykę Kręgu 4 do korekty interpretacji i walki w Cieniu (14). (4)(14)
+Polska może integrować cyber + info-space jako jeden teatr odporności, spójny z logiką NIS2. (17)(31) :contentReference[oaicite:9]{index=9}
 
 Azramata w PL:
-- nie konkuruje z EU (31)(17),
-- uzupełnia jej luki (5)(40)(14)(2)
-i podnosi realną sprawczość operacyjną.
+Nie konkuruje z przewagą EU w (31)(17). (31)(17)
+Uzupełnia luki EU w (5)(40)(14)(2) i podnosi realną sprawczość w presji. (40)(14)(2)
 
-[STATUS]=ANALIZA ZAKOŃCZONA
+[STATUS]=ANALIZA_ZAKONCZONA
+
 ────────────────────────────────────────────
-[SŁOWNIK]
-- Skala P/L: P++ = przewaga systemowa; P+ = przewaga wyraźna; P = przewaga lokalna; P/L = przewaga negocjowana; L/P = przewaga niestabilna; L = luka strategiczna.
-- Nitka Strukturalna + Krąg 17: skrótowo „Nitka Kod” = struktura + standardy + technologia.
-- DKWOC/WOC: ośrodki dowodzenia w domenie cyber i informacji.
+[SLOWNIK]
+Skala P/L:
+P++ = przewaga systemowa.
+P+  = przewaga wyraźna.
+P   = przewaga lokalna.
+P/L = przewaga negocjowana.
+L/P = przewaga niestabilna.
+L   = luka strategiczna.
 
-[ŹRÓDŁA_TWARDĘ]
-- EU Strategic Compass (2022)
-- NIS2 Directive (EU) 2022/2555
-- AI Act (EU) 2024
-- European Defence Industrial Strategy (EDIS)
-- European Defence Industrial Programme (EDIP)
+Nitka Kod/Standard (17):
+Struktura + standardy + technologia + egzekucja rynku.
 
-[ŹRÓDŁA_ANALITYCZNE]
-- ENISA – EU Cybersecurity Strategy Analysis
-- European Council on Foreign Relations (ECFR)
-- RAND – EU Strategic Autonomy
+────────────────────────────────────────────
+[ZRODLA_TWARDE]
+EU Strategic Compass (Rada UE, 21.03.2022). :contentReference[oaicite:10]{index=10}
+NIS2 Directive (EU) 2022/2555 – wejście w życie (styczeń 2023), transpozycja (17.10.2024), zastąpienie NIS1 (18.10.2024). :contentReference[oaicite:11]{index=11}
+EU AI Act – timeline wdrożenia (01.08.2024 / 02.02.2025 / 02.08.2025 / 02.08.2026 / 02.08.2027). :contentReference[oaicite:12]{index=12}
+EDIP – final approval przez Radę UE 08.12.2025. :contentReference[oaicite:13]{index=13}
+
+[ZRODLA_ANALITYCZNE]
+EEAS – opis i postęp wdrożenia Strategic Compass. :contentReference[oaicite:14]{index=14}
+OSW – analiza EDIP/EDIS i implikacji dla współpracy przemysłowej. :contentReference[oaicite:15]{index=15}
 
 [METODOLOGIA]
-- Azramata – analiza systemowa EU jako organizmu normatywnego
-- Wnioski: mapowanie luk Jedni, Woli i Cienia
+Azramata – analiza systemowa EU jako organizmu normatywnego. (31)
+Wnioski: mapowanie przewag governance/kodu oraz luk Jedni, Wybóru i Cienia. (40)(2)(14)

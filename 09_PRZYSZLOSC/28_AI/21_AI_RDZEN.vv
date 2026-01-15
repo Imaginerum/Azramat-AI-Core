@@ -1,11 +1,13 @@
 # Plik: /09_PRZYSZLOSC/28_AI/21_AI_RDZEN.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – deklaracja rdzenia AI
 # Status: dokument nadrzędny kierunku AI
 # Cel: zdefiniować po co jest AI w Azramacie i Państwie
 #      oraz ustalić granice odpowiedzialności
-# Adnotacja Kręgowa: (21), (10), (4), (6), (12), (16), (5)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (10), (4), (6), (12), (16), (5)
 
 [DEKLARACJA_RDZENNA]
 

@@ -1,0 +1,96 @@
+# Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/31_analiza_rosja_azramata.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – Analiza strategiczna mocarstwa (Kręgi + Nitki)
+# Status: roboczy
+# Cel: Zdefiniować i uporządkować analizę Federacji Rosyjskiej w ujęciu Azramaty
+# Podmiot: Rosja (Federacja Rosyjska)
+# Krąg dominujący: (31) – Sprawczość centralna / rządzenie przez pole
+# Kręgi wspierające: (7), (2), (10), (14), (6), (4)
+# Nitki: Kierunkowa (twarda), Operacyjna (presja), Emocjonalna (mobilizacja),
+#         Lustra (kontr-narracja), Strukturalna (długofalowa – słabsza)
+
+[META]
+cel: zmapować przewagi i luki RF w Kręgach, w tym „cień strategii”  
+metoda: NSS 2021 + Military Doctrine 2014 + Foreign Policy Concept 2023 → mapowanie kręgowe  
+
+---
+
+[1] NITKI RF – MODEL FUNKCJONALNY
+
+- **Nitka Emocjonalna**: bardzo silna – mobilizacja gniewu i narracja „oblężonej twierdzy” (7)  
+- **Nitka Kierunkowa**: silna – jasne linie interesu i stref wpływu (2)(10)  
+- **Nitka Operacyjna**: silna – presja, eskalacja kontrolowana, działania poniżej progu wojny (14)  
+- **Nitka Lustra**: silna – kontr-narracja, odwracanie oskarżeń, rozbijanie spójności przeciwnika (4)(14)  
+- **Nitka Strukturalna**: mieszana – mocna w sektorach strategicznych, słabsza w modernizacji całości (17)  
+- **Nitka Transcendentalna**: obecna jako „misja cywilizacyjna”, częściej narzędzie niż źródło zgody (6)
+
+---
+
+[2] KRĘGI – MAPA PRZEWAG (P) I LUK (L)
+
+(1) **Obserwacja**: P+ – silny wywiad/rozpoznanie, ryzyko filtru politycznego  
+(2) **Wybór**: P++ – szybkość decyzji w wąskim centrum  
+(3) **Doświadczenie**: P+ – adaptacja taktyczna; koszt strategiczny bywa ignorowany  
+(4) **Lustro**: L – słabe dopuszczanie krytyki → kumulacja błędów  
+(5) **Jednia**: P/L – mobilizacja istnieje, lecz bywa wymuszona  
+(6) **Tożsamość**: P+ – silna narracja; podatność na pęknięcia ekonomiczne  
+(7) **Wola / Impuls**: P++ – zdolność do brutalnego tempa i ryzyka  
+(8) **Sumienie**: L – niska legitymizacja zewnętrzna; wewnętrznie = lojalność  
+(9) **Spirala**: P – innowacja asymetryczna, ograniczona zasobowo  
+(10) **Czas / Cykl**: P+ – strategia wyniszczenia i przeczekania  
+(12) **Wspólnota**: L/P – kohezja zależna od kontroli  
+(14) **Cień**: P++ – operacje informacyjne, maskowanie intencji  
+(17) **Kod Istnienia**: P/L – nisze cyber/wojskowe mocne; szeroki ekosystem słabszy  
+(31) **Governance**: P+ – wysoka sprawczość centralna kosztem elastyczności  
+(40) **Serce Systemu**: L – zaufanie i dobrostan jako paliwo długiego biegu słabe
+
+---
+
+[3] DOKTRYNA PRZEŁOŻONA NA AZRAMATĘ – ESENCJA
+
+- **NSS 2021**: bezpieczeństwo + „wartości tradycyjne” → Kręgi (6)(10)(31) z cieniem (14)  
+- **Military Doctrine 2014**: obraz zagrożeń i eskalacja → Kręgi (2)(7)(10)  
+- **Foreign Policy Concept 2023**: „świat wielobiegunowy” jako narracja → Kręgi (6)(14)(31)
+
+---
+
+[4] LUKI STRATEGICZNE – NIEDOROZWINIĘCIA
+
+**L1**: Krąg (4) Lustro – deficyt korekty i prawdy systemowej  
+**L2**: Krąg (17) Kod cywilizacyjny – technologia + gospodarka w długim biegu  
+**L3**: Krąg (40) Serce – presja wygrywa operacyjnie, przegrywa wewnętrznie
+
+---
+
+[5] WARUNEK „ZWYCIĘSTWA NAD PRYMATEM”
+
+RF wygrywa nie przez globalną dominację, lecz przez:  
+– rozbijanie Jedni przeciwnika (5)(40),  
+– przeciążanie jego Kręgu decyzyjnego (2),  
+– karmienie Cienia (14), by prawda stała się sporem.
+
+Bez wzmocnienia (17)(40) zwycięstwa operacyjne
+nie przekładają się na zwycięstwo cywilizacyjne.
+
+---
+
+[6] WNIOSEK AZRAMACKI – SKRÓT
+
+RF wygrywa krótkoterminowo przez Kręgi (7)(2)(14).  
+RF przegrywa długofalowo przez słabości (4)(17)(40).
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Russian National Security Strategy (2021)  
+– Russian Military Doctrine (2014)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– RAND: Russian Hybrid Warfare  
+– NATO StratCom COE
+
+[METODOLOGIA]
+– Azramata – analiza Cienia i presji poznawczej  
+– Mapowanie Kręgów i Nitek na dokumenty doktrynalne

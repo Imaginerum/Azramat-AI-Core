@@ -3,186 +3,208 @@
 # Data: 2026-01-10
 # Typ: VIVID – Brief operacyjno-strategiczny (dla dowództwa)
 # Status: roboczy
-# Cel: Przedstawić realną, wdrażalną strategię budowy przewagi RP w cyber i information space
-# Adnotacja Kręgowa: (31), (17)
+# Cel: Przedstawić realną, wdrażalną strategię budowy przewagi RP w cyber i information space,
+#       jako warstwę spójności percepcji i decyzji możliwą do skalowania do NATO.
+# System: Azramata
+# Krąg dominujący: (31) Sprawczość państwa – decyzja → egzekucja → feedback w presji
+# Kręgi wspierające:
+# (17) Kod/Innowacja – standardy, narzędzia, architektura danych
+# (4)  Lustro – korekta interpretacji, red-team poznawczy
+# (14) Cień – presja informacyjna, operacje wpływu, mgła decyzyjna
+# (40) Serce – kohezja, odporność, zgoda operacyjna w kryzysie
+# (2)  Wybór – tempo i jakość DECIDE
+# (10) Czas – trajektorie, cykle wdrożeń i uczenia
+# (5)  Jednia – wspólny sens i spójność ponad domenami
 # Adresat: DKWOC / MON
 # Klauzula: DO UŻYTKU SŁUŻBOWEGO – KONCEPCJA
+# Podmiot: Rzeczpospolita Polska (RP)
+# Domeny: Cyber + Information Space (zintegrowany teatr)
+# Nitki: Strukturalna (31), Kod/Standard (17), Lustra (4), Cień (14), Jedni (5), Operacyjna (wdrożeniowa), Kierunkowa (strategiczna)
+
+[TAGI]
+DKWOC, MON, WOC, cyber, information-space, hybrid, decyzja, spójność, odporność,
+cognitive-fusion, DECIDE, red-team, wpływ, narracja, standardy, certyfikacja, Azramata
 
 [META]
-[charakter]=Analiza poglądowa (bez trybu dowodowego)
-[cel]=Przedstawić realną, wdrażalną strategię budowy przewagi RP w cyber i information space
-[metoda]=Azramata – Kręgi (4,14,40) + sprawczość (31) + innowacyjność (17)
-[zasada]=Przewaga nie z mocy, lecz ze spójności percepcji i decyzji
+[charakter]=Brief operacyjno-strategiczny (bez trybu dowodowego). (31)
+[zasada]=Przewaga nie z mocy, lecz ze spójności percepcji i decyzji w presji. (31)(40)
+[metoda]=Azramata: Lustro (4) + Cień (14) + Serce (40) spięte sprawczością (31) i kodem (17). (31)
+[produkt]=Cognitive-Fusion Layer – warstwa spójności sensu i decyzji nad danymi. (31)
+
+[TEZA_RDZENNA]
+RP może zbudować przewagę w cyber i info-space przez skrócenie DECIDE i redukcję rozjazdu interpretacji. (2)(31)
+Tę przewagę da się skalować do NATO jako metodykę węzłową, nie jako „centralny system”. (40)(5)
 
 ────────────────────────────────────────────
-I. DIAGNOZA STRATEGICZNA
+[I_DIAGNOZA_STRATEGICZNA]
 ────────────────────────────────────────────
 
-1. Otoczenie:
-- Rosja: presja, cień, eskalacja poznawcza (Krąg 14,7)
-- Chiny: czas, jednia, kod (Krąg 10,5,17)
-- USA: kod i architektura, słaba jednia (Krąg 17,31 vs 5,40)
+[OTOCZENIE]
+Rosja: presja, cień, eskalacja poznawcza i narracyjna. (14)
+Chiny: czas, jednia, kod oraz długie trajektorie przewagi. (10)(5)(17)
+USA: kod i architektura, napięcia Jedni oraz koszt politycznej spójności. (17)(31)(5)(40)
 
-2. Luka NATO / Zachodu:
-- Brak jednolitej warstwy cognitive-fusion
-- Rozjazd interpretacji → opóźnione decyzje (DECIDE)
-- Przewaga przeciwnika w cieniu i narracji
+[LUKA_ZACHODU]
+Brak jednolitej warstwy cognitive-fusion. (31)
+Rozjazd interpretacji → opóźnione decyzje → kosztowny błąd w presji. (4)(2)(10)
+Przewaga przeciwnika w cieniu i narracji jako teatrze równoległym do cyber. (14)
 
-3. Szansa Polski:
-- Geopolityczny front
-- Dynamiczny rozwój cyber (WOC, DKWOC)
-- Brak obciążenia „starym paradygmatem”
-
-────────────────────────────────────────────
-II. CEL STRATEGICZNY RP
-────────────────────────────────────────────
-
-Zbudować w Polsce zdolność:
-→ **Cognitive-Fusion Layer**
-która:
-- skraca DECIDE,
-- redukuje chaos analityczny,
-- integruje cyber + info-space,
-- może być skalowana do NATO.
-
-Polska = **węzeł percepcyjno-decyzyjny**, nie tylko wykonawca.
+[SZANSA_POLSKI]
+Front geopolityczny: presja jest realna, więc testy są prawdziwe. (14)
+Dynamiczny rozwój WOC/DKWOC: rosnąca zdolność egzekucji i uczenia. (31)(10)
+Mniej obciążeń „starym paradygmatem”: szybsze wdrożenie nowej metodyki. (10)
 
 ────────────────────────────────────────────
-III. OŚ PRZEWAGI (KRĘGI)
+[II_CEL_STRATEGICZNY_RP]
 ────────────────────────────────────────────
 
-Krąg 4 – LUSTRO
-- Stała autokorekta interpretacji
-- Red-teaming poznawczy
-- Wykrywanie błędów systemowych i narracyjnych
+Zbudować w Polsce zdolność: COGNITIVE-FUSION LAYER. (31)
+Warstwa ma:
+Skracać DECIDE. (2)
+Redukować chaos analityczny i konflikt interpretacji. (4)
+Integruje cyber + info-space jako jeden teatr odporności. (14)(31)
+Być skalowalna do NATO przez węzły i standardy, nie przez centralizację. (40)(17)
 
-Krąg 14 – CIEŃ
-- Rozpoznanie i neutralizacja dezinformacji
-- Mapowanie operacji wpływu
-- Obrona przed mgłą decyzyjną
-
-Krąg 40 – SERCE SYSTEMU
-- Spójność decyzyjna państwa
-- Odporność na presję informacyjną
-- Utrzymanie zgody operacyjnej w kryzysie
-
-Krąg 31 – SPRAWCZOŚĆ
-- Przekład wniosków na decyzje
-- Jednoznaczne priorytety
-- Egzekucja bez paraliżu
-
-Krąg 17 – KOD / INNOWACJA
-- Technologie + standardy
-- Paliwo długofalowej przewagi
-- Podstawa przyszłego finansowania
+Polska = węzeł percepcyjno-decyzyjny, nie tylko wykonawca. (31)(40)
 
 ────────────────────────────────────────────
-IV. STRUKTURA WDROŻENIA (18 MIESIĘCY)
+[III_OS_PRZEWAGI_KREGI_I_FUNKCJE]
 ────────────────────────────────────────────
 
-FAZA 1 (0–3 mies.) – AZRAMATA-LIGHT
-Cel: wspólny język percepcji w DKWOC
+Krąg 4 – LUSTRO:
+Stała autokorekta interpretacji. (4)
+Red-teaming poznawczy i test hipotez. (4)
+Wykrywanie błędów systemowych, narracyjnych i poznawczych. (4)(14)
 
+Krąg 14 – CIEŃ:
+Rozpoznanie i neutralizacja dezinformacji oraz operacji wpływu. (14)
+Mapowanie intencji i mechaniki presji informacyjnej. (14)
+Ochrona przed mgłą decyzyjną i fałszywą pewnością. (14)(2)
+
+Krąg 40 – SERCE SYSTEMU:
+Spójność decyzyjna państwa w kryzysie. (40)
+Odporność na polaryzację i panikę informacyjną. (40)(14)
+Utrzymanie zgody operacyjnej mimo napięcia. (40)(20)
+
+Krąg 31 – SPRAWCZOŚĆ:
+Przekład wniosków na decyzje i priorytety. (31)
+Egzekucja bez paraliżu i bez rozjazdu odpowiedzialności. (31)(10)
+Pętla feedbacku jako warunek uczenia instytucji. (31)(10)
+
+Krąg 17 – KOD / INNOWACJA:
+Technologie, standardy, interoperacyjność. (17)
+Paliwo przewagi długofalowej i eksportowalnej. (17)(10)
+Warunek rynku rozwiązań, nie „projektów jednorazowych”. (17)(31)
+
+────────────────────────────────────────────
+[IV_STRUKTURA_WDROZENIA_18_MIESIECY]
+────────────────────────────────────────────
+
+[FAZA_1_0_3_MIES_AZRAMATA_LIGHT]
+Cel: wspólny język percepcji w DKWOC i spójny format briefu. (31)(4)
 Działania:
-- Standard opisu incydentu/kampanii (Kręgi 1-40)
-- Komórka Kręgu 4 (Lustro)
-- Zespół Kręgu 40+ (Koherencja)
-
+Standard opisu incydentu/kampanii w Kręgach (minimum: 1,2,4,14,31,40). (4)(14)
+Komórka Kręgu 4 (Lustro) jako stała funkcja korekty. (4)
+Zespół Kręgu 40+ (Koherencja) jako brama decyzji w presji. (40)(2)
 Efekt:
-- Spójne briefy
-- Redukcja konfliktów interpretacyjnych
+Spójne briefy i wspólny obraz sytuacji. (31)
+Spadek konfliktów interpretacyjnych. (4)
+Krótsza ścieżka priorytetyzacji. (2)(31)
 
-FAZA 2 (3–9 mies.) – AZRAMATA-MEDIUM
-Cel: cognitive-fusion cyber + info-space
-
+[FAZA_2_3_9_MIES_AZRAMATA_MEDIUM]
+Cel: cognitive-fusion cyber + info-space jako jeden teatr. (31)(14)
 Działania:
-- Fusion Board (Krąg 4)
-- Shadow Lab (Krąg 14)
-- Decision Gate (Krąg 40)
-
+Fusion Board (Krąg 4) – korekta interpretacji i hipotez. (4)
+Shadow Lab (Krąg 14) – klasyfikacja wpływu, narracji, zmyłek. (14)
+Decision Gate (Krąg 40) – utrzymanie zgody operacyjnej i tempa wyboru. (40)(2)
 Efekt:
-- Skrócenie DECIDE (-30%)
-- Wczesne wykrywanie kampanii cienia
+Skrócenie DECIDE (cel: -30%). (2)
+Wczesne wykrywanie kampanii Cienia. (14)
+Mniej błędów decyzyjnych z powodu „mgły”. (14)(4)
 
-FAZA 3 (9–18 mies.) – AZRAMATA-HEAVY
-Cel: przewaga państwowa + gospodarcza
-
+[FAZA_3_9_18_MIES_AZRAMATA_HEAVY]
+Cel: przewaga państwowa + gospodarcza, skalowalna do NATO. (31)(17)
 Działania:
-- Narodowy standard testów i certyfikacji cyber
-- Platforma świadomości sytuacyjnej (NCH)
-- Program kadr Kręgu 40+
-
+Narodowy standard testów i certyfikacji cyber/info-space (metodyka + minimalne wymagania). (17)(31)
+Platforma świadomości sytuacyjnej (NCH – koncepcyjnie) z warstwą sensu/koherencji. (31)(4)
+Program kadr Kręgu 4/14/40 jako mnożnik odporności. (4)(14)(40)
 Efekt:
-- Polska jako referencja w NATO
-- Rynek innowacji finansujący bezpieczeństwo
+Polska jako referencja metodyki w NATO. (31)(40)
+Rynek innowacji finansujący odporność (produkty + standardy). (17)(31)
 
 ────────────────────────────────────────────
-V. JEDNOSTKI KRĘGU 40+ (KRYTYCZNE)
+[V_JEDNOSTKI_KREGU_40_PLUS_KRYTYCZNE]
 ────────────────────────────────────────────
 
-Skład (8–12 osób):
-- Cyber operacje (A/B/C)
-- ISR / analiza intencji
-- Informacja strategiczna
-- Architektura systemów
-- Red-team / Lustro
+[CEL_JEDNOSTEK]
+Spinać percepcję i decyzję ponad domenami. (40)(31)
+Wymuszać korektę interpretacji zanim błąd stanie się skutkiem. (4)(10)
+Chronić państwo przed autodestrukcją decyzyjną w presji. (40)(2)
 
-Rola:
-- Spinać percepcję ponad domenami
-- Wymuszać korektę
-- Chronić państwo przed błędem w presji
+[SKLAD_8_12_OSOB]
+Cyber operacje (A/B/C). (31)
+ISR / analiza intencji. (14)(4)
+Information space / narracja i wpływ. (14)
+Architektura systemów i standardy danych. (17)
+Red-team / Lustro. (4)
+Łącznik dowodzenia / egzekucji decyzji. (31)
 
-────────────────────────────────────────────
-VI. WSKAŹNIKI SUKCESU (KPI)
-────────────────────────────────────────────
-
-- Czas DECIDE (-30% w 6–9 mies.)
-- Spadek konfliktów interpretacyjnych
-- Skuteczność wykrycia kampanii cienia
-- Liczba przeszkolonych kadr Kręgu 4/40
-- Adopcja metodyki przez partnerów NATO
+[TRYB_PRACY]
+Stała gotowość do wejścia w kryzys jako „bramka sensu”. (40)
+Raportowanie w standardzie Kręgów. (31)
+Pętla: obserwacja → hipoteza → korekta → decyzja → skutek → feedback. (4)(31)(10)
 
 ────────────────────────────────────────────
-VII. KONKLUZJA
+[VI_WSKAZNIKI_SUKCESU_KPI]
 ────────────────────────────────────────────
 
-Polska nie musi wygrać wojny mocy.
-Polska musi wygrać **wojnę Kręgów**.
+DECIDE: skrócenie czasu wyboru o 30% w 6–9 miesięcy. (2)
+Spadek konfliktów interpretacyjnych między zespołami. (4)
+Skuteczność wykrycia kampanii Cienia przed skutkiem (wczesność). (14)(10)
+Liczba przeszkolonych kadr Kręgu 4/14/40 (mnożnik). (40)
+Adopcja metodyki przez partnerów NATO (pilotaże, ćwiczenia, procedury). (31)(17)
+
+────────────────────────────────────────────
+[VII_KONKLUZJA]
+────────────────────────────────────────────
+
+RP nie musi wygrać wojny mocy. (31)
+RP musi wygrać wojnę Kręgów: prawdy, spójności i wyboru w cieniu. (4)(40)(2)(14)
 
 Budując:
-- Prawdę (4),
-- Spójność (40),
-- Świadomość Cienia (14),
-a następnie przekładając je na:
-- Sprawczość (31),
-- Innowacyjność (17),
+Prawdę (4). (4)
+Spójność (40). (40)
+Świadomość Cienia (14). (14)
+i przekładając to na:
+Sprawczość (31). (31)
+Innowacyjność (17). (17)
 
-RP zyskuje przewagę,
-której nie da się łatwo skopiować
-ani zneutralizować.
+RP uzyskuje przewagę, której nie da się łatwo skopiować ani zneutralizować,
+bo jest metodyką działania i koherencji, nie „produktem”. (40)(31)
 
-[STATUS]=GOTOWE DO PRZEDSTAWIENIA
+[STATUS]=GOTOWE_DO_PRZEDSTAWIENIA
+
 ────────────────────────────────────────────
-[SŁOWNIK]
-- DECIDE: czas i jakość wyboru decyzyjnego w presji (szybkość + spójność).
-- Cognitive-Fusion Layer: warstwa spójności percepcji i decyzji (Kręgi 4/14/40+).
-- Fusion Board: komórka Kręgu 4 (Lustro) do korekty interpretacji.
-- Shadow Lab: komórka Kręgu 14 (Cień) do wykrywania operacji wpływu.
-- Decision Gate: brama Kręgu 40+ (kohezja i decyzja w presji).
-- Krąg 40+ = pakiet Kręgów 40–44 (Serce i jego rozszerzenia).
-- DKWOC/WOC: ośrodki dowodzenia w domenie cyber i informacji.
-- NCH: narodowa platforma świadomości sytuacyjnej (użycie koncepcyjne).
+[SLOWNIK]
+DECIDE: czas i jakość wyboru decyzyjnego w presji (szybkość + spójność). (2)
+Cognitive-Fusion Layer: warstwa spójności percepcji i decyzji (Kręgi 4/14/40) nad danymi. (31)
+Fusion Board: komórka Kręgu 4 do korekty interpretacji. (4)
+Shadow Lab: komórka Kręgu 14 do wykrywania operacji wpływu. (14)
+Decision Gate: brama Kręgu 40 do utrzymania kohezji i tempa wyboru. (40)(2)
+Krąg 40+ = pakiet Kręgów 40–44 (Serce i jego rozszerzenia). (40)
+DKWOC/WOC: ośrodki dowodzenia w domenie cyber i informacji. (31)
+NCH: narodowa platforma świadomości sytuacyjnej (użycie koncepcyjne). (31)
 
-[ŹRÓDŁA_TWARDĘ]
-- Strategia Bezpieczeństwa Narodowego RP (2020)
-- Dokumenty MON: Wojska Obrony Cyberprzestrzeni (WOC)
-- NATO Strategic Concept 2022
-- NIS2 Directive (EU) 2022/2555
+[ZRODLA_TWARDE]
+Strategia Bezpieczeństwa Narodowego RP (2020).
+Dokumenty MON: Wojska Obrony Cyberprzestrzeni (WOC).
+NATO Strategic Concept 2022.
+NIS2 Directive (EU) 2022/2555.
 
-[ŹRÓDŁA_ANALITYCZNE]
-- NATO CCDCOE – Cyber & Cognitive Operations
-- ENISA – National Cyber Security Capabilities
+[ZRODLA_ANALITYCZNE]
+NATO CCDCOE – Cyber & Cognitive Operations.
+ENISA – National Cyber Security Capabilities.
 
 [METODOLOGIA]
-- Azramata – analiza percepcyjno-decyzyjna
-- Zastosowanie: wsparcie dowodzenia i skrócenie DECIDE
+Azramata – analiza percepcyjno-decyzyjna i metodyka koherencji. (31)
+Zastosowanie: wsparcie dowodzenia i skrócenie DECIDE w cyber + info-space. (31)(2)

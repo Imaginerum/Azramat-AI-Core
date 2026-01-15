@@ -1,66 +1,127 @@
 # Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_komu_wolno_mowic.vv
+# System: Azramata
 # Nazwa: Komu wolno mówić
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – autorytet
 # Status: dokument graniczny
 # Cel: zdefiniować prawo głosu bez narracyjnej dominacji
-# Adnotacja Kręgowa: (4), (10), (17), (21), (31)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (4), (10), (17), (31)
 # Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
 
-[PRAWO_GLOSU] (Kręgi: 10, 21)
-Prawo głosu
+[PRAWO_GŁOSU]
+Prawo głosu (21)
 nie wynika z funkcji,
-lecz z odpowiedzialności.
+stanowiska
+ani formalnego mandatu. (31)
 
-Krąg 10 – skutek decyzji  
-Krąg 21 – integralność  
+Prawo głosu wynika z odpowiedzialności. (10)
 
 Mówić wolno temu,
-kto jest gotów ponieść konsekwencje
-wypowiedzianych słów.
+kto jest gotów
+ponieść skutek wypowiedzianych słów
+bez przenoszenia go na innych. (10)
 
-[CISZA_JAKO_WARUNEK] (Kręgi: 4, 17)
-Ten, kto nie wytrzymuje ciszy,
-nie jest gotów mówić.
+Głos bez skutku
+jest tylko dźwiękiem. (4)
 
-Krąg 4 – prawda doświadczenia  
-Krąg 17 – rozeznanie  
+[CISZA_JAKO_PRÓG]
+Cisza jest warunkiem mówienia. (17)
 
-Cisza odsiewa:
-– potrzebę wpływu,
-– lęk przed utratą znaczenia,
-– narrację obronną.
+Ten, kto nie potrafi
+pozostać w ciszy,
+nie jest gotów mówić. (4)
 
-[ZAKAZ_ZAWLASZCZENIA] (Kręgi: 21)
-Autorytet nie zawłaszcza przestrzeni.
+Cisza odsiewa: (17)
+– potrzebę wpływu,  
+– lęk przed utratą znaczenia,  
+– przymus narracji obronnej. (31)
+
+Dopiero po ciszy
+słowo przestaje być reakcją,
+a staje się aktem odpowiedzialnym. (21)
+
+[ŹRÓDŁO_AUTORYTETU]
+Autorytet (21)
+nie bierze się z głośności,
+liczby odbiorców
+ani powtarzalności przekazu. (31)
+
+Autorytet rodzi się tam, (10)
+gdzie słowo:
+– pozostaje spójne z działaniem,  
+– nie wymaga osłony interpretacyjnej,  
+– może zostać cofnięte bez utraty godności. (17)
+
+Ten, kto musi bronić swoich słów,
+nie był jeszcze gotów ich wypowiedzieć. (4)
+
+[ZAKAZ_ZAWŁASZCZENIA]
+Autorytet nie zawłaszcza przestrzeni. (21)
 
 Nie mówi:
 „ja wiem lepiej”.
-Mówi:
+Nie mówi:
+„inni nie rozumieją”.
+
+Mówi: (10)
 „to jest mój skutek – sprawdź”.
 
 Autorytet zaprasza do weryfikacji,
-nie do wiary.
+nie do wiary. (17)
 
-[STRUKTURA_PANSTWA] (Kręgi: 31)
-Państwo wymaga głosów,
-ale ginie od nadmiaru mówców.
+Kto domaga się wiary,
+szuka władzy,
+nie sensu. (31)
 
-Krąg 31 – porządek systemowy  
+[MIARA_MÓWIENIA]
+Miara mówienia (21)
+nie jest ilością słów,
+lecz długością odpowiedzialności,
+którą się po nich niesie. (10)
 
-Jeśli każdy mówi,
-nikt nie odpowiada.
+Ten, kto odpowiada naprawdę,
+nie potrzebuje mówić długo. (4)
 
-Jeśli ktoś odpowiada,
-nie musi mówić długo.
+Ten, kto mówi długo,
+często ucieka przed odpowiedzialnością
+rozszerzając narrację. (31)
 
-[ZDANIE_DOMYKAJACE] (Kręgi: 21, 31)
+[STRUKTURA_PAŃSTWA]
+Państwo potrzebuje głosów. (31)
+Ale ginie od nadmiaru mówców. (31)
+
+Jeśli każdy mówi, (31)
+nikt nie odpowiada. (10)
+
+Jeśli ktoś odpowiada, (21)
+nie musi mówić często. (17)
+
+Struktura państwa
+utrzymuje się nie przez wolność mówienia,
+lecz przez gotowość ponoszenia skutków. (10)
+
+[PRÓBA_BŁĘDU]
+Prawo głosu ujawnia się w pomyłce. (10)
+
 Mówić wolno temu,
+kto w razie błędu: (21)
+– nie ukryje się za innymi,  
+– nie rozproszy winy,  
+– nie przykryje skutku nową narracją. (31)
+
+Kto potrafi przyjąć błąd,
+odzyskuje prawo mówienia. (17)
+
+[ZDANIE_DOMYKAJĄCE]
+Mówić wolno temu, (21)
 kto w razie pomyłki
-nie ukryje się za innymi.
+pozostanie widoczny
+razem ze skutkiem swoich słów. (10)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid autorytetu.
-– Funkcja: ochrona przestrzeni publicznej przed inflacją głosu.
-– Status: dokument graniczny – poziom odpowiedzialności.
+Metoda: Azramata – vivid autorytetu. (21)
+Funkcja: ochrona przestrzeni publicznej przed inflacją głosu i narracyjną dominacją. (31)
+Charakter: dokument graniczny, selektywny. (17)
+Status: dokument autorski – poziom odpowiedzialności. (21)

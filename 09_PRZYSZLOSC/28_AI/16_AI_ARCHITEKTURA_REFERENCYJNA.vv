@@ -1,10 +1,12 @@
 # Plik: /09_PRZYSZLOSC/28_AI/16_AI_ARCHITEKTURA_REFERENCYJNA.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – architektura referencyjna
 # Status: dokument techniczno-strukturalny
 # Cel: opisać warstwowy model AI od wejść do audytu
-# Adnotacja Kręgowa: (16), (12), (4), (5), (6), (8), (11)
+# Krąg dominujący: (16)
+# Kręgi wspierające: (12), (4), (5), (6), (8), (11)
 
 [MODEL_WARSTWOWY]
 

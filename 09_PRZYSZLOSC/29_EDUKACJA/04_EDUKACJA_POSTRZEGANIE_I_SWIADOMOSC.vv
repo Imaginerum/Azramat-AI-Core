@@ -1,10 +1,12 @@
 # Plik: /09_PRZYSZLOSC/29_EDUKACJA/04_EDUKACJA_POSTRZEGANIE_I_SWIADOMOSC.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – postrzeganie i świadomość
 # Status: dokument rozwojowy
 # Cel: zdefiniować edukację jako rozwój percepcji, nie akumulację wiedzy
-# Adnotacja Kręgowa: (1), (3), (4), (6), (8), (10), (15)
+# Krąg dominujący: (4)
+# Kręgi wspierające: (1), (3), (6), (8), (10), (15)
 
 [WIEDZA_VS_POSTRZEGANIE] (4)
 Wiedza jest zbiorem informacji. (1)
@@ -93,14 +95,3 @@ jako przekaz wartości bez narzędzi ich rozumienia. (6)
   sensu i odpowiedzialności. (10)
 – Charakter: dokument rozwojowy, nie normatywny. (8)
 – Status: dokument autorski – poziom świadomości. (15)
-
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: 02 EDUKACJA POSTRZEGANIE I SWIADOMOSC – zapis autorski.
-
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla 02 EDUKACJA POSTRZEGANIE I SWIADOMOSC.
-
-[METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.

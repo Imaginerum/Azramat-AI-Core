@@ -1,10 +1,12 @@
 # Plik: /09_PRZYSZLOSC/28_AI/18_AI_WERYFIKACJA_EWALUACJA_METRYKI.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – ewaluacja i metryki
 # Status: dokument kontrolny
 # Cel: zdefiniować metryki jakości i testy spójności decyzji
-# Adnotacja Kręgowa: (18), (21), (16), (5), (12), (8), (11)
+# Krąg dominujący: (18)
+# Kręgi wspierające: (21), (16), (5), (12), (8), (11)
 
 [ZASADA_EWALUACJI]
 

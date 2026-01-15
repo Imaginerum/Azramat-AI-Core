@@ -1,10 +1,12 @@
 # Plik: /09_PRZYSZLOSC/28_AI/21_AI_BEZPIECZENSTWO_REDTEAM_GUARDRAILS.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – bezpieczeństwo AI
 # Status: dokument ochronny
 # Cel: określić zagrożenia, guardrails i procedury red-team
-# Adnotacja Kręgowa: (21), (24), (23), (22), (16), (5), (8)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (24), (23), (22), (16), (5), (8)
 
 [ZASADA_BEZPIECZEŃSTWA_RDZENNA]
 

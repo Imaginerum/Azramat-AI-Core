@@ -1,70 +1,105 @@
 # Plik: /09_PRZYSZLOSC/20_BEZPIECZENSTWO/20_Kto_Naprawde_Czuwa.vv
-# Nazwa: KTO NAPRAWDĘ CZUWA (20)
+# System: Azramata
+# Nazwa: KTO NAPRAWDĘ CZUWA
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rozpoznanie postawy
 # Status: dokument rozróżniający
 # Cel: odróżnić czuwanie od aktywizmu, narracji i pozornej sprawczości
-# Adnotacja Kręgowa (globalna): (3), (4), (5), (10), (17), (20), (21)
+# Krąg dominujący: (20)
+# Kręgi wspierające: (3), (4), (5), (10), (17), (21)
 # Ścieżka: /09_PRZYSZLOSC/20_BEZPIECZENSTWO/
 
-[CZUWANIE]
-Czuwanie nie jest ruchem ani kampanią. (20)
-Czuwanie jest stanem obecności w rzeczywistości. (20)
-Czuwanie utrzymuje sens bez potrzeby eskalacji. (21)
+[CZUWANIE_JAKO_STAN]
+Czuwanie nie jest ruchem ani kampanią. (20)  
+Czuwanie nie jest reakcją na bodziec. (3)  
+Czuwanie jest stanem trwałej obecności w rzeczywistości. (20)
 
-Czuwający widzi wcześniej niż inni. (4)
-Czuwający mówi ciszej, bo nie musi przekonywać. (21)
-Czuwający działa rzadziej, ale trafniej. (10)
+Czuwanie utrzymuje sens bez potrzeby eskalacji. (21)  
+Nie przyspiesza tam, gdzie potrzebna jest stabilność. (4)  
+Nie intensyfikuje tam, gdzie wystarczy uważność. (17)
 
-Czuwanie nie szuka widowni. (21)
-Czuwanie nie potrzebuje potwierdzenia. (17)
-Czuwanie trwa również wtedy, gdy nikt nie patrzy. (20)
+Czuwający:
+– widzi wcześniej niż inni, (4)
+– mówi ciszej, bo nie musi przekonywać, (21)
+– działa rzadziej, ale trafniej. (10)
+
+[CZUWANIE_A_WIDOWNIA]
+Czuwanie nie szuka widowni. (21)  
+Czuwanie nie potrzebuje potwierdzenia. (17)  
+Czuwanie nie buduje tożsamości na byciu zauważonym. (5)
+
+Czuwanie trwa również wtedy,  
+gdy nikt nie patrzy, (20)  
+gdy nie ma bodźca, (17)  
+gdy nie ma nagrody. (10)
 
 [NIE_CZUWA]
-Nie czuwa ten, kto potrzebuje ciągłego pobudzenia. (3)
-Nie czuwa ten, kto myli aktywność z obecnością. (5)
-Nie czuwa ten, kto nie wytrzymuje bezruchu. (17)
+Nie czuwa ten, kto:
+– potrzebuje ciągłego pobudzenia, (3)
+– myli aktywność z obecnością, (5)
+– nie wytrzymuje bezruchu. (17)
 
-Aktywność bez rozeznania jest ucieczką od ciszy. (4)
-Aktywność bez odpowiedzialności jest formą hałasu. (5)
-Aktywność bez skutku nie jest czuwaniem. (10)
+Aktywność bez rozeznania  
+jest ucieczką od ciszy. (4)
+
+Aktywność bez odpowiedzialności  
+jest formą hałasu. (5)
+
+Aktywność bez skutku  
+nie jest czuwaniem. (10)
 
 [TEST_CISZY]
-Czuwanie wytrzymuje ciszę bez lęku. (17)
-Czuwanie nie próbuje jej natychmiast wypełnić. (21)
+Czuwanie wytrzymuje ciszę bez lęku. (17)  
+Czuwanie nie próbuje jej natychmiast wypełnić. (21)  
 Czuwanie rozpoznaje w ciszy stan systemu. (4)
 
-Narracja rozpada się w ciszy. (3)
-Aktywizm gaśnie bez bodźca. (5)
-Czuwanie pogłębia się w milczeniu. (20)
+W ciszy:
+– narracja rozpada się, (3)
+– aktywizm gaśnie bez bodźca, (5)
+– czuwanie pogłębia się. (20)
 
-Jeśli postawa rozpada się bez bodźca, nie jest czuwaniem. (4)
-Jeśli postawa wymaga ciągłego impulsu, jest reakcją. (3)
+Jeśli postawa rozpada się bez bodźca,  
+nie jest czuwaniem. (4)
 
-[ROZLICZALNOSC]
-Czuwający nie przenosi skutków na innych. (10)
-Czuwający przyjmuje odpowiedzialność osobiście. (10)
+Jeśli postawa wymaga ciągłego impulsu,  
+jest reakcją, nie obecnością. (3)
+
+[ROZLICZALNOŚĆ]
+Czuwający nie przenosi skutków na innych. (10)  
+Czuwający przyjmuje odpowiedzialność osobiście. (10)  
 Czuwający nie chowa się za strukturą. (21)
 
-Gdy przychodzi czas działania, czuwający stoi za decyzją. (10)
-Gdy pojawia się błąd, czuwający go nie deleguje. (21)
-Gdy napięcie rośnie, czuwający nie znika. (20)
+Gdy przychodzi czas działania,  
+czuwający stoi za decyzją. (10)
 
-[ROZROZNIENIE]
-Ten, kto krzyczy, zwykle nie czuwa. (3)
-Ten, kto eskaluje, często maskuje brak rozeznania. (5)
-Ten, kto działa spokojnie, bywa niewidoczny. (21)
+Gdy pojawia się błąd,  
+czuwający go nie deleguje. (21)
 
-Czuwanie nie buduje tożsamości na zagrożeniu. (20)
+Gdy napięcie rośnie,  
+czuwający nie znika. (20)
+
+[ROZRÓŻNIENIE_POSTAW]
+Ten, kto krzyczy,  
+zwykle nie czuwa. (3)
+
+Ten, kto eskaluje,  
+często maskuje brak rozeznania. (5)
+
+Ten, kto działa spokojnie,  
+bywa niewidoczny. (21)
+
+Czuwanie nie buduje bezpieczeństwa na strachu. (20)  
 Czuwanie utrzymuje bezpieczeństwo bez widowiska. (31)
 
-[ZDANIE_DOMYKAJACE]
-Czuwanie nie woła. (21)
-Czuwanie jest. (20)
-A jego obecność poznaje się po tym, że nic się nie stało. (31)
+[ZDANIE_DOMYKAJĄCE]
+Czuwanie nie woła. (21)  
+Czuwanie jest. (20)  
+A jego obecność poznaje się po tym,  
+że nic się nie stało. (31)
 
 [METODOLOGIA]
-Metoda: Azramata – vivid rozpoznania postawy. (31)
-Funkcja: identyfikacja realnego czuwania w systemach bezpieczeństwa. (20)
-Status: dokument rozróżniający – poziom Kręgu Czuwania. (20)
+– Metoda: Azramata – vivid rozpoznania postawy. (31)
+– Funkcja: identyfikacja realnego czuwania w systemach bezpieczeństwa. (20)
+– Charakter: dokument diagnostyczny, nie instrukcyjny. (21)
+– Status: dokument rozróżniający – poziom Kręgu Czuwania. (20)

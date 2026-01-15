@@ -1,11 +1,13 @@
 # Plik: /09_PRZYSZLOSC/28_AI/24_AI_ZASTOSOWANIA_WP_DKWOC.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – zastosowania obronne
 # Status: dokument operacyjny
 # Cel: opisać użycia AI w WP i DKWOC
 #      jako wsparcia decyzyjnego bez autonomii władczej
-# Adnotacja Kręgowa: (24), (5), (10), (21), (12), (22), (4)
+# Krąg dominujący: (24)
+# Kręgi wspierające: (5), (10), (21), (12), (22), (4)
 
 [ZASADA_NADRZĘDNA]
 
@@ -80,7 +82,7 @@ Granice użycia AI są nienaruszalne:
 – obowiązkowa weryfikacja człowieka na każdym etapie krytycznym, (10)
 – pełny audyt danych wejściowych, reguł i wyników. (23)
 
-AI nie działa w trybie „czarnej skrzynki”. (24)
+AI nie działa w trybie „czarnej skrzynki”. (24)  
 Brak audytu oznacza brak użycia. (24)
 
 ---
@@ -129,7 +131,7 @@ Zabezpieczenia:
 
 [PIECZĘĆ_OBRONNA]
 
-AI nie ma przyspieszać wojny.
+AI nie ma przyspieszać wojny.  
 Ma zapobiegać chaosowi,
 w którym wojna staje się niekontrolowana. (24)
 

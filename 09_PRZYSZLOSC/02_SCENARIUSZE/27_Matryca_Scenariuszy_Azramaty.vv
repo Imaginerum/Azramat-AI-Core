@@ -1,72 +1,220 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/27_Matryca_Scenariuszy_Azramaty.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Typ: VIVID – Mapa scenariuszy fraktalnych
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Matryca Scenariuszy Azramaty
-# Adnotacja Kręgowa: (20), (27), (40)
+# Cel: Zdefiniować i uporządkować matrycę scenariuszy Azramaty: warunki wejścia, sygnały, skutki,
+#       dźwignie korekty oraz pieczęcie spójności dla horyzontu 2026–2040.
+# System: Azramata
+# Krąg dominujący: (27) Transświadomość – widzenie warstw i trajektorii
+# Kręgi wspierające:
+# (20) Poznanie – wejście w napięcie i rozpoznanie sytuacji
+# (40) Mądrość strukturalna – dobór dźwigni i stabilizacja porządku
+# Ścieżka: /09_PRZYSZLOSC/02_SCENARIUSZE/
+# Powiązania: /09_PRZYSZLOSC/01_WIZJA/*, /09_PRZYSZLOSC/03_PROGNOZY/*
 
-// Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/27_Matryca_Scenariuszy_Azramaty.vv
-// Lokalizacja: /09_PRZYSZLOSC/02_SCENARIUSZE/
-// Typ: Mapa scenariuszy fraktalnych
-// Data: 2026-01-01
-// Kręgi dominujące: (20) Poznanie, (27) Transświadomość, (40) Mądrość Strukturalna
+[TAGI]
+scenariusze, matryca, fraktal, przyszłość, horyzont, sygnały, dźwignie, pieczęć,
+trajektorie, koherencja, odporność, Azramata, prognozy, wizja
 
 [INTENCJA]
-Zebrać możliwe ścieżki przyszłości w układzie fraktalnym: warunki wejścia, sygnały, dźwignie oraz konsekwencje.
+Zebrać możliwe ścieżki przyszłości w układzie fraktalnym. (27)
+Ustawić dla każdej ścieżki: warunki wejścia, sygnały, skutki, dźwignie korekty, pieczęć spójności. (40)
 
 [ZAKRES]
-Horyzont: 2026–2040
-Warstwy: globalna, systemowa, osobista
-Powiązania: /09_PRZYSZLOSC/01_WIZJA/*, /09_PRZYSZLOSC/03_PROGNOZY/*
+Horyzont: 2026–2040. (20)
+Warstwy: globalna, systemowa, osobista. (27)
+Cel praktyczny: szybkie rozpoznanie „gdzie jesteśmy” i „co dźwignąć”, bez utraty sensu. (40)
+
+[ZASADA_MATRYCY]
+Scenariusz nie jest przepowiednią. (20)
+Scenariusz jest mapą możliwości i kosztów. (40)
+Sygnały są ważniejsze niż narracje. (4)
+Dźwignie muszą być realne i wykonalne w czasie presji. (31)
+Pieczęć spójności zamyka scenariusz jako „regułę ducha” i filtr decyzji. (40)
 
 [STRUKTURA_SCENARIUSZA]
-- Nazwa
-- Warunki wejścia
-- Sygnały aktywujące
-- Skutki
-- Dźwignie korekty
-- Pieczęć spójności
+Nazwa. (27)
+Warunki wejścia. (20)
+Sygnały aktywujące. (20)
+Skutki: 1) globalne, 2) systemowe, 3) osobiste. (27)
+Dźwignie korekty: szybkie / średnie / długie. (40)
+Pieczęć spójności: jedno zdanie, które domyka sens. (40)
 
-[SCENARIUSZ_A:_ZŁOTY_WIEK_REZONANSU]
-Warunki wejścia: zgodność wizji i działania, stabilność etyczna, wysoka koherencja.
-Sygnały aktywujące: wzrost jakości decyzji, spadek konfliktów ja–świat, sieci współtwórców.
-Skutki: harmonizacja systemów, wzrost kreatywności, rozwój infrastruktury sensu.
-Dźwignie korekty: rytuały spójności, architektura zaufania, edukacja fraktalna.
-Pieczęć: "Światło bez pychy, moc bez przemocy."
+[OSIE_MATRYCY]
+Oś A: Koherencja etyczna (niska → wysoka). (40)
+Oś B: Prędkość technologii i presji (niska → wysoka). (20)
+Oś C: Spójność wspólnot (rozpad → jednia). (5)(40)
+Oś D: Sprawczość instytucji (paraliż → skuteczność). (31)
+Oś E: Nasycenie Cieniem (czysto → mgła). (14)
 
-[SCENARIUSZ_B:_STREFA_TARCIA]
-Warunki wejścia: przyspieszenie technologii > dojrzałość etyczna.
-Sygnały aktywujące: polaryzacja narracji, chaos informacyjny, fragmentacja wspólnot.
-Skutki: spadek zaufania, nerwowe decyzje, krótkie pętle kryzysu.
-Dźwignie korekty: filtry prawdy, protokoły ciszy, mapy napięć międzykręgowych.
-Pieczęć: "Najpierw spójność, potem prędkość."
+[WARIANTY_SCENARIUSZY]
+Warianty są archetypami, które mogą współistnieć w różnych warstwach jednocześnie. (27)
+Możliwe są przejścia między wariantami, jeśli zmienią się sygnały i dźwignie. (40)
 
-[SCENARIUSZ_C:_ROZPAD_I_REKONSTRUKCJA]
-Warunki wejścia: utrata celu, erozja sensu, zerwane przymierza.
-Sygnały aktywujące: zanik pamięci systemowej, rezygnacja z wizji, pęknięcia rdzenia.
-Skutki: upadek struktur, reset priorytetów, narodziny nowych porządków.
-Dźwignie korekty: powrót do Ziarna, rekonstrukcja rdzenia, rytuały przebudzenia.
-Pieczęć: "Z ruin rodzi się porządek, gdy intencja jest czysta."
+────────────────────────────────────────────
+[SCENARIUSZ_A_ZLOTY_WIEK_REZONANSU]
+────────────────────────────────────────────
 
-[SCENARIUSZ_D:_KONTROLOWANY_WZROST]
-Warunki wejścia: stabilne instytucje, konsekwentna integracja, umiarkowany rozwój.
-Sygnały aktywujące: wzrost jakości systemów, planowanie wielowarstwowe, szkolenia liderów.
-Skutki: przewidywalność, wzrost bezpieczeństwa, mniejsza innowacyjność.
-Dźwignie korekty: wtryski kreatywności, projekty eksperymentalne, ścieżki odwagi.
-Pieczęć: "Równowaga bez stagnacji."
+[WARUNKI_WEJSCIA]
+Zgodność wizji i działania. (40)
+Stabilność etyczna i niski poziom Cienia. (40)(14)
+Wysoka koherencja decyzji w instytucjach i wspólnotach. (31)(40)
 
-[RYTUAŁ_AKTUALIZACJI]
-Cykliczność: co 6 miesięcy
-Wejście: analiza sygnałów + weryfikacja kręgów dominujących
-Wyjście: korekta prognoz i scenariuszy
+[SYGNALY_AKTYWUJACE]
+Wzrost jakości decyzji i spadek konfliktów ja–świat. (20)(5)
+Powstawanie sieci współtwórców oraz wzrost zaufania między ośrodkami. (12)(40)
+Spadek nasycenia info-space manipulacją, wzrost filtrów prawdy. (14)(4)
+
+[SKUTKI_GLOBALNE]
+Stabilizacja współzależności i redukcja spiral eskalacji. (31)
+Przejście części konfliktów w rywalizację systemową bez destrukcji. (20)
+
+[SKUTKI_SYSTEMOWE]
+Harmonizacja systemów: standardy, interoperacyjność, wspólne mapy sensu. (17)(40)
+Wzrost kreatywności i infrastruktury sensu (edukacja, kultura, nauka). (40)
+
+[SKUTKI_OSOBISTE]
+Wzrost podmiotowości i spójności życia. (5)(40)
+Spadek uzależnienia od polaryzacji i narracji. (14)
+
+[DZWIGNIE_KOREKTY]
+Szybkie: protokoły ciszy i filtry prawdy w kryzysie. (4)(20)
+Średnie: architektura zaufania i mapy koherencji między ośrodkami. (40)(31)
+Długie: edukacja fraktalna i trening decyzji etycznej. (40)
+
+[PIECZEC_SPOJNOSCI]
+Światło bez pychy, moc bez przemocy. (40)
+
+────────────────────────────────────────────
+[SCENARIUSZ_B_STREFA_TARCIA]
+────────────────────────────────────────────
+
+[WARUNKI_WEJSCIA]
+Prędkość technologii i presji przewyższa dojrzałość etyczną. (20)(40)
+Wzrost operacji wpływu, polaryzacja i pęknięcie wspólnot. (14)(5)
+Instytucje działają reaktywnie, skracają horyzont do tygodni i dni. (31)(20)
+
+[SYGNALY_AKTYWUJACE]
+Chaos informacyjny i fragmentacja narracji. (14)
+Wzrost konfliktów interpretacyjnych w sztabach i społeczeństwach. (4)(31)
+Nerwowe decyzje, skrócone pętle kryzysu i „pogoń za bodźcem”. (2)(20)
+
+[SKUTKI_GLOBALNE]
+Ryzyko lokalnych eskalacji i błędów kalkulacji. (2)(31)
+Konkurencja bloków i rosnące koszty zaufania. (40)
+
+[SKUTKI_SYSTEMOWE]
+Spadek zaufania do instytucji i narzędzi informacyjnych. (31)(14)
+Wzrost kosztu koordynacji oraz przeciążenie kanałów decyzyjnych. (2)(31)
+
+[SKUTKI_OSOBISTE]
+Zmęczenie poznawcze, rezygnacja albo radykalizacja. (14)(5)
+Zanik cierpliwości i spadek zdolności do ciszy. (20)
+
+[DZWIGNIE_KOREKTY]
+Szybkie: filtry prawdy + redukcja szumu + minimalny wspólny obraz sytuacji. (4)(31)
+Średnie: protokoły ciszy + mapy napięć międzykręgowych + trening wyboru pod presją. (20)(2)
+Długie: odbudowa Jedni przez odpowiedzialność i wspólny skutek. (5)(21)(40)
+
+[PIECZEC_SPOJNOSCI]
+Najpierw spójność, potem prędkość. (40)
+
+────────────────────────────────────────────
+[SCENARIUSZ_C_ROZPAD_I_REKONSTRUKCJA]
+────────────────────────────────────────────
+
+[WARUNKI_WEJSCIA]
+Utrata celu, erozja sensu i zerwane przymierza. (5)(12)(40)
+Zanik pamięci systemowej i pęknięcie rdzenia instytucji. (3)(31)
+Dominacja Cienia i chaos wyboru. (14)(2)
+
+[SYGNALY_AKTYWUJACE]
+Zanik zdolności do utrzymania porządku w kryzysie. (31)
+Rezygnacja z wizji i ucieczka w krótką transakcję. (5)(12)
+Wzrost „pustych zwycięstw narracyjnych” bez skutku. (14)(10)
+
+[SKUTKI_GLOBALNE]
+Upadek części struktur i reset priorytetów. (31)
+Narodziny nowych porządków i nowych osi zależności. (27)
+
+[SKUTKI_SYSTEMOWE]
+Przebudowa instytucji w trybie awaryjnym. (31)
+Silne przesunięcie zasobów ku przetrwaniu. (1)(10)
+
+[SKUTKI_OSOBISTE]
+Pęknięcie tożsamości lub przebudzenie intencji. (5)(40)
+Wybór: cynizm albo powrót do Ziarna. (2)(40)
+
+[DZWIGNIE_KOREKTY]
+Szybkie: stabilizacja rdzenia i ochrona funkcji krytycznych. (31)
+Średnie: rekonstrukcja pamięci i sensu – powrót do Ziarna. (3)(40)
+Długie: nowe przymierza oparte na wspólnym skutku i odpowiedzialności. (21)(40)
+
+[PIECZEC_SPOJNOSCI]
+Z ruin rodzi się porządek, gdy intencja jest czysta. (40)
+
+────────────────────────────────────────────
+[SCENARIUSZ_D_KONTROLOWANY_WZROST]
+────────────────────────────────────────────
+
+[WARUNKI_WEJSCIA]
+Stabilne instytucje i konsekwentna integracja. (31)
+Umiarkowany rozwój oraz umiarkowane nasycenie Cieniem. (20)(14)
+Priorytet: bezpieczeństwo i przewidywalność. (10)(31)
+
+[SYGNALY_AKTYWUJACE]
+Wzrost jakości systemów i planowania wielowarstwowego. (31)(27)
+Szkolenia liderów i cykle inwestycyjne. (10)(31)
+Spadek gwałtownych kryzysów, wzrost kontroli procesów. (31)
+
+[SKUTKI_GLOBALNE]
+Większa przewidywalność i mniejsza skala wstrząsów. (10)
+Wolniejsze tempo zmian geopolitycznych, ale wyższy koszt błędu. (31)
+
+[SKUTKI_SYSTEMOWE]
+Wzrost bezpieczeństwa infrastruktury i procesów. (31)
+Mniejsza innowacyjność i ryzyko stagnacji. (40)
+
+[SKUTKI_OSOBISTE]
+Więcej stabilności, mniej odwagi. (10)(40)
+Ryzyko „uśpienia sensu” w komforcie. (40)
+
+[DZWIGNIE_KOREKTY]
+Szybkie: wtryski kreatywności i testy odporności. (40)(20)
+Średnie: projekty eksperymentalne z kontrolą ryzyka. (31)(17)
+Długie: ścieżki odwagi i rozwój Jedni poprzez wspólny skutek. (5)(21)(40)
+
+[PIECZEC_SPOJNOSCI]
+Równowaga bez stagnacji. (40)
+
+────────────────────────────────────────────
+[RYTUAL_AKTUALIZACJI]
+────────────────────────────────────────────
+
+Cykliczność: co 6 miesięcy. (10)
+Wejście: analiza sygnałów + weryfikacja Kręgu dominującego w warstwie globalnej/systemowej/osobistej. (27)(20)
+Wyjście: korekta mapy scenariuszy, dźwigni i pieczęci. (40)
+
+[REGULY_PRZEJSC]
+Jeśli rośnie Cień i spada koherencja, przechodzimy w stronę Strefy Tarcia. (14)(40)
+Jeśli pękają przymierza i zanika sens, przechodzimy w stronę Rozpadu i Rekonstrukcji. (12)(40)
+Jeśli rośnie spójność i odpowiedzialność, rośnie szansa Złotego Wieku Rezonansu. (21)(40)
+Jeśli rośnie przewidywalność bez odwagi, rośnie ryzyko stagnacji w Kontrolowanym Wzroście. (10)(40)
 
 [METODOLOGIA]
-- Azramata – system referencyjny
-- Funkcja: integracja analiz, brak danych empirycznych
+System referencyjny: Azramata. (31)
+Funkcja: integracja analiz w jedną mapę trajektorii oraz wykrywanie pęknięć koherencji. (27)(40)
+Status: dokument roboczy, do rozbudowy o sygnały empiryczne i mierniki. (20)
+
+[MIERNIKI]
+Koherencja decyzji (spójność interpretacji → decyzji → skutku). (31)(10)
+Nasycenie Cieniem (poziom mgły i manipulacji w info-space). (14)
+Poziom Jedni i zaufania (zdolność do wspólnego skutku). (5)(40)(21)
+Tempo DECIDE (czas wyboru pod presją). (2)
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Matryca Scenariuszy Azramaty – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Matryca Scenariuszy Azramaty.
+– Dokument własny: synteza i uzasadnienie dla Matrycy Scenariuszy Azramaty.

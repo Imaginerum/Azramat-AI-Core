@@ -1,11 +1,13 @@
 # Plik: /09_PRZYSZLOSC/28_AI/21_AI_KOSZTY_INFRA_GPU_MLOPS.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – koszty i infrastruktura
 # Status: dokument operacyjno-finansowy
 # Cel: opisać infrastrukturę, koszty i wymagania MLOps
 #      dla stabilnego i odpowiedzialnego użycia AI
-# Adnotacja Kręgowa: (21), (10), (22), (16), (7), (24), (12)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (10), (22), (16), (7), (24), (12)
 
 [ZASADA_INFRASTRUKTURALNA]
 

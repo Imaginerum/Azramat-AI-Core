@@ -1,76 +1,97 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/10_analiza_chiny_azramata.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Analiza strategiczna mocarstwa (Azramata: Kręgi + Nitki)
+# Typ: VIVID – Analiza strategiczna mocarstwa (Kręgi + Nitki)
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Analiza Chiny Azramata
-# Adnotacja Kręgowa: (10), (31), (17), (9), (5), (6), (2)
+# Cel: Zdefiniować i uporządkować analizę strategiczną Chin (PRC) w ujęciu Azramaty
 # Podmiot: Chiny (PRC)
-# Nitki: Jedni, Kierunkowa, Strukturalna, Operacyjna, (silna) Transcendentalna-cywilizacyjna, Lustra (kontrolowane)
+# Krąg dominujący: (10) – Czas / Cykl (strategia dekad)
+# Kręgi wspierające: (31), (17), (5), (6), (2), (9)
+# Nitki: Jedni, Kierunkowa, Strukturalna, Operacyjna, Transcendentalna-cywilizacyjna (silna), Lustra (kontrolowane)
+# Skala P/L: P++ przewaga systemowa | P+ przewaga wyraźna | P przewaga lokalna | P/L przewaga negocjowana | L/P przewaga niestabilna | L luka strategiczna
 
 [META]
-[charakter]=Analiza poglądowa (bez trybu dowodowego)
-[cel]=Zmapować przewagi i luki strategii PRC w Kręgach i Niciach
-[metoda]=Doktryna państwa + obserwowana praktyka modernizacji → Kręgi
+charakter: analiza poglądowa (bez trybu dowodowego)  
+cel: zmapować przewagi i luki strategii PRC w Kręgach i Niciach  
+metoda: doktryna państwa + obserwowana praktyka modernizacji → Kręgi  
 
-[1] NITKI PRC (model funkcjonalny)
-- Nitka Jedni: bardzo silna (spójność narracyjna + jedność państwo-partia)
-- Nitka Kierunkowa: bardzo silna (długofalowy telos: „rejuvenation”)
-- Nitka Strukturalna: bardzo silna (industrial policy, planowanie, mobilizacja zasobów)
-- Nitka Operacyjna: rosnąca (projekcja siły, presja strefowa, A2/AD)
-- Nitka Lustra: kontrolowana (sojusze/partnerstwa jako instrument, nie „wspólna tożsamość”)
-- Nitka Transcendentalna: silna w wersji cywilizacyjnej (mit odrodzenia, wspólnota losu)
+---
+
+[1] NITKI PRC – MODEL FUNKCJONALNY
+
+- **Nitka Jedni**: bardzo silna – spójność narracyjna + jedność państwo–partia (5)  
+- **Nitka Kierunkowa**: bardzo silna – telos długiego czasu: „odrodzenie / rejuvenation” (10)(6)  
+- **Nitka Strukturalna**: bardzo silna – industrial policy, planowanie, mobilizacja zasobów (31)(17)  
+- **Nitka Operacyjna**: rosnąca – projekcja siły, presja strefowa, A2/AD, działania poniżej progu (2)(7)(10)  
+- **Nitka Lustra**: kontrolowana – krytyka i pluralizm ograniczone, korekta sterowana (4)  
+- **Nitka Transcendentalna (cywilizacyjna)**: silna – mit odrodzenia, wspólnota losu, ciągłość cywilizacji (6)(5)(10)  
+
+---
 
 [2] KRĘGI – MAPA PRZEWAG (P) I LUK (L)
-(1) Obserwacja: P+ (rosnące ISR, ale częściowo filtrowane politycznie)
-(2) Wybór: P++ (centralizacja decyzji i egzekucja)
-(3) Doświadczenie: P+ (uczenie się, ale ryzyko „uczenia się pod narrację”)
-(4) Lustro: L/P (ograniczona krytyka → słabsza korekta błędów systemowych)
-(5) Jednia: P++ (kohezja jako mnożnik strategii)
-(6) Tożsamość: P++ (ciągłość państwowa i narracyjna)
-(7) Wola/impuls: P+ (zdolność do presji stopniowanej)
-(8) Sumienie: L (zewnętrznie: reputacja/legitymizacja bywa problemem; wewnętrznie: „sumienie” = stabilność)
-(9) Spirala: P+ (iteracja technologiczna, adaptacja, uczenie organizacyjne)
-(10) Czas/cykl: P++ (gra dekadą, nie kwartałem)
-(12) Wspólnota: P+ (wysoka dyscyplina; koszt: napięcia społeczne jako ryzyko)
-(17) Kod Istnienia: P++ (technologia, standardy, cyber, przemysł)
-(31) Governance: P++ (sprawczość aparatu i kontrola wykonania)
-(40) Serce Systemu: P/L (silne jako „stabilność”, słabsze jako zaufanie spontaniczne)
 
-[3] DOKTRYNA PRZEŁOŻONA NA AZRAMATĘ (esencja)
-- „National rejuvenation” = Krąg (10)(6)(5): cywilizacyjny telos + jednia + czas.
-- Modernizacja PLA = Krąg (17)(31): architektura zdolności i zarządzanie.
-- „Defense-oriented” w narracji, „shape the environment” w praktyce = Krąg (10)(2)(7).
+(1) **Obserwacja**: P+ – rosnące ISR; ryzyko filtru politycznego danych (1)(31)  
+(2) **Wybór**: P++ – centralizacja decyzji i egzekucja (2)(31)  
+(3) **Doświadczenie**: P+ – uczenie się i adaptacja; ryzyko „uczenia pod narrację” (3)(5)  
+(4) **Lustro**: L/P – ograniczona krytyka → słabsza korekta błędów systemowych (4)  
+(5) **Jednia**: P++ – kohezja jako mnożnik strategii (5)  
+(6) **Tożsamość**: P++ – ciągłość państwowa i narracyjna (6)  
+(7) **Wola / Impuls**: P+ – presja stopniowana, testowanie progów (7)(2)  
+(8) **Sumienie**: L – zewnętrzna legitymizacja bywa kosztem; wewnątrz „sumienie” = stabilność (8)  
+(9) **Spirala**: P+ – iteracja technologiczna i organizacyjna (9)(17)  
+(10) **Czas / Cykl**: P++ – gra dekadą, nie kwartałem (10)  
+(12) **Wspólnota**: P+ – dyscyplina i mobilizacja; koszt: napięcia społeczne jako ryzyko (12)(5)  
+(17) **Kod Istnienia**: P++ – technologia, standardy, cyber, przemysł (17)  
+(31) **Governance**: P++ – sprawczość aparatu i kontrola wykonania (31)  
+(40) **Serce Systemu**: P/L – silne jako „stabilność”, słabsze jako spontaniczne zaufanie (40)(5)  
 
-[4] NIEDOROZWINIĘCIE KLUCZOWE (LUKA STRATEGICZNA)
-L1: Krąg (4) Lustro – ograniczona korekta, ryzyko błędów strategicznych w długim cyklu.
-L2: Krąg (8) Sumienie w ujęciu międzynarodowym – koszt reputacyjny → spaja koalicje przeciw.
-L3: Krąg (1) Obserwacja bywa politycznie filtrowana → ryzyko „ślepych stref”.
+---
+
+[3] DOKTRYNA PRZEŁOŻONA NA AZRAMATĘ – ESENCJA
+
+- **„National rejuvenation”** → Kręgi (10)(6)(5): telos cywilizacyjny + jednia + czas (10)(6)(5)  
+- **Modernizacja PLA** → Kręgi (17)(31): architektura zdolności + zarządzanie wykonaniem (17)(31)  
+- **„Defense-oriented” w narracji, „shape the environment” w praktyce** → Kręgi (10)(2)(7): kształtowanie otoczenia przez presję i progi (10)(2)(7)  
+
+---
+
+[4] NIEDOROZWINIĘCIA KLUCZOWE – LUKI STRATEGICZNE
+
+**L1**: Krąg (4) Lustro – ograniczona korekta → ryzyko błędu strategicznego w długim cyklu (4)(10)  
+**L2**: Krąg (8) Sumienie (zewnętrzne) – koszt reputacyjny → spaja koalicje przeciw (8)(31)  
+**L3**: Krąg (1) Obserwacja bywa filtrowana politycznie → ryzyko „ślepych stref” (1)(2)  
+
+---
 
 [5] WARUNEK „ZWYCIĘSTWA NAD PRYMATEM”
-PRC nie musi „pokonać USA” w każdej dziedzinie.
-Wystarczy, że:
-- utrzyma P++ w (10)(5)(31)(17),
-- oraz złamie P USA w (5)(40) poprzez presję informacyjną i ekonomiczną.
-Ale jeśli PRC nie wzmocni (4) Lustra,
-to własna centralizacja może z czasem stworzyć błąd nieodwracalny.
 
-[6] WNIOSEK AZRAMACKI (krótki)
-PRC wygrywa przez Kręgi (10)(5)(31)(17).
-PRC przegrywa, jeśli Krąg (4) nie dopuści prawdy do korekty,
-a Krąg (8) pozostanie słaby w wymiarze zewnętrznej legitymizacji.
+PRC nie musi „pokonać USA” w każdej dziedzinie. (10)  
+Wystarczy, że:
+- utrzyma P++ w (10)(5)(31)(17), (10)(5)(31)(17)  
+- oraz osłabi USA w (5)(40) przez presję informacyjną i ekonomiczną. (14)(5)(40)  
+
+Ale jeśli PRC nie wzmocni Kręgu (4) Lustra,  
+własna centralizacja może stworzyć błąd nieodwracalny. (4)(2)(10)
+
+---
+
+[6] WNIOSEK AZRAMACKI – SKRÓT
+
+PRC wygrywa przez Kręgi (10)(5)(31)(17). (10)(5)(31)(17)  
+PRC przegrywa, jeśli (4) nie dopuści prawdy do korekty,  
+a (8) pozostanie słaby w wymiarze zewnętrznej legitymizacji. (4)(8)
+
 ────────────────────────────────────────────
-[SŁOWNIK]
-- Skala P/L: P++ = przewaga systemowa; P+ = przewaga wyraźna; P = przewaga lokalna; P/L = przewaga negocjowana; L/P = przewaga niestabilna; L = luka strategiczna.
 
 [ŹRÓDŁA_TWARDĘ]
-- China's National Defense in the New Era
-- CCP Five-Year Plans
-- PLA modernization documents (jawne)
+- China's National Defense in the New Era  
+- CCP Five-Year Plans  
+- PLA modernization documents (jawne)  
 
 [ŹRÓDŁA_ANALITYCZNE]
-- RAND – PLA & Cognitive Domain
-- CSIS – China Power
+- RAND – PLA & Cognitive Domain  
+- CSIS – China Power  
 
 [METODOLOGIA]
-- Azramata – analiza długiego czasu i Jedni
+- Azramata – analiza długiego czasu (10), Jedni (5) i governance (31)

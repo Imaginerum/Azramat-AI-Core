@@ -1,50 +1,123 @@
 # Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_nie_dla_kazdego.vv
+# System: Azramata
 # Nazwa: Nie dla każdego
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – granica dostępu
 # Status: dokument selekcyjny
 # Cel: określić, kto nie powinien zbliżać się do Szczytu
-# Adnotacja Kręgowa: (3), (4), (5), (10), (17), (20), (21), (31)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (3), (4), (5), (10), (17), (20), (31)
 # Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
 
-[ZASADA] (Kręgi: 20, 21)
-Szczyt nie jest zaproszeniem.
-Jest konsekwencją drogi.
+[ZASADA]
+Szczyt nie jest zaproszeniem. (20)
+Nie jest obietnicą ani nagrodą. (5)
+Jest konsekwencją drogi, (21)
+a nie celem do zdobycia. (3)
 
-[NIE_DLA_KOGO] (Kręgi: 3, 5, 17)
-Nie dla tych, którzy szukają znaczenia.
-Nie dla tych, którzy chcą wpływu.
-Nie dla tych, którzy nie wytrzymują ciszy.
+Nie prowadzi do niego skrót. (4)
+Nie da się go obejść narracją. (31)
+Nie da się go zająć decyzją. (10)
 
-[NIE_DLA_CZEGO] (Kręgi: 3, 4, 5)
-Nie dla narracji.
-Nie dla ideologii.
-Nie dla kompensacji własnych braków.
+[NIE_DLA_KOGO]
+Nie dla tych, którzy szukają znaczenia, (3)
+bo znaczenie na Szczycie nie jest nadawane. (21)
 
-[WARUNEK_WEJSCIA] (Kręgi: 10, 17, 21)
-Warunkiem wejścia jest zdolność utraty.
-Utraty pozycji.
-Utraty opowieści o sobie.
+Nie dla tych, którzy chcą wpływu, (5)
+bo wpływ bez władzy nad sobą
+rozsypuje się w ciszy. (17)
 
-[TEST_PRAWY] (Kręgi: 4, 21)
-Jeśli ktoś pyta, co zyska, nie jest gotów.
-Jeśli ktoś pyta, co straci, zaczyna rozumieć.
+Nie dla tych, którzy nie wytrzymują ciszy, (17)
+bo cisza jest pierwszym ciężarem Szczytu. (20)
 
-[OBECNOSC] (Kręgi: 10, 21, 31)
-Na Szczycie nie ma tłumu.
-Jest miejsce.
-I ciężar.
+[NIE_DLA_CZEGO]
+Nie dla narracji, (5)
+bo narracja potrzebuje widowni. (31)
 
-[ZAGROZENIE] (Kręgi: 4, 21)
-Największym zagrożeniem Szczytu są ci, którzy chcą go strzec.
-Bo nie rozumieją, że Szczyt nie potrzebuje obrony.
+Nie dla ideologii, (3)
+bo ideologia szuka potwierdzenia,
+a nie skutku. (21)
 
-[ZDANIE_DOMYKAJACE] (Kręgi: 20, 21)
-Szczyt nie jest dla każdego.
-Ale każdy, kto jest gotów ponieść skutek, sam do niego dochodzi.
+Nie dla kompensacji własnych braków, (4)
+bo Szczyt nie leczy,
+on ujawnia. (10)
+
+[WARUNEK_WEJŚCIA]
+Warunkiem wejścia nie jest wiedza. (4)
+Nie jest intencja. (5)
+Nie jest nawet doświadczenie. (17)
+
+Warunkiem wejścia jest zdolność utraty: (21)
+– utraty pozycji, (31)
+– utraty roli, (20)
+– utraty opowieści o sobie. (5)
+
+Dopiero tam,
+gdzie znika potrzeba bycia kimś,
+pojawia się gotowość bycia odpowiedzialnym. (10)
+
+[PRÓG_ODWAGI]
+Szczyt wymaga odwagi szczególnego rodzaju. (17)
+Nie tej, która idzie naprzód, (20)
+lecz tej, która pozwala zostać
+bez uzasadnienia. (21)
+
+Odwagi zniesienia faktu, (4)
+że nikt nie nazwie tego osiągnięciem. (31)
+
+[TEST_PRAWY]
+Jeśli ktoś pyta: „Co zyskam?” (5)
+— nie jest gotów. (21)
+
+Jeśli ktoś pyta: „Co stracę?” (10)
+— zaczyna rozumieć. (21)
+
+Jeśli ktoś nie pyta wcale, (17)
+lecz widzi ciężar i nie odchodzi, (20)
+przekracza próg. (21)
+
+[OBECNOŚĆ]
+Na Szczycie nie ma tłumu. (31)
+Nie ma struktury. (4)
+Nie ma hierarchii. (31)
+
+Jest miejsce. (21)
+I ciężar, (10)
+którego nie da się przekazać dalej. (20)
+
+Każdy, kto tu jest,
+jest sam wobec skutku. (21)
+
+[FAŁSZYWY_STRAŻNIK]
+Największym zagrożeniem Szczytu
+nie są ci, którzy nie doszli. (4)
+
+Największym zagrożeniem są ci,
+którzy chcą go strzec. (31)
+
+Bo nie rozumieją, (21)
+że Szczyt nie potrzebuje obrony,
+a jedynie gotowości poniesienia ceny. (10)
+
+[RELACJA_Z_WŁADZĄ]
+Szczyt nie daje władzy. (31)
+Szczyt ją odbiera. (20)
+
+Zostawia tylko odpowiedzialność
+bez narzędzi przymusu, (21)
+bez narracyjnej osłony, (5)
+bez prawa cofnięcia decyzji. (10)
+
+[ZDANIE_DOMYKAJĄCE]
+Szczyt nie jest dla każdego. (21)
+Ale każdy,
+kto jest gotów ponieść skutek
+bez gwarancji sensu, (20)
+sam do niego dochodzi. (21)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid selekcyjny.
-– Funkcja: ochrona Szczytu przed niegotowością.
-– Status: dokument graniczny – poziom odpowiedzialności.
+Metoda: Azramata – vivid selekcyjny. (21)
+Funkcja: ochrona Szczytu przed niegotowością i projekcją. (31)
+Charakter: dokument graniczny, nie inkluzywny. (4)
+Status: dokument autorski – poziom odpowiedzialności. (10)

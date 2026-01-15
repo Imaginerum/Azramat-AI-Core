@@ -3,90 +3,139 @@
 # Data: 2026-01-10
 # Typ: VIVID – Analiza porównawcza (Kręgi + Nitki)
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Zestawienie Strategii Mocarstw
-# Adnotacja Kręgowa: (40), (5), (4), (17), (31), (14)
-# Podmioty: USA | Chiny | Rosja
+# Cel: Zestawić strategie USA | Chiny | Rosja w ujęciu Kręgów i Nitek, aby wykryć punkty przewagi,
+#       pęknięcia prymatu oraz wektory zwycięstwa w epoce presji poznawczej.
+# System: Azramata
+# Krąg dominujący: (40) Serce Systemu – kohezja, sens, odporność długiego trwania
+# Kręgi wspierające:
+# (5)  Jednia – spójność wewnętrzna i zdolność do wspólnego skutku
+# (4)  Lustro – autokorekta, red-teaming, korekta błędu strategicznego
+# (17) Kod – technologia, standardy, przewaga infrastrukturalna
+# (31) Governance – architektura władzy i sprawczości w czasie presji
+# (14) Cień – operacje wpływu, mgła decyzyjna, wojna poznawcza
+# Podmioty: USA | Chiny (PRC) | Rosja (RF)
 # Metoda: Azramata – porównanie pionowe (Kręgi) i horyzontalne (Nitki)
+# Ścieżka: /09_PRZYSZLOSC/02_SCENARIUSZE/
+
+[TAGI]
+USA, Chiny, Rosja, mocarstwa, porównanie, prymat, kohezja, jednia, lustro,
+kod, governance, cień, decision-advantage, strategia, Azramata, kręgi, nitki
 
 [META]
-[cel]=Wskazać punkty przewagi, pęknięcia prymatu i wektory zwycięstwa
-[zasada]=Nie kto ma więcej mocy, lecz kto lepiej **spina Kręgi w czasie**
+[cel]=Wskazać punkty przewagi, pęknięcia prymatu i wektory zwycięstwa. (40)
+[zasada]=Nie kto ma więcej mocy, lecz kto lepiej spina Kręgi w czasie. (40)(10)
+[uwaga]=P i L opisują funkcję systemową, nie „moralną ocenę”. (4)
 
 ────────────────────────────────────────────
-I. MACIERZ KRĘGÓW (P = przewaga, L = luka)
+[I_MACIERZ_KREGOW_P_L]
 ────────────────────────────────────────────
 
-Krąg           | USA |Chiny|Rosja| Komentarz azramacki
-------------------------------------------------
-(1) Obserwacja | P++ | P+  | P+  | USA wygrywa fuzją ISR; Chiny/Rosja ryzyko filtra politycznego
-(2) Wybór      | P+  | P++ | P++ | PRC/RF szybkie centrum decyzyjne; USA wolniejsze przez pluralizm
-(4) Lustro     | P+  | L   | L   | Krytyczna przewaga USA; autokorekta słabsza u PRC/RF
-(5) Jednia     | L   | P++ | P/L | PRC stabilna jednia; USA pęknięta; RF jednia wymuszana
-(7) Wola       | P   | P+  | P++ | RF najsilniejsza eskalacyjnie; koszt długoterminowy
-(8) Sumienie   | L/P | L   | L   | USA ma narrację, trudną egzekucję; PRC/RF deficyt legitymizacji
-(9) Spirala    | P+  | P+  | P   | USA/PRC iterują szybciej niż RF
-(10) Czas      | P+  | P++ | P+  | PRC gra dekadą; USA cyklami; RF wyniszczeniem
-(14) Cień      | P   | P   | P++ | RF mistrz cienia; PRC rośnie; USA w defensywie
-(17) Kod       | P++ | P++ | P/L | USA/PRC: technologia+standardy; RF niszowo
-(31) Governance| P++ | P++ | P+  | USA/PRC architektura; RF centralna sprawczość
-(40) Serce     | L   | P/L | L   | Najsłabszy Krąg wszystkich – punkt przełamania epoki
+Legenda:
+P++ przewaga systemowa.
+P+  przewaga wyraźna.
+P   przewaga lokalna.
+P/L przewaga negocjowana.
+L/P przewaga niestabilna.
+L   luka strategiczna.
+
+Krąg           | USA | PRC | RF  | Komentarz azramacki
+------------------------------------------------------
+(1) Obserwacja | P++ | P+  | P+  | USA wygrywa fuzją ISR; PRC/RF ryzyko filtra politycznego. (31)(4)
+(2) Wybór      | P+  | P++ | P++ | PRC/RF szybkie centrum decyzyjne; USA wolniej przez pluralizm. (2)(5)
+(4) Lustro     | P+  | L   | L   | Krytyczna przewaga USA; autokorekta słabsza u PRC/RF. (4)
+(5) Jednia     | L   | P++ | P/L | PRC stabilna Jednia; USA pęknięta; RF Jednia wymuszana. (5)(40)
+(7) Wola       | P   | P+  | P++ | RF najsilniejsza eskalacyjnie; koszt długoterminowy rośnie. (10)(40)
+(8) Sumienie   | L/P | L   | L   | USA ma narrację; PRC/RF deficyt legitymizacji zewnętrznej. (8)(14)
+(9) Spirala    | P+  | P+  | P   | USA/PRC iterują szybciej; RF bardziej liniowo i destrukcyjnie. (10)
+(10) Czas      | P+  | P++ | P+  | PRC gra dekadą; USA cyklami; RF wyniszczeniem i ryzykiem wyczerpania. (10)(40)
+(14) Cień      | P   | P   | P++ | RF mistrz Cienia; PRC rośnie; USA często w defensywie narracyjnej. (14)
+(17) Kod       | P++ | P++ | P/L | USA/PRC: technologia+standardy; RF niszowo i asymetrycznie. (17)
+(31) Governance| P++ | P++ | P+  | USA/PRC architektura państwa; RF centralna sprawczość z kosztami. (31)(10)
+(40) Serce     | L   | P/L | L   | Najsłabszy Krąg epoki: punkt przełamania długiego trwania. (40)(5)
 
 ────────────────────────────────────────────
-II. MAPA NITEK (kto czym naprawdę walczy)
+[II_MAPA_NITEK_KTO_CZYM_NAPRAWDE_WALCZY]
 ────────────────────────────────────────────
 
-USA:
-- Dominanta: Strukturalna + Lustra + Kod
-- Słabość: Jednia + Serce
-- Styl: Architektura świata
+[USA]
+Dominanta: Strukturalna + Lustra + Kod. (31)(4)(17)
+Słabość: Jednia + Serce. (5)(40)
+Styl: Architektura świata – przewaga infrastruktury i standardów. (17)(31)
 
-Chiny:
-- Dominanta: Jedni + Kierunkowa + Czas
-- Słabość: Lustro + Sumienie (zewnętrzne)
-- Styl: Cywilizacyjna fala długiego trwania
+[PRC]
+Dominanta: Jedni + Kierunkowa + Czas + Kod. (5)(10)(17)
+Słabość: Lustro + Sumienie (zwłaszcza zewnętrzne). (4)(8)
+Styl: Cywilizacyjna fala długiego trwania – trajektoria dekadowa. (10)
 
-Rosja:
-- Dominanta: Emocjonalna + Cień + Wola
-- Słabość: Kod + Serce + Lustro
-- Styl: Presja, rozbijanie, eskalacja poniżej progu
+[RF]
+Dominanta: Emocjonalna + Cień + Wola. (14)(7)
+Słabość: Kod + Serce + Lustro. (17)(40)(4)
+Styl: Presja, rozbijanie, eskalacja poniżej progu – krótkie zwycięstwa w cieniu. (14)(10)
 
 ────────────────────────────────────────────
-III. PUNKTY PRZEŁAMANANIA PRYMATU
+[III_PUNKTY_PRZELAMANIA_PRYMATU]
 ────────────────────────────────────────────
 
-P1 — Krąg (5)(40): Jednia i Serce
-→ Jeśli USA nie odbuduje spójności wewnętrznej, prymat pęknie mimo technologii.
+P1 — (5)(40) Jednia i Serce
+Jeśli USA nie odbuduje spójności wewnętrznej, prymat pęknie mimo Kodu. (5)(40)(17)
 
-P2 — Krąg (4): Lustro
-→ Jeśli PRC lub RF nie dopuści korekty systemowej, wygenerują własny błąd krytyczny.
+P2 — (4) Lustro
+Jeśli PRC lub RF nie dopuści korekty systemowej, wygenerują własny błąd krytyczny. (4)(10)
 
-P3 — Krąg (17)+(31): Kod + Governance
-→ Ten, kto połączy technologię ze spójnym zarządzaniem, narzuca reguły gry.
+P3 — (17)+(31) Kod + Governance
+Ten, kto połączy technologię ze spójnym zarządzaniem, narzuca reguły gry. (17)(31)
 
-P4 — Krąg (14): Cień
-→ Nadmiar cienia daje krótkie zwycięstwa i długą degradację sensu.
+P4 — (14) Cień
+Nadmiar Cienia daje krótkie zwycięstwa i długą degradację sensu oraz zaufania. (14)(40)
 
 [WNIOSEK]
-Prymat nie upada przez czołgi.
-Prymat upada, gdy **Serce nie nadąża za Kodem**.
+Prymat nie upada przez czołgi. (31)
+Prymat upada, gdy Serce nie nadąża za Kodem. (40)(17)
 
-[ŹRÓDŁA_TWARDĘ]
-- National Security Strategy USA
-- National Defense Strategy USA
-- Joint All-Domain Command and Control (JADC2)
-- China's National Defense in the New Era
-- CCP Five-Year Plans
-- PLA modernization documents (jawne)
-- Russian National Security Strategy
-- Russian Military Doctrine
+────────────────────────────────────────────
+[IV_WEKOTRY_ZWYCIESTWA_W_EPOCE_KREGOW]
+────────────────────────────────────────────
 
-[ŹRÓDŁA_ANALITYCZNE]
-- RAND – Decision Advantage
-- CSIS – US Military Innovation
-- RAND – PLA & Cognitive Domain
-- CSIS – China Power
-- RAND – Russian Hybrid Warfare
-- NATO StratCom COE
+Wektor USA:
+Odbudować Jednię i Serce bez utraty przewagi Kodu i Lustra. (5)(40)(17)(4)
+
+Wektor PRC:
+Utrzymać Jednię i Czas, ale nie utopić systemu w braku Lustra. (5)(10)(4)
+
+Wektor RF:
+Zyskać krótkie przewagi Cieniem, ale ryzyko degradacji Serca i Kodu rośnie w czasie. (14)(40)(17)
+
+Wektor przełamania epoki:
+Połączenie (31)(17) z realnym (40)(5) oraz stałym Lustrem (4). (40)(31)(17)(4)
+
+────────────────────────────────────────────
+[V_ZASTOSOWANIE_DLA_RP]
+────────────────────────────────────────────
+
+Dla Polski kluczowe jest budowanie węzła Kręgu 40 oraz Lustra 4,
+z operacjonalizacją Cienia 14 i spięciem tego w sprawczość 31. (40)(4)(14)(31)
+
+To jest przewaga, którą można skalować do NATO/EU jako metodykę węzłową. (40)(31)
+
+────────────────────────────────────────────
+[ZRODLA_TWARDE]
+National Security Strategy USA.
+National Defense Strategy USA.
+Joint All-Domain Command and Control (JADC2).
+China's National Defense in the New Era.
+CCP Five-Year Plans.
+PLA modernization documents (jawne).
+Russian National Security Strategy.
+Russian Military Doctrine.
+
+[ZRODLA_ANALITYCZNE]
+RAND – Decision Advantage.
+CSIS – US Military Innovation.
+RAND – PLA & Cognitive Domain.
+CSIS – China Power.
+RAND – Russian Hybrid Warfare.
+NATO StratCom COE.
 
 [METODOLOGIA]
-- Azramata – porównawcza analiza Kręgów
+Azramata – porównawcza analiza Kręgów i Nitek. (40)
+Charakter: analiza systemowa (autorska), bez trybu dowodowego. (31)

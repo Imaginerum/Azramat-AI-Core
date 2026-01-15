@@ -1,63 +1,112 @@
 # Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_odpowiedzialnosc_bez_wladzy.vv
+# System: Azramata
 # Nazwa: Odpowiedzialność bez władzy
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – etos służby
 # Status: dokument rdzeniowy
 # Cel: opisać odpowiedzialność niezależną od formalnej władzy
-# Adnotacja Kręgowa: (4), (10), (20), (21), (31)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (4), (10), (20), (31)
 # Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
 
-[ISTOTA] (Kręgi: 10, 21)
-Odpowiedzialność nie potrzebuje mandatu.
-Potrzebuje gotowości poniesienia skutku.
+[ISTOTA]
+Odpowiedzialność nie wynika z nadania. (21)
+Nie rodzi się z mandatu, funkcji ani tytułu. (31)
+Rodzajem odpowiedzialności,
+o której tu mowa,
+jest gotowość poniesienia skutku
+bez gwarancji wpływu. (10)
 
-Krąg 10 – odpowiedzialność za konsekwencje  
-Krąg 21 – utrzymanie sensu ponad statusem  
+Krąg 10 wskazuje ciężar konsekwencji.  
+Krąg 21 utrzymuje sens niezależnie od pozycji.
 
-Władza bywa delegowana.
-Odpowiedzialność – przyjmowana.
+Władza może zostać odebrana. (31)
+Odpowiedzialność – tylko porzucona. (21)
 
-[NIEZALEZNOSC_OD_POZYCJI] (Kręgi: 4, 20)
-Pozycja nie tworzy ciężaru.
-Ciężar ujawnia pozycję.
-
-Krąg 4 – kontakt z rzeczywistością  
-Krąg 20 – obecność w napięciu  
+[NIEZALEŻNOŚĆ_OD_POZYCJI]
+Pozycja nie tworzy ciężaru. (4)
+Ciężar ujawnia rzeczywistą pozycję. (20)
 
 Ten, kto działa odpowiedzialnie,
-robi to również wtedy,
-gdy nikt nie patrzy
-i nikt nie nagradza.
+czyni to również wtedy, (21)
+gdy:
+– nikt nie patrzy, (4)
+– nikt nie nagradza, (31)
+– nikt nie przypisze zasługi. (20)
 
-[GRANICA] (Kręgi: 21)
 Odpowiedzialność bez władzy
-nie przekracza cudzej autonomii.
+nie liczy na widoczność. (21)
+Jej miarą jest spójność czynu i skutku. (10)
 
-Nie narzuca.
-Nie usprawiedliwia się dobrem wyższym.
-Nie skraca drogi.
+[ODPOWIEDZIALNOŚĆ_A_WPŁYW]
+Brak władzy nie oznacza braku wpływu. (31)
+Oznacza brak narzędzi przymusu. (21)
 
-Jest gotowością powiedzenia:
-„To ja poniosę skutek.”
+Odpowiedzialność:
+– nie steruje innymi, (21)
+– nie wymusza decyzji, (31)
+– nie przejmuje cudzych ról. (4)
 
-[ANTYPOKUSA] (Kręgi: 10, 31)
+Jej wpływ ma charakter pośredni: (20)
+porządkuje pole,
+stabilizuje sytuację,
+zmniejsza chaos decyzji. (21)
+
+[GRANICA_AUTONOMII]
+Odpowiedzialność bez władzy
+kończy się tam,
+gdzie zaczyna się cudza autonomia. (21)
+
+Nie narzuca. (31)
+Nie usprawiedliwia się „dobrem wyższym”. (10)
+Nie skraca drogi przez innych. (4)
+
+Jest gotowością powiedzenia: (21)
+„To ja poniosę skutek,
+nawet jeśli nie mam prawa decydować.” (10)
+
+[CIĘŻAR_CISZY]
+Odpowiedzialność bez władzy
+często działa w ciszy. (20)
+
+Nie potrzebuje deklaracji. (31)
+Nie domaga się potwierdzenia. (21)
+Nie szuka narracji obronnej. (4)
+
+Cisza nie jest brakiem działania. (20)
+Jest formą czuwania nad skutkiem. (21)
+
+[ANTYPOKUSA]
 Największą pokusą odpowiedzialności
-jest chęć jej sformalizowania.
-
-Krąg 31 – porządek systemowy  
+jest próba jej sformalizowania. (31)
 
 Gdy odpowiedzialność staje się urzędem,
-traci czujność.
+pojawia się ochrona pozycji. (31)
 Gdy staje się etykietą,
-traci sens.
+zanika gotowość poniesienia ceny. (10)
 
-[ZDANIE_DOMYKAJACE] (Kręgi: 21, 31)
+System może zarządzać władzą. (31)
+Nie jest w stanie zarządzać odpowiedzialnością. (21)
+
+[RELACJA_Z_WŁADZĄ]
+Władza i odpowiedzialność
+nie są przeciwieństwami. (21)
+Są porządkami o różnej logice. (31)
+
+Władza bez odpowiedzialności
+staje się zarządzaniem skutkami cudzym kosztem. (10)
+Odpowiedzialność bez władzy
+pozostaje służbą sensowi. (21)
+
+[ZDANIE_DOMYKAJĄCE]
 Ten, kto potrzebuje władzy,
-aby być odpowiedzialnym,
-nie jest jeszcze gotowy.
+aby być odpowiedzialnym, (31)
+nie jest jeszcze gotowy
+na ciężar odpowiedzialności. (21)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid etosu.
-– Funkcja: odróżnienie ciężaru od wpływu.
-– Status: dokument rdzeniowy – poziom Szczytu.
+Metoda: Azramata – vivid etosu służby. (21)
+Funkcja: odróżnienie ciężaru odpowiedzialności od zakresu władzy. (10)
+Charakter: dokument rdzeniowy, nienormatywny. (31)
+Status: dokument autorski – poziom etosu. (21)

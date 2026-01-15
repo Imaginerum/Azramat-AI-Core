@@ -1,66 +1,128 @@
 # Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_koniec_narracji.vv
+# System: Azramata
 # Nazwa: Koniec narracji
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – domknięcie sensu
 # Status: dokument ciszy
 # Cel: opisać moment, w którym narracja przestaje działać
-# Adnotacja Kręgowa: (4), (10), (17), (21), (31)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (4), (10), (17), (31)
 # Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
 
-[WYGAŚNIĘCIE] (Kręgi: 4)
-Narracja kończy się wtedy,
-gdy nie tłumaczy już skutków.
+[WYGAŚNIĘCIE]
+Narracja kończy się nie wtedy, (4)
+gdy przestaje być opowiadana,
+lecz wtedy, gdy przestaje tłumaczyć skutki. (10)
 
-Krąg 4 – prawda doświadczenia  
+Może trwać w słowach, (31)
+w mediach,
+w dokumentach,
+ale traci zdolność osłony sensu. (21)
 
-Nie znika nagle.
-Cichnie.
+Nie znika nagle. (17)
+Nie pęka.
+Cichnie. (4)
 
-[CO_ZOSTAJE] (Kręgi: 21)
-Gdy narracja milknie,
-zostaje sens albo pustka.
+[MECHANIZM_WYGAŚNIĘCIA]
+Narracja wygasa, gdy: (4)
+– każde kolejne wyjaśnienie pogłębia sprzeczność, (31)
+– słowa nie zmieniają już biegu zdarzeń, (10)
+– opowieść nie unosi ciężaru skutku. (21)
 
-Krąg 21 – integralność  
+W tym momencie
+system przestaje reagować na komunikaty, (31)
+a zaczyna reagować wyłącznie na działania. (10)
 
-Sens nie potrzebuje opowieści.
-Wystarczy, że działa.
+[CO_ZOSTAJE]
+Gdy narracja milknie, (17)
+zostaje tylko to, co było prawdziwe bez niej. (4)
 
-[ODPOWIEDZIALNOŚĆ_PO] (Kręgi: 10)
-Po narracji nie ma alibi.
+Zostaje sens albo pustka. (21)
 
-Krąg 10 – odpowiedzialność  
+Sens nie potrzebuje opowieści. (21)
+Nie wymaga uzasadnienia. (17)
+Wystarczy, że działa
+i nie zaprzecza sam sobie. (4)
 
-Nie można powiedzieć:
-„nie wiedzieliśmy”.
-Pozostaje tylko:
+Pustka natomiast
+natychmiast domaga się nowej narracji. (31)
+
+[ODPOWIEDZIALNOŚĆ_PO]
+Po narracji nie ma alibi. (10)
+
+Nie można już powiedzieć: (31)
+– „nie wiedzieliśmy”,  
+– „tak mówiono”,  
+– „takie były okoliczności”.
+
+Pozostaje tylko: (21)
 „to było nasze”.
 
-[CISZA_SYSTEMOWA] (Kręgi: 31)
-Cisza nie jest końcem.
-Jest stanem, w którym system
-może się odbudować albo rozpaść.
+Odpowiedzialność po narracji (10)
+nie jest deklaracją.
+Jest przyjęciem skutku
+bez językowej osłony. (17)
 
-Krąg 31 – porządek  
+[CISZA_SYSTEMOWA]
+Cisza po narracji (31)
+nie jest brakiem komunikacji.
+Jest stanem granicznym systemu. (21)
 
-W ciszy widać,
-kto potrafi stać bez roli,
-a kto istniał tylko jako głos.
+W ciszy:
+– ujawnia się realna struktura odpowiedzialności, (10)
+– znikają role podtrzymywane wyłącznie słowem, (31)
+– widać, kto potrafi pozostać bez uzasadnienia. (17)
 
-[PO_CZYM_POZNAC] (Kręgi: 17)
-Ten, kto był zakorzeniony w sensie,
-nie musi nic mówić.
+Cisza może prowadzić: (21)
+– do odbudowy sensu,  
+– albo do rozpadu struktury.  
 
-Krąg 17 – rozeznanie  
+Nie da się jej przejść narracją. (31)
 
-Ten, kto żył z narracji,
-zacznie krzyczeć.
+[REAKCJE_NA_CISZĘ]
+Ten, kto był zakorzeniony w sensie, (21)
+nie musi nic mówić. (17)
 
-[ZDANIE_DOMYKAJACE] (Kręgi: 21, 31)
-Koniec narracji
-jest początkiem odpowiedzialności.
+Jego działania nie przyspieszają. (10)
+Nie szukają potwierdzenia. (31)
+Nie domagają się widowni. (4)
+
+Ten, kto żył z narracji, (5)
+zacznie krzyczeć. (31)
+
+Będzie próbował:
+– przywrócić tempo,  
+– nadać znaczenie ciszy,  
+– wymusić reakcję słowem.  
+
+To znak,
+że sens nie został zinternalizowany. (21)
+
+[GRANICA_ODTWORZENIA]
+Narracji nie da się już przywrócić (31)
+w tej samej formie,
+jeżeli system przeszedł przez ciszę. (21)
+
+Każda próba „powrotu do opowieści” (4)
+jest już nową konstrukcją,
+nie kontynuacją. (31)
+
+Dlatego cisza (21)
+jest momentem nieodwracalnym. (10)
+
+[ZDANIE_DOMYKAJĄCE]
+Koniec narracji (21)
+nie jest końcem sensu.
+
+Jest końcem ochrony przed odpowiedzialnością. (10)
+
+Od tego momentu
+system żyje już tylko tym,
+co potrafi unieść bez słów. (31)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid ciszy.
-– Funkcja: domknięcie architektury bez mitu.
-– Status: dokument finalny – poziom Szczytu.
+Metoda: Azramata – vivid ciszy. (21)
+Funkcja: domknięcie architektury sensu bez mitu i narracyjnej osłony. (31)
+Charakter: dokument graniczny, post-narracyjny. (17)
+Status: dokument autorski – poziom Szczytu. (21)

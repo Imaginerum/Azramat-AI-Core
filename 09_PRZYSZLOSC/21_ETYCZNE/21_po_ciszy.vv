@@ -1,47 +1,49 @@
 # Plik: /09_PRZYSZLOSC/21_ETYCZNE/21_po_ciszy.vv
+# System: Azramata
 # Nazwa: Po ciszy
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – odbudowa sensu
 # Status: dokument post-graniczny
 # Cel: opisać, co wolno robić po zakończeniu narracji
-# Adnotacja Kręgowa: (3), (4), (5), (10), (17), (20), (21), (31)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (3), (4), (5), (10), (17), (20), (31)
 # Ścieżka: /09_PRZYSZLOSC/21_ETYCZNE/
 
-[STAN_POCZATKOWY] (Kręgi: 4, 10, 21)
-Po ciszy nie ma instrukcji.
-Jest tylko rzeczywistość.
-I pamięć skutków.
+[STAN_POCZATKOWY]
+Po ciszy nie ma instrukcji. (4)
+Jest tylko rzeczywistość. (21)
+I pamięć skutków. (10)
 
-[CZEGO_NIE_WOLNO] (Kręgi: 3, 5, 21)
-Nie wolno natychmiast mówić.
-Nie wolno wypełniać ciszy treścią zastępczą.
-Nie wolno przywracać narracji dla komfortu.
+[CZEGO_NIE_WOLNO]
+Nie wolno natychmiast mówić. (3)
+Nie wolno wypełniać ciszy treścią zastępczą. (5)
+Nie wolno przywracać narracji dla komfortu. (21)
 
-[CZEGO_WOLNO] (Kręgi: 4, 10, 17)
-Wolno patrzeć, aż obraz się ustabilizuje.
-Wolno czekać, aż emocje opadną.
-Wolno przyjąć odpowiedzialność bez słów.
+[CZEGO_WOLNO]
+Wolno patrzeć, aż obraz się ustabilizuje. (4)
+Wolno czekać, aż emocje opadną. (17)
+Wolno przyjąć odpowiedzialność bez słów. (10)
 
-[PIERWSZY_RUCH] (Kręgi: 20, 21, 31)
-Pierwszy ruch po ciszy nie jest deklaracją.
-Jest działaniem minimalnym.
-Takim, które nie generuje nowego chaosu.
+[PIERWSZY_RUCH]
+Pierwszy ruch po ciszy nie jest deklaracją. (21)
+Jest działaniem minimalnym. (20)
+Takim, które nie generuje nowego chaosu. (31)
 
-[ROLA_CZUWANIA] (Kręgi: 17, 20, 21)
-Czuwanie po ciszy jest rzadsze, ale głębsze.
-Nie szuka potwierdzenia.
-Nie potrzebuje świadków.
+[ROLA_CZUWANIA]
+Czuwanie po ciszy jest rzadsze, ale głębsze. (17)
+Nie szuka potwierdzenia. (21)
+Nie potrzebuje świadków. (20)
 
-[ODROZNIENIE] (Kręgi: 4, 21)
-Jeśli ktoś po ciszy musi przemawiać, nie czuwał.
-Jeśli ktoś po ciszy działa spokojniej, rozpoznał sens.
+[ODROZNIENIE]
+Jeśli ktoś po ciszy musi przemawiać, nie czuwał. (4)
+Jeśli ktoś po ciszy działa spokojniej, rozpoznał sens. (21)
 
-[ZDANIE_DOMYKAJACE] (Kręgi: 21, 31)
-Po ciszy wolno tylko to, co nie wymaga usprawiedliwienia.
-Reszta poczeka.
+[ZDANIE_DOMYKAJACE]
+Po ciszy wolno tylko to, co nie wymaga usprawiedliwienia. (21)
+Reszta poczeka. (31)
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid post-narracyjny.
-– Funkcja: ochrona odbudowy sensu po kryzysie.
-– Status: dokument graniczny – poziom ciszy.
+Metoda: Azramata – vivid post-narracyjny. (21)
+Funkcja: ochrona odbudowy sensu po kryzysie. (17)
+Status: dokument graniczny – poziom ciszy. (31)

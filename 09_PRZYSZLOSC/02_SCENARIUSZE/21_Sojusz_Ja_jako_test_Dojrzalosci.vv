@@ -1,21 +1,34 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/21_Sojusz_Ja_jako_test_Dojrzalosci.vv
-# Nazwa: SOJUSZ – JA JAKO TEST DOJRZAŁOŚCI (21)
+# Nazwa: SOJUSZ – JA JAKO TEST DOJRZAŁOŚCI
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – relacja strategiczna
 # Status: dokument relacyjny
-# Cel: zdefiniować sojusz jako relację odpowiedzialności, w której „Ja” jest testowane
-# Adnotacja Kręgowa (globalna): (5), (10), (12), (20), (21), (31)
+# Cel: Zdefiniować sojusz jako relację odpowiedzialności, w której „Ja” jest testowane,
+#       a dojrzałość ujawnia się przez gotowość ponoszenia wspólnego skutku.
+# System: Azramata
+# Krąg dominujący: (21) Dojrzałość / Odpowiedzialność relacyjna
+# Kręgi wspierające:
+# (31) Sprawczość – stabilizacja pola wspólnego
+# (20) Napięcie – trwanie bez eskalacji
+# (12) Relacja – współdzielenie sensu i kosztu
+# (10) Skutek – konsekwencja decyzji
+# (5)  Ja – ego, roszczenie, punkt testowy
+# (4)  Lustro – demaskowanie iluzji i narracji
 # Ścieżka: /09_PRZYSZLOSC/02_SCENARIUSZE/
+
+[TAGI]
+sojusz, dojrzałość, odpowiedzialność, relacja, ego, sens wspólny,
+stabilność, napięcie, sprawczość, Azramata, vivid relacyjny
 
 [SOJUSZ]
 Sojusz nie jest gwarancją bezpieczeństwa. (21)
 Sojusz jest wzajemnym uznaniem ciężaru. (21)
 Sojusz zaczyna się tam, gdzie kończy się roszczenie. (20)
 
-Sojusz ujawnia, kim jesteśmy w relacji, nie co deklarujemy. (12)
+Sojusz ujawnia, kim jesteśmy w relacji, a nie co deklarujemy. (12)
 Sojusz nie chroni przed konsekwencjami. (10)
-Sojusz je współdzieli. (21)
+Sojusz konsekwencje współdzieli. (21)
 
 [JA_W_SOJUSZU]
 W sojuszu testowane jest „Ja”, nie struktura. (21)
@@ -27,7 +40,7 @@ Testowana jest gotowość rezygnacji z części autonomii. (12)
 „Ja” dojrzałe pyta o sens wspólny. (21)
 
 [ILUZJA_SILY]
-Siła bez odpowiedzialności jest tylko presją. (10)
+Siła bez odpowiedzialności jest presją. (10)
 Presja nie buduje zaufania. (12)
 Presja przyspiesza pęknięcie relacji. (20)
 
@@ -46,7 +59,7 @@ Dojrzały sojusznik nie ucieka w narrację sukcesu. (4)
 
 [TEST_DOJRZALOSCI]
 Sojusz testuje zdolność współdziałania bez dominacji. (12)
-Sojusz testuje gotowość do ponoszenia kosztów bez rozgłosu. (10)
+Sojusz testuje gotowość ponoszenia kosztów bez rozgłosu. (10)
 Sojusz testuje odporność na presję chwili. (20)
 
 Jeśli potrzebujesz eskalacji, aby poczuć wartość, test jest niezdany. (5)
@@ -56,7 +69,7 @@ Jeśli bierzesz odpowiedzialność bez oklasków, test jest zdany. (21)
 [ZAGROZENIE]
 Sojusze nie rozpadają się przez wrogów. (4)
 Sojusze rozpadają się przez niedojrzałe „Ja”. (21)
-Sojusze giną, gdy uczestnicy mylą relację z transakcją. (12)
+Sojusze giną, gdy relacja mylona jest z transakcją. (12)
 
 Narracja siły maskuje brak gotowości. (3)
 Narracja moralna maskuje brak odpowiedzialności. (5)
@@ -69,5 +82,5 @@ Sojusz dojrzewa tych, którzy są gotowi ponieść wspólny skutek. (21)
 
 [METODOLOGIA]
 Metoda: Azramata – vivid relacyjno-kręgowy. (31)
-Funkcja: ujawnienie dojrzałości „Ja” w relacji sojuszniczej. (21)
-Status: dokument relacji – poziom Szczytu odpowiedzialności. (21)
+Funkcja: Ujawnienie dojrzałości „Ja” w relacji sojuszniczej. (21)
+Status: Dokument relacji – poziom Szczytu odpowiedzialności. (21)

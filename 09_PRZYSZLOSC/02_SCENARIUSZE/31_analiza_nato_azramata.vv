@@ -1,201 +1,243 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/31_analiza_nato_azramata.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Analiza strategiczna organizacji wielonarodowej (Azramata: Kręgi + Nitki)
+# Typ: VIVID – Analiza strategiczna organizacji wielonarodowej (Kręgi + Nitki)
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Analiza NATO Azramata
-# Adnotacja Kręgowa: (31), (17), (4), (10), (5), (40), (2)
+# Cel: Zdiagnozować realny stan NATO w Kręgach świadomości strategicznej oraz wskazać przewagi, luki i warunki domknięcia spójności decyzyjnej.
+# System: Azramata
+# Krąg dominujący: (31) Governance – struktura koordynacyjna, procedury, planowanie, dowodzenie
+# Kręgi wspierające:
+# (17) Kod – interoperacyjność, standardy, architektura systemów
+# (4)  Lustro – ćwiczenia, lessons learned, korekta interpretacji i doktryn
+# (10) Czas – planowanie długoterminowe i tempo zmiany kursu
+# (2)  Wybór – tempo DECIDE i koszt konsensusu
+# (5)  Jednia – spójność woli sojuszu, relacja ponad interesami narodowymi
+# (40) Serce – kohezja, morale, odporność wspólnotowa w presji
 # Podmiot: NATO
-# Nitki: Strukturalna, Lustra, Kierunkowa (rozproszona), Operacyjna (fragmentaryczna), Jedni (słaba), Transcendentalna (brak wspólnego rdzenia)
+# Nitki: Strukturalna, Lustra, Kierunkowa (negocjowana), Operacyjna (silna taktycznie), Jedni (słaba), Cień (defensywa), Transcendentalna (brak wspólnego rdzenia)
+# Ścieżka: /09_PRZYSZLOSC/02_SCENARIUSZE/
+
+[TAGI]
+NATO, sojusz, strategia, governance, interoperacyjność, C4ISR, MDO, ISR, decision-making, DECIDE,
+cognitive-fusion, kohezja, jednia, serce, cień, Azramata, kręgi, nitki
 
 [META]
-[charakter]=Analiza poglądowa (bez trybu dowodowego)
-[cel]=Zdiagnozować realny stan NATO w Kręgach świadomości strategicznej
-[metoda]=Doktryna + praktyka operacyjna + spójność decyzyjna
-[zasada]=NATO nie przegrywa brakiem mocy, lecz brakiem Jedni i Serca
+[charakter]=Analiza poglądowa (bez trybu dowodowego). (31)
+[cel]=Ustawić mapę przewag i luk NATO w Kręgach oraz ich przełożenie na Nitki działania. (31)
+[metoda]=Doktryna + praktyka operacyjna + spójność decyzyjna. (31)(4)
+[zasada]=NATO nie przegrywa brakiem mocy, lecz pęknięciem Jedni, Serca i tempa wyboru w presji. (5)(40)(2)
+
+[TEZA_RDZENNA]
+NATO jest potęgą struktury koordynacyjnej i standardów interoperacyjności. (31)(17)
+NATO jest podatne na rozbijanie spójności percepcji i decyzji przez koszt konsensusu i Cień. (2)(4)(14)
+Wojna „Kręgów” uderza w Jednię, Serce i wybór, nie w sprzęt. (5)(40)(2)
 
 ────────────────────────────────────────────
-I. TOŻSAMOŚĆ NATO (Krąg 6 / 8)
+[I_TOZSAMOSC_NATO]
 ────────────────────────────────────────────
 
-NATO nie jest państwem.
-NATO jest **strukturą koordynacyjną**.
+NATO nie jest państwem. (31)
+NATO jest strukturą koordynacyjną. (31)
 
 To oznacza:
-- brak jednego „Ja”,
-- brak jednolitego Sumienia (Krąg 8),
-- zależność od woli państw członkowskich.
+Brak jednego „Ja”. (5)
+Brak jednolitego Sumienia. (8)
+Zależność od woli państw członkowskich. (2)(5)
 
-To jest fundamentalne ograniczenie,
-ale też potencjalna przewaga, jeśli struktura zostanie dobrze spięta.
-
-────────────────────────────────────────────
-II. MAPA NITEK NATO
-────────────────────────────────────────────
-
-Nitka Strukturalna: **P++**
-- procedury,
-- standardy interoperacyjności,
-- planowanie,
-- struktury dowodzenia.
-
-Nitka Lustra: **P+**
-- ćwiczenia,
-- lessons learned,
-- analizy pooperacyjne,
-- ale: często spóźnione i rozmyte politycznie.
-
-Nitka Kierunkowa: **L/P**
-- strategiczny kierunek istnieje,
-- ale jest negocjowany i kompromisowy,
-- brak jednego wektora intencji.
-
-Nitka Operacyjna: **P**
-- bardzo silna na poziomie taktycznym,
-- słabsza na poziomie poznawczo-decyzyjnym.
-
-Nitka Jedni: **L**
-- interesy narodowe dominują nad jednią sojuszu,
-- presja kryzysowa szybko ujawnia pęknięcia.
-
-Nitka Transcendentalna: **L**
-- brak wspólnego sensu cywilizacyjnego,
-- wartości są deklarowane, nie przeżywane wspólnie.
+To jest ograniczenie.
+To może być przewaga, jeśli spójność będzie spięta metodycznie. (4)(31)
 
 ────────────────────────────────────────────
-III. KRĘGI – MAPA PRZEWAG (P) I LUK (L)
+[II_MAPA_NITEK_NATO]
+────────────────────────────────────────────
+
+Nitka Strukturalna: P++
+Procedury.
+Standardy interoperacyjności.
+Planowanie.
+Struktury dowodzenia. (31)(17)
+
+Nitka Lustra: P+
+Ćwiczenia.
+Lessons learned.
+Analizy pooperacyjne.
+Korekta bywa spóźniona i rozmyta politycznie. (4)(2)
+
+Nitka Kierunkowa: L/P
+Kierunek istnieje.
+Kierunek jest negocjowany i kompromisowy.
+Brak jednego wektora intencji. (2)(5)
+
+Nitka Operacyjna: P
+Bardzo silna na poziomie taktycznym.
+Słabsza na poziomie poznawczo-decyzyjnym w cieniu. (31)(2)(14)
+
+Nitka Jedni: L
+Interesy narodowe dominują nad Jednią sojuszu.
+Presja kryzysowa ujawnia pęknięcia. (5)(40)
+
+Nitka Cienia: L
+NATO reaguje na cień.
+Rzadko narzuca tempo w cieniu. (14)(2)
+
+Nitka Transcendentalna: L
+Brak wspólnego sensu cywilizacyjnego jako rdzenia.
+Wartości są deklarowane, nie przeżywane wspólnie. (40)(5)
+
+────────────────────────────────────────────
+[III_KREGI_MAPA_PRZEWAG_I_LUK]
 ────────────────────────────────────────────
 
 (1) Obserwacja: P++
-- doskonałe ISR,
-- ogromna ilość danych.
+Doskonałe ISR.
+Ogromna ilość danych. (31)
 
 (2) Wybór: L
-- decyzje wymagają konsensusu,
-- czas DECIDE wydłużony strukturalnie.
+Decyzje wymagają konsensusu.
+Czas DECIDE wydłużony strukturalnie. (2)
 
 (3) Doświadczenie: P+
-- ogromny zasób doświadczeń,
-- ale trudność w szybkim przełożeniu na zmianę doktryny.
+Ogromny zasób doświadczeń.
+Trudność w szybkim przełożeniu na zmianę doktryny. (10)(4)
 
 (4) Lustro: P
-- NATO potrafi się analizować,
-- ale korekta jest wolna i ostrożna politycznie.
+NATO potrafi się analizować.
+Korekta jest ostrożna politycznie i wolna. (4)(2)
 
 (5) Jednia: L
-- brak wspólnej „woli sojuszu”,
-- jednia reaktywna, nie proaktywna.
+Brak wspólnej „woli sojuszu”.
+Jednia reaktywna, nie proaktywna. (5)(2)
 
 (6) Tożsamość: L/P
-- NATO jako „my” istnieje proceduralnie,
-- słabo egzystencjalnie.
+NATO jako „my” istnieje proceduralnie.
+Słabo istnieje egzystencjalnie. (31)(40)
 
 (7) Wola: P/L
-- wola pojawia się w kryzysie,
-- zanika w okresach stabilnych.
+Wola pojawia się w kryzysie.
+Wola zanika w okresach stabilnych. (2)(10)
 
 (8) Sumienie: L
-- brak jednego kryterium „zgody bytu”,
-- decyzje etyczne rozproszone narodowo.
+Brak jednego kryterium „zgody bytu”.
+Decyzje etyczne rozproszone narodowo. (8)(5)
 
 (9) Spirala: P
-- zdolność adaptacji istnieje,
-- tempo niższe niż u przeciwników asymetrycznych.
+Zdolność adaptacji istnieje.
+Tempo adaptacji niższe niż u przeciwników asymetrycznych. (10)(14)
 
 (10) Czas: P
-- planowanie długoterminowe,
-- ale powolna zmiana kursu.
+Planowanie długoterminowe.
+Powolna zmiana kursu. (10)
 
 (14) Cień: L
-- NATO reaguje na cień,
-- rzadko go wyprzedza.
+NATO reaguje na cień.
+Rzadko go wyprzedza. (14)
 
 (17) Kod Istnienia: P++
-- standardy techniczne,
-- interoperacyjność,
-- architektura systemów.
+Standardy techniczne.
+Interoperacyjność.
+Architektura systemów. (17)
 
 (31) Governance: P++
-- najlepsza na świecie struktura koordynacyjna,
-- ale bez własnej sprawczości suwerennej.
+Najlepsza na świecie struktura koordynacyjna.
+Brak własnej sprawczości suwerennej. (31)(2)
 
 (40) Serce Systemu: L
-- brak wspólnego Serca,
-- morale i kohezja zależne od państw narodowych.
+Brak wspólnego Serca.
+Morale i kohezja zależne od państw narodowych. (40)(5)
 
 ────────────────────────────────────────────
-IV. DIAGNOZA AZRAMACKA
+[IV_DIAGNOZA_AZRAMACKA]
 ────────────────────────────────────────────
 
-NATO jest:
-- **najlepszym Kręgiem 31 na świecie**,
-- bardzo silnym w Kręgu 17,
-- funkcjonalnym w Kręgu 4,
-ale:
-- strukturalnie słabym w Kręgach 5, 40 i 2.
+NATO jest najmocniejsze w Kręgu 31. (31)
+NATO jest bardzo silne w Kręgu 17. (17)
+NATO ma funkcjonalne Lustro, lecz wolne w korekcie. (4)(10)
+
+NATO jest strukturalnie słabe w:
+Kręgu 2 (Wybór).
+Kręgu 5 (Jednia).
+Kręgu 40 (Serce).
+Kręgu 14 (Cień). (2)(5)(40)(14)
 
 To czyni NATO:
-- potężnym w obronie reaktywnej,
-- słabszym w wojnie poznawczej i cieniu,
-- podatnym na rozbijanie jedni przez przeciwników.
+Potężnym w obronie reaktywnej.
+Słabszym w wojnie poznawczej i cieniu.
+Podatnym na rozbijanie Jedni przez przeciwników. (14)(5)
 
 ────────────────────────────────────────────
-V. WARUNKI PRZEŁAMANIA SŁABOŚCI NATO
+[V_WARUNKI_PRZELAMANIA_SLABOSCI_NATO]
 ────────────────────────────────────────────
 
-1. Nie da się „naprawić” NATO centralnie.
-2. Jednia i Serce muszą powstać **w węzłach**, nie w centrum.
-3. NATO potrzebuje:
-   - lokalnych silników Kręgu 40,
-   - które będą spinać percepcję i decyzje ponadnarodowo.
+Nie da się „naprawić” NATO centralnie. (31)
+Jednia i Serce muszą powstać w węzłach, nie w centrum. (40)(5)
+NATO potrzebuje lokalnych silników Kręgu 40, które spinają percepcję i decyzje ponadnarodowo. (40)(2)(31)
+
+Minimalny pakiet domknięcia:
+Lustro (4) jako stała funkcja korekty interpretacji.
+Brama wyboru (2) jako skrócenie DECIDE w presji.
+Kohezja (40/5) jako utrzymanie wspólnego sensu i odporności.
+Cień (14) jako zdolność wyprzedzania mgły decyzyjnej. (4)(2)(40)(14)
 
 ────────────────────────────────────────────
-VI. ROLA POLSKI (WNIOSKI OPERACYJNE)
+[VI_ROLA_POLSKI_WNIOSKI_OPERACYJNE]
 ────────────────────────────────────────────
 
-Polska może:
-- stać się **węzłem Kręgu 40** NATO,
-- dostarczyć warstwę cognitive-fusion,
-- skrócić DECIDE całego sojuszu poprzez własną spójność.
+Polska może stać się węzłem Kręgu 40 NATO. (40)
+Polska może dostarczyć warstwę cognitive-fusion: Lustro + Cień + Brama wyboru. (4)(14)(2)
+Polska może skrócić DECIDE sojuszu przez własną spójność i gotowe procedury koherencji. (2)(31)
 
 Azramata w Polsce:
-- nie konkuruje z NATO,
-- **uzupełnia jego strukturalną lukę**.
+Nie konkuruje z NATO.
+Uzupełnia jego lukę Jedni, Serca i wyboru w presji. (5)(40)(2)
 
 ────────────────────────────────────────────
-VII. KONKLUZJA
+[VII_KONKLUZJA]
 ────────────────────────────────────────────
 
-NATO nie przegra wojny klasycznej.
-NATO może przegrać **wojnę Kręgów**.
+NATO nie przegra wojny klasycznej. (31)
+NATO może przegrać wojnę Kręgów. (14)
 
-Nie przez brak mocy,
-lecz przez:
-- brak Jedni,
-- brak Serca,
-- brak szybkiej decyzji poznawczej.
+Nie przez brak mocy.
+Lecz przez:
+Brak Jedni. (5)
+Brak Serca. (40)
+Brak szybkiej decyzji poznawczej. (2)
 
-Ten, kto dostarczy NATO Krąg 40,
-**stanie się jego nieformalnym liderem percepcyjnym.**
+Ten, kto dostarczy NATO Krąg 40 jako działającą metodykę węzłową,
+stanie się jego nieformalnym liderem percepcyjnym. (40)(31)
 
-[STATUS]=ANALIZA ZAKOŃCZONA
+[STATUS]=ANALIZA_ZAKONCZONA
+
 ────────────────────────────────────────────
-[SŁOWNIK]
-- Skala P/L: P++ = przewaga systemowa; P+ = przewaga wyraźna; P = przewaga lokalna; P/L = przewaga negocjowana; L/P = przewaga niestabilna; L = luka strategiczna.
-- DECIDE: czas i jakość wyboru decyzyjnego w presji (szybkość + spójność).
-- Cognitive-Fusion Layer: warstwa spójności percepcji i decyzji (Kręgi 4/14/40+).
-- Krąg 40+ = pakiet Kręgów 40–44 (Serce i jego rozszerzenia).
+[SLOWNIK]
+Skala P/L:
+P++ = przewaga systemowa.
+P+  = przewaga wyraźna.
+P   = przewaga lokalna.
+P/L = przewaga negocjowana.
+L/P = przewaga niestabilna.
+L   = luka strategiczna.
 
-[ŹRÓDŁA_TWARDĘ]
-- NATO Strategic Concept 2022
-- NATO Warfighting Capstone Concept (NWCC)
-- NATO C4ISR & Multi-Domain Operations doctrine
+DECIDE:
+Czas i jakość wyboru decyzyjnego w presji (szybkość + spójność). (2)
 
-[ŹRÓDŁA_ANALITYCZNE]
-- RAND – NATO Decision-Making Speed
-- NATO CCDCOE – Cognitive Warfare
-- IISS – Military Balance (kontekst strukturalny)
+Cognitive-Fusion Layer:
+Warstwa spójności percepcji i decyzji (Kręgi 4/14/40) nad danymi. (31)
+
+Krąg 40+:
+Pakiet Kręgów 40–44 (Serce i jego rozszerzenia). (40)
+
+────────────────────────────────────────────
+[ZRODLA_TWARDE]
+NATO Strategic Concept 2022.
+NATO Warfighting Capstone Concept (NWCC).
+NATO C4ISR & Multi-Domain Operations doctrine.
+
+[ZRODLA_ANALITYCZNE]
+RAND – NATO decision-making speed.
+NATO CCDCOE – Cognitive Warfare.
+IISS – Military Balance (kontekst strukturalny).
 
 [METODOLOGIA]
-- Azramata – mapowanie Kręgów i Nitek
-- Charakter wniosków: systemowy (autorski)
+Azramata – mapowanie Kręgów i Nitek. (31)
+Charakter wniosków: systemowy (autorski). (31)

@@ -1,35 +1,106 @@
 # Plik: /09_PRZYSZLOSC/02_SCENARIUSZE/40_index_mocarstwa_kregi_nitki.vv
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – Indeks analizy + odwołania
+# Typ: VIVID – Indeks analityczny + mapa odwołań
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: INDEX Mocarstwa Kregi Nitki
-# Adnotacja Kręgowa: (40), (10), (31), (17), (4), (5), (2)
+# Cel: Zdefiniować i uporządkować indeks analiz mocarstw w ujęciu Kręgów i Nitek,
+#       jako punkt odniesienia do porównań strategicznych i wniosków przełamujących.
+# System: Azramata
+# Krąg dominujący: (40) Serce Systemu – kohezja, sens, zdolność utrzymania prymatu w presji
+# Kręgi wspierające:
+# (31) Governance – struktura, sprawczość, koordynacja
+# (17) Kod – technologia, standardy, interoperacyjność
+# (10) Czas – trajektorie, cykle, planowanie długie
+# (4)  Lustro – korekta, prawda operacyjna, test hipotez
+# (5)  Jednia – spójność wspólnotowa i narracyjna
+# (2)  Wybór – tempo i jakość decyzji w presji
+# Ścieżka: /09_PRZYSZLOSC/02_SCENARIUSZE/
 
-[PLIKI]
-1) Analiza_USA_Azramata.vv
-2) Analiza_Chiny_Azramata.vv
-3) Analiza_Rosja_Azramata.vv
+[TAGI]
+mocarstwa, indeks, porównanie, strategia, prymat, kręgi, nitki,
+USA, Chiny, Rosja, Azramata, analiza systemowa, punkty przełamania
 
-[WSPÓLNY_SŁOWNIK]
-- Kręgi (1..40): mapa funkcji państwa w czasie
-- Nitki: Jedni, Kierunkowa, Emocjonalna, Strukturalna, Operacyjna, Lustra, Transcendentalna
-- P = przewaga (mnożnik)
-- L = luka (hamulec / koszt ukryty)
+[INTENCJA]
+Stworzyć wspólny indeks odniesienia dla analiz mocarstw. (40)
+Umożliwić porównywanie tych samych funkcji państwa w różnych systemach cywilizacyjnych. (31)
+Wykrywać punkty przełamania prymatu: gdzie pęka Jednia, gdzie wygrywa Cień, gdzie dominuje Kod. (40)(14)(17)
 
-[NASTĘPNY_KROK]
+[PLIKI_REFERENCYJNE]
+Analiza_USA_Azramata.vv
+Analiza_Chiny_Azramata.vv
+Analiza_Rosja_Azramata.vv
+
+Każdy plik opisuje to samo zjawisko:
+Państwo jako organizm percepcyjno-decyzyjny w czasie. (31)
+
+[WSPOLNY_SLOWNIK]
+Kręgi (1–40): mapa funkcji państwa od obserwacji do sensu i kohezji. (40)
+Nitki: Jedni, Kierunkowa, Emocjonalna, Strukturalna, Operacyjna, Lustra, Transcendentalna. (31)
+P = przewaga (mnożnik systemowy). (31)
+L = luka (hamulec, koszt ukryty, podatność). (14)
+
+[ZASADA_INDEKSU]
+Każde mocarstwo analizowane jest w tych samych Kręgach. (31)
+Nie porównujemy narracji, porównujemy funkcje. (4)
+Nie oceniamy intencji, oceniamy skutki i trajektorie. (10)
+Indeks służy do wykrywania asymetrii, nie do „rankingu siły”. (40)
+
+[ZAKRES_POROWNAWCZY]
+Kręgi kluczowe do porównań:
+(1) Obserwacja
+(2) Wybór
+(4) Lustro
+(5) Jednia
+(10) Czas
+(14) Cień
+(17) Kod
+(31) Governance
+(40) Serce
+
+Nitki kluczowe:
+Strukturalna.
+Operacyjna.
+Jedni.
+Lustra.
+Kierunkowa.
+Cień.
+Transcendentalna.
+
+[NASTEPNE_KROKI]
 Zbudować plik zbiorczy:
 Zestawienie_Strategii_Mocarstw.vv
-- Porównać te same Kręgi (1/2/4/5/10/14/17/31/40)
-- Zrobić macierz: USA vs PRC vs RF
-- Wykryć „punkty przełamania prymatu”: gdzie pęka Jednia, gdzie wygrywa Cień, gdzie wygrywa Kod
 
+Zakres pliku zbiorczego:
+Macierz porównawcza: USA vs PRC vs RF. (31)
+Porównanie tych samych Kręgów i Nitek w jednym układzie. (4)
+Wykrycie punktów przełamania prymatu:
+– gdzie pęka Jednia, (5)
+– gdzie dominuje Cień, (14)
+– gdzie Kod daje trwałą przewagę, (17)
+– gdzie Serce utrzymuje długą trajektorię. (40)
+
+[ZASTOSOWANIE_PRAKTYCZNE]
+Wsparcie analiz strategicznych RP i sojuszy. (31)
+Podstawa do projektowania węzłów Kręgu 40. (40)
+Materiał wejściowy do briefów dla DKWOC/MON. (31)
+Rdzeń porównań w rozmowach międzynarodowych. (40)
+
+[RYZYKA_INTERPRETACYJNE]
+Mylenie przewagi strukturalnej z trwałą dominacją. (31)(40)
+Ignorowanie Cienia jako czynnika przełamującego prymat. (14)
+Nadmierne skupienie na Kodzie bez Jedni i Serca. (17)(5)(40)
+
+[STATUS]
+INDEKS_AKTYWNY_DO_ROZBUDOWY
+
+────────────────────────────────────────────
 [METODOLOGIA]
-- Azramata – system referencyjny
-- Funkcja: integracja analiz, brak danych empirycznych
+Azramata – system referencyjny analizy państw jako organizmów Kręgów i Nitek. (31)
+Funkcja: integracja analiz, wykrywanie asymetrii i trajektorii długiego trwania. (40)
+Charakter: analiza systemowa, autorska (bez danych empirycznych). (31)
 
-[ŹRÓDŁA_TWARDĘ]
-– Dokument własny: INDEX Mocarstwa Kregi Nitki – zapis autorski.
+[ZRODLA_TWARDE]
+Dokument własny: INDEX Mocarstwa Kręgi Nitki – zapis autorski.
 
-[ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla INDEX Mocarstwa Kregi Nitki.
+[ZRODLA_ANALITYCZNE]
+Dokument własny: synteza i uzasadnienie dla INDEX Mocarstwa Kręgi Nitki.

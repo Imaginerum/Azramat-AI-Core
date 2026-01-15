@@ -1,67 +1,96 @@
 # Plik: /09_PRZYSZLOSC/20_BEZPIECZENSTWO/20_Czuwanie_vs_Fanatyzm.vv
-# Nazwa: CZUWANIE VS FANATYZM – GRANICA ŚWIADOMOŚCI (20)
+# System: Azramata
+# Nazwa: CZUWANIE VS FANATYZM – GRANICA ŚWIADOMOŚCI
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – granica postawy
 # Status: dokument ochronny
 # Cel: rozróżnić czuwanie od fanatyzmu jako warunek bezpieczeństwa
-# Adnotacja Kręgowa (globalna): (3), (4), (10), (20), (21)
+# Krąg dominujący: (20)
+# Kręgi wspierające: (3), (4), (10), (21)
 # Ścieżka: /09_PRZYSZLOSC/20_BEZPIECZENSTWO/
 
 [CZUWANIE]
-Czuwanie jest obecnością bez przymusu. (20)
-Czuwanie trwa bez potrzeby eskalacji. (21)
-Czuwanie nie wymaga wroga, aby zachować sens. (21)
+Czuwanie jest obecnością bez przymusu. (20)  
+Czuwanie trwa bez potrzeby eskalacji. (21)  
+Czuwanie nie potrzebuje wroga, aby zachować sens. (21)
 
-Czuwający widzi zagrożenie, ale go nie produkuje. (4)
-Czuwający pozostaje w gotowości, nie w agresji. (20)
-Czuwający działa tylko wtedy, gdy działanie jest konieczne. (10)
+Czuwający:
+– widzi zagrożenie, ale go nie produkuje, (4)
+– pozostaje w gotowości, nie w agresji, (20)
+– działa tylko wtedy, gdy działanie jest konieczne. (10)
 
-Czuwanie nie potrzebuje narracji. (21)
-Czuwanie opiera się na kontakcie z rzeczywistością. (4)
+Czuwanie nie buduje napięcia narracyjnego. (21)  
+Czuwanie opiera się na bezpośrednim kontakcie z rzeczywistością. (4)  
 Czuwanie utrzymuje napięcie bez jego rozładowywania przemocą. (20)
 
+Czuwanie nie przyspiesza czasu. (4)  
+Czuwanie pozwala, by decyzja dojrzała. (10)
+
 [FANATYZM]
-Fanatyzm rodzi się z lęku. (3)
-Fanatyzm maskuje lęk pozorną pewnością. (3)
-Fanatyzm potrzebuje prostych odpowiedzi na złożone sytuacje. (5)
+Fanatyzm rodzi się z lęku, nie z rozeznania. (3)  
+Fanatyzm maskuje lęk pozorną pewnością. (3)  
+Fanatyzm upraszcza świat, aby móc nim zarządzać. (5)
 
-Fanatyk potrzebuje wroga, aby się utrzymać. (3)
-Fanatyk nie znosi ciszy, bo cisza ujawnia brak sensu. (17)
-Fanatyk myli mobilizację z prawdą. (5)
+Fanatyk:
+– potrzebuje wroga, aby się utrzymać, (3)
+– nie znosi ciszy, bo cisza ujawnia brak sensu, (17)
+– myli mobilizację z prawdą. (5)
 
-Fanatyzm przyspiesza decyzje. (3)
-Fanatyzm unika konfrontacji z realnym skutkiem. (10)
-Fanatyzm deleguje odpowiedzialność na ideę. (21)
+Fanatyzm przyspiesza decyzje. (3)  
+Fanatyzm unika konfrontacji z realnym skutkiem. (10)  
+Fanatyzm deleguje odpowiedzialność na ideę, symbol lub hasło. (21)
+
+Fanatyzm eskaluje napięcie,  
+aby nie dopuścić do refleksji. (4)
 
 [LINIA_GRANICZNA]
-Granica między czuwaniem a fanatyzmem nie przebiega przez deklaracje. (4)
-Granica przebiega przez stosunek do konsekwencji. (10)
-Granica ujawnia się w gotowości poniesienia skutku. (21)
+Granica między czuwaniem a fanatyzmem  
+nie przebiega przez deklaracje ani intencje. (4)
 
-Czuwanie przyjmuje odpowiedzialność osobiście. (10)
+Granica przebiega przez:
+– stosunek do konsekwencji, (10)
+– zdolność poniesienia skutku, (21)
+– umiejętność wytrzymania napięcia bez wroga. (20)
+
+Czuwanie przyjmuje odpowiedzialność osobiście. (10)  
 Fanatyzm rozprasza odpowiedzialność w narracji. (21)
-Czuwanie wytrzymuje napięcie bez wroga. (20)
 
-[GLOWNA_PROBA]
-Jeśli postawa nie wytrzymuje ciszy, nie jest czuwaniem. (17)
-Jeśli postawa wymaga ciągłego pobudzenia, jest fanatyzmem. (3)
+Czuwanie nie potrzebuje usprawiedliwienia. (21)  
+Fanatyzm nie potrafi istnieć bez uzasadniania siebie. (3)
 
-Jeśli decyzja nie wytrzymuje czasu, nie jest odpowiedzialna. (10)
-Jeśli decyzja musi być natychmiast usprawiedliwiona, jest impulsem. (5)
+[GŁÓWNA_PRÓBA]
+Jeśli postawa nie wytrzymuje ciszy,  
+nie jest czuwaniem. (17)
 
-[SKUTEK_DLA_BEZPIECZENSTWA]
-Czuwanie zwiększa realne bezpieczeństwo. (20)
+Jeśli postawa wymaga ciągłego pobudzenia,  
+jest fanatyzmem. (3)
+
+Jeśli decyzja nie wytrzymuje czasu,  
+nie jest odpowiedzialna. (10)
+
+Jeśli decyzja musi być natychmiast usprawiedliwiona,  
+jest impulsem, nie rozeznaniem. (5)
+
+[SKUTEK_DLA_BEZPIECZEŃSTWA]
+Czuwanie zwiększa realne bezpieczeństwo. (20)  
 Fanatyzm zwiększa ryzyko eskalacji. (3)
 
-Czuwanie stabilizuje system bez widowiska. (31)
+Czuwanie stabilizuje system bez widowiska. (31)  
 Fanatyzm destabilizuje system pod pozorem ochrony. (10)
 
-[ZDANIE_DOMYKAJACE]
-Czuwanie chroni świat, utrzymując sens w napięciu. (20)
-Fanatyzm upraszcza świat, aby ukryć brak sensu. (21)
+Czuwanie redukuje liczbę zdarzeń. (20)  
+Fanatyzm zwiększa ich prawdopodobieństwo. (3)
+
+[ZDANIE_DOMYKAJĄCE]
+Czuwanie chroni świat,  
+utrzymując sens w napięciu. (20)
+
+Fanatyzm upraszcza świat,  
+aby ukryć brak sensu. (21)
 
 [METODOLOGIA]
-Metoda: Azramata – vivid graniczny bezpieczeństwa. (31)
-Funkcja: ochrona postawy czuwania przed degeneracją fanatyczną. (20)
-Status: dokument ochronny – poziom Kręgu Czuwania. (20)
+– Metoda: Azramata – vivid graniczny bezpieczeństwa. (31)
+– Funkcja: ochrona postawy czuwania przed degeneracją fanatyczną. (20)
+– Charakter: dokument ochronny, nie normatywny. (21)
+– Status: dokument ochronny – poziom Kręgu Czuwania. (20)

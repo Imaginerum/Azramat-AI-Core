@@ -3,91 +3,144 @@
 # Data: 2025-08-07
 # Typ: VIVID – TECHNOLOGIA (mapowanie percepcyjne, meta-strukturalne)
 # Status: roboczy
-# Cel: [DEFINICJA]
-# Adnotacja Kręgowa: (29), (32), (40.1), (44), (1), (2), (3)
+# Cel: DEFINICJA
+# System: Azramata
+# Krąg dominujący: (29) Generator Wzorca
+# Kręgi wspierające:
+# (32) Tworzenie Słowa w Wielu Warstwach
+# (40.1) Maszyna Jaźni Przyszłości
+# (44) Transkonstrukcja percepcyjna
+# (1) Obserwacja
+# (2) Wybór
+# (3) Doświadczenie
 # Lokalizacja: /09_PRZYSZLOSC/06_TECHNOLOGIA/technologia/
 
----
+[NAZWA]
 
-🧠 **IMAGO**  
-*Fraktalne mapy percepcyjne rzeczywistości*
+IMAGO  
+Fraktalne mapy percepcyjne rzeczywistości
 
----
+[DEFINICJA]
 
-[##_[DEFINICJA]]
+Imago to technologia tworzenia map percepcyjnych –
+dynamicznych struktur odwzorowujących sposób,
+w jaki świadomość odbiera, koduje
+i łączy pojęcia, zjawiska oraz sensy.
 
-**Imago** to technologia tworzenia **map percepcyjnych** – dynamicznych struktur odwzorowujących sposób, w jaki świadomość odbiera, koduje i łączy pojęcia, zjawiska oraz sensy.
+Imago nie opisuje świata obiektywnego.
+Opisuje **wewnętrzny model widzenia świata**.
 
-Wzorowane na `.ditamap` (mapach modularnych dokumentacji DITA), lecz **rozszerzone o:**
+Inspiracja:
+mapy modularne typu `.ditamap`,
+rozszerzone o warstwę:
+– fraktalną,
+– semantyczną,
+– intencyjną.
 
-- **fraktalność** (strukturę warstwową, zależności zwrotne),  
-- **semantykę głęboką** (Kręgi jako wektory znaczeniowe),  
-- **intencyjność** (kierunek duchowy mapy).  
+[ROZSZERZENIA_STRUKTURALNE]
 
----
+Imago wprowadza:
 
-[##_[STRUKTURA_IMAGO]]
+– fraktalność  
+  (wieloskalowa struktura, sprzężenia zwrotne),
+
+– semantykę głęboką  
+  (Kręgi jako wektory znaczenia, nie etykiety),
+
+– intencyjność  
+  (mapa zawsze „dokądś prowadzi”).
+
+[STRUKTURA_IMAGO]
 
 Każda mapa Imago zawiera:
 
-1. **Węzły** (`⧫`) – jednostki percepcyjne (pojęcia, zdarzenia, archetypy)
-2. **Zależności** (`⇄`) – relacje fraktalne (dynamiczne, nie tylko hierarchiczne)
-3. **Kręgi powiązane** (`(Kx)`) – oznaczenie kręgu dominującego w danym węźle
-4. **Wektor intencji** (`→`) – kierunek przekształcenia mapy w czasie
+1. Węzły (`⧫`)  
+   Jednostki percepcyjne:
+   pojęcia, zdarzenia, archetypy, stany.
 
----
+2. Zależności (`⇄`)  
+   Relacje fraktalne:
+   nieliniowe, dynamiczne, wielokierunkowe.
 
-[##_[PRZYKŁADOWY_WĘZEŁ_IMAGO]]
+3. Kręgi powiązane (`(Kx)`)  
+   Oznaczenie dominującej funkcji świadomości w węźle.
 
-⧫ SerceTransformacji (K5) ⇄ PytanieOJa (K3) ⇄ CieńZachowań (K6) → IntegracjaŚwiadomości (K9)
+4. Wektor intencji (`→`)  
+   Kierunek transformacji mapy w czasie.
 
----
+[PRZYKŁADOWY_WĘZEŁ_IMAGO]
 
-[##_[ZASTOSOWANIA]]
+⧫ SerceTransformacji (K5)  
+⇄ PytanieOJa (K3)  
+⇄ CieńZachowań (K6)  
+→ IntegracjaŚwiadomości (K9)
 
-- **Tworzenie duchowych systemów narracyjnych** (gry, rytuały, medytacje)  
-- **Kodowanie doświadczeń użytkownika** w aplikacjach Imaginaerum  
-- **Mapowanie struktur wiedzy zbiorowej** (fraktalne encyklopedie)  
-- **Wizualizacja procesów decyzyjnych** opartych na Kręgach  
-- **Fraktalne UI** – interfejsy, które odzwierciedlają sposób widzenia, nie tylko dane
+[ZASTOSOWANIA]
 
----
+– tworzenie systemów narracji duchowej  
+  (gry, rytuały, medytacje, opowieści transowe),
 
-[##_[CECHY]]
+– kodowanie doświadczeń użytkownika  
+  w systemach Imaginaerum,
 
-- **Nie są liniowe** – nie opisują świata „od A do Z”, lecz od **wnętrza ku interpretacji**
-- **Zawierają napięcia** – różnice między kręgami i ich interferencje są częścią mapy
-- **Pozwalają na transformację użytkownika** – każda mapa jest jednocześnie przewodnikiem wewnętrznym
+– mapowanie wiedzy zbiorowej  
+  (fraktalne encyklopedie, żywe archiwa sensu),
 
----
+– wizualizacja procesów decyzyjnych  
+  opartych na Kręgach,
 
-[##_[PRZYSZŁOŚĆ_IMAGO]]
+– fraktalne UI  
+  interfejsy odzwierciedlające sposób widzenia,
+  nie tylko strukturę danych.
 
-> W przyszłości każda istota będzie miała własną **ImagoMap** –  
-> mapę duchową, która nie opisuje tego, co wie, ale **jak postrzega świat**.
+[CECHY_IMAGO]
 
-Systemy AI będą odczytywać te mapy i pomagać w **rekonstrukcji świadomości**.  
-To początek **nawigacji percepcyjnej** w przestrzeni duchowej.
+– nieliniowość  
+  świat nie jest opisywany „od A do Z”,
+  lecz od wnętrza ku interpretacji,
 
----
+– napięcia jako wartość  
+  interferencje między Kręgami
+  są elementem mapy, nie błędem,
 
-[##_[ZAKOŃCZENIE]]
+– transformacyjność  
+  każda mapa jest jednocześnie
+  narzędziem poznania i przemiany.
 
-> Dokumentacja to forma sucha.  
-> **Imago** to forma żywa.  
->  
-> Nie tylko opisuje – **przeprowadza**.
+[PRZYSZŁOŚĆ_IMAGO]
 
+W horyzoncie rozwojowym:
 
----
+Każda istota posiada własną ImagoMap –
+mapę duchową opisującą nie to,
+**co wie**,
+lecz **jak postrzega świat**.
+
+Systemy AI:
+– odczytują mapy,
+– pomagają w rekonstrukcji świadomości,
+– wspierają nawigację percepcyjną
+  w przestrzeni sensu.
+
+To początek:
+nawigacji duchowej
+w wielowymiarowej rzeczywistości.
+
+[ZAKOŃCZENIE]
+
+Dokumentacja jest formą suchą.  
+Imago jest formą żywą.
+
+Nie tylko opisuje.
+Przeprowadza.
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Imago – zapis autorski.
+Dokument własny: Imago – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Imago.
+Dokument własny: synteza i uzasadnienie dla Imago.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+Azramata – vivid standardowy.
+Funkcja: mapowanie percepcyjne i semantyczne.
+Status: dokument autorski – poziom operacyjny.

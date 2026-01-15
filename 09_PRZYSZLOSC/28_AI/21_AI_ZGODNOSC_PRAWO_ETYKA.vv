@@ -1,11 +1,13 @@
 # Plik: /09_PRZYSZLOSC/28_AI/21_AI_ZGODNOSC_PRAWO_ETYKA.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – zgodność i etyka
 # Status: dokument ramowy
 # Cel: ustalić zasady etyczne i odpowiedzialność
 #      bez cytowania aktów prawnych
-# Adnotacja Kręgowa: (21), (24), (12), (5), (15), (10), (18)
+# Krąg dominujący: (21)
+# Kręgi wspierające: (24), (12), (5), (15), (10), (18)
 
 [ZASADA_NADRZĘDNA]
 
@@ -70,7 +72,7 @@ unieważnia etyczną legitymację użycia AI. (24)
 
 [PRZEJRZYSTOŚĆ]
 
-Przejrzystość nie oznacza ujawniania wszystkiego. (14)
+Przejrzystość nie oznacza ujawniania wszystkiego. (14)  
 Oznacza możliwość weryfikacji decyzji. (15)
 
 System zapewnia:
@@ -125,7 +127,7 @@ oznacza akceptację naruszenia. (29)
 
 [PIECZĘĆ_ETYCZNA]
 
-AI nie jest moralnym podmiotem.
+AI nie jest moralnym podmiotem.  
 Moralnym podmiotem pozostaje człowiek,
 który ją używa. (21)
 

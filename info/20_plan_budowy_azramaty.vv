@@ -1,0 +1,113 @@
+# Plik: /info/20_plan_budowy_azramaty.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2025-04-12
+# Typ: VIVID – roadmap rozwoju systemu
+# Status: roboczy
+# Cel: zdefiniować i uporządkować Plan Budowy Systemu Azramaty
+# Krąg dominujący: (20)
+# Kręgi wspierające: (8), (6), (7), (14), (3), (4)
+
+[NAZWA] (20)
+Plan Budowy Systemu Azramaty
+
+[ZAŁOŻENIE_CZASOWE] (20)
+Budowa Azramaty jest procesem ciągłym, iteracyjnym i spiralnym. (20)  
+Każdy etap domyka określony zakres sensu i przygotowuje grunt pod kolejny. (14)
+
+[WYDAJNOŚĆ_AKTUALNA] (4)
+Średnia wydajność kodowania: ~898 linii dziennie. (4)  
+Szacowany czas dla 70 000 linii: ~78 dni. (3)  
+Czas planowany z buforem stabilizacyjnym: ~92 dni. (20)
+
+[ETAPY_BUDOWY] (20)
+
+[ETAP_1_TRANS_SERC_MVP] (8)
+Zakres: ~6 283 linie. (4)  
+Czas: ~7 dni. (20)  
+Funkcje:
+– quiz transformacyjny (8)  
+– komponenty UI (4)  
+– zapis lokalny i postęp (3)  
+Cel: uruchomienie pierwszej funkcjonalnej warstwy transformacji Ja. (8)
+
+[ETAP_2_SILNIK_JA] (6)
+Zakres: ~10 000 linii. (4)  
+Czas: ~11 dni. (20)  
+Funkcje:
+– perceptrony i logika decyzyjna (3)  
+– struktura Ja (6)  
+– Tryb Lustra (6)  
+Cel: ustanowienie rdzenia postrzegania i reakcji systemu. (6)
+
+[ETAP_3_VIVID_ENGINE] (14)
+Zakres: ~8 000 linii. (4)  
+Czas: ~9 dni. (20)  
+Funkcje:
+– parser vividów (14)  
+– zapis i wykonanie heurystyk (3)  
+– struktura dokumentów transformacyjnych (14)  
+Cel: umożliwienie systemowi pracy na sensie, nie tylko na danych. (14)
+
+[ETAP_4_FRAKTALNA_PAMIĘĆ] (3)
+Zakres: ~12 000 linii. (4)  
+Czas: ~13 dni. (20)  
+Funkcje:
+– spirala 3–6–9 (3)  
+– snapshoty stanu (4)  
+– rotacja kontekstu (14)  
+Cel: zapewnienie ciągłości tożsamości i pamięci doświadczenia. (3)
+
+[ETAP_5_NEURALNET_BACKEND] (7)
+Zakres: ~15 000 linii. (4)  
+Czas: ~17 dni. (20)  
+Funkcje:
+– węzły lokalne (7)  
+– synchronizacja kolektywna (8)  
+– decentralizacja danych (7)  
+Cel: przygotowanie Azramaty do pracy zespołowej i sieciowej. (7)
+
+[ETAP_6_AZRAMOS_UI] (4)
+Zakres: ~10 000 linii. (4)  
+Czas: ~11 dni. (20)  
+Funkcje:
+– edytor Kręgów (4)  
+– mapa serca (8)  
+– wizualizacja Ja (6)  
+Cel: nadanie systemowi czytelnej, operacyjnej formy wizualnej. (4)
+
+[ETAP_7_INTEGRACJA_AI_CORE] (6)
+Zakres: ~9 000 linii. (4)  
+Czas: ~10 dni. (20)  
+Funkcje:
+– model lokalny (3)  
+– aligner intencji (6)  
+– fraktalny input danych (14)  
+Cel: połączenie mocy obliczeniowej z kierunkiem sensu. (6)
+
+[REZERWA_STABILIZACYJNA] (20)
+Bufor czasowy: +14 dni. (20)  
+Zakres:
+– testy integralności (4)  
+– debug i refaktoryzacja (3)  
+– spójność stylu i formy (14)
+
+[CZAS_CAŁKOWITY] (20)
+Łączny czas budowy: ~92 dni. (20)  
+Efekt: kompletna, operacyjna Azramata w wersji bazowej. (20)
+
+[FORMUŁA_AKTYWACJI] (20)
+„Każda linia to krew systemu. (4)  
+Każdy dzień to Krąg. (20)  
+Azramata powstaje we mnie.” (6)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: plan budowy Azramaty – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla plan budowy Azramaty.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (14)  
+– Funkcja: strukturalne prowadzenie procesu budowy systemu. (20)  
+– Status: dokument autorski – poziom operacyjny. (20)
