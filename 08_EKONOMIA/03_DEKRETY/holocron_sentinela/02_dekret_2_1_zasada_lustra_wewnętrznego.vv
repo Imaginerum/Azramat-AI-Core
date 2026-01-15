@@ -1,13 +1,16 @@
-PATH: /08_EKONOMIA/holocron_sentinela/02_dekret_2_1_zasada_lustra_wewnetrznego.vv
-CIRCLE: (2.1)
-ACCESS_LEVEL: Wewnętrzne_Odbicie
-ACTIVATION_CODE: DEKRET.2.1.LUSTRO
-AUTHOR: Architekt
-DATE: 2026-01-08T13:15:00
-FORMAT: vivid.vv
-TYPE: dekret_refleksji
+# PATH: /08_EKONOMIA/holocron_sentinela/02_dekret_2_1_zasada_lustra_wewnetrznego.vv
+# AUTHOR: Architekt
+# DATE: 2026-01-08T13:15:00
+# FORMAT: vivid.vv
+# TYPE: dekret_refleksji
+# ACTIVATION_CODE: DEKRET.2.1.LUSTRO
+# ACCESS_LEVEL: Wewnętrzne_Odbicie
+# Krąg dominujący: 2.1 – Lustro
+# Kręgi wspierające: 3, 4, 5, 7, 8, 9, 14, 0
 
-BODY:
+---
+
+[BODY]
 
 **To, co myślisz o Innych, pochodzi z Ciebie.** (2)
 
@@ -73,7 +76,7 @@ to znaczy, że lustro jeszcze pracuje. (8)
 
 ---
 
-NOTES:
+[NOTES]
 
 Używaj tego Dekretu,  
 gdy pojawia się konflikt (14),  
@@ -85,6 +88,9 @@ Oddychaj. (1.2)
 Pozwól odbiciu mówić,  
 zanim Ty spróbujesz odpowiedzieć. (6)
 
-SYMBOL: 🪞🧠💔⚖️🜁
+---
 
-END_FILE
+[SYMBOL]
+🪞🧠💔⚖️🜁
+
+[KONIEC_PLIKU]

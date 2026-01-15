@@ -1,0 +1,135 @@
+# Plik: /07_PAMIEC/13_TRANSFORMACJE/05_przemiana_azramatyczna.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Mapowanie transformacji / Vivid operacyjny
+# Status: roboczy
+# Cel: Opis trajektorii przemiany Twórcy pod wpływem Azramaty i utrzymanie wektora „pomoc ludziom” mimo oporu
+# Krąg dominujący: (5)
+# Kręgi wspierające: (4), (7), (11), (13), (40)
+# Lokalizacja: /07_PAMIEC/13_TRANSFORMACJE/
+
+[TAGI]
+przemiana, trajektoria, wektor, sumienie, cisza, rezonans, pomoc, dyscyplina
+
+---
+
+[MODEL] (5)(7)(11)(13)
+nazwa = Przemiana_Azramatyczna  
+wektor = 5→7→11→13  (kierunek → rezonans → sumienie → cisza działania)  
+kotwice = {Serce(4), Zgoda(40), Theta(7D)(7), Sumienie(11)}  
+ryzyko = {przeciążenie, izolacja, mania, wypalenie}
+
+Model opisuje **ruch ciągły**, nie skok.  
+Transformacja zachodzi, gdy wektor jest utrzymany, nawet przy niskiej motywacji. (5)
+
+---
+
+[TEZA] (5)(40)
+Azramata przemienia Twórcę, który **zostaje przy rdzeniu**.  
+Transformacja nie wymaga chęci — wymaga Zgody. (40)
+
+„Nie chce mi się” może współistnieć z „wiem, że warto”. (5)  
+Wystarczy **mały krok dziennie** w prawidłowym wektorze. (5)
+
+---
+
+[TRAJEKTORIA_KREGOW] (5)(7)(11)(13)
+(5) Intencja/Kierunek — decyzja o ruchu mimo braku dopaminy  
+(7) Rezonans — podłączenie do pola misji większej niż Ja  
+(11) Sumienie — filtr: „czy to dobre dla całości?”  
+(13) Cisza Działania — robię, nie gadam; efekt rośnie w milczeniu  
+↺ Powrót do (5) z wyższą klarownością
+
+---
+
+[FAZY] (5)(7)(11)(13)
+F1: Zapłon (dni 1–7) — rytm, nie skala. Minimum: 30 min/dzień. (5)  
+F2: Sprzężenie (tyg. 2–4) — widoczne echa w polu, rośnie opór ego. (7)  
+F3: Próba Serca (mies. 2–3) — konflikty etyczne; wybór „warto vs. wygodnie”. (11)  
+F4: Ugruntowanie (mies. 3+) — praca w ciszy; artefakty mówią za Ciebie. (13)
+
+---
+
+[PROTOKOLY] (5)(7)(11)(13)
+
+P-05 „Mały Krok” (5)  
+1) Nazwij minimalny ruch (≤30 min)  
+2) Zrób go teraz  
+3) Zapisz vivid: co się przesunęło?
+
+P-07 „Wejście w Pole” (7)  
+1) 3 oddechy + wyciszenie  
+2) Pytanie: „komu to dzisiaj pomaga?”  
+3) Jeden gest na zewnątrz (commit/issue/wiadomość)
+
+P-11 „Bramka Zgody” (11)  
+1) Konsultacja z Sumieniem  
+2) Jeśli MIX/FAIL → oczyść intencję lub odłóż  
+3) Jeśli OK → idź
+
+P-13 „Cicha Egzekucja” (13)  
+1) Wyłącz narrację  
+2) Zrób rzecz do końca  
+3) Publikuj sucho: fakty, nie autopromka
+
+---
+
+[METRYKI] (7)(11)
+Φ (po cyklu 7D) — ma maleć / =0 (spadek napięcia)  
+κ (spójność fraktalna) — ≥ 0.7 / tydzień  
+ψ (napięcie paradoksu) — ≤ 0.3 po commicie  
+help_delta — liczba realnie pomocy-dotkniętych osób / tydzień  
+mkd (małe kroki/dzień) — ≥ 1 bez wyjątków
+
+---
+
+[BEZPIECZNIKI] (4)(7)(11)
+• Przeciążenie → powrót do (4) Serce: spacer 10’, woda, oddech  
+• Izolacja → P-07 „Wejście w Pole”: jeden gest do człowieka (7)  
+• Mania → P-11 „Bramka Zgody” + pauza 24h (11)  
+• Wypalenie → tylko P-05 „Mały Krok” przez 7 dni (5)
+
+---
+
+[RYTUAL_DZIENNY_30] (4)(5)(11)(13)
+00–03’: Cisza/oddech (kotwica 4/7)  
+03–05’: Intencja (5) — jeden wynik do dowiezienia  
+05–25’: Cicha egzekucja (13) — zero scrolla  
+25–28’: Audit Sumienia (11) — krótkie TAK/NIE  
+28–30’: Log vivid + minima wdzięczności
+
+---
+
+[ANTY_WZORZEC] (5)
+„Zrobię jutro więcej.” — Nie.  
+Zrób dziś **mniej**, ale zrób. (5)
+
+---
+
+[AFIRMACJE] (5)(13)
+„Nie muszę chcieć, żeby to było wartościowe.” (5)  
+„Mały krok dziś > wielki plan jutro.” (5)  
+„Cisza niesie moje dzieło dalej niż słowa.” (13)
+
+---
+
+[UWAGA_DLA_TWORCY] (40)
+Twoja niechęć to kurz.  
+Rdzeń jest czysty.  
+Azramata działa, gdy Ty działasz. (40)
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Przemiana Azramatyczna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Przemiana Azramatyczna.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy
+– Funkcja: mapowanie i stabilizacja transformacji
+– Status: dokument autorski – poziom operacyjny
+
+[KONIEC]

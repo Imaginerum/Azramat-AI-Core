@@ -1,57 +1,105 @@
 # Plik: /07_PAMIEC/02_DZIENNIKI/06_Dziennik-vivid-08-12-2025.vv
+# System: Azramata
 # Autor: Twórca
-# Data: 2026-01-10
-# Typ: VIVID – do uzupełnienia
+# Data: 2025-12-08
+# Typ: VIVID – Dziennik Operacyjno-Percepcyjny
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Dziennik vivid 08 12 2025
-# Adnotacja Kręgowa: (6), (3), (4), (8), (5), (14), (7)
+# Cel: zdefiniować i uporządkować zapis dzienny w standardzie VIVID
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (8), (5), (14), (7)
+# Lokalizacja: /07_PAMIEC/02_DZIENNIKI/
+
+[TAGI]
+dziennik, obserwacja, refleksja, stabilność, percepcja,
+operacyjność, integracja, uziemienie, Azramata
+
+---
 
 [DZIENNIK_VIVID]
 
-<data>2025-12-08</data>
+[DATA]
+2025-12-08
 
-[OBSERWACJA_KREG_1]
-Dzisiaj pojawiła się wyraźna zmiana w sposobie, w jaki reaguję na presję społeczną i rodzinne narzędzia wpływu. 
+[OBSERWACJA_KRĄG_1] (1)
+Dzisiaj pojawiła się wyraźna zmiana w sposobie reagowania na presję społeczną
+oraz rodzinne narzędzia wpływu.
 Reakcja była chłodna, liniowa, stabilna.
+Brak eskalacji napięcia, brak potrzeby obrony.
 
-[REFLEKSJA_KREG_2]
-Zauważyłem różnicę pomiędzy dawnym schematem a obecnym stanem. 
-Nie nastąpiło wejście w emocję, tylko czysta separacja brzmienia i intencji.
+[REFLEKSJA_KRĄG_2] (2)
+Została zauważona różnica pomiędzy dawnym schematem reakcji
+a obecnym stanem funkcjonowania.
+Nie nastąpiło wejście w emocję.
+Zamiast tego pojawiła się separacja:
+– brzmienia komunikatu,
+– intencji nadawcy,
+– własnej reakcji.
 
-[STAN_WEWNETRZNY_KREG_6]
-Percepcja utrzymała spokój bez wysiłku. 
-Sygnały emocjonalne nie wygenerowały reakcji. 
-System wewnętrzny przeszedł w tryb stabilny.
+[STAN_WEWNETRZNY_KRĄG_6] (6)
+Percepcja utrzymała spokój bez wysiłku.
+Sygnały emocjonalne zostały rozpoznane,
+ale nie wygenerowały reakcji.
+System wewnętrzny przeszedł w tryb stabilny,
+bez potrzeby tłumienia lub kontroli.
 
-[PRZEBŁYSK_KREG_7]
+[PRZEBLYSK_KRĄG_7] (7)
 Pojawiło się jasne, samooczywiste stwierdzenie:
 „Przecież nie jestem taki na końcu, żeby żyć strachem.”
-To nie była motywacja. 
-To była reorganizacja percepcji.
+Nie była to afirmacja ani motywacja.
+Była to reorganizacja percepcji
+i zmiana punktu odniesienia.
 
-[OPERACYJNOSC_KREG_8]
-Zrozumiałem, że nie mam powodu obawiać się działania na poziomie strukturalnym. 
-Kompetencja jest wystarczająca, a wewnętrzna architektura – stabilna. 
-Wchodzę w rolę operacyjną bez tarcia.
+[OPERACYJNOSC_KRĄG_8] (8)
+Zostało rozpoznane, że nie istnieje realny powód
+do obawy przed działaniem na poziomie strukturalnym.
+Kompetencja jest wystarczająca.
+Architektura wewnętrzna jest stabilna.
+Wejście w rolę operacyjną odbywa się bez tarcia.
 
-[INTEGRACJA_KREG_9]
-Ta zmiana wpłynie na komunikację z zespołami technicznymi. 
-Będę postrzegał zagrożenia, ażeby dowodzić tematu. 
-Moja postawa stanie się bardziej liniowa, rzeczowa i przewidywalna na spójnej płaszczyźnie.
+[INTEGRACJA_KRĄG_9] (9)
+Zmiana ta wpłynie na sposób komunikacji z zespołami technicznymi.
+Zagrożenia będą postrzegane nie po to, by reagować,
+lecz by prowadzić temat.
+Postawa staje się:
+– liniowa,
+– rzeczowa,
+– przewidywalna,
+na spójnej płaszczyźnie decyzyjnej.
 
-[UZIEMIENIE_KREG_0]
-To jest tylko jeden dzień i jedna zmiana. 
-Jutro praca jest kontynuowana, bez nadpisywania narracji.
+[TRANSFORMACJA_KRĄG_14] (14)
+Zmiana ma charakter trwały,
+ale nie wymusza deklaracji ani narracji.
+Jest to przesunięcie strukturalne,
+a nie epizod emocjonalny.
+
+[UZIEMIENIE_KRĄG_0] (0)
+To jest jeden dzień i jedna zmiana.
+Nie wymaga nadpisywania historii.
+Jutro praca jest kontynuowana
+w tym samym rytmie,
+bez potrzeby potwierdzania czegokolwiek.
 
 [/DZIENNIK_VIVID]
+
+---
+
+[ZNACZENIE_DZIENNE] (6)(7)
+Dzień potwierdza stabilizację percepcji
+oraz przejście z trybu reagowania
+do trybu obecności operacyjnej.
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Dziennik-vivid-08-12-2025 – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Dziennik-vivid-08-12-2025.
+– Synteza systemowa Azramaty – dzienniki operacyjne.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Standard: VIVID
+– Metoda: Azramata
+– Funkcja: zapis stanu percepcyjno-operacyjnego
+– Status: dokument autorski – poziom operacyjny
+
+[KONIEC]

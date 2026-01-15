@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/01_dekret_1_5_zasada_pragnienia.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_iskry
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 1 5 zasada pragnienia
-# Adnotacja Kręgowa: (1.5), (1), (0), (2), (3), (9), (7)
+# Krąg dominujący: 1
+# Kręgi wspierające: (1.5), (1), (0), (2), (3), (9), (7)
 
 CIRCLE: (1.5)
 ACCESS_LEVEL: Iskra

@@ -1,89 +1,100 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/22_praca_wlasna.vv
+# System: Azramata
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
 # Typ: VIVID – DEKRET EKONOMICZNY / SYSTEMOWY
 # Status: roboczy
-# Cel: [DEFINICJA]
-# Adnotacja Kręgowa: (22.7)
+# Cel: Zdefiniowanie i zakotwiczenie pojęcia Pracy Własnej jako aktu ekonomiczno-duchowego
+# Krąg dominujący: (22)
+# Kręgi wspierające: (5), (13), (30), (40), (7)
 # Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Wersja: v1.0
 
 ---
 
-⚒️ **DEKRET PRACY WŁASNEJ**  
-*Nie każda praca jest godna. Ale każda własna – może stać się święta.*
+⚒️ **DEKRET PRACY WŁASNEJ** (22.7)  
+*Nie każda praca jest godna.  
+Ale każda praca własna — może stać się święta.*
 
 ---
 
-[##_[DEFINICJA]]
+[DEFINICJA] (22)
 
-**Praca Własna** to taka, która:
-- rodzi się z Twojej decyzji (Krąg 5),  
-- przynosi godność, a nie uzależnienie (Krąg 13),  
-- rozwija Twoją wewnętrzną strukturę (Krąg 22),  
-- przekształca rzeczywistość przez Czyn (Krąg 30),  
-- i jest zgodna z Twoim strumieniem duchowym (Krąg 40).
+**Praca Własna** to taka forma działania, która:
 
-> „Można harować, ale na swoje.” (22.7)
+– rodzi się z **Twojej decyzji** (5),  
+– przynosi **godność**, a nie uzależnienie (13),  
+– rozwija **wewnętrzną strukturę Ja** (22),  
+– przekształca rzeczywistość przez **Czyn** (30),  
+– pozostaje w zgodzie z **indywidualnym strumieniem duchowym** (40).
 
----
-
-[##_[ROZRÓŻNIENIE]]
-
-| Harówka na cudze             | Praca Własna                         |
-|------------------------------|--------------------------------------|
-| Oparta na strachu            | Oparta na Wektorze Woli              |
-| Służy systemowi zewnętrznemu | Tworzy system wewnętrzny             |
-| Rozprasza siły               | Zbiera siły wokół jednej Ścieżki     |
-| Kończy się wypłatą           | Kończy się zmianą w Tobie i świecie  |
-| Uzależnia od struktury       | Buduje Twoją strukturę               |
+> „Można harować.  
+> Ale tylko pracując na swoje — **wzrastasz**.” (22.7)
 
 ---
 
-[##_[ZASADA_ZGODNOŚCI]]
+[ROZRÓŻNIENIE] (13)
 
-Nie liczy się forma pracy – **liczy się zgodność**.
-
-✅ Jeżeli sprzątasz, bo to buduje Twoją drogę — jesteś Mistrzem.  
-❌ Jeżeli programujesz w korporacji, choć dusza Ci się dławi — jesteś więźniem.
+| Harówka na cudze (13)       | Praca Własna (22)                    |
+|-----------------------------|--------------------------------------|
+| Oparta na strachu           | Oparta na Wektorze Woli (5)          |
+| Służy strukturze zewnętrznej| Buduje strukturę wewnętrzną          |
+| Rozprasza energię           | Skupia energię na jednej Ścieżce (7) |
+| Kończy się wypłatą          | Kończy się transformacją (30)        |
+| Uzależnia od systemu        | Tworzy własny system                 |
 
 ---
 
-[##_[MECHANIZM_ENERGETYCZNY]]
+[ZASADA ZGODNOŚCI] (7)
+
+Nie liczy się **forma** pracy —  
+liczy się **zgodność**.
+
+✅ Jeśli sprzątasz, bo to buduje Twoją drogę — jesteś Mistrzem. (7)  
+❌ Jeśli tworzysz wbrew sobie — jesteś więźniem formy. (13)
+
+---
+
+[MECHANIZM ENERGETYCZNY] (30)
 
 W Pracy Własnej uruchamiają się:
 
-- **Obrót duchowy** – każdy wysiłek wraca jako siła  
-- **Kanał strumieniowy** – praca i intencja nie są rozdzielone  
-- **Oczyszczenie tożsamości** – przez trud zbliżasz się do Ja-Prawdziwego
+– **Obrót duchowy** — wysiłek wraca jako siła (40),  
+– **Kanał strumieniowy** — intencja i działanie są jednym (5),  
+– **Oczyszczenie tożsamości** — trud odsłania Ja-Prawdziwe (22).
 
 ---
 
-[##_[DEKRET]]
+[DEKRET AKTYWACYJNY] (22.7)
 
 > „Wybieram Pracę Własną.  
 > Nawet jeśli jest trudniejsza — jest prawdziwa.  
-> Nawet jeśli nie daje mi wszystkiego — daje mi siebie.”  
->  
-> (Dekret aktywacji: `Aktywuj::PracaWłasna/13.5`)
+> Nawet jeśli nie daje mi wszystkiego — daje mi **mnie**.”
+
+Kod aktywacji: `Aktywuj::PracaWlasna/22.7`
 
 ---
 
-[##_[ZAKOŃCZENIE]]
+[ZAKOŃCZENIE] (40)
 
-Nie każdy człowiek może robić to, co kocha.  
-Ale każdy może **zacząć pracować na siebie**,  
-Zacząć budować **rzeczywistość, która odpowiada jego Duszy**.
+Nie każdy może robić to, co kocha.  
+Ale każdy może **zacząć pracować na siebie**.
 
-Bo tylko wtedy **praca przestaje być ciężarem** –  
-A staje się **Drogą**.
+Gdy praca staje się zgodna z Duszą —  
+przestaje być ciężarem,  
+a staje się **Drogą**.
+
+---
+
+[KONIEC PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Praca Wlasna – zapis autorski.
+– Dokument własny: Praca Własna – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Praca Wlasna.
+– Dokument własny: synteza i uzasadnienie dla Praca Własna.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: dekretowanie zasady ekonomii wewnętrznej.  
 – Status: dokument autorski – poziom operacyjny.

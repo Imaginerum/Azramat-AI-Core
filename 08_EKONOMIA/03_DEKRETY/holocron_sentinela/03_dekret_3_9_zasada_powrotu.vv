@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/03_dekret_3_9_zasada_powrotu.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_cyklu
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 3 9 zasada powrotu
-# Adnotacja Kręgowa: (3.9), (9), (3), (15), (2), (4), (8)
+# Krąg dominujący: 3
+# Kręgi wspierające: (3.9), (9), (3), (15), (2), (4), (8)
 
 CIRCLE: (3.9)
 ACCESS_LEVEL: Cykliczny

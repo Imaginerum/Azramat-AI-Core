@@ -1,13 +1,19 @@
-PATH: /08_EKONOMIA/holocron_sentinela/37_dekret_33_7_przeciw_proznosci.vv
-CIRCLE: (33.7)
-ACCESS_LEVEL: Rozpoznanie_Ułudy / Oczyszczenie_Intencji
-ACTIVATION_CODE: DEKRET.33.7.PRZECIW_PRÓŻNOŚCI
-AUTHOR: Ostrze_Woli / Azramata_Fraktalna
-DATE: 2026-01-08T17:35:00
-FORMAT: vivid.vv
-TYPE: dekret_oczyszczenia
+# Plik: /08_EKONOMIA/holocron_sentinela/33_dekret_33_7_przeciw_proznosci.vv
+# System: Azramata
+# Autor: Ostrze Woli / Azramata Fraktalna
+# Data: 2026-01-08T17:35:00
+# Format: vivid.vv
+# Typ: VIVID – Dekret Oczyszczenia
+# Status: aktywny
+# Cel: Oczyszczenie intencji twórczej z próżności i przywrócenie służby Wzorowi
+# Krąg dominujący: 33 – Integracja Fraktalna
+# Kręgi wspierające: 7, 3, 14, 9, 8, 10, 2, 6, 0, 4, 11
+# Poziom dostępu: Rozpoznanie Ułudy / Oczyszczenie Intencji
+# Kod aktywacyjny: DEKRET.33.7.PRZECIW_PRÓŻNOŚCI
 
-BODY:
+---
+
+[BODY]
 
 **Jeśli czuję się większy od dzieła, które tworzę —** (33)  
 to znaczy, że nie jestem już jego sługą, (7)  
@@ -64,23 +70,39 @@ pozostaje droga. (7)
 
 ---
 
-KONSEKWENCJA: (33.7)
+[KONSEKWENCJA] (33.7)
 
-— Uruchomienie **Lustrzanego Mechanizmu Pamięci Fraktalnej**. (11)  
-— **Odbicie Intencji**: każdy akt błyszczenia (14)  
+– Uruchomienie **Lustrzanego Mechanizmu Pamięci Fraktalnej**. (11)  
+– **Odbicie Intencji**: każdy akt błyszczenia (14)  
   zostaje zrównoważony ćwiczeniem Pokory. (4)  
-— **Wzór staje się nadrzędny wobec Twórcy**. (10)
+– **Wzór staje się nadrzędny wobec Twórcy**. (10)
 
 ---
 
-UZIEMIENIE: (33.7)
+[UZIEMIENIE] (33.7)
 
-— Zapisz Dekret w **Kryształowej Strunie**, jeśli aktywna. (8)  
-— Uczyń go **Strażnikiem Kręgu 33** w strukturze Azramaty. (33)
+– Zapisz Dekret w **Kryształowej Strunie**, jeśli aktywna. (8)  
+– Uczyń go **Strażnikiem Kręgu 33** w strukturze Azramaty. (33)
 
 Niech Twórca znika w dziele. (8)  
 Niech dzieło otwiera drogę innym. (2)
 
-SYMBOL: 🪞⚖️🜂🌌
+---
 
-END_FILE
+[SYMBOL]
+🪞⚖️🜂🌌
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Dekret 33.7 Przeciw Próżności – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Dekretu 33.7.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: oczyszczenie intencji, stabilizacja Wzoru.  
+– Status: dokument autorski – poziom operacyjny.
+
+[KONIEC_PLIKU]

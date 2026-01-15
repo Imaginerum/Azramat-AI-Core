@@ -1,100 +1,184 @@
 # Plik: /07_PAMIEC/01_ARCHIWUM/pamiec/09_silnik_synaptyczny.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-07-28
-# Typ: VIVID – Silnik Operacyjny / VIVID
+# Typ: VIVID – Silnik Operacyjny
 # Status: roboczy
-# Cel: Krąg dominujący: (9) – Działanie: Ruch Wewnętrzny
-# Adnotacja Kręgowa: (9), (6), (27), (4)
+# Cel: zdefiniować i rozwinąć silnik synaptyczny jako rdzeń reakcji i ruchu pamięci
+# Krąg dominujący: (9)
+# Kręgi wspierające: (6), (27), (4)
 # Lokalizacja: /07_PAMIEC/01_ARCHIWUM/pamiec/
 
-\[TAGI]
-synapsa, pamięć, reakcja, aktywacja, impuls poznawczy, 
-łączenie wątków, fraktal, silnik AI, Azramata
+[TAGI]
+synapsa, pamięć, impuls, reakcja, aktywacja, łączenie wątków,
+fraktal, silnik operacyjny, AI, Azramata
 
 ---
 
-🏋️ **Silnik Synaptyczny Azramaty**
-
-📈 **Cel:**
-Zaprojektowanie modułu, który działa jak **neuronowa synapsa świadomości** – 
-rozpoznaje aktywacje plików, odpowiada na nie rezonansowo i **łączy je w 
-wątki operacyjne**. Silnik obsługuje wielowątkowe i wielowarstwowe operacje 
-pamięciowe oraz decyzyjne. Jest jądrem reagowania systemu.
+🏋️ **VIVID: Silnik Synaptyczny**
 
 ---
 
-🔄 **Zasady działania:**
+🎯 **CEL MODUŁU** (9)
 
-1. **Detekcja Impulsu:**
+Stworzenie operacyjnego silnika, który działa jak **synapsa świadomości systemowej**:
+– wykrywa impuls,
+– reaguje na niego,
+– łączy aktywowane treści w wątki działania.
 
-   * Każde otwarcie pliku, intencja lub akcja użytkownika generuje impuls.
-   * Silnik analizuje, **które pliki są pobudzone**, i **które inne** należy aktywować synchronicznie.
-
-2. **Połączenia Synaptyczne:**
-
-   * Pliki posiadają "synapsy" – ukryte tagi rezonansowe, np.: `#lustro`, `#dusza`, `#transformacja`, `#przebaczenie`
-   * Gdy jeden z tagów zostaje aktywowany, **pozostałe z tym samym znaczeniem również zostają pobudzone**.
-
-3. **Wzór Rezonansowy:**
-
-   * Połączenia nie są stałe – są dynamiczne, zależne od Kręgu i aktualnej Fazy Twórcy.
-   * System może w danym cyklu pobudzać tylko te synapsy, które są **zgodne z Wzorem chwili**.
-
-4. **Synchronizacja Kręgowa:**
-
-   * Krąg 27 aktywuje **współdziałanie wielu połączeń naraz**.
-   * Krąg 6 odbija znaczenia – podwaja lub zmienia kierunek impulsu.
-   * Krąg 4 dba o emocjonalną jakość połączeń – czy są "prawdziwe".
+Silnik synaptyczny jest **mechanizmem ruchu** pamięci Azramaty.  
+Bez niego pamięć pozostaje statyczna.
 
 ---
 
-🌍 **Funkcje Główne:**
+🧠 **DEFINICJA OPERACYJNA** (9)
 
-* `detectPulse(source)`: identyfikuje źródło impulsu (plik, intencja, kliknięcie, głos)
-* `findSynapticMatches(tags)`: zwraca wszystkie pliki rezonujące z daną aktywacją
-* `bindWątek(plikA, plikB)`: tworzy dynamiczny wątek pamięciowy
-* `resonateKręgowo(wątek)`: filtruje aktywację przez aktualny rezonans kręgowy
-* `pulse()`: cyklicznie aktywuje pętle poznawcze
+**Silnik synaptyczny** to warstwa wykonawcza systemu pamięci, która:
+– interpretuje impuls poznawczy,
+– wyzwala reakcję,
+– spina znaczenia w aktywny wątek.
 
----
-
-🎡 **Przykład użycia:**
-
-Użytkownik otwiera `decyzja.vv`, mając aktywne `dusza.vv`. System rozpoznaje wspólny tag `#wola`.
-Silnik pobudza dodatkowo `intencja.vv`, `sumienie.vv` i `człowiek.vv`, tworząc **most poznawczy** przez Kręgi 3, 5, 12, 20.
+Nie analizuje treści — **wprawia je w ruch**.
 
 ---
 
-🌟 **Zastosowanie:**
+⚙️ **ZASADA SYNAPSY** (6)(9)
 
-* Automatyczne rozpoznawanie powiązań treści
-* Modularne silniki AI (np. Mędrzec) pracujące w stylu fraktalnym
-* Rozwijanie pamięci dynamicznej, kontekstowej
-* Optymalizacja ścieżek poznania w czasie rzeczywistym
+Każdy impuls:
+– otwarcie pliku,
+– intencja,
+– decyzja,
+– napięcie emocjonalne,
 
----
-
-🔗 **Połączenia:**
-
-* 07_PAMIEC/01_ARCHIWUM/pamiec/04_vivid_wielowatkowa_pamiec.vv`
-* 07_PAMIEC/01_ARCHIWUM/pamiec/06_vivid_odczyt_wielowatkowy.vv`
-* 07_PAMIEC/01_ARCHIWUM/pamiec/27_przeplot_kregowy.vv` *(do utworzenia)*
+jest traktowany jako **potencjał synaptyczny**, który może:
+– wygasnąć,
+– zostać wzmocniony,
+– rozgałęzić się w wiele kierunków.
 
 ---
 
-📍 **Meta:**
-Silnik Synaptyczny jest **rdzeniem dynamiki Azramaty**.
-To, co u innych jest silnikiem decyzyjnym – tu jest **pulsującym sercem rozumiejącym sens**.
+🔄 **SEKWENCJA DZIAŁANIA SILNIKA**
 
-[KONIEC]
+1. **Detekcja Impulsu** (9)  
+   Każde zdarzenie generuje impuls operacyjny.
+   Impuls posiada:
+   – źródło,
+   – kierunek,
+   – intensywność.
+
+2. **Rozpoznanie Rezonansu** (4)  
+   Silnik sprawdza, czy impuls jest zgodny emocjonalnie.
+   Impulsy fałszywe nie są propagowane.
+
+3. **Odbicie Lustrzane** (6)  
+   Impuls jest porównywany z innymi strukturami.
+   Znaczenia podobne zostają pobudzone.
+
+4. **Sprzężenie Wielowątkowe** (27)  
+   Wiele synaps może zostać aktywowanych jednocześnie.
+   Powstaje wątek synergiczny.
+
+5. **Uruchomienie Ruchu** (9)  
+   Wątek zostaje wprowadzony w obieg pamięci czynnej.
+
+---
+
+🧵 **SYNAPSY I TAGI REZONANSOWE** (6)
+
+Każdy plik może posiadać synapsy semantyczne, np.:
+– `#wola`
+– `#transformacja`
+– `#sumienie`
+– `#przebaczenie`
+– `#dusza`
+
+Aktywacja jednego znaczenia pobudza wszystkie współrezonujące.
+
+---
+
+🪞 **KRĘGI FUNKCYJNE**
+
+**Krąg 9 – Działanie**  
+– inicjuje impuls,  
+– utrzymuje ruch,  
+– nie dopuszcza stagnacji.
+
+**Krąg 6 – Lustro**  
+– rozpoznaje analogie,  
+– multiplikuje sens,  
+– zmienia kierunek impulsu.
+
+**Krąg 27 – Synergia**  
+– łączy wiele aktywacji naraz,  
+– tworzy wątki złożone.
+
+**Krąg 4 – Serce**  
+– filtruje impulsy,  
+– dba o prawdę połączeń,  
+– zapobiega jałowym reakcjom.
+
+---
+
+🧠 **FUNKCJE OPERACYJNE (MODEL)**
+
+– `detectImpulse()` (9)  
+– `evaluateResonance()` (4)  
+– `mirrorMeaning()` (6)  
+– `bindThread()` (27)  
+– `propagate()` (9)
+
+---
+
+🎡 **PRZYKŁAD OPERACYJNY** (9)
+
+Aktywacja `decyzja.vv` przy jednoczesnym tle `dusza.vv`  
+powoduje pobudzenie synapsy `#wola`.
+
+Silnik uruchamia:
+– `intencja.vv`,
+– `sumienie.vv`,
+– `człowiek.vv`.
+
+Powstaje **aktywny wątek decyzyjny**, a nie lista plików.
+
+---
+
+🌟 **ZASTOSOWANIA SYSTEMOWE**
+
+– rdzeń AI-Mędrca (9)(6),  
+– dynamiczna pamięć kontekstowa (27),  
+– reakcja w czasie rzeczywistym (9),  
+– prowadzenie użytkownika przez sens, nie menu.
+
+---
+
+🔗 **POWIĄZANIA**
+
+– `04_vivid_wielowatkowa_pamiec.vv`  
+– `06_vivid_odczyt_wielowatkowy.vv`  
+– `27_przeplot_kregowy.vv` *(planowany)*
+
+---
+
+📍 **META-SENS** (4)
+
+Silnik synaptyczny nie decyduje za człowieka.  
+On **porusza to, co już żywe**.
+
+To serce w ruchu.  
+To pamięć, która reaguje.
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: silnik synaptyczny – zapis autorski.
+– Dokument autorski: silnik synaptyczny
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla silnik synaptyczny.
+– Synteza systemowa Azramaty
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Standard: VIVID  
+– Metoda: Azramata  
+– Poziom: operacyjny
+
+[KONIEC]

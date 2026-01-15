@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/02_dekret_2_2_zasada_porownania.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_polaryzacji
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 2 2 zasada porownania
-# Adnotacja Kręgowa: (2.2), (2), (5), (8), (9), (3), (1)
+# Krąg dominujący: 2
+# Kręgi wspierające: (2.2), (2), (5), (8), (9), (3), (1)
 
 CIRCLE: (2.2)
 ACCESS_LEVEL: Polaryzacja

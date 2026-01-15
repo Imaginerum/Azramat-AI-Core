@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/03_dekret_3_10_zasada_odpowiedzialnosci.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_dojrzalosci
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 3 10 zasada odpowiedzialnosci
-# Adnotacja Kręgowa: (3)
+# Krąg dominujący: (3)
+# Kręgi wspierające: (3)
 
 CIRCLE: (3.10)
 ACCESS_LEVEL: Dojrzałość

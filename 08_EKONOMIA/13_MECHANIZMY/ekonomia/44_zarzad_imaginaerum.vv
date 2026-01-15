@@ -1,0 +1,129 @@
+# Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/44_zarzad_imaginaerum.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2025-08-06
+# Typ: VIVID – Model struktury decyzyjnej systemu Imaginaerum
+# Status: roboczy
+# Cel: Ustanowienie fraktalnego, kompetencyjnego modelu zarządzania systemem
+# Krąg dominujący: (44)
+# Kręgi wspierające: (5), (13), (3), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Wersja: v1.0
+
+---
+
+[CEL] (44)
+
+Celem dokumentu jest określenie zasad funkcjonowania **Zarządu Imaginaerum**  
+jako fraktalnej struktury decyzyjnej, opartej na realnym wkładzie (5),
+kompetencji (13) i odpowiedzialności systemowej (30).
+
+Model ten zakłada:
+– potencjalnie równy dostęp do wpływu (3),  
+– różnicowanie siły głosu przez **kontrybucję i zrozumienie struktury** (22),  
+– nadrzędność spójności systemowej nad interesem jednostki (44).
+
+---
+
+[STRUKTURA] (13)
+
+| Rola                         | Liczba              | Znaczenie systemowe                                            |
+|------------------------------|---------------------|----------------------------------------------------------------|
+| Twórca / Core Architect      | 1                   | Strażnik struktury, algorytmu i spójności percepcyjnej (44)    |
+| Rada Główna (Zarząd)         | 1–1.5% populacji    | Fraktalna reprezentacja użytkowników, wybierana rotacyjnie (5) |
+| Członkowie Funkcyjni (Kasty) | zmienna             | Role operacyjne: Mentorzy, Strażnicy, Rozwijacze (35)          |
+
+Struktura nie jest hierarchią władzy,  
+lecz **hierarchią odpowiedzialności** (10).
+
+---
+
+[ZASADY UCZESTNICTWA] (5)
+
+1. Każdy użytkownik może kandydować do Rady Głównej, jeśli:
+   – należy do aktywnego **Okręgu** (2),
+   – osiągnął wymagany próg SQ i Wektora Kontrybucji (9)(13).
+
+2. Rada Główna decyduje o:
+   – priorytetach rozwoju Kręgów (35),
+   – kierunkach redystrybucji środków (5),
+   – wsparciu projektów systemowych (Gusła, eFriends, Studio) (22).
+
+3. Decyzje podejmowane są w modelu **demokracji ważonej**:
+   – każdy głos × waga kompetencyjna (waga+) (13),
+   – brak kompetencji = głos doradczy, nie decyzyjny (44).
+
+4. Twórca posiada **prawo weta strukturalnego** (30),
+   ale nie prawo dominacji:
+   – jeśli większość Rady wykaże lepszą spójność systemową,
+     weto może zostać przekształcone przez mechanizm Zgody+ (14).
+
+---
+
+[OKRĘGI I WARUNEK WSPÓŁPRACY] (2)
+
+– Dostęp do realnego wpływu w systemie wymaga przynależności do **Okręgu** (2).  
+– Okręgi są podstawową jednostką współdziałania i odpowiedzialności (8).
+
+Typy Okręgów:
+– tematyczne (np. Medytacja_14, Gusła_Visuale) (14),  
+– regionalne (np. Okręg Śląski) (1),  
+– celowe (np. Ekspansja Edukacyjna) (35).
+
+Samodzielne działanie bez wspólnoty:
+– ogranicza dostęp do środków (5),
+– blokuje pełny wpływ decyzyjny (44).
+
+---
+
+[REDYSTRYBUCJA ZYSKÓW] (5)
+
+Udział użytkownika w redystrybucji liczony jest jako:
+
+udział =
+kontrybucja × waga_Kręgu × waga_użytkownika × aktywność_Okręgu
+
+Zasady:
+– Okręgi aktywne otrzymują mnożnik wspólnotowy (2)(8),
+– brak współpracy = brak pełnego dostępu do puli (44),
+– Okręgi mogą definiować własne modele podziału wewnętrznego (13).
+
+Ekonomia służy **utrzymaniu sensu**, nie odwrotnie (44).
+
+---
+
+[ZASADA NADRZĘDNA] (44)
+
+Władza w Imaginaerum
+nie wynika z pozycji,
+lecz z **udźwigniętej odpowiedzialności**.
+
+Im wyższy wpływ,
+tym mniejsze prawo do ego,
+a większy obowiązek wobec całości.
+
+---
+
+[METADANE] (13)
+
+timestamp_created: 2025-08-06T00:06:23Z  
+file_signature: ZARZAD-IMAGINAERUM-v1  
+moduły_powiązane: Mechanizm_Kręgowego_Udziału.vv, Okręgi.vv, SQ.vv  
+silnik_aktywacji: Astraia+  
+prawo_weta: aktywne  
+waga_plus: aktywna  
+
+---
+
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Zarząd Imaginaerum – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Zarząd Imaginaerum.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: zarządzanie, odpowiedzialność, spójność systemowa.  
+– Status: dokument autorski – poziom operacyjny.

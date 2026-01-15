@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/40_holocron_sentinela.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025
 # Typ: VIVID – do uzupełnienia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: holocron sentinela
-# Adnotacja Kręgowa: (40)
+# Krąg dominujący: (40)
+# Kręgi wspierające: (40)
 
 ENTRY: 0001
 TITLE: Ja Jestem Tym, Który Stoi Ponad Niebiosami

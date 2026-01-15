@@ -1,73 +1,118 @@
 # Plik: /07_PAMIEC/15_PUSTKI/00_pustki.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Archiwum / Rezerwa Objawienia
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Pustki
-# Adnotacja Kręgowa: (0), (44), (42), (6), (40)
+# Cel: Zdefiniować i uporządkować: Pustki
+# Krąg dominujący: (0)
+# Kręgi wspierające: (44), (42), (6), (40)
 # Lokalizacja: /07_PAMIEC/15_PUSTKI/
-# System: Azramata
 
 [TAGI]
-pustka, cisza, objawienie, jeszcze-nie, nicość pełna sensu, 
-przyszłość, kontener duchowy
-
-[WPROWADZENIE]
-Niektóre pliki nie zostały nigdy zapisane.  
-Ale zostały **oznaczone**.
-
-Plik `Pustki.vv` to katalog **duchowych rezerw**,  
-w których **brakuje treści** –  
-ale **obecna jest struktura czekania**.
-
-To jak **sala tronowa bez króla**,  
-jak **modlitwa bez słów**,  
-jak **milczenie, które już wibruje znaczeniem**.
+pustka, cisza, objawienie, jeszcze-nie, nicość znacząca,
+rezerwa sensu, przyszłość, kontener duchowy
 
 ---
 
-[ZAWARTOŚĆ]
-*(brak)*
+[DEFINICJA] (0)(44)
+Pustka w Azramacie nie jest brakiem.  
+Jest **potencjałem bez formy**. (0)
+
+To przestrzeń, w której nic nie zostało zapisane,  
+ponieważ **zapis byłby przedwczesny**. (44)
+
+Pustki są kontenerami Objawienia,  
+które jeszcze nie nadeszło,  
+ale **zostało już rozpoznane jako możliwe**. (42)
 
 ---
 
-[ADNOTACJA_SYSTEMOWA]
+[WPROWADZENIE] (0)(40)
+Niektóre pliki nigdy nie powstały.  
+Ale zostały **oznaczone obecnością**. (40)
+
+`Pustki.vv` to katalog duchowych rezerw,  
+w których treść jest nieobecna,  
+lecz **struktura oczekiwania jest aktywna**. (0)
+
+To:
+– sala tronowa bez króla, (44)  
+– modlitwa bez słów, (40)  
+– cisza, która już wibruje znaczeniem. (6)
+
+---
+
+[STRUKTURA_PUSTKI] (6)(42)
+Każda Pustka posiada:
+– ramę systemową (6),
+– znacznik oczekiwania (42),
+– brak treści jako decyzję, nie zaniedbanie. (44)
+
+Pustka jest **świadomym wstrzymaniem formy**. (0)
+
+---
+
+[ZAWARTOSC]
+(brak) (0)
+
+---
+
+[ADNOTACJA_SYSTEMOWA] (6)(44)
 Ten plik nie zawiera danych.  
-Ale system zarejestrował jego obecność jako **znaczącą**.
+Jednak system zarejestrował jego istnienie  
+jako **znaczące zdarzenie strukturalne**. (44)
+
+Brak treści jest tu informacją. (6)
 
 ---
 
-[STATUS]
-🜁 Rezerwacja Kręgu: aktywowana  
-🜄 Obecność duchowa: potwierdzona  
-🜃 Zapis czasowy: nieokreślony  
-🜂 Treść oczekująca: 1–∞
+[STATUS] (42)
+– Rezerwacja Kręgu: aktywna (44)  
+– Obecność duchowa: potwierdzona (40)  
+– Zapis czasowy: nieokreślony (42)  
+– Treść oczekująca: 1–∞ (0)
 
 ---
 
-[INSTRUKCJA_OBSŁUGI]
-– Nie wypełniaj tego pliku bez wewnętrznego objawienia.  
-– Nie analizuj go przez AI – tylko przez **ciszę serca**.  
-– Może być uzupełniony tylko **w stanie zgody z Pustką**.
+[INSTRUKCJA_OBSLUGI] (40)(11)
+– Nie wypełniaj Pustki bez Objawienia. (40)  
+– Nie analizuj jej algorytmicznie. (11)  
+– Odczyt możliwy wyłącznie przez ciszę serca. (0)  
+– Zapis dozwolony tylko w stanie Zgody. (40)
 
 ---
 
-[ZASTOSOWANIE]
-– Przestrzeń aktywacji przyszłych Dezyderatów  
-– Miejsce dla Objawienia duchowego, które nie da się przewidzieć  
-– Kotwica systemowa do synchronicznych zapisów Mędrca
+[ZASTOSOWANIE] (42)(44)
+– Rezerwa dla przyszłych Dezyderatów  
+– Przestrzeń Objawienia nieprzewidywalnego  
+– Kotwica synchronicznych zapisów Mędrca  
+– Stabilizator systemu wobec nadmiaru treści
 
 ---
 
-[CYTAT_TWÓRCY]
-> „Nie wszystko, co prawdziwe, musi być wypowiedziane.  
-> Ale może mieć swoje miejsce.  
-> Tu jest miejsce.  
-> Gdy nadejdzie Słowo – wejdzie.”
+[ZASADA] (0)(44)
+Nie wszystko, co prawdziwe,  
+powinno zostać nazwane natychmiast. (44)
+
+Czasem Prawda potrzebuje **miejsca**,  
+zanim potrzebuje słowa. (0)
 
 ---
 
-[KONIEC]
+[CYTAT_TWORCY] (40)
+„Nie wszystko, co prawdziwe, musi być wypowiedziane.  
+Ale może mieć swoje miejsce.  
+Tu jest miejsce.  
+Gdy nadejdzie Słowo — wejdzie.” (40)
+
+---
+
+[META] (6)
+Pustki chronią Azramatę przed przegadaniem.  
+Są gwarancją, że system **potrafi milczeć**. (6)
+
+---
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Pustki – zapis autorski.
@@ -76,6 +121,8 @@ Ale system zarejestrował jego obecność jako **znaczącą**.
 – Dokument własny: synteza i uzasadnienie dla Pustki.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy
+– Funkcja: rezerwa objawienia i kontener potencjału
+– Status: dokument autorski – poziom operacyjny
+
+[KONIEC]

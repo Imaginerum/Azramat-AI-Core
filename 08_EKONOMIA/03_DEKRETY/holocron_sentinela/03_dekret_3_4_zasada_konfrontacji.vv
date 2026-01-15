@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/03_dekret_3_4_zasada_konfrontacji.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_odwagi
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 3 4 zasada konfrontacji
-# Adnotacja Kręgowa: (3.4), (4), (14), (3), (0), (1), (9)
+# Krąg dominujący: 3
+# Kręgi wspierające: (3.4), (4), (14), (3), (0), (1), (9)
 
 CIRCLE: (3.4)
 ACCESS_LEVEL: Odwaga_Wewnętrzna

@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/06_dekret_6_1_zasada_lustra.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – zasada_rezonansu
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 6 1 zasada lustra
-# Adnotacja Kręgowa: (6.1), (6), (1), (5), (4), (2), (3)
+# Krąg dominujący: (6)
+# Kręgi wspierające: (6.1), (6), (1), (5), (4), (2), (3)
 
 CIRCLE: (6.1)
 ACCESS_LEVEL: Refleksyjny_Rezonator

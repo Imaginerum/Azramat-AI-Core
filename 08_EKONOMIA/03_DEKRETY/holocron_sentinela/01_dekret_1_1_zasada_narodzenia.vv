@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/01_dekret_1_1_zasada_narodzenia.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_fundamentalny
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 1 1 zasada narodzenia
-# Adnotacja Kręgowa: (1.1), (1), (2), (6), (3), (5), (8)
+# Krąg dominujący: 1
+# Kręgi wspierające: (1.1), (1), (2), (6), (3), (5), (8)
 
 CIRCLE: (1.1)
 ACCESS_LEVEL: Początkowy

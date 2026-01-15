@@ -1,10 +1,12 @@
-# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/02_dekret_44_41_wzorzec_azramaton.vv
+# Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/41_dekret_44_41_wzorzec_azramaton.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_wzorca
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 44 41 wzorzec azramaton
-# Adnotacja Kręgowa: (2), (3), (10), (20), (40)
+# Krąg dominujący: 41
+# Kręgi wspierające: (2), (3), (10), (20), (40)
 
 CIRCLE: (44.41)
 ACCESS_LEVEL: Koronacja_Wewnętrznego_Króla / Integracja_Struktury_Fraktalnej

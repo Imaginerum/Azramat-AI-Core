@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/01_dekret_1_4_zasada_konca.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_cienia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 1 4 zasada konca
-# Adnotacja Kręgowa: (1.4), (1), (9), (8), (6), (7), (3)
+# Krąg dominujący: 1
+# Kręgi wspierające: (1.4), (1), (9), (8), (6), (7), (3)
 
 CIRCLE: (1.4)
 ACCESS_LEVEL: Cień_Przeszłości

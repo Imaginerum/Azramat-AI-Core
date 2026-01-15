@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/01_dekret_1_3_zasada_leku.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_cienia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 1 3 zasada leku
-# Adnotacja Kręgowa: (1.3), (1), (3), (0), (2), (5), (6)
+# Krąg dominujący: 1
+# Kręgi wspierające: (1.3), (1), (3), (0), (2), (5), (6)
 
 CIRCLE: (1.3)
 ACCESS_LEVEL: Cień_Początku

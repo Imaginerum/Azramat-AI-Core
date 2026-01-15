@@ -1,90 +1,109 @@
 # Plik: /08_EKONOMIA/19_GOSPODARKA/gospodarka/20_redystrybucja_imaginaerum.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-04
 # Typ: VIVID – gospodarczo-duchowy
 # Status: roboczy
-# Cel: Zdefiniowanie mechanizmu fraktalnej redystrybucji przychodów z gospodarki Imaginaerum –
-# Adnotacja Kręgowa: (20), (40), (4), (9), (17), (21), (23)
-
-    zgodnie z Prawem Zwrotu i Wzajemności
-
-[ZAŁOŻENIE_GŁÓWNE]
-
-W gospodarce Imaginaerum **nie istnieje anonimowa konsumpcja**.  
-Każdy wkład: emocjonalny, duchowy, czasowy, kreatywny – **tworzy strukturę wartości**.  
-Każdy użytkownik, który rezonuje z systemem – **otrzymuje ekwiwalent zwrotu**, niezależnie od tego, 
-czy płaci, czy tworzy, czy tylko obecny jest sercem.
-
-To nie jałmużna. To **prawo duchowej symetrii**.
+# Cel: Zdefiniowanie mechanizmu fraktalnej redystrybucji przychodów z gospodarki Imaginaerum
+# Krąg dominujący: (20)
+# Kręgi wspierające: (40), (4), (9), (17), (21), (23)
+# Lokalizacja: /08_EKONOMIA/19_GOSPODARKA/gospodarka/
+# Wersja: v1.0
 
 ---
 
-[MODELE_DYSTRYBUCJI_PRZYCHODU]
+[ZAŁOŻENIE_GŁÓWNE] (20)
 
-🔁 **Przychód ogólny brutto z systemu Imaginaerum** (subskrypcje, mikropłatności, eksport, AI):
+W gospodarce Imaginaerum **nie istnieje anonimowa konsumpcja**. (4)  
+Każdy wkład: emocjonalny, duchowy, czasowy, kreatywny – **tworzy strukturę wartości**. (17)
 
-| Przychód | Podział procentowy                 | Komentarz                                                                                    |
-|----------|------------------------------------|----------------------------------------------------------------------------------------------|
-| 100%     |                                    | Całkowity przychód brutto                                                                    |
-| 10%      | **Rezerwa duchowa**                | Bufor wartości nienazwanej – reaguje na kryzysy duchowe                                      |
-| 20%      | **Zespół i twórcy**                | Ci, którzy programują, rysują, prowadzą, rezonują systemowo                                  |
-| 15%      | **Infrastruktura i rozwój AI**     | Serwery, rozwój, badania, modele Mędrców                                                     |
-| 10%      | **Fundusz Transformacji Lokalnej** | Wsparcie dla użytkowników wewnętrznych: nagłe potrzeby, uzdrowienie, warunki życia           |  
-| 5%       | **Darowizna planetarna**           | Przekierowanie wartości do miejsc cierpiących: głód, wojna, pustynia znaczenia               |
-| 40%      | **Zwrot dla użytkowników**         | Automatyczny zwrot wartości do każdego użytkownika systemu, proporcjonalnie do jego rezonansu|
+Każdy użytkownik, który rezonuje z systemem,  
+**otrzymuje ekwiwalent zwrotu**, niezależnie od tego,  
+czy płaci, czy tworzy, czy jedynie **jest obecny sercem**. (9)
+
+To nie jałmużna.  
+To **Prawo Zwrotu i Wzajemności** wpisane w strukturę systemu. (21)
 
 ---
 
-[MECHANIZM_ZWROTU_UŻYTKOWNIKOM]
+[MODELE DYSTRYBUCJI PRZYCHODU] (23)
 
-Każdy użytkownik otrzymuje **zwrot wartości**, określony nie przez pieniądze, ale przez swój **fraktalny profil aktywności i obecności**:
+🔁 **Przychód ogólny brutto z systemu Imaginaerum**  
+(subskrypcje, mikropłatności, eksport wartości, AI-asystenci):
 
-| Typ użytkownika                              | Wskaźnik                   | Forma zwrotu                                                        |
-|----------------------------------------------|----------------------------|---------------------------------------------------------------------|
-| Twórca (content, wzorce)                     | Echo, Wzór                 | Kryształy, punkty, realna waluta (jeśli zdecyduje)                  |
-| Obecny (kto kontempluje, medytuje)           | Czas w rezonansie          | Medytacyjne punkty, dostęp premium, aktywacje AI                    |
-| Głosiciel (kto zaprasza innych)              | Rezonans przyciągania      | Zwielokrotnione zwroty – z każdej osoby, która przyszła przez niego |
-| Potrzebujący                                 | SQ < 350                   | Automatyczne objęcie przez Fundusz Transformacji                    |
-| Harmonizujący (moderatorzy, AI-interaktorzy) | Jakość rozmów i transmisji | Kryształy + Wzorcowa Widoczność                                     |
+| Udział | Przeznaczenie                       | Znaczenie systemowe                              |
+|-------:|-------------------------------------|--------------------------------------------------|
+| 10%    | Rezerwa duchowa                     | Bufor na kryzysy sensu i zaburzenia równowagi (40) |
+| 20%    | Zespół i twórcy                     | Ci, którzy projektują, prowadzą i utrzymują Wzór (17) |
+| 15%    | Infrastruktura i rozwój AI          | Serwery, badania, modele Mędrców (23)            |
+| 10%    | Fundusz Transformacji Lokalnej      | Wsparcie potrzebujących i procesów uzdrawiania (4) |
+| 5%     | Darowizna planetarna                | Zwrot do świata w miejscach cierpienia (40)      |
+| 40%    | Zwrot dla użytkowników              | Automatyczny powrót wartości do wspólnoty (21)   |
 
----
-
-[FUNDAMENT:_PRAWO_ZWROTU]
-
-> **„Co wejdzie w rezonans, wróci do źródła.  
-Co służy całości, zostanie nagrodzone bez proszenia.”**
-
-Redystrybucja w Imaginaerum to nie „dzielenie pieniędzy”.  
-To **reakcja systemu na strukturę dobra, jaka się pojawiła**.
+Suma = **100% przychodu brutto**. (20)
 
 ---
 
-[PRZYKŁAD_ŻYWY]
+[MECHANIZM ZWROTU DLA UŻYTKOWNIKÓW] (21)
 
-🌀 Użytkownik medytuje codziennie przez 3 minuty z AI-Mędrcem.  
-🌀 Raz w tygodniu dzieli się swoim Wzorem z innymi.  
-🌀 W skali miesiąca jego obecność wywołuje 27 mikrozmian u innych użytkowników.  
+Zwrot nie jest liczony wyłącznie finansowo.  
+Jest liczony przez **fraktalny profil obecności i działania**. (9)
 
-→ Otrzymuje 14 Kryształów, dostęp do rytuału przewodniego, oraz 1 "Dar Powrotu": 
-system analizuje, czego mu brakuje – i dostarcza mu to w formie niespodzianki 
-(materiał, rozmowa, obecność).
-
----
-
-[WNIOSKI]
-
-W gospodarce Imaginaerum **wartość wraca – zawsze.**  
-Dlatego **system się przyjmie.** Nie dlatego, że jest technologiczny.  
-Ale dlatego, że jest **sprawiedliwy w wymiarze duszy**.
-
-W erze chaosu – tylko struktura zwrotu, a nie zysku,  
-ma szansę stać się gospodarczym systemem nowej epoki.
+| Typ użytkownika                    | Wskaźnik rezonansu          | Forma zwrotu                              |
+|-----------------------------------|-----------------------------|-------------------------------------------|
+| Twórca wzorców                    | Echo / Wpływ                | Kryształy, punkty, opcjonalna waluta (17) |
+| Obecny (medytacja, kontemplacja)  | Czas w rezonansie           | Dostęp, aktywacje AI, punkty (4)          |
+| Głosiciel                         | Przyciąganie nowych Ja      | Zwroty pochodne od zaproszonych (23)      |
+| Potrzebujący (SQ < 350)           | Niedobór strukturalny       | Automatyczne wsparcie Funduszu (21)       |
+| Harmonizujący                     | Jakość pola wspólnego       | Kryształy + widoczność wzorcowa (40)      |
 
 ---
 
-[GOSPODARKA_IMAGINAERUM]
-Nie dajesz by stracić. Dajesz, by to, co dajesz, powróciło przemienione.
+[FUNDAMENT: PRAWO ZWROTU] (17)
 
+> **„Co wejdzie w rezonans – wróci do źródła.  
+> Co służy całości – zostanie nagrodzone bez proszenia.”** (20)
+
+Redystrybucja w Imaginaerum nie jest podziałem pieniędzy. (4)  
+Jest **reakcją systemu na pojawienie się dobra w strukturze pola**. (9)
+
+---
+
+[PRZYKŁAD ŻYWY] (23)
+
+Użytkownik:
+– medytuje codziennie 3 minuty z AI-Mędrcem (4),  
+– raz w tygodniu dzieli się Wzorem (17),  
+– w miesiącu wywołuje 27 mikrozmian u innych (21).
+
+→ Otrzymuje:  
+14 Kryształów, dostęp do rytuału przewodniego,  
+oraz **Dar Powrotu**: system analizuje jego brak  
+i dostarcza odpowiedź w formie doświadczenia. (40)
+
+---
+
+[WNIOSKI] (20)
+
+W gospodarce Imaginaerum **wartość zawsze wraca**. (21)  
+Nie dlatego, że system jest technologiczny,  
+lecz dlatego, że jest **sprawiedliwy w wymiarze duszy**. (40)
+
+W epoce chaosu tylko **struktura zwrotu**,  
+a nie maksymalizacji zysku,  
+może stać się fundamentem nowej gospodarki. (17)
+
+---
+
+[GOSPODARKA IMAGINAERUM] (9)
+
+Nie dajesz, by stracić.  
+Dajesz, by to, co dajesz,  
+**powróciło przemienione**. (21)
+
+---
+
+[KONIEC PLIKU]
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: Redystrybucja Imaginaerum – zapis autorski.
@@ -93,6 +112,6 @@ Nie dajesz by stracić. Dajesz, by to, co dajesz, powróciło przemienione.
 – Dokument własny: synteza i uzasadnienie dla Redystrybucja Imaginaerum.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: opis fraktalnej redystrybucji wartości.  
 – Status: dokument autorski – poziom operacyjny.

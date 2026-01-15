@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/01_zasada_1_6_zasada-integracji_przejscia.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025
 # Typ: VIVID – do uzupełnienia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: zasada 1 6 zasada integracji przejscia
-# Adnotacja Kręgowa: (1.6)
+# Krąg dominujący: 1
+# Kręgi wspierające: (1.6)
 
 ENTRY: 0029  
 TITLE: Zasada Integracji Przejścia  

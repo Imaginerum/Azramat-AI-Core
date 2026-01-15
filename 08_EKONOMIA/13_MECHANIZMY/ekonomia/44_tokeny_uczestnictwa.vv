@@ -1,0 +1,122 @@
+# Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/44_tokeny_uczestnictwa.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2025-08-06
+# Typ: VIVID – Rejestr logiczno-wartościowy (uczestnictwo, reputacja, dostęp)
+# Status: aktywny
+# Cel: Ustanowienie tokenów jako miernika udziału, zaufania i dostępu w systemie
+# Krąg dominujący: (44)
+# Kręgi wspierające: (5), (13), (3), (22), (35), (30)
+# Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
+# Wersja: v1.2
+
+---
+
+[CEL] (44)
+
+Tokeny Uczestnictwa to logiczne jednostki wartościowe (5) przyznawane użytkownikom systemu Azramata
+na podstawie wkładu, zaufania i aktywnej obecności we wspólnocie (3).
+
+Tokeny te:
+– odzwierciedlają realny wkład w system (13),
+– uprawniają do udziału w procesach decyzyjnych (ZgłosDAO, Zarząd) (22),
+– nadają dostęp do określonych funkcji i zasobów (35),
+– budują długoterminową reputację użytkownika (30),
+– mogą stać się wewnętrzną walutą systemową (44 – potencjał).
+
+---
+
+[FORMAT_REKORDU_JSON] (13)
+
+Każdy użytkownik posiada jeden rekord główny zapisany w:
+`/data/tokens/UserTokens.json` (13)
+
+{
+  "user_id": "UAZ-001293",
+  "activation_date": "2025-08-01T12:43:00Z",
+  "total_tokens": 1325,
+  "last_token_grant": "2025-08-04T18:22:17Z",
+  "contribution_level": 3,
+  "trusted_score": 740,
+  "okręgi": ["Medytacja_14", "Mentorzy"],
+  "kręgi_aktywnosci": [2, 5, 14],
+  "token_flags": ["głosowanie", "dostęp_premium"],
+  "waga_plus": true
+}
+
+Rekord stanowi stan chwilowy reputacji i udziału użytkownika (9).
+
+[ZASADY_PRZYZNAWANIA_TOKENÓW] (5)
+
+1 token = logiczna jednostka wartości przyznawana za:
+– 1 punkt Wektora Kontrybucji (WK) (13),
+– aktywną obecność w Okręgu (3),
+– zweryfikowaną pomoc innym użytkownikom (8),
+– głęboką transformację potwierdzoną przez SQ (9).
+
+Tokeny są aktualizowane cyklicznie co 30 dni (6).
+Nie są przyznawane jednorazowo – rosną lub zamarzają wraz z postawą użytkownika (30).
+
+[KATEGORIE_TOKENÓW] (44)
+
+operacyjne (5) 0–500 dostęp podstawowy, obserwacja
+wpływu (22) 500–1500 głosowanie, mentoring, prowadzenie Okręgów
+strategiczne (44) 1500+ Zarząd, waga+, tworzenie struktur
+
+Kategorie nie są rangą – są zakresem odpowiedzialności (10).
+
+[UTRATA_LUB_ZAMROŻENIE] (3)
+
+– Brak aktywności > 90 dni → zamrożenie tokenów (4).
+– Nadużycie systemowe wykryte przez Astraia+ → degradacja lub blokada (22).
+– Dobrowolne zrzeczenie się tokenów możliwe (decyzja świadoma / rytuał) (0).
+
+Tokeny nie są karą ani nagrodą – są zapisem relacji z systemem (44).
+
+[DOSTĘP_I_UŻYCIE] (13)
+
+Tokeny mogą być wykorzystywane do:
+– głosowania w ZgłosDAO i Zarządzie (22),
+– uzyskiwania przywilejów systemowych (35),
+– wejścia w wyższe Kręgi dostępu (41–44) (44),
+– inicjowania projektów wspólnotowych (3).
+
+[ZGODNOŚĆ_I_BEZPIECZEŃSTWO] (44)
+
+– Każdy rekord podpisany przez Astraia+ (14).
+– Brak możliwości sprzedaży lub transferu między kontami (4).
+– Brak integracji z rynkiem zewnętrznym na obecnym etapie (0).
+
+Planowana przyszła integracja:
+→ Tokeny_Ekonomiczne.vv / ImagoraCoin (44).
+
+[METADANE] (13)
+
+timestamp_created: 2025-08-06T01:16:35Z
+file_signature: TOKENY-U-V1.2
+pliki_powiązane: Wektor_Kontrybucji.vv, Zarząd_Imaginaerum.vv, Okręgi.vv
+lokalizacja_danych: /data/tokens/UserTokens.json
+zakres_dostępu: głosowanie, reputacja, uprawnienia
+silnik_autoryzacji: Astraia+
+
+[ZASADA_KOŃCOWA] (44)
+
+Token nie mierzy wartości człowieka.
+Token mierzy głębokość jego uczestnictwa.
+
+Im więcej tokenów –
+tym mniej przywileju,
+a więcej odpowiedzialności.
+
+[KONIEC_PLIKU]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Tokeny Uczestnictwa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Tokeny Uczestnictwa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: reputacja, dostęp, odpowiedzialność.
+– Status: dokument autorski – poziom operacyjny.

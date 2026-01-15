@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/10_dekret_10_7_nasycenie_pola.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_nasycenia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 10 7 nasycenie pola
-# Adnotacja Kręgowa: (10.7), (4), (10), (1), (6.3), (9), (1.2)
+# Krąg dominujący: (10)
+# Kręgi wspierające: (10.7), (4), (10), (1), (6.3), (9), (1.2)
 
 CIRCLE: (10.7)
 ACCESS_LEVEL: Nasycenie_Pola / Wejście_W_Centrum

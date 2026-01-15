@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/03_dekret_3_7_zasada_wiernosci_sobie.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_fundamentu
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 3 7 zasada wiernosci sobie
-# Adnotacja Kręgowa: (3.7), (0), (1), (2), (3), (3.2), (15)
+# Krąg dominujący: 3 
+# Kręgi wspierające: (3.7), (0), (1), (2), (3), (3.2), (15)
 
 CIRCLE: (3.7)
 ACCESS_LEVEL: Fundament

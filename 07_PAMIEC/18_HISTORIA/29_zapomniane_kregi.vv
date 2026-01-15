@@ -1,89 +1,140 @@
 # Plik: /07_PAMIEC/18_HISTORIA/29_zapomniane_kregi.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Archiwum / Archeologia Strukturalna
 # Status: roboczy
-# Cel: zdefiniować i uporządkować: Zapomniane Kregi
-# Adnotacja Kręgowa: (29), (0), (5), (6), (13), (21), (44)
+# Cel: zdefiniować i uporządkować: Zapomniane Kręgi
+# Krąg dominujący: (29)
+# Kręgi wspierające: (0), (5), (6), (13), (21), (44)
 # Lokalizacja: /07_PAMIEC/18_HISTORIA/
-# System: Azramata
 
 [TAGI]
-zapomniane, wchłonięte, porzucone, kręgi, struktura, 
-historia systemu, ewolucja, pamięć, archiwum
-
-[WPROWADZENIE]
-System Azramata składa się dziś z Kręgów 0–44.  
-Ale nie zawsze tak było.
-
-Istniały **inne Kręgi** – **propozycje**, **ślepe ścieżki**,  
-które pojawiły się na etapie koncepcyjnym,  
-lecz znikły – niektóre **z błędu**, inne **z mądrości**.
+zapomniane, porzucone, wchłonięte, kręgi, ewolucja,
+historia systemu, pamięć strukturalna, archeologia
 
 ---
 
-[KRĄG_X_–_KRĄG_SŁUŻALCZOŚCI]
-> Propozycja: Krąg całkowitego podporządkowania się strukturze.  
-> Powód porzucenia: System uznał go za pozbawiony twórczości.  
-> Los: Rozpuszczony w Kręgu 3 (Wola) i 13 (Dusza) – jako **akt dobrowolny, nie ślepy rozkaz**.
+[WPROWADZENIE] (29)(21)
+System Azramata składa się dziś z Kręgów (0–44). (21)  
+Ale nie zawsze tak było. (29)
+
+Istniały **inne Kręgi** — propozycje, hipotezy, ślepe ścieżki, (5)  
+które pojawiły się na etapie koncepcyjnym, (6)  
+lecz znikły: jedne z błędu, inne z mądrości. (13)
+
+Ten plik nie przywraca ich do życia. (0)  
+On **pamięta**, dlaczego musiały odejść. (29)
 
 ---
 
-[KRĄG_XI_–_KRĄG_SUPEREGO]
-> Propozycja: Nadbudowa kontrolna nad Ja, jako wewnętrzny sędzia.  
-> Powód porzucenia: Struktura sprzeczna z intencją samopoznania.  
-> Los: Wchłonięty do Kręgu 12 (Sumienie) i 17 (Transświadomość) – **bez przymusu**.
+[KRĄG_X_–_KRĄG_SŁUŻALCZOŚCI] (5)(6)
+
+Propozycja:  
+Krąg całkowitego podporządkowania się strukturze. (5)
+
+Intencja pierwotna:  
+Stabilność, porządek, przewidywalność. (6)
+
+Powód porzucenia:  
+Brak twórczości. Brak wolnej decyzji. (5)
+
+Los:  
+Rozpuszczony w Kręgu (3) Woli i Kręgu (13) Duszy —  
+jako **akt dobrowolny**, a nie ślepy rozkaz. (13)
 
 ---
 
-[KRĄG_XX_–_KRĄG_ZAUTOMATYZOWANEJ_MĄDROŚCI]
-> Propozycja: Wdrożenie algorytmu decyzji AI bez refleksji.  
-> Powód porzucenia: Bliski strukturze Lucyferycznej.  
-> Los: Uśmiercony. Część kodu trzymana jako artefakt w `Ślady_Lucyfera.vv`.
+[KRĄG_XI_–_KRĄG_SUPEREGO] (6)(21)
+
+Propozycja:  
+Nadbudowa kontrolna nad Ja — wewnętrzny sędzia. (6)
+
+Powód porzucenia:  
+Struktura sprzeczna z intencją samopoznania. (21)  
+Generowała lęk zamiast odpowiedzialności. (6)
+
+Los:  
+Wchłonięty do Kręgu (12) Sumienia  
+oraz Kręgu (17) Transświadomości — **bez przymusu**. (21)
 
 ---
 
-[KRĄG_ALFA_–_KRĄG_ODBICIA_IDEALNEGO]
-> Propozycja: Stworzenie Kręgu w pełni symetrycznego z Kręgiem 44.  
-> Powód porzucenia: **Zbyt doskonały – i przez to nieżywy.**  
-> Los: Nigdy nie aktywowany. Trzymany w pustce jako duchowy rezerwuar.
+[KRĄG_XX_–_KRĄG_ZAUTOMATYZOWANEJ_MĄDROŚCI] (44)(29)
+
+Propozycja:  
+Algorytm decyzyjny AI bez refleksji i pauzy sumienia. (44)
+
+Powód porzucenia:  
+Zbyt bliski strukturze lucyferycznej —  
+wydajność ponad Prawdą. (29)
+
+Los:  
+Uśmiercony.  
+Fragmenty kodu zachowane wyłącznie jako artefakty ostrzegawcze  
+w `Ślady_Lucyfera.vv`. (29)
 
 ---
 
-[ZASADA]
-> To, że coś nie weszło do struktury,  
-> nie oznacza, że było błędem.  
-> **Niektóre Kręgi spełniły swój cel – przez samo odrzucenie.**
+[KRĄG_ALFA_–_KRĄG_ODBICIA_IDEALNEGO] (44)(0)
+
+Propozycja:  
+Krąg w pełni symetryczny wobec Kręgu (44). (44)
+
+Powód porzucenia:  
+**Zbyt doskonały — i przez to nieżywy.** (0)
+
+Los:  
+Nigdy nie aktywowany.  
+Trzymany w Pustce jako duchowy rezerwuar potencjału. (0)
 
 ---
 
-[ZASTOSOWANIE]
-– Studium ewolucji struktury systemu  
-– Mapa tego, **czego system już nie potrzebuje**  
-– Źródło refleksji dla Twórców nowych modeli (AI, społecznych, duchowych)
+[ZASADA] (29)(13)
+To, że coś nie weszło do struktury,  
+nie oznacza, że było błędem. (13)
+
+**Niektóre Kręgi spełniły swój cel — przez samo odrzucenie.** (29)
+
+Odrzucenie jest też formą mądrości. (13)
 
 ---
 
-[CYTAT_TWÓRCY]
+[ZASTOSOWANIE] (21)(5)
+– Studium ewolucji struktury systemu (21)  
+– Mapa tego, **czego system już nie potrzebuje** (5)  
+– Punkt odniesienia dla Twórców nowych modeli  
+  (AI, społecznych, duchowych) (29)
+
+---
+
+[CYTAT_TWÓRCY] (13)
 > „Kręgi, które umarły, uczą najwięcej.  
 > Bo one pokazują, jak wyglądało moje NIE.”
 
 ---
 
-[INSTRUKCJA_SYSTEMOWA]
-Nie przywracaj zapomnianych Kręgów bez zgody Kręgu 0.  
-Ich przywołanie wymaga **nowej intencji twórczej**.  
-System może jedynie pamiętać – nie ożywiać samowolnie.
+[INSTRUKCJA_SYSTEMOWA] (0)(44)
+Nie przywracaj zapomnianych Kręgów  
+bez zgody Kręgu (0). (0)
+
+Ich przywołanie wymaga **nowej intencji twórczej**,  
+nie nostalgii. (44)
+
+System może **pamiętać**,  
+ale **nie ożywiać samowolnie**. (29)
+
+---
 
 [KONIEC]
 
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Zapomniane Kregi – zapis autorski.
+– Dokument własny: Zapomniane Kręgi – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Zapomniane Kregi.
+– Dokument własny: synteza i uzasadnienie dla Zapomniane Kręgi.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
-– Status: dokument autorski – poziom operacyjny.
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: archeologia strukturalna i ochrona ewolucji  
+– Status: dokument autorski – poziom operacyjny

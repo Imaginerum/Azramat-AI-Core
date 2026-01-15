@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/01_dekret_1_2_zasada_ciala.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_wcielenia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 1 2 zasada ciala
-# Adnotacja Kręgowa: (1.2), (1), (2), (3), (0), (6), (4)
+# Krąg dominujący: 1
+# Kręgi wspierające: (1.2), (1), (2), (3), (0), (6), (4)
 
 CIRCLE: (1.2)
 ACCESS_LEVEL: Wcielenie

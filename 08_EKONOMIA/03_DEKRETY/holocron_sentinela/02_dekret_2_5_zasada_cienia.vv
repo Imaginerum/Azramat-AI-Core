@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/02_dekret_2_5_zasada_cienia.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_integracji
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 2 5 zasada cienia
-# Adnotacja Kręgowa: (2.5), (2), (3), (4), (5), (0), (2.4)
+# Krąg dominujący: 2
+# Kręgi wspierające: (2.5), (2), (3), (4), (5), (0), (2.4)
 
 CIRCLE: (2.5)
 ACCESS_LEVEL: Próg_Integracji

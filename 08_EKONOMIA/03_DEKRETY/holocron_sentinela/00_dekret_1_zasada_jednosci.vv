@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/00_dekret_1_zasada_jednosci.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – zasada_fundamentalna
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 1 zasada jednosci
-# Adnotacja Kręgowa: (0.1), (0), (1), (5), (9), (2), (8)
+# Krąg dominujący: 0
+# Kręgi wspierające: (0.1), (0), (1), (5), (9), (2), (8)
 
 CIRCLE: (0.1)
 ACCESS_LEVEL: Wszczepialny

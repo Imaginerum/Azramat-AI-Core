@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/13_MECHANIZMY/ekonomia/00_mechanizm_kregowego_udzialu.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2025-08-05
 # Typ: VIVID – Algorytm dystrybucji ekonomicznej
 # Status: roboczy
-# Cel: CEL
-# Adnotacja Kręgowa: (0), (44)
+# Cel: Ustalenie fraktalnego mechanizmu podziału wartości ekonomicznej na podstawie kontrybucji kręgowych
+# Krąg dominujący: 0 – Punkt Zerowy / Uczciwość Podziału
+# Kręgi wspierające: 44 – Domknięcie / Sprawiedliwość Systemowa
 # Lokalizacja: /08_EKONOMIA/13_MECHANIZMY/ekonomia/
 # Wersja: v1.0
 
@@ -12,95 +14,133 @@
 
 [#_CEL]
 
-Ten mechanizm określa sposób, w jaki użytkownicy otrzymują część zarobków Azramatonu 
-w zależności od ich wkładu (kontrybucji) względem poszczególnych Kręgów. Umożliwia też 
-tworzenie "Okręgów" – wspólnot dzielących udział w odpowiedzialności i nagrodzie.
+Mechanizm Kręgowego Udziału określa sposób, w jaki użytkownicy (azramici)  
+otrzymują część wartości ekonomicznej generowanej przez Azramaton  
+na podstawie **realnego wkładu (kontrybucji)** w poszczególnych Kręgach (0–44).
+
+Mechanizm umożliwia również tworzenie **Okręgów** – wspólnot współodpowiedzialności,  
+w których nagroda i odpowiedzialność są dzielone fraktalnie.
 
 ---
 
 [#_ZAŁOŻENIA_SYSTEMOWE]
 
-- **Kontrybucja** użytkownika mierzona jest względem poszczególnych Kręgów (0–44).
-- Każdy Krąg ma przypisaną wagę obliczaną według jednego z trzech możliwych trybów:
-  - Tryb 1: System dziesiętny (Krąg 0 = waga 1, Krąg 44 = waga 45),
-  - Tryb 2: System liczbowy oparty o **liczby pierwsze** (Kręgi o numerach pierwszych mają większą wagę),
-  - Tryb 3: System 360° (Krąg = sektor; 360/45 = 8°, każdy Krąg = 8 stopni ekonomicznych).
+– **Kontrybucja** użytkownika mierzona jest osobno dla każdego Kręgu (0–44).  
+– Każdy Krąg posiada **wagę systemową**, zależną od wybranego trybu liczenia.  
+– Udział ekonomiczny jest funkcją **wkładu × wagi kręgu**, a nie pozycji, statusu ani deklaracji.
 
-- **Użytkownik otrzymuje udział** w zarobkach systemu proporcjonalnie do sumy:  
-  `(kontrybucja_w_Kręgu_i * waga_Kręgu_i)`  
-  przeliczonej przez sumę wszystkich takich iloczynów w systemie (czyli wagowane pole).
+Dostępne tryby wag:
 
-- Ostateczna dystrybucja odbywa się w cyklach (np. miesięcznie lub kwartalnie).
+1. **System dziesiętny**  
+   – Krąg 0 = waga 1  
+   – Krąg 44 = waga 45  
+
+2. **System liczb pierwszych**  
+   – Kręgi o numerach pierwszych otrzymują wagę podwyższoną  
+   – Pozostałe Kręgi: waga bazowa  
+
+3. **System 360° (przestrzenny)**  
+   – 45 Kręgów = pełne 360°  
+   – Każdy Krąg = 8° udziału ekonomicznego  
+   – Tryb gotowy do wizualizacji i integracji percepcyjnej  
+
+Możliwa jest **hybryda trybów**, zatwierdzana przez Astraia+.
+
+---
+
+[#_ZASADA_PODZIAŁU]
+
+Udział użytkownika **U** obliczany jest jako:
+
+udział_U =  
+( Σᵢ (kontrybucja_Uᵢ × waga_Kręguᵢ) )  
+÷  
+( Σ wszystkich użytkowników Σᵢ (kontrybucja × waga) )
+
+Dystrybucja odbywa się cyklicznie  
+(np. miesięcznie lub kwartalnie).
 
 ---
 
 [#_OKRĘGI]
 
-Użytkownicy mogą formować wspólnoty zwane **Okręgami**, które:
+**Okręgi** to wspólnoty kręgowe, które:
 
-- grupują kontrybucje w obrębie danego Kręgu lub obszaru tematycznego (np. Transformacja, Etyka, Gusła),
-- dzielą między siebie udział ekonomiczny wypracowany wspólnie,
-- mogą tworzyć własne zasady dzielenia (np. 50/50 lider – członkowie).
+– agregują kontrybucje w obrębie jednego Kręgu lub obszaru sensu,  
+– dzielą między sobą wypracowany udział ekonomiczny,  
+– mogą ustanawiać własne wewnętrzne zasady podziału  
+  (np. lider / wspólnota, rotacja, równość).
 
-Okręgi są automatycznie tworzone przez mechanizm Astraia+, gdy liczba aktywnych kontrybutorów w danym Kręgu przekroczy próg 5.
+Okrąg powstaje automatycznie, gdy:
 
----
-
-[#_STRUKTURA_OBLICZEŃ]
-
-Dla każdego użytkownika U:
-udział_U = (Σ_kontrybucji_U_i * waga_i) / (Σ wszystkich użytkowników: Σ_kontrybucji * waga)
-
-
-Dla systemu liczbowego:
-
-- Przykład dla Kręgu 13 (liczba pierwsza): waga = 1.5
-- Przykład dla Kręgu 10 (niepierwsza): waga = 1.0
+– liczba aktywnych kontrybutorów w danym Kręgu ≥ 5  
+– mechanizm Astraia+ potwierdzi stabilność wkładu.
 
 ---
 
 [#_PRZYKŁAD]
 
-- Użytkownik A:  
-  – kontrybucja w Kręgu 2: 100 jednostek (waga 1.5)  
-  – kontrybucja w Kręgu 10: 50 jednostek (waga 1.0)  
-  – udział: (100×1.5 + 50×1.0) = 200
+Użytkownik A:  
+– Krąg 2: 100 jednostek (waga 1.5)  
+– Krąg 10: 50 jednostek (waga 1.0)  
+→ suma wagowana = 200  
 
-- Użytkownik B:  
-  – kontrybucja w Kręgu 3: 200 jednostek (waga 1.5)  
-  – udział: 300
+Użytkownik B:  
+– Krąg 3: 200 jednostek (waga 1.5)  
+→ suma wagowana = 300  
 
-Suma całkowita = 500  
-Podział: A = 40%, B = 60% udziału w puli
+Suma systemowa = 500  
 
----
-
-[#_SYSTEMY_LICZBOWE_(DO_WYBORU,_MOŻLIWA_HYBRYDA)]
-
-- `mode: prime_weights` → wyższa wartość Kręgów 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43  
-- `mode: decimal_weights` → proporcjonalnie do numeru Kręgu  
-- `mode: circle_360` → podział przestrzenny (do integracji z wizualizacją)
+Podział puli:  
+– A = 40%  
+– B = 60%
 
 ---
 
-[#_METADANE]
+[#_SYSTEMY_LICZBOWE]
+
+– `mode: prime_weights`  
+  → Kręgi: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43  
+
+– `mode: decimal_weights`  
+  → waga ∝ numer Kręgu  
+
+– `mode: circle_360`  
+  → integracja z mapą percepcyjną i wizualizacją kręgową  
+
+---
+
+[#_METADANE_SYSTEMOWE]
 
 timestamp_created: 2025-08-05T23:19:44Z  
 document_signature: ECON-KRU-V1-MULTI  
-related_files: Struktura_Podzialu.vv, Wektor_Kontrybucji.vv  
 activation_engine: Astraia+  
 circle_threshold_for_Okręgi: 5 aktywnych kontrybutorów  
+related_files:  
+– Struktura_Podzialu.vv  
+– Wektor_Kontrybucji.vv  
+
+---
+
+[ZASADA_NADRZĘDNA]
+
+Podział nie jest nagrodą.  
+Jest **odzwierciedleniem rezonansu wkładu**.
+
+Kto wnosi Wzór – uczestniczy w jego owocu.  
+Kto tylko korzysta – pozostaje obserwatorem.
+
+---
 
 [KONIEC_PLIKU]
 
-
 [ŹRÓDŁA_TWARDĘ]
-– Dokument własny: Mechanizm Kregowego Udzialu – zapis autorski.
+– Dokument własny: Mechanizm Kręgowego Udziału – zapis autorski.
 
 [ŹRÓDŁA_ANALITYCZNE]
-– Dokument własny: synteza i uzasadnienie dla Mechanizm Kregowego Udzialu.
+– Dokument własny: synteza i uzasadnienie dla Mechanizmu Kręgowego Udziału.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.
-– Funkcja: ujednolicenie i zapis treści.
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: dystrybucja wartości, stabilizacja sprawiedliwości systemowej.  
 – Status: dokument autorski – poziom operacyjny.

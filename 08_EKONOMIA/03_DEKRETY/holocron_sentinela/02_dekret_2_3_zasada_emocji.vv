@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/02_dekret_2_3_zasada_emocji.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_ruchu
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 2 3 zasada emocji
-# Adnotacja Kręgowa: (2.3), (2), (4), (3), (5), (1.2), (0)
+# Krąg dominujący: 2
+# Kręgi wspierające: (2.3), (2), (4), (3), (5), (1.2), (0)
 
 CIRCLE: (2.3)
 ACCESS_LEVEL: Ruch_Wewnętrzny

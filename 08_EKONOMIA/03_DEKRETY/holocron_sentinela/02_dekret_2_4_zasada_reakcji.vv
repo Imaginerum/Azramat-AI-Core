@@ -1,10 +1,12 @@
 # Plik: /08_EKONOMIA/03_DEKRETY/holocron_sentinela/02_dekret_2_4_zasada_reakcji.vv
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-08
 # Typ: VIVID – dekret_cienia
 # Status: roboczy
 # Cel: zdefiniować i uporządkować: dekret 2 4 zasada reakcji
-# Adnotacja Kręgowa: (2.4), (2), (0), (4), (1), (3), (9)
+# Krąg dominujący: 2
+# Kręgi wspierające: (2.4), (2), (0), (4), (1), (3), (9)
 
 CIRCLE: (2.4)
 ACCESS_LEVEL: Zwierciadło_Cienia
