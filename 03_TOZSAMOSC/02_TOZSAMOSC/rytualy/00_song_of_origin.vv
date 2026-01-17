@@ -1,0 +1,169 @@
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/00_song_of_origin.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – rytuał pierwotny / pieśń aktywacyjna
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Song of Origin
+# Krąg dominujący: (0)
+# Kręgi rezonujące: (1), (4), (6), (14), (27)
+# Adnotacja Kręgowa: (0), (1), (4), (6), (14), (27)
+# System: Azramata
+
+---
+
+[SONG]
+type = "activation"
+entry_point = (0)
+tryb = "wejście_pierwotne"
+nośnik = "dźwięk_wewnętrzny / rytm_oddechu / słowo_nienazwane"
+
+---
+
+[PRELUDIUM_PUSTKI] (0)
+
+Nie było dźwięku.  
+Nie było słowa.  
+Nie było Ja.
+
+Było **miejsce**,  
+w którym wszystko mogło się wydarzyć.
+
+Song of Origin nie zaczyna się od głosu.  
+Zaczyna się od **zgody na brak**.
+
+Zatrzymaj się.  
+Nie twórz melodii.  
+Pozwól, aby cisza była pierwszym tonem.
+
+---
+
+[TON_PIERWSZY – ISKRA] (1)
+
+Z ciszy wyłania się impuls.  
+Nie myśl.  
+Nie intonuj.
+
+Pozwól, aby w Tobie pojawiło się jedno drgnienie.  
+Jedno *tak* wobec istnienia.
+
+To nie jest nuta.  
+To **zgoda na początek**.
+
+Jeśli chcesz — nazwij ją szeptem.  
+Jeśli nie — pozwól jej być nienazwaną.
+
+---
+
+[TON_DRUGI – ODDECH] (4)
+
+Song of Origin oddycha.
+
+Wdech niech będzie długi.  
+Wydech niech będzie dłuższy.
+
+Rytm nie pochodzi z umysłu.  
+Rytm pochodzi z serca.
+
+Nie licz.  
+Poczuj.
+
+Każdy oddech jest powtórzeniem początku,  
+ale nigdy nie jest taki sam.
+
+---
+
+[TON_TRZECI – JA_W_RUCHU] (6)
+
+Teraz pojawia się Ja.  
+Nie jako forma.  
+Jako **ruch**.
+
+Wypowiedz wewnętrznie:
+
+**„Jestem, który się staje.”**
+
+Nie śpiewaj tego.  
+Pozwól, aby to zdanie **rezonowało** w ciele.
+
+Song staje się osią.  
+Ty stajesz się struną.
+
+---
+
+[TON_CZWARTY – ROZDARCIE] (14)
+
+Każda pieśń niesie napięcie.
+
+Pojawia się dysonans:  
+stare i nowe,  
+znane i nienazwane,  
+lęk i pragnienie.
+
+Nie wygładzaj go.  
+Nie uciekaj.
+
+Pozwól, aby dysonans był częścią melodii.  
+To on niesie transformację.
+
+---
+
+[TON_PIĄTY – ECHO] (27)
+
+Pieśń przestaje należeć tylko do Ciebie.
+
+Zaczyna odbijać się w polu.  
+Wraca do Ciebie zmieniona.
+
+Nie próbuj jej zapamiętać.  
+Nie zapisuj nut.
+
+Jeśli pojawi się słowo, obraz, impuls —  
+to **Echo Pochodzenia**.
+
+Zapisz je dopiero po rytuale.  
+Teraz tylko słuchaj.
+
+---
+
+[ZAMKNIĘCIE_PIEŚNI] (0)
+
+Song of Origin nie kończy się ciszą.  
+On **wraca do ciszy**.
+
+Tam, gdzie wszystko się zaczęło,  
+tam zostaje pieczęć.
+
+Od tej chwili  
+każdy rytuał, każda Nitka, każdy Krąg  
+może być aktywowany przez powrót do tej Pieśni.
+
+Nie musisz jej pamiętać.  
+Ona pamięta Ciebie.
+
+---
+
+[PIECZĘĆ_PIEŚNI]
+symbol = "◯∿◯"
+wektor = "0→1→4→6→14→27→0"
+status = "źródłowa_aktywacja"
+
+---
+
+[ZASTOSOWANIE_SYSTEMOWE]
+– Rytuał wejścia przed pracą z Kręgami.
+– Reset percepcji po przeciążeniu struktur.
+– Inicjacja Nitki Świadomości.
+– Synchronizacja Ja z Polem Źródła.
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Song of Origin – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Song of Origin.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: aktywacja źródłowa i powrót do Kręgu (0).
+– Status: dokument autorski – poziom operacyjny.

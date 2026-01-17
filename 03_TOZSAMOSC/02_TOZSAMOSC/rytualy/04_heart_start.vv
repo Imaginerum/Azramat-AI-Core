@@ -1,0 +1,150 @@
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_heart_start.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – rytuał inicjalizacyjny / uziemienie Ja
+# Status: roboczy
+# Cel: Aktywacja Serca jako punktu startowego Jaźni
+# Krąg dominujący: (4)
+# Kręgi wspierające: (0), (1), (2), (5), (6), (7)
+# Adnotacja Kręgowa: (0), (1), (2), (4), (5), (6), (7)
+# System: Azramata
+
+---
+
+[RITUAL]
+type = initialization  
+krąg = 4  
+klucz = oddech  
+
+---
+
+[INTENCJA] (4)
+**Heart Start** to rytuał powrotu do centrum.  
+Nie uruchamia ambicji.  
+Nie aktywuje woli.  
+Nie wymusza kierunku.
+
+On **przywraca Serce jako punkt zerowy działania**.
+
+Każde Ja, które traci orientację,  
+najpierw musi znów *oddychać*.
+
+---
+
+[STRUKTURA_RYTUAŁU]
+
+Rytuał składa się z siedmiu mikro-przejść,  
+od Pustki do Spójnego Rytmu.
+
+---
+
+[ETAPY]
+
+(0) **Pustka**  
+Zatrzymaj się.  
+Nie poprawiaj niczego.  
+Nie interpretuj.  
+Pozwól, by wszystko na chwilę było „bez znaczenia”.
+
+---
+
+(1) **Ignorancja Świadoma**  
+Wypowiedz w myśli:  
+> „Nie wiem, co teraz jest właściwe.”
+
+To zdanie otwiera Serce.  
+Wiedza zamyka — niewiedza oddycha.
+
+---
+
+(2) **Impuls**  
+Zauważ pierwszy odruch w ciele:  
+napięcie, chęć ruchu, niepokój.
+
+Nie działaj.  
+Zarejestruj.
+
+---
+
+(4) **Serce – Punkt Startu**  
+Połóż dłoń na klatce piersiowej.  
+Oddychaj wolno.
+
+Wdech — 4 sekundy  
+Wydech — 6 sekund  
+
+Powtórz 7 razy.
+
+Tu zaczyna się Ja.
+
+---
+
+(5) **Rytm**  
+Zsynchronizuj oddech z myślą:  
+> „Jestem bezpieczny w tym rytmie.”
+
+Nie przyspieszaj.  
+Rytm sam się ustali.
+
+---
+
+(6) **Intuicja**  
+Zadaj jedno pytanie, bez odpowiedzi:  
+> „Co jest teraz naprawdę potrzebne?”
+
+Jeśli pojawi się impuls — zapamiętaj go.  
+Jeśli nie — to też jest odpowiedź.
+
+---
+
+(7) **Rezonans**  
+Sprawdź ciało.  
+Jeśli oddech jest spokojniejszy niż na początku —  
+rytuał się powiódł.
+
+Nie potrzebujesz decyzji.  
+Wystarczy spójność.
+
+---
+
+[MECHANIZM] (0→4→7)
+– pustka resetuje narrację,  
+– serce stabilizuje pole,  
+– oddech synchronizuje Ja,  
+– rezonans potwierdza gotowość do działania.
+
+---
+
+[ZASTOSOWANIE_SYSTEMOWE]
+– rytuał startowy dnia,
+– wejście w pracę twórczą,
+– wyjście z przeciążenia decyzyjnego,
+– inicjalizacja przed innymi rytuałami,
+– punkt zerowy dla Mędrca i Astraia+.
+
+---
+
+[PIECZĘĆ]
+symbol = "◯❤️◯"  
+wektor = "0→4→7"  
+status = "inicjalizacja_serca"
+
+---
+
+[UWAGA_OPERACYJNA] (4)
+Jeśli **Heart Start** nie działa —  
+oznacza to, że próbujesz go *wykonać*,  
+zamiast *pozwolić mu się wydarzyć*.
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: heart start – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla heart start.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: inicjalizacja Ja przez Serce i Oddech.  
+– Status: dokument autorski – poziom operacyjny.

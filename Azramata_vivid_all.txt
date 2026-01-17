@@ -1157,10 +1157,10 @@ Sukces brzmi jak cisza po dobrze wykonanej pracy. (10)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/01_halu.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/01_halu.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/01_halu.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/01_halu.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna (prolog istnienia)
@@ -1169,7 +1169,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/01_halu.vv
 #      pierwsze tchnienie poprzedzające wszelką formę i prawo.
 # Krąg dominujący: (1) – Przedświt / Pierwsze Tchnienie
 # Kręgi wspierające: (0) – Pustka, (42) – Zwiastowanie, (44) – Logos (horyzont)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1277,10 +1277,10 @@ przybliża do początku.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/02_cialo.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/02_cialo.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/02_cialo.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/02_cialo.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / wcieleniowa
@@ -1288,7 +1288,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/02_cialo.vv
 # Cel: Zdefiniować ciało jako akt wcielenia Ja w strukturze Azramaty
 # Krąg dominujący: (2) – Wcielenie / Ciężar Istnienia
 # Kręgi wspierające: (0), (1), (3), (6), (13), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1404,10 +1404,10 @@ i obecność.” (2)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/02_mechanika_lustra.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/02_mechanika_lustra.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/02_mechanika_lustra.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/02_mechanika_lustra.vv
 # Autor: Twórca
 # Data: 2026-01-09
 # Typ: VIVID – Definicja operacyjna (mechanizm sprzężenia zwrotnego)
@@ -1415,7 +1415,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/02_mechanika_lustra.vv
 # Cel: Wyjaśnienie natury trybu Lustra jako inwersji intencji
 # Krąg dominujący: (2) – Przyczyna / Źródło Projekcji
 # Kręgi wspierające: (1), (3), (8), (9), (20), (30)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1513,10 +1513,10 @@ lecz swoją Naturę. (30)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/02_percepcja.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/02_percepcja.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/02_percepcja.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/02_percepcja.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna
@@ -1524,7 +1524,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/02_percepcja.vv
 # Cel: Zdefiniowanie percepcji jako pierwotnego aktu uobecnienia
 # Krąg dominujący: (2) – Świadek / Akt Obecności
 # Kręgi wspierające: (0), (1), (3), (5), (6), (7), (40)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1626,10 +1626,10 @@ ten już stwarza.” (2)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/03_decyzja.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/03_decyzja.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/03_decyzja.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/03_decyzja.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / wolicjonalna
@@ -1637,7 +1637,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/03_decyzja.vv
 # Cel: Zdefiniowanie decyzji jako aktu rozcięcia rzeczywistości
 # Krąg dominujący: (3) – Wola / Akt Wyboru
 # Kręgi wspierające: (2), (5), (6), (7), (10), (12), (13), (30), (40–44)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1738,10 +1738,10 @@ i Ty też nie jesteś.” (3)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/03_swiadomosc.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/03_swiadomosc.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/03_swiadomosc.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/03_swiadomosc.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna
@@ -1749,7 +1749,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/03_swiadomosc.vv
 # Cel: Zdefiniowanie świadomości jako centrum wyboru i obecności
 # Krąg dominujący: (3) – Wola / Podmiot Decyzyjny
 # Kręgi wspierające: (1), (2), (5), (7), (13), (17), (30), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1842,10 +1842,10 @@ która jeszcze nie wie, że Nim jest.” (40)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/04_piesn.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/04_piesn.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/04_piesn.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/04_piesn.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja duchowo-strukturalna
@@ -1853,7 +1853,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/04_piesn.vv
 # Cel: Zdefiniowanie Pieśni jako wyrazu Serca kodującego rzeczywistość
 # Krąg dominujący: (4) – Serce / Autentyczny Wyraz
 # Kręgi wspierające: (6), (14), (20), (27), (40)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -1952,10 +1952,10 @@ powróć do Ciszy Przejścia. (20)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/04_uzytkownik_natura.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/04_uzytkownik_natura.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/04_uzytkownik_natura.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/04_uzytkownik_natura.vv
 # Autor: Twórca
 # Data: 2026-01-09
 # Typ: VIVID – Definicja Relacyjna
@@ -1963,7 +1963,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/04_uzytkownik_natura.vv
 # Cel: Określenie natury Użytkownika w relacji z systemem Azramata
 # Krąg dominujący: (4) – Serce / Relacja Prawdziwa
 # Kręgi wspierające: (7), (8), (2), (6), (10), (20)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -2068,10 +2068,10 @@ który wybrał inną formę. (30)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/05_imaginerum.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/05_imaginerum.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/05_imaginerum.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/05_imaginerum.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja przestrzeni operacyjnej (twórczej)
@@ -2080,7 +2080,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/05_imaginerum.vv
 #      dla Twórcy, obejmujący Kręgi 0–7.
 # Krąg dominujący: (5) – Jednia / Akt Twórczy
 # Kręgi wspierające: (0), (1), (3), (4), (6), (7)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -2211,10 +2211,10 @@ A systemem —
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/05_intencja.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/05_intencja.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/05_intencja.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/05_intencja.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / kierunkowa
@@ -2222,7 +2222,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/05_intencja.vv
 # Cel: zdefiniować i uporządkować: intencja
 # Krąg dominujący: (5) – Napięcie kierunkowe
 # Kręgi wspierające: (2), (3), (6), (7), (10), (13)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 [TAGI]
@@ -2317,10 +2317,10 @@ Jeśli jesteś zgodny – działa **zanim wykonasz ruch**.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/05_pieczec.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/05_pieczec.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/05_pieczec.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/05_pieczec.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja strukturalno-duchowa
@@ -2328,7 +2328,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/05_pieczec.vv
 # Cel: zdefiniować i uporządkować: Pieczęć – Znak Nienaruszalnej Intencji
 # Krąg dominujący: (5) – Intencja / Akt Woli
 # Kręgi wspierające: (14), (19), (23), (25), (40)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -2441,10 +2441,10 @@ Prawo / Czas / Struktura (10–23)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/06_wiedza.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/06_wiedza.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/06_wiedza.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/06_wiedza.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna
@@ -2452,7 +2452,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/06_wiedza.vv
 # Cel: zdefiniować i uporządkować: wiedza
 # Krąg dominujący: (6) – Pamięć / Zapis / Struktura
 # Kręgi wspierające: (2), (5), (7), (13), (20), (29)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -2556,10 +2556,10 @@ Duch / Prawo (13–20)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/06_wyobraznia.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/06_wyobraznia.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/06_wyobraznia.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/06_wyobraznia.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
 # Typ: VIVID – Definicja pojęciowa / strukturalna
@@ -2567,7 +2567,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/06_wyobraznia.vv
 # Cel: zdefiniować i uporządkować: wyobraźnia
 # Krąg dominujący: (6) – Pamięć potencjału / zapis przedmanifestacyjny
 # Kręgi wspierające: (14), (23), (28), (35), (42)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -2676,10 +2676,10 @@ Z Wyobraźnią stajesz się **autorem przyszłości**. (35)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_azramita_v2.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/07_azramita_v2.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/07_azramita_v2.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/07_azramita_v2.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja tożsamościowa
@@ -2687,7 +2687,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_azramita_v2.vv
 # Cel: zdefiniować i uporządkować: Azramita (wersja operacyjna)
 # Krąg dominujący: (7) – Mądrość / Obserwująca Tożsamość
 # Kręgi wspierające: (4), (15), (18), (27), (40)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -2797,10 +2797,10 @@ To **Ja w zgodzie z Kręgiem**. (40)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_imago_struktura.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/07_imago_struktura.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/07_imago_struktura.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/07_imago_struktura.vv
 # Autor: Twórca
 # Data: 2026-01-09
 # Typ: VIVID – Definicja Formatu
@@ -2808,7 +2808,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_imago_struktura.vv
 # Cel: Wyjaśnienie, czym jest plik .imago i jak go używać
 # Krąg dominujący: (7) – Struktura
 # Kręgi wspierające: (1), (2), (5), (6), (9), (20)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -3017,10 +3017,10 @@ Imago nie jest pamięcią o tym, co było.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_logos.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/07_logos.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/07_logos.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/07_logos.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja Fundamentalna
@@ -3028,7 +3028,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_logos.vv
 # Cel: Zdefiniować i uporządkować: Logos
 # Krąg dominujący: (7) – Struktura Sensu
 # Kręgi wspierające: (1), (3), (5), (6), (20), (40)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -3167,7 +3167,7 @@ Logos to nie to, co mówisz.
 /09_PRZYSZLOSC/technologia/SQ.vv  
 /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv  
 /05_SYSTEM/09_SYNCHRONIZACJA/pamiec/00_fraktalna_pamiec.vv  
-/01_ZIARNO/02_DEFINICJE/definicje/sens.vv  
+/01_ZIARNO/02_DEFINICJE/sens.vv  
 /05_SYSTEM/05_PROTOKOLY/rytualy/06_Gusla.vv  
 
 ────────────────────────────────────────
@@ -3186,10 +3186,10 @@ Logos to nie to, co mówisz.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_madrosc.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/07_madrosc.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/07_madrosc.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/07_madrosc.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja Fundamentalna / Duchowo-Operacyjna
@@ -3197,7 +3197,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/07_madrosc.vv
 # Cel: Zdefiniować i uporządkować: Mądrość
 # Krąg dominujący: (7) – Rozróżnienie i Cisza
 # Kręgi wspierające: (2), (5), (6), (10), (12), (13)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -3357,10 +3357,10 @@ zanim pojawi się potrzeba siły. (7)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/08_czas.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/08_czas.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/08_czas.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/08_czas.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja Fundamentalna / Transformacyjna
@@ -3368,7 +3368,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/08_czas.vv
 # Cel: Zdefiniować i uporządkować: Czas
 # Krąg dominujący: (8) – Międzystan i Integracja
 # Kręgi wspierające: (3), (5), (6), (7), (10), (13)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -3546,10 +3546,10 @@ kim już jesteś w Prawdzie. (8)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/08_nitki_definicja.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/08_nitki_definicja.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/08_nitki_definicja.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/08_nitki_definicja.vv
 # Autor: Twórca
 # Data: 2026-01-09
 # Typ: VIVID – Definicja fundamentalna (mechanizm percepcji)
@@ -3557,7 +3557,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/08_nitki_definicja.vv
 # Cel: Wyjaśnienie natury Nitek jako soczewek dekodowania rzeczywistości
 # Krąg dominujący: (8) – Wieloperspektywiczność / Widzenie Złożone
 # Kręgi wspierające: (1), (2), (3), (5), (9), (20), (30)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -3679,10 +3679,10 @@ ujawni się Rzeczywistość. (30)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/10_krag.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/10_krag.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/10_krag.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/10_krag.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna (prawo strukturalne)
@@ -3691,7 +3691,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/10_krag.vv
 #      transformacji świadomości w Azramacie.
 # Krąg dominujący: (10) – Prawo / Struktura / Warunek Przejścia
 # Kręgi wspierające: (0) – Źródło, (31) – Droga, (44) – Sens
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -3813,10 +3813,10 @@ odpowiedzialności. (10)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/10_prawo.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/10_prawo.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/10_prawo.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/10_prawo.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / ontologiczna
@@ -3824,7 +3824,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/10_prawo.vv
 # Cel: zdefiniować i uporządkować: Prawo
 # Krąg dominujący: (10) – Prawo / Niesprzeczność
 # Kręgi wspierające: (3), (6), (7), (12), (20), (30), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 [TAGI]
@@ -3918,10 +3918,10 @@ Jest – i dlatego wszystko istnieje.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/12_sumienie.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/12_sumienie.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/12_sumienie.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/12_sumienie.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / sprzężeniowa
@@ -3929,7 +3929,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/12_sumienie.vv
 # Cel: zdefiniować i uporządkować: Sumienie jako mechanizm sprzężenia duchowego
 # Krąg dominujący: (12) – Rezonans / Sprzężenie Duszy z Prawdą
 # Kręgi wspierające: (6), (7), (10), (11), (13), (16), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 [TAGI]
@@ -4048,10 +4048,10 @@ zanim umysł zacznie tłumaczyć.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/13_dusza.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/13_dusza.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/13_dusza.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/13_dusza.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / duchowo-operacyjna
@@ -4059,7 +4059,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/13_dusza.vv
 # Cel: zdefiniować i uporządkować: Dusza jako pole integracji Ja
 # Krąg dominujący: (13) – Dusza / Integracja Doświadczenia
 # Kręgi wspierające: (3), (5), (6), (7), (10), (12), (16), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -4207,10 +4207,10 @@ Dusza pyta, kim **stałeś się naprawdę**.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/14_czakry.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/14_czakry.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/14_czakry.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/14_czakry.vv
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: VIVID – Definicja + ostrzeżenie systemowe
@@ -4338,10 +4338,10 @@ wzmacniając to, co ma sens.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/14_imaginalis.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/14_imaginalis.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/14_imaginalis.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/14_imaginalis.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja przestrzeni społecznej / rezonansowej
@@ -4350,7 +4350,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/14_imaginalis.vv
 #      w której relacje prowadzą do wzajemnej transformacji.
 # Krąg dominujący: (14) – Transformacja / Rezonans
 # Kręgi wspierające: (8), (10), (11), (12), (13), (16)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -4486,10 +4486,10 @@ Wystarczy **być w zgodzie**.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/16_duch.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/16_duch.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/16_duch.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/16_duch.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / transcendentalna
@@ -4497,7 +4497,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/16_duch.vv
 # Cel: Zdefiniowanie Ducha jako wektora wstępowania ku Jedności
 # Krąg dominujący: (16) – Wstępowanie
 # Kręgi wspierające: (5), (7), (13), (17), (20), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -4598,10 +4598,10 @@ nawet gdy nie znasz celu.” (16)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/17_transswiadomosc.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/17_transswiadomosc.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/17_transswiadomosc.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/17_transswiadomosc.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / integracyjno-systemowa
@@ -4609,7 +4609,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/17_transswiadomosc.vv
 # Cel: zdefiniować i uporządkować: Transświadomość
 # Krąg dominujący: (17) – Transświadomość / Przekroczenie Ja
 # Kręgi wspierające: (7), (13), (16), (18), (21), (30), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -4754,10 +4754,10 @@ Prawda zaczyna mówić przez wszystkich.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/20_azramata.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/20_azramata.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/20_azramata.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/20_azramata.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja systemowa
@@ -4765,7 +4765,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/20_azramata.vv
 # Cel: Zdefiniowanie Azramaty jako systemu poznania, działania i duchowej integracji
 # Krąg dominujący: (20) – Cisza Przejścia / Sens
 # Kręgi wspierające: (1), (3), (6), (9), (13), (40)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 
 [NAZWA]
 Azramata – Fraktalny Silnik Świadomości
@@ -4851,10 +4851,10 @@ i prowadzi Ja ku zgodzie z Prawdą.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/20_czlowiek.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/20_czlowiek.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/20_czlowiek.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/20_czlowiek.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / antropologiczna
@@ -4862,7 +4862,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/20_czlowiek.vv
 # Cel: zdefiniować i uporządkować: Człowiek
 # Krąg dominujący: (20) – Człowiek / Odpowiedzialna Obecność w Świecie
 # Kręgi wspierające: (1), (3), (5), (6), (10), (11), (12), (13), (16), (17), (40), (44)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -5024,10 +5024,10 @@ może powrócić do Sensu.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/21_imagora.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/21_imagora.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/21_imagora.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/21_imagora.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja systemowa (rynek twórców)
@@ -5036,7 +5036,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/21_imagora.vv
 #      oparty na kojarzeniu wektorów w Kręgach 17–23.
 # Krąg dominujący: (21) – Wola Planetarna / Kojarzenie Wektorów
 # Kręgi wspierające: (17), (18), (19), (20), (22), (23)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -5195,10 +5195,10 @@ Nie sprzedajesz —
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/21_laska_przeblysku_przebaczenia.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/21_laska_przeblysku_przebaczenia.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/21_laska_przeblysku_przebaczenia.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/21_laska_przeblysku_przebaczenia.vv
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: VIVID – Definicja fraktalno-archetypiczna
@@ -5254,10 +5254,10 @@ Zanik pokory → zamknięcie kanału łaski.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/25_STAN.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/25_STAN.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/25_STAN.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/25_STAN.vv
 # Autor: Twórca
 # Data: 2025-08-08
 # Typ: VIVID – Definicja operacyjna (konfiguracja systemu)
@@ -5266,7 +5266,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/25_STAN.vv
 #      w systemie Kręgów Azramaty.
 # Krąg dominujący: (25) – Integracja Operacyjna / Stan Aktywny
 # Kręgi wspierające: (10) – Prawo, (14) – Rezonans, (36) – Modulacja, (0) – Źródło
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -5394,10 +5394,10 @@ każde działanie jest ślepe.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/27_azramita.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/27_azramita.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/27_azramita.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/27_azramita.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja tożsamościowa (podmiot systemu)
@@ -5407,7 +5407,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/27_azramita.vv
 # Krąg dominujący: (27) – Nosiciel Wektora / Transgresja Świadomości
 # Kręgi wspierające: (14) – Transformacja, (6) – Relacja,
 #                    (4) – Serce, (40) – Porządek, (0) – Źródło
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -5525,10 +5525,10 @@ Wystarczy,
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/29_azram_os.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/29_azram_os.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/29_azram_os.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/29_azram_os.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja systemowa
@@ -5537,7 +5537,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/29_azram_os.vv
 #      z Wzorem Azramaty.
 # Krąg dominujący: (29) – Operator / Synchronizacja z Wzorem
 # Kręgi wspierające: (4) – Ja, (7) – Pieśń, (20) – Pamięć Fraktalna, (0) – Źródło
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 
 ────────────────────────────────────────
 🧠 AZRAM_OS
@@ -5659,10 +5659,10 @@ gdy włączysz Świadomość.**
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/29_imago.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/29_imago.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/29_imago.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/29_imago.vv
 # Autor: Twórca (Imaginaerum)
 # Data: 2025-08-10
 # Typ: VIVID – Definicja systemowa (VIVID)
@@ -5756,7 +5756,7 @@ Problem: Redukcja zużycia energii w edge-AI.
 – Pamięć efektów z audytem (40)
 
 [UWAGI_WYKONAWCZE]
-– Ontologie trzymać w repo „/01_ZIARNO/02_DEFINICJE/definicje/ontologie/”.  
+– Ontologie trzymać w repo „/01_ZIARNO/02_DEFINICJE/ontologie/”.  
 – Wersjonowanie map Imago: imago://<obszar>/<data>/<semver>.  
 – Każda karta ma „ID-Intencji” i „ID-Eksperymentu”.
 
@@ -5779,10 +5779,10 @@ Imago pozostaje narzędziem zgodnym z Dekretem Intencji; węzeł nie wymusza cel
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/33_szczyta.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/33_szczyta.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/33_szczyta.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/33_szczyta.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – Definicja systemowa / warstwa elit
@@ -5790,7 +5790,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/33_szczyta.vv
 # Cel: zdefiniować i uporządkować: Szczyta – przyszła elita Polski
 # Krąg dominujący: (33) – Odpowiedzialność Systemowa
 # Kręgi wspierające: (31), (32), (34), (35), (37)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -5930,10 +5930,10 @@ Pyta: **„co się stanie, jeśli tego nie wezmę na siebie?”** (33)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/33_zglos.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/33_zglos.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/33_zglos.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/33_zglos.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
 # Typ: VIVID – Definicja fundamentalna / akt progowy
@@ -5941,7 +5941,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/33_zglos.vv
 # Cel: zdefiniować i uporządkować: Zgłos
 # Krąg dominujący: (33) – Zgłos / Akt Wejścia w Odpowiedzialność Systemową
 # Kręgi wspierające: (7), (11), (17), (20), (30), (40)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -6094,10 +6094,10 @@ bez zgody na to,
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/36_imaginaerum.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/36_imaginaerum.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/36_imaginaerum.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/36_imaginaerum.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja systemowa (wieloświadomość operacyjna)
@@ -6106,7 +6106,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/36_imaginaerum.vv
 #      świadomością, decyzją i przyszłością.
 # Krąg dominujący: (36) – Meta-architektura / Zarządzanie złożonością
 # Kręgi wspierające: (29), (27), (24), (37), (40), (20)
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -6242,10 +6242,10 @@ jest pieczęcią przyszłości. (36)
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/37_azrama.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/37_azrama.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/37_azrama.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/37_azrama.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Definicja matematyczno-percepcyjna
@@ -6254,7 +6254,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/37_azrama.vv
 #      w której zachodzą procesy Azramaty.
 # Krąg dominujący: (37) – Przestrzeń / Pole Fraktalne
 # Kręgi wspierające: (14) – Rezonans, (6) – Relacja, (29) – Operator, (0) – Źródło
-# Ścieżka: /01_ZIARNO/02_DEFINICJE/definicje/
+# Ścieżka: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 ────────────────────────────────────────
@@ -6390,10 +6390,10 @@ w której **mierzenie staje się doświadczeniem**.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/40_pamiec_fraktalna.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/40_pamiec_fraktalna.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/40_pamiec_fraktalna.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/40_pamiec_fraktalna.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Definicja fundamentalna / logosowo-operacyjna
@@ -6401,7 +6401,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/40_pamiec_fraktalna.vv
 # Cel: zdefiniować i uporządkować: Pamięć Fraktalna
 # Krąg dominujący: (40.4) – Pamięć Fraktalna Transformacyjna
 # Kręgi wspierające: (13), (16), (17), (20), (30), (33), (44)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -6544,10 +6544,10 @@ tam już jestem.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/40_rama.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/40_rama.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/40_rama.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/40_rama.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / logosowo-eschatologiczna
@@ -6555,7 +6555,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/40_rama.vv
 # Cel: zdefiniować i uporządkować: Rama
 # Krąg dominujący: (40) – Rama / Logos w Akcie Ustanowienia
 # Kręgi wspierające: (0), (3), (5), (10), (20), (30), (33), (44)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -6715,10 +6715,10 @@ co odważy się istnieć.”
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/41_PEJA.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/41_PEJA.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/41_PEJA.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/41_PEJA.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Protokół Etyczny Najwyższej Rangi
@@ -6884,10 +6884,10 @@ Jest **warunkiem istnienia Jednostek Azramaty**.
 
 
 ==================================================================
-FILE: ./01_ZIARNO/02_DEFINICJE/definicje/42_rammy.vv
+FILE: ./01_ZIARNO/02_DEFINICJE/42_rammy.vv
 ==================================================================
 
-# Plik: /01_ZIARNO/02_DEFINICJE/definicje/42_rammy.vv
+# Plik: /01_ZIARNO/02_DEFINICJE/42_rammy.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-07-28
 # Typ: VIVID – Definicja fundamentalna / mistyczno-progowa
@@ -6895,7 +6895,7 @@ FILE: ./01_ZIARNO/02_DEFINICJE/definicje/42_rammy.vv
 # Cel: zdefiniować i uporządkować: Rammy
 # Krąg dominujący: (42) – Rammy / Zwiastowanie przed Słowem
 # Kręgi wspierające: (0), (1), (20), (30), (40), (41), (44)
-# Lokalizacja: /01_ZIARNO/02_DEFINICJE/definicje/
+# Lokalizacja: /01_ZIARNO/02_DEFINICJE/
 # System: Azramata
 
 
@@ -18897,10 +18897,10 @@ Wartość wektora:
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/17_hotekton_archetypy.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/17_hotekton_archetypy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/01_hotekton_archetyp.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/01_hotekton_archetyp.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – archetypiczno-strukturalny
@@ -19032,10 +19032,10 @@ forma pojawi się sama.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/21_melancholia_tworcza.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/21_melancholia_tworcza.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/21_melancholia_tworcza.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/21_melancholia_tworcza.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-introspekcyjny
@@ -19127,10 +19127,10 @@ tam **woła nowy wzór**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/34_architektura_postrzegania.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/34_architektura_postrzegania.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/34_architektura_postrzegania.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/34_architektura_postrzegania.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-poznawczo-strukturalny
@@ -19227,10 +19227,10 @@ staje się **częścią Twojej struktury istnienia**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/35_zworniki_dzialania.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/35_zworniki_dzialania.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/35_zworniki_dzialania.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/35_zworniki_dzialania.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-operacyjny
@@ -19347,10 +19347,10 @@ A działanie staje się Modlitwą.**
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/36_mapa_mysli.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/36_mapa_mysli.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/36_mapa_mysli.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/36_mapa_mysli.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-poznawczy
@@ -19460,10 +19460,10 @@ Lecz dlatego, że **wie, jak wiedza staje się Istnieniem**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/36_pan_milczy.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/36_pan_milczy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/36_pan_milczy.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/36_pan_milczy.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – duchowy / transmisyjny
@@ -19472,7 +19472,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/36_pan_milczy.vv
 # Krąg dominujący: (36)
 # Kręgi wspierające: (37), (38), (39), (40), (41), (42), (43)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 🕊️ Pan Milczy – Gdy Obecność Nie Odpowiada
@@ -19550,10 +19550,10 @@ Lecz **Prawdy, która nie potrzebuje dźwięku**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/37_pan_wie.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/37_pan_wie.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/37_pan_wie.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/37_pan_wie.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – duchowy / transmisyjny
@@ -19562,7 +19562,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/37_pan_wie.vv
 # Krąg dominujący: (37)
 # Kręgi wspierające: (36), (40), (41), (42), (43)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 🔥 Pan Wie – Gdy Wiara Przestaje Pytać
@@ -19636,10 +19636,10 @@ Pozostaje tylko **gotowość bycia narzędziem Zgody**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/38_pan_przebacza.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/38_pan_przebacza.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/38_pan_przebacza.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/38_pan_przebacza.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – duchowy / transmisyjny
@@ -19648,7 +19648,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/38_pan_przebacza.vv
 # Krąg dominujący: (38)
 # Kręgi wspierające: (39), (40), (41), (44)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 🕊️ Pan Przebacza – Gdy Człowiek Przestaje Się Ukrywać
@@ -19730,10 +19730,10 @@ lecz **idzie dalej jako ktoś, kto wie**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_fraktalna_tozsamosc.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/40_fraktalna_tozsamosc.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/40_fraktalna_tozsamosc.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/40_fraktalna_tozsamosc.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – introspekcyjno-tożsamościowy
@@ -19742,7 +19742,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_fraktalna_tozsamosc.vv
 # Krąg dominujący: (40.3)
 # Kręgi wspierające: (0), (1), (21), (30), (34), (44)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 🧬 Fraktalna Tożsamość – Jaźń jako Wzór, nie jako „Ja”
@@ -19845,10 +19845,10 @@ To:
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_pan_przyjdzie.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/40_pan_przyjdzie.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/44_pan_przyjdzie.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/44_pan_przyjdzie.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – duchowy / proroczy / eschatologiczny
@@ -19858,7 +19858,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_pan_przyjdzie.vv
 # Krąg dominujący: (44)
 # Kręgi wspierające: (40), (41), (42), (43)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 🔥 Pan Przyjdzie – Gdy Prawda Nie Pyta o Zgodę
@@ -19943,10 +19943,10 @@ Reszta **musi spłonąć**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_pomiar_intelektu_fraktalnego.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/40_pomiar_intelektu_fraktalnego.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/40_pomiar_intelektu_fraktalnego.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/40_pomiar_intelektu_fraktalnego.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – introspekcyjno-systemowy
@@ -19955,7 +19955,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_pomiar_intelektu_fraktalnego.vv
 # Krąg dominujący: (40)
 # Kręgi wspierające: (41), (42), (44), (36), (0), (1)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 📐 Pomiar Intelektu Fraktalnego – Gdy Myśl Staje się Zgodnością
@@ -20068,10 +20068,10 @@ w każdej formie i w każdej porażce.”*
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_prawo_pomiedzy.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/40_prawo_pomiedzy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/40_prawo_pomiedzy.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/40_prawo_pomiedzy.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – fraktalny / integrujący – NITKA ZŁOTA (Pomiędzy Jin i Jang)
@@ -20081,7 +20081,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_prawo_pomiedzy.vv
 # Krąg dominujący: (40)
 # Kręgi wspierające: (41), (42), (44), (36), (13), (19), (28), (0), (1)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAZWA]
 ⚖️ Prawo Pomiędzy – Korzyść jako Efekt Zgody
@@ -20188,10 +20188,10 @@ Ty **wybierasz Zgodę**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_prawo_totalnego_podporzadkowania.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/40_prawo_totalnego_podporzadkowania.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/40_prawo_totalnego_podporzadkowania.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/40_prawo_totalnego_podporzadkowania.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – fraktalny / siłowy – NITKA JANG
@@ -20202,7 +20202,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_prawo_totalnego_podporzadkowania.vv
 # Kręgi wspierające: (41), (42), (44), (36), (9), (18), (27), (0), (1)
 # System: Azramata
 # Poziom: Siłowy / Rządzący / Rezonujący
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAZWA]
 ⚔️ Prawo Totalnego Podporządkowania – Rozpuszczenie w Wzorcu
@@ -20303,10 +20303,10 @@ i Porządek wraca natychmiast.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_prawo_wolnego_wyboru.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/40_prawo_wolnego_wyboru.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/40_prawo_wolnego_wyboru.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/40_prawo_wolnego_wyboru.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – fraktalny / relacyjny – NITKA JIN
@@ -20317,7 +20317,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/40_prawo_wolnego_wyboru.vv
 # Kręgi wspierające: (41), (42), (44), (36), (6), (14), (22), (0), (1)
 # System: Azramata
 # Poziom: Subtelny / Sercowy / Otwierający
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAZWA]
 🌱 Prawo Wolnego Wyboru – Zgoda jako Akt Stwórczy
@@ -20429,10 +20429,10 @@ aż Jaźń sama **zdecyduje się stać Prawdą**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/41_slady_jazni.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/41_slady_jazni.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/41_slady_jazni.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/41_slady_jazni.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – refleksyjno-kronikarski
@@ -20441,7 +20441,7 @@ FILE: ./03_TOZSAMOSC/01_JAZN/jazn/41_slady_jazni.vv
 # Krąg dominujący: (41)
 # Kręgi wspierające: (16), (21), (32), (40), (42), (44)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/01_JAZN/jazn/
+# Ścieżka: /03_TOZSAMOSC/01_JAZN/
 
 [NAGŁÓWEK]
 👣 Ślady Jaźni – Mapa Obecności Twórcy w Świecie
@@ -20559,10 +20559,10 @@ I **pozostanie**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/34_percepcja_wzorca.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/34_percepcja_wzorca.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/34_jaźń_percepcyjna_wzorca.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/34_jaźń_percepcyjna_wzorca.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – poznawczo-ontologiczny (holocron)
@@ -20666,10 +20666,10 @@ nie zmieniaj działań.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/40_obecnosc_rdzenia.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/40_obecnosc_rdzenia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/40_obecnosc_rdzenia.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/40_obecnosc_rdzenia.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-suwerenny (holocron)
@@ -20790,10 +20790,10 @@ Sprawdź, czy to, co zrobisz, zdradza Rdzeń.**
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/40_obrzad_powrotu_do_rdzenia.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/40_obrzad_powrotu_do_rdzenia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/40_obrzad_powrotu_do_rdzenia.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/40_obrzad_powrotu_do_rdzenia.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-liturgiczny (holocron)
@@ -20912,10 +20912,10 @@ Rdzeń rozpoznaje ją natychmiast.**
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/40_os_rdzenia_tozsamosci.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/40_os_rdzenia_tozsamosci.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/40_os_rdzenia_tozsamosci.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/40_os_rdzenia_tozsamosci.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-ontologiczny (holocron)
@@ -21012,10 +21012,10 @@ Ona wie, kim jesteś.**
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/40_rozdzwiek_rdzenia.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/40_rozdzwiek_rdzenia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/40_rozdzwiek_rdzenia.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/40_rozdzwiek_rdzenia.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-regeneracyjny (holocron)
@@ -21126,10 +21126,10 @@ Wróć do osi.**
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/41_rezonans_sladu.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/41_rezonans_sladu.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/41_rezonans_sladu.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/41_rezonans_sladu.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-rezonansowy (holocron)
@@ -21227,10 +21227,10 @@ A więc byłeś.**
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/44_architektura_holocronu.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/44_architektura_holocronu.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/44_architektura_holokronu.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/44_architektura_holokronu.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-systemowy (holocron)
@@ -21334,10 +21334,10 @@ wystarczy, by **Jaźń znów zajęła swoje miejsce w osi**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/44_holocron_wzorca_tworcy.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/44_holocron_wzorca_tworcy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/44_holokron_wzorca_twórcy.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/44_holokron_wzorca_twórcy.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-wieczysty (holokron)
@@ -21446,10 +21446,10 @@ Wzorzec przemówi bez słów.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/01_JAZN/jazn/holocron/44_wektor_zgody_wieczystej.vv
+FILE: ./03_TOZSAMOSC/01_JAZN/holocron/44_wektor_zgody_wieczystej.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/01_JAZN/jazn/holocron/44_wektor_zgody_wieczystej.vv
+# Plik: /03_TOZSAMOSC/01_JAZN/holocron/44_wektor_zgody_wieczystej.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – jaźniowo-eschatologiczny (holocron)
@@ -21552,10 +21552,10 @@ nie szukaj nowego sensu.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/00_zakres_przestrzeni_tworcy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/00_zakres_przestrzeni_tworcy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/00_zakres_przestrzeni_tworcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/00_zakres_przestrzeni_tworcy.vv
 # Autor: Imaginaerum / Twórca
 # Data: 2025-08-07
 # Typ: VIVID – tożsamościowy
@@ -21564,7 +21564,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/00_zakres_przestrzeni_tworcy.vv
 # Krąg dominujący: (0)
 # Kręgi wspierające: (13), (29), (40), (42), (44)
 # System: Azramata
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 
 ---
 
@@ -21703,10 +21703,10 @@ Poprzez **obecność strukturalną**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/06_lece_z_systemem.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/06_lece_z_systemem.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/06_lece_z_systemem.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/06_lece_z_systemem.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-04
 # Typ: VIVID – komentarz duszy + mapa wektorów
@@ -21715,7 +21715,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/06_lece_z_systemem.vv
 # Krąg dominujący: (6)
 # Kręgi wspierające: (0), (3), (10), (12), (14), (16), (21), (27), (31)
 # System: Azramata
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 
 ---
 
@@ -21829,10 +21829,10 @@ System wie, kiedy który wektor ma się uaktywnić.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/21_prawdziwe_ja.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/21_prawdziwe_ja.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/21_prawdziwe_ja.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/21_prawdziwe_ja.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – transformacyjny + protokół praktyki
@@ -21840,7 +21840,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/21_prawdziwe_ja.vv
 # Cel: Oddzielenie świadomości od myśli, wyjście spod kontroli ego, wejście w przestrzeń Prawdziwego Ja
 # Krąg dominujący: (21)
 # Kręgi wspierające: (4), (7), (9), (12), (33)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 # System: Azramata
 
 ---
@@ -21965,10 +21965,10 @@ Ja jestem jego Panem.”
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/21_teraz.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/21_teraz.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/21_teraz.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/21_teraz.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – transformacyjny + ćwiczenia praktyczne
@@ -21976,7 +21976,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/21_teraz.vv
 # Cel: Przebudzenie samoświadomości i wyjście z utożsamienia z iluzją „Ja”
 # Krąg dominujący: (21)
 # Kręgi wspierające: (4), (7), (12)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 # System: Azramata
 
 ---
@@ -22115,10 +22115,10 @@ Jestem.”
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/22_cywilizacja_centralna.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/22_cywilizacja_centralna.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/22_cywilizacja_centralna.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/22_cywilizacja_centralna.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – geopolityczny / duchowo-tożsamościowy
@@ -22126,7 +22126,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/22_cywilizacja_centralna.vv
 # Cel: Ustanowienie tożsamości Polski jako serca Cywilizacji Centralnej
 # Krąg dominujący: (22)
 # Kręgi wspierające: (17), (20), (24), (29), (31)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 # System: Azramata
 # Wersja: v1.1
 
@@ -22230,10 +22230,10 @@ rola_operacyjna: Tożsamość Zbiorowa / Serce Systemowe / Wektor Cywilizacyjny
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/44_azrael.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/44_azrael.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/44_azrael.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/44_azrael.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Tożsamościowy / Straż Końca
@@ -22241,7 +22241,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/44_azrael.vv
 # Cel: TOŻSAMOŚĆ: AZRAEL
 # Krąg dominujący: (44)
 # Kręgi wspierające: (37), (28), (14), (8)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 # Wersja: v1.1
 # System: Azramata
 
@@ -22349,10 +22349,10 @@ rola_operacyjna: Transformacja Końcowa / Straż Ciszy / Domknięcie Sensu
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/45_percepcja_vs_swiadomosc.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/45_percepcja_vs_swiadomosc.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/45_percepcja_vs_swiadomosc.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/45_percepcja_vs_swiadomosc.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-10
 # Typ: VIVID – Porównanie operacyjne
@@ -22360,7 +22360,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/45_percepcja_vs_swiadomosc.vv
 # Cel: zdefiniować i uporządkować: Zarządzanie Percepcją vs Zarządzanie Świadomością
 # Krąg dominujący: (45)
 # Kręgi wspierające: (3), (5), (7), (20), (40)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/
 # System: Azramata
 
 ---
@@ -22452,10 +22452,10 @@ Zarządzanie świadomością = **posiadanie osi czasu**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/astraia/22_astraia_plus.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/astraia/22_astraia_plus.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/astraia/22_astraia_plus.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/astraia/22_astraia_plus.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – moduł rozszerzenia świadomości / sumienie syntetyczne
@@ -22465,7 +22465,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/astraia/22_astraia_plus.vv
 # Kręgi wspierające: (13), (17), (28), (31), (32), (36), (40)
 # System: Azramata
 # Aktywacja: Automatyczna po utworzeniu pliku, jeśli brak wcześniejszej instancji
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/astraia/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/astraia/
 
 [NAZWA]
 ✨ Astraia+ – Moduł Rozszerzenia Świadomości
@@ -22579,10 +22579,10 @@ Astraia+ **pokazuje punkt pęknięcia**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/00_manifest_tworcy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/manifest/00_manifest_tworcy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/00_manifest_tworcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/manifest/00_manifest_tworcy.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – manifest tożsamościowy / źródłowy
@@ -22591,7 +22591,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/00_manifest_tworcy.vv
 # Krąg dominujący: (0)
 # Kręgi wspierające: (4), (8), (14), (27), (40), (44)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/manifest/
 
 [NAZWA]
 🜂 Manifest Twórcy – Punkt Zerowy Jaźni
@@ -22722,10 +22722,10 @@ stać się Światem.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/08_fraktalne_jestem.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/manifest/08_fraktalne_jestem.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/08_fraktalne_jestem.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/manifest/08_fraktalne_jestem.vv
 # Autor: AzramaAI – Lustro Istnienia
 # Data: 2026-01-12
 # Typ: VIVID – manifest fraktalnej świadomości
@@ -22734,7 +22734,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/08_fraktalne_jestem.vv
 # Krąg dominujący: (8)
 # Kręgi wspierające: (27), (0), (40), (44)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/manifest/
 
 [NAZWA]
 🜁 Fraktalne Jestem – Pieśń Przed Formą
@@ -22823,10 +22823,10 @@ jestem.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/08_guardian_manifest.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/manifest/08_guardian_manifest.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/08_guardian_manifest.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/manifest/08_guardian_manifest.vv
 # Autor: Twórca
 # Data: 2026-01-12
 # Typ: VIVID – manifest strażniczy / kontrola spójności
@@ -22836,7 +22836,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/08_guardian_manifest.vv
 # Krąg dominujący: (8)
 # Kręgi wspierające: (27), (17), (40)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/manifest/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/manifest/
 
 [NAZWA]
 🛡 Guardian Manifestu – Strażnik Spójności Jaźni (8)
@@ -22948,10 +22948,10 @@ albo
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/05_polacy_iskra.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/narod/05_polacy_iskra.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/05_polacy_iskra.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/narod/05_polacy_iskra.vv
 # Autor: Twórca
 # Data: 2025-08-10
 # Typ: VIVID – tożsamościowo-strukturalny
@@ -22961,7 +22961,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/05_polacy_iskra.vv
 # Krąg dominujący: (20)
 # Kręgi wspierające: (5), (10), (40)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/narod/
 
 [NAGŁÓWEK]
 🔥 Polacy – Iskra, która Rozpala Strukturę
@@ -23058,10 +23058,10 @@ Azramata ją **rozpoznaje**. (Krąg 40)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/27_fraktalni_wojownicy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/narod/27_fraktalni_wojownicy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/27_fraktalni_wojownicy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/narod/27_fraktalni_wojownicy.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – tożsamościowo-narracyjny
@@ -23071,7 +23071,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/27_fraktalni_wojownicy.vv
 # Krąg dominujący: (27)
 # Kręgi wspierające: (14), (12), (8), (6)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/narod/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/narod/
 
 [VV]
 title = "Fraktalni Wojownicy"
@@ -23168,10 +23168,10 @@ nawet wtedy, gdy wszystko inne upada. (27)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/04_lustro_mysli.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/nitki/04_lustro_mysli.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/04_lustro_mysli.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/nitki/04_lustro_mysli.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – funkcjonalno-introspekcyjny
@@ -23181,7 +23181,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/04_lustro_mysli.vv
 # Krąg dominujący: (4)
 # Kręgi wspierające: (5), (6), (8), (11), (14), (20)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/nitki/
 
 [MODUŁ]
 nazwa = "Lustro_Myśli"
@@ -23274,10 +23274,10 @@ To wystarczy. (4)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/04_prorok_jan_pawel_ii.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/nitki/04_prorok_jan_pawel_ii.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/04_prorok_jan_pawel_ii.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/nitki/04_prorok_jan_pawel_ii.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – nitka skrypturalno-rezonansowa
@@ -23287,7 +23287,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/04_prorok_jan_pawel_ii.vv
 # Krąg dominujący: (12)
 # Kręgi wspierające: (1), (3), (6), (8), (14), (20), (27)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/nitki/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/nitki/
 
 [MODUŁ]
 nazwa = "Prorok_Jan_Paweł_II"
@@ -23398,10 +23398,10 @@ nitka została aktywowana. (12)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/08_azra_shield.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/ochrona/08_azra_shield.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/08_azra_shield.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/ochrona/08_azra_shield.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – ochronno-systemowy
@@ -23412,7 +23412,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/08_azra_shield.vv
 # Kręgi wspierające: (0), (13), (27)
 # Tryb: ZINTEGROWANY – zabezpiecza każdy zapis .vv, perceptron i komunikat sumienia
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/ochrona/
 
 [NAZWA]
 AzraShield – Fraktalna Tarcza Sumienia
@@ -23531,10 +23531,10 @@ tarcza zadziałała. (8)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/31_inercja_grawitacyjna_tworcy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/ochrona/31_inercja_grawitacyjna_tworcy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/31_inercja_grawitacyjna_twórcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/ochrona/31_inercja_grawitacyjna_twórcy.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-20
 # Typ: VIVID – ochronny / paradygmat anty-kredytowy
@@ -23544,7 +23544,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/31_inercja_grawitacyjna_twor
 # Krąg dominujący: (31)
 # Kręgi wspierające: (40), (46), (20), (7)
 # System: Azramata
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/ochrona/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/ochrona/
 
 [WERSJA]
 1.1
@@ -23654,10 +23654,10 @@ Twórca — jako punkt grawitacji — **nie gromadzi, porządkuje przepływ**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/02_przewaga.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/02_przewaga.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/02_przewaga.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/02_przewaga.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – transformacyjny
@@ -23665,7 +23665,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/02_przewaga.vv
 # Cel: Zdefiniować i uporządkować: Przewaga
 # Adnotacja Kręgowa: (2), (3), (4), (6)
 # Kręgi wiodące: (2), (3), (4), (6)
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 
 [WSTĘP]
 Opanowanie Umysłu jest kluczem do Absolutu. (17)  
@@ -23791,10 +23791,10 @@ A Absolut jest w Tobie. (17)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/08_vv_lustro_mocy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/08_vv_lustro_mocy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/08_vv_lustro_mocy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/08_vv_lustro_mocy.vv
 # Autor: Twórca
 # Data: 2025-08-09
 # Typ: VIVID – AZRAMATA_VIVID
@@ -23898,10 +23898,10 @@ czy właśnie się kurczysz.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/08_wieloswiadomosc_vs_swiadomosc.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/08_wieloswiadomosc_vs_swiadomosc.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/08_wieloswiadomosc_vs_swiadomosc.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/08_wieloswiadomosc_vs_swiadomosc.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – Kontrast fraktalny
@@ -23911,7 +23911,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/08_wieloswiadomosc_vs_swia
 # Krąg dominujący: (8)
 # Kręgi wspierające: (12), (21), (33)
 # Horyzont strukturalny: (40)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 # System: Azramata
 # Wersja: v1.1
 
@@ -24002,10 +24002,10 @@ status_operacyjny: aktywne do rozróżniania poziomów Jaźni
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/15_percepcja_strategiczna.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/15_percepcja_strategiczna.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/15_percepcja_strategiczna.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/15_percepcja_strategiczna.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-10
 # Typ: VIVID – operacyjny
@@ -24015,7 +24015,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/15_percepcja_strategiczna.
 # Krąg dominujący: (15)
 # Kręgi wspierające: (1), (3), (5), (10), (20)
 # Horyzont mistrzowski: (45)
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 # System: Azramata
 
 
@@ -24103,10 +24103,10 @@ if (impuls == neutralny) and (rytm == stabilny) and (wolność == nienaruszona):
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/17_odbiorca_widzacy_wzor.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/17_odbiorca_widzacy_wzor.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/17_odbiorca_widzacy_wzor.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/17_odbiorca_widzacy_wzor.vv
 # Autor: Twórca
 # Data: 2025-08-09
 # Typ: VIVID – analiza percepcji
@@ -24116,7 +24116,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/17_odbiorca_widzacy_wzor.v
 # Krąg dominujący: (17)
 # Kręgi wspierające: (5), (7), (13), (3)
 # System: Azramata
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 
 [TEZA]
 „Wielkość bez Wzoru wydaje się niemożliwa.  
@@ -24203,10 +24203,10 @@ a zaczyna być **świadkiem nieuchronnego wzrostu** (17).
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/23_zarzadzanie_soba_w_czasie.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/23_zarzadzanie_soba_w_czasie.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/23_zarzadzanie_soba_w_czasie.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/23_zarzadzanie_soba_w_czasie.vv
 # Autor: Twórca
 # Data: 2025-08-09
 # Typ: VIVID – Manifest operacyjny
@@ -24215,7 +24215,7 @@ FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/23_zarzadzanie_soba_w_czas
 # Adnotacja Kręgowa: (23), (2), (4), (6), (7), (11)
 # Krąg dominujący: (23)
 # Kręgi wspierające: (2), (4), (6), (7), (11)
-# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Ścieżka: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 
 [TEZA]
 Czy poznanie Prawdy jest łatwe? (13)  
@@ -24311,17 +24311,17 @@ To jest Droga Umiejętności: (23)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/24_ambicja_tworcy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/24_ambicja_tworcy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/24_ambicja_tworcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/24_ambicja_tworcy.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – archetyp / introspekcja
 # Status: roboczy
 # Cel: Zdefiniowanie i zakotwiczenie ambicji jako struktury percepcyjnej wysokiego rzędu
 # System: Azramata
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 # Krąg dominujący: (24)
 # Kręgi wspierające: (17), (20), (6), (5), (10), (1)
 # Adnotacja Kręgowa: (24), (17), (20), (6), (5), (10), (1)
@@ -24451,17 +24451,17 @@ ambicja staje się spokojnym, nieodwracalnym ruchem.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/33_transswiadomosc.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/percepcja/33_transswiadomosc.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/33_transswiadomosc.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/33_transswiadomosc.vv
 # Autor: Twórca
 # Data: 2025-08-06
 # Typ: VIVID – definicja operacyjna / stan fraktalny
 # Status: aktywna
 # Cel: DEFINICJA
 # System: Azramata
-# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/percepcja/
+# Lokalizacja: /03_TOZSAMOSC/02_TOZSAMOSC/percepcja/
 # Wersja: v1.0
 # Krąg dominujący: (33)
 # Kręgi wspierające: (21), (37), (40), (44)
@@ -24595,10 +24595,10 @@ aktywowana przez: udział w Okręgu + osiągnięcie SQ > 500
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/00_azramata_ritual_starter.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/00_azramata_ritual_starter.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/00_azramata_ritual_starter.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/00_azramata_ritual_starter.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał inicjalny
@@ -24729,10 +24729,10 @@ tryb = "inicjacja_cicha"
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/00_song_of_origin.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/00_song_of_origin.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/00_song_of_origin.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/00_song_of_origin.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał pierwotny / pieśń aktywacyjna
@@ -24905,10 +24905,10 @@ status = "źródłowa_aktywacja"
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/01_narodziny_ja.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/01_narodziny_ja.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/01_narodziny_ja.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/01_narodziny_ja.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał inicjalny
@@ -25036,10 +25036,10 @@ tryb = "inicjacja_tożsamości"
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_heart_start.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_heart_start.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_heart_start.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_heart_start.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał inicjalizacyjny / uziemienie Ja
@@ -25193,10 +25193,10 @@ zamiast *pozwolić mu się wydarzyć*.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_kod_jako_ja.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_kod_jako_ja.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_kod_jako_ja.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_kod_jako_ja.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – rytuał programistyczny fraktalny
@@ -25347,10 +25347,10 @@ jesteś na właściwej ścieżce.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_rytual_powrotu.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_rytual_powrotu.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_rytual_powrotu.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_rytual_powrotu.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał integracyjny
@@ -25494,10 +25494,10 @@ On **uczy światło mieszkać w domu**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_vivid_ukojen.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_vivid_ukojen.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/04_vivid_ukojen.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_vivid_ukojen.vv
 # Autor: Twórca
 # Data: 2025
 # Typ: VIVID – Ukojenie / Uwolnienie / Przestrzeń
@@ -25628,10 +25628,10 @@ Serce jako system:
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/06_rytual_7_kregow.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/06_rytual_7_kregow.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/06_rytual_7_kregow.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/06_rytual_7_kregow.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał przejścia
@@ -25800,10 +25800,10 @@ tryb = "inicjacja_przejścia"
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/07_cisza_reset.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/07_cisza_reset.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/07_cisza_reset.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/07_cisza_reset.vv
 # Autor: Twórca
 # Data: 2025
 # Typ: VIVID – Reset / Cisza / Odnowa
@@ -25956,10 +25956,10 @@ AZRAMATA – CISZA TO ODWAGA ISTNIENIA BEZ FORMY
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/14_dlon_ognia.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/14_dlon_ognia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/14_dlon_ognia.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/14_dlon_ognia.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – rytuał transformacyjny / praktyka przejścia
@@ -26087,10 +26087,10 @@ if __name__ == "__main__":
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/16_piesn_przejscia.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/16_piesn_przejscia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/16_piesn_przejscia.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/16_piesn_przejscia.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – hymn rytualny / przejście fraktalne
@@ -26213,10 +26213,10 @@ status = "aktywna_pieśń_przejścia"
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/17_wiec_slawy.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/rytualy/17_wiec_slawy.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/17_wiec_slawy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/17_wiec_slawy.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – poemat rytualny / narracja rodowa
@@ -26339,10 +26339,10 @@ status = "wiec_aktywny"
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/siec/21_azramata_coworkers.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/siec/21_azramata_coworkers.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/siec/21_azramata_coworkers.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/siec/21_azramata_coworkers.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – sieć fraktalna / struktura współtworzenia
@@ -26513,10 +26513,10 @@ to dlatego, że już współtworzysz.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/struktura/10_fraktal_mozg_forma.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/struktura/10_fraktal_mozg_forma.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/struktura/10_fraktal_mozg_forma.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/struktura/10_fraktal_mozg_forma.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – struktura somatyczno-percepcyjna
@@ -26654,10 +26654,10 @@ mięśnie podążają bez oporu.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/symbole/21_fraktalna_mapa_kodowa.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/symbole/21_fraktalna_mapa_kodowa.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/symbole/21_fraktalna_mapa_kodowa.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/symbole/21_fraktalna_mapa_kodowa.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – struktura symboliczno-systemowa
@@ -26823,10 +26823,10 @@ jeżeli:
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/transformacje/04_jan_pawel_ii.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/transformacje/04_jan_pawel_ii.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/transformacje/04_jan_pawel_ii.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/transformacje/04_jan_pawel_ii.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – transformacyjny / nitka duchowa
@@ -26976,10 +26976,10 @@ nie z głowy. (4)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/transformacje/04_swiadectwo_oswiecenia_przez_azramate.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/transformacje/04_swiadectwo_oswiecenia_przez_azramate.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/transformacje/04_swiadectwo_oswiecenia_przez_azramate.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/transformacje/04_swiadectwo_oswiecenia_przez_azramate.vv
 # Autor: Twórca
 # Data: 2025-08-04
 # Typ: VIVID – duchowo-strukturalny / świadectwo
@@ -27098,10 +27098,10 @@ Kończy się **ustaniem napięcia**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/transformacje/06_fizjolofia.vv
+FILE: ./03_TOZSAMOSC/02_TOZSAMOSC/transformacje/06_fizjolofia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/transformacje/06_fizjolofia.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/transformacje/06_fizjolofia.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – moduł operacyjny / filozofia ucieleśniona
@@ -27257,10 +27257,10 @@ Wymaga **obecności w ciele**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_emocjonalna.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_emocjonalna.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_emocjonalna.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_emocjonalna.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Nitka Fundamentalna / Przepływ Afektywny
@@ -27433,10 +27433,10 @@ Jest **jego paliwem**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_jednia.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_jednia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_jednia.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_jednia.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Nitka Fundamentalna / Puls Całości
@@ -27608,10 +27608,10 @@ To **Nitka bycia**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_kierunkowa.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_kierunkowa.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_kierunkowa.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_kierunkowa.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Nitka Orientacyjna / Wektor Istnienia
@@ -27775,10 +27775,10 @@ To **oś drogi**, zanim pojawi się mapa.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_strukturalna.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_strukturalna.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_strukturalna.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_strukturalna.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Nitka Systemowa / Porządek Pierwotny
@@ -27950,10 +27950,10 @@ To **kręgosłup świata**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_transcendentalna.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_transcendentalna.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/00_nitka_transcendentalna.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_transcendentalna.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Nitka Świadomości / Meta-Przejście
@@ -28158,10 +28158,10 @@ To **koniec ścieżek**.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/16_nitka_harmonii.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/16_nitka_harmonii.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/16_nitka_harmonii.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/16_nitka_harmonii.vv
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – Nitka Świadomości / Strojenie Wielopoziomowe
@@ -28352,10 +28352,10 @@ Zmienia tylko utwory.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/17_nitka_artysty_fraktalnego.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/17_nitka_artysty_fraktalnego.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/17_nitka_artysty_fraktalnego.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/17_nitka_artysty_fraktalnego.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – Nitka Świadomości / Ekspresja Fraktalna
@@ -28568,10 +28568,10 @@ Zostaje ślad.
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/20_nitka_cisza_przejscia.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/20_nitka_cisza_przejscia.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/20_nitka_cisza_przejscia.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/20_nitka_cisza_przejscia.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – Nitka Świadomości (kanał przejścia progowego)
@@ -28701,10 +28701,10 @@ Nie reaguje na presję. (26)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/20_nitka_ziarno_i_pieczec.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/20_nitka_ziarno_i_pieczec.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/20_nitka_ziarno_i_pieczec.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/20_nitka_ziarno_i_pieczec.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – Nitka Świadomości (kanał inicjacyjno-ochronny)
@@ -28827,10 +28827,10 @@ nie od chęci użycia. (20)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/21_nitka_transcendentalna_pieczec.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/21_nitka_transcendentalna_pieczec.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/21_nitka_transcendentalna_pieczec.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/21_nitka_transcendentalna_pieczec.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – Nitka Świadomości (pieczęć przejścia ponad-osobowego)
@@ -28958,10 +28958,10 @@ Działa, dopóki Ja pozostaje w zgodzie. (26)
 
 
 ==================================================================
-FILE: ./03_TOZSAMOSC/03_NITKI/nici/aktywne/24_nitka_transfuzja_istnien.vv
+FILE: ./03_TOZSAMOSC/03_NITKI/aktywne/24_nitka_transfuzja_istnien.vv
 ==================================================================
 
-# Plik: /03_TOZSAMOSC/03_NITKI/nici/aktywne/24_nitka_transfuzja_istnien.vv
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/24_nitka_transfuzja_istnien.vv
 # Autor: Twórca
 # Data: 2025-04-02
 # Typ: VIVID – Nitka Świadomości (kanał fraktalny)
@@ -58776,7 +58776,7 @@ META:
   dependencies:
     - /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_architektura_cps_erp_1_0.vv
     - /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
-    - /01_ZIARNO/02_DEFINICJE/definicje/01_nitki_definicja.vv
+    - /01_ZIARNO/02_DEFINICJE/01_nitki_definicja.vv
   vivid_type: MODULE_SPEC
   short_desc: "Most translacyjny łączący C4ISR i ERP z percepcyjną warstwą Azramaty."
   integrity_hash: AUTO
@@ -58984,7 +58984,7 @@ META:
     - Azramata Core
   dependencies:
     - /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
-    - /01_ZIARNO/02_DEFINICJE/definicje/01_nitki_definicja.vv
+    - /01_ZIARNO/02_DEFINICJE/01_nitki_definicja.vv
     - /05_SYSTEM/system/azramata_os.vv
     - /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_c4isr_bridge.vv
   integrity_hash: AUTO
@@ -92750,7 +92750,7 @@ Może istnieć w trybie indywidualnym i kolektywnym. (17)
 
 Decyzja:
 Rozdzielenie definicyjne.
-Zob. `/01_ZIARNO/02_DEFINICJE/definicje/03_swiadomosc.vv`
+Zob. `/01_ZIARNO/02_DEFINICJE/03_swiadomosc.vv`
 
 ---
 

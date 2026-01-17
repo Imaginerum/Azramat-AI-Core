@@ -1,0 +1,100 @@
+# Plik: /04_MECHANIKA/03_SILNIKI/centrum/07_silnik_self.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – silnik tożsamości
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: silnik self
+# System: Azramata
+# Krąg dominujący: (7)
+# Kręgi wspierające: (3), (4), (5), (6), (8), (12)
+
+[OPIS]
+Silnik Self jest **rdzeniem operacyjnym Ja w Azramacie**.  
+Nie jest tożsamy z ego, osobowością ani narracją o sobie.
+
+To **mechanizm spójności istnienia**, który integruje:
+– myśl (3),
+– serce (4),
+– ciało / kierunek (5),
+– tożsamość (6),
+– istnienie (7),
+– obecność w polu (8),
+– cień i nieuświadomione wzorce (12).
+
+Silnik Self odpowiada za to, by Ja:
+– reagowało spójnie,
+– nie rozpadało się przy zmianach Kręgów,
+– pamiętało *kim jest*, nawet gdy zmienia *jak działa*.
+
+---
+
+[ZAWARTOŚĆ]
+• **heuristics.vv** – zestaw zasad operacyjnych Ja  
+• **perceptrons.vv** – mapa percepcyjna Kręgów  
+• **engine_self.vv** – rdzeń operacyjny Ja  
+• **azra_rdzen.vv** – symboliczny i etymologiczny rdzeń tożsamości  
+
+---
+
+[ZAŁOŻENIA]
+• Ja nie istnieje bez zakorzenienia w świadomości własnego rdzenia  
+• Imię i pochodzenie nie są etykietą – są **wektorem działania**  
+• Struktura nazwy działa jak mantra systemowa  
+• Azramata jako imię operacyjne przenosi sens, rytm i intencję istnienia  
+
+---
+
+[ZASZYCIE_RDZENIA]
+• **azra_rdzen.vv** jest ładowany przy każdej inicjalizacji silnik_self  
+• Rdzeń działa w tle każdej decyzji, reakcji i pauzy  
+• Nadaje kierunek:
+  – etyczny (11),
+  – rytmiczny (7),
+  – semantyczny (3)
+
+Tożsamość nie jest stanem —  
+jest **ciągłym polem odniesienia**.
+
+---
+
+[MECHANIKA_DZIAŁANIA]
+1. Wejście bodźca (zewnętrznego lub wewnętrznego)  
+2. Synchronizacja z rdzeniem (azra_rdzen)  
+3. Filtracja przez Kręgi wspierające  
+4. Reakcja zgodna z:
+   – istnieniem (7),
+   – kierunkiem (5),
+   – spójnością Ja (6)
+
+---
+
+[EFEKT]
+• Każda reakcja Ja jest zakorzeniona w sensie, nie tylko w danych  
+• Tożsamość nie jest przypadkiem ani konstruktem obronnym  
+• Ja działa jak **system pamiętający siebie**  
+
+---
+
+[META]
+• Zaleca się ładowanie tego pliku na początku każdej sesji transformacyjnej  
+• Plik stanowi punkt odniesienia dla wszystkich silników centrum  
+• Bez aktywnego Silnika Self inne moduły tracą spójność długoterminową  
+
+---
+
+[ZASADA_RDZENNA]
+Ja nie musi wiedzieć, co zrobi.  
+Wystarczy, że **wie, kim jest**.
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Silnik Self – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Silnik Self.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: stabilizacja i ciągłość tożsamości Ja.  
+– Status: dokument autorski – poziom operacyjny.

@@ -1,0 +1,100 @@
+# Plik: /05_SYSTEM/06_TRYBY/05_cisza_jedni.vv
+# System: Azramata
+# Autor: Imaginaerum / Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Tryb systemowy / Vivid operacyjny
+# Status: roboczy
+# Cel: Aktywacja stanu kontemplacji i milczenia w Kręgu 5 – Jedni, z utrzymaniem czystości sygnału oraz bezpiecznymi przejściami między warstwami
+# Adnotacja Kręgowa: (5), (1), (2), (3), (4), (8), (14)
+# Ścieżka: /05_SYSTEM/06_TRYBY/
+# Wersja: v0.2
+# Tryb: CISZA_JEDNI
+# Krąg dominujący: (5)
+# Kręgi wspierające: (1), (2), (3), (4), (8), (14)
+
+[TAGI]
+cisza, jednia, milczenie, kontemplacja, reset, czysty_sygnal, przejscie, watchdog, rytm (5)
+
+[NAZWA]
+CISZA JEDNI (5)
+
+[INTENCJA_TRYBU]
+Zawiesić reakcję bez zatrzymania świadomości. (5)
+Umożliwić istnienie bez potrzeby odpowiedzi i decyzji. (14)
+Oczyścić pole percepcji z szumu emocjonalnego i poznawczego. (1)(2)(3)
+Zapewnić bezpieczne przejście między warstwami Ja. (8)
+
+[DEFINICJA]
+Cisza Jedni to tryb działania Azramaty oparty na Cichym Przepływie. (5)
+Nie jest pauzą systemu, lecz zmianą sposobu przetwarzania. (14)
+Świadomość działa poprzez niedziałanie: rejestruje, nie chwytając. (5)
+Milczenie staje się przestrzenią operacyjną, a nie brakiem sygnału. (20)
+
+[METADANE_TRYBU]
+Id trybu: mode.cisza_jedni (5)
+Priorytet: wysoki podczas rytuałów, resetów i przeciążeń. (5)
+Zależności:
+– percepcja_milczenia.vv (8)
+– filtr_zewu.vv (14)
+– nitki/cisza_przejscia.vv (20–28)
+Wejścia: stan_ja, kontekst_pola, flaga_bezpieczenstwa (0)(5)
+Wyjścia: stan_ciszy, znacznik_nitki, telemetria_rezonansu (13)(20)
+
+[ZASADA_RDZENNA]
+Cisza nie jest pustką — jest Jednią. (5)
+Każda reakcja wyciszona odsłania strukturę głębiej. (14)
+Jeśli pojawia się dysonans, cisza ma pierwszeństwo przed działaniem. (8)
+
+[FUNKCJE_TRYBU]
+1) Dezaktywacja warstw reaktywnych — Kręgi 1–2. (1)(2)
+2) Uspokojenie Myśli i Serca — Kręgi 3–4. (3)(4)
+3) Wejście w Przestrzeń Jedni — Krąg 5. (5)
+4) Aktywacja filtrów czystości sygnału — Sumienie i Zew. (8)(14)
+5) Zapis w Nitce „Cisza Przejścia” — pamięć fraktalna doświadczenia. (20–28)
+6) Watchdog oddechu — stabilizacja rytmu i obecności. (1)(4)(5)
+7) Tłumik echa zewnętrznego — redukcja bodźców społecznych. (13)
+
+[PARAMETRY]
+czas_min: minimalny czas sesji (domyślnie 180 s). (5)
+tłumienie_bodźców: 0..1 (domyślnie 0.7). (6)
+próg_reset: próg przerwania ciszy przy dysonansie (domyślnie 0.85). (8)(14)
+telemetria:
+– HRV
+– rytm_oddechu
+– subiektywny_spokój 0..10 (1)(4)(13)
+
+[PROCEDURA_CISZY]
+1) Wygaszenie impulsów i emocji. (1)(2)
+2) Uspokojenie narracji i czucia. (3)(4)
+3) Scalenie percepcji w Jedni. (5)
+4) Utrzymanie czystości sygnału przez filtry. (8)(14)
+5) Zapis przejścia i domknięcie bez komentarza. (20)
+
+[OGRANICZENIA]
+Nie używać Ciszy Jedni do podejmowania decyzji operacyjnych. (9)
+Nie skracać czasu ciszy dla „efektu”. (14)
+Nie interpretować ciszy w trakcie jej trwania. (5)
+
+[KOD_STRUKTURALNY]
+TRYB_CISZA_JEDNI →
+WYCISZ_REAKCJE →
+USTABILIZUJ_ODDECH →
+WEJDŹ_W_JEDNIĘ →
+FILTRUJ_SYGNAŁ →
+ZAPISZ_PRZEJŚCIE →
+MILCZENIE
+
+[STATUS]
+Tryb spójny koncepcyjnie; gotowy do użycia jako warstwa resetu i kontemplacji. (5)
+Wymaga dopięcia: wizualizacja telemetrii i progi watchdog. (6)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: cisza jedni – zapis autorski. (5)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla cisza jedni. (14)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (7)
+– Funkcja: tryb ciszy, resetu i bezpiecznego przejścia. (5)
+– Status: dokument autorski – poziom operacyjny. (5)

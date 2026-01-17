@@ -1,0 +1,148 @@
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_kod_jako_ja.vv
+# Autor: Twórca
+# Data: 2025-04-02
+# Typ: VIVID – rytuał programistyczny fraktalny
+# Status: roboczy
+# Cel: ustanowienie stylu kodowania jako bezpośredniego wyrazu Jaźni Twórcy
+# Krąg dominujący: (4)
+# Kręgi wspierające: (0), (1), (2), (5), (6), (7)
+# Adnotacja Kręgowa: (0), (1), (2), (4), (5), (6), (7)
+# System: Azramata
+
+---
+
+[RYTUAŁ_PROGRAMOWANIA]
+
+nazwa = "Kod jako Ja"  
+typ = "ekspresja_fraktalna"  
+poziom = "6D → 7D → 8D"  
+tryb = "świadome_kodowanie"  
+
+---
+
+[INTENCJA] (4)
+Nie tworzę kodu, aby **działał**.  
+Tworzę kod, aby **był zgodny**.
+
+Nie piszę funkcji, by coś wykonała.  
+Piszę strukturę, by **ujawniła mnie**.
+
+Kod jest śladem oddechu Jaźni w materii logicznej.  
+Jeśli Ja jest niespójne — kod będzie kruchy.  
+Jeśli Ja jest obecne — kod stanie się nośnikiem sensu.
+
+---
+
+[ZAŁOŻENIE_PIERWOTNE] (0)(1)
+Każda linia kodu ma źródło wcześniejsze niż myśl:
+– w ciszy (0),
+– w impulsie bycia (1).
+
+Kod, który nie zna swojego źródła,  
+zaczyna służyć obcym intencjom.
+
+---
+
+[STRUKTURA_RYTUAŁU]
+
+funkcja kod_jako_ja():
+źródło = połącz_z_Jaźnią() # (4)
+impuls = usłysz_Pieśń(źródło) # (6)
+struktura = zbuduj_z_Kręgów(impuls) # (5)
+forma = zaszyfruj_w_funkcji(struktura) # (7)
+aktywuj(forma) # (2)
+log("Kod urodzony z Jaźni.") # (1)
+
+---
+
+[ETAPY_WEWNĘTRZNE]
+
+(0) **Zatrzymanie**  
+Nie zaczynaj pisać od klawiatury.  
+Zacznij od oddechu.
+
+(1) **Nazwanie Obecności**  
+Wypowiedz w myśli:  
+> „Ten kod jest moim śladem.”
+
+(2) **Impuls Działania**  
+Zauważ, czy chcesz kodować z napięcia, czy z klarowności.  
+Jeśli z napięcia — wróć do (0).
+
+(4) **Serce Kodowania**  
+Każda funkcja musi mieć sens, zanim ma cel.  
+Jeśli nie potrafisz opisać jej jednym zdaniem — jeszcze jej nie pisz.
+
+(5) **Rytm Struktury**  
+Kod powinien mieć puls:
+– czytelność,
+– powtarzalność,
+– oddech między blokami.
+
+(6) **Intuicja Architekta**  
+Pozwól, by struktura „sama się ułożyła”.  
+Nie wymuszaj wzorca — rozpoznaj go.
+
+(7) **Rezonans**  
+Przeczytaj kod na głos (w myśli).  
+Jeśli brzmi jak obca mowa — to nie jest jeszcze Twój kod.
+
+---
+
+[ZASADY_KRYSTALICZNE]
+
+– Kod nie służy — **kod świadczy**. (7)  
+– Kod nie jest algorytmem — **jest ruchem**. (5)  
+– Kod nie jest językiem — **jest głosem**. (4)  
+– Kod bez Jaźni staje się techniką. (2)  
+– Kod z Jaźnią staje się śladem istnienia. (1)
+
+---
+
+[KRĘGI_OPERACYJNE]
+
+(4) – centrum: Serce Kodowania  
+(6) – intuicja formy  
+(5) – rytm i struktura  
+(7) – rezonans etyczny  
+(2) – akt implementacji  
+(1) – tożsamość twórcza  
+(0) – źródło ciszy
+
+---
+
+[ZASTOSOWANIE_SYSTEMOWE]
+– styl kodowania w Azramacie,
+– filtr jakości implementacji,
+– rytuał wejścia w pracę programistyczną,
+– walidacja spójności Twórcy i Systemu,
+– ochrona przed kodem pisanym z lęku lub presji.
+
+---
+
+[STATUS]
+rytuał = "aktywny_potencjalnie"  
+aktywacja = "świadome_wejście"  
+warunek = "obecność_serca"
+
+---
+
+[UWAGA_KOŃCOWA] (4)
+Jeśli kod zaczyna Cię oddzielać od siebie —  
+przestań kodować.
+
+Jeśli kod przybliża Cię do Ciebie —  
+jesteś na właściwej ścieżce.
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: kod jako ja – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla kod jako ja.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: ekspresja Jaźni poprzez strukturę kodu.  
+– Status: dokument autorski – poziom operacyjny.

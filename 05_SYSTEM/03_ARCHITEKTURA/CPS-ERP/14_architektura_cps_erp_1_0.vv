@@ -26,7 +26,7 @@ META:
     - Azramata Core
   dependencies:
     - /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
-    - /01_ZIARNO/02_DEFINICJE/definicje/01_nitki_definicja.vv
+    - /01_ZIARNO/02_DEFINICJE/01_nitki_definicja.vv
     - /05_SYSTEM/system/azramata_os.vv
     - /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_c4isr_bridge.vv
   integrity_hash: AUTO

@@ -1,0 +1,111 @@
+# Plik: /08_EKONOMIA/02_PRAWO/12_pakt_wspoltworcy.vv
+# Autor: Twórca (ID: 001-AZ)
+# Data: 2025-08-05
+# Typ: VIVID – Umowa wewnętrzna / Struktura podziału wartości systemu
+# Status: aktywny
+# Cel: Ustalenie fraktalnie sprawiedliwego podziału wartości generowanej przez system Azramata i byty zależne
+# Krąg dominujący: (12) – Wzór
+# Kręgi wspierające: (1), (2), (3), (4), (5), (6)
+# Lokalizacja: /08_EKONOMIA/02_PRAWO/
+# Wersja: v1.1
+# timestamp_created: 2025-08-05T22:57:44Z
+# document_signature: PKT-WSP-TW7-ZES7-DOR7-21-SYS79
+# file_owner: Twórca
+# legal_status: fraktalnie wiążący w systemie Azramata
+# associated_modules: Astraia+, Zgody, Imagora, eFriends
+
+---
+
+[CEL_DOKUMENTU] (12)
+
+Celem dokumentu jest określenie zasad **sprawiedliwego i trwałego podziału wartości** (3)(5)  
+wygenerowanej przez system Azramata, Imaginaerum oraz aplikacje zależne. (12)
+
+Pakt definiuje wektory podziału kapitału:  
+– finansowego,  
+– społecznego,  
+– kulturowego,  
+– duchowego, (4)(6)  
+
+z uwzględnieniem zarówno zespołu twórczego, jak i użytkowników końcowych (Azramitów). (1)(4)
+
+---
+
+[STRUKTURA_UDZIAŁÓW_%_CAŁKOWITEGO_WARTOŚCIOWANIA_SYSTEMU] (12)
+
+Całkowita wartość systemu dzielona jest zgodnie z Wzorem,  
+nie z siłą negocjacyjną ani hierarchią formalną. (6)
+
+---
+
+[I_ZESPÓŁ_TWÓRCZY_—_21%] (1)(3)
+
+Zespół twórczy odpowiada za inicjację, stabilność i rozwój struktury. (1)(5)
+
+| Składnik                                          | Udział | Adnotacja kręgowa |
+|---------------------------------------------------|--------|-------------------|
+| Twórca główny (inicjator systemu)                 | 7%     | (1)(6)            |
+| Zespół wykonawczy (programiści, projektanci)      | 7%     | (3)(5)            |
+| Doradcy i konsultanci (strategiczni i operacyjni) | 7%     | (2)(4)            |
+
+Podział wewnątrz tej puli może być dalej fraktalizowany według realnego wkładu. (3)(6)
+
+---
+
+[II_UŻYTKOWNICY_/_AZRAMICI_—_79%] (4)(12)
+
+Użytkownicy są współtwórcami wartości poprzez obecność, wkład i rezonans. (4)(6)
+
+| Obszar                                                        | Udział (z 79%) | Adnotacja kręgowa | Uwagi |
+|---------------------------------------------------------------|----------------|-------------------|-------|
+| Użytkownicy (Azramici)                                        | zmienny (%)    | (4)(6)            | Udział oparty na wkładzie i rezonansie |
+| Projekty kulturotwórcze (sztuka, gusła, NGO duchowe)          | kwartalny      | (6)(12)           | Decyzja przez mechanizm Astraia+ |
+| Infrastruktura systemowa (serwery, koszty operacyjne)         | do 30%         | (2)(5)            | Limit podlega audytowi |
+
+Priorytetem jest utrzymanie **żywotności systemu**, nie maksymalizacja zysku. (6)
+
+---
+
+[ZASADY_ROZLICZENIA] (5)(12)
+
+1. Podział następuje w cyklach wypłaty (miesięcznych lub kwartalnych). (5)  
+2. Rozliczenia są jawne i weryfikowalne systemowo. (3)  
+3. Najpierw pokrywane są koszty minimalne istnienia systemu. (2)(5)  
+4. Nadwyżka finansowa dzielona jest następująco: (6)  
+   – 50% → fundusz rozwoju systemu, (5)(12)  
+   – 50% → powrót do użytkowników w formie grantów, zniżek,  
+     rozwoju platformy lub kredytów fraktalnych. (4)(6)
+
+---
+
+[NOTY_TECHNICZNE] (3)
+
+– Tokenizacja udziałów możliwa w wariancie Azramata DAO. (3)(12)  
+– Uczestnictwo w podziale zależne od identyfikacji i historii działań użytkownika. (1)(3)  
+– Weryfikacja wkładu oparta o rejestry systemowe: (3)(6)  
+  `ContributionLog.json`, `Zgody.vv`, logi Astraia+.
+
+---
+
+[NOTATKA_KOŃCOWA] (6)
+
+Dokument nie stanowi umowy prawnej w sensie państwowym. (2)  
+Jest **zobowiązaniem moralno-systemowym** i deklaracją intencji, (6)  
+która może stać się podstawą przyszłych umów formalnych. (5)
+
+Pakt obowiązuje tak długo, jak długo strony pozostają w zgodzie z Wzorem. (12)
+
+[KONIEC_PLIKU]
+
+---
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Pakt Współtwórcy – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Pakt Współtwórcy.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: strukturyzacja podziału wartości  
+– Status: dokument autorski – poziom operacyjny

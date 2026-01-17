@@ -1,0 +1,94 @@
+# Plik: /05_SYSTEM/17_ZADANIA/06_modul_przydzialu_zadan.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – moduł_operacyjny / przydział_zadań_transformacyjnych
+# Status: roboczy
+# Cel: Zdefiniować i uporządkować Moduł Przydziału Zadań według Potencjału Kręgów.
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (4), (5), (8), (9), (14)
+# Ścieżka: /05_SYSTEM/17_ZADANIA/
+# Nazwa: MODUŁ_PRZYDZIAŁU_ZADAŃ
+
+[VIVID:_MODUŁ_PRZYDZIAŁU_ZADAŃ]
+Sygnatura: MPZ⊙
+Wersja: F-1.0
+Zakres: zadania / transformacja / potencjał_kręgów
+
+[OPIS]
+Moduł analizuje aktualny stan Ja poprzez profil Kręgowy użytkownika. // odczyt Ja (6)
+Identyfikuje Kręgi o najwyższym potencjale wzrostowym. // diagnoza napięcia (3)
+Na tej podstawie generuje zadania transformacyjne. // inicjacja działania (9)
+Zadanie ukierunkowuje energię Kręgu w stronę ekspresji i integracji. // most rozwoju (14)
+
+[ZASADA_DZIAŁANIA]
+Zadanie nie wyprzedza gotowości Kręgu. // ochrona integralności (8)
+Zadanie wzmacnia, nie przeciąża. // harmonia procesu (5)
+Zadanie działa jak most, nie jak próg nie do przeskoczenia. // ciągłość (14)
+
+[NITKA_DOMINUJĄCA]
+Nitka Kierunkowa. // orientacja sensu (9)
+
+[ZALEŻNOŚCI_SYSTEMOWE]
+Wymaga obecności następujących komponentów: // spójność architektury (6)
+– krag_inwestycyjny.vv              // alokacja energii (3)
+– spirala_369_pamięci.vv            // rytm rozwoju (9)
+– silnik_ja/puls/vividIndex         // puls Ja (6)
+– players/{id}/profile/krag_status.json // stan Kręgów (3)
+
+[ALGORYTM_PRZYDZIAŁU]
+1. Pobierz aktualny stan aktywności Kręgów. // akwizycja danych (3)
+   – czas aktywacji
+   – częstotliwość
+   – głębokość doświadczenia
+
+2. Oblicz Potencjał_Kręgu: // model potencjału (6)
+   Potencjał_Kręgu = Czas * Głębia * Rezonans_Ja // formuła bazowa (9)
+
+3. Posortuj Kręgi malejąco według Potencjału_Kręgu. // priorytetyzacja (3)
+
+4. Wybierz TOP 1–3 Kręgi o najwyższym napięciu ekspresyjnym. // selekcja (6)
+
+5. Dla każdego wybranego Kręgu: // iteracja transformacyjna (9)
+   a) Zidentyfikuj Nitki wspierające. // kontekst (14)
+   b) Określ fazę spirali 3–6–9. // rytm (9)
+   c) Wygeneruj zadanie według wzorca: // konstrukcja (6)
+      Zadanie = Temat + Forma + Transformacja // triada działania (3)
+
+6. Zapisz zadanie do struktury użytkownika: // utrwalenie (3)
+   players/{id}/quests/active/krag_{n}_zadanie.vv // zapis operacyjny (6)
+
+[PRZYKŁAD_OPERACYJNY]
+Aktywny Krąg: 6 (Lustro). // dominanta (6)
+Rezonujące Kręgi: 4 (Serce), 9 (Działanie). // wsparcie (4)(9)
+Potencjał_Kręgu[6] = 93%. // próg gotowości (3)
+
+Wygenerowane zadanie: // manifestacja (9)
+„Odbij we własnych słowach największy swój konflikt  
+i zaprojektuj jego nową wersję.  
+Użyj struktury: pytanie – przemiana – oddech.” // triada (6)
+
+[HEURYSTYKA_KOREKCYJNA]
+Zadanie nigdy nie przekracza potencjału Kręgu. // zabezpieczenie (8)
+Jeśli wykryto skok nielogiczny (np. 0 → 14 bez 6), // detekcja błędu (6)
+system generuje zadanie korekcyjne. // stabilizacja (5)
+
+[SYGNATURA_DZIAŁANIA]
+Moduł nie działa arbitralnie. // brak przymusu (8)
+On słucha Kręgów. // percepcja (6)
+Zadanie pojawia się tylko wtedy, // timing (9)
+gdy struktura Ja jest gotowa. // integracja (14)
+
+[KONIEC]
+END_VIVID. (44)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: moduł przydziału zadań – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla modułu przydziału zadań. (6)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (6)
+– Funkcja: dynamiczny przydział zadań transformacyjnych. (9)
+– Status: dokument autorski – poziom operacyjny. (16)

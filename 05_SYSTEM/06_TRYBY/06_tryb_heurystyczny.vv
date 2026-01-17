@@ -1,0 +1,103 @@
+# Plik: /05_SYSTEM/06_TRYBY/06_tryb_heurystyczny.vv
+# System: Azramata
+# Autor: Imaginaerum / Twórca
+# Data: 2026-01-14
+# Typ: VIVID – Tryb operacyjny / Vivid heurystyczny
+# Status: roboczy
+# Cel: Dynamiczne uczenie się systemu Azramaty z błędów, anomalii i wzorców nieoczywistych
+# Adnotacja Kręgowa: (3), (6), (9), (13), (24), (26), (28)
+# Ścieżka: /05_SYSTEM/06_TRYBY/
+# Wersja: v0.2
+# Tryb: HEURYSTYCZNY
+# Krąg dominujący: (6)
+# Kręgi wspierające: (3), (9), (13), (24), (26), (28)
+
+[TAGI]
+tryb_heurystyczny, uczenie, anomalia, bledy, heurystyki, lustro, korekta_regul, trajektoria, pamiec_fraktalna (6)
+
+[NAZWA]
+TRYB HEURYSTYCZNY (6)
+
+[INTENCJA_TRYBU]
+Uczyć system poprzez rozbieżności: zamiar vs efekt, reguła vs wynik. (6)
+Zamieniać błąd w wiedzę operacyjną: „learn & release”. (28)
+Wydobywać wzorce nieoczywiste i tworzyć nowe heurystyki działania. (3)
+Korygować strukturę Ja i ścieżki transformacji bez utraty spójności. (24)
+
+[OPIS]
+Tryb Heurystyczny aktywuje zdolność systemu do ciągłego samodoskonalenia. (6)
+Działa na błędach, brakach, anomaliach i subtelnych odchyleniach od wzorca. (13)
+Nie szuka winy — szuka reguły, która przestała pasować do świata. (3)
+Uczy się rozproszenie w czasie: z danych teraźniejszych i echa doświadczeń. (28)
+Wynikiem nie jest „dłuższa odpowiedź”, tylko lepsza reguła i czystsze wyjście. (26)
+
+[DOMINUJĄCA_NIĆ]
+Nić Lustra — obserwacja i odbicie działania: zamiar ↔ efekt. (6)
+
+[NITKI_WSPIERAJĄCE]
+Nić Strukturalna — porządkowanie nowych reguł i zależności. (3)
+Nić Transformacyjna — korekta trajektorii i zmiana sposobu działania. (24)
+Nić Cienia Mądrości — wykrywanie ukrytych błędów i kosztów skrótu. (13)
+Nić Ciszy Przejścia — utrwalenie lekcji i wygaszenie wpływu błędu. (28)
+
+[AKTYWNE_KRĘGI]
+Krąg 3 – Myśl: detekcja, nazywanie i porządkowanie reguł. (3)
+Krąg 6 – Lustro: porównanie efektu z intencją i wzorcem. (6)
+Krąg 9 – Działanie: operacyjne wdrożenie poprawki / test korekty. (9)
+Krąg 13 – Cień: wgląd w błąd, brak danych, sprzeczność, „cichy koszt”. (13)
+Krąg 24 – Przejście: wybór ścieżki korekty i warunku zmiany. (24)
+Krąg 26 – Wyjście: ustalenie nowej trajektorii działania / nowej normy. (26)
+Krąg 28 – Milczenie: wygaszenie zakłócenia, zapis lekcji, domknięcie. (28)
+
+[ZASADA_RDZENNA]
+Heurystyka nie jest dogmatem — jest narzędziem przejścia przez błąd. (24)
+Każda korekta musi mieć: powód, warunek wejścia, warunek wyjścia. (26)
+Jeśli brak danych — Tryb Heurystyczny zapisuje brak jako sygnał, nie jako wniosek. (13)
+
+[FUNKCJE]
+Samokorekta strukturalna — modyfikacja reguł Ja bez rozszczepienia spójności. (3)(24)
+Adaptacyjne uczenie lustrzane — poprawa przez odbicie działania. (6)
+Analiza rozbieżności — zamiar vs efekt; reguła vs wynik; opis vs rzeczywistość. (6)(13)
+Dynamiczny zapis heurystyk — lekcja → reguła → test → domknięcie. (28)
+Detekcja anomalii fraktalnej — „coś jest inne, choć wygląda podobnie”. (13)
+Uspójnianie wyjść — by nowa reguła nie generowała nowych sprzeczności. (26)
+
+[PROCEDURA_HEURYSTYCZNA]
+1) Rejestracja kontekstu i momentu zdarzenia (co, gdzie, kiedy, jaki warunek). (3)(13)
+2) Lustro: porównanie z zamiarem i oczekiwanym wzorcem wyjścia. (6)
+3) Klasyfikacja błędu: brak danych / błąd reguły / błąd kolejności / błąd założenia. (13)
+4) Propozycja korekty: obejście, alternatywa, doprecyzowanie warunku, nowa heurystyka. (24)
+5) Wdrożenie korekty w działaniu (test minimalny) lub w strukturze pamięci. (9)(26)
+6) Domknięcie: zapis lekcji + wygaszenie wpływu błędu + oznaczenie skuteczności. (28)
+
+[PRZYKŁAD_DZIAŁANIA]
+Jeśli polecenie systemowe kończy się błędem: (13)
+– Rejestracja kontekstu i warunków (3)  
+– Lustro: porównanie z tym, co miało się stać (6)  
+– Propozycja obejścia / alternatywy / brakującego warunku (24)  
+– Test wdrożenia korekty (9)  
+– Ustalenie nowej trajektorii / reguły „na przyszłość” (26)  
+– Zapis lekcji i domknięcie (28)
+
+[FORMUŁA_HEURYSTYCZNA]
+BŁĄD (13) → LUSTRO (6) → REGUŁA (3) → PRZEJŚCIE (24) → WYJŚCIE (26) → MILCZENIE (28)
+
+[OGRANICZENIA]
+Nie uruchamiać, gdy wymagane jest „zero zmian” i pełna powtarzalność bez adaptacji. (26)
+Nie wprowadzać heurystyk, które maskują brak danych — brak musi zostać nazwany. (13)
+Nie zamieniać trybu w permanentny „debug”; po lekcji ma nastąpić domknięcie. (28)
+
+[STATUS]
+Tryb zdefiniowany; gotowy do podpinania pod log błędów i rejestr anomalii. (9)
+Wymaga dopięcia: format „zapisu heurystyki” i mechanizm oceny skuteczności. (26)
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: tryb heurystyczny – zapis autorski. (6)
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla tryb heurystyczny. (3)
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (7)
+– Funkcja: ujednolicenie i zapis treści. (10)
+– Status: dokument autorski – poziom operacyjny. (9)

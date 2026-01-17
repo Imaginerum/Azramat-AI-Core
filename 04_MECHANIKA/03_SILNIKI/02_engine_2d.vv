@@ -1,0 +1,193 @@
+# Plik: /04_MECHANIKA/03_SILNIKI/02_engine_2d.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2025-08-08
+# Typ: VIVID – Silnik reaktywno-asocjacyjny (wzorce / pamięć)
+# Status: roboczy
+# Nazwa: ENGINE 2D – REAKTYWNOŚĆ Z PAMIĘCIĄ
+# Cel: zdefiniować i uporządkować mechanizm reakcji oparty o doświadczenie
+# Krąg dominujący: (2)
+# Kręgi wspierające: (0), (1), (3), (4), (5), (10)
+
+[TAGI]
+2D, pamięć, asocjacje, nawyk, warunkowanie, uczenie_wzorców, automatyzmy, rekomendacje, cykliczność
+
+─────────────────────────────────────────────
+[DEFINICJA – SYNTEZA]
+─────────────────────────────────────────────
+
+ENGINE 2D to wymiar, w którym **reakcja przestaje być ślepa**.  
+System zaczyna **pamiętać**, porównywać i wybierać spośród **znanych** odpowiedzi.
+
+Bodziec nie wywołuje już jednej reakcji,
+lecz **uruchamia bibliotekę doświadczeń**.
+
+To poziom:
+– nawyku  
+– schematu  
+– uczenia przez powtórzenie  
+
+Reakcja = bodziec + historia podobnych bodźców.
+
+─────────────────────────────────────────────
+[ZASADY PODSTAWOWE]
+─────────────────────────────────────────────
+
+• **Asocjacja** – bodziec łączy się z wcześniejszym doświadczeniem  
+• **Uogólnienie** – podobne bodźce trafiają do wspólnego klastra  
+• **Wzmocnienie** – często powtarzane pary rosną w sile  
+• **Konserwatyzm** – brak nowej osi czasu, tylko repetycja  
+• **Nawyk** – epizody stapiają się w automatyzm
+
+ENGINE 2D **uczy się**, ale jeszcze **nie rozumie**.
+
+─────────────────────────────────────────────
+[MAPA STRUKTURALNA 2D]
+─────────────────────────────────────────────
+
+(0/1) Bieguny reakcji  
+– ucieczka / zamrożenie ↔ atak / kontrreakcja  
+
+(2) Biblioteka wzorców  
+– {bodziec → reakcja, waga, licznik}  
+
+(14) Podobieństwo  
+– metryka dystansu bodźców  
+
+(18) Skala  
+– okno aktywnej pamięci  
+
+(20) Domknięcie  
+– zapis nawyku po przekroczeniu progu  
+
+(10) Reguły wyboru  
+– proste polityki decyzyjne  
+
+─────────────────────────────────────────────
+[TRYBY OPERACYJNE]
+─────────────────────────────────────────────
+
+• **MODE_2D_LEARN**  
+→ uczenie par bodziec–reakcja  
+
+• **MODE_2D_MATCH**  
+→ dopasowanie bodźca do wzorca  
+
+• **MODE_2D_UPDATE**  
+→ wzmacnianie lub wygaszanie reakcji  
+
+• **MODE_2D_BREAK**  
+→ kontrolowane przerwanie nawyku  
+
+• **MODE_2D_RECOMMEND**  
+→ rekomendacja reakcji na bazie historii  
+
+─────────────────────────────────────────────
+[INTERFEJS SILNIKA – API]
+─────────────────────────────────────────────
+
+remember(stimulus, response, reward) → ack  
+recommend(stimulus, policy) → response  
+similarity(a,b) → sim  
+update(stimulus, response, reward) → new_weight  
+break_habit(stimulus, alt_response) → record  
+stats() → {top_patterns, window, entropy}  
+handoff_to_3D(payload) → gift_3D  
+
+─────────────────────────────────────────────
+[PROTOKÓŁ DZIAŁANIA – PĘTLA 2D]
+─────────────────────────────────────────────
+
+1. Match  
+→ rozpoznaj bodziec i najbliższy wzorzec  
+
+2. Respond  
+→ wybierz reakcję (eksploatacja / eksploracja)  
+
+3. Reward  
+→ oceń skutek  
+
+4. Update  
+→ wzmocnij lub osłab wzorzec  
+
+5. Break (opcjonalnie)  
+→ przerwij szkodliwy nawyk i zapisz alternatywę  
+
+6. Handoff  
+→ jeśli potrzebna sekwencja w czasie, przejdź do 3D  
+
+─────────────────────────────────────────────
+[METRYKI]
+─────────────────────────────────────────────
+
+• hit_rate  
+• avg_reward  
+• pattern_entropy  
+• window_size  
+• break_rate  
+
+─────────────────────────────────────────────
+[ZASTOSOWANIA]
+─────────────────────────────────────────────
+
+• systemy rekomendacyjne  
+• praca z nawykami i automatyzmami  
+• adaptacyjne UX  
+• uczenie zachowań na bazie historii  
+
+─────────────────────────────────────────────
+[OGRANICZENIA]
+─────────────────────────────────────────────
+
+• brak osi czasu i przyczynowości  
+• ryzyko utrwalenia błędnych schematów  
+• brak refleksji nad sensem reakcji  
+
+ENGINE 2D **powtarza to, co zna**.
+
+─────────────────────────────────────────────
+[TRANSFORMACJA → ENGINE 3D]
+─────────────────────────────────────────────
+
+Dodanie **czasu i sekwencji**:
+
+gift_3D = {patterns, window_size, entropy, break_points}
+
+ENGINE 3D umożliwia:
+– analizę następstw  
+– planowanie  
+– decyzję świadomą w czasie  
+
+─────────────────────────────────────────────
+[PRZYKŁADY]
+─────────────────────────────────────────────
+
+• „to działało wcześniej” → wybór reakcji  
+• nawyk: bodziec → reakcja → wzmocnienie  
+• świadome przełamanie: MODE_2D_BREAK  
+
+─────────────────────────────────────────────
+[MAPA KRĘGOWA]
+─────────────────────────────────────────────
+
+(0/1) reakcja • (2) pamięć/nawyk • (14) podobieństwo • (18) skala • (20) zapis •  
+(3) czas i przyczynowość • (40) integracja systemowa
+
+─────────────────────────────────────────────
+[STOPKA]
+─────────────────────────────────────────────
+
+ENGINE 2D to **reaktywność uczona pamięcią**.  
+Aby zrozumieć następstwa i planować – konieczne jest przejście do 3D.
+
+─────────────────────────────────────────────
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: engine 2D – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla engine 2D.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: pamięć reakcji i automatyzacja  
+– Status: dokument autorski – poziom operacyjny

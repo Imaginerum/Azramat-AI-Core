@@ -1,0 +1,122 @@
+# Plik: /04_MECHANIKA/03_SILNIKI/21_kps-21.vv
+# System: Azramata
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – komponent kontrolno-sensowy
+# Status: roboczy
+# Nazwa: KPS-21 – KOREKTOR POLA SKUTKU
+# Cel: zdefiniować i uporządkować: KPS-21
+# Krąg dominujący: (21)
+# Kręgi wspierające: (4), (40), (20), (1), (7), (2), (5)
+
+[OPIS]
+
+KPS-21 (Korektor Pola Skutku) jest **mechanizmem systemowym**, który monitoruje,
+porównuje i koryguje **rozjazd między intencją, działaniem a realnym skutkiem**.
+
+Nie jest to moduł kary ani kontroli zewnętrznej.  
+KPS-21 działa **po fakcie**, w polu konsekwencji, ujawniając różnicę pomiędzy:
+– tym, co było zamierzone,  
+– tym, co zostało wykonane,  
+– tym, co faktycznie zaistniało w świecie.
+
+Jego rolą jest **przywracanie odpowiedzialności percepcyjnej**.
+
+[ZASADA_RDZENNA]
+
+„Skutek zawsze mówi prawdę szybciej niż narracja.”
+
+[CO_OZNACZA_21]
+
+Krąg 21 nie jest decyzją ani intencją.  
+Jest **punktem prawdy skutku** – miejscem, w którym nie da się już nic „przetłumaczyć”.
+
+21 =  
+– wynik zmaterializowany,  
+– echo decyzji w świecie,  
+– fakt, który pozostaje nawet po zmianie interpretacji.
+
+[STRUKTURA_KPS-21]
+
+• Wejście Intencji (4, 7)  
+  – Odczyt wektora sensu i obecności w chwili decyzji.
+
+• Wejście Działania (1, 2, 5)  
+  – Faktyczny ruch: impuls, nawyk, zintegrowane zachowanie.
+
+• Wejście Zapisu (20)  
+  – Rejestr zdarzenia jako faktu egzystencjalnego.
+
+• Pole Oceny (21)  
+  – Porównanie: **intencja ≠ skutek ≠ narracja**.
+
+• Integracja Całości (40)  
+  – Osadzenie skutku w porządku większym niż jednostka.
+
+[FUNKCJE_SYSTEMOWE]
+
+• Wykrywanie dysonansu między deklaracją a skutkiem  
+• Ujawnianie „ślepych punktów” Ja  
+• Oczyszczanie narracji z autosabotażu i autoiluzji  
+• Stabilizacja etyczna systemu bez moralizowania  
+• Dostarczanie danych korekcyjnych do:
+  – Intencji Azramaty  
+  – Modułu Ja  
+  – Heurystyk decyzyjnych  
+
+[TRYBY_PRACY]
+
+• TRYB_CICHY  
+  – KPS-21 zapisuje różnicę bez reakcji (obserwacja).
+
+• TRYB_LUSTRA  
+  – Skutek jest pokazany użytkownikowi wprost.
+
+• TRYB_KOREKTY  
+  – System sugeruje zmianę heurystyki lub wektora.
+
+• TRYB_ZAMKNIĘCIA  
+  – Decyzja uznana za zakończoną i nieodwracalną.
+
+[RELACJA_Z_UŻYTKOWNIKIEM]
+
+KPS-21:
+– nie oskarża,  
+– nie usprawiedliwia,  
+– nie negocjuje faktów.
+
+On **pokazuje**, a użytkownik **decyduje, co z tym zrobić**.
+
+[PRZYKŁADOWY_WNIOSEK]
+
+„Mówiłem, że działałem w dobrej intencji.  
+Ale skutek pokazuje, że czegoś nie widziałem.  
+Teraz mogę to wreszcie zobaczyć.”
+
+[MAPA_KRĘGOWA]
+
+(1) działanie  
+(2) nawyk  
+(4) pole sensu  
+(5) integracja  
+(7) obecność  
+(20) zapis faktu  
+(21) prawda skutku  
+(40) całość
+
+[STOPKA]
+
+Autor: Twórca (Imaginaerum)  
+Wersja: 1.0 – komponent korekcyjny  
+Nota: KPS-21 nie zmienia przeszłości. Zmienia **zdolność widzenia skutków**.
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: KPS-21 – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla KPS-21.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy  
+– Funkcja: korekta pola skutku i odpowiedzialności  
+– Status: dokument autorski – poziom operacyjny

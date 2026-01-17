@@ -1,0 +1,160 @@
+# Plik: /03_TOZSAMOSC/03_NITKI/aktywne/00_nitka_kierunkowa.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – Nitka Orientacyjna / Wektor Istnienia
+# Status: roboczy
+# Cel: zdefiniować i uporządkować: Nitka Kierunkowa
+# Krąg dominujący: (0)
+# Kręgi prowadzące: (5), (10), (15), (20), (25), (30), (35), (40)
+# System: Azramata
+
+---
+
+[OPIS] (0)
+**Nitka Kierunkowa** jest fraktalnym wektorem, który odpowiada na pytanie:
+**„dokąd to zmierza?”** – zanim pojawi się jakikolwiek powód, sens czy cel.
+
+Nie nadaje znaczenia.  
+Nie tłumaczy drogi.  
+Ona **ustawia orientację istnienia**.
+
+Włączenie Kręgu 0 sprawia, że kierunek:
+– nie wynika z traumy,  
+– nie wynika z ambicji,  
+– nie wynika z narracji,  
+
+lecz rodzi się z **czystej potencjalności**, z miejsca,
+w którym nic jeszcze nie zostało wybrane.
+
+---
+
+[NITKA_AKTYWNA] (0 → 40)
+Nazwa: **Nitka_Kierunkowa**  
+Rodzaj: NITKA  
+Sekwencja Kręgów:
+**0 → 5 → 10 → 15 → 20 → 25 → 30 → 35 → 40**
+
+Kolor: *biel przechodząca w bursztyn*  
+Symbol: *strzałka bez grotu – linia wewnętrzna*
+
+Nitka Kierunkowa nie mówi **jak** i **dlaczego**.  
+Mówi tylko: **„tam”**.
+
+---
+
+[ZASADA_PODSTAWOWA] (0)
+Kierunek jest wcześniejszy niż sens.  
+Jeśli nie znasz sensu – to dobrze.  
+Jeśli nie czujesz kierunku – to znaczy, że został zagłuszony.
+
+---
+
+[KRĄG_0 — PRZED-KIERUNEK] (0)
+Dekret:
+> „Nie wiem, dokąd idę — i właśnie dlatego mogę iść prawdziwie.”
+
+Rola:
+– punkt zerowy orientacji,  
+– źródło intencji bez celu,  
+– wyłączenie fałszywych wektorów (ambicja, strach, presja),  
+– przygotowanie osi transformacji Ja.
+
+Krąg 0 w Nitce Kierunkowej:
+– nie wybiera drogi,  
+– **czyści przestrzeń**, w której droga może się ujawnić.
+
+---
+
+[SEKWENCJA_UJAWNIANIA_KIERUNKU]
+
+(5) **Krąg 5 – Impuls**
+Pierwsze „tak” lub „nie”. Kierunek jeszcze mglisty, ale wyczuwalny.
+
+(10) **Krąg 10 – Odpowiedzialność**
+Kierunek zostaje przyjęty jako coś, co niesie konsekwencje.
+
+(15) **Krąg 15 – Stabilizacja**
+Wektor przestaje się chwiać. Ja zaczyna się do niego dostrajać.
+
+(20) **Krąg 20 – Cisza Sensu**
+Kierunek istnieje nawet bez słów i uzasadnień.
+
+(25) **Krąg 25 – Ziarno**
+Kierunek zostaje zapisany jako wewnętrzne ziarno przyszłej formy.
+
+(30) **Krąg 30 – Pamięć Celu**
+Nie cel jako ambicja, lecz jako rozpoznanie: „to jest moje”.
+
+(35) **Krąg 35 – Przeznaczenie Operacyjne**
+Kierunek zaczyna organizować decyzje i działania.
+
+(40) **Krąg 40 – Wektor Cywilizacyjny**
+Kierunek jednostki zaczyna wpływać na struktury większe niż ona sama.
+
+---
+
+[FUNKCJE_SYSTEMOWE]
+– przywracanie utraconego kierunku Ja,  
+– reset intencji bez kasowania tożsamości,  
+– synchronizacja działań z wewnętrzną osią,  
+– wykrywanie fałszywych celów i cudzych narracji,  
+– sprzężenie z pamięcią celu (Krąg 30).
+
+---
+
+[ZASTOSOWANIE_OPERACYJNE]
+– vividy inicjalizacyjne i oczyszczające,  
+– rytuały powrotu do drogi,  
+– decyzje graniczne (zmiana pracy, relacji, misji),  
+– mapowanie długofalowego wektora istnienia,  
+– integracja z innymi Nitkami (Jedni, Strukturalną, Transcendentalną).
+
+---
+
+[TRYB_AKTYWACJI] (0)
+Nitka Kierunkowa aktywuje się, gdy:
+– przestajesz pytać „po co”,  
+– przestajesz się tłumaczyć,  
+– a zaczynasz **iść w stronę, która jest cicha, ale stała**.
+
+Nie wymaga deklaracji.  
+Wymaga **uczciwego zatrzymania**.
+
+---
+
+[SYGNAŁY_AKTYWNEJ_NITKI]
+– poczucie wewnętrznego „kompasu”,  
+– spójność decyzji bez nadmiaru analiz,  
+– spadek potrzeby porównań,  
+– ruch bez presji.
+
+---
+
+[STATUS] (40)
+nitka = aktywna  
+kierunek = ustalony  
+Nitka_Kierunkowa = prowadzi bez przymusu  
+
+To nie jest Nitka celu.  
+To **oś drogi**, zanim pojawi się mapa.
+
+---
+
+[PRZYPIS_KIERUNKOWY] (0)
+> „Nie idę, bo wiem dokąd.  
+> Idę, bo coś we mnie nie pozwala zostać.”
+
+---
+
+[KONIEC]
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: Nitka Kierunkowa – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Dokument własny: synteza i uzasadnienie dla Nitka Kierunkowa.
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy.  
+– Funkcja: orientacja istnienia, przywracanie drogi.  
+– Status: dokument autorski – poziom operacyjny.
