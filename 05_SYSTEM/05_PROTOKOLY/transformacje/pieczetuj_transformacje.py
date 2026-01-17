@@ -1,6 +1,6 @@
 
 """
-Moduł: pieczec_transja.py
+Moduł:
 Opis: Funkcja zapisująca przejście transformacyjne użytkownika w Kręgu 26 (Pieczęć Przejścia).
 Silnik: 7D Teta
 Kręgi: 24 (Przejście), 25 (Ziarno), 26 (Pieczęć), 27 (Transświadomość)
@@ -22,9 +22,9 @@ def pieczetuj_transformacje(wspomnienie: str, intencja: str, kod_ja: str = None)
         dict: Struktura Pieczęci zawierająca sygnaturę, czas, ziarno, zapis 7D.
     """
 
-    timestamp = datetime.utcnow().isoformat()
-    ziarno = str(uuid.uuid4())[:8]  # symboliczne ziarno
-    transformacja_id = str(uuid.uuid4())
+    timestamp = datetime.utcnow.isoformat
+    ziarno = str(uuid.uuid4)[:8]  # symboliczne ziarno
+    transformacja_id = str(uuid.uuid4)
 
     pieczec = {
         "transformacja_id": transformacja_id,

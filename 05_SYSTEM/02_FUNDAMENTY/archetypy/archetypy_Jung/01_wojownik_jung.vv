@@ -69,7 +69,7 @@ Integracja Cienia polega na połączeniu:
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Wojownik_Jung.vv` aktywuje archetyp działania
+`01_wojownik_jung.vv` aktywuje archetyp działania
 zintegrowanego z mądrością i odpowiedzialnością.
 
 Stosuj w momentach:  
@@ -81,9 +81,9 @@ Stosuj w momentach:
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Sumienie.vv` – etyczny kompas działania. (8)  
-– `ZiarnoOgnia.vv` – zapłon wewnętrznej motywacji. (5)  
-– `Cien_Jung.vv` – integracja niszczycielskiego aspektu siły. (14)
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – etyczny kompas działania. (8)  
+– `/05_SYSTEM/05_PROTOKOLY/transformacje/14_ZiarnoOgnia.vv` – zapłon wewnętrznej motywacji. (5)  
+– `06_cien_jung.vv` – integracja niszczycielskiego aspektu siły. (14)
 
 ══════════════════════════════════════════════
 [KONIEC]

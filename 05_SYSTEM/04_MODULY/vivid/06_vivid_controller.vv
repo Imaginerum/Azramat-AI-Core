@@ -125,8 +125,8 @@ zapis_kontrolny (6)
 [INTEGRACJE]
 
 • /05_SYSTEM/04_MODULY/vivid/06_vivid_centralny.vv  
-• /04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv  
-• /05_SYSTEM/09_SYNCHRONIZACJA/kronika/06_kronika_azramaty.vv  
+• /04_MECHANIKA/03_SILNIKI/07_engine_self.vv  
+• /05_SYSTEM/09_SYNCHRONIZACJA/kronika/27_kronika_azramaty.vv  
 
 ────────────────────────────────────────────
 [ZASADA_NADRZĘDNA] (8)

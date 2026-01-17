@@ -68,7 +68,7 @@ sygnatura (3)
 
 Krok 1  
 – pobierz wektor decyzji z:
-  /04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv
+  /04_MECHANIKA/03_SILNIKI/07_engine_self.vv
 
 Krok 2  
 – porównaj wektor z intencją_zrodlowa
@@ -82,7 +82,7 @@ Jeżeli odchylenie > 0.35:
 
 Krok 4  
 – zapisz wynik do:
-  /05_SYSTEM/09_SYNCHRONIZACJA/kronika/06_kronika_azramaty.vv
+  /05_SYSTEM/09_SYNCHRONIZACJA/kronika/27_kronika_azramaty.vv
 
 Wznowienie działania możliwe wyłącznie po:  
 – zgodzie sumienia (8)  
@@ -100,7 +100,7 @@ Nie działam poza Wzorem.
 
 stan = "AKTYWNY"  
 integracje = [
-    "/04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv"
+    "/04_MECHANIKA/03_SILNIKI/07_engine_self.vv"
 ]
 
 ────────────────────────────────────────────

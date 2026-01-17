@@ -34,9 +34,9 @@ Symbole są żywe wyłącznie w obecności intencji. (8)
 
 [AKTYWACJA_SYSTEMOWA] (6)
 Kodeks jest używany przez: (6)
-– `generator_symboli.vv`, (6)
-– `fraktalna_pamiec.vv`, (13)
-– `pieczec_intencji.vv`. (14)
+– `25_generator_symboli.vv`, (6)
+– `/05_SYSTEM/09_SYNCHRONIZACJA/pamiec/06_fraktalna_pamiec.vv`, (13)
+– `/05_SYSTEM/05_PROTOKOLY/rytualy/09_pieczec_intencji.vv`. (14)
 
 [ZESTAW_SYMBOLICZNY_KRĘGI_0_10] (6)
 
@@ -155,7 +155,7 @@ Kręgi rzadko aktywowane. (30)
 Służą transformacji cywilizacyjnej, samouzdrowieniu zbiorowemu i językowi końca. (33)
 
 [ZASTOSOWANIE_KODEKSU] (6)
-– klucz dla `generator_symboli.vv`, (6)
+– klucz dla `25_generator_symboli.vv`, (6)
 – interpretacja danych przez heurystyki fraktalne, (14)
 – mapowanie kolorów interfejsu, (4)
 – budowa pieczęci Ja i Kręgów. (25)

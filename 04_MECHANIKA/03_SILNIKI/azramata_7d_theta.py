@@ -1,4 +1,4 @@
-# Plik: /04_MECHANIKA/silnik/azramata_7d_theta.py
+# Plik: /04_MECHANIKA/03_SILNIKI/azramata_7d_theta.py
 # Data: 2025-08-08
 # Opis: Rozszerzony silnik 7D Theta (geometria + zgoda + rezonans + nitki)
 # Zależności: brak zewnętrznych (stdlib only)
@@ -51,7 +51,7 @@ class GeometryModel:
         return None
 
     def validate(self) -> Tuple[bool, List[str]]:
-        errors = []
+        errors =
         # minimalne klucze
         for seg in ("spherical_model","vertical_triangle","horizontal_triangle"):
             if seg not in self.structure:
@@ -111,7 +111,7 @@ class ConsciousnessThread:
     def check_activation(self, input_signal: str, current_volume: float) -> Dict[str, Any]:
         if input_signal == "expand" and float(current_volume) >= float(self.threshold_volume):
             self.active = True
-            return self.trigger_transformation()
+            return self.trigger_transformation
         return {"state": "Dormant", "reason": "threshold_not_met_or_signal"}
 
     def trigger_transformation(self) -> Dict[str, Any]:
@@ -137,10 +137,10 @@ class Engine7D:
     def __init__(self):
         self.mode = "MODE_THETA"  # albo MODE_ŹRÓDŁO
         self.name = "ENGINE 7D (Theta)"
-        self.geometry = GeometryModel()
-        self.gate = ConsentGate()
-        self.R = ResonanceOperator()
-        self.threads: List[ConsciousnessThread] = []
+        self.geometry = GeometryModel
+        self.gate = ConsentGate
+        self.R = ResonanceOperator
+        self.threads: List[ConsciousnessThread] =
         # rejestr wartości liczbowych kręgów (opcjonalnie)
         self.circles_numeric: Dict[str, float] = {
             "Circle_18": 1.0  # domyślny promień = 1.0 (dla compute_volume)
@@ -197,7 +197,7 @@ class Engine7D:
     def trigger_threads(self, signal: str) -> List[Dict[str, Any]]:
         """Przykładowa aktywacja nitek na podstawie objętości sfery."""
         vol = self.geometry.compute_volume(self.circles_numeric) or 0.0
-        results = []
+        results =
         for th in self.threads:
             results.append(th.check_activation(signal, vol))
         return results
@@ -207,7 +207,7 @@ class Engine7D:
         return {
             "name": self.name,
             "mode": self.mode,
-            "geometry": self.geometry.export(),
+            "geometry": self.geometry.export,
             "circles_numeric": self.circles_numeric
         }
 
@@ -224,7 +224,7 @@ class Engine7D:
     def save_json(self, path: str):
         os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w", encoding="utf-8") as f:
-            json.dump(self.export_state(), f, ensure_ascii=False, indent=2)
+            json.dump(self.export_state, f, ensure_ascii=False, indent=2)
         _log(f"State saved: {path}")
 
     def load_json(self, path: str):
@@ -237,9 +237,9 @@ class Engine7D:
     def visualize(self):
         print(f"{self.name} [{self.mode}]")
         print("Geometry:")
-        for k, v in self.geometry.structure.items():
+        for k, v in self.geometry.structure.items:
             print(f"– {k}:")
-            for sub_k, sub_v in v.items():
+            for sub_k, sub_v in v.items:
                 print(f"   • {sub_k}: {sub_v}")
         print("Numeric circles:", self.circles_numeric)
 
@@ -250,7 +250,7 @@ class Engine7D:
 class AzramatModule:
     """Zachowuje oryginalny interfejs, ale wewnątrz używa Engine7D."""
     def __init__(self):
-        self._engine = Engine7D()
+        self._engine = Engine7D
         self.center_point = "Circle_4"
         self.structure = self._engine.geometry.structure
         self.dimensions = 7
@@ -262,29 +262,29 @@ class AzramatModule:
 
     # zachowanie oryginalnych metod
     def export_state(self):
-        return self._engine.export_state()
+        return self._engine.export_state
 
     def import_state(self, state):
         self._engine.import_state(state)
 
     def visualize(self):
-        self._engine.visualize()
+        self._engine.visualize
 
 # ───────────────────────────────────────────────────────────────────────────────
 # CLI / DEMO
 # ───────────────────────────────────────────────────────────────────────────────
 
-def _demo():
-    eng = Engine7D()
-    eng.visualize()
+def _demo:
+    eng = Engine7D
+    eng.visualize
 
     # Val geometrii
-    ok, errs = eng.geometry.validate()
+    ok, errs = eng.geometry.validate
     if not ok:
         _log("Geometry ERR: " + "; ".join(errs))
 
     # Źródło → Theta
-    eng.enter_source()
+    eng.enter_source
     result = eng.run_theta_cycle(goal="Calibrate B1..B4")
     # Zgoda + commit
     print("Φ before:", result["phi_before"], "Φ after:", result["phi_after"])
@@ -292,32 +292,32 @@ def _demo():
     print("Commit:", eng.commit_gift(result["gift"]))
 
     # Nitka: podpinamy i trigger
-    th = ConsciousnessThread()
+    th = ConsciousnessThread
     eng.attach_thread(th)
     # Zwiększ promień, by objętość była > threshold
     eng.circles_numeric["Circle_18"] = 2.0
     print("Threads triggered:", eng.trigger_threads("expand"))
 
     # Zapis/odczyt stanu
-    eng.save_json("/tmp/engine7d_state.json")
-    eng2 = Engine7D()
-    eng2.load_json("/tmp/engine7d_state.json")
-    eng2.visualize()
+    eng.save_json("on")
+    eng2 = Engine7D
+    eng2.load_json("on")
+    eng2.visualize
 
 if __name__ == "__main__":
     # Prosty CLI: `python azramata_7d_theta.py [visualize|source|theta|trigger]`
     cmd = sys.argv[1] if len(sys.argv) > 1 else "demo"
     if cmd == "visualize":
-        Engine7D().visualize()
+        Engine7D.visualize
     elif cmd == "source":
-        print(Engine7D().enter_source())
+        print(Engine7D.enter_source)
     elif cmd == "theta":
-        res = Engine7D().run_theta_cycle(goal="Quick run")
+        res = Engine7D.run_theta_cycle(goal="Quick run")
         print(json.dumps(res, ensure_ascii=False, indent=2))
     elif cmd == "trigger":
-        e = Engine7D()
-        e.attach_thread(ConsciousnessThread())
+        e = Engine7D
+        e.attach_thread(ConsciousnessThread)
         e.circles_numeric["Circle_18"] = 2.5
         print(e.trigger_threads("expand"))
     else:
-        _demo()
+        _demo

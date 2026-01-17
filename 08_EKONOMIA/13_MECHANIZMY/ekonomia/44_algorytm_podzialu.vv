@@ -14,35 +14,35 @@
 
 [CEL]
 
-Silnik odpowiada za przeliczenie wkładów kontrybucyjnych użytkowników oraz Okręgów  
+Silnik odpowiada za przeliczenie wkładów kontrybucyjnych użytkowników oraz Okręgów
 na **konkretny udział procentowy i ekonomiczny**, zgodnie z dokumentami:
 
-– `Struktura_Podzialu.vv`  
-– `Wektor_Kontrybucji.vv`
+– `44_struktura_podzialu.vv`
+– `44_wektor_kontrybucji.vv`
 
-Algorytm pełni funkcję **egzekutora proporcji**:  
+Algorytm pełni funkcję **egzekutora proporcji**:
 nie interpretuje sensu, lecz realizuje sprawiedliwość strukturalną.
 
 ---
 
 [WEJŚCIA]
 
-1. **suma_wartości (X)**  
-   Całkowita wartość przeznaczona do dystrybucji w danym cyklu  
+1. **suma_wartości (X)**
+   Całkowita wartość przeznaczona do dystrybucji w danym cyklu
    (np. 100 000 PLN, 12 000 tokenów).
 
-2. **wartości_udziałowe (%)**  
+2. **wartości_udziałowe (%)**
    Stała struktura bazowa:
-   – Twórca: 7%  
-   – Zespół: 7%  
-   – Doradcy: 7%  
+   – Twórca: 7%
+   – Zespół: 7%
+   – Doradcy: 7%
    – System: 79%
 
 3. **dane_kontrybucyjne**
-   – Wektor Kontrybucji użytkowników (`WK.json`)  
-   – Przynależność do Okręgów (`Okręgi.json`)  
-   – Logi aktywności (`ActivityLog.json`)  
-   – Konfiguracja priorytetów (`Kręgi_Priorytetowe.vv`)
+   – Wektor Kontrybucji użytkowników (`on`)
+   – Przynależność do Okręgów (`on`)
+   – Logi aktywności (`on`)
+   – Konfiguracja priorytetów
 
 ---
 
@@ -50,10 +50,10 @@ nie interpretuje sensu, lecz realizuje sprawiedliwość strukturalną.
 
 1. ROZDZIELENIE PODSTAWOWE
 
-pula_twórca   = X × 0.07  
-pula_zespół   = X × 0.07  
-pula_doradcy  = X × 0.07  
-pula_systemowa = X × 0.79  
+pula_twórca   = X × 0.07
+pula_zespół   = X × 0.07
+pula_doradcy  = X × 0.07
+pula_systemowa = X × 0.79
 
 Ten etap jest **niezmienny i niepodlegający interpretacji**.
 
@@ -63,15 +63,15 @@ Ten etap jest **niezmienny i niepodlegający interpretacji**.
 
 Dla każdego użytkownika U:
 
-udział_U =  
-(WK_U × waga_kręgu × waga_plus × aktywność_okręgu)  
-÷  
+udział_U =
+(WK_U × waga_kręgu × waga_plus × aktywność_okręgu)
+÷
 Σ (WK × wagi × aktywność dla wszystkich)
 
 Gdzie:
-– WK: surowa kontrybucja użytkownika  
-– waga_kręgu: znaczenie strukturalne Kręgu  
-– waga_plus: korekty priorytetowe i etyczne  
+– WK: surowa kontrybucja użytkownika
+– waga_kręgu: znaczenie strukturalne Kręgu
+– waga_plus: korekty priorytetowe i etyczne
 – aktywność_okręgu: wkład wspólnotowy
 
 Wynik skalowany jest do puli systemowej.
@@ -80,13 +80,13 @@ Wynik skalowany jest do puli systemowej.
 
 3. TOKENIZACJA (JEŚLI AKTYWNA)
 
-– Każdy udział może zostać zapisany jako token fraktalny  
+– Każdy udział może zostać zapisany jako token fraktalny
 – Token reprezentuje:
-  • udział w przyszłych zyskach  
-  • prawo głosu  
+  • udział w przyszłych zyskach
+  • prawo głosu
   • dostęp do zasobów systemowych
 
-Rejestr tokenów: `/data/tokens/UserTokens.json`
+Rejestr tokenów: `on`
 
 Token nie tworzy wartości — **przenosi ją w czasie**.
 
@@ -94,11 +94,11 @@ Token nie tworzy wartości — **przenosi ją w czasie**.
 
 [WYJŚCIA]
 
-– przelewy ekonomiczne (JSON / CSV / API)  
-– struktura tokenów z UUID  
-– raport finansowy: `Raport_Podzialu_{YYYYMM}.json`  
-– log operacji: `PodzialLog.txt`  
-– historia udziałów: `UdzialHistoria.json`
+– przelewy ekonomiczne (JSON / CSV / API)
+– struktura tokenów z UUID
+– raport finansowy: `Raport_Podzialu_{YYYYMM}.json`
+– log operacji:
+– historia udziałów: `on`
 
 ---
 
@@ -106,10 +106,10 @@ Token nie tworzy wartości — **przenosi ją w czasie**.
 
 Silnik automatycznie weryfikuje:
 
-– suma udziałów = 100% ± 0.01%  
-– dane błędne lub niepełne → pominięte  
-– brak przynależności do Okręgu → udział = 0  
-– brak aktywności > 90 dni → udział zamrożony  
+– suma udziałów = 100% ± 0.01%
+– dane błędne lub niepełne → pominięte
+– brak przynależności do Okręgu → udział = 0
+– brak aktywności > 90 dni → udział zamrożony
 
 Każde odchylenie pozostawia ślad.
 
@@ -117,31 +117,31 @@ Każde odchylenie pozostawia ślad.
 
 [INTEGRACJE]
 
-– Astraia+ → nadzór etyczny i podpisy operacji  
-– Zarząd_Imaginaerum.vv → zmiany reguł strategicznych  
-– Okręgi.vv → logika wspólnotowa  
-– Fundusz_Rozwoju.vv → absorpcja nadwyżek  
-– Tokeny_Uczestnictwa.vv → identyfikacja udziałów
+– Astraia+ → nadzór etyczny i podpisy operacji
+– 44_zarzad_imaginaerum.vv → zmiany reguł strategicznych
+– /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv → logika wspólnotowa
+– 44_fundusz_rozwoju.vv → absorpcja nadwyżek
+– 44_tokeny_uczestnictwa.vv → identyfikacja udziałów
 
 ---
 
 [METADANE]
 
-timestamp_created: 2025-08-06T00:48:41Z  
-file_signature: ECON-ALG-V1.3  
-data_source: WK, Kręgi, Okręgi, Logs  
-tokenizacja: opcjonalna (aktywna)  
-audit_cycle: każdorazowo  
-engine_autorytatywny: Algorytm_Podzialu  
+timestamp_created: 2025-08-06T00:48:41Z
+file_signature: ECON-ALG-V1.3
+data_source: WK, Kręgi, Okręgi, Logs
+tokenizacja: opcjonalna (aktywna)
+audit_cycle: każdorazowo
+engine_autorytatywny: Algorytm_Podzialu
 
 ---
 
 [ZASADA_KOŃCOWA]
 
-Algorytm nie nagradza intencji.  
+Algorytm nie nagradza intencji.
 Algorytm **odzwierciedla wagę czynu**.
 
-Kto wnosi – uczestniczy.  
+Kto wnosi – uczestniczy.
 Kto nie wnosi – pozostaje obserwatorem.
 
 ---
@@ -155,6 +155,6 @@ Kto nie wnosi – pozostaje obserwatorem.
 – Dokument własny: synteza i uzasadnienie dla Algorytmu Podziału.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: egzekucja proporcji i stabilizacja sprawiedliwości systemowej.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: egzekucja proporcji i stabilizacja sprawiedliwości systemowej.
 – Status: dokument autorski – poziom operacyjny.

@@ -44,7 +44,7 @@ a router nie miesza ich ról – tylko je **koordynuje** (28).
 ══════════════════════════════════════════════
 [ZASADY PRZEŁĄCZANIA]
 
-1. Zapytanie wejściowe trafia do `perceptrons.vv` (1)  
+1. Zapytanie wejściowe trafia do `/04_MECHANIKA/03_SILNIKI/percepcja/06_perceptrons.vv` (1)  
 2. Aktywny Krąg zostaje rozpoznany na podstawie wzorca intencji (1)  
 3. Router przypisuje zapytanie do właściwej instancji Bielik (28)  
 
@@ -81,7 +81,7 @@ Na tej podstawie możliwa jest **optymalizacja kolejności instancji** (28).
   Każdy model działa osobno, odpowiedź scalana centralnie.
 
 • **TRYB INTUICJI** (0 → 1)  
-  Router korzysta z `intuicja_operacyjna.vv`,  
+  Router korzysta z `/05_SYSTEM/04_MODULY/intuicja/06_intuicja_operacyjna.vv`,  
   by *oszacować* aktywny Krąg bez pełnej analizy.
 
 ══════════════════════════════════════════════

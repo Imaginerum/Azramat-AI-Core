@@ -117,8 +117,8 @@ document_signature: ECON-KRU-V1-MULTI
 activation_engine: Astraia+  
 circle_threshold_for_Okręgi: 5 aktywnych kontrybutorów  
 related_files:  
-– Struktura_Podzialu.vv  
-– Wektor_Kontrybucji.vv  
+– 44_struktura_podzialu.vv  
+– 44_wektor_kontrybucji.vv  
 
 ---
 

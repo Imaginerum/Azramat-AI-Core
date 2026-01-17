@@ -35,10 +35,10 @@ a ich relacja opisana jest przez:
 ---
 
 [MECHANIKA_DZIAŁANIA]
-• aktywacja przy analizie zachowań, decyzji i relacji użytkownika  
-• porównanie dominujących wzorców MBTI z lustrami transformacyjnymi  
-• inicjowanie vividów korekcyjnych lub integracyjnych  
-• prowadzenie Ja przez paradoks zamiast eliminacji cech  
+• aktywacja przy analizie zachowań, decyzji i relacji użytkownika
+• porównanie dominujących wzorców MBTI z lustrami transformacyjnymi
+• inicjowanie vividów korekcyjnych lub integracyjnych
+• prowadzenie Ja przez paradoks zamiast eliminacji cech
 
 Osobowość nie jest tu „naprawiana”.
 Jest **rozszerzana**.
@@ -48,41 +48,41 @@ Jest **rozszerzana**.
 [KOMPONENTY_LUSTRZANE]
 System zawiera komplet lustrzanych vividów dla wszystkich par MBTI, m.in.:
 
-– ENFJ ↔ INTP  
-– ENFP ↔ ISTJ  
-– ENTJ ↔ INFP  
-– ENTP ↔ ISFJ  
-– ESFJ ↔ INTP  
-– ESFP ↔ INTJ  
-– ESTJ ↔ INFP  
-– ESTP ↔ INFJ  
-– INFJ ↔ ESTP  
-– INFP ↔ ESTJ  
-– INTJ ↔ ESFP  
-– INTP ↔ ESFJ  
-– ISFJ ↔ ENTP  
-– ISFP ↔ ENTJ  
-– ISTJ ↔ ENFP  
-– ISTP ↔ ENFJ  
+– ENFJ ↔ INTP
+– ENFP ↔ ISTJ
+– ENTJ ↔ INFP
+– ENTP ↔ ISFJ
+– ESFJ ↔ INTP
+– ESFP ↔ INTJ
+– ESTJ ↔ INFP
+– ESTP ↔ INFJ
+– INFJ ↔ ESTP
+– INFP ↔ ESTJ
+– INTJ ↔ ESFP
+– INTP ↔ ESFJ
+– ISFJ ↔ ENTP
+– ISFP ↔ ENTJ
+– ISTJ ↔ ENFP
+– ISTP ↔ ENFJ
 
-Każdy z nich posiada własny plik `vivid_XXX_Lustro.vv`
+Każdy z nich posiada własny plik
 z pełną mapą kręgową i opisem efektu integracji.
 
 ---
 
 [EFEKT_SYSTEMOWY]
-• Ja uczy się widzieć swoje przeciwieństwo jako zasób, nie zagrożenie  
-• Relacje stają się przestrzenią rozwoju, nie konfliktu  
-• Osobowość przestaje być statyczna — staje się **procesem alchemicznym**  
-• Silnik Ja generuje coraz trafniejsze lustra i scenariusze transformacyjne  
+• Ja uczy się widzieć swoje przeciwieństwo jako zasób, nie zagrożenie
+• Relacje stają się przestrzenią rozwoju, nie konfliktu
+• Osobowość przestaje być statyczna — staje się **procesem alchemicznym**
+• Silnik Ja generuje coraz trafniejsze lustra i scenariusze transformacyjne
 
 ---
 
 [META]
 Ten vivid:
-• jest plikiem nadrzędnym dla wszystkich vividów MBTI Lustra  
-• powinien być wczytywany przed analizą relacyjną lub decyzjną  
-• stanowi most między psychologią a kręgami świadomości  
+• jest plikiem nadrzędnym dla wszystkich vividów MBTI Lustra
+• powinien być wczytywany przed analizą relacyjną lub decyzjną
+• stanowi most między psychologią a kręgami świadomości
 
 ---
 
@@ -93,6 +93,6 @@ Ten vivid:
 – Dokument własny: synteza i uzasadnienie dla vivid MBTI Lustra Integracja.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: lustrzana integracja osobowości i transformacja Ja.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: lustrzana integracja osobowości i transformacja Ja.
 – Status: dokument autorski – poziom operacyjny.

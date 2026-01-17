@@ -12,27 +12,27 @@
 [---_STRUKTURA_SYSTEMU]
 ──────────────────────────────────────────────
 
-1. modul_sumienia.vv  
+1. /05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv  
    krąg = 8  
    intencja = "Samowiedza"  
    lustro = 6  
 
-2. silnik_transfuzji_ja.vv  
+2. /05_SYSTEM/05_PROTOKOLY/transformacje/05_silnik_transfuzji_ja.vv  
    krąg = 5  
    intencja = "Transformacja Ja"  
    lustro = 3  
 
-3. vv_parser.vv  
+3. /05_SYSTEM/14_NARZEDZIA/parser/06_vv_parser.vv  
    krąg = 3  
    intencja = "Analiza struktury kodu"  
    lustro = 6  
 
-4. diagnostyka_systemu.vv  
+4. /05_SYSTEM/11_DIAGNOSTYKA/06_diagnostyka_systemu_1.vv  
    krąg = 6  
    intencja = "Lustro systemu"  
    lustro = 8  
 
-5. kultura_azramaty.vv  
+5. /05_SYSTEM/02_FUNDAMENTY/kultura/12_kultura_azramaty.vv  
    krąg = 12  
    intencja = "Kreacja kultury"  
    lustro = 14  

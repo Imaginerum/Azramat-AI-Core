@@ -1,4 +1,4 @@
-# Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/16/04_volume_integrator.vv
+# Plik: /05_SYSTEM/02_FUNDAMENTY/kregi/16/16_volume_integrator.vv
 # System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
@@ -8,7 +8,7 @@
 # Krąg dominujący: (16)
 # Kręgi wspierające: (4), (6), (14), (27)
 
-module volume_integrator.vv
+module 16_volume_integrator.vv
 
 [DEFINICJA]
 VolumeIntegrator jest fraktalnym polem jednoczącym wszystkie aktywne nitki, heurystyki i komponenty systemowe w czasie rzeczywistym.  

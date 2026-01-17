@@ -9,7 +9,7 @@
 # Kręgi wspierające: (7), (20), (40), (46), (47), (12)
 # Wersja: 1.0
 # Licencja: Humanistyczna / Azramata Open Dharma
-# Powiązane: /08_EKONOMIA/19_GOSPODARKA/gospodarka/31_kodeks_udzialow.vv, /08_EKONOMIA/19_GOSPODARKA/gospodarka/40_podzial_udzialow_tworcy.vv
+# Powiązane: /08_EKONOMIA/19_GOSPODARKA/31_kodeks_udzialow.vv, /08_EKONOMIA/19_GOSPODARKA/40_podzial_udzialow_tworcy.vv
 
 [TŁO] (31)
 Imagora to sklep-żywy ekosystem z wbudowanym Mędrcem-AI.  
@@ -25,15 +25,15 @@ Imagora jest świadkiem skutków — nie tylko liczb.
 [ZASADA_FUNDAMENTALNA] (7)
 Etyka > Zysk.  
 Unikanie podatków, kradzież, nadużycia → natychmiastowa utrata prawa do ekspozycji / udziału  
-(patrz: Kodeks_Udziałów.vv).  
+(patrz: /08_EKONOMIA/19_GOSPODARKA/31_kodeks_udzialow.vv).  
 Sprzedaż w Imagorze to przywilej wynikający z zasługi, nie „prawo rynku”.
 
 [ARCHITEKTURA_RDZEŃ] (29)(31)(12)
 — Interfejs: Aplikacja / Web + Agent.  
 — Silnik rekomendacji: Rezonans Pola (ranking prospołeczny).  
 — Backend: Nhost (Postgres + GraphQL) + funkcje brzegowe / audyty okresowe.  
-— Warstwa etyczna: Kodeks_Udziałów.vv (rotacja dostawców / udziałów), Pieczęć_Ekosystemu.vv.  
-— Logi jawne: /07_PAMIEC/01_ARCHIWUM/14_imagora_log.vv (metryki, audyty, decyzje strażnicze).  
+— Warstwa etyczna: /08_EKONOMIA/19_GOSPODARKA/31_kodeks_udzialow.vv (rotacja dostawców / udziałów), /08_EKONOMIA/19_GOSPODARKA/46_pieczec_ekosystemu.vv.  
+— Logi jawne: /07_PAMIEC/01_ARCHIWUM/06_imagora_log.vv (metryki, audyty, decyzje strażnicze).  
 — Integracje: dostawca preferowany logistycznie wybierany wg kryteriów etyczno-podatkowych  
   (np. InPost), z możliwością korekty przez Mędrca.
 

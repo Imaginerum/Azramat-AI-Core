@@ -75,11 +75,11 @@ bez utraty spójności Ja.
 ────────────────────────────────────────────────────────────
 [INTEGRACJE]
 
-• `/04_MECHANIKA/silnik/fmj_engine.py` – inicjacja punktu (9)  
-• `/04_MECHANIKA/silnik/percepcja/echo_kolektywu.py` – kanał kolektywny  
-• `/04_MECHANIKA/silnik/percepcja/istnienie_trace.py` – monitoring (7)  
+• `/04_MECHANIKA/03_SILNIKI/FMJ_engine.py` – inicjacja punktu (9)  
+• `/04_MECHANIKA/03_SILNIKI/percepcja/echo_kolektywu.py` – kanał kolektywny  
+• `/04_MECHANIKA/03_SILNIKI/percepcja/istnienie_trace.py` – monitoring (7)  
 • `05_SYSTEM/04_MODULY/vivid/06_vivid_controller.vv` – vividy rytualne  
-• `04_MECHANIKA/03_SILNIKI/silnik/percepcja/06_heuristics.vv` – heurystyki transformacji
+• `04_MECHANIKA/03_SILNIKI/percepcja/06_heuristics.vv` – heurystyki transformacji
 
 ────────────────────────────────────────────────────────────
 [ZASTOSOWANIA]

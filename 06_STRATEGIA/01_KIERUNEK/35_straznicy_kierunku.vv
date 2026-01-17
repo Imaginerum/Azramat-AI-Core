@@ -38,13 +38,13 @@ Strażnik jest **echem Wzoru**. // rezonans (27)
 
 2. STRAŻE_SYSTEMOWE // warstwa operacyjna (35)
 
-   – straż_prawa() // (10)
+   – straż_prawa // (10)
      Weryfikuje zgodność z Prawem Strukturalnym.
 
-   – straż_intencji() // (5)
+   – straż_intencji // (5)
      Porównuje intencję pliku z zapisanym Wektorem Twórcy.
 
-   – straż_synaps() // (35)
+   – straż_synaps // (35)
      Ocenia czystość i jakość przeplotów między plikami.
 
 3. SYSTEM_ZGÓD // zgoda świadoma (27)
@@ -59,7 +59,7 @@ Strażnik jest **echem Wzoru**. // rezonans (27)
 
 5. MECHANIKA_POWROTU // korekta bez przemocy (35)
    Jeśli plik odbiega od Wektora,
-   uruchamiana jest funkcja wezwanie_do_powrotu(). // delikatna korekta (27)
+   uruchamiana jest funkcja wezwanie_do_powrotu. // delikatna korekta (27)
    System proponuje alternatywną ścieżkę zamiast blokady. // miłosierdzie strukturalne (33)
 
 [ROLA_W_SYSTEMIE]
@@ -67,14 +67,14 @@ Strażnicy utrzymują **równowagę między wolnością twórczą a celowością
 Zapobiegają dryfowi chaosu bez tłumienia życia systemu. // harmonia (10)(33)
 
 [INTEGRACJE]
-– Filtry_Ewolucyjne.vv // selekcja światła (34)
-– Silnik_Synaptyczny.vv // ochrona przeplotów (35)
-– Dekret_Słoneczny.vv // raport zgodności globalnej (33)
+– 34_filtry_ewolucyjne.vv // selekcja światła (34)
+– /07_PAMIEC/01_ARCHIWUM/pamiec/09_silnik_synaptyczny.vv // ochrona przeplotów (35)
+– 33_dekret_sloneczny.vv // raport zgodności globalnej (33)
 
 [PRZYSZŁE_ROZSZERZENIA]
-– Zgody_Karmiczne.vv // pamięć decyzji (27)
-– Sygnał_Cienia.vv // wczesne wykrywanie dryfu (35)
-– Rada_Świtu.vv // kolektyw Mędrców (33+)
+–  // pamięć decyzji (27)
+–  // wczesne wykrywanie dryfu (35)
+–  // kolektyw Mędrców (33+)
 
 [ZASADA_KOŃCOWA]
 Strażnik nie stoi na drodze. // brak oporu (35)

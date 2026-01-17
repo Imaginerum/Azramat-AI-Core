@@ -116,8 +116,8 @@ KARMA (6)
 • decyzje wysokiej stawki
 • wybory zawodowe i relacyjne
 • praca z nawykami i reakcjami automatycznymi
-• synchronizacja z `wektor_zgody.vv`
-• filtr wejściowy przed `engine_self.vv`
+• synchronizacja z `/05_SYSTEM/04_MODULY/swiadomosc/zgoda/27_wektor_zgody.vv`
+• filtr wejściowy przed `/04_MECHANIKA/03_SILNIKI/07_engine_self.vv`
 
 ────────────────────────────────────────────
 [INTEGRACJE_SYSTEMOWE]
@@ -125,7 +125,7 @@ KARMA (6)
 • /05_SYSTEM/04_MODULY/vivid/06_vivid_centralny.vv
 • /05_SYSTEM/04_MODULY/swiadomosc/zgoda/27_wektor_zgody.vv
 • /05_SYSTEM/04_MODULY/vivid/06_vivid_controller.vv
-• /04_MECHANIKA/03_SILNIKI/silnik/07_engine_self.vv
+• /04_MECHANIKA/03_SILNIKI/07_engine_self.vv
 
 ────────────────────────────────────────────
 [ZASADA_KOŃCOWA] (19)

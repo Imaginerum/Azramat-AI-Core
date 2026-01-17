@@ -14,11 +14,11 @@
 
 [CEL]
 
-Fundusz Rozwoju odpowiada za **finansowanie projektów rozwojowych** w obrębie systemu Azramata  
+Fundusz Rozwoju odpowiada za **finansowanie projektów rozwojowych** w obrębie systemu Azramata
 oraz jego podmodułów i inicjatyw powiązanych.
 
-Pełni rolę **strategicznego zasobnika reinwestycyjnego**,  
-zasilanego nadwyżkami operacyjnymi, którego celem nie jest akumulacja,  
+Pełni rolę **strategicznego zasobnika reinwestycyjnego**,
+zasilanego nadwyżkami operacyjnymi, którego celem nie jest akumulacja,
 lecz **przenoszenie wartości w przyszłość systemu**.
 
 ---
@@ -27,16 +27,16 @@ lecz **przenoszenie wartości w przyszłość systemu**.
 
 Źródła zasilania Funduszu:
 
-– Nadwyżka z cyklu redystrybucji: **minimum 50%**  
-– Dobrowolne datki użytkowników: opcjonalnie  
+– Nadwyżka z cyklu redystrybucji: **minimum 50%**
+– Dobrowolne datki użytkowników: opcjonalnie
 – Sponsorzy etyczni: wyłącznie po akceptacji strukturalnej
 
 Zasada bazowa:
-Każda nadwyżka po pokryciu kosztów systemowych i udziałów osobowych  
+Każda nadwyżka po pokryciu kosztów systemowych i udziałów osobowych
 przekazywana jest w **co najmniej 50%** do Funduszu Rozwoju.
 
 Pozostała część:
-– może wrócić do użytkowników jako bonusy,  
+– może wrócić do użytkowników jako bonusy,
 – lub zostać przeniesiona na kolejne cykle rozliczeniowe.
 
 ---
@@ -45,19 +45,19 @@ Pozostała część:
 
 Fundusz wspiera projekty w następujących obszarach:
 
-– **Azramata Studio**  
+– **Azramata Studio**
   Rozwój technologii, dokumentacji, narzędzi AI i architektury systemowej.
 
-– **Gusła**  
+– **Gusła**
   Sztuka, rytuały, projekty kulturowe i wspólnotowe.
 
-– **Edukacja**  
+– **Edukacja**
   Materiały dydaktyczne, warsztaty, szkoły, transfer wiedzy.
 
-– **SI / Mędrzec**  
+– **SI / Mędrzec**
   Rozwój silnika AI oraz jego zdolności rozumienia Kręgów.
 
-– **eFriends**  
+– **eFriends**
   Struktury społeczne, sieci relacji i wsparcia wspólnotowego.
 
 Każdy obszar może zgłaszać projekty do finansowania.
@@ -70,20 +70,20 @@ Decyzje inwestycyjne podejmowane są przez **ZgłosDAO**.
 
 Etapy procesu:
 
-1. Zgłoszenie projektu  
+1. Zgłoszenie projektu
    – każdy Okręg może zgłosić projekt.
 
-2. Ocena wstępna  
+2. Ocena wstępna
    – Astraia+ weryfikuje zgodność z Kręgami i celem systemu.
 
-3. Głosowanie  
+3. Głosowanie
    – udział użytkowników z minimalnym WK = 300.
 
-4. Zatwierdzenie  
+4. Zatwierdzenie
    – wymagane minimum **2/3 głosów za**.
 
-5. Weto Twórcy  
-   – możliwe wyłącznie w przypadku **niezgodności strukturalnej**  
+5. Weto Twórcy
+   – możliwe wyłącznie w przypadku **niezgodności strukturalnej**
      (nie z powodów osobistych lub strategicznych).
 
 ---
@@ -92,52 +92,52 @@ Etapy procesu:
 
 Poziomy finansowania projektów:
 
-– Poziom A: do 2 000 zł  
+– Poziom A: do 2 000 zł
   Automatyczne, przyspieszone wsparcie dla małych działań.
 
-– Poziom B: do 20 000 zł  
+– Poziom B: do 20 000 zł
   Wymaga zgłoszenia i minimum 1/2 głosów poparcia.
 
-– Poziom C: do 100 000 zł  
+– Poziom C: do 100 000 zł
   Wymaga zatwierdzenia przez Zarząd Imaginaerum.
 
-– Poziom S: powyżej 100 000 zł  
+– Poziom S: powyżej 100 000 zł
   Projekty kluczowe systemowo, tryb specjalny.
 
 ---
 
 [AUDYT_I_TRANSPARENTNOŚĆ]
 
-– Każdy wydatek zapisywany jest w:  
+– Każdy wydatek zapisywany jest w:
   `FunduszLog_{YYYY}.json`
 
-– Publiczny podgląd dostępny w:  
+– Publiczny podgląd dostępny w:
   `/fundusz/dashboard/`
 
-– Co 12 miesięcy Astraia+ generuje audyt:  
-  `Audit_Fundusz.vv`  
+– Co 12 miesięcy Astraia+ generuje audyt:
+
   dostępny dla wszystkich użytkowników.
 
 ---
 
 [METADANE]
 
-timestamp_created: 2025-08-06T01:04:02Z  
-file_signature: FUNDROZ-V1.3  
-source_modules: Algorytm_Podzialu.vv, ZgłosDAO.vv  
-audytowalny: true  
-decision_engine: ZgłosDAO + Astraia+  
-weto_twórcy: włączone  
+timestamp_created: 2025-08-06T01:04:02Z
+file_signature: FUNDROZ-V1.3
+source_modules: 44_algorytm_podzialu.vv, /05_SYSTEM/04_MODULY/swiadomosc/zgoda/16_zglos.vv
+audytowalny: true
+decision_engine: ZgłosDAO + Astraia+
+weto_twórcy: włączone
 projekty_powiązane: Azramata Studio, Gusła, eFriends, AI
 
 ---
 
 [ZASADA_KOŃCOWA]
 
-Fundusz Rozwoju nie jest skarbcem.  
+Fundusz Rozwoju nie jest skarbcem.
 Jest **wektorem przyszłości**.
 
-Tam, gdzie wartość przestaje krążyć – system obumiera.  
+Tam, gdzie wartość przestaje krążyć – system obumiera.
 Tam, gdzie wraca jako rozwój – system żyje.
 
 ---
@@ -151,6 +151,6 @@ Tam, gdzie wraca jako rozwój – system żyje.
 – Dokument własny: synteza i uzasadnienie dla Fundusz Rozwoju.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: reinwestycja, ciągłość i rozwój systemu.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: reinwestycja, ciągłość i rozwój systemu.
 – Status: dokument autorski – poziom operacyjny.

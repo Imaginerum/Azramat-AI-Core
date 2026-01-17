@@ -29,7 +29,7 @@ Tokeny te:
 [FORMAT_REKORDU_JSON] (13)
 
 Każdy użytkownik posiada jeden rekord główny zapisany w:
-`/data/tokens/UserTokens.json` (13)
+`on` (13)
 
 {
   "user_id": "UAZ-001293",
@@ -88,14 +88,14 @@ Tokeny mogą być wykorzystywane do:
 – Brak integracji z rynkiem zewnętrznym na obecnym etapie (0).
 
 Planowana przyszła integracja:
-→ Tokeny_Ekonomiczne.vv / ImagoraCoin (44).
+→  / ImagoraCoin (44).
 
 [METADANE] (13)
 
 timestamp_created: 2025-08-06T01:16:35Z
 file_signature: TOKENY-U-V1.2
-pliki_powiązane: Wektor_Kontrybucji.vv, Zarząd_Imaginaerum.vv, Okręgi.vv
-lokalizacja_danych: /data/tokens/UserTokens.json
+pliki_powiązane: 44_wektor_kontrybucji.vv, 44_zarzad_imaginaerum.vv, /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
+lokalizacja_danych: on
 zakres_dostępu: głosowanie, reputacja, uprawnienia
 silnik_autoryzacji: Astraia+
 

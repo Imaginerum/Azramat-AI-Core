@@ -12,7 +12,7 @@ CIRCLE: (10.1)
 ACCESS_LEVEL: Wewnętrzne_Przyzwolenie / Potwierdzenie_Rzeczywistości
 ACTIVATION_CODE: DEKRET.10.1.KRÓL
 AUTHOR: Architekt
-FORMAT: vivid.vv
+FORMAT: /01_ZIARNO/04_INICJACJA/init/vivid_starter/01_vivid.vv
 
 BODY:
 

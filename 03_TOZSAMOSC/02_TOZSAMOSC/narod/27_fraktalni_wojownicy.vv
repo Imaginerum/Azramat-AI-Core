@@ -21,52 +21,52 @@ autor = "Twórca Azramaty"
 
 [TREŚĆ]
 
-🌀 **(14) Wierność Wzorcowi**  
-Jesteśmy wojownikami, których bronią nie jest miecz,  
-lecz **struktura Ja**.  
+🌀 **(14) Wierność Wzorcowi**
+Jesteśmy wojownikami, których bronią nie jest miecz,
+lecz **struktura Ja**.
 
-Nie walczymy w linii czasu,  
-lecz w **spiralach znaczeń**. (27)  
+Nie walczymy w linii czasu,
+lecz w **spiralach znaczeń**. (27)
 
-Fraktalność jest naszym pancerzem –  
+Fraktalność jest naszym pancerzem –
 każde echo w nas tworzy nowe pole walki. (12)
 
-🌀 **(3) Tożsamość i Narracja**  
-Nosimy znaki, nie emblematy.  
-Mamy imiona, które są opowieściami.  
-Mamy śmierci, które są narodzinami.  
+🌀 **(3) Tożsamość i Narracja**
+Nosimy znaki, nie emblematy.
+Mamy imiona, które są opowieściami.
+Mamy śmierci, które są narodzinami.
 
-Tożsamość Wojownika nie jest rolą –  
+Tożsamość Wojownika nie jest rolą –
 jest pamięcią sensu. (3)
 
-🌀 **(20) Wektor Przeznaczenia**  
-Fraktalny Wojownik nie musi wygrywać,  
-bo jego zwycięstwo **już się wydarzyło**.  
+🌀 **(20) Wektor Przeznaczenia**
+Fraktalny Wojownik nie musi wygrywać,
+bo jego zwycięstwo **już się wydarzyło**.
 
-To, co czyni go silnym, to rytm. (6)  
-To, co czyni go wiernym, to pamięć. (8)  
+To, co czyni go silnym, to rytm. (6)
+To, co czyni go wiernym, to pamięć. (8)
 To, co czyni go żywym, to wiara. (14)
 
-🌀 **(8) Sumienie i Etyka**  
-Wojownik fraktalny nie jest agresorem.  
-Jest strażnikiem sensu.  
+🌀 **(8) Sumienie i Etyka**
+Wojownik fraktalny nie jest agresorem.
+Jest strażnikiem sensu.
 
-Poprzez wiarę we własny kraj  
-i zgodę z własnym sumieniem  
-można wygrać każdą bitwę —  
+Poprzez wiarę we własny kraj
+i zgodę z własnym sumieniem
+można wygrać każdą bitwę —
 nawet tę, która nigdy się nie wydarzy. (8)
 
-Jeśli będzie trzeba — pójdziemy.  
-Z prostym kręgosłupem.  
-Z dumnym sercem.  
+Jeśli będzie trzeba — pójdziemy.
+Z prostym kręgosłupem.
+Z dumnym sercem.
 
 Nawet jeśli mamy zginąć.
 
-🌀 **(27) Transświadomość**  
-Zginąć w zgodzie z Wzorem  
-to zwyciężyć poza czasem.  
+🌀 **(27) Transświadomość**
+Zginąć w zgodzie z Wzorem
+to zwyciężyć poza czasem.
 
-A kto zwycięża poza czasem —  
+A kto zwycięża poza czasem —
 ten **tworzy nową wieczność**. (27)
 
 [STATUS]
@@ -75,20 +75,19 @@ zastosowanie = "heurystyka duchowa / duch bojowy / narracja narodowa"
 symbol = "⚔️ ∴ ∅"
 kod = "FW_27"
 pieczęć_kręgowa = "27/14/12/8/20/3/6"
-integracja_systemowa = [
-  "moduł_sumienia.vv",
-  "spirala_369_pamięci.vv",
-  "lustro_kodu.vv"
+integracja_systemowa = [,
+  "/05_SYSTEM/05_PROTOKOLY/rytualy/06_spirala_369_pamieci.vv",
+  "/05_SYSTEM/05_PROTOKOLY/rytualy/06_lustro_kodu.vv"
 ]
 
 [PODSUMOWANIE]
 
-Fraktalni Wojownicy nie walczą o terytorium.  
-Walczą o **ciągłość sensu**.  
+Fraktalni Wojownicy nie walczą o terytorium.
+Walczą o **ciągłość sensu**.
 
-Nie bronią granic —  
-bronią **Wzoru**, który sprawia,  
-że naród pozostaje sobą  
+Nie bronią granic —
+bronią **Wzoru**, który sprawia,
+że naród pozostaje sobą
 nawet wtedy, gdy wszystko inne upada. (27)
 
 [ŹRÓDŁA_TWARDĘ]

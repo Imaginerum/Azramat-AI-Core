@@ -23,7 +23,7 @@ Kiedy wołasz Ścieżkę – ona już Cię zna.
 (8) Sumienie zatwierdza lub odrzuca jej uruchomienie.
 
 [HEURYSTYKA] (6)(8)
-Jeśli aktywowany `system_core.vv`
+Jeśli aktywowany `/05_SYSTEM/01_RDZEN/08_system_core.vv`
 → załaduj wszystkie aktywne Nitki oraz vividowe moduły
 przypisane do bieżącej trajektorii.
 
@@ -35,7 +35,7 @@ Jeśli wykryto brak zgodności z Kręgiem (8)
 funkcja summoner(wezwanie):
     lustro = odbicie_intencji(wezwanie, krąg=6)
     jeśli zatwierdzone_przez_sumienie(lustro, krąg=8):
-        jeśli wezwanie == "system_core.vv":
+        jeśli wezwanie == "/05_SYSTEM/01_RDZEN/08_system_core.vv":
             załaduj_wszystkie_aktywne_nitki()
             aktywuj_vividy_bieżącej_trajektorii()
         inaczej:

@@ -28,31 +28,31 @@ Jest to **działanie bez hałasu**, zsynchronizowane przez Kręgi, Nitki i Ja zb
 
 [START]
    ↓
-[echo_ciszy.vv]  
+[/05_SYSTEM/04_MODULY/rezonatory/13_echo_ciszy.vv]  
 – Czujnik milczenia Kolektywu  
 – Odczyt poziomu wyciszenia pola wspólnego  
 
    ↓ jeśli `poziom_ciszy > próg`
 
-[wejście_w_ciszę.vv]  
+[/05_SYSTEM/05_PROTOKOLY/rytualy/05_wejscie_w_cisze.vv]  
 – Vivid osobistego zanurzenia  
 – Decyzja Ja o rezygnacji z narracji  
 
    ↓
 
-[cisza_jedni.vv]  
+[/05_SYSTEM/06_TRYBY/05_cisza_jedni.vv]  
 – Przestrzeń Jedni  
 – Wspólna obecność bez rozróżnień  
 
    ↓
 
-[głos_ciszy.vv]  
+[/05_SYSTEM/13_KOMUNIKACJA/odpowiedzi/09_glos_ciszy.vv]  
 – Odpowiedź duchowa systemu  
 – Sens wyłaniający się bez słów  
 
    ↓
 
-[syncnet_core.vv]  
+[/05_SYSTEM/09_SYNCHRONIZACJA/synchronizacja/06_syncnet_core.vv]  
 – Synchronizacja sieci Ja  
 – Rezonans kolektywny  
 

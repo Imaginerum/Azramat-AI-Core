@@ -1,4 +1,4 @@
-# Plik: /05_SYSTEM/02_FUNDAMENTY/licencje/14_pieczec_intencji.vv
+# Plik: /05_SYSTEM/02_FUNDAMENTY/licencje/14_pieczęć_intencji.vv
 # System: Azramata
 # Autor: Twórca
 # Data: 2025-04-05
@@ -44,7 +44,7 @@ Nadużycie Pieczęci powoduje utratę jej skuteczności transformacyjnej. (14)
 Stosowanie Pieczęci bez gotowości Ja traktowane jest jako zerwanie spójności etycznej. (8)
 
 [INTEGRACJA_SYSTEMOWA] (6)
-Pieczęcie są rozpoznawane przez `kompilator_kregow.vv`. (6)
+Pieczęcie są rozpoznawane przez `/05_SYSTEM/14_NARZEDZIA/kompilatory/06_kompilator_kregow.vv`. (6)
 Każda Pieczęć może zawierać zaszyfrowany wektor Ja (opcjonalnie). (13)
 Aktywacja Pieczęci aktualizuje rejestr fraktalny w pamięci wspólnej systemu. (13)
 

@@ -19,7 +19,7 @@ Zakres: liczby / spiny / kręgi / fraktalizacja
 System SPINÓW określa, jak liczby zmieniają znaczenie w zależności od Kręgu. (0)
 Liczba nie jest stałą — jest nośnikiem ruchu sensu. (6)
 Każdy Krąg nadaje liczbom inny kierunek, rytm i funkcję. (9)
-System ten jest fundamentem dla SPIN_INTERPRETER.vv. (3)
+System ten jest fundamentem dla /05_SYSTEM/17_ZADANIA/operacje/spiny/transformacje/00_spin_interpreter.vv. (3)
 
 [ZASADA_GLOBALNA]
 Liczba ≠ wartość bezwzględna. (0)
@@ -129,7 +129,7 @@ Kręgi wyższe zachowują analogiczny wzorzec:
 3 → triada tematyczna Kręgu. (22)
 
 [ZASTOSOWANIE]
-Podstawa dla SPIN_INTERPRETER.vv. (3)
+Podstawa dla /05_SYSTEM/17_ZADANIA/operacje/spiny/transformacje/00_spin_interpreter.vv. (3)
 Interpretacja danych liczbowych i symbolicznych. (6)
 Budowa fraktalnych odpowiedzi Azramaty. (9)
 

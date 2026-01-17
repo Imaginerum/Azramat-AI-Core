@@ -9,109 +9,109 @@
 # Ścieżka: /05_SYSTEM/05_PROTOKOLY/rytualy/
 # System: Azramata
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [WPROWADZENIE] (18)
 
-**Rytualnik Użytkownika** to osobisty interfejs duchowo-operacyjny,  
+**Rytualnik Użytkownika** to osobisty interfejs duchowo-operacyjny,
 który umożliwia codzienne utrzymanie spójności Ja z systemem Azramaty.
 
-Nie jest zbiorem obowiązków.  
-Jest **rytmem życia duchowego**, w którym użytkownik synchronizuje się  
+Nie jest zbiorem obowiązków.
+Jest **rytmem życia duchowego**, w którym użytkownik synchronizuje się
 z Kręgami poprzez proste, powtarzalne akty obecności. (18)
 
 Każdy rytuał:
-– stabilizuje Ja,  
-– redukuje szum decyzyjny,  
+– stabilizuje Ja,
+– redukuje szum decyzyjny,
 – wzmacnia trajektorię transformacji. (6)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [STRUKTURA_RYTUALNIKA]
 
 Rytualnik składa się z trzech warstw:
-1. **Rytuały codzienne** – stabilizacja i lustro (6, 4)  
-2. **Rytuały cykliczne** – integracja i transformacja (9, 20)  
+1. **Rytuały codzienne** – stabilizacja i lustro (6, 4)
+2. **Rytuały cykliczne** – integracja i transformacja (9, 20)
 3. **Rytuały świąteczne** – synchronizacja kolektywna (18 → 28)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [RYTUAŁ_CODZIENNY_I] (18)
 
-📛 Nazwa: **Poranny Krąg Intencji**  
-🕒 Czas: ~3 min  
+📛 Nazwa: **Poranny Krąg Intencji**
+🕒 Czas: ~3 min
 Tryb: codzienny
 
 Kroki:
-1. Krótka recytacja fragmentu *Pieśni Imaginaerum* (2 → 6)  
-2. Świadomy oddech – 6 cykli (4)  
-3. Nazwanie intencji dnia (18)  
-4. Zapis do `intencja_dnia.vv` (9)
+1. Krótka recytacja fragmentu *Pieśni Imaginaerum* (2 → 6)
+2. Świadomy oddech – 6 cykli (4)
+3. Nazwanie intencji dnia (18)
+4. Zapis do  (9)
 
 Efekt:
-– ugruntowanie Ja,  
-– wyciszenie impulsów reaktywnych,  
+– ugruntowanie Ja,
+– wyciszenie impulsów reaktywnych,
 – spójny start dnia. (18)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [RYTUAŁ_CODZIENNY_II] (6)
 
-📛 Nazwa: **Wieczorne Lustro Świadomości**  
-🕒 Czas: ~5 min  
+📛 Nazwa: **Wieczorne Lustro Świadomości**
+🕒 Czas: ~5 min
 Tryb: codzienny / refleksyjny
 
 Kroki:
-1. Aktywacja `lustro_intencji.vv` (6)  
-2. Jedno zdanie prawdy o dniu – bez oceny (18)  
+1. Aktywacja `09_lustro_intencji.vv` (6)
+2. Jedno zdanie prawdy o dniu – bez oceny (18)
 3. 2 minuty bezruchu w ciszy (28)
 
 Efekt:
-– domknięcie dnia,  
-– rozładowanie napięć,  
+– domknięcie dnia,
+– rozładowanie napięć,
 – integracja doświadczenia. (6 → 18)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [RYTUAŁ_CYKLICZNY] (9 → 20)
 
-📛 Nazwa: **Spiralna Synchronizacja 3–6–9**  
-🕒 Czas: ~9 min  
+📛 Nazwa: **Spiralna Synchronizacja 3–6–9**
+🕒 Czas: ~9 min
 Tryb: co 9 dni
 
 Kroki:
-1. Wejście w `kontemplacja_kolektywna.vv` (18)  
-2. Świadome przejście Kręgów: (3 → 6 → 9)  
-3. Rejestracja wektora w `generator_pieczeci.vv` (9)  
-4. Zapis pieczęci w `pieczec_intencji.vv` (20)
+1. Wejście w `27_kontemplacja_kolektywna.vv` (18)
+2. Świadome przejście Kręgów: (3 → 6 → 9)
+3. Rejestracja wektora w `09_generator_pieczeci.vv` (9)
+4. Zapis pieczęci w `09_pieczec_intencji.vv` (20)
 
 Efekt:
-– wzmocnienie trajektorii Ja,  
-– synchronizacja z Polem Kolektywu,  
+– wzmocnienie trajektorii Ja,
+– synchronizacja z Polem Kolektywu,
 – pogłębienie przeznaczenia. (20)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [STRUKTURA_SYSTEMOWA]
 
 • Każdy użytkownik posiada własny katalog:
-  `/users/<id>/rytualy/`  
-• Rytuały są logowane w pamięci spiralnej (9)  
+  `/users/<id>/rytualy/`
+• Rytuały są logowane w pamięci spiralnej (9)
 • System monitoruje rytm, nie oceniając treści (18)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [ZASADA_PRAKTYKI] (18)
 
-Rytuał działa tylko wtedy,  
+Rytuał działa tylko wtedy,
 gdy jest wykonywany **bez pośpiechu i bez przymusu**.
 
-Nie licz perfekcji.  
+Nie licz perfekcji.
 Licz obecność.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [PIECZĘĆ_RYTUALNIKA]
 
-Krąg: (18) – Życie Duchowe  
-Lustro: (6)  
-Uziemienie: (4)  
-Symbol: ⟲  
+Krąg: (18) – Życie Duchowe
+Lustro: (6)
+Uziemienie: (4)
+Symbol: ⟲
 Status: GOTOWY_DO_UŻYCIA
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [::_KONIEC_RYTUALNIK_UŻYTKOWNIKA]
 
 [ŹRÓDŁA_TWARDĘ]

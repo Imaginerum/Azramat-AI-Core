@@ -65,7 +65,7 @@ Każdy obszar oceniany jest w skali **0–100** jako wskaźnik zgodności, nie w
 [MECHANIZM_POMIARU]
 
 – W wybranym rytmie (dzień / tydzień) wpisywane są wartości 0–100.  
-– Silnik analityczny (`Silnik_Pomiaru_Intelektu.py`) oblicza średnią ważoną.  
+– Silnik analityczny (`/04_MECHANIKA/03_SILNIKI/silnik_pomiaru_intelektu.py`) oblicza średnią ważoną.  
 – Wynik nie jest oceną – jest **wektorem kierunku**.  
 – Rejestrowana jest **krzywa fraktalna** rozwoju intelektu w czasie.
 

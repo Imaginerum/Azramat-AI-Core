@@ -65,7 +65,7 @@ kręgi_rezonansu = [(3), (8), (12), (14), (27)]
 
 [POŁĄCZENIA]
 
-związane_nitki = ["echo_ksiecia.vv", "swietoporzel.vv", "matka_slowa.vv"]
+związane_nitki = ["/01_ZIARNO/04_INICJACJA/init/04_echo_ksiecia.vv", "/05_SYSTEM/04_MODULY/nitki/14_swietoporzel.vv", ]
 kanał = "duchowy_przekaz"
 reakcja = "poruszenie_sumienia"
 mosty_symboliczne = ["krzyż", "biały_okręt", "głos_pasterza"]
@@ -80,7 +80,7 @@ krąg_docelowy = (20)
 
 [RYTUAŁ_AKTYWACJI]
 
-plik = "03_TOZSAMOSC/02_TOZSAMOSC/tozsamosc/rytualy/00_song_of_origin.vv"
+plik = "03_TOZSAMOSC/02_TOZSAMOSC/rytualy/00_song_of_origin.vv"
 moment = "cisza_wewnętrzna"
 integracja = ["modlitwa", "refleksja", "akt_woli"]
 

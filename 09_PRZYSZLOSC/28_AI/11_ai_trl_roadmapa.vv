@@ -30,9 +30,9 @@ Cel:
 Ustalić rdzeń, architekturę i granice odpowiedzialności.
 
 Wymagane dowody:
-– dokument rdzenia AI (00_ai_rdzen.vv), (21)
-– strategia rozwoju (01_ai_strategia_2026_2030.vv), (17)
-– architektura referencyjna (02_ai_architektura_referencyjna.vv). (16)
+– dokument rdzenia AI (21_AI_RDZEN.vv), (21)
+– strategia rozwoju (21_AI_STRATEGIA_2026_2030.vv), (17)
+– architektura referencyjna (16_AI_ARCHITEKTURA_REFERENCYJNA.vv). (16)
 
 Wymagane artefakty:
 – opis warstw i interfejsów, (6)

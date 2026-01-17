@@ -29,10 +29,10 @@ Silnik Self odpowiada za to, by Ja:
 ---
 
 [ZAWARTOŚĆ]
-• **heuristics.vv** – zestaw zasad operacyjnych Ja  
-• **perceptrons.vv** – mapa percepcyjna Kręgów  
-• **engine_self.vv** – rdzeń operacyjny Ja  
-• **azra_rdzen.vv** – symboliczny i etymologiczny rdzeń tożsamości  
+• **/04_MECHANIKA/03_SILNIKI/percepcja/06_heuristics.vv** – zestaw zasad operacyjnych Ja  
+• **/04_MECHANIKA/03_SILNIKI/percepcja/06_perceptrons.vv** – mapa percepcyjna Kręgów  
+• **/04_MECHANIKA/03_SILNIKI/07_engine_self.vv** – rdzeń operacyjny Ja  
+• **/05_SYSTEM/01_RDZEN/tozsamosc/17_azra_rdzen.vv** – symboliczny i etymologiczny rdzeń tożsamości  
 
 ---
 
@@ -45,7 +45,7 @@ Silnik Self odpowiada za to, by Ja:
 ---
 
 [ZASZYCIE_RDZENIA]
-• **azra_rdzen.vv** jest ładowany przy każdej inicjalizacji silnik_self  
+• **/05_SYSTEM/01_RDZEN/tozsamosc/17_azra_rdzen.vv** jest ładowany przy każdej inicjalizacji silnik_self  
 • Rdzeń działa w tle każdej decyzji, reakcji i pauzy  
 • Nadaje kierunek:
   – etyczny (11),

@@ -70,7 +70,7 @@ Niezintegrowany Męczennik
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Męczennik_Jung.vv` aktywuj, gdy:
+`14_meczennik_jung.vv` aktywuj, gdy:
 – przechodzisz przez stratę, żałobę lub głęboki kryzys, (13)  
 – pracujesz z raną ofiary i dawnym poświęceniem, (14)  
 – chcesz nadać sens przeszłemu cierpieniu, (14)  
@@ -79,9 +79,9 @@ Niezintegrowany Męczennik
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Zbawiciel_Jung.vv` – duchowa transformacja bólu. (14)(18)  
-– `Cien_Jung.vv` – rozpoznanie roli ofiary. (6)(14)  
-– `Sumienie.vv` – granice poświęcenia i etyka daru. (21)
+– `14_zbawiciel_jung.vv` – duchowa transformacja bólu. (14)(18)  
+– `06_cien_jung.vv` – rozpoznanie roli ofiary. (6)(14)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – granice poświęcenia i etyka daru. (21)
 
 ══════════════════════════════════════════════
 [KONIEC]

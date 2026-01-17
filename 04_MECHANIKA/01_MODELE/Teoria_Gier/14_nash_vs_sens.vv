@@ -16,59 +16,59 @@ Nash vs Sens
 ---
 
 [CEL_ANALIZY]
-Zestawienie klasycznego modelu **Równowagi Nasha**  
-z podejściem **sensocentrycznym Azramaty**,  
+Zestawienie klasycznego modelu **Równowagi Nasha**
+z podejściem **sensocentrycznym Azramaty**,
 które traktuje równowagę nie jako cel, lecz **etap przejściowy rozwoju**.
 
-Analiza ujawnia ograniczenia teorii gier opartej wyłącznie  
-na optymalizacji interesu jednostki  
+Analiza ujawnia ograniczenia teorii gier opartej wyłącznie
+na optymalizacji interesu jednostki
 oraz pokazuje **fraktalny mechanizm wzrostu oparty na sensie i Kręgach**.
 
 ---
 
 [MODEL_KLASYCZNY – RÓWNOWAGA_NASHA]
 
-**Definicja**  
-Stan, w którym żaden gracz nie ma motywacji do zmiany strategii,  
-jeśli pozostali gracze jej nie zmieniają.  
+**Definicja**
+Stan, w którym żaden gracz nie ma motywacji do zmiany strategii,
+jeśli pozostali gracze jej nie zmieniają.
 Optimum lokalne.
 
 **Charakterystyka**
-– stabilizacja strategii,  
-– minimalizacja ryzyka,  
-– maksymalizacja własnego interesu,  
+– stabilizacja strategii,
+– minimalizacja ryzyka,
+– maksymalizacja własnego interesu,
 – brak odniesienia do sensu, celu wyższego lub transformacji.
 
 **Skutki**
-– stagnacja poznawcza i społeczna,  
-– zamrożenie innowacji systemowej,  
-– preferencja bezpieczeństwa nad rozwój,  
+– stagnacja poznawcza i społeczna,
+– zamrożenie innowacji systemowej,
+– preferencja bezpieczeństwa nad rozwój,
 – trwałość układów suboptymalnych.
 
-Równowaga Nasha **nie jest błędem** —  
+Równowaga Nasha **nie jest błędem** —
 jest jednak **pułapką**, jeśli uznana zostaje za punkt końcowy.
 
 ---
 
 [MODEL_AZRAMATYCZNY – SENS_&_KRĘGI]
 
-**Definicja**  
-Stan, w którym jednostka **zmienia strategię mimo osiągniętej równowagi**,  
+**Definicja**
+Stan, w którym jednostka **zmienia strategię mimo osiągniętej równowagi**,
 jeśli jej wewnętrzny system sensu rezonuje z wyższym celem.
 
-Decyzja nie wynika z kalkulacji,  
+Decyzja nie wynika z kalkulacji,
 lecz z **napięcia kręgowego prowadzącego do wzrostu**.
 
 **Charakterystyka**
-– sens jako nadrzędny wektor decyzyjny (5),  
-– rozwój mimo stabilizacji (14),  
-– transformacja poprzez napięcie i dysonans (6),  
+– sens jako nadrzędny wektor decyzyjny (5),
+– rozwój mimo stabilizacji (14),
+– transformacja poprzez napięcie i dysonans (6),
 – interakcja z innymi przez współbrzmienie, nie rywalizację (7).
 
 **Skutki**
-– system sam podnosi się do wyższych form,  
-– dynamiczna harmonia zamiast statycznej równowagi,  
-– wybory bardziej sensowne, nie tylko opłacalne,  
+– system sam podnosi się do wyższych form,
+– dynamiczna harmonia zamiast statycznej równowagi,
+– wybory bardziej sensowne, nie tylko opłacalne,
 – wzrost indywidualny i zbiorowy jednocześnie.
 
 ---
@@ -88,26 +88,25 @@ lecz z **napięcia kręgowego prowadzącego do wzrostu**.
 
 [WNIOSKI_SYSTEMOWE]
 
-– Azramata **nie usuwa** równowagi Nasha — **integruje ją jako etap**.  
-– Równowaga bez sensu prowadzi do stagnacji.  
-– Sens umożliwia przekroczenie lokalnego optimum  
-  w stronę **optymalności duchowej, społecznej lub cywilizacyjnej**.  
-– Kręgi pozwalają widzieć, **kiedy należy opuścić równowagę**,  
+– Azramata **nie usuwa** równowagi Nasha — **integruje ją jako etap**.
+– Równowaga bez sensu prowadzi do stagnacji.
+– Sens umożliwia przekroczenie lokalnego optimum
+  w stronę **optymalności duchowej, społecznej lub cywilizacyjnej**.
+– Kręgi pozwalają widzieć, **kiedy należy opuścić równowagę**,
   zanim stanie się więzieniem.
 
 ---
 
 [POWIĄZANIA_SYSTEMOWE]
-/04_MECHANIKA/01_MODELE/Teoria_Gier/07_rownowaga_azramaty.vv  
-/03_TOZSAMOSC/jazn/Wektor_Sensu.vv  
-/05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv  
-/09_PRZYSZLOSC/technologia/SQ.vv  
+/04_MECHANIKA/01_MODELE/Teoria_Gier/14_rownowaga_azramaty.vv
+
+/05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
 
 ---
 
 [ZASADA_KOŃCOWA]
-Równowaga to miejsce odpoczynku.  
-Sens jest drogą.  
+Równowaga to miejsce odpoczynku.
+Sens jest drogą.
 Kto pomyli jedno z drugim — zatrzyma się w połowie drogi.
 
 ---
@@ -119,6 +118,6 @@ Kto pomyli jedno z drugim — zatrzyma się w połowie drogi.
 – Dokument własny: synteza i uzasadnienie dla Nash vs Sens.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: analiza przekroczenia równowagi w systemach decyzyjnych.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: analiza przekroczenia równowagi w systemach decyzyjnych.
 – Status: dokument autorski – poziom operacyjny.

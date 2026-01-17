@@ -11,7 +11,7 @@ from dataclasses import dataclass, asdict
 from typing import Dict, List, Optional, Tuple
 
 # --- Domeny/obszary -----------------------------------------------------------
-OBSZARY: Tuple[str, ...] = (
+OBSZARY: Tuple[str,...] = (
     "Analiza poznawcza",
     "Twórczość systemowa",
     "Konstrukcja symboliczna",
@@ -59,8 +59,8 @@ class DziennyWynik:
     preset: str
 
 # --- Narzędzia ----------------------------------------------------------------
-def _dzis() -> str:
-    return _dt.date.today().isoformat()
+def _dzis -> str:
+    return _dt.date.today.isoformat
 
 def _clamp(v: float, lo=0.0, hi=100.0) -> float:
     return max(lo, min(hi, float(v)))
@@ -79,7 +79,7 @@ def oblicz_srednia_wazona(oceny: Dict[str, float], wagi: Dict[str, float]) -> fl
     oceny = _uzupelnij_braki(oceny)
     wagi = _normalizuj_wagi(wagi)
     suma_wazona = sum(oceny[k] * wagi[k] for k in OBSZARY)
-    suma_wag = sum(wagi.values()) or 1.0
+    suma_wag = sum(wagi.values) or 1.0
     return round(suma_wazona / suma_wag, 2)
 
 def wskaz_slabe_mocne(oceny: Dict[str, float], top_n: int = 2) -> Tuple[List[Tuple[str, float]], List[Tuple[str, float]]]:
@@ -89,7 +89,7 @@ def wskaz_slabe_mocne(oceny: Dict[str, float], top_n: int = 2) -> Tuple[List[Tup
     return slabe, mocne
 
 def rekomendacje(oceny: Dict[str, float]) -> List[str]:
-    tips = []
+    tips =
     if oceny.get("Napęd emocjonalny", 0) < 60:
         tips.append("Zasil napęd: 20 min ruchu albo krótka sesja oddechowa przed zadaniem.")
     if oceny.get("Efektywność techniczna", 0) < 65:
@@ -104,31 +104,31 @@ def rekomendacje(oceny: Dict[str, float]) -> List[str]:
 def _ensure_dir(path: str):
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
-def zapisz_json(wynik: DziennyWynik, path: str = "data/intellect/history.json"):
+def zapisz_json(wynik: DziennyWynik, path: str = "on"):
     _ensure_dir(path)
-    data = []
+    data =
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
             try:
                 data = json.load(f)
             except json.JSONDecodeError:
-                data = []
+                data =
     # nadpisz wpis dla tej samej daty
     data = [r for r in data if r.get("data") != wynik.data]
     data.append(asdict(wynik))
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def wczytaj_json(path: str = "data/intellect/history.json") -> List[DziennyWynik]:
+def wczytaj_json(path: str = "on") -> List[DziennyWynik]:
     if not os.path.exists(path):
-        return []
+        return
     with open(path, "r", encoding="utf-8") as f:
         raw = json.load(f)
     return [DziennyWynik(**r) for r in raw]
 
-def eksport_csv(path_csv: str = "data/intellect/history.csv", historia: Optional[List[DziennyWynik]] = None):
+def eksport_csv(path_csv: str =, historia: Optional[List[DziennyWynik]] = None):
     _ensure_dir(path_csv)
-    hist = historia or wczytaj_json()
+    hist = historia or wczytaj_json
     with open(path_csv, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["data", "preset", "srednia_wazona", *OBSZARY])
@@ -160,7 +160,7 @@ def trend(historia: List[DziennyWynik]) -> Tuple[Optional[float], Optional[str]]
 
 # --- Raporty ------------------------------------------------------------------
 def generuj_raport(dzisiejsze_oceny: Dict[str, float], preset: str = "domyslne") -> str:
-    dat = _dzis()
+    dat = _dzis
     oceny = _uzupelnij_braki(dzisiejsze_oceny)
     wagi = PRESETY_WAG.get(preset, WAGI_DOMYSLNE)
     srednia = oblicz_srednia_wazona(oceny, wagi)
@@ -184,14 +184,14 @@ def generuj_raport(dzisiejsze_oceny: Dict[str, float], preset: str = "domyslne")
     # zapisz do historii i policz trend
     rec = DziennyWynik(data=dat, poziomy=oceny, srednia_wazona=srednia, preset=preset)
     zapisz_json(rec)
-    ma7, arrow = trend(wczytaj_json())
+    ma7, arrow = trend(wczytaj_json)
     if ma7 is not None:
         raport += ["", f"📊 Trend 7-dniowy: {ma7:.2f}% {arrow}"]
 
     return "\n".join(raport)
 
 def generuj_markdown(dzisiejsze_oceny: Dict[str, float], preset: str = "domyslne") -> str:
-    dat = _dzis()
+    dat = _dzis
     oceny = _uzupelnij_braki(dzisiejsze_oceny)
     wagi = PRESETY_WAG.get(preset, WAGI_DOMYSLNE)
     srednia = oblicz_srednia_wazona(oceny, wagi)
@@ -208,7 +208,7 @@ def generuj_markdown(dzisiejsze_oceny: Dict[str, float], preset: str = "domyslne
     return "\n".join(lines)
 
 # --- CLI ----------------------------------------------------------------------
-def _demo():
+def _demo:
     dzisiejsze_oceny = {
         "Analiza poznawcza": 89,
         "Twórczość systemowa": 77,
@@ -220,17 +220,17 @@ def _demo():
         "Samoświadomość / introspekcja": 95,
     }
     print(generuj_raport(dzisiejsze_oceny, preset="tworczy"))
-    eksport_csv()
+    eksport_csv
 
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(description="Silnik pomiaru intelektu — raport dzienny")
-    ap.add_argument("--preset", default="domyslne", choices=list(PRESETY_WAG.keys()))
+    ap.add_argument("--preset", default="domyslne", choices=list(PRESETY_WAG.keys))
     ap.add_argument("--oceny", type=str,
                     help="JSON map obszar->% (np. '{\"Analiza poznawcza\":80, \"Twórczość systemowa\":90}')")
     ap.add_argument("--md", action="store_true", help="Wypisz w formacie Markdown")
     ap.add_argument("--export-csv", action="store_true", help="Eksportuj historię do CSV")
-    args = ap.parse_args()
+    args = ap.parse_args
 
     if args.oceny:
         try:
@@ -241,10 +241,10 @@ if __name__ == "__main__":
         # fallback: szybki szablon do ręcznego wpisania
         oceny = {k: 70.0 for k in OBSZARY}
 
-    if args.md:
+    if:
         print(generuj_markdown(oceny, preset=args.preset))
     else:
         print(generuj_raport(oceny, preset=args.preset))
 
     if args.export_csv:
-        eksport_csv()
+        eksport_csv

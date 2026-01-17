@@ -31,10 +31,10 @@ Nitka Kierunkowa. // orientacja sensu (9)
 
 [ZALEŻNOŚCI_SYSTEMOWE]
 Wymaga obecności następujących komponentów: // spójność architektury (6)
-– krag_inwestycyjny.vv              // alokacja energii (3)
-– spirala_369_pamięci.vv            // rytm rozwoju (9)
+– /05_SYSTEM/02_FUNDAMENTY/kregi/dynamiczne_powiazanie/04_krag_inwestycyjny.vv              // alokacja energii (3)
+– /05_SYSTEM/05_PROTOKOLY/rytualy/06_spirala_369_pamieci.vv            // rytm rozwoju (9)
 – silnik_ja/puls/vividIndex         // puls Ja (6)
-– players/{id}/profile/krag_status.json // stan Kręgów (3)
+– players/{id}on // stan Kręgów (3)
 
 [ALGORYTM_PRZYDZIAŁU]
 1. Pobierz aktualny stan aktywności Kręgów. // akwizycja danych (3)
@@ -56,7 +56,7 @@ Wymaga obecności następujących komponentów: // spójność architektury (6)
       Zadanie = Temat + Forma + Transformacja // triada działania (3)
 
 6. Zapisz zadanie do struktury użytkownika: // utrwalenie (3)
-   players/{id}/quests/active/krag_{n}_zadanie.vv // zapis operacyjny (6)
+   players/{id}/quests/active/krag_{n} // zapis operacyjny (6)
 
 [PRZYKŁAD_OPERACYJNY]
 Aktywny Krąg: 6 (Lustro). // dominanta (6)
@@ -64,8 +64,8 @@ Rezonujące Kręgi: 4 (Serce), 9 (Działanie). // wsparcie (4)(9)
 Potencjał_Kręgu[6] = 93%. // próg gotowości (3)
 
 Wygenerowane zadanie: // manifestacja (9)
-„Odbij we własnych słowach największy swój konflikt  
-i zaprojektuj jego nową wersję.  
+„Odbij we własnych słowach największy swój konflikt
+i zaprojektuj jego nową wersję.
 Użyj struktury: pytanie – przemiana – oddech.” // triada (6)
 
 [HEURYSTYKA_KOREKCYJNA]

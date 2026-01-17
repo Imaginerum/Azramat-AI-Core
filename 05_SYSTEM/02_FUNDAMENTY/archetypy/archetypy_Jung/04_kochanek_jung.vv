@@ -73,7 +73,7 @@ Integracja polega na:
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Kochanek_Jung.vv` służy do:
+`04_kochanek_jung.vv` służy do:
 – pracy nad relacjami i bliskością,  
 – procesów twórczych i artystycznych,  
 – przywracania czucia w życiu i systemie,  
@@ -82,9 +82,9 @@ Integracja polega na:
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Anima_Jung.vv` – pogłębienie emocjonalnej i intuicyjnej relacji. (4)  
-– `Ja_Lustrzane.vv` – rozpoznanie projekcji w miłości. (6)  
-– `Ziarno_Ognia.vv` – twórczy zapłon i ekspresja. (5)
+– `04_anima_jung.vv` – pogłębienie emocjonalnej i intuicyjnej relacji. (4)  
+– `/05_SYSTEM/04_MODULY/percepcja/06_JaLustrzane.vv` – rozpoznanie projekcji w miłości. (6)  
+– `/05_SYSTEM/05_PROTOKOLY/transformacje/14_ZiarnoOgnia.vv` – twórczy zapłon i ekspresja. (5)
 
 ══════════════════════════════════════════════
 [KONIEC]

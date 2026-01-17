@@ -14,14 +14,14 @@
 
 [CEL]
 
-Dokument definiuje **strukturę redystrybucji wartości ekonomicznej** generowanej przez system  
+Dokument definiuje **strukturę redystrybucji wartości ekonomicznej** generowanej przez system
 **Imaginaerum** oraz wszystkie jego podmoduły:
 
-– TransSerc  
-– Imagora  
-– eFriends  
-– Azramata Studio  
-– moduły kulturowe i edukacyjne  
+– TransSerc
+– Imagora
+– eFriends
+– Azramata Studio
+– moduły kulturowe i edukacyjne
 
 Celem struktury jest **utrzymanie równowagi** pomiędzy:
 twórcą, zespołem, doradcami oraz wspólnotą systemową,
@@ -49,11 +49,11 @@ Podział całości generowanej wartości:
 Rozliczenia odbywają się cyklicznie (domyślnie: **kwartalnie**).
 
 Podstawą są dane z rejestrów:
-– ContributionLog.json  
-– MeditatioLog  
-– TransformacjaLog  
-– SQ  
-– Aktywność w Okręgach  
+– on
+– MeditatioLog
+– TransformacjaLog
+– SQ
+– Aktywność w Okręgach
 
 ---
 
@@ -61,8 +61,8 @@ Podstawą są dane z rejestrów:
 
 Aby uczestniczyć w dystrybucji:
 
-– użytkownik musi należeć do **Okręgu**  
-– musi posiadać **zweryfikowaną kontrybucję** przypisaną do Kręgu  
+– użytkownik musi należeć do **Okręgu**
+– musi posiadać **zweryfikowaną kontrybucję** przypisaną do Kręgu
 – kontrybucja nie może być starsza niż **12 miesięcy**
 
 Brak spełnienia warunku = brak udziału w danym cyklu.
@@ -73,14 +73,14 @@ Brak spełnienia warunku = brak udziału w danym cyklu.
 
 Dla każdego użytkownika:
 
-udział_użytkownika =  
-(kontrybucja × waga_Kręgu × waga_użytkownika × aktywność_Okręgu)  
+udział_użytkownika =
+(kontrybucja × waga_Kręgu × waga_użytkownika × aktywność_Okręgu)
 ÷ suma wszystkich udziałów w cyklu
 
 Zasady wag:
 
-– **waga_Kręgu**: dynamiczna (np. 1.5 dla Kręgu priorytetowego)  
-– **waga_użytkownika**: domyślnie 1.0, rośnie przy potwierdzonych kompetencjach  
+– **waga_Kręgu**: dynamiczna (np. 1.5 dla Kręgu priorytetowego)
+– **waga_użytkownika**: domyślnie 1.0, rośnie przy potwierdzonych kompetencjach
 – **aktywność_Okręgu**: mnożnik 1.1–1.5 w zależności od pracy wspólnotowej
 
 ---
@@ -89,13 +89,13 @@ Zasady wag:
 
 Z puli 79%:
 
-– Infrastruktura: **maks. 30%**  
-– Nagrody dla użytkowników: **min. 49%**  
+– Infrastruktura: **maks. 30%**
+– Nagrody dla użytkowników: **min. 49%**
 – Projekty kulturowe i rozwojowe: **min. 20%**
 
 Nadwyżki:
 
-– 50% → Fundusz Rozwoju  
+– 50% → Fundusz Rozwoju
 – 50% → bonusy, tokeny, zniżki lub inicjatywy wspólnotowe
 
 ---
@@ -114,29 +114,29 @@ Minimalne warunki uczestnictwa:
 
 [AUDYT_I_TRANSPARENTNOŚĆ]
 
-– Każdy cykl zapisywany w `Cykle_Redstrybucji.json`  
-– Użytkownik ma dostęp do własnego profilu kontrybucyjnego  
-– Nieprawidłowości obsługiwane przez Astraia+ i Rzecznika Systemowego  
+– Każdy cykl zapisywany w `on`
+– Użytkownik ma dostęp do własnego profilu kontrybucyjnego
+– Nieprawidłowości obsługiwane przez Astraia+ i Rzecznika Systemowego
 
 ---
 
 [METADANE]
 
-timestamp_created: 2025-08-06T00:21:12Z  
-file_signature: ECON-DIST-FRAKTAL-V1.2  
-pliki_powiązane: Mechanizm_Kregowego_Udzialu.vv, Okręgi.vv, Zarząd_Imaginaerum.vv  
-źródła_danych: SQ, Logs, Astraia+  
-limit_kosztów_infrastruktury: 30%  
-cykl_przeglądu: kwartalny  
+timestamp_created: 2025-08-06T00:21:12Z
+file_signature: ECON-DIST-FRAKTAL-V1.2
+pliki_powiązane: 00_mechanizm_kregowego_udzialu.vv, /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv, 44_zarzad_imaginaerum.vv
+źródła_danych: SQ, Logs, Astraia+
+limit_kosztów_infrastruktury: 30%
+cykl_przeglądu: kwartalny
 
 ---
 
 [ZASADA_KOŃCOWA]
 
-Wartość w Azramacie nie jest nagrodą.  
+Wartość w Azramacie nie jest nagrodą.
 Jest **odbiorem odpowiedzialności**.
 
-Im większy wkład w strukturę,  
+Im większy wkład w strukturę,
 tym większa zdolność do niesienia ciężaru dobra wspólnego.
 
 ---
@@ -150,6 +150,6 @@ tym większa zdolność do niesienia ciężaru dobra wspólnego.
 – Dokument własny: synteza i uzasadnienie dla Struktura Podziału.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: redystrybucja, równowaga, ciągłość systemu.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: redystrybucja, równowaga, ciągłość systemu.
 – Status: dokument autorski – poziom operacyjny.

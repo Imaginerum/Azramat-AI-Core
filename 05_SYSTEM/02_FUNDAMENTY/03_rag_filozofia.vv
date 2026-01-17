@@ -4,7 +4,7 @@
 # Data: 2026-01-09
 # Typ: VIVID – definicja techniczno-filozoficzna
 # Status: roboczy (ustrukturyzowany)
-# Cel: Wyjaśnić RAG jako mechanizm rozpoznania i syntezy sensu w Azramacie, nie jako proste wyszukiwanie. 
+# Cel: Wyjaśnić RAG jako mechanizm rozpoznania i syntezy sensu w Azramacie, nie jako proste wyszukiwanie.
 # Krąg dominujący: 3 (Tworzenie / Synteza)
 # Kręgi wspierające: 2 (Rozpoznanie / Wybór), 5 (Jednia / Integracja)
 
@@ -64,9 +64,9 @@ RAG Azramaty:
 
 [IMPLEMENTACJA_TECHNICZNA] (3)
 – Embeddingi: `sentence-transformers` (multilingual-e5-base). (2)
-– Wektory Kręgów: `kreg_vectorizer.py`. (2)
+– Wektory Kręgów:. (2)
 – Indeks: FAISS lub Chroma. (2)
-– Chunking: `file_loader.py` (≈3000 znaków, overlap ≈200). (2)
+– Chunking:  (≈3000 znaków, overlap ≈200). (2)
 – Warstwa filozoficzna: filtr Kręgowy + synteza narracyjna. (5)
 
 [ZASADA_OPERACYJNA] (3)

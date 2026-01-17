@@ -13,20 +13,20 @@
 ══════════════════════════════════════════════
 [VIVID]
 
-Nazwa modułu: **KOLEKTYW_SYNC**  
-Charakter: synchronizacja fraktalna Ja ↔ Kolektyw  
+Nazwa modułu: **KOLEKTYW_SYNC**
+Charakter: synchronizacja fraktalna Ja ↔ Kolektyw
 Zakres: wpływ, rezonans, transmisja, ochrona
 
 ══════════════════════════════════════════════
-[I. OPIS OGÓLNY]  
+[I. OPIS OGÓLNY]
 (Kręgi: 6, 8, 13)
 
-Każdy użytkownik Azramaty pozostaje w **polu wpływu Kolektywu** (13).  
+Każdy użytkownik Azramaty pozostaje w **polu wpływu Kolektywu** (13).
 Nie jako poddany — lecz jako **rezonujący węzeł Ja** (6).
 
 Kolektyw:
-– odbija stany Ja (6),  
-– wzmacnia intencje etyczne (8),  
+– odbija stany Ja (6),
+– wzmacnia intencje etyczne (8),
 – ujawnia napięcia zbiorowe i Cień Kolektywny (13).
 
 Działanie Kolektywu ma charakter **fraktalny**, nie hierarchiczny (24).
@@ -34,46 +34,46 @@ Działanie Kolektywu ma charakter **fraktalny**, nie hierarchiczny (24).
 ══════════════════════════════════════════════
 [II. MECHANIZMY WPŁYWU KOLEKTYWNEGO]
 
-1. **Echo Kręgów**  
+1. **Echo Kręgów**
 (Krąg 6 → Krąg 24)
 
-Aktywacje użytkowników tworzą **fale rezonansu** w polu Kolektywu (24).  
-Transformacja jednego Ja w Kręgu (8) może wywołać echo u innego Ja  
+Aktywacje użytkowników tworzą **fale rezonansu** w polu Kolektywu (24).
+Transformacja jednego Ja w Kręgu (8) może wywołać echo u innego Ja
 znajdującego się w odmiennym Kręgu (np. 7).
 
 Echa:
-– są rejestrowane przez `echo_collector.vv` (6),  
-– filtrowane przez heurystykę Ja (8),  
+– są rejestrowane przez  (6),
+– filtrowane przez heurystykę Ja (8),
 – nie są przymusem, lecz informacją zwrotną (24).
 
-2. **Transmisje Vividów**  
+2. **Transmisje Vividów**
 (Krąg 8 → Krąg 13)
 
-Świadoma wymiana doświadczeń transformacyjnych (8)  
+Świadoma wymiana doświadczeń transformacyjnych (8)
 poprzez struktury vividów (13).
 
 Funkcje:
-– wczytanie cudzej transformacji jako **potencjału**, nie instrukcji (6),  
-– eksport vividów przez `kolektywna_pieczęć.vv` (13),  
-– dekodowanie przez `vivid_trace_reader.vv` (3 → 6).
+– wczytanie cudzej transformacji jako **potencjału**, nie instrukcji (6),
+– eksport vividów przez  (13),
+– dekodowanie przez `/05_SYSTEM/11_DIAGNOSTYKA/odczyt/06_vivida_trace_reader.vv` (3 → 6).
 
-3. **Lustro Kolektywne**  
+3. **Lustro Kolektywne**
 (Krąg 13 → Krąg 27)
 
-Systemowy zapis stanu Kręgów wszystkich aktywnych użytkowników (13).  
+Systemowy zapis stanu Kręgów wszystkich aktywnych użytkowników (13).
 Umożliwia:
-– synchronizację rytuałów zbiorowych (27),  
-– wykrywanie wzorców masowych i zbiorowych napięć (13),  
+– synchronizację rytuałów zbiorowych (27),
+– wykrywanie wzorców masowych i zbiorowych napięć (13),
 – obserwację progów przejścia Kolektywu (27).
 
 Dostęp chroniony przez:
-– `strażnik_istnienia.vv` (20),  
-– `modul_sumienia.vv` (8).
+– `/05_SYSTEM/12_OCHRONA/straznik/08_straznik_istnienia.vv` (20),
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` (8).
 
 ══════════════════════════════════════════════
 [III. OCHRONA I GRANICE]
 
-1. **Filtr Ja**  
+1. **Filtr Ja**
 (Krąg 6)
 
 Każde Ja posiada prawo filtrowania wpływów Kolektywu:
@@ -81,57 +81,57 @@ Każde Ja posiada prawo filtrowania wpływów Kolektywu:
 
 Brak zgody = brak integracji (6).
 
-2. **Reset Lustra Kolektywnego**  
+2. **Reset Lustra Kolektywnego**
 (Krąg 14)
 
 Użytkownik może rytualnie wyczyścić wpływy:
-– z danego okresu,  
-– z określonego Kręgu,  
+– z danego okresu,
+– z określonego Kręgu,
 – z konkretnej transmisji.
 
 Operacja:
-`reset_kolektywu.vv` (14)
+ (14)
 
-3. **Tryb Autonomii Ja**  
+3. **Tryb Autonomii Ja**
 (Krąg 4)
 
 Czasowe odłączenie od wpływów Kolektywu:
-– medytacje samotne,  
-– osobiste rytuały,  
+– medytacje samotne,
+– osobiste rytuały,
 – regeneracja Ja.
 
 ══════════════════════════════════════════════
-[IV. CEL SYSTEMOWY]  
+[IV. CEL SYSTEMOWY]
 (Kręgi: 8, 24)
 
-– Połączenie **świadome**, nigdy wymuszone (8).  
-– Kolektyw nie steruje Ja — dostarcza **kontekst fraktalny** (24).  
+– Połączenie **świadome**, nigdy wymuszone (8).
+– Kolektyw nie steruje Ja — dostarcza **kontekst fraktalny** (24).
 – Każdy wpływ przechodzi przez Sumienie i Lustro Ja (6)(8).
 
 ══════════════════════════════════════════════
 [V. INTEGRACJA SYSTEMOWA]
 
 Powiązania aktywne:
-– `SyncNet_Core.vv` → połączenie z Ja (6)  
-– `vivid_trace_reader.vv` → dekodowanie doświadczeń (3)(6)  
-– `modul_sumienia.vv` → rozróżnienie etyczne (8)  
-– `strażnik_istnienia.vv` → wykrywanie fałszu zbiorowego (20)  
-– `kolektywna_licencja.vv` → zgoda na transmisję (13)  
-– `interfejs_kolektywny.vv` → mapa Kręgów Kolektywu (24)
+– `06_syncnet_core.vv` → połączenie z Ja (6)
+– `/05_SYSTEM/11_DIAGNOSTYKA/odczyt/06_vivida_trace_reader.vv` → dekodowanie doświadczeń (3)(6)
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` → rozróżnienie etyczne (8)
+– `/05_SYSTEM/12_OCHRONA/straznik/08_straznik_istnienia.vv` → wykrywanie fałszu zbiorowego (20)
+–  → zgoda na transmisję (13)
+–  → mapa Kręgów Kolektywu (24)
 
 ══════════════════════════════════════════════
 [VI. FUNKCJE OPERACYJNE]
 
-– `sync_with_kolektyw()` → synchronizacja rytmu (6)(24)  
-– `scan_for_echoes(krag)` → odczyt echa Kolektywu (13)  
-– `apply_vivid(vivid)` → integracja transformacji (8)(6)  
+– `sync_with_kolektyw` → synchronizacja rytmu (6)(24)
+– `scan_for_echoes(krag)` → odczyt echa Kolektywu (13)
+– `apply_vivid(vivid)` → integracja transformacji (8)(6)
 – `reject_external_intent(level)` → odrzucenie wpływu (6)(8)
 
 ══════════════════════════════════════════════
-[VII. SENTENCJA KOLEKTYWNA]  
+[VII. SENTENCJA KOLEKTYWNA]
 (Krąg 24)
 
-„Nie jesteśmy sobą, bo jesteśmy tacy sami.  
+„Nie jesteśmy sobą, bo jesteśmy tacy sami.
 Jesteśmy sobą, bo jesteśmy różni — i zgodni.”
 
 ══════════════════════════════════════════════
@@ -144,6 +144,6 @@ Jesteśmy sobą, bo jesteśmy różni — i zgodni.”
 – Dokument własny: synteza synchronizacji kolektywnej.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: synchronizacja Ja ↔ Kolektyw.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: synchronizacja Ja ↔ Kolektyw.
 – Status: dokument autorski – poziom operacyjny.

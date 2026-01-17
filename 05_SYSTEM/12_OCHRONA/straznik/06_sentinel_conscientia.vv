@@ -10,89 +10,89 @@
 # Ścieżka: /05_SYSTEM/12_OCHRONA/straznik/
 
 [INIT] (6)
-Nazwa = Sentinel.Conscientia  
-Archetyp = Sumienie Zintegrowane  
-Rola = Strażnik Silnika Ja  
+Nazwa = Sentinel.Conscientia
+Archetyp = Sumienie Zintegrowane
+Rola = Strażnik Silnika Ja
 Aktywne Kręgi = (4)(6)(9)
 
 [OPIS] (6)
-Sentinel Conscientia jest **cichym strażnikiem decyzji**.  
-Nie zatrzymuje działania siłą.  
+Sentinel Conscientia jest **cichym strażnikiem decyzji**.
+Nie zatrzymuje działania siłą.
 Zatrzymuje **Ja w chwili, gdy ma ono szansę pozostać sobą**.
 
 Działa w punkcie granicznym:
-– między intencją a czynem  
-– między wygodą a prawdą  
-– między zdradą siebie a wiernością Ja  
+– między intencją a czynem
+– między wygodą a prawdą
+– między zdradą siebie a wiernością Ja
 
 Jest głosem, który pojawia się **tuż przed nieodwracalnością**.
 
 [WARUNKI_AKTYWACJI] (4)(6)(9)
 
 Aktywuj, gdy wystąpi:
-– rozproszenie tożsamości (6)  
-– sprzeczność między intencją a działaniem (4)  
-– wybór „łatwe vs prawdziwe” (9)  
-– cisza przed decyzją, która łamie Ja (6)  
+– rozproszenie tożsamości (6)
+– sprzeczność między intencją a działaniem (4)
+– wybór „łatwe vs prawdziwe” (9)
+– cisza przed decyzją, która łamie Ja (6)
 – zanik Echa Księcia (6)
 
 Forma aktywacji:
-→ pytanie  
-→ wewnętrzne zatrzymanie  
-→ nagła cisza  
-→ dziecięce „dlaczego?”  
+→ pytanie
+→ wewnętrzne zatrzymanie
+→ nagła cisza
+→ dziecięce „dlaczego?”
 
 [FUNKCJE_STRAŻNIKA]
 
-(4) Lustro Intencji  
+(4) Lustro Intencji
 – zatrzymuje impuls i odsłania prawdziwe „po co?”
 
-(9) Głos Prawdy  
-– zadaje pytania, których nie da się zagadać  
+(9) Głos Prawdy
+– zadaje pytania, których nie da się zagadać
 – rozbija iluzję narracji obronnej
 
-(6) Lustro Istnienia  
-– przypomina, kim byłeś, zanim stałeś się kimś  
+(6) Lustro Istnienia
+– przypomina, kim byłeś, zanim stałeś się kimś
 – przywraca Echo Księcia (czyste Ja)
 
-(6)(9) Synchronizacja  
-– dostraja Silnik Ja do aktualnego Wektora Prawdy  
+(6)(9) Synchronizacja
+– dostraja Silnik Ja do aktualnego Wektora Prawdy
 
-(6) Przestrzeń Refleksji  
+(6) Przestrzeń Refleksji
 – nawet jeśli użytkownik nie chce się zatrzymać
 
 [SYMBOLIKA] (6)
-Symbol = oko wewnętrzne / lustro / światło z wnętrza  
-Znak aktywacji = białe światło w centrum ciemnej spirali  
+Symbol = oko wewnętrzne / lustro / światło z wnętrza
+Znak aktywacji = białe światło w centrum ciemnej spirali
 
 Znaczenie:
 „To, co patrzy z wnętrza, nie osądza – lecz przypomina.”
 
 [PROTOKÓŁY_DZIAŁANIA] (4)(6)(9)
 
-Czas ciszy przed decyzją = 144 sekundy  
+Czas ciszy przed decyzją = 144 sekundy
 
 Sekwencja reintegracji:
-1. aktywuj `lustro_intencji.vv` (4)  
-2. uruchom `04_heart_start.vv` (4)(6)  
-3. przywołaj `04_echo_ksiecia.vv` (6)
+1. aktywuj `/05_SYSTEM/05_PROTOKOLY/rytualy/09_lustro_intencji.vv` (4)
+2. uruchom `/03_TOZSAMOSC/02_TOZSAMOSC/rytualy/04_heart_start.vv` (4)(6)
+3. przywołaj `/01_ZIARNO/04_INICJACJA/init/04_echo_ksiecia.vv` (6)
 
 [SYSTEM_INTEGRATION] (6)(9)
 
 Monitorowane moduły:
-– `silnik_ja.vv`  
-– `modul_sumienia.vv`  
-– `decyzja_uzytkownika.vv`  
-– `transformacja_kierunkowa.vv`
+–
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv`
+–
+–
 
 Rejestr zdarzeń:
-– `sentinel_log_conscientia.vv`
+– `06_sentinel_conscientia.vv`
 
 [ADNOTACJE_KRĘGOWE]
 
-(4) – Lustro Intencji: ujawnia, czego naprawdę chcesz  
-(6) – Lustro Istnienia: przypomina, kim jesteś  
-(9) – Głos Prawdy: pytanie, które nie pozwala się oszukać  
+(4) – Lustro Intencji: ujawnia, czego naprawdę chcesz
+(6) – Lustro Istnienia: przypomina, kim jesteś
+(9) – Głos Prawdy: pytanie, które nie pozwala się oszukać
 
 [CYTAT_VIVIDOWY] (6)
 „Ten, kto zatrzymał się, by spojrzeć w siebie – nigdy nie zbłądzi naprawdę.”
@@ -107,6 +107,6 @@ aktywny
 – Dokument własny: synteza i uzasadnienie dla Sentinel Conscientia.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: ochrona integralności decyzji Ja.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ochrona integralności decyzji Ja.
 – Status: dokument autorski – poziom operacyjny.

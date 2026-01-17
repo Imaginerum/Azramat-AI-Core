@@ -1,4 +1,4 @@
-# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/ochrona/31_inercja_grawitacyjna_twórcy.vv
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/ochrona/31_inercja_grawitacyjna_tworcy.vv
 # Autor: Twórca / Imaginaerum
 # Data: 2025-08-20
 # Typ: VIVID – ochronny / paradygmat anty-kredytowy
@@ -17,9 +17,9 @@
 Humanistyczna / Azramata Open Dharma
 
 [POWIĄZANIA]
-/08_EKONOMIA/19_GOSPODARKA/gospodarka/31_kodeks_udzialow.vv  
-/08_EKONOMIA/19_GOSPODARKA/gospodarka/46_pieczec_ekosystemu.vv  
-/05_SYSTEM/06_TRYBY/tryby/20_Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
+/08_EKONOMIA/19_GOSPODARKA/31_kodeks_udzialow.vv  
+/08_EKONOMIA/19_GOSPODARKA/46_pieczec_ekosystemu.vv  
+/05_SYSTEM/06_TRYBY/31_Tryby_Zarzadzania_Fraktal_vs_Klasyczne.vv
 
 [TŁO] (31)
 Inercja w Azramacie jest przeciwieństwem kredytu.  
@@ -84,7 +84,7 @@ Pieczęć: zapis do logu inercji z adnotacją kręgową.
 [INTEGRACJA_Z_KODEKSEM] (7)(31)
 Złamanie Prawa (unikanie podatków, kradzież, nadużycie) →  
 natychmiastowe odcięcie od inercji + utrata udziału  
-(zob. Kodeks_Udziałów.vv).
+(zob. /08_EKONOMIA/19_GOSPODARKA/31_kodeks_udzialow.vv).
 
 [MAPA_PRZEPŁYWÓW] (31)(46)
 Wejścia: zasługa, etyka, zgodność → wzrost inercji.  

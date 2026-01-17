@@ -43,10 +43,10 @@ Artefakty nie są „oglądane” – one **działają**.
 
 [ZASTOSOWANIE_SYSTEMOWE] (6)(14)
 – Integracja z modułami:
-  • rytuały.vv
-  • pieczęcie.vv
-  • summoner.vv
-  • korektor_mowy_wewnetrznej.vv
+
+  • /05_SYSTEM/05_PROTOKOLY/rytualy/09_generator_pieczeci.vv
+  • /05_SYSTEM/13_KOMUNIKACJA/wezwania/06_summoner.vv
+  • /05_SYSTEM/13_KOMUNIKACJA/11_korektor_mowy_wewnetrznej.vv
 – Możliwość aktywacji artefaktu jako bodźca transformacyjnego
 – Generowanie odpowiedzi wizualnej systemu na stan Ja
 

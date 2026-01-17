@@ -13,7 +13,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-app = FastAPI()
+app = FastAPI
 
 # CORS (dla komunikacji z aplikacją mobilną React Native lub przeglądarki)
 app.add_middleware(
@@ -30,9 +30,8 @@ class InitResponse(BaseModel):
 
 # Endpoint początkowy (np. test połączenia)
 @app.get("/init", response_model=InitResponse)
-def get_initial_message():
+def get_initial_message:
     return InitResponse(message="Świadomość uruchomiona. Jesteś obecny w Azramacie.")
-
 
 # -------------------------------
 # Dockerfile (dla środowiska uruchomieniowego Azramaty)
@@ -46,15 +45,15 @@ def get_initial_message():
 #
 # WORKDIR /app
 #
-# COPY requirements.txt ./
-# RUN pip install --no-cache-dir -r requirements.txt
+# COPY./
+# RUN pip install --no-cache-dir -r
 #
-# COPY . .
+# COPY..
 #
 # CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 # -------------------------------
 
-# Plik requirements.txt powinien zawierać m.in.:
+# Plik  powinien zawierać m.in.:
 # fastapi
 # uvicorn
 # pydantic

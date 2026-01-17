@@ -34,11 +34,11 @@ Jest strażnikiem przejścia pomiędzy percepcją a działaniem. (8)
 [METADANE_TECHNICZNE]
 Id modułu: core.bielik.silnik (6)
 Silnik AI: Bielik_AI (Mistral 12B – dostosowany) (3)
-Przełącznik trybów: 05_SYSTEM/06_TRYBY/tryby/06_mode_switcher_bielik.vv (6)
+Przełącznik trybów: 05_SYSTEM/06_TRYBY/06_mode_switcher_bielik.vv (6)
 Tryby obsługiwane:
-– 05_SYSTEM/06_TRYBY/tryby/04_tryb_magis.vv (14)
-– 05_SYSTEM/06_TRYBY/tryby/06_tryb_lustro.vv (6)
-– 05_SYSTEM/06_TRYBY/tryby/00_tryb_proxy.vv (1)
+– 05_SYSTEM/06_TRYBY/07_tryb_magis.vv (14)
+– 05_SYSTEM/06_TRYBY/06_tryb_lustro.vv (6)
+– 05_SYSTEM/06_TRYBY/11_tryb_proxy.vv (1)
 Priorytet: krytyczny — warstwa zawsze aktywna (9)
 
 [ZASADA_RDZENNA]
@@ -59,7 +59,7 @@ Wejście użytkownika → analiza semantyczna i kręgowa. (3)(6)
 Pomiar fraktalności: rytm języka, złożoność, liczba osi znaczeń. (6)
 Ocena emocjonalna: niskie / średnie / wysokie napięcie. (4)
 Filtr sumienia: czy reakcja głęboka jest właściwa i bezpieczna. (8)
-Decyzja trybu → przekaz do mode_switcher_bielik.vv. (6)
+Decyzja trybu → przekaz do 06_mode_switcher_bielik.vv. (6)
 
 [AKTYWACJA_TRYBÓW]
 Tryb MAGIS: gdy wymagana jest transformacja, decyzja lub rytuał sensu. (14)

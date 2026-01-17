@@ -12,7 +12,7 @@ CIRCLE: (6.3)
 ACCESS_LEVEL: Po_Naruszeniu / Po_Rozpoznaniu_Zaklocenia
 ACTIVATION_CODE: DEKRET.6.3.ZADOSC-RÓWNOWAGA
 AUTHOR: Architekt
-FORMAT: vivid.vv
+FORMAT: /01_ZIARNO/04_INICJACJA/init/vivid_starter/01_vivid.vv
 
 BODY:
 

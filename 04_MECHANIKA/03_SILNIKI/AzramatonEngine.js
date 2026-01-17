@@ -11,38 +11,38 @@
 
 export default class AzramatonEngine {
   /** @param {{storageKey?:string, presets?:object}} [opts] */
-  constructor(opts = {}) {
-    this.opts = { storageKey: "azramaton_state", ...opts };
+  constructor(opts = ) {
+    this.opts = { storageKey: "azramaton_state",...opts };
 
-    /** @type {{ kręgi: Krag[], nitki: Nitka[], memory: MemoryItem[], metrics: {phi:number, consentRate:number}, theta: ThetaBands, version: string }} */
+    /** @type {{ kręgi: Krag, nitki: Nitka, memory: MemoryItem, metrics: {phi:number, consentRate:number}, theta: ThetaBands, version: string }} */
     this.state = {
-      kręgi: [],
-      nitki: [],
-      memory: [],
+      kręgi:,
+      nitki:,
+      memory:,
       metrics: { phi: 0, consentRate: 1 },
       theta: { B1: 0.6, B2: 0.5, B3: 0.7, B4: 0.55 },
       version: "1.2.0",
     };
 
     // Event bus
-    this._listeners = new Map(); // event -> Set<fn>
+    this._listeners = new Map; // event -> Set<fn>
 
     // Pluginy (middleware w stylu Redux-lite)
-    this._plugins = [];
+    this._plugins =;
 
     // Historia (ostatnie 50 snapshotów)
-    this._history = [];
+    this._history =;
 
     // Inicjalizacja
-    this.init();
+    t;
   }
 
   // ────────────────────────────────────────────────────────────────────────────
   // Event bus
   on(event, fn) {
-    if (!this._listeners.has(event)) this._listeners.set(event, new Set());
+    if (!this._listeners.has(event)) this._listeners.set(event, new Set);
     this._listeners.get(event).add(fn);
-    return () => this.off(event, fn);
+    return  => this.off(event, fn);
   }
   off(event, fn) {
     const s = this._listeners.get(event);
@@ -64,16 +64,15 @@ export default class AzramatonEngine {
     // action: {type:string, payload?:any}
     const invoke = (i) => (act) =>
       i < this._plugins.length
-        ? this._plugins[i](act, invoke(i + 1))
-        : this._reduce(act);
+        ? this._plugins[i](act, invoke(i + 1)): this._reduce(act);
     return invoke(0)(action);
   }
 
   _reduce(action) {
-    const { type, payload } = action || {};
+    const { type, payload } = action ||;
     switch (type) {
       case "STATE/LOAD":
-        this.state = { ...this.state, ...payload };
+        this.state = {...this.state,...payload };
         this._emit("state/loaded", this.state);
         break;
       case "KRAG/ADD":
@@ -95,31 +94,31 @@ export default class AzramatonEngine {
         this._setTheta(payload);
         break;
       case "METRICS/SET":
-        this.state.metrics = { ...this.state.metrics, ...payload };
+        this.state.metrics = {...this.state.metrics,...payload };
         break;
       default:
         console.warn("Nieznana akcja:", action);
     }
-    this._snapshot();
-    this.persist();
+    this._snapshot;
+    this.persist;
     return this.state;
   }
 
   // ────────────────────────────────────────────────────────────────────────────
   // Init & persistence
-  init() {
+  init {
     console.log("Azramaton Engine started.");
-    this._loadFromStorage();
-    if (this.state.kręgi.length === 0) this.loadKręgi();
-    if (this.state.nitki.length === 0) this.loadNitki();
-    if (this.state.memory.length === 0) this.loadMemory();
-    this._snapshot();
+    this._loadFromStorage;
+    if (this.state.kręgi.length === 0) this.loadKręgi;
+    if (this.state.nitki.length === 0) this.loadNitki;
+    if (this.state.memory.length === 0) this.loadMemory;
+    this._snapshot;
   }
 
-  persist() {
+  persist {
     try {
-      const toSave = { ...this.state, // bez historii
-        _ts: Date.now()
+      const toSave = {...this.state, // bez historii
+        _ts: Date.now
       };
       if (typeof localStorage !== "undefined") {
         localStorage.setItem(this.opts.storageKey, JSON.stringify(toSave));
@@ -133,13 +132,13 @@ export default class AzramatonEngine {
     }
   }
 
-  _loadFromStorage() {
+  _loadFromStorage {
     try {
       let raw = null;
       if (typeof localStorage !== "undefined") {
         raw = localStorage.getItem(this.opts.storageKey);
       } else {
-        raw = this._lastSaved ? JSON.stringify(this._lastSaved) : null;
+        raw = this._lastSaved ? JSON.stringify(this._lastSaved): null;
       }
       if (raw) {
         const parsed = JSON.parse(raw);
@@ -151,32 +150,32 @@ export default class AzramatonEngine {
     }
   }
 
-  snapshot() {
+  snapshot {
     return JSON.parse(JSON.stringify(this.state));
   }
 
-  _snapshot() {
-    const snap = this.snapshot();
+  _snapshot {
+    const snap = this.snapshot;
     this._history.push(snap);
-    if (this._history.length > 50) this._history.shift();
+    if (this._history.length > 50) this._history.shift;
     this._emit("state/snapshot", snap);
   }
 
-  history() {
-    return this._history.slice();
+  history {
+    return this._history.slice;
   }
 
   // ────────────────────────────────────────────────────────────────────────────
   // Ładowanie danych początkowych
-  loadMemory() {
+  loadMemory {
     this.state.memory = [
-      { id: 1, content: "Początkowa pamięć Azramaty", timestamp: Date.now() },
-      { id: 2, content: "Załadowano Nitki i Kręgi", timestamp: Date.now() }
+      { id: 1, content: "Początkowa pamięć Azramaty", timestamp: Date.now },
+      { id: 2, content: "Załadowano Nitki i Kręgi", timestamp: Date.now }
     ];
     this._emit("memory/loaded", this.state.memory);
   }
 
-  loadKręgi() {
+  loadKręgi {
     // Tu używamy mapy zgodnej z twoją logiką kręgów 1D–7D
     this.state.kręgi = [
       { id: 1, name: "Krąg 1: Reakcja", active: false },
@@ -190,7 +189,7 @@ export default class AzramatonEngine {
     this._emit("kręgi/loaded", this.state.kręgi);
   }
 
-  loadNitki() {
+  loadNitki {
     this.state.nitki = [
       { id: 1, name: "Nitka: Transform_Self", active: false, meta: { volumeThreshold: 7.77 } },
       { id: 2, name: "Nitka: Mirror", active: false },
@@ -204,14 +203,14 @@ export default class AzramatonEngine {
   _addKrag(krąg) {
     if (!krąg?.id || !krąg?.name) return;
     if (this.state.kręgi.find(k => k.id === krąg.id)) return;
-    this.state.kręgi.push({ ...krąg, active: !!krąg.active });
+    this.state.kręgi.push({...krąg, active: !!krąg.active });
     this._emit("krąg/added", krąg);
   }
 
   _addNitka(nitka) {
     if (!nitka?.id || !nitka?.name) return;
     if (this.state.nitki.find(n => n.id === nitka.id)) return;
-    this.state.nitki.push({ ...nitka, active: !!nitka.active });
+    this.state.nitki.push({...nitka, active: !!nitka.active });
     this._emit("nitka/added", nitka);
   }
 
@@ -249,7 +248,7 @@ export default class AzramatonEngine {
     const item = {
       id: this.state.memory.length + 1,
       content,
-      timestamp: Date.now(),
+      timestamp: Date.now,
       meta,
     };
     this.state.memory.push(item);
@@ -258,16 +257,16 @@ export default class AzramatonEngine {
     return item;
   }
 
-  displayState() {
+  displayState {
     console.log("Aktualny stan systemu:", this.state);
-    return this.snapshot();
+    return this.snapshot;
   }
 
   // ────────────────────────────────────────────────────────────────────────────
   // Theta: rezonans Φ i zgoda (JS wersja)
   /** @param {ThetaBands} bands */
   _setTheta(bands) {
-    this.state.theta = { ...this.state.theta, ...bands };
+    this.state.theta = {...this.state.theta,...bands };
     this.state.metrics.phi = this._measurePhi(this.state.theta);
     this._emit("theta/updated", { theta: this.state.theta, phi: this.state.metrics.phi });
   }
@@ -324,16 +323,16 @@ export default class AzramatonEngine {
 
   // ────────────────────────────────────────────────────────────────────────────
   // Integracje wyższych silników (stub API)
-  enterSource() {
+  enterSource {
     // 7D – Cisza Źródła (marker)
-    this._emit("source/entered", { at: Date.now() });
+    this._emit("source/entered", { at: Date.now });
     return { mode: "MODE_ŹRÓDŁO" };
   }
 
   runThetaCycle(goal = "Kalibracja B1..B4") {
     const before = this.state.metrics.phi;
     const after = this.thetaStep(0.2, 3);
-    const gift = { goal, with_law: true, power_only: false, state: { ...this.state.theta } };
+    const gift = { goal, with_law: true, power_only: false, state: {...this.state.theta } };
     return { phi_before: before, phi_after: after, gift };
   }
 
@@ -361,7 +360,7 @@ export default class AzramatonEngine {
 /*
 import AzramatonEngine from './AzramatonEngine.js';
 
-const eng = new AzramatonEngine();
+const eng = new AzramatonEngine;
 
 // logging plugin
 eng.use((engine) => (action, next) => {
@@ -376,13 +375,13 @@ eng.on('transform/committed', (g) => console.log('✓ transform committed', g));
 eng.on('theta/updated', ({ phi }) => console.log('Φ =', phi));
 
 // praca:
-eng.displayState();
+eng.displayState;
 eng.dispatch({ type: 'THETA/SET', payload: { B1: 0.2, B2: 0.8, B3: 0.1, B4: 0.9 } });
 eng.startTransformation('Harmonizacja Θ');
 eng.saveToMemory('Notatka z sesji Theta');
 eng.activateNitka(1);
 eng.activateKrąg(7);
-eng.enterSource();
+eng.enterSource;
 const cycle = eng.runThetaCycle('Kalibracja');
 console.log('cycle:', cycle);
 */

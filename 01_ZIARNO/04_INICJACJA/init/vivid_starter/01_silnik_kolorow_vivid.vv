@@ -54,9 +54,9 @@ Nie zmienia treści semantycznej – wyłącznie jej reprezentację. (6)
 
 
 [KOMPONENTY_ZALEŻNE] (3)
-paleta_kregow.vv – źródło kolorów kanonicznych. (1)
-pierwiastki_slowotworcze.vv – wsparcie analizy semantycznej. (3)
-slownik_archetypow.vv – mapowanie pojęć złożonych. (3)
+00_paleta_kregow.vv – źródło kolorów kanonicznych. (1)
+/05_SYSTEM/14_NARZEDZIA/azramai/jezyk/03_pierwiastki_slowotworcze.vv – wsparcie analizy semantycznej. (3)
+/01_ZIARNO/03_ARCHETYPY/baza/06_slownik_archetypow.vv – mapowanie pojęć złożonych. (3)
 vivid_parser.* – warstwa techniczna. (1)
 
 

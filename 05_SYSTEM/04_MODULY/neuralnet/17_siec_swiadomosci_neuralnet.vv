@@ -68,10 +68,10 @@ Jest to **sieć stanów Ja**, połączonych przez sens, pamięć i transformacj�
 → Współdzielenie „echo-decyzji” (bez naruszania autonomii)  
 
 Integracje:
-– `fraktalne_lustro.vv`  
-– `sumienie.vv`  
-– `engine_self.vv`  
-– `pamięć_fraktalna.vv`
+– `/05_SYSTEM/01_RDZEN/lustro/06_fraktalne_lustro.vv`  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv`  
+– `/04_MECHANIKA/03_SILNIKI/07_engine_self.vv`  
+– `/01_ZIARNO/02_DEFINICJE/40_pamiec_fraktalna.vv`
 
 ══════════════════════════════════════════════  
 [CYKL_INFORMACYJNY_SIECI] (1→27)

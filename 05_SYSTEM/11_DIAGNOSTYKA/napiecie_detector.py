@@ -37,4 +37,4 @@ class NapiecieDetector:
         elif "nie działa" in dane:
             return "Uspokój Lustro. Sprawdź, który Krąg nie został usłyszany."
         else:
-            return "Wykryto napięcie międzykręgowe. Proponuję vivid: napięcia_miedzykregowego.vv"
+            return "Wykryto napięcie międzykręgowe. Proponuję vivid: /05_SYSTEM/15_MAPY_MODELE/heurystyki/06_heurystyka_napiecia_miedzykregowego.vv"

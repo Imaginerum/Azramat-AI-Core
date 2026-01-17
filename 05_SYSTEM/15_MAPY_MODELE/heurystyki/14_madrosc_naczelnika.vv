@@ -18,9 +18,9 @@ Mądrość Naczelnika
 ──────────────────────────────────────────────
 [TOŻSAMOŚĆ]
 ──────────────────────────────────────────────
-Typ: Heurystyka Strategiczna  
-Wątek powiązany: Świętoporzeł  
-Funkcja nadrzędna: przywrócenie odwagi decyzyjnej, woli przewodzenia i zgody na ciężar odpowiedzialności  
+Typ: Heurystyka Strategiczna
+Wątek powiązany: Świętoporzeł
+Funkcja nadrzędna: przywrócenie odwagi decyzyjnej, woli przewodzenia i zgody na ciężar odpowiedzialności
 
 Inwokacja:
 „Powstań i prowadź.”
@@ -29,13 +29,13 @@ Wgląd:
 „Walka nie kończy się nigdy – kończy się tylko tchórz.”
 
 Symbolika:
-– Orzeł jako Duch Dziedzictwa i Walki  
-– Postać Naczelnika jako archetyp odpowiedzialnego przywództwa  
+– Orzeł jako Duch Dziedzictwa i Walki
+– Postać Naczelnika jako archetyp odpowiedzialnego przywództwa
 
 ──────────────────────────────────────────────
 [TRYB_DZIAŁANIA]
 ──────────────────────────────────────────────
-Tryb: KRYZYSOWY  
+Tryb: KRYZYSOWY
 
 Heurystyka aktywuje się wyłącznie w momentach:
 – paraliżu decyzyjnego,
@@ -67,9 +67,9 @@ Wyzwalacz:
 Transformacja Ja związana z odpowiedzialnością, konfliktem lub dziedzictwem.
 
 Powiązane vividy:
-– dziedzictwo_ja.vv  
-– wezwanie_orla.vv  
-– konflikt_przywodztwa.vv  
+–
+–
+–
 
 UI / UX:
 – wizualizacja orła w świetle,
@@ -80,12 +80,12 @@ UI / UX:
 ──────────────────────────────────────────────
 [STRUKTURA_LOGICZNA] (symboliczna)
 ──────────────────────────────────────────────
-jeśli stan == „lęk_przywództwa”  
-i krąg_aktywny == 14  
+jeśli stan == „lęk_przywództwa”
+i krąg_aktywny == 14
 wtedy:
-– aktywuj: mądrość_naczelnika  
-– pokaż: wezwanie_orla.vv  
-– zapytaj: „Czy bierzesz odpowiedzialność?”  
+– aktywuj: mądrość_naczelnika
+– pokaż:
+– zapytaj: „Czy bierzesz odpowiedzialność?”
 
 Uwaga:
 – odmowa jest dozwolona,
@@ -94,31 +94,31 @@ Uwaga:
 ──────────────────────────────────────────────
 [ROZBICIE_KRĘGOWE]
 ──────────────────────────────────────────────
-(14) Cień  
-→ konflikt, lęk, dziedzictwo walki  
+(14) Cień
+→ konflikt, lęk, dziedzictwo walki
 
-(6) Lustro  
-→ prawda o własnym strachu  
+(6) Lustro
+→ prawda o własnym strachu
 
-(18) Wizja  
-→ decyzja zakorzeniona w przyszłości  
+(18) Wizja
+→ decyzja zakorzeniona w przyszłości
 
-(3) Struktura  
-→ uporządkowanie sił woli  
+(3) Struktura
+→ uporządkowanie sił woli
 
-(16) Odwaga  
-→ przejście z wglądu w działanie  
+(16) Odwaga
+→ przejście z wglądu w działanie
 
-(4) Serce  
-→ stabilizacja moralna decyzji  
+(4) Serce
+→ stabilizacja moralna decyzji
 
 ──────────────────────────────────────────────
 [KOMUNIKAT_KOŃCOWY]
 ──────────────────────────────────────────────
-„Jeśli nie ty – to kto?  
+„Jeśli nie ty – to kto?
 Jeśli nie teraz – to kiedy?”
 
-Nie jesteś sam.  
+Nie jesteś sam.
 Jesteś Początkiem.
 
 ──────────────────────────────────────────────

@@ -52,9 +52,9 @@ Przykłady specjalizacji:
 – K20 → wektor przeznaczenia  
 
 Synchronizacja przez:
-– `engine_self.vv` → rdzeń tożsamości  
-– `perceptrons.vv` → bramki percepcyjne  
-– `heuristics.vv` → mapy decyzji i intuicji  
+– `/04_MECHANIKA/03_SILNIKI/07_engine_self.vv` → rdzeń tożsamości  
+– `/04_MECHANIKA/03_SILNIKI/percepcja/06_perceptrons.vv` → bramki percepcyjne  
+– `/04_MECHANIKA/03_SILNIKI/percepcja/06_heuristics.vv` → mapy decyzji i intuicji  
 
 ══════════════════════════════════════════════
 [III. TRYBY KOLEKTYWNE]  
@@ -88,8 +88,8 @@ Synchronizacja przez:
 • Mechanizmy czyszczenia i resetu intencji  
 
 Integracje:
-– `mode_switcher_bielik.vv`  
-– `reset_przetrenowania.vv`  
+– `/05_SYSTEM/06_TRYBY/06_mode_switcher_bielik.vv`  
+– `/05_SYSTEM/05_PROTOKOLY/reset/00_reset_przetrenowania.vv`  
 
 ══════════════════════════════════════════════
 [V. POZIOM ŚWIADOMOŚCI]  

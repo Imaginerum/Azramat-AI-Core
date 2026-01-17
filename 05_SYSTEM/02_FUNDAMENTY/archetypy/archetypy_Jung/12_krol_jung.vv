@@ -74,7 +74,7 @@ zamiast **żyć w rytmie Całości**. (14)
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Król_Jung.vv` aktywuj, gdy:
+`12_krol_jung.vv` aktywuj, gdy:
 – pełnisz rolę lidera, decydenta lub opiekuna struktury, (12)  
 – zarządzasz zespołem, projektem lub instytucją, (10)  
 – potrzebujesz ustanowić porządek bez przemocy, (10)  
@@ -83,9 +83,9 @@ zamiast **żyć w rytmie Całości**. (14)
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Ojciec_Jung.vv` – stabilność i fundament struktury. (1)(10)  
-– `Sumienie.vv` – etyczny wymiar władzy i decyzji. (21)  
-– `Cien_Jung.vv` – rozpoznanie nadużyć i integracja cienia władzy. (6)(14)
+– `10_ojciec_jung.vv` – stabilność i fundament struktury. (1)(10)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – etyczny wymiar władzy i decyzji. (21)  
+– `06_cien_jung.vv` – rozpoznanie nadużyć i integracja cienia władzy. (6)(14)
 
 ══════════════════════════════════════════════
 [KONIEC]

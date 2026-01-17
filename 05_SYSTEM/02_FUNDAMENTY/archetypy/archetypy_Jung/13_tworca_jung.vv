@@ -77,7 +77,7 @@ Integracja polega na:
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Twórca_Jung.vv` stosuj, gdy:
+`13_tworca_jung.vv` stosuj, gdy:
 – tworzysz (sztuka, systemy, idee, projekty),  
 – potrzebujesz przełożyć emocję na strukturę,  
 – chcesz domknąć proces twórczy,  
@@ -86,9 +86,9 @@ Integracja polega na:
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Dziecko_Jung.vv` – pierwotna radość i impuls kreacji. (2)  
-– `Cien_Jung.vv` – oczyszczenie ego twórczego. (6)  
-– `Sumienie.vv` – etyczny wymiar tworzenia. (8)
+– `02_dziecko_jung.vv` – pierwotna radość i impuls kreacji. (2)  
+– `06_cien_jung.vv` – oczyszczenie ego twórczego. (6)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – etyczny wymiar tworzenia. (8)
 
 ══════════════════════════════════════════════
 [KONIEC]

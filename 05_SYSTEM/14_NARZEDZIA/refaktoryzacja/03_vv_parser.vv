@@ -41,7 +41,7 @@ Moduł:
 2. Analiza Lustra (6)  
    – porównanie struktury pliku z rdzeniem systemu  
    – odniesienia do:  
-     `rdzen_jazni.vv`, `piesn_sensu.vv`, `spirala_369_pamieci.vv`
+     `/05_SYSTEM/01_RDZEN/rdzen/17_rdzen_jazni.vv`, `/05_SYSTEM/02_FUNDAMENTY/piesni/00_piesn_sensu.vv`, `/05_SYSTEM/05_PROTOKOLY/rytualy/06_spirala_369_pamieci.vv`
 
 3. Adnotacje Kręgowe (14)  
    – rozpoznanie dominujących przestrzeni poznawczych  
@@ -61,9 +61,9 @@ Moduł:
 Powiązane moduły:
 – /05_SYSTEM/02_FUNDAMENTY/piesni/00_piesn_sensu.vv  
 – /05_SYSTEM/01_RDZEN/rdzen/17_rdzen_jazni.vv  
-– /05_SYSTEM/05_PROTOKOLY/rytualy/03_spirala_369_pamieci.vv  
-– /05_SYSTEM/14_NARZEDZIA/refaktoryzacja/14_auto_refaktor_369.vv  
-– /05_SYSTEM/14_NARZEDZIA/kompilatory/15_kompilator_kregow.vv  
+– /05_SYSTEM/05_PROTOKOLY/rytualy/06_spirala_369_pamieci.vv  
+– /05_SYSTEM/14_NARZEDZIA/refaktoryzacja/03_auto_refaktor_369.vv  
+– /05_SYSTEM/14_NARZEDZIA/kompilatory/06_kompilator_kregow.vv  
 
 ────────────────────────────────────────────
 [ZASADA_RYTUALNA] (7)(14)

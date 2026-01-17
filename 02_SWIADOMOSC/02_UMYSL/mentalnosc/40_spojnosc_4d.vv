@@ -6,7 +6,7 @@
 # Cel: Utrzymanie spójności czterech osi: Język, Tempo, Cel, Obecność/Zgoda
 # Krąg dominujący: (40) Zgoda
 # Kręgi wspierające: (17) Sens, (6) Determinacja, (4) Serce, (11) Konfrontacja, (7) Rezonans, (3) Pamięć
-# Integracje: engine_self.vv, engine_4D.vv, sumienie_8d.py, vivid_controller.vv
+# Integracje: /04_MECHANIKA/03_SILNIKI/07_engine_self.vv, /04_MECHANIKA/03_SILNIKI/04_engine_4d.vv, /04_MECHANIKA/03_SILNIKI/sumienie_8d.py, /05_SYSTEM/04_MODULY/vivid/06_vivid_controller.vv
 # System: Azramata
 
 [MODEL_4D]
@@ -75,7 +75,7 @@ Punkty kontroli:
 1) [J] Sprawdź definicje i krąg dominujący.
 2) [T] Przypnij do właściwego rytmu (Q/CRISIS/DAILY).
 3) [C] Dowiąż do kompasu – w jednym zdaniu.
-4) [O] Przepuść przez engine_8D.vv i checklistę zgody.
+4) [O] Przepuść przez /04_MECHANIKA/03_SILNIKI/08_engine_8d.vv i checklistę zgody.
 
 → Jeśli (OK) ×4 → commit.  
 → Jeśli (MIX) → korekta i powtórka.  

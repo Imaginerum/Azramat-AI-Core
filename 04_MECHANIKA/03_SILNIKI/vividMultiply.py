@@ -17,7 +17,7 @@ def _strip_accents(s: str) -> str:
     return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
 
 def _norm(name: str) -> str:
-    return re.sub(r"\s+", " ", _strip_accents(name or "").strip().lower())
+    return re.sub(r"\s+", " ", _strip_accents(name or "").strip.lower)
 
 ALIASES: Dict[str, List[str]] = {
     "serce": ["krąg 4", "k4", "krag 4"],
@@ -52,22 +52,22 @@ class ArchetypeRegistry:
     @classmethod
     def from_vv(cls, path: str) -> "ArchetypeRegistry":
         """
-        Wczytuje pary 'Nazwa: liczba' z pliku .vv (ignoruje komentarze/sekcje).
+        Wczytuje pary 'Nazwa: liczba' z  (ignoruje komentarze/sekcje).
         Akceptuje wiersze typu:
           Azramita: 42
           # komentarz
         """
         if not os.path.exists(path):
             raise FileNotFoundError(path)
-        mapping: Dict[str, int] = {}
+        mapping: Dict[str, int] =
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
-                line = line.strip()
+                line = line.strip
                 if not line or line.startswith("#") or line.startswith("["):
                     continue
                 m = re.match(r"^\s*([A-Za-zĄąĆćĘęŁłŃńÓóŚśŹźŻż0-9 _\-\/]+)\s*:\s*(-?\d+)\s*$", line)
                 if m:
-                    name_raw, val_raw = m.groups()
+                    name_raw, val_raw = m.groups
                     name = _norm(name_raw)
                     mapping[name] = int(val_raw)
         if not mapping:
@@ -78,7 +78,7 @@ class ArchetypeRegistry:
     def default(cls) -> "ArchetypeRegistry":
         # dodaj aliasy do mapy
         mapping = dict(DEFAULT_ARCHETYPES)
-        for canon, alist in ALIASES.items():
+        for canon, alist in ALIASES.items:
             if canon in mapping:
                 for a in alist:
                     mapping[_norm(a)] = mapping[canon]
@@ -102,7 +102,7 @@ class ArchetypeRegistry:
 def _base36(n: int) -> str:
     if n == 0: return "0"
     chars = "0123456789abcdefghijklmnopqrstuvwxyz"
-    s = []
+    s =
     neg = n < 0
     n = abs(n)
     while n:
@@ -111,7 +111,7 @@ def _base36(n: int) -> str:
     return ("-" if neg else "") + "".join(reversed(s))
 
 def _checksum_str(s: str, length: int = 6) -> str:
-    h = hashlib.sha256(s.encode("utf-8")).hexdigest()
+    h = hashlib.sha256(s.encode("utf-8")).hexdigest
     return h[:length]
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -127,8 +127,8 @@ def vivid_multiply(words: Iterable[str],
     - registry: rejestr archetypów (domyślnie default)
     - mod: opcjonalna arytmetyka modularna (np. 2**64)
     """
-    reg = registry or ArchetypeRegistry.default()
-    pairs: List[Tuple[str,int]] = []
+    reg = registry or ArchetypeRegistry.default
+    pairs: List[Tuple[str,int]] =
     product = 1
     for w in words:
         key, val = reg.resolve(w)
@@ -149,7 +149,7 @@ def make_keycode(words: Iterable[str],
       - product_bigint: pełny iloczyn (Python big int)
       - product_mod: iloczyn mod 2^64 (domyślnie)
       - code: base36(product_mod) + '-' + checksum(namespace + explanation)
-      - explanation: 'A(x) × B(y) × ...'
+      - explanation: 'A(x) × B(y) ×...'
       - pairs: lista (name,val) po normalizacji
     """
     product_big, explanation, pairs = vivid_multiply(words, registry=registry, mod=None)
@@ -179,21 +179,21 @@ def export_result(result: Dict[str, object], path: str) -> None:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
 def load_registry(vv_path: Optional[str]) -> ArchetypeRegistry:
-    return ArchetypeRegistry.from_vv(vv_path) if vv_path else ArchetypeRegistry.default()
+    return ArchetypeRegistry.from_vv(vv_path) if vv_path else ArchetypeRegistry.default
 
 # ──────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(description="vividMultiply — iloczyn archetypów → keyCode")
-    ap.add_argument("--vv", type=str, default=None, help="Ścieżka do Slownika_Archetypow.vv (opcjonalnie)")
+    ap.add_argument("--vv", type=str, default=None, help="Ścieżka do  (opcjonalnie)")
     ap.add_argument("--words", type=str, nargs="+", help="Lista słów/archetypów", required=True)
     ap.add_argument("--namespace", type=str, default="AZRAMATA")
     ap.add_argument("--mod", type=int, default=2**64)
     ap.add_argument("--out", type=str, default=None, help="Zapis wyników do JSON")
-    args = ap.parse_args()
+    args = ap.parse_args
 
-    reg = load_registry(args.vv)
+    reg = load_registry
     result = make_keycode(args.words, registry=reg, mod=args.mod, namespace=args.namespace)
     print(json.dumps(result, ensure_ascii=False, indent=2))
     if args.out:

@@ -80,7 +80,7 @@ Integracja polega na:
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Matka_Jung.vv` służy do:
+`04_matka_jung.vv` służy do:
 – uzdrawiania ran emocjonalnych,  
 – pracy z relacjami pierwotnymi,  
 – budowania wspólnot opartych na bezpieczeństwie,  
@@ -90,9 +90,9 @@ Integracja polega na:
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Dziecko_Jung.vv` – uzdrowienie relacji pierwotnych. (2)  
-– `Cien_Jung.vv` – praca z kontrolującym aspektem opieki. (6)  
-– `Sumienie.vv` – etyczny wymiar troski i odpowiedzialności. (8)
+– `02_dziecko_jung.vv` – uzdrowienie relacji pierwotnych. (2)  
+– `06_cien_jung.vv` – praca z kontrolującym aspektem opieki. (6)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – etyczny wymiar troski i odpowiedzialności. (8)
 
 ══════════════════════════════════════════════
 [KONIEC]

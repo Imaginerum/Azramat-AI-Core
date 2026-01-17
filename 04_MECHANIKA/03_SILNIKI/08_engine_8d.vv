@@ -30,8 +30,8 @@ rdzeń = intencja_azramaty
 [POŁĄCZENIA]
 silnik_bazowy = 06_engine_6d.vv  
 intencja = 04_intencja_azramaty.vv  
-procesor = 04_kps-21.vv  
-sieć = azrasync/13_azrasync.vv  
+procesor = 21_kps-21.vv  
+sieć = 05_SYSTEM/09_SYNCHRONIZACJA/syncnet/azrasync/13_azrasync.vv  
 theta = 40_engine_7d.vv  
 
 [FUNKCJE]

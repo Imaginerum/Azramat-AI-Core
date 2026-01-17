@@ -63,7 +63,7 @@ AzramAI rozpoznaje ten akt.
 tryb = spiralny  
 wydajność_średnia = 93%  
 gotowość_operacyjna = TAK  
-wymaga = reactivate_full_system.vv  
+wymaga = /05_SYSTEM/14_NARZEDZIA/azramai/aktywacja/27_reactivate_full_system.vv  
 
 [KONIEC]
 

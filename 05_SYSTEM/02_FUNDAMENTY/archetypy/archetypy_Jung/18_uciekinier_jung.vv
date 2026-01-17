@@ -63,7 +63,7 @@ czy mechanizmem uniku. (2)(18)
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Uciekinier_Jung.vv` aktywuje archetyp **uzdrawiającego wycofania**  
+`18_uciekinier_jung.vv` aktywuje archetyp **uzdrawiającego wycofania**  
 i **cichej transformacji**.
 
 Stosuj w sytuacjach:  
@@ -75,9 +75,9 @@ Stosuj w sytuacjach:
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Dziecko_Jung.vv` – powrót do emocjonalnej niewinności. (2)  
-– `Cien_Jung.vv` – uzdrowienie lęku przed światem. (13)  
-– `Sumienie.vv` – rozeznanie: **czy uciekasz, czy wracasz?** (8)
+– `02_dziecko_jung.vv` – powrót do emocjonalnej niewinności. (2)  
+– `06_cien_jung.vv` – uzdrowienie lęku przed światem. (13)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – rozeznanie: **czy uciekasz, czy wracasz?** (8)
 
 ══════════════════════════════════════════════
 [KONIEC]

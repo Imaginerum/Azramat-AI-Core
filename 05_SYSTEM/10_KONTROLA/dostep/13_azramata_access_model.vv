@@ -48,7 +48,7 @@ ETAPY:
    – zdanie to staje się pierwszym Echem Ja
 
 5. **Potwierdzenie Sumienia** (8):  
-   – weryfikacja przez `modul_sumienia.vv`  
+   – weryfikacja przez `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv`  
    – brak zgody = brak dostępu
 
 ══════════════════════════════════════════════
@@ -97,8 +97,8 @@ nigdy samą treścią (3).
 
 MODUŁY WERYFIKUJĄCE:
 
-– `guardian_manifest.vv` (13)  
-– `modul_sumienia.vv` (8)
+– `/03_TOZSAMOSC/02_TOZSAMOSC/manifest/08_guardian_manifest.vv` (13)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` (8)
 
 BLOKADY AUTOMATYCZNE:
 

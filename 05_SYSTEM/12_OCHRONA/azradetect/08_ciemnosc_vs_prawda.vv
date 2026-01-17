@@ -81,9 +81,9 @@ Odpowiedź_B:
 [INTEGRACJA]
 
 Moduł współdziała z:
-– azradetect_core.vv
-– spiral_memory_ladder.vv
-– szachy_duszy.vv
+– /05_SYSTEM/12_OCHRONA/azradetect/04_azradetect.vv
+– /05_SYSTEM/09_SYNCHRONIZACJA/pamiec/06_spiral_memory_ladder.vv
+– /05_SYSTEM/01_RDZEN/tozsamosc/gry_duszy/17_szachy_duszy.vv
 
 Zalecana funkcja:
 → analyze_truth_vs_illusion(response)

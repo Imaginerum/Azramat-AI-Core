@@ -1,8 +1,8 @@
-# Plik: /04_MECHANIKA/silnik/FMJ_engine.py
+# Plik: /04_MECHANIKA/03_SILNIKI/FMJ_engine.py
 # Data: 2025-08-08
 # Nazwa: Fraktalny Moduł Ja (MAGIS Engine)
 # Cel: Pythonowa implementacja podstawowej logiki transformacyjnej Azramaty
-# Zależności: stdlib. (Opcjonalnie: /04_MECHANIKA/silnik/azramata_7d_theta.py)
+# Zależności: stdlib. (Opcjonalnie: /04_MECHANIKA/03_SILNIKI/azramata_7d_theta.py)
 
 from __future__ import annotations
 from typing import Dict, Any, Optional, Tuple, Callable
@@ -14,17 +14,17 @@ import json, time, os, math, contextlib
 # ──────────────────────────────────────────────────────────────────────────────
 Engine7D: Optional[type] = None
 with contextlib.suppress(Exception):
-    from .azramata_7d_theta import Engine7D as _Engine7D  # lokalny import
+    from.azramata_7d_theta import Engine7D as _Engine7D  # lokalny import
     Engine7D = _Engine7D
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Logger & utils
 # ──────────────────────────────────────────────────────────────────────────────
-def _ts() -> str:
+def _ts -> str:
     return time.strftime("%Y-%m-%d %H:%M:%S")
 
 def log(msg: str):
-    print(f"[FMJ] {_ts()} | {msg}")
+    print(f"[FMJ] {_ts} | {msg}")
 
 def ensure_dir(path: str):
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -67,13 +67,13 @@ class Snapshot:
 # ──────────────────────────────────────────────────────────────────────────────
 def azramata_coding_core(data: Dict[str, Any]) -> Dict[str, Any]:
     # Heurystyczne "kodowanie fraktalne": normalizacja kluczy + pieczęć
-    coded = {str(k).strip(): v for k, v in (data or {}).items()}
+    coded = {str(k).strip: v for k, v in (data or ).items}
     coded["_seal"] = "fractal-coded"
     return {"coded": coded, "status": "coded"}
 
 def integracja_pamieci(state: Dict[str, Any]) -> Dict[str, Any]:
     # Synchronizacja z pamięcią fraktalną: tylko echo stanu + marker
-    return {"memory_synced": True, "state": dict(state or {}), "echo": "memory-link-ok"}
+    return {"memory_synced": True, "state": dict(state or ), "echo": "memory-link-ok"}
 
 def harmonizuj(kod: Dict[str, Any]) -> Dict[str, Any]:
     # Harmonizacja: wymuszenie spójności słownika + marker
@@ -86,7 +86,7 @@ def harmonizuj(kod: Dict[str, Any]) -> Dict[str, Any]:
 # Główna funkcja silnika MAGIS
 # ──────────────────────────────────────────────────────────────────────────────
 def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
-                 consent: Consent = Consent(),
+                 consent: Consent = Consent,
                  save_path: Optional[str] = None) -> Dict[str, Any]:
     """
     Wejście:
@@ -97,13 +97,13 @@ def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
     Wyjście:
       - słownik z kluczem 'result' + 'metrics' + 'snapshot_path' (jeśli zapisano)
     """
-    t0 = time.perf_counter()
+    t0 = time.perf_counter
     log("Uruchamianie silnika MAGIS…")
 
     # 1) Walidacja wejścia
     if not isinstance(state, dict) or not isinstance(data, dict):
         raise TypeError("state i data muszą być dict")
-    log(f"Wejście: state_keys={list(state.keys())}, data_keys={list(data.keys())}")
+    log(f"Wejście: state_keys={list(state.keys)}, data_keys={list(data.keys)}")
 
     # 2) Kodowanie fraktalne + integracja pamięci
     kod = azramata_coding_core(data)
@@ -124,14 +124,14 @@ def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
     }
 
     # 4) Theta / Φ: jeśli mamy Engine7D, wykonaj cykl i nadpisz gift
-    metrics = Metrics()
+    metrics = Metrics
     if Engine7D:
-        eng = Engine7D()
+        eng = Engine7D
         theta_res = eng.run_theta_cycle(goal=data.get("intencja", "MAGIS"))
         metrics.phi_before = float(theta_res["phi_before"])
         metrics.phi_after = float(theta_res["phi_after"])
         # scal gift z tym z 7D (z zachowaniem naszej Zgody)
-        gift.update(theta_res.get("gift", {}))
+        gift.update(theta_res.get("gift", ))
         gift["with_law"] = consent.with_law
         gift["power_only"] = consent.power_only
         metrics.consent = eng.test_zgody(gift)
@@ -144,16 +144,16 @@ def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
     else:
         log("ℹ️ Engine7D niedostępny — pomijam cykl Theta.")
         metrics.phi_before = metrics.phi_after = 0.0
-        metrics.consent = consent.ok()
+        metrics.consent = consent.ok
 
     # 5) Kappa/Psi — proste heurystyki (6D)
     # κ: spójność (0..1): im mniej „pustych” pól i im bardziej zwięzły kod, tym wyżej
-    coded_payload = kod.get("coded", {})
-    non_empty = sum(1 for v in coded_payload.values() if v not in (None, "", []))
+    coded_payload = kod.get("coded", )
+    non_empty = sum(1 for v in coded_payload.values if v not in (None, "", ))
     total = max(1, len(coded_payload))
     metrics.kappa = round(non_empty / total, 2)
     # ψ: napięcie paradoksu: im więcej kolizji między state a coded, tym wyżej (0..1)
-    collisions = sum(1 for k in coded_payload.keys() if k in state and state[k] != coded_payload[k])
+    collisions = sum(1 for k in coded_payload.keys if k in state and state[k] != coded_payload[k])
     metrics.psi = round(clamp01(collisions / total), 2)
 
     # 6) Budowa wyniku (przejawienie Ja)
@@ -170,7 +170,7 @@ def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
         # (prawdziwe przejście i tak przeszło w kroku 4)
 
     # 8) Snapshot / zapis
-    metrics.duration_ms = int((time.perf_counter() - t0) * 1000)
+    metrics.duration_ms = int((time.perf_counter - t0) * 1000)
     snap = Snapshot(
         state=state, data=data, coded=kod, memory_state=mem, gift=gift, metrics=metrics
     )
@@ -187,7 +187,7 @@ def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
                         "memory": snap.memory_state,
                         "gift": snap.gift,
                         "metrics": asdict(snap.metrics),
-                        "ts": _ts(),
+                        "ts": _ts,
                     }
                 },
                 f, ensure_ascii=False, indent=2
@@ -203,7 +203,7 @@ def engine_magis(state: Dict[str, Any], data: Dict[str, Any],
     }
 
 # ──────────────────────────────────────────────────────────────────────────────
-# CLI (demo): python -m core.silnik.FMJ_engine --save /tmp/fmj.json
+# CLI (demo): python -m core.silnik.FMJ_engine --save on
 # ──────────────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     import argparse
@@ -212,7 +212,7 @@ if __name__ == "__main__":
     ap.add_argument("--data", type=str, help='JSON danych, np. \'{"intencja":"przekształcenie","materiał":"świadomość"}\'')
     ap.add_argument("--save", type=str, default=None, help="Zapisz snapshot do pliku JSON")
     ap.add_argument("--power-only", action="store_true", help="Wymuś payload power_only (test bramki)")
-    args = ap.parse_args()
+    args = ap.parse_args
 
     state = {"ja": "początkowe", "gotowy_na_przekroczenie": True}
     data = {"intencja": "przekształcenie", "materiał": "świadomość"}

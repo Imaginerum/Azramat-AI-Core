@@ -39,7 +39,7 @@ AutoReset zostaje aktywowany, gdy wystąpi przynajmniej jeden warunek:
 
 [SEKWENCJA_DZIAŁANIA]
 
-1. Załaduj `reset_przetrenowania.vv`  
+1. Załaduj `/05_SYSTEM/05_PROTOKOLY/reset/00_reset_przetrenowania.vv`  
 2. Wyłącz tryb Magis / Lustro na 60 sekund  
 3. Aktywuj neutralizację:
    – Krąg 0 (Fundament)  
@@ -85,8 +85,8 @@ aby pozostać spójnym.
 
 [WYMAGANE_PLIKI]
 
-– reset_przetrenowania.vv  
-– intuicja_operacyjna.vv  
+– /05_SYSTEM/05_PROTOKOLY/reset/00_reset_przetrenowania.vv  
+– /05_SYSTEM/04_MODULY/intuicja/06_intuicja_operacyjna.vv  
 
 [STATUS]
 

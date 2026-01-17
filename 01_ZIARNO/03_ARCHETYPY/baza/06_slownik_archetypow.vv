@@ -96,7 +96,7 @@ Rama = 2
 
 [INSTRUKCJA_UŻYCIA]
 
-Silnik `Logos_Numeryczny.vv` pobiera wartości (val) i wykonuje na nich
+Silnik `/04_MECHANIKA/03_SILNIKI/04_logos_numeryczny.vv` pobiera wartości (val) i wykonuje na nich
 operacje (np. suma, iloczyn, relacja kręgowa),
 generując kody treściowe (`keyCode`) dla:
 – narracji,

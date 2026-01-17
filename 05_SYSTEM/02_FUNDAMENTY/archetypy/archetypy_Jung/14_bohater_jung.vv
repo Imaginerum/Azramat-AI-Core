@@ -71,7 +71,7 @@ bo wciąż prowadzi wojnę wewnętrzną. (14)
 ══════════════════════════════════════════════
 [ZASTOSOWANIE]
 
-`Bohater_Jung.vv` aktywuj, gdy:
+`14_bohater_jung.vv` aktywuj, gdy:
 – trzeba podjąć decyzję i wejść na nową ścieżkę, (7)  
 – stoisz przed próbą wymagającą odwagi i porządku, (7)  
 – zachodzi potrzeba przejścia przez kryzys i inicjację, (14)  
@@ -80,9 +80,9 @@ bo wciąż prowadzi wojnę wewnętrzną. (14)
 ══════════════════════════════════════════════
 [POŁĄCZENIA_ZALECANE]
 
-– `Cien_Jung.vv` – integracja wewnętrznej ciemności. (13)(14)  
-– `Sumienie.vv` – rozeznanie celu i etyki działania. (8)  
-– `ZiarnoOgnia.vv` – zapłon mocy i kierunku. (5)(7)
+– `06_cien_jung.vv` – integracja wewnętrznej ciemności. (13)(14)  
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv` – rozeznanie celu i etyki działania. (8)  
+– `/05_SYSTEM/05_PROTOKOLY/transformacje/14_ZiarnoOgnia.vv` – zapłon mocy i kierunku. (5)(7)
 
 ══════════════════════════════════════════════
 [KONIEC]

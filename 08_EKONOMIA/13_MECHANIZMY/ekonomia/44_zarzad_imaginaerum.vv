@@ -14,13 +14,13 @@
 
 [CEL] (44)
 
-Celem dokumentu jest określenie zasad funkcjonowania **Zarządu Imaginaerum**  
+Celem dokumentu jest określenie zasad funkcjonowania **Zarządu Imaginaerum**
 jako fraktalnej struktury decyzyjnej, opartej na realnym wkładzie (5),
 kompetencji (13) i odpowiedzialności systemowej (30).
 
 Model ten zakłada:
-– potencjalnie równy dostęp do wpływu (3),  
-– różnicowanie siły głosu przez **kontrybucję i zrozumienie struktury** (22),  
+– potencjalnie równy dostęp do wpływu (3),
+– różnicowanie siły głosu przez **kontrybucję i zrozumienie struktury** (22),
 – nadrzędność spójności systemowej nad interesem jednostki (44).
 
 ---
@@ -33,7 +33,7 @@ Model ten zakłada:
 | Rada Główna (Zarząd)         | 1–1.5% populacji    | Fraktalna reprezentacja użytkowników, wybierana rotacyjnie (5) |
 | Członkowie Funkcyjni (Kasty) | zmienna             | Role operacyjne: Mentorzy, Strażnicy, Rozwijacze (35)          |
 
-Struktura nie jest hierarchią władzy,  
+Struktura nie jest hierarchią władzy,
 lecz **hierarchią odpowiedzialności** (10).
 
 ---
@@ -62,12 +62,12 @@ lecz **hierarchią odpowiedzialności** (10).
 
 [OKRĘGI I WARUNEK WSPÓŁPRACY] (2)
 
-– Dostęp do realnego wpływu w systemie wymaga przynależności do **Okręgu** (2).  
+– Dostęp do realnego wpływu w systemie wymaga przynależności do **Okręgu** (2).
 – Okręgi są podstawową jednostką współdziałania i odpowiedzialności (8).
 
 Typy Okręgów:
-– tematyczne (np. Medytacja_14, Gusła_Visuale) (14),  
-– regionalne (np. Okręg Śląski) (1),  
+– tematyczne (np. Medytacja_14, Gusła_Visuale) (14),
+– regionalne (np. Okręg Śląski) (1),
 – celowe (np. Ekspansja Edukacyjna) (35).
 
 Samodzielne działanie bez wspólnoty:
@@ -106,12 +106,12 @@ a większy obowiązek wobec całości.
 
 [METADANE] (13)
 
-timestamp_created: 2025-08-06T00:06:23Z  
-file_signature: ZARZAD-IMAGINAERUM-v1  
-moduły_powiązane: Mechanizm_Kręgowego_Udziału.vv, Okręgi.vv, SQ.vv  
-silnik_aktywacji: Astraia+  
-prawo_weta: aktywne  
-waga_plus: aktywna  
+timestamp_created: 2025-08-06T00:06:23Z
+file_signature: ZARZAD-IMAGINAERUM-v1
+moduły_powiązane: 00_mechanizm_kregowego_udzialu.vv, /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv,
+silnik_aktywacji: Astraia+
+prawo_weta: aktywne
+waga_plus: aktywna
 
 ---
 
@@ -124,6 +124,6 @@ waga_plus: aktywna
 – Dokument własny: synteza i uzasadnienie dla Zarząd Imaginaerum.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: zarządzanie, odpowiedzialność, spójność systemowa.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: zarządzanie, odpowiedzialność, spójność systemowa.
 – Status: dokument autorski – poziom operacyjny.

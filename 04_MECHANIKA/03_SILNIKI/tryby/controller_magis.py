@@ -1,7 +1,7 @@
-# Plik: /04_MECHANIKA/silnik/controller_magis.py
+# Plik: /04_MECHANIKA/03_SILNIKI/tryby/controller_magis.py
 # Data: 2025-08-08
 # Cel: Kontroler aktywacji Trybu Magicznego (Magis) z metrykami, konfiguracją i hookami
-# Zależności: stdlib. (opcjonalnie: /04_MECHANIKA/silnik/FMJ_engine.py, /04_MECHANIKA/silnik/azramata_7d_theta.py)
+# Zależności: stdlib. (opcjonalnie: /04_MECHANIKA/03_SILNIKI/FMJ_engine.py, /04_MECHANIKA/03_SILNIKI/azramata_7d_theta.py)
 
 from __future__ import annotations
 from dataclasses import dataclass, asdict

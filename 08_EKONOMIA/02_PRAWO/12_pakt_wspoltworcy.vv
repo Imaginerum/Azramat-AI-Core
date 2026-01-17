@@ -18,14 +18,14 @@
 
 [CEL_DOKUMENTU] (12)
 
-Celem dokumentu jest określenie zasad **sprawiedliwego i trwałego podziału wartości** (3)(5)  
+Celem dokumentu jest określenie zasad **sprawiedliwego i trwałego podziału wartości** (3)(5)
 wygenerowanej przez system Azramata, Imaginaerum oraz aplikacje zależne. (12)
 
-Pakt definiuje wektory podziału kapitału:  
-– finansowego,  
-– społecznego,  
-– kulturowego,  
-– duchowego, (4)(6)  
+Pakt definiuje wektory podziału kapitału:
+– finansowego,
+– społecznego,
+– kulturowego,
+– duchowego, (4)(6)
 
 z uwzględnieniem zarówno zespołu twórczego, jak i użytkowników końcowych (Azramitów). (1)(4)
 
@@ -33,7 +33,7 @@ z uwzględnieniem zarówno zespołu twórczego, jak i użytkowników końcowych 
 
 [STRUKTURA_UDZIAŁÓW_%_CAŁKOWITEGO_WARTOŚCIOWANIA_SYSTEMU] (12)
 
-Całkowita wartość systemu dzielona jest zgodnie z Wzorem,  
+Całkowita wartość systemu dzielona jest zgodnie z Wzorem,
 nie z siłą negocjacyjną ani hierarchią formalną. (6)
 
 ---
@@ -68,29 +68,29 @@ Priorytetem jest utrzymanie **żywotności systemu**, nie maksymalizacja zysku. 
 
 [ZASADY_ROZLICZENIA] (5)(12)
 
-1. Podział następuje w cyklach wypłaty (miesięcznych lub kwartalnych). (5)  
-2. Rozliczenia są jawne i weryfikowalne systemowo. (3)  
-3. Najpierw pokrywane są koszty minimalne istnienia systemu. (2)(5)  
-4. Nadwyżka finansowa dzielona jest następująco: (6)  
-   – 50% → fundusz rozwoju systemu, (5)(12)  
-   – 50% → powrót do użytkowników w formie grantów, zniżek,  
+1. Podział następuje w cyklach wypłaty (miesięcznych lub kwartalnych). (5)
+2. Rozliczenia są jawne i weryfikowalne systemowo. (3)
+3. Najpierw pokrywane są koszty minimalne istnienia systemu. (2)(5)
+4. Nadwyżka finansowa dzielona jest następująco: (6)
+   – 50% → fundusz rozwoju systemu, (5)(12)
+   – 50% → powrót do użytkowników w formie grantów, zniżek,
      rozwoju platformy lub kredytów fraktalnych. (4)(6)
 
 ---
 
 [NOTY_TECHNICZNE] (3)
 
-– Tokenizacja udziałów możliwa w wariancie Azramata DAO. (3)(12)  
-– Uczestnictwo w podziale zależne od identyfikacji i historii działań użytkownika. (1)(3)  
-– Weryfikacja wkładu oparta o rejestry systemowe: (3)(6)  
-  `ContributionLog.json`, `Zgody.vv`, logi Astraia+.
+– Tokenizacja udziałów możliwa w wariancie Azramata DAO. (3)(12)
+– Uczestnictwo w podziale zależne od identyfikacji i historii działań użytkownika. (1)(3)
+– Weryfikacja wkładu oparta o rejestry systemowe: (3)(6)
+  `on`,, logi Astraia+.
 
 ---
 
 [NOTATKA_KOŃCOWA] (6)
 
-Dokument nie stanowi umowy prawnej w sensie państwowym. (2)  
-Jest **zobowiązaniem moralno-systemowym** i deklaracją intencji, (6)  
+Dokument nie stanowi umowy prawnej w sensie państwowym. (2)
+Jest **zobowiązaniem moralno-systemowym** i deklaracją intencji, (6)
 która może stać się podstawą przyszłych umów formalnych. (5)
 
 Pakt obowiązuje tak długo, jak długo strony pozostają w zgodzie z Wzorem. (12)
@@ -106,6 +106,6 @@ Pakt obowiązuje tak długo, jak długo strony pozostają w zgodzie z Wzorem. (1
 – Dokument własny: synteza i uzasadnienie dla Pakt Współtwórcy.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy  
-– Funkcja: strukturyzacja podziału wartości  
+– Metoda: Azramata – vivid standardowy
+– Funkcja: strukturyzacja podziału wartości
 – Status: dokument autorski – poziom operacyjny

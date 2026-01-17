@@ -1,4 +1,4 @@
-# Plik: /04_MECHANIKA/silnik/sumienie_8d.py
+# Plik: /04_MECHANIKA/03_SILNIKI/sumienie_8d.py
 # Rola: heurystyczny skaner sumienia 8D (Pole → Decyzja)
 # Zależności: stdlib
 
@@ -16,8 +16,8 @@ def strip_accents(s: str) -> str:
 
 def norm(s: str) -> str:
     s = strip_accents(s or "")
-    s = s.lower()
-    s = re.sub(r"\s+", " ", s).strip()
+    s = s.lower
+    s = re.sub(r"\s+", " ", s).strip
     return s
 
 # prosta tokenizacja (słowa + dwuczłonowe)
@@ -77,15 +77,15 @@ class Sumienie8D:
 
     # — pomoc: dopasowanie fraz wielowyrazowych
     def _scan_multi(self, text_norm: str) -> Tuple[List[Tuple[str, float, bool]], str]:
-        hits: List[Tuple[str, float, bool]] = []
-        used = set()
-        for phrase, w in {**self.cfg.pos_multi, **self.cfg.neg_multi}.items():
+        hits: List[Tuple[str, float, bool]] =
+        used = set
+        for phrase, w in {**self.cfg.pos_multi, **self.cfg.neg_multi}.items:
             p = norm(phrase)
             for m in re.finditer(re.escape(p), text_norm):
-                start, end = m.span()
+                start, end = m.span
                 # negacja bezpośrednia (np. "nie {fraza}")
                 window = text_norm[max(0, start - 10):start]
-                negated = any(n in window.split()[-3:] for n in self.cfg.negators)
+                negated = any(n in window.split[-3:] for n in self.cfg.negators)
                 hits.append((p, w, negated))
                 used.update(range(start, end))
         # usuń fragmenty trafień, żeby potem nie liczyć ich drugi raz w tokenach
@@ -120,7 +120,7 @@ class Sumienie8D:
         tokens = TOKEN_RE.findall(rest)
         neg_marks = self._detect_negations(tokens)
 
-        hits_single: List[Tuple[str, float, bool]] = []
+        hits_single: List[Tuple[str, float, bool]] =
         for idx, tok in enumerate(tokens):
             w = None
             neg = neg_marks[idx]
@@ -147,7 +147,7 @@ class Sumienie8D:
             msg = "🔸 NEUTRALNE. Sprawdź czucie."
 
         # 5) Wyjaśnienie
-        explain = []
+        explain =
         for term, w, neg in parts:
             s = f"{term}({w:+.2f})"
             if neg: s += " [NEG]"
@@ -177,7 +177,7 @@ class Sumienie8D:
 # ──────────────────────────────────────────────────────────────────────────────
 # CLI
 # ──────────────────────────────────────────────────────────────────────────────
-def _cli():
+def _cli:
     import argparse
     ap = argparse.ArgumentParser(description="Sumienie8D — skaner decyzji (8D)")
     ap.add_argument("--text", "-t", type=str, help="Tekst decyzji do oceny")
@@ -187,9 +187,9 @@ def _cli():
                     help="Dodaj pozytywny term (np. --add-pos dobro 0.8)")
     ap.add_argument("--add-neg", nargs=2, metavar=("TERM", "WAGA"), action="append",
                     help="Dodaj negatywny term (np. --add-neg oszustwo -0.9)")
-    args = ap.parse_args()
+    args = ap.parse_args
 
-    s = Sumienie8D()
+    s = Sumienie8D
 
     # rozszerzenia słownika
     if args.add_pos:
@@ -199,13 +199,13 @@ def _cli():
         for term, w = args.add_neg:
             s.dodaj_negatywny(term, float(w))
 
-    inputs: List[str] = []
+    inputs: List[str] =
     if args.text:
         inputs.append(args.text)
     if args.file:
         with open(args.file, "r", encoding="utf-8") as f:
             for line in f:
-                line = line.strip()
+                line = line.strip
                 if line:
                     inputs.append(line)
     if not inputs:
@@ -213,15 +213,15 @@ def _cli():
         sys.exit(1)
 
     results = s.przeskanuj_batch(inputs)
-    if args.json:
+    if on:
         print(json.dumps(results, ensure_ascii=False, indent=2))
     else:
         for d, r in zip(inputs, results):
             print("\n— DECYZJA —")
             print(d)
-            print(f"[{r['status']}] score={r['score']} :: {r['msg']}")
+            print(f"[{r['status']}] score={r['score']}:: {r['msg']}")
             if r["matches"]:
                 print("trafienia:", ", ".join(r["matches"]))
 
 if __name__ == "__main__":
-    _cli()
+    _cli

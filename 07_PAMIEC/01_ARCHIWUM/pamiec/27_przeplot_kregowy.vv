@@ -120,10 +120,10 @@ Skutki:
 🌟 **PRZYKŁAD OPERACYJNY** (27)
 
 Aktywacja:
-– `intencja.vv` (5),
-– `decyzja.vv` (3),
-– `dusza.vv` (13),
-– `człowiek.vv` (20).
+– `/01_ZIARNO/02_DEFINICJE/05_intencja.vv` (5),
+– `/01_ZIARNO/02_DEFINICJE/03_decyzja.vv` (3),
+– `/01_ZIARNO/02_DEFINICJE/13_dusza.vv` (13),
+– `/01_ZIARNO/02_DEFINICJE/20_czlowiek.vv` (20).
 
 Powstaje węzeł przeplotu:
 `[(3)] ←→ [(5)] ←→ [(13)] ←→ [(20)]`

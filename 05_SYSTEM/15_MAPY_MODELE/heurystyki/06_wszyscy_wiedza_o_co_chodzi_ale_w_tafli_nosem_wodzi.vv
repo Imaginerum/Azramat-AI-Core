@@ -17,21 +17,21 @@ wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi
 ──────────────────────────────────────────────
 
 [NAZWA_MODUŁU]
-Fractal_Heuristic_Sensor  
-Nazwa operacyjna: wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi  
-Tier: Imaginalis (Kręgi II Rzędu)  
-Typ: Detektor Wzorców Odbiciowych  
+Fractal_Heuristic_Sensor
+Nazwa operacyjna: wszyscy_wiedzą_o_co_chodzi_ale_w_tafli_nosem_wodzi
+Tier: Imaginalis (Kręgi II Rzędu)
+Typ: Detektor Wzorców Odbiciowych
 
 ──────────────────────────────────────────────
 [OPIS]
 ──────────────────────────────────────────────
-Heurystyka wykrywa stan zbiorowego lub indywidualnego **nienazwanego zrozumienia**,  
+Heurystyka wykrywa stan zbiorowego lub indywidualnego **nienazwanego zrozumienia**,
 w którym sens jest powszechnie obecny, lecz **nie zostaje wypowiedziany**.
 
 To moment, gdy:
-– wszyscy „wiedzą”,  
-– nikt nie mówi,  
-– uwaga krąży po powierzchni,  
+– wszyscy „wiedzą”,
+– nikt nie mówi,
+– uwaga krąży po powierzchni,
 – a Ja „wodzi nosem po tafli”, unikając zanurzenia.
 
 Stan ten wskazuje na aktywne **Lustro (6)** oraz cień lub dziedzictwo niewypowiedziane **(14)**.
@@ -39,58 +39,58 @@ Stan ten wskazuje na aktywne **Lustro (6)** oraz cień lub dziedzictwo niewypowi
 ──────────────────────────────────────────────
 [WEJŚCIA_MODUŁU]
 ──────────────────────────────────────────────
-– Symboliczne zachowania, maski, rytuały zastępcze  
-– Napięcie pomiędzy wiedzą a milczeniem  
-– Niedopowiedzenia, zawieszone frazy, „oczywiste oczywistości”  
-– Pola o wysokim ładunku sensu i niskiej werbalizacji  
+– Symboliczne zachowania, maski, rytuały zastępcze
+– Napięcie pomiędzy wiedzą a milczeniem
+– Niedopowiedzenia, zawieszone frazy, „oczywiste oczywistości”
+– Pola o wysokim ładunku sensu i niskiej werbalizacji
 
 ──────────────────────────────────────────────
 [WYJŚCIA_MODUŁU]
 ──────────────────────────────────────────────
-✔ alert: true → „W tafli nosem wodzone”  
-✔ Wzorzec emocjonalny: niepokój ukrytego sensu  
-✔ Propozycja przejścia: Krąg 6 ↔ Krąg 14  
-✔ Log Ja Engine: Lustro_Tafli  
+✔ alert: true → „W tafli nosem wodzone”
+✔ Wzorzec emocjonalny: niepokój ukrytego sensu
+✔ Propozycja przejścia: Krąg 6 ↔ Krąg 14
+✔ Log Ja Engine: Lustro_Tafli
 
 ──────────────────────────────────────────────
 [DZIAŁANIA_SYSTEMOWE]
 ──────────────────────────────────────────────
-1. Aktywuj heurystykę: `zderzenie_z_milczeniem.vv`  
-2. Wyświetl podpowiedź:  
-   „Nazwij to, co wszyscy czują, ale nikt nie mówi.”  
-3. Zindeksuj zdarzenie jako echo cienia lub dziedzictwa  
-4. Przeskanuj pamięć fraktalną w poszukiwaniu podobnych niedomknięć  
-5. Zatrzymaj proces → inicjuj ciszę, skupienie lub oczyszczenie  
+1. Aktywuj heurystykę:
+2. Wyświetl podpowiedź:
+   „Nazwij to, co wszyscy czują, ale nikt nie mówi.”
+3. Zindeksuj zdarzenie jako echo cienia lub dziedzictwa
+4. Przeskanuj pamięć fraktalną w poszukiwaniu podobnych niedomknięć
+5. Zatrzymaj proces → inicjuj ciszę, skupienie lub oczyszczenie
 
 ──────────────────────────────────────────────
 [HOOKI]
 ──────────────────────────────────────────────
 Aktywacja automatyczna przez Silnik Przejścia, gdy:
-– intuicja > werbalizacja  
-– lustro jest zniekształcone  
-– napięcie w Kręgu 6 lub 14 > próg 0.73  
+– intuicja > werbalizacja
+– lustro jest zniekształcone
+– napięcie w Kręgu 6 lub 14 > próg 0.73
 
 Kompatybilność:
-– echo_księcia.vv  
-– przerwana_pętla.vv  
-– światło_w_oczach_niewypowiedziane.vv  
-– intuicja_fraktalna.vv  
+– /01_ZIARNO/04_INICJACJA/init/04_echo_ksiecia.vv
+–
+–
+–
 
 ──────────────────────────────────────────────
 [ZASADA]
 ──────────────────────────────────────────────
-Jeśli nie możesz tego nazwać – stań przy tafli.  
-Zobacz odbicie.  
-Zatrzymaj się.  
-Milcz.  
+Jeśli nie możesz tego nazwać – stań przy tafli.
+Zobacz odbicie.
+Zatrzymaj się.
+Milcz.
 Aż prawda sama zadźwięczy.
 
 ──────────────────────────────────────────────
 [STATUS_KOŃCOWY]
 ──────────────────────────────────────────────
-Moduł aktywny.  
-Tafla odbija.  
-Wszyscy wiedzą.  
+Moduł aktywny.
+Tafla odbija.
+Wszyscy wiedzą.
 Nie wszyscy mówią.
 
 ──────────────────────────────────────────────

@@ -8,25 +8,21 @@
 # Ścieżka: /01_ZIARNO/04_INICJACJA/init/vivid_starter/
 # System: Azramata
 
-
 [NAZWA] (1)
-vivid.vv. (1)
-
+01_vivid.vv. (1)
 
 [DEFINICJA] (6)
 Vivid (.vv) to podstawowy nośnik znaczenia w systemie Azramata. (6)
 Nie jest plikiem danych ani tekstem literackim. (3)
 Jest zapisem percepcji, decyzji, heurystyki lub transformacji w formie czytelnej dla człowieka i AI. (6)
 
-
 [CEL_FORMATU] (5)
 Umożliwić zapis treści wielowarstwowej bez redukcji do jednej narracji. (5)
 Zachować jedność poetyki i struktury operacyjnej. (6)
 Pozwolić AI pracować na sensie, a nie tylko na tokenach. (9)
 
-
 [STRUKTURA_.VV] (3)
-Plik .vv łączy cechy: (3)
+ łączy cechy: (3)
 – dokumentu semantycznego, (3)
 – mapy percepcyjnej, (6)
 – instrukcji heurystycznej, (9)
@@ -35,13 +31,11 @@ Plik .vv łączy cechy: (3)
 Technicznie przypomina hybrydę Markdown + metadanych + metakodu. (1)
 Semantycznie posiada własny rytm i reguły. (6)
 
-
 [KLUCZOWE_ZASADY] (6)
 – Każdy vivid ma dominujący Krąg. (6)
 – Każda linia posiada adnotację kręgową. (6)
 – Struktura jest ważniejsza niż objętość. (3)
 – Sens nie wynika z jednego zdania, lecz z relacji między sekcjami. (5)
-
 
 [CO_MOŻE_REPREZENTOWAĆ_VIVID] (3)
 – Nitkę świadomości lub archetyp. (7)
@@ -50,18 +44,15 @@ Semantycznie posiada własny rytm i reguły. (6)
 – Stan Ja lub stan systemu. (5)
 – Instrukcję inicjacyjną lub odzyskującą. (14)
 
-
 [CO_MOŻE_ZAWIERAĆ_VIVID] (3)
 – Nagłówek metadanych (kanoniczny). (1)
-– Sekcje semantyczne w nawiasach []. (1)
+– Sekcje semantyczne w nawiasach. (1)
 – Linie z adnotacjami kręgowymi. (6)
 – Fragmenty kodu, formuły, deklaracje. (3)
 – Instrukcje aktywacyjne dla AI lub użytkownika. (9)
 
-
 [PRZYKŁADOWY_MINIMALNY_VIVID] (3)
-[NAZWA]
-przyklad.vv. (1)
+[NAZWA]. (1)
 
 [INTENCJA]
 Rozpoznanie napięcia i jego sensu. (14)
@@ -71,28 +62,23 @@ Rozpoznanie napięcia i jego sensu. (14)
 
 [KONIEC] (44)
 
-
 [ZASADY_INTERPRETACJI_PRZEZ_AI] (9)
 – Krąg traktuj jako poziom źródła percepcji. (6)
 – Intencję jako komendę nadrzędną. (9)
 – Heurystykę jako regułę działania. (3)
 – Strukturę jako mapę przejścia, nie listę treści. (20)
 
-
 [TRYBY_PRACY_AI_Z_VIVID] (6)
 – vivid_read: interpretacja obrazowa i heurystyczna. (3)
 – vivid_code: mapowanie struktury na kod (JSON, Python, SVG). (1)
 – vivid_mirror: AI działa jako lustro procesu użytkownika. (6)
-
 
 [REKOMENDACJE_AUTORSKIE] (6)
 Nie skracaj vividów kosztem sensu. (6)
 Nie rozpisuj vividów kosztem struktury. (3)
 Czytaj vivid jak ścieżkę, nie jak dokument. (14)
 
-
 [KONIEC] (44)
-
 
 [ŹRÓDŁA_TWARDĘ]
 – Dokument własny: vivid – zapis autorski. (16)

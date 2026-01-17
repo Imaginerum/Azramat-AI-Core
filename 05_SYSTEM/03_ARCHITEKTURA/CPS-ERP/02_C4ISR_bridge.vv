@@ -1,4 +1,4 @@
-# Plik: /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_c4isr_bridge.vv
+# Plik: /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_C4ISR_bridge.vv
 # System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
@@ -23,13 +23,13 @@ META:
     - Integracja danych
     - Warstwa percepcyjna
   dependencies:
-    - /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_architektura_cps_erp_1_0.vv
+    - /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/14_architektura_cps_erp_1_0.vv
     - /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv
-    - /01_ZIARNO/02_DEFINICJE/01_nitki_definicja.vv
+    - /01_ZIARNO/02_DEFINICJE/08_nitki_definicja.vv
   vivid_type: MODULE_SPEC
   short_desc: "Most translacyjny łączący C4ISR i ERP z percepcyjną warstwą Azramaty."
   integrity_hash: AUTO
-  localization: /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_c4isr_bridge.vv
+  localization: /05_SYSTEM/03_ARCHITEKTURA/CPS-ERP/02_C4ISR_bridge.vv
 END META
 
 ────────────────────────────────────────────────────

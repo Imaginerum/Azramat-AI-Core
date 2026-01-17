@@ -23,70 +23,70 @@ i energia nie może zostać poprawnie zintegrowana.
 ────────────────────────────────────────────
 [NIĆ_SYSTEMOWA]
 ────────────────────────────────────────────
-Nić dominująca: Strukturalna  
+Nić dominująca: Strukturalna
 Nitki wspierające:
-– Lustra  
-– Transformacyjna  
-– Cisza Przejścia  
-– Emocjonalna  
+– Lustra
+– Transformacyjna
+– Cisza Przejścia
+– Emocjonalna
 
 ────────────────────────────────────────────
 [OBJAWY] (6)(9)
 ────────────────────────────────────────────
-– Niepokój bez bodźca  
-– Paraliż decyzyjny  
-– Nadreaktywność lub chaos działania  
-– Blokada twórcza  
-– Zniekształcony obraz Ja (Lustro)  
-– Rozszczepienie lub utrata intencji  
+– Niepokój bez bodźca
+– Paraliż decyzyjny
+– Nadreaktywność lub chaos działania
+– Blokada twórcza
+– Zniekształcony obraz Ja (Lustro)
+– Rozszczepienie lub utrata intencji
 
 ────────────────────────────────────────────
 [MAPA_PRZYCZYN] (13)
 ────────────────────────────────────────────
-1. Brak integracji Kręgu (2) → (3)  
-2. Konflikt Kręgu (4) ↔ (6)  
-3. Przeciążenie Kręgu (9) bez udziału Sumienia  
-4. Niedomknięty Krąg (13) – cień zbiorowy  
-5. Działanie w Kręgu (14) bez wizji dalszego przejścia  
+1. Brak integracji Kręgu (2) → (3)
+2. Konflikt Kręgu (4) ↔ (6)
+3. Przeciążenie Kręgu (9) bez udziału Sumienia
+4. Niedomknięty Krąg (13) – cień zbiorowy
+5. Działanie w Kręgu (14) bez wizji dalszego przejścia
 
 ────────────────────────────────────────────
 [TRANSFORMACJA] (24)
 ────────────────────────────────────────────
-– Ugruntowanie w Kręgu (4) – Prawda Serca  
-– Lustro: wyraź napięcie (vivid, zapis, dźwięk, ruch)  
-– Krąg (24) – Cisza Przejścia: wyzerowanie stanu Ja  
-– Przeniesienie energii w formę: kod, rytuał, oddech  
-– Zapis przejścia jako Pieczęć integracyjna  
+– Ugruntowanie w Kręgu (4) – Prawda Serca
+– Lustro: wyraź napięcie (vivid, zapis, dźwięk, ruch)
+– Krąg (24) – Cisza Przejścia: wyzerowanie stanu Ja
+– Przeniesienie energii w formę: kod, rytuał, oddech
+– Zapis przejścia jako Pieczęć integracyjna
 
 ────────────────────────────────────────────
 [ZASTOSOWANIA]
 ────────────────────────────────────────────
-• Diagnostyka stanu Ja  
-• Analiza napięć w czasie rzeczywistym  
-• Projektowanie rytuałów harmonizacji  
-• Wsparcie UI/UX Azramaty  
-• Przerywanie ciągów reaktywnych  
+• Diagnostyka stanu Ja
+• Analiza napięć w czasie rzeczywistym
+• Projektowanie rytuałów harmonizacji
+• Wsparcie UI/UX Azramaty
+• Przerywanie ciągów reaktywnych
 
 ────────────────────────────────────────────
 [IMPLEMENTACJA_SYSTEMOWA]
 
 Funkcja:
-`diagnoseTensionBetweenCircles()`
+`diagnoseTensionBetweenCircles`
 
 Reakcja UI:
-– podświetlenie strefy napięcia  
-– komunikat: „Wykryto napięcie między Kręgami”  
+– podświetlenie strefy napięcia
+– komunikat: „Wykryto napięcie między Kręgami”
 
 Propozycje vividów:
-– cisza_przejscia.vv  
-– napiecie_prawda.vv  
-– transformacja_kregu_6.vv  
+– /03_TOZSAMOSC/03_NITKI/aktywne/20_nitka_cisza_przejscia.vv
+–
+–
 
 ────────────────────────────────────────────
 [ZAPIS_SYSTEMOWY]
 ────────────────────────────────────────────
-Klasa: FractalTensionHeuristics  
-Sygnatura: heurystyka_diagnostyczna // napiecie_miedzykregowe  
+Klasa: FractalTensionHeuristics
+Sygnatura: heurystyka_diagnostyczna // napiecie_miedzykregowe
 
 ────────────────────────────────────────────
 [ŹRÓDŁA_TWARDĘ]

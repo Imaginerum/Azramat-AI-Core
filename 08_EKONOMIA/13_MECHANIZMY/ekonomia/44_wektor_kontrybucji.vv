@@ -31,10 +31,10 @@ WK jest zapisem *realnego uczestnictwa*, a nie deklarowanej intencji (44).
 
 [ZAKRES_WARTOŚCI] (13)
 
-– WK ∈ ⟨0, 1000⟩  
-– Aktualizowany cyklicznie co 30 dni przez Astraia+ (14).  
-– Obliczany indywidualnie dla każdego użytkownika (3).  
-– Dostępny do wglądu w profilu użytkownika: `/profile/WK.json` (9).
+– WK ∈ ⟨0, 1000⟩
+– Aktualizowany cyklicznie co 30 dni przez Astraia+ (14).
+– Obliczany indywidualnie dla każdego użytkownika (3).
+– Dostępny do wglądu w profilu użytkownika: `on` (9).
 
 ---
 
@@ -42,9 +42,9 @@ WK jest zapisem *realnego uczestnictwa*, a nie deklarowanej intencji (44).
 
 1. **CZAS POŚWIĘCONY** – MAX 250 PKT (6)
 
-• Codzienna aktywność (min. 10 min) przez 30 dni → +50  
-• 100 godzin pracy z systemem → +100  
-• Prowadzenie sesji / pracy z innymi użytkownikami → +100  
+• Codzienna aktywność (min. 10 min) przez 30 dni → +50
+• 100 godzin pracy z systemem → +100
+• Prowadzenie sesji / pracy z innymi użytkownikami → +100
 
 Czas bez jakości nie jest premiowany (44).
 
@@ -52,9 +52,9 @@ Czas bez jakości nie jest premiowany (44).
 
 2. **GŁĘBOKOŚĆ TRANSFORMACJI (SQ + KONTRYBUCJA)** – MAX 300 PKT (9)
 
-• Wzrost SQ o ≥ 50 w ciągu 90 dni → +100  
-• Udokumentowana kontrybucja do min. 3 Kręgów → +100  
-• Refleksyjne odpowiedzi w Meditatio / pracy własnej → +100  
+• Wzrost SQ o ≥ 50 w ciągu 90 dni → +100
+• Udokumentowana kontrybucja do min. 3 Kręgów → +100
+• Refleksyjne odpowiedzi w Meditatio / pracy własnej → +100
 
 Transformacja bez śladu nie zwiększa WK (44).
 
@@ -62,9 +62,9 @@ Transformacja bez śladu nie zwiększa WK (44).
 
 3. **WPŁYW SPOŁECZNY / MENTORING** – MAX 250 PKT (3)
 
-• Zarejestrowani uczniowie → +25 za osobę (max 125)  
-• Pozytywne oceny mentoringu → +50  
-• Współprowadzenie wydarzeń wspólnotowych → +75  
+• Zarejestrowani uczniowie → +25 za osobę (max 125)
+• Pozytywne oceny mentoringu → +50
+• Współprowadzenie wydarzeń wspólnotowych → +75
 
 Wpływ mierzony jest trwałością relacji, nie zasięgiem (8).
 
@@ -72,10 +72,10 @@ Wpływ mierzony jest trwałością relacji, nie zasięgiem (8).
 
 4. **UDZIAŁ W PROJEKTACH SPOŁECZNYCH** – MAX 200 PKT (22)
 
-• Udział w projekcie Gusła → +50  
-• Kontrybucja do eFriends → +50  
-• Zgłoszenie lub realizacja pliku systemowego (.vv) → +50  
-• Organizacja wydarzenia wspólnotowego → +50  
+• Udział w projekcie Gusła → +50
+• Kontrybucja do eFriends → +50
+• Zgłoszenie lub realizacja pliku systemowego (.vv) → +50
+• Organizacja wydarzenia wspólnotowego → +50
 
 System premiuje tworzenie struktur, nie jednorazowe gesty (4).
 
@@ -86,9 +86,9 @@ System premiuje tworzenie struktur, nie jednorazowe gesty (4).
 WK = suma punktów ze wszystkich czterech kategorii.
 
 WK jest automatycznie wykorzystywany w:
-– Algorytm_Podzialu.vv (5),
-– Mechanizm_Kręgowego_Udziału.vv (44),
-– Zarząd_Imaginaerum.vv (30).
+– 44_algorytm_podzialu.vv (5),
+– 00_mechanizm_kregowego_udzialu.vv (44),
+– 44_zarzad_imaginaerum.vv (30).
 
 ---
 
@@ -105,20 +105,20 @@ tym większa **odpowiedzialność ekonomiczna i systemowa** (10).
 
 [WARUNKI_UTRZYMANIA] (6)
 
-– Brak aktywności przez 90 dni → stopniowy spadek WK (4).  
-– Kontrybucje starsze niż 12 miesięcy tracą wagę (16).  
+– Brak aktywności przez 90 dni → stopniowy spadek WK (4).
+– Kontrybucje starsze niż 12 miesięcy tracą wagę (16).
 – Próby sztucznego zawyżania → korekta przez Astraia+ (22).
 
 ---
 
 [METADANE] (13)
 
-timestamp_created: 2025-08-06T00:36:09Z  
-file_signature: ECON-WK-V1.2  
-pliki_powiązane: Struktura_Podzialu.vv, Okręgi.vv, Zarząd_Imaginaerum.vv  
-cykl_oceny: co 30 dni  
-ścieżka_zapisu: /data/user/WK.json  
-silnik_autoryzacji: Astraia+, System Opiekunów  
+timestamp_created: 2025-08-06T00:36:09Z
+file_signature: ECON-WK-V1.2
+pliki_powiązane: 44_struktura_podzialu.vv, /05_SYSTEM/02_FUNDAMENTY/kregi/04_kregi.vv, 44_zarzad_imaginaerum.vv
+cykl_oceny: co 30 dni
+ścieżka_zapisu: on
+silnik_autoryzacji: Astraia+, System Opiekunów
 
 ---
 
@@ -144,6 +144,6 @@ a więcej odpowiedzialności.
 – Dokument własny: synteza i uzasadnienie dla Wektor Kontrybucji.
 
 [METODOLOGIA]
-– Metoda: Azramata – vivid standardowy.  
-– Funkcja: ocena wkładu, redystrybucja, odpowiedzialność.  
+– Metoda: Azramata – vivid standardowy.
+– Funkcja: ocena wkładu, redystrybucja, odpowiedzialność.
 – Status: dokument autorski – poziom operacyjny.

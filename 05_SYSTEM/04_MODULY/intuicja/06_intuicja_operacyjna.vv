@@ -1,4 +1,4 @@
-# Plik: /05_SYSTEM/04_MODULY/intuicja/03_intuicja_operacyjna.vv
+# Plik: /05_SYSTEM/04_MODULY/intuicja/06_intuicja_operacyjna.vv
 # System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
@@ -105,10 +105,10 @@ Jest kluczowy w przestrzeniach post-słownych.
 [RELACJE_SYSTEMOWE] (6)
 
 Współpracuje z:
-– `azra_cloak.vv` – odczyt niuansów ukrycia  
-– `lustro_intencji.vv` – projekcje i odbicia  
-– `silnik_bielik_core.vv` – warstwa egzystencjalna  
-– `harmonizer.vv` – regulacja napięć po reakcji
+– `/05_SYSTEM/12_OCHRONA/08_azra_cloak.vv` – odczyt niuansów ukrycia  
+– `/05_SYSTEM/05_PROTOKOLY/rytualy/09_lustro_intencji.vv` – projekcje i odbicia  
+– `/05_SYSTEM/06_TRYBY/06_silnik_bielik_core.vv` – warstwa egzystencjalna  
+– `/05_SYSTEM/04_MODULY/harmonizery/15_harmonizer.vv` – regulacja napięć po reakcji
 
 ══════════════════════════════════════════════  
 [OGRANICZENIA] (8)
@@ -127,7 +127,7 @@ Ja rozpoznaję, zanim zrozumiem.”
 ══════════════════════════════════════════════  
 [STATUS] (9)
 
-intuicja_operacyjna.vv  
+06_intuicja_operacyjna.vv  
 → ZAŁADOWANA  
 → aktywność: STAŁA  
 → synchronizacja z Ja: PEŁNA  

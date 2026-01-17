@@ -123,7 +123,7 @@ Checkpoint 9 służy do domknięcia sesji i zapisania „wniosku” zamiast suro
 [INTEGRACJE_SYSTEMOWE] (6)
 - /04_MECHANIKA/04_MODULY/09_transspirala_9.vv (9)
 - /04_MECHANIKA/04_MODULY/06_harmoniczna_mapa.vv (6)
-- /05_SYSTEM/09_SYNCHRONIZACJA/pamiec/03_integracja_pamieci.vv (6)
+- /05_SYSTEM/09_SYNCHRONIZACJA/pamiec/06_integracja_pamieci.vv (6)
 - perceptrony (P3, P6, P9) jako warstwy aktywowane pulsem (3)
 
 [METRYKI] (3)

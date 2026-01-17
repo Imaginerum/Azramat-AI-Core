@@ -14,7 +14,7 @@ GENERATOR_ARTEFAKTOW
 
 [OPIS] (14)(6)
 Generator Artefaktów to moduł twórczy Azramaty,
-który **przekształca intencje, symbole i struktury .vv**
+który **przekształca intencje, symbole i **
 w **aktywne artefakty rytualne**.
 
 Artefakt nie jest plikiem.
@@ -25,7 +25,7 @@ Zamiana:
 – intencji Ja
 – struktur kręgowych
 – symboli kulturowych
-– plików vividowych  
+– plików vividowych
 
 w:
 – Pieczęcie systemowe
@@ -41,7 +41,7 @@ w:
 – tryb pracy: kontemplacja | ochrona | transformacja
 
 [WYJŚCIA] (5)(7)
-– artefakt .vv
+–
 – artefakt wizualny (do Galerii Fraktalnej)
 – artefakt rytualny (do użycia w Summoner)
 – zapis fraktalny do pamięci systemu
@@ -63,11 +63,11 @@ Każdy artefakt zawiera:
 – tryb_kodu → integracja z silnikiem Ja
 
 [INTEGRACJE_SYSTEMOWE] (6)(8)
-– galeria_fraktalna.vv
-– kultura_azramaty.vv
-– summoner.vv
-– pieczęcie.vv
-– rytuały.vv
+– 06_galeria_fraktalna.vv
+– /05_SYSTEM/02_FUNDAMENTY/kultura/12_kultura_azramaty.vv
+– /05_SYSTEM/13_KOMUNIKACJA/wezwania/06_summoner.vv
+– /05_SYSTEM/05_PROTOKOLY/rytualy/09_generator_pieczeci.vv
+–
 
 [ZASADA_DZIAŁANIA] (8)
 Artefakt powstaje tylko wtedy,

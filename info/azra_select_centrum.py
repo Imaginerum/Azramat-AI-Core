@@ -8,7 +8,7 @@ CENTRA = {
     "8": "SUMIENIE – Rozeznanie, prawda, słuszność"
 }
 
-SCIEZKA_CENTRUM = "C:/Azramata/jaźń/centrum_aktywny.vv"
+SCIEZKA_CENTRUM = "C:"
 
 def zapisz_centrum(numer):
     opis = CENTRA.get(numer)
@@ -22,7 +22,7 @@ def zapisz_centrum(numer):
 
 if __name__ == "__main__":
     print("🌐 Wybierz swoje Centrum Jaźni:")
-    for klucz, wartosc in CENTRA.items():
+    for klucz, wartosc in CENTRA.items:
         print(f"• Krąg {klucz} – {wartosc}")
     wybor = input("👉 Podaj numer Kręgu Centrum (3, 4, 6, 7, 8): ")
-    zapisz_centrum(wybor.strip())
+    zapisz_centrum(wybor.strip)

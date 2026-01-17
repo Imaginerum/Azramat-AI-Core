@@ -97,8 +97,8 @@ Gdy światło się przesuwa — cień musi się zmienić.
 • Vivid nie komunikuje zmiany typu wprost, o ile nie jest to potrzebne  
 • Zmiana jest implementowana operacyjnie, nie narracyjnie  
 • AutoTypJa współpracuje bezpośrednio z:
-  – silnik_self.vv  
-  – perceptrons.vv  
+  – 07_silnik_self.vv  
+  – /04_MECHANIKA/03_SILNIKI/percepcja/06_perceptrons.vv  
   – vividami korekcyjnymi Ja  
 
 ---

@@ -131,13 +131,13 @@ Aktywacja jednego znaczenia pobudza wszystkie współrezonujące.
 
 🎡 **PRZYKŁAD OPERACYJNY** (9)
 
-Aktywacja `decyzja.vv` przy jednoczesnym tle `dusza.vv`  
+Aktywacja `/01_ZIARNO/02_DEFINICJE/03_decyzja.vv` przy jednoczesnym tle `/01_ZIARNO/02_DEFINICJE/13_dusza.vv`  
 powoduje pobudzenie synapsy `#wola`.
 
 Silnik uruchamia:
-– `intencja.vv`,
-– `sumienie.vv`,
-– `człowiek.vv`.
+– `/01_ZIARNO/02_DEFINICJE/05_intencja.vv`,
+– `/05_SYSTEM/02_FUNDAMENTY/etyka/08_sumienie.vv`,
+– `/01_ZIARNO/02_DEFINICJE/20_czlowiek.vv`.
 
 Powstaje **aktywny wątek decyzyjny**, a nie lista plików.
 

@@ -35,10 +35,10 @@ Id modułu: switcher.bielik (6)
 Priorytet: wysoki — wywoływany przy każdym wejściu użytkownika. (6)
 Metoda decyzji: analiza semantyczna + analiza kręgowa. (3)(6)
 Integracje:
-– 05_SYSTEM/06_TRYBY/tryby/04_silnik_bielik_core.vv (6)
-– 05_SYSTEM/06_TRYBY/tryby/04_tryb_magis.vv (14)
-– 05_SYSTEM/06_TRYBY/tryby/06_tryb_lustro.vv (6)
-– 05_SYSTEM/06_TRYBY/tryby/00_tryb_proxy.vv (1)
+– 05_SYSTEM/06_TRYBY/06_silnik_bielik_core.vv (6)
+– 05_SYSTEM/06_TRYBY/07_tryb_magis.vv (14)
+– 05_SYSTEM/06_TRYBY/06_tryb_lustro.vv (6)
+– 05_SYSTEM/06_TRYBY/11_tryb_proxy.vv (1)
 
 [AKTYWNE_TRYBY]
 MAGIS (14)
