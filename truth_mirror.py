@@ -1,4 +1,3 @@
-# /mnt/azramat/Azramat-AI-Core/truth_mirror.py
 from dataclasses import dataclass
 import re, math, time
 from typing import Dict, Any, List, Optional

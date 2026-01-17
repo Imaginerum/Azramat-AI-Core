@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# /mnt/azramat/Azramat-AI-Core/web_search.py
 import time, re, html, logging
 from typing import List, Dict, Optional, Iterable
 from urllib.parse import urlparse

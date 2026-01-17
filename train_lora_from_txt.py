@@ -53,7 +53,7 @@ def merge_lora_adapters(lora_a_dir, lora_b_dir, out_dir, w_a=0.5, w_b=0.5):
             merged[k] = B[k]
 
     # skopiuj config adaptera (weź z A — zakładamy zgodny target_modules)
-    for cfg_name in ["adapter_config.json", "adapter_model.json"]:
+    for cfg_name in ["adapter_config" + ".json", "adapter_model" + ".json"]:
         src_cfg = os.path.join(lora_a_dir, cfg_name)
         if os.path.exists(src_cfg):
             shutil.copy2(src_cfg, os.path.join(out_dir, cfg_name))

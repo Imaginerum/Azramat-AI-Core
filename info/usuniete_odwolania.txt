@@ -264,3 +264,8 @@ info/azra_select_centrum.py | /Azramata/jaźń/centrum_aktywny.vv
 08_EKONOMIA/13_MECHANIZMY/ekonomia/44_wektor_kontrybucji.vv | /profile/WK.js
 03_TOZSAMOSC/02_TOZSAMOSC/rytualy/cisza_engine.py | /Azramata/vividy/reset_świadomości.vv
 09_PRZYSZLOSC/18_MISJE/19_misje_struktura.vv | dokumentów.vv
+train_lora_from_txt.py | adapter_config.json
+train_lora_from_txt.py | adapter_model.json
+truth_mirror.py | /mnt/azramat/Azramat-AI-Core/truth_mirror.py
+kreg_vectorizer.py | /mnt/azramat/Azramat-AI-Core/kreg_vectorizer.py
+web_search.py | /mnt/azramat/Azramat-AI-Core/web_search.py

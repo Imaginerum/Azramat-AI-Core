@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# /mnt/azramat/Azramat-AI-Core/kreg_vectorizer.py
 import time, math
 from typing import List, Dict, Tuple
 from dataclasses import dataclass

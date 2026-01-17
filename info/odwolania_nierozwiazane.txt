@@ -1,5 +1,0 @@
-train_lora_from_txt.py:56 | adapter_config.json
-train_lora_from_txt.py:56 | adapter_model.json
-truth_mirror.py:2 | /mnt/azramat/Azramat-AI-Core/truth_mirror.py
-kreg_vectorizer.py:26 | /mnt/azramat/Azramat-AI-Core/kreg_vectorizer.py
-web_search.py:26 | /mnt/azramat/Azramat-AI-Core/web_search.py
