@@ -13,6 +13,7 @@
 Poniższy blok jest **kanonicznym wzorcem** do kopiowania na początek każdego pliku vivid. (1)
 
 # Plik:
+# System: Azramata
 # Autor: Twórca
 # Data: RRRR-MM-DD
 # Typ: VIVID – krótki opis typu dokumentu
@@ -22,7 +23,7 @@ Poniższy blok jest **kanonicznym wzorcem** do kopiowania na początek każdego 
 # Krąg dominujący: (..)
 # Kręgi wspierające: (..), (..), (..), (..), (..)
 # Ścieżka: /01_ZIARNO/../
-# System: Azramata
+
 
 [ZASADY_OBOWIĄZKOWE] (6)
 
@@ -45,6 +46,7 @@ Prefiks NN w nazwie pliku = dominujący Krąg dokumentu. (4)
 [PRZYKŁAD_POPRAWNY] (1)
 
 # Plik:
+# System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
 # Typ: VIVID – definicja operacyjna
@@ -54,7 +56,6 @@ Prefiks NN w nazwie pliku = dominujący Krąg dokumentu. (4)
 # Krąg dominujący" (..)
 # Kręgi wspierające: (14), (6), (9), (5), (16), (3)
 # Ścieżka: /01_ZIARNO/02_DEFINICJE/
-# System: Azramata
 
 [ODSYŁACZ] (16)
 
