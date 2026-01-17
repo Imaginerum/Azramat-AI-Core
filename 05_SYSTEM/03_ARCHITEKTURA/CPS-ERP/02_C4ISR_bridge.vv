@@ -154,7 +154,7 @@ C4ISR Bridge generuje pakiet:
 C4ISR_BRIDGE_PACKET:
 • operational_event,
 • kreg_level,
-• nitka_balance,
+• nitka_stabilizacji,
 • sq_effect,
 • recommended_action,
 • perception_risk,

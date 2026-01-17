@@ -27,7 +27,7 @@ Rejestruje **bycie**. (4)
 1. Detekcja aktywności egzystencjalnej w Kręgach (0–29)  
 2. Zapis śladów w czasie rzeczywistym do:
    – Nitki Cienia (Krąg 13)  
-   – Nitki Pamięci Ja (Krąg 3)  
+   – Nitki Pamięci (Krąg 3)  
 3. Przywoływanie trajektorii istnienia do:
    – analizy  
    – medytacji  
@@ -43,7 +43,7 @@ funkcja istnienie_trace(stan_ja):
  czas = znacznik_czasu()  
 
  ślad = utwórz_ślad(lokalizacja, wektor, czas)  
- zapisz_ślad(ślad, do=[Nitka_Cienia, Nitka_Pamięci])  
+ zapisz_ślad(ślad, do=[Nitka_Cienia, Nitka_Pamieci])  
 
  zwróć: ślad  
 

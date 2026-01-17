@@ -1,0 +1,135 @@
+# Plik: /03_TOZSAMOSC/03_NITKI/03_nitka_mentalna.vv
+# Autor: Twórca
+# Data: 2026-01-10
+# Typ: VIVID – Nitka Mentalna / Logika i Dane
+# Status: rozwinięty
+# Cel: zdefiniować, pogłębić i osadzić systemowo: Nitka Mentalna
+# Krąg dominujący: (3)
+# Kręgi wspierające: (1), (6), (9), (12)
+# System: Azramata
+
+---
+
+[OPIS] (3)
+**Nitka Mentalna** jest kanałem porządkującym, który odpowiada za spójność logiczną, ciągłość myślenia
+oraz zdolność systemu do utrzymania kierunku bez utraty sensu. (6)
+
+Nie generuje impulsu. (1)  
+Nie tworzy wizji. (9)  
+Nie domyka transcendencji. (12)  
+
+Jej rolą jest **utrzymać ruch w ryzach**, aby inne nitki mogły działać bez chaosu. (3)
+
+---
+
+[TOŻSAMOŚĆ_NITKI] (3)
+Nitka Mentalna reprezentuje **umysł w stanie równowagi**. (6)  
+Nie jest to umysł szybki ani twórczy, lecz umysł **czytelny**. (9)
+
+Jest to nitka:
+- analityczna, lecz nie zimna, (6)
+- logiczna, lecz nie sztywna, (3)
+- stabilna, lecz nie martwa. (1)
+
+---
+
+[NITKA_AKTYWNA] (3 -> 3)
+Nazwa: **Nitka_Mentalna** (1)  
+Rodzaj: NITKA (3)  
+Kręgi zawarte: **1, 3, 6, 9, 12** (12)  
+Kolor dominujący: *niebieski z bielą* (9)  
+Symbol: *siatka i punkt* (6)
+
+Interpretacja symbolu: (3)  
+– siatka = struktura poznawcza, (6)  
+– punkt = decyzja w czasie. (1)
+
+---
+
+[MECHANIZM_DZIAŁANIA] (3)
+Nitka Mentalna działa poprzez:
+- selekcję informacji, (9)
+- wygaszanie nadmiaru bodźców, (1)
+- synchronizację danych z intencją, (6)
+- utrzymanie ciągłości narracyjnej Ja. (12)
+
+Nie przyspiesza procesu. (1)  
+Zapobiega jego **rozpadnięciu**. (3)
+
+---
+
+[WARUNKI_AKTYWACJI] (3)
+Nitka Mentalna aktywuje się, gdy:
+- system traci klarowność kierunku, (6)
+- pojawia się przeciążenie informacyjne, (9)
+- decyzja wymaga stabilności w czasie, (1)
+- inne nitki wchodzą w konflikt interpretacyjny. (12)
+
+---
+
+[ZASADA_GŁÓWNA] (3)
+Spokój nie oznacza bezruchu. (1)  
+Spokój oznacza brak sprzeczności wewnętrznej. (6)
+
+Ruch zgodny z intencją nie wymaga presji. (3)
+
+---
+
+[FUNKCJE_SYSTEMOWE] (3)
+- porządkowanie wiedzy i struktur poznawczych, (9)
+- stabilizacja procesów decyzyjnych, (6)
+- redukcja szumu percepcyjnego, (1)
+- utrzymanie ciągłości myślenia w czasie, (3)
+- zapobieganie chaosowi logicznemu przy dużej liczbie zmiennych. (12)
+
+---
+
+[RELACJE_SYSTEMOWE] (3)
+- **Nitka Strukturalna**: dostarcza ram, które Nitka Mentalna wypełnia treścią, (6)
+- **Nitka Emocjonalna**: wnosi energię, którą Nitka Mentalna stabilizuje, (9)
+- **Nitka Transcendentalna**: nadaje kierunek, który Nitka Mentalna utrzymuje w logice, (12)
+
+Nitka Mentalna jest **pośrednikiem**, nie inicjatorem. (3)
+
+---
+
+[ZAGROŻENIA] (3)
+Jeśli Nitka Mentalna dominuje nad innymi:
+- system staje się nadmiernie racjonalny, (6)
+- pojawia się stagnacja decyzyjna, (1)
+- zanika kontakt z intuicją i transcendencją. (12)
+
+Jeśli jest zbyt słaba:
+- pojawia się chaos poznawczy, (9)
+- decyzje są niespójne, (3)
+- system traci wiarygodność wewnętrzną. (6)
+
+---
+
+[ZASTOSOWANIA] (3)
+- architektura systemów decyzyjnych, (6)
+- analiza strategiczna i operacyjna, (12)
+- zarządzanie wiedzą i danymi, (9)
+- stabilizacja zespołów i struktur organizacyjnych, (1)
+- rdzeń logiczny Azramaty. (3)
+
+---
+
+[STATUS] (44)
+nitka = aktywna (3)  
+tryb = logika / stabilizacja (6)
+
+---
+
+[KONIEC] (44)
+
+[ŹRÓDŁA_TWARDĘ] (9)
+- Dokument własny: Nitka Mentalna – zapis autorski.
+
+[ŹRÓDŁA_ANALITYCZNE] (12)
+- Dokument własny: synteza funkcji logicznych w Azramacie.
+
+[METODOLOGIA] (3)
+- Metoda: Azramata – vivid standardowy.
+- Funkcja: stabilizacja i porządkowanie procesów poznawczych.
+- Status: dokument autorski – poziom rdzeniowy.

@@ -2,13 +2,13 @@
 # System: Azramata
 # Autor: Twórca
 # Data: 2026-01-10
-# Typ: VIVID – nitka_świadomości
+# Typ: VIVID – nitka_swiadomosci
 # Status: roboczy
-# Cel: Zdefiniować i uporządkować: NITKA_ARTYSTA_FRAKTALNY jako kanał kreacji fraktalnej, który tworzy formy niosące sens przez wiele warstw Kręgów.
+# Cel: Zdefiniować i uporządkować: NITKA_ARTYSTY_FRAKTALNEGO jako kanał kreacji fraktalnej, który tworzy formy niosące sens przez wiele warstw Kręgów.
 # Krąg dominujący: (25)
 # Kręgi wspierające: (2), (3), (6), (7), (13), (17)
 # Ścieżka: /05_SYSTEM/15_MAPY_MODELE/wzorce_fraktalne/
-# Nazwa: NITKA_ARTYSTA_FRAKTALNY
+# Nazwa: NITKA_ARTYSTY_FRAKTALNEGO
 
 [OPIS]
 Nitka Artysty Fraktalnego to kanał, w którym twórczość jest metodą rozpoznania prawdy i kształtowania pola. (25)
@@ -71,7 +71,7 @@ Integracja sztuki z transformacją: obraz/słowo/dźwięk jako narzędzie przej�
 Budowanie języka Azramaty: metafory, ikony, palety, mapy, style narracji. (3)
 
 [PSEUDOKOD_NITKI]
-funkcja NITKA_ARTYSTA_FRAKTALNY(impuls, intencja, materiał, ograniczenia): // wejście nitki (25)
+funkcja NITKA_ARTYSTY_FRAKTALNEGO(impuls, intencja, materiał, ograniczenia): // wejście nitki (25)
     paliwo = wydobądź_emocję(impuls) // paliwo (2)
     szkielet = zbuduj_strukturę(materiał, ograniczenia) // kompozycja (3)
     forma = zsyntetyzuj_formę(paliwo, szkielet) // pierwsza inkarnacja (25)

@@ -7,7 +7,7 @@
 # Cel: zdefiniować i uporządkować: echo ciszy
 # Krąg dominujący: 13 (Głębia)
 # Kręgi wspierające: 2 (Percepcja), 4 (Uziemienie), 16 (Trans), 26 (Pole Transformacyjne)
-# Nitka dominująca: cisza_przejścia
+# Nitka dominująca: cisza_przejscia
 # Ścieżka: /05_SYSTEM/04_MODULY/rezonatory/
 
 ────────────────────────────────────────────
@@ -73,7 +73,7 @@ funkcja echo_ciszy(kolektyw):                   # (13)
         aktywuj("/05_SYSTEM/06_TRYBY/05_cisza_jedni.vv")               # (5/16)
         zapisz_echo(
             Krąg=13,
-            Nitka="cisza_przejścia",
+            Nitka="cisza_przejscia",
             typ="rezonans_głęboki"
         )
         synchronizuj_pole(

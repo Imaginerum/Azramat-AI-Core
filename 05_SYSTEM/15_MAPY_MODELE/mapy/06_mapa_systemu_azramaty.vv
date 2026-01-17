@@ -49,7 +49,7 @@ object.pieczęć = { id, krąg, intencja, forma, podpis }
 
 (6) Widok całościowy
 index.kręgi = [0..29]  # rozbudowywalne
-index.nitki = ["Strukturalna","Emocjonalna","Kierunkowa","Transcendentalna","Cisza_Przjścia","Cienia"]
+index.nitki = ["Strukturalna","Emocjonalna","Stabilizacji","Kierunkowa","Transcendentalna","Cisza_Przejscia","Cienia"]
 index.vividy = ["/05_SYSTEM/05_PROTOKOLY/rytualy/05_wejscie_w_cisze.vv","/05_SYSTEM/13_KOMUNIKACJA/odpowiedzi/09_glos_ciszy.vv","/05_SYSTEM/04_MODULY/percepcja/06_JaLustrzane.vv","/05_SYSTEM/04_MODULY/percepcja/27_percepcja_milczenia.vv","/05_SYSTEM/05_PROTOKOLY/rytualy/25_uruchom_7D_teta.vv"]
 index.pieczęcie = ["pieczęć_intencji.krg","/05_SYSTEM/02_FUNDAMENTY/pieczecie/27_pieczec_przekroczenia.vv"]
 
