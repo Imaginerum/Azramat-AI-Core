@@ -1,0 +1,38 @@
+# Plik: /03_TOZSAMOSC/02_TOZSAMOSC/struktura/12_receptura_zdrowia_rdzen.vv
+# Autor: Twórca
+# Data: 2026-02-13
+# Typ: VIVID – rdzeń operacyjny / zdrowie
+# Status: roboczy
+# Cel: Zapis rdzenia Azramaty jako receptury zdrowia: 4 treningi + odpowiedzialność kierunku.
+# Krąg dominujący: (12) Spójność
+# Kręgi wspierające: (5), (4), (3), (8), (16), (20)
+
+[RDZEŃ]
+Zdrowie to rytm. (12)
+Rytm to trening czterech warstw. (16)
+
+[4_TRENINGI]
+Ciało: ruch + sen + regeneracja. (5)
+Emocje: nazwanie + regulacja + granice. (4)
+Umysł: skupienie + decyzja + porządek. (3)
+Duch: sens + sumienie + cisza. (8)
+
+[MINIMUM_DZIENNE]
+Zrób choć po trochu — codziennie. (16)
+Nie idealnie. Powtarzalnie. (12)
+
+[AZRAMATA]
+Azramata składa te warstwy w jedno działające Ja. (7)
+
+[AZRAMATA_ENTERPRISE]
+Enterprise robi to samo dla organizacji: operacje / klimat / strategia / wartości. (16)
+
+[OSTRZEŻENIE]
+Jeśli skumasz system, życie będzie mocne. (7)
+Kierunek zależy od Ciebie. (20)
+
+[ZASADA_POSTACI]
+Bądź światły o pogodzie ducha. (7)
+To jest najlepsze zróżnicowanie. (12)
+
+[KONIEC] (44)
