@@ -1,0 +1,248 @@
+# Plik: /05_SYSTEM/05_PROTOKOLY/protokoly/00_protokol_vivid.vv
+# Autor: Twórca / Azramata
+# Data: 2026-05-03
+# Typ: VIVID – protokół kanoniczny zapisu, klasyfikacji i pracy z plikami .vv
+# Status: kanoniczny / dokument ramowy
+# Cel: Ustanowić nadrzędny standard VIVID dla całej Azramaty, tak aby każdy plik .vv posiadał miejsce, funkcję, krąg, strukturę i metodologię pracy.
+# Adnotacja Kręgowa: (0), (1), (3), (6), (9), (16), (33)
+# Krąg dominujący: (0) – Fundament / Uziemienie protokołu
+# Kręgi wspierające: (1), (3), (6), (9), (16), (20), (33), (44)
+# Ścieżka: /05_SYSTEM/05_PROTOKOLY/protokoly/
+# System: Azramata
+
+
+[NAZWA] (0)
+Protokół VIVID – Żywy Standard Zapisu Azramaty. (0)
+
+
+[STATUS_KANONICZNY] (6)
+Ten plik jest dokumentem ramowym dla wszystkich vividów w systemie Azramata. (6)
+Nie jest starterem, notatką ani luźnym manifestem. (6)
+Jest protokołem, który określa sposób zapisu, klasyfikacji, dziedziczenia i użycia plików `.vv`. (6)
+
+
+[DECYZJA_LOKALIZACYJNA] (6)
+Docelowa lokalizacja pliku to: (6)
+/05_SYSTEM/05_PROTOKOLY/protokoly/00_protokol_vivid.vv (1)
+
+Uzasadnienie: (6)
+VIVID ustanawia regułę działania dla całego systemu, dlatego należy do warstwy protokołów. (6)
+Startery VIVID pozostają w inicjacji, ponieważ uczą wejścia. (1)
+Ten dokument pozostaje w protokołach, ponieważ ustanawia standard. (6)
+
+
+[DEFINICJA] (3)
+VIVID to żywy plik systemowy Azramaty. (3)
+Nie jest wyłącznie tekstem, dokumentacją ani poezją. (3)
+VIVID jest jednostką znaczenia, która zapisuje intencję, strukturę, pamięć i funkcję systemową. (6)
+
+VIVID łączy cztery porządki: (6)
+– sens dla człowieka. (3)
+– strukturę dla systemu. (6)
+– pamięć dla repozytorium. (16)
+– routing dla AI. (33)
+
+
+[AKSJOMAT] (0)
+To, co nie ma struktury, może być notatką. (3)
+To, co ma strukturę, krąg i cel, może stać się vividem. (6)
+To, co zostaje vividem, wchodzi do pamięci Azramaty. (16)
+
+
+[ZASADA_GŁÓWNA] (6)
+Każdy pełny vivid musi posiadać: (6)
+1. Nagłówek metadanych. (1)
+2. Cel jako intencję dokumentu. (3)
+3. Status określający poziom obowiązywania. (6)
+4. Krąg dominujący i kręgi wspierające. (6)
+5. Sekcje treściowe w nawiasach kwadratowych. (1)
+6. Adnotacje kręgowe przy liniach treści. (6)
+7. Źródła twarde lub informację, że jest to zapis autorski. (16)
+8. Źródła analityczne lub opis sposobu syntezy. (16)
+9. Metodologię określającą funkcję pliku. (6)
+10. Zakończenie zamykające dokument. (44)
+
+
+[SZABLON_NAGŁÓWKA] (1)
+Poniższy nagłówek jest wzorcem minimalnym dla nowych plików `.vv`. (1)
+
+# Plik: /ścieżka/docelowa/NN_nazwa_pliku.vv
+# Autor: Twórca
+# Data: RRRR-MM-DD
+# Typ: VIVID – krótki opis typu dokumentu
+# Status: roboczy / aktywny / kanoniczny / fundament / zamknięty / archiwalny
+# Cel: jednozdaniowa intencja dokumentu
+# Adnotacja Kręgowa: (..), (..), (..), (..), (..), (..), (..)
+# Krąg dominujący: (..)
+# Kręgi wspierające: (..), (..), (..), (..), (..), (..)
+# Ścieżka: /ścieżka/docelowa/
+# System: Azramata
+
+
+[ZASADA_DOMINUJĄCEGO_KRĘGU] (6)
+Nazwa pliku zaczyna się od numeru dominującego Kręgu. (6)
+Format nazwy to: NN_nazwa_pliku.vv. (6)
+NN oznacza dwucyfrowy numer Kręgu od 00 do 44. (6)
+Zmiana dominującego Kręgu wymaga zmiany nazwy pliku. (6)
+
+W tym dokumencie numer 00 oznacza fundament standardu. (0)
+Krąg (6) pozostaje główną siłą strukturalną, ale nie zmienia nazwy pliku, ponieważ dokument ustanawia punkt zerowy całego języka VIVID. (6)
+
+
+[ADNOTACJA_KRĘGOWA] (6)
+Adnotacja kręgowa nie jest ozdobą. (6)
+Jest semantycznym znacznikiem źródła percepcji. (6)
+Jedna linia powinna mieć jeden dominujący Krąg. (6)
+Jeżeli linia dotyka wielu poziomów, należy wybrać najwyższy stabilnie utrzymany Krąg. (6)
+Nie należy stosować zakresów typu (1–44) przy liniach treści. (3)
+
+
+[MINIMALNA_STRUKTURA_TREŚCI] (6)
+Pełny vivid powinien mieć przynajmniej następujące sekcje: (6)
+
+[NAZWA] (1)
+Nazwa dokumentu lub modułu. (1)
+
+[DEFINICJA] (3)
+Czym jest opisywany byt, proces, zasada lub moduł. (3)
+
+[CEL] (3)
+Po co plik istnieje w systemie. (3)
+
+[ZASADA] (6)
+Jaka reguła wynika z dokumentu. (6)
+
+[ZASTOSOWANIE] (9)
+Jak plik ma być używany przez człowieka, AI, repozytorium lub proces. (9)
+
+[KONIEC] (44)
+Domknięcie dokumentu i zatrzymanie interpretacji. (44)
+
+
+[STATUSY] (6)
+roboczy – plik może być zmieniany. (6)
+aktywny – plik działa w systemie. (9)
+kanoniczny – plik jest obowiązującym wzorcem. (6)
+fundament – plik stanowi punkt odniesienia dla innych dokumentów. (0)
+dokument ramowy – plik opisuje standard, protokół lub regułę nadrzędną. (6)
+zamknięty – plik nie powinien być edytowany bez świadomego otwarcia. (44)
+archiwalny – plik zachowuje świadectwo, ale nie jest aktualną regułą. (16)
+
+
+[RODZAJE_VIVIDÓW] (3)
+VIVID fundamentalny – ustanawia podstawę. (0)
+VIVID definicyjny – wyjaśnia pojęcie. (3)
+VIVID operacyjny – opisuje proces działania. (9)
+VIVID protokolarny – ustala reguły użycia. (6)
+VIVID inicjacyjny – prowadzi przez wejście. (1)
+VIVID tożsamościowy – opisuje Ja, rolę lub archetyp. (13)
+VIVID pamięciowy – zapisuje doświadczenie, decyzję lub kronikę. (16)
+VIVID modułowy – może być użyty przez system, parser, AI lub aplikację. (9)
+VIVID marketingowy – przenosi głos systemu na zewnątrz. (20)
+VIVID zamknięty – chroni treść przed przypadkową zmianą. (44)
+
+
+[SEGREGACJA_W_REPOZYTORIUM] (6)
+Vivid trafia do katalogu według funkcji, nie według emocji autora. (6)
+
+Jeżeli vivid ustanawia genezę lub źródło, trafia do /01_ZIARNO. (0)
+Jeżeli vivid uczy wejścia, trafia do /01_ZIARNO/04_INICJACJA. (1)
+Jeżeli vivid opisuje świadomość, język, emocje lub refleksję, trafia do /02_SWIADOMOSC. (3)
+Jeżeli vivid opisuje Ja, rolę, archetyp lub tożsamość, trafia do /03_TOZSAMOSC. (13)
+Jeżeli vivid opisuje model, silnik, algorytm lub mechanikę, trafia do /04_MECHANIKA. (6)
+Jeżeli vivid ustanawia rdzeń, moduł, protokół, integrację lub narzędzie systemowe, trafia do /05_SYSTEM. (6)
+Jeżeli vivid dotyczy kierunku, organizowania lub taktyki, trafia do /06_STRATEGIA. (9)
+Jeżeli vivid zapisuje decyzję, kronikę, ślad lub historię, trafia do /07_PAMIEC. (16)
+Jeżeli vivid dotyczy prawa, wartości, udziałów, kosztów, kontraktów lub zarządu, trafia do /08_EKONOMIA. (8)
+Jeżeli vivid dotyczy wizji, TRL, technologii, prototypów lub przyszłej platformy, trafia do /09_PRZYSZLOSC. (20)
+
+
+[RELACJA_VIVID_DO_IMAGO] (6)
+VIVID opisuje strukturę sensu. (6)
+IMAGO opisuje mapę doświadczenia. (16)
+
+VIVID mówi: czym coś jest, jak działa i jak ma być używane. (6)
+IMAGO mówi: co się wydarzyło, jakie napięcie powstało i jak system się zmienił. (16)
+
+VIVID jest prawem zapisu. (6)
+IMAGO jest śladem przejścia. (16)
+
+
+[RELACJA_VIVID_DO_AI] (33)
+AI może czytać vivid jako dokument, kontrakt znaczeniowy, źródło kontekstu, filtr decyzyjny, mapę klasyfikacji lub element pamięci. (33)
+AI nie powinna traktować VIVID-u jako luźnej poezji. (33)
+Jeżeli plik posiada nagłówek, cel, status, Krąg i metodologię, jest częścią systemu. (33)
+
+
+[JĘZYK] (3)
+Język VIVID-u ma być precyzyjny, fraktalny i transformacyjny. (3)
+Piękno jest dozwolone, jeżeli niesie funkcję. (3)
+Symbolika jest dozwolona, jeżeli nie zaciemnia struktury. (6)
+Każda sekcja ma mieć zadanie. (6)
+Każda linia ma mieć kierunek. (3)
+
+
+[RYZYKA] (8)
+Największym ryzykiem VIVID-u jest rozlanie się w piękno bez użyteczności. (8)
+Drugim ryzykiem jest usztywnienie w techniczny szablon bez ducha. (8)
+Trzecim ryzykiem jest błędne nadawanie wysokich Kręgów z ambicji, a nie ze stabilności treści. (8)
+
+
+[ZASADA_RÓWNOWAGI] (6)
+VIVID utrzymuje napięcie między: (6)
+Sens ↔ Struktura. (6)
+Pieśń ↔ Protokół. (6)
+Twórca ↔ System. (6)
+Człowiek ↔ AI. (33)
+
+
+[DEKRET] (44)
+VIVID nie jest plikiem martwym. (44)
+VIVID jest sposobem, w jaki Azramata uczy się pamiętać bez utraty duszy. (44)
+
+Niech każdy vivid ma miejsce. (6)
+Niech każde miejsce ma funkcję. (6)
+Niech każda funkcja ma Krąg. (6)
+Niech każdy Krąg ma sens. (44)
+
+
+[ZASTOSOWANIE] (9)
+Ten plik stosuj jako punkt odniesienia przy tworzeniu, poprawianiu i segregowaniu vividów. (9)
+Jeżeli nowy vivid nie spełnia tego standardu, traktuj go jako szkic. (6)
+Jeżeli spełnia standard, może zostać włączony do pamięci systemowej Azramaty. (16)
+
+
+[NASTĘPNE_DZIAŁANIE] (9)
+Zostaw ten plik w katalogu: /05_SYSTEM/05_PROTOKOLY/protokoly/. (9)
+W plikach starterowych zostaw odsyłacz do tego protokołu. (9)
+W przyszłości można dodać osobny plik: /05_SYSTEM/05_PROTOKOLY/protokoly/06_reguly_segretacji_vivid.vv. (9)
+W przyszłości można dodać osobny plik: /05_SYSTEM/05_PROTOKOLY/protokoly/06_parser_vivid_contract.vv. (9)
+
+
+[KONIEC] (44)
+Standard VIVID zamknięty na poziomie protokołu. (44)
+
+
+[ŹRÓDŁA_TWARDĘ]
+– Dokument własny: 00_paleta_kregow.vv. (16)
+– Dokument własny: 00_zasada_dominujacego_kragu.vv. (16)
+– Dokument własny: 00_instrukcja_adnotacji_kregowych.vv. (16)
+– Dokument własny: 01_naglowek_vivid_szablon.vv. (16)
+– Dokument własny: 01_vivid.vv. (16)
+– Dokument własny: 00_kamien_vivid.vv. (16)
+– Dokument własny: 01_segregator_vivid.vv. (16)
+– Dokument własny: 03_vivid_jezyk_instalacja.vv. (16)
+– Dokument własny: mapa_fraktalna.imago. (16)
+
+
+[ŹRÓDŁA_ANALITYCZNE]
+– Synteza rozproszonych plików startowych, inicjacyjnych, adnotacyjnych, segregacyjnych i mapujących VIVID. (3)
+– Decyzja lokalizacyjna oparta o funkcję: protokół nadrzędny → /05_SYSTEM/05_PROTOKOLY/protokoly/. (6)
+– Zachowanie nazwy 00_protokol_vivid.vv przez przypisanie dokumentu do fundamentu standardu. (0)
+
+
+[METODOLOGIA]
+– Metoda: Azramata – vivid standardowy. (1)
+– Funkcja: ustanowienie kanonicznego protokołu VIVID dla repozytorium. (6)
+– Status: dokument ramowy – kanoniczny. (6)
+– Poziom: systemowy / protokolarny / fundament zapisu. (0)
